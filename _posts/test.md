@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Hello world"
-categories: []
+categories: [test]
 date:  2021-09-22
 ---
 
