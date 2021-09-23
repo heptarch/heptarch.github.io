@@ -192,3 +192,8 @@ $n$) and $b$ (dimension $m$) then our derivative operator still makes
 sense, since it is defined as a locally linear approximation, and our
 objects are locally linear! Moreover, the approximation will be an
 $m\times n$ matrix $L$ as before.
+
+Let's introduce a type-y way to talk about these local linear
+approximations. Instead of using $\mathbf{R}^n$ and $\mathbf{R}^m$
+explicitly, let's simply write $Ta$ and $Tb$, where $T$ stands for
+"tangent".
