@@ -16,6 +16,7 @@ date:  2021-09-22
 2. <a href="#sec-2">Derivatives as local linear approximations</a>
 3. <a href="#sec-3">The type signature</a>
 4. <a href="#sec-4">Locally linear objects</a>
+5. <a href="#sec-5">The chain rule</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -252,3 +253,5 @@ $$
 $$
 
 which is, as we expect, a linear map between vector spaces.
+
+## The chain rule<a id="sec-5" name="sec-5"></a>
