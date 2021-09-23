@@ -282,7 +282,7 @@ Note that on the last line, we used the fact that the complicated
 expression
 
 $$
-\mathcal{D}(f, g(\mathbf{x}_0)) o(h) + o(\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h))
+\mathcal{D}(f, g(\mathbf{x}_0)) o(h) + o(|\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)|)
 $$
 
 is itself $o(h)$, since acting on a vanishingly small vector with a
