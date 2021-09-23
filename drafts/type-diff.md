@@ -166,7 +166,7 @@ where $\to_{\text{L}}$ indicates a linear map from
 $\mathbb{R}^n$ to $\mathbb{R}^m$, or equivalently, an $m \times n$
 matrix. Replacing $\mathbb{R}^n$ and $\mathbb{R}^m$ with arbitrary
 input types $a$ and $b$, we arrive at Elliott's proposed type
-signature of differentiation:
+signature for differentiation:
 
 $$
 \mathcal{D} :: (a \to b) \to (a \to
@@ -176,7 +176,19 @@ $$
 Why replace $\mathbb{R}^n$ and $\mathbb{R}^m$ with these new
 types $a$ and $b$? For Elliott, I think this is a Haskell
 convention. But there is an even better reason: much more general
-objects that can appear here and be sensibly differentiated upon!
+objects can appear here and be sensibly differentiated upon!
 
 ## Locally linear objects<a id="sec-4" name="sec-4"></a>
 
+I will call these more general objects *locally linear*, though in
+technical parlance they are *manifolds*. The basic structure is as
+follows. If $a$ is locally linear, then at each point in $a$, there is
+a nearby region which resembles part of $\mathbb{R}^n$, for some fixed
+$n$ called the *dimension*. In particular, each nearby point gets
+assigned to a vector $\mathbf{h} \in \mathbb{R}^n$. There are other
+technical conditions I won't get into. The main point is that if I
+have a function $f: a \to b$ for locally linear objects $a$ (dimension
+$n$) and $b$ (dimension $m$) then our derivative operator still makes
+sense, since it is defined as a locally linear approximation, and our
+objects are locally linear! Moreover, the approximation will be an
+$m\times n$ matrix $L$ as before.
