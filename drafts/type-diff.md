@@ -262,7 +262,7 @@ ways. Automatic differentiation (AD) is the art of efficiently
 decomposing the complicated thing back into the simple things we know
 how to differentiate.
 
-For our purposes, the most important technique will be the *chain
+The most important technique will be the *chain
 rule*, which tells us how to differentiate a compositon of functions
 $f \circ g$ in terms of the derivatives of $f$ and $g$. As above, let
 $\mathcal{D}(f, x)$ denote the derivative of a function $f$ at a point $x$.
