@@ -2,15 +2,16 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Search as state preparation"
+title:  "Search as basis embedding"
 categories: [QC, quantum, physics]
 date:  2021-09-22
 ---
 
-**April 6, 2020.** *If you throw too many electrons into a box, it
-  collapses under its own weight to form a black hole. But how many is
-  too many? We will hack our way towards an order-of-magnitude
-  estimate, and comment on the implications for astrophysics.*
+**September 22, 2021.** *Grover search can be recast as a problem of
+  basis embedding, where instead of searching for a superposition of
+  basis states, we are encoding classical information as that
+  superposition. Using an implementation of Grover search, we can
+  therefore give a basis embedding circuit which is in some sense optimal.*
 
 ### Contents
 
