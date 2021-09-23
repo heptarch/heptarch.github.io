@@ -2,8 +2,8 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Search as basis embedding"
-categories: [QC, quantum, physics]
+title:  "Types of derivative"
+categories: [ML, mathematics]
 date:  2021-09-22
 ---
 
