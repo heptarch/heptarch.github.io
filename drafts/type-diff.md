@@ -24,10 +24,8 @@ In his lovely paper ["The Simple Essence of Automatic Differentiation"](https://
 explains what differentiation is in the language of types. He then
 augments this type to provide a more efficient means for performing
 automatic differentiation (AD). [I'll explain what these terms mean in more detail
-below.] This is important because automatic differentiation is an
-essential part of computational tasks like deep learning.
-
-As nice as this paper is, there is an ugly, ad hoc constraint
+below.] This is important because automatic differentiation is used in
+hard computational tasks like deep learning. As nice as this paper is, there is an ugly, ad hoc constraint
 in the type signature, where certain maps are restricted to be
 linear "by hand". This restriction should really be reflected in the type
 signature itself, and indeed, this is essential if we want to do AD on
@@ -256,3 +254,11 @@ $$
 which is, as we expect, a linear map between vector spaces.
 
 ## The chain rule<a id="sec-5" name="sec-5"></a>
+
+Let's return to the problem motivating the introduction of type
+signatures, namely that we want to differentiate things symbolically
+with a computer. We might have rules for a few simlpe functions, but
+then we will combine them together in complicated ways. There are
+rules which tell us how  to break these complicated derivatives down
+into simple derivatives, the most important of which (for our
+purposes) is the *chain rule*.
