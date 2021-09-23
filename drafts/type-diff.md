@@ -14,7 +14,8 @@ date:  2021-09-22
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">What is differentiation?</a>
+2. <a href="#sec-2">Derivatives as local linear approximations</a>
+2. <a href="#sec-3">The type signature</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -32,7 +33,7 @@ signature itself, and indeed, this is essential if we want to do AD on
 more interesting objects. The goal of this post is to update the type
 signature and see how the essence of automatic differentiation changes.
 
-## What is differentiation? <a id="sec-2" name="sec-2"></a>
+## Derivatives as local linear approximations<a id="sec-2" name="sec-2"></a>
 
 What is differentiation, really? We learn in our first calculus class
 that it is the slope of the tangent line at a point:
@@ -107,6 +108,7 @@ direction is $f'_y$, we can define the derivative as
 
 $$
 f(x_0 + h_x, y_0 + h_y) = f(x_0, y_0) + (h_xf'_x + h_y f'y) + o(h),
+\tag{3}\label{diff3}
 $$
 
 so that moving only in the $x$ direction picks out the $x$ slope, and
@@ -121,3 +123,22 @@ h_xf'_x + h_y f'y = [f'_x, f'_y]
 h_x \\ h_y
 \end{bmatrix}.
 $$
+
+The vector $L = [f'_x, f'_y]$ is a way of specifying the plane!
+If we use vector notation $\mathbf{x} = (x, y)$ and $L$ for the vector
+describing the plane, then (\ref{diff3}) becomes
+
+$$
+f(\mathbf{x}_0 + \mathbf{h}) = f(\mathbf{x}_0) + L\mathbf{h} + o(h).
+$$
+
+In fact, this definition generalizes to any old function $f:
+\mathbf{R}^n \to \mathbf{R}^m$, where our vectors $\mathbf{x}_0,
+\mathbf{h} \in \mathbb{R}^n$ and $L$ is an $m \times n$ matrix. The
+restriction that the error is $o(h)$ ensures that, when the derivative
+exists, it is unique.
+We can think of $L$ as a linear object generalizing the plane, which
+describes the function $f(\mathbf{x})$ locally. Thus, a derivative is
+a *local linear approximation*.
+
+## The type signature<a id="sec-3" name="sec-3"></a>
