@@ -2,13 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Automatic differentation on locally linear objects"
+title:  "Bla bla"
 categories: [ML, mathematics, programming]
 date:  2021-09-22
 ---
 
-**September 23, 2021.** *I discuss automatic differentation on manifolds and other
-  locally linear objects.*
+**September 23, 2021.** *Bla*
 
 ### Contents
 
@@ -255,10 +254,48 @@ which is, as we expect, a linear map between vector spaces.
 
 ## The chain rule<a id="sec-5" name="sec-5"></a>
 
-Let's return to the problem motivating the introduction of type
-signatures, namely that we want to differentiate things symbolically
-with a computer. We might have rules for a few simlpe functions, but
-then we will combine them together in complicated ways. There are
-rules which tell us how  to break these complicated derivatives down
-into simple derivatives, the most important of which (for our
-purposes) is the *chain rule*.
+Let's return to the problem of symbolic differentiation on a computer
+(which is why we bothered to think about the types in the first
+place). We'll tell the computer how to differentiate a few simple
+functions, and then combine those simple functions in complicated
+ways. Automatic differentiation (AD) is the art of efficiently
+decomposing the complicated thing back into the simple things we know
+how to differentiate.
+
+For our purposes, the most important technique will be the *chain
+rule*, which tells us how to differentiate a compositon of functions
+$f \circ g$ in terms of the derivatives of $f$ and $g$. As above, let
+$\mathcal{D}(f, x)$ denote the derivative of a function $f$ at a point $x$.
+Then, using definition (\ref{diff4}),
+
+$$
+\begin{align*}
+f \circ g (\mathbf{x}_0 + \mathbf{h}) & =
+f[g (\mathbf{x}_0 + \mathbf{h})] \\
+& = f [g (\mathbf{x}_0) + \mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)] \\
+& = f [g (\mathbf{x}_0)] + \mathcal{D}(f, g(\mathbf{x}_0)) [\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)] + o(\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)) \\
+& = f [g (\mathbf{x}_0)] + \mathcal{D}(f, g(\mathbf{x}_0)) \mathcal{D}(g, \mathbf{x}_0) \mathbf{h} +
+[\mathcal{D}(f, g(\mathbf{x}_0)) o(h) + o(\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h))] \\
+& = f \circ g (\mathbf{x}_0) + \mathcal{D}(f, g(\mathbf{x}_0)) \mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h).
+\end{align*}
+$$
+
+Note that on the last line, we used the fact that the complicated
+expression
+
+$$
+\mathcal{D}(f, g(\mathbf{x}_0)) o(h) + o(\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h))
+$$
+
+is itself $o(h)$, since acting on a vanishingly small vector with a
+matrix always yields a vanishingly small vector.
+The important point is that the derivative, i.e. the linear operator
+multiplying $\mathbf{h}$, is the product of derivatives, and we get
+the chain rule
+
+$$
+\mathcal{D}(f \circ g, \mathbf{x}_0) = \mathcal{D}(f, g(\mathbf{x}_0)) \mathcal{D}(g, \mathbf{x}_0).
+$$
+
+Since all of this takes place locally, it also holds for locally
+linear spaces
