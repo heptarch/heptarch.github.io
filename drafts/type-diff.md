@@ -205,8 +205,9 @@ given to us by local linearity.
 Let's introduce a more type-theoretic way to talk about these local linear
 approximations. Instead of using $\mathbb{R}^n$ and $\mathbb{R}^m$
 explicitly, let's simply write $Ta$ and $Tb$, where $T$ stands for
-"tangent". With this distinction between $a$ and $Ta$, etc, in hand,
-we can now do away with the ad hoc restriction to linear
+"tangent" (or technically "tangent bundle" but we won't worry about
+that). For an object $x$ of type $a$, the local linear labelling is
+$T_x a$. With this distinction in hand, we can now do away with the ad hoc restriction to linear
 maps. Instead, any maps between the locally linear spaces $Ta$ and
 $Tb$ will be linear by default. This leads to a type signature
 
