@@ -32,7 +32,7 @@ signature itself, and indeed, this is essential if we want to do AD on
 more interesting objects. The goal of this post is to update the type
 signature and see how the essence of automatic differentiation changes.
 
-## What is differentiation <a id="sec-2" name="sec-2"></a>
+## What is differentiation? <a id="sec-2" name="sec-2"></a>
 
 What is differentiation, really? We learn in our first calculus class
 that it is the slope of the tangent line at a point:
@@ -49,12 +49,12 @@ that it is the slope of the tangent line at a point:
 We also get a recipe for calculating this slope:
 
 $$
-f'(x_0) = \lim_{h\to 0} \frac{f(x_0 +h) - f(x_0)}{h}.
+f'(x_0) = \lim_{h\to 0} \frac{f(x_0 +h) - f(x_0)}{h}. \tag{1}\label{diff1}
 $$
 
 This works for a function of a single real variable $x \in
 \mathbb{R}$, but if we are trying to calculate the "slope" of a
-function of many variables $\mathbf{x} \in \mathbb{R}^n$, this
+function of two variables $\mathbf{x} \in \mathbb{R}^2$, this
 definition won't make much sense! We could choose a specific direction
 to move along (a "slice" if you like), but why should we choose some
 specific direction and not another?
@@ -80,3 +80,44 @@ a *plane*.
 </figcaption>
 </div>
 </figure>
+
+We can characterize this plane, but before we do, it's useful to
+reformulate our original definition of derivative (\ref{diff1}):
+
+$$
+f(x_0 + h) = f(x_0) + hf'(x_0) + o(h), \tag{2}\label{diff2}
+$$
+
+where $o(h)$ denotes a quantity such that $o(h)/h \to 0$ as $h \to
+0$. You can check this reproduces (\ref{diff1}), since we
+can rearrange to get
+
+$$
+f'(x_0) = \frac{f(x_0 + h) - f(x_0)}{h} + \frac{o(h)}{h}.
+$$
+
+Taking the limit of $h\to 0$, the last term vanishes, and we get what
+we had before. The advantage of our new definition is that we can
+generalize it to get the plane and other more complicated objects.
+For instance, let's consider our plane example. We have a function
+$f(x, y)$, and we would like to evaluate the plane of slopes at $(x_0,
+y_0)$. We also define a small step $(h_x, h_y)$ with length $h$. If
+the slope in the $x$ direction is $f'_x$ and the slope in the $y$
+direction is $f'_y$, we can define the derivative as
+
+$$
+f(x_0 + h_x, y_0 + h_y) = f(x_0, y_0) + (h_xf'_x + h_y f'y) + o(h),
+$$
+
+so that moving only in the $x$ direction picks out the $x$ slope, and
+similarly for $y$.
+So far so good, but we haven't described a plane, just two separate
+derivatives. The trick is to repackage these separate derivatives as a
+single object using matrices:
+
+$$
+h_xf'_x + h_y f'y = [f'_x, f'_y]
+\begin{bmatrix}
+h_x \\ h_y
+\end{bmatrix}.
+$$
