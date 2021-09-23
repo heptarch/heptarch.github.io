@@ -129,10 +129,11 @@ If we use vector notation $\mathbf{x} = (x, y)$ and $L$ for the vector
 describing the plane, then (\ref{diff3}) becomes
 
 $$
-f(\mathbf{x}_0 + \mathbf{h}) = f(\mathbf{x}_0) + L\mathbf{h} + o(h).
+f(\mathbf{x}_0 + \mathbf{h}) = f(\mathbf{x}_0) + L\mathbf{h} +
+o(h). \tag{4} \label{diff4}
 $$
 
-In fact, this definition generalizes to any old function $f:
+In fact, this definition generalizes without modification to any old function $f:
 \mathbf{R}^n \to \mathbf{R}^m$, where our vectors $\mathbf{x}_0,
 \mathbf{h} \in \mathbb{R}^n$ and $L$ is an $m \times n$ matrix. The
 restriction that the error is $o(h)$ ensures that, when the derivative
@@ -142,3 +143,26 @@ describes the function $f(\mathbf{x})$ locally. Thus, a derivative is
 a *local linear approximation*.
 
 ## The type signature<a id="sec-3" name="sec-3"></a>
+
+If we want to take derivatives on a computer, say using a set of
+symbolic rules, it helps to know what the inputs and outputs are.
+We start with a function $f: \mathbb{R}^n \to \mathbb{R}^m$, pick a
+point $\mathbf{x}_0 \in \mathbb{R}^n$ wjere we want to take the
+derivative, and then produce an $m \times n$ matrix $L$. Symbolically,
+we can write
+
+$$
+L = \mathcal{D}(f, \mathbf{x}_0)
+$$
+
+for a derivative operator $\mathcal{D}$. If we replace the specific
+arguments by the overall type structure, we get a signature
+
+$$
+\mathbf{D} :: (\mathbb{R}^n \to \mathbb{R}^m) \to \mathbb{R}^n \to (\mathbb{R}^n \overset{\text{linear}}{\to} \mathbb{R}^m),
+$$
+
+where $\overset{\text{linear}}{\to}$ indicates a linear map from
+$\mathbf{R}^n$ to $\mathbf{R}^m$, or equivalently, an $m \times n$
+matrix. There is something ad hoc about this last restriction to
+linear maps.
