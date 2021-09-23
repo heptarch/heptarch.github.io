@@ -163,8 +163,8 @@ $$
 $$
 
 where $\to_{\text{L}}$ indicates a linear map from
-$\mathbf{R}^n$ to $\mathff{R}^m$, or equivalently, an $m \times n$
-matrix. Replacing $\mathbf{R}^n$ and $\mathbb{R}^m$ with arbitrary
+$\mathbb{R}^n$ to $\mathbb{R}^m$, or equivalently, an $m \times n$
+matrix. Replacing $\mathbb{R}^n$ and $\mathbb{R}^m$ with arbitrary
 input types $a$ and $b$, we arrive at Elliott's proposed type
 signature of differentiation:
 
@@ -173,9 +173,10 @@ $$
 (a \to_{\text{L}} b)). \tag{5} \label{diff5}
 $$
 
-## Locally linear objects<a id="sec-4" name="sec-4"></a>
-
 Why replace $\mathbb{R}^n$ and $\mathbb{R}^m$ with these new
 types $a$ and $b$? For Elliott, I think this is a Haskell
 convention. But there is an even better reason: much more general
-objects that can appear here!
+objects that can appear here and be sensibly differentiated upon!
+
+## Locally linear objects<a id="sec-4" name="sec-4"></a>
+
