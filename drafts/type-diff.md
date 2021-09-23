@@ -188,12 +188,23 @@ $n$ called the *dimension*. In particular, each nearby point gets
 assigned to a vector $\mathbf{h} \in \mathbb{R}^n$. There are other
 technical conditions I won't get into. The main point is that if I
 have a function $f: a \to b$ for locally linear objects $a$ (dimension
-$n$) and $b$ (dimension $m$) then our derivative operator still makes
-sense, since it is defined as a locally linear approximation, and our
-objects are locally linear! Moreover, the approximation will be an
-$m\times n$ matrix $L$ as before.
+$n$) and $b$ (dimension $m$) then our derivative operator defined in
+(\ref{diff4}) still makes sense. We just use the labelling of vectors
+given to us by local linearity.
 
-Let's introduce a type-y way to talk about these local linear
+Let's introduce a more type-theoretic way to talk about these local linear
 approximations. Instead of using $\mathbf{R}^n$ and $\mathbf{R}^m$
 explicitly, let's simply write $Ta$ and $Tb$, where $T$ stands for
-"tangent".
+"tangent". With this distinction between $a$ and $Ta$, etc, in hand,
+we can now do away with the ad hoc restriction to linear
+maps. Instead, any maps between the locally linear spaces $Ta$ and
+$Tb$ will be linear by default. This leads to a type signature
+
+$$
+\mathcal{D} :: (a \to b) \to (a \to (Ta \to Tb)). \tag{6} \label{diff6}
+$$
+
+This may seem needlessly persnickety, but a key point is that if we
+want to differentiate on one of these complicated spaces, a lot is
+hiding beneath this restriction to linear maps, and its better to
+exhibit locally linear structure a different way.
