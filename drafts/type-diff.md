@@ -14,7 +14,7 @@ date:  2021-09-22
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Differentiation</a>
+2. <a href="#sec-2">What is differentiation?</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -32,7 +32,7 @@ signature itself, and indeed, this is essential if we want to do AD on
 more interesting objects. The goal of this post is to update the type
 signature and see how the essence of automatic differentiation changes.
 
-## Differentiation <a id="sec-2" name="sec-2"></a>
+## What is differentiation <a id="sec-2" name="sec-2"></a>
 
 What is differentiation, really? We learn in our first calculus class
 that it is the slope of the tangent line at a point:
@@ -42,6 +42,41 @@ that it is the slope of the tangent line at a point:
 <img src="/img/type-diff-1.png" width="500 px"/>
 <figcaption>
 <i>Derivative as the slope of a tangent line.</i>
+</figcaption>
+</div>
+</figure>
+
+We also get a recipe for calculating this slope:
+
+$$
+f'(x_0) = \lim_{h\to 0} \frac{f(x_0 +h) - f(x_0)}{h}.
+$$
+
+This works for a function of a single real variable $x \in
+\mathbb{R}$, but if we are trying to calculate the "slope" of a
+function of many variables $\mathbf{x} \in \mathbb{R}^n$, this
+definition won't make much sense! We could choose a specific direction
+to move along (a "slice" if you like), but why should we choose some
+specific direction and not another?
+
+<figure>
+<div style="text-align:center">
+<img src="/img/type-diff-2.png" width="500 px"/>
+<figcaption>
+<i>Which slope do we choose?</i>
+</figcaption>
+</div>
+</figure>
+
+It would be nice if there was an object which somehow contained all
+the slopes at once. It turns out that there is a natural such object:
+a *plane*.
+
+<figure>
+<div style="text-align:center">
+<img src="/img/type-diff-3.png" width="500 px"/>
+<figcaption>
+<i>All the slopes at once!</i>
 </figcaption>
 </div>
 </figure>
