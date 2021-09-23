@@ -192,8 +192,17 @@ $n$) and $b$ (dimension $m$) then our derivative operator defined in
 (\ref{diff4}) still makes sense. We just use the labelling of vectors
 given to us by local linearity.
 
+<figure>
+<div style="text-align:center">
+<img src="/img/type-diff-4.png" width="500 px"/>
+<figcaption>
+<i>A map between locally linear objects.</i>
+</figcaption>
+</div>
+</figure>
+
 Let's introduce a more type-theoretic way to talk about these local linear
-approximations. Instead of using $\mathbf{R}^n$ and $\mathbf{R}^m$
+approximations. Instead of using $\mathbb{R}^n$ and $\mathbb{R}^m$
 explicitly, let's simply write $Ta$ and $Tb$, where $T$ stands for
 "tangent". With this distinction between $a$ and $Ta$, etc, in hand,
 we can now do away with the ad hoc restriction to linear
@@ -206,5 +215,7 @@ $$
 
 This may seem needlessly persnickety, but a key point is that if we
 want to differentiate on one of these complicated spaces, a lot is
-hiding beneath this restriction to linear maps, and its better to
+hiding beneath this restriction to linear maps, and it's better to
 exhibit locally linear structure a different way.
+
+*Mathy comments.* If you want to get more mathematical, 
