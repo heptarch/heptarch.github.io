@@ -273,7 +273,7 @@ $$
 f \circ g (\mathbf{x}_0 + \mathbf{h}) & =
 f[g (\mathbf{x}_0 + \mathbf{h})] \\
 & = f [g (\mathbf{x}_0) + \mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)] \\
-& = f [g (\mathbf{x}_0)] + \mathcal{D}(f, g(\mathbf{x}_0)) [\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)] + o(\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)) \\
+& = f [g (\mathbf{x}_0)] + \mathcal{D}(f, g(\mathbf{x}_0)) [\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)] + o(|\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)|) \\
 & = f \circ g (\mathbf{x}_0) + \mathcal{D}(f, g(\mathbf{x}_0)) \mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h).
 \end{align*}
 $$
