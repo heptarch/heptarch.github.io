@@ -2,20 +2,20 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Types of derivative"
-categories: [ML, mathematics]
+title:  "Automatic differentation on locally linear objects"
+categories: [ML, mathematics, programming]
 date:  2021-09-22
 ---
 
-**September 23, 2021.** *I discuss the type signature of
-  differentiation and how this generalizes Conal Elliot's nice
-  approach to automatic differentation.*
+**September 23, 2021.** *I discuss automatic differentation on manifolds and other
+  locally linear objects.*
 
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
 2. <a href="#sec-2">Derivatives as local linear approximations</a>
-2. <a href="#sec-3">The type signature</a>
+3. <a href="#sec-3">The type signature</a>
+4. <a href="#sec-4">Locally linear objects</a>
 
 ## Introduction <a id="sec-1" name="sec-1"></a>
 
@@ -24,7 +24,7 @@ explains what differentiation is in the language of types. He then
 augments this type to provide a more efficient means for performing
 automatic differentiation (AD). [I'll explain what these terms mean in more detail
 below.] This is important because automatic differentiation is an
-important component of hard computational tasks like deep learning.
+essential part of computational tasks like deep learning.
 
 As nice as this paper is, there is an ugly, ad hoc constraint
 in the type signature, where certain maps are restricted to be
@@ -159,10 +159,23 @@ for a derivative operator $\mathcal{D}$. If we replace the specific
 arguments by the overall type structure, we get a signature
 
 $$
-\mathbf{D} :: (\mathbb{R}^n \to \mathbb{R}^m) \to \mathbb{R}^n \to (\mathbb{R}^n \overset{\text{linear}}{\to} \mathbb{R}^m),
+\mathcal{D} :: (\mathbb{R}^n \to \mathbb{R}^m) \to (\mathbb{R}^n \to (\mathbb{R}^n \to_{\text{L}} \mathbb{R}^m)),
 $$
 
-where $\overset{\text{linear}}{\to}$ indicates a linear map from
-$\mathbf{R}^n$ to $\mathbf{R}^m$, or equivalently, an $m \times n$
-matrix. There is something ad hoc about this last restriction to
-linear maps.
+where $\to_{\text{L}}$ indicates a linear map from
+$\mathbf{R}^n$ to $\mathff{R}^m$, or equivalently, an $m \times n$
+matrix. Replacing $\mathbf{R}^n$ and $\mathbb{R}^m$ with arbitrary
+input types $a$ and $b$, we arrive at Elliott's proposed type
+signature of differentiation:
+
+$$
+\mathcal{D} :: (a \to b) \to (a \to
+(a \to_{\text{L}} b)). \tag{5} \label{diff5}
+$$
+
+## Locally linear objects<a id="sec-4" name="sec-4"></a>
+
+Why replace $\mathbb{R}^n$ and $\mathbb{R}^m$ with these new
+types $a$ and $b$? For Elliott, I think this is a Haskell
+convention. But there is an even better reason: much more general
+objects that can appear here!
