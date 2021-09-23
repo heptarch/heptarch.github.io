@@ -181,7 +181,7 @@ objects can appear here and be sensibly differentiated upon!
 ## Locally linear objects<a id="sec-4" name="sec-4"></a>
 
 I will call these more general objects *locally linear*, though in
-technical parlance they are *manifolds*. The basic structure is as
+technical parlance they are *differentiable manifolds*. The basic structure is as
 follows. If $a$ is locally linear, then at each point in $a$, there is
 a nearby region which resembles part of $\mathbb{R}^n$, for some fixed
 $n$ called the *dimension*. In particular, each nearby point gets
@@ -194,7 +194,7 @@ given to us by local linearity.
 
 <figure>
 <div style="text-align:center">
-<img src="/img/type-diff-4.png" width="500 px"/>
+<img src="/img/type-diff-4.png" width="530 px"/>
 <figcaption>
 <i>A map between locally linear objects.</i>
 </figcaption>
@@ -218,4 +218,37 @@ want to differentiate on one of these complicated spaces, a lot is
 hiding beneath this restriction to linear maps, and it's better to
 exhibit locally linear structure a different way.
 
-*Mathy comments.* If you want to get more mathematical, 
+*Mathy aside.* If you want to get more mathematical, the right way
+to think about what's going on here is
+[category theory](https://math.stackexchange.com/questions/2857459/derivative-operator-as-a-functor).
+We'll build a category $\mathcal{C}$ of things we can differentiate
+on.
+To start with, we have the *objects* in our category
+$\text{ob}(\mathcal{C})$, which are not merely locally linear objects,
+but objects with a distinguished point we want to take a derivative:
+
+$$
+\text{ob}(\mathcal{C}) = \{(M, x) : M \text{ is locally linear}, x \in
+M\}.
+$$
+
+Given a differentiable map $f: M \to N$ for two locally linear objects
+(i.e. where there is a local linear approximation at each point), there is an
+associated map for each point $x \in M$:
+
+$$
+f_x: (M, x) \to (N, f(x)).
+$$
+
+These constitute the *morphisms* $\text{hom}(\mathcal{C})$ of our
+category. Finally, differentiation $\mathcal{D}$ is a *functor* from $\mathcal{C}$
+to the category $\text{Vect}$ of vector spaces (objects) with linear
+maps between them (morphisms). It takes a point $x \in M$ to its local
+vector space description $\mathcal{D}(M,x) = T_xM$, and morphisms $f_x$ to
+the derivative at $x \in M$:
+
+$$
+\mathcal{D} f_x : T_x M \to T_{f(x)} N,
+$$
+
+which is, as we expect, a linear map between vector spaces.
