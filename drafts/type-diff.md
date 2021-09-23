@@ -7,25 +7,26 @@ categories: [ML, mathematics]
 date:  2021-09-22
 ---
 
-**September 22, 2021.** *Grover search can be recast as a problem of
-  basis embedding, where instead of searching for a superposition of
-  basis states, we are encoding classical information as that
-  superposition. Using an implementation of Grover search, we can
-  therefore give a basis embedding circuit which is in some sense optimal.*
+**September 23, 2021.** *I discuss the type signature of
+  differentiation and how this generalizes Conal Elliot's nice
+  approach to automatic differentation.*
 
 ### Contents
 
 1. <a href="#sec-1">Introduction</a>
-2. <a href="#sec-2">Fermi gas</a>
-   1. <a href="#sec-2-1">Bohr's model</a>
-   2. <a href="#sec-2-2">Electrons on a circle</a>
-   3. <a href="#sec-2-3">Electrons on a donut</a>
-   3. <a href="#sec-2-4">Approximating the Fermi sea</a>
-3. <a href="#sec-3">Adding gravity</a>
-   1. <a href="#sec-3-1">Ultrarelativity</a>
-   2. <a href="#sec-3-2">White dwarfs and neutron stars</a>
-   3. <a href="#sec-3-3">The Chandrasekhar limit</a>
-   4. <a href="#sec-3-4">Neutron stars</a>
-4. <a href="#sec-4">Conclusion</a>
 
 ## 1. Introduction <a id="sec-1" name="sec-1"></a>
+
+In his lovely paper ["The Simple Essence of Automatic Differentiation"](https://arxiv.org/abs/1804.00746), Conal Elliot
+explains what differentiation is in the language of types, and
+augments this type to provide a more efficient means for performing
+automatic differentiation. (I'll explain what these are in more detail
+below.) As nice as this paper is, there is an ugly, ad hoc constraint
+in the type signature, where certain maps are "restricted" to be
+linear. This restriction should really be reflected in the type
+signature itself, and indeed, for automatic differentiation on more
+interesting spaces this is essential. The goal of this post is to
+update the type signature and see if the essence of automatic
+differentiation changes.
+
+To begin with, what
