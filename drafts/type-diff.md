@@ -294,7 +294,9 @@ multiplying $\mathbf{h}$, is the product of derivatives, and we get
 the chain rule
 
 $$
-\mathcal{D}_{\mathbf{x}_0}f \circ g = \mathcal{D}_{g(\mathbf{x}_0)}f \circ \mathcal{D}_{\mathbf{x}_0}g.
+\mathcal{D}_{\mathbf{x}_0}(f \circ g) = \mathcal{D}_{g(\mathbf{x}_0)}f \circ \mathcal{D}_{\mathbf{x}_0}g.
 $$
 
-Since all of this takes place locally, it also holds for locally linear spaces!
+In other words, the derivative of a composition $f \circ g$ is the
+composition of derivatives.
+Since all of this takes place locally, this also holds for locally linear spaces!
