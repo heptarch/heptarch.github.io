@@ -265,7 +265,7 @@ how to differentiate.
 The most important technique will be the *chain
 rule*, which tells us how to differentiate a compositon of functions
 $f \circ g$ in terms of the derivatives of $f$ and $g$. As above, let
-$\mathcal{}D_xf = mathcal{D}(f, x)$ denote the derivative of a function $f$ at a point $x$.
+$\mathcal{D}_xf = mathcal{D}(f, x)$ denote the derivative of a function $f$ at a point $x$.
 Then, using definition (\ref{diff4}),
 
 $$
@@ -292,7 +292,7 @@ multiplying $\mathbf{h}$, is the product of derivatives, and we get
 the chain rule
 
 $$
-\mathcal{D}(f \circ g, \mathbf{x}_0) = \mathcal{D}(f, g(\mathbf{x}_0)) \mathcal{D}(g, \mathbf{x}_0).
+\mathcal{D}_{\mathbf{x}_0}f \circ g = \mathcal{D}_{g(\mathbf{x}_0)}f \cdot \mathcal{D}_{\mathbf{x}_0}g.
 $$
 
 Since all of this takes place locally, it also holds for locally linear spaces!
