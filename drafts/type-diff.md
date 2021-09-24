@@ -275,7 +275,7 @@ f[g (\mathbf{x}_0 + \mathbf{h})] \\
 & = f [g (\mathbf{x}_0) + \mathcal{D}_{\mathbf{x}_0}g \cdot \mathbf{h} + o(h)] \\
 & = f [g (\mathbf{x}_0)] + \mathcal{D}_{g(\mathbf{x}_0)}f
 [\mathcal{D}_{\mathbf{x}_0}g \cdot \mathbf{h} + o(h)] + o(|\mathcal{D}_{\mathbf{x}_0}g\cdot \mathbf{h} + o(h)|) \\
-& = f \circ g (\mathbf{x}_0) +  \mathcal{D}_{g(\mathbf{x}_0)}f \cdot \mathbf{h} + o(h).
+& = f \circ g (\mathbf{x}_0) +  \mathcal{D}_{g(\mathbf{x}_0)}f \mathcal{D}_{\mathbf{x}_0}g\cdot \mathbf{h} + o(h).
 \end{align*}
 $$
 
