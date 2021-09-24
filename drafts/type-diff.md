@@ -265,16 +265,16 @@ how to differentiate.
 The most important technique will be the *chain
 rule*, which tells us how to differentiate a compositon of functions
 $f \circ g$ in terms of the derivatives of $f$ and $g$. As above, let
-$\mathcal{D}(f, x)$ denote the derivative of a function $f$ at a point $x$.
+$\mathcal{}D_xf = mathcal{D}(f, x)$ denote the derivative of a function $f$ at a point $x$.
 Then, using definition (\ref{diff4}),
 
 $$
 \begin{align*}
 f \circ g (\mathbf{x}_0 + \mathbf{h}) & =
 f[g (\mathbf{x}_0 + \mathbf{h})] \\
-& = f [g (\mathbf{x}_0) + \mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)] \\
-& = f [g (\mathbf{x}_0)] + \mathcal{D}(f, g(\mathbf{x}_0)) [\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)] + o(|\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)|) \\
-& = f \circ g (\mathbf{x}_0) + \mathcal{D}(f, g(\mathbf{x}_0)) \mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h).
+& = f [g (\mathbf{x}_0) + \mathcal{D}_{\mathbf{x}_0}g \mathbf{h} + o(h)] \\
+& = f [g (\mathbf{x}_0)] + \mathcal{D}_{g(\mathbf{x}_0)}f [\mathcal{D}_{\mathbf{x}_0}g \mathbf{h} + o(h)] + o(|\mathcal{D}_{\mathbf{x}_0}g \mathbf{h} + o(h)|) \\
+& = f \circ g (\mathbf{x}_0) +  \mathcal{D}_{g(\mathbf{x}_0)}f \mathbf{h} + o(h).
 \end{align*}
 $$
 
@@ -282,7 +282,7 @@ Note that on the last line, we used the fact that the complicated
 expression
 
 $$
-\mathcal{D}(f, g(\mathbf{x}_0)) o(h) + o(|\mathcal{D}(g, \mathbf{x}_0) \mathbf{h} + o(h)|)
+\mathcal{D}_{g(\mathbf{x}_0)}f o(h) + o(|\mathcal{D}_{\mathbf{x}_0}g \mathbf{h} + o(h)|)
 $$
 
 is itself $o(h)$, since acting on a vanishingly small vector with a
@@ -295,5 +295,4 @@ $$
 \mathcal{D}(f \circ g, \mathbf{x}_0) = \mathcal{D}(f, g(\mathbf{x}_0)) \mathcal{D}(g, \mathbf{x}_0).
 $$
 
-Since all of this takes place locally, it also holds for locally
-linear spaces
+Since all of this takes place locally, it also holds for locally linear spaces!
