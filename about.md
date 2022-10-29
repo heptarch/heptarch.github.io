@@ -40,3 +40,4 @@ Some ground rules:
 - No stupid questions.
 - Don't be boring.
 - Truth, beauty, meta-patterns.
+- Magician is a real job.
