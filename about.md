@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-“Look at the pattern this seashell makes. The dappled whorl, curving
+<span style="padding-left: 20px; display:block">
+Look at the pattern this seashell makes. The dappled whorl, curving
 inward to infinity. That's the shape of the universe itself. There's a
 constant pressure, pushing toward pattern. A tendency in matter to
 evolve into ever more complex forms. It's a kind of pattern gravity, a
@@ -15,6 +16,7 @@ own. We rise out of the cosmos and we see its mesh of patterns, and it
 strikes us as beautiful. And that feeling is the most important thing
 in all the universe—its culmination, like the color of a flower at
 first bloom on a wet morning. It’s a holy feeling, and our task in
-this world is to do everything we can to foster it.”
+this world is to do everything we can to foster it.
+</span>
 
-Kim Stanley Robinson, /Green Mars/
+<div style="text-align: right"><i>Kim Stanley Robinson, *Green Mars*</i> </div>
