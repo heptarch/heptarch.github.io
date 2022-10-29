@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-"Saxifrage" means "stone breaker". These tiny, five-petalled
-flowers are the toughest and most northernmost growing plants on
-earth. By virtue of their patterns of growth, they split rocks and
-flourish in unlikely places; they are in the business of viriditas.
-
 #### Mission statement
 
 <span style="padding-left: 20px; display:block">
@@ -34,3 +29,8 @@ Let the beauty we love be what we do.
 </span>
 
 <div style="text-align: right">Rumi</div>
+
+"Saxifrage" means "stone breaker". These tiny, five-petalled
+flowers are the toughest and most northernmost growing plants on
+earth. By virtue of their patterns of growth, they split rocks and
+flourish in unlikely places; they are in the business of viriditas.
