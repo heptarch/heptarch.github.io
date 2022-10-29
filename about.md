@@ -22,3 +22,9 @@ this world is to do everything we can to foster it.
 </span>
 
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i> </div>
+
+#### Mission statement
+
+- Make wonder cool again.
+- Don't be boring.
+- Shift reality.
