@@ -34,7 +34,7 @@ Let the beauty we love be what we do.
 
 <div style="text-align: right">Rumi</div>
 
-Some ground rules:
+Some ground rules for viriditas:
 
 - Flower beats rock.
 - Ain't no stupid questions.
