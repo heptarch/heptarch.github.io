@@ -35,4 +35,4 @@ Let the beauty we love be what we do.
 
 <div style="text-align: right">Rumi</div>
 
-I'm in the business of viriditas.
+Saxifrage is in the business of viriditas.
