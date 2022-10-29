@@ -4,6 +4,8 @@ title: Art
 permalink: /art/
 ---
 
-#### Experiments in machine collaboration
+Art, writing, puzzles, etc.
+
+#### Machine collaboration
 
 - [*Invisible Authors*](/assets/invisible-authors.pdf)
