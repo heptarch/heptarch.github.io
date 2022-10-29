@@ -39,5 +39,5 @@ Some ground rules:
 - Flower beats rock.
 - Ain't no stupid questions.
 - Don't be boring.
-- Truth, beauty, meta-patterns.
+- Truth = beauty = meta-patterns.
 - Magician is a real job.
