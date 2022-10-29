@@ -36,8 +36,7 @@ Let the beauty we love be what we do.
 
 Some ground rules:
 
-- Celebrate life.
-- Shift reality.
+- Flower beats rock.
 - Ain't no stupid questions.
 - Don't be boring.
 - Truth, beauty, meta-patterns.
