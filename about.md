@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-#### Mission statement
-
 <span style="padding-left: 20px; display:block">
 Look at the pattern this seashell makes. The dappled whorl, curving
 inward to infinity. That's the shape of the universe itself. There's a
@@ -32,5 +30,5 @@ Let the beauty we love be what we do.
 
 "Saxifrage" means "stone breaker". These tiny, five-petalled
 flowers are the toughest and most northernmost growing plants on
-earth. By virtue of their patterns of growth, they split rocks and
+earth. By virtue of their pattern of growth, they split rocks and
 flourish in unlikely places; they are in the business of viriditas.
