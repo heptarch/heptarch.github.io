@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+#### Mission statement
+
 <span style="padding-left: 20px; display:block">
 Look at the pattern this seashell makes. The dappled whorl, curving
 inward to infinity. That's the shape of the universe itself. There's a
