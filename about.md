@@ -28,7 +28,7 @@ this world is to do everything we can to foster it.
 </div>
 
 <span style="padding-left: 20px; display:block">
-Make the beauty we love be what we do.
+Let the beauty we love be what we do.
 </span>
 
 <div style="text-align: right">Rumi</div>
