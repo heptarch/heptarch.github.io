@@ -26,7 +26,7 @@ this world is to do everything we can to foster it.
 
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i> </div>
 
-I can't say it better than KSR. But I can distill this into a few goals:
+I can't say it better than KSR. But I can distill it into a few goals:
 
 - Make wonder cool again.
 - Don't be boring.
