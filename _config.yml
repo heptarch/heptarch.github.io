@@ -8,7 +8,8 @@ name: SAXIFRAGE
 # Short bio or description (displayed in the header)
 #description: don't be boring.
 #description: breaking stones.
-description: vita est forma gravitatis.
+#description: vita est forma gravitatis.
+description: viriditas est forma gravitatis.
 
 # Change default theme
 #theme: jekyll-theme-cayman
