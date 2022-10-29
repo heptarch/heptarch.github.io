@@ -24,9 +24,16 @@ first bloom on a wet morning. It’s a holy feeling, and our task in
 this world is to do everything we can to foster it.
 </span>
 
-<div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i> </div>
+<div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i>
+</div>
 
-I can't say it better than KSR. But I can distill it into a few goals:
+<span style="padding-left: 20px; display:block">
+Make the beauty we love be what we do.
+</span>
+
+<div style="text-align: right">Rumi</div>
+
+A few goals:
 
 - Celebrate life.
 - Shift reality.
