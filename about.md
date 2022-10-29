@@ -39,4 +39,4 @@ Some ground rules:
 - Shift reality.
 - No stupid questions.
 - Don't be boring.
-- Truth and beauty.
+- Truth, beauty, meta-patterns.
