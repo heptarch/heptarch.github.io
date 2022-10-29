@@ -37,7 +37,7 @@ Some ground rules:
 
 - Celebrate life.
 - Shift reality.
-- No stupid questions.
+- Ain't no stupid questions.
 - Don't be boring.
 - Truth, beauty, meta-patterns.
 - Magician is a real job.
