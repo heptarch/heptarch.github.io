@@ -33,8 +33,10 @@ Let the beauty we love be what we do.
 
 <div style="text-align: right">Rumi</div>
 
-A few goals:
+Some ground rules:
 
 - Celebrate life.
 - Shift reality.
+- No stupid questions.
 - Don't be boring.
+- Truth and beauty.
