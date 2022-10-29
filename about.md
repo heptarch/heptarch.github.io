@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-
+#### Mission statement
 
 <span style="padding-left: 20px; display:block">
 Look at the pattern this seashell makes. The dappled whorl, curving
@@ -23,7 +23,7 @@ this world is to do everything we can to foster it.
 
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i> </div>
 
-#### Mission statement
+I can't say it better than KSR. But I can distil this into a few goals:
 
 - Make wonder cool again.
 - Don't be boring.
