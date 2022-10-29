@@ -4,7 +4,7 @@ title: Art
 permalink: /art/
 ---
 
-Art, writing, puzzles, etc.
+Art, photography, creative non/fiction, and so forth.
 
 #### Machine collaboration
 
