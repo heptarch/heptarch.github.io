@@ -28,6 +28,6 @@ this world is to do everything we can to foster it.
 
 I can't say it better than KSR. But I can distill it into a few goals:
 
-- Make wonder cool again.
 - Don't be boring.
 - Shift reality.
+- Celebrate life.
