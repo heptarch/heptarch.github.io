@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-"Saxifrage" means "stone breaker". These delicate, five-petalled
-flower are the northernmost growing plants in the world.
+"Saxifrage" means "stone breaker". These tiny, five-petalled
+flowers are the northernmost growing plants in the world.
 
 #### Mission statement
 
