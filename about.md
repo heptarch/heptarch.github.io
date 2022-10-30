@@ -33,9 +33,9 @@ Take down a musical instrument.<br>
 <br>
 
 Let the beauty we love be what we do.<br>
-There are hundreds of ways to kneel and kiss the ground.<br>
+There are hundreds of ways to kneel and kiss the ground.
 </center>
-</div>
+</div><br>
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 
