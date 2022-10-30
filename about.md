@@ -28,7 +28,7 @@ this world is to do everything we can to foster it.
 Let the beauty we love be what we do.
 </span>
 
-<div style="text-align: right">Rumi</div>
+<div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 
 "Saxifrage" means "stone breaker". These tiny, five-petalled
 flowers are the toughest and most northernmost growing plants on
