@@ -19,10 +19,10 @@ strikes us as beautiful. And that feeling is the most important thing
 in all the universe—its culmination, like the color of a flower at
 first bloom on a wet morning. It’s a holy feeling, and our task in
 this world is to do everything we can to foster it.
-</span>
+</span> <br>
 
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i>
-</div><br>
+</div>
 
 <div>
 <center>
@@ -33,8 +33,8 @@ Take down a musical instrument.<br>
 <br>
 
 Let the beauty we love be what we do.<br>
-There are hundreds of ways to kneel and kiss the ground. <br>
-</center>
+There are hundreds of ways to kneel and kiss the ground.
+</center> <br>
 </div>
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
