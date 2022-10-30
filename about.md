@@ -33,7 +33,7 @@ Take down a musical instrument.<br>
 <br>
 
 Let the beauty we love be what we do.<br>
-There are hundreds of ways to kneel and kiss the ground.
+There are hundreds of ways to kneel and kiss the ground.<br>
 </center>
 </div>
 
