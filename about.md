@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-#### Mission statement
-
 <span style="padding-left: 20px; display:block">
 Look at the pattern this seashell makes. The dappled whorl, curving
 inward to infinity. That's the shape of the universe itself. There's a
@@ -38,6 +36,8 @@ There are hundreds of ways to kneel and kiss the ground.
 </div>
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
+
+#### Mission statement
 
 "Saxifrage" means "stone breaker". These tiny, five-petalled
 flowers are the toughest and most northernmost growing plants on
