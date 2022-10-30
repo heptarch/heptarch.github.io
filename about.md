@@ -21,11 +21,11 @@ first bloom on a wet morning. It’s a holy feeling, and our task in
 this world is to do everything we can to foster it.
 </span>
 
-<div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i><br>
+<div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i>
 </div>
 
 <div>
-<center>
+<center><br>
 Today, like every other day, we wake up empty
 and frightened.<br>
 Don’t open the door to the study and begin reading. <br>
