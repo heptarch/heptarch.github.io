@@ -25,7 +25,14 @@ this world is to do everything we can to foster it.
 </div>
 
 <span style="padding-left: 20px; display:block">
+<center>
+Today, like every other day, we wake up empty
+and frightened. Don’t open the door to the study
+and begin reading. Take down a musical instrument.
+
 Let the beauty we love be what we do.
+There are hundreds of ways to kneel and kiss the ground.
+</center>
 </span>
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
