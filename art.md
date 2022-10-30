@@ -8,3 +8,7 @@ permalink: /art/
 
 - [*Invisible Authors*](/assets/invisible-authors.pdf) (2022). With
   NeoX and Italo Calvino. A recreation of *Invisible Cities*.
+
+#### Misc
+
+- A [secret tumblr account](https://caedrix.tumblr.com/).
