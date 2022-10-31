@@ -42,5 +42,4 @@ There are hundreds of ways to kneel and kiss the ground.
 "Saxifrage" means "stone breaker". These tiny, five-petalled
 flowers are the toughest and most northernmost growing plants on
 earth. By virtue of their pattern of growth, they split rocks and
-flourish in unlikely places; they are in the business of viriditas. So
-are we.
+flourish in unlikely places; they are in the business of viriditas.
