@@ -39,7 +39,7 @@ There are hundreds of ways to kneel and kiss the ground.
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 
-"Saxifrage" means "stone breaker". These tiny, five-petalled
-flowers are the toughest and most northernmost growing plants on
-earth. By virtue of their pattern of growth, they split rocks and
-flourish in unlikely places; they are in the business of viriditas.
+[//]: # "Saxifrage" means "stone breaker". These tiny, five-petalled
+[//]: #flowers are the toughest and most northernmost growing plants on
+[//]: #earth. By virtue of their pattern of growth, they split rocks and
+[//]: #flourish in unlikely places; they are in the business of viriditas.
