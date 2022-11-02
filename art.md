@@ -15,4 +15,5 @@ NeoX and Italo Calvino. A recreation of *Invisible Cities*.
 
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/)
   (2020--22). Microfiction and pictures.
-- [*Fearful Spheres*](/assets/fearful-spheres.pdf) (2018). A short chapbook.
+- [*Fearful Spheres*](/assets/fearful-spheres.pdf) (2018). A short
+  chapbook.
