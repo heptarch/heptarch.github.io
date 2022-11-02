@@ -11,7 +11,7 @@ NeoX and Italo Calvino. A recreation of *Invisible Cities*.
 - <a href = "mailto:cursedhorses@gmail.com"><i>Cursed horses</i></a>
   (2022). Email me if you would like a cursed horse.
 
-#### Writing/art
+#### Writing
 
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/)
   (2020--22). Microfiction and pictures.
