@@ -9,7 +9,7 @@ permalink: /art/
 - [*Invisible Authors*](/assets/invisible-authors.pdf) (2022). With
 NeoX and Italo Calvino. A recreation of *Invisible Cities*.
 - <a href = "mailto:cursedhorses@gmail.com"><i>Cursed horses</i></a>
-  (2022). Email me if you would like a cursed horse.
+  (2022). Inquire here for cursed horses.
 
 #### Writing
 
