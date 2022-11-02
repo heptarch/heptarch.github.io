@@ -16,4 +16,4 @@ permalink: /art/
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/)
   (2020--22). Tumblr with microfiction and pictures.
 - [*Fearful Spheres*](/assets/fearful-spheres.pdf) (2018). A short
-  chapbook about metaphysical dread.
+  chapbook.
