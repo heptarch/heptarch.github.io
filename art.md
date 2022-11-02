@@ -6,8 +6,8 @@ permalink: /art/
 
 #### Machine collaboration
 
-- [*Invisible Authors*](/assets/invisible-authors.pdf) (2022). With
-NeoX and Italo Calvino. An AI recreation of *Invisible Cities*.
+- [*Invisible Authors*](/assets/invisible-authors.pdf) (2022). A
+  recreation of *Invisible Cities* with AI.
 - <a href = "mailto:cursedhorses@gmail.com"><i>Cursed horses</i></a>
   (2022). Inquire here for cursed horses.
 
