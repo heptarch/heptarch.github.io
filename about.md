@@ -24,20 +24,20 @@ this world is to do everything we can to foster it.
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i>
 </div>
 
-<div>
+<!--<div>
 <center><br>
 Today, like every other day, we wake up empty
 and frightened.<br>
 Don’t open the door to the study and begin reading. <br>
 Take down a musical instrument.<br>
-<br>
+<br>-->
 
-Let the beauty we love be what we do.<br>
+<!--Let the beauty we love be what we do.<br>
 There are hundreds of ways to kneel and kiss the ground.
-</center> <br>
-</div>
+</center> <br>-->
+<!--</div>-->
 
-<div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
+<!--<div style="text-align: right">Rumi, <i>Quatrain 82</i></div>-->
 
 <!-- "Saxifrage" means "stone breaker". These tiny, five-petalled -->
 <!-- flowers are the toughest and most northernmost growing plants on -->
