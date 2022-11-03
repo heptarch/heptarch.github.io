@@ -4,4 +4,8 @@ title: Hacks
 permalink: /hacks/
 ---
 
-Under construction.
+#### Hacking physics
+
+- [The Hacker's Guide to Physics](/hacker) (2019--). 
+
+#### Scrubland
