@@ -6,8 +6,8 @@ permalink: /hacks/
 
 #### Hackery
 
-- [*The Hacker's Guide to the Universe*](/hacker) (2019--). Ongoing project
-  to hack physics.
+- [*The Hacker's Guide to the Universe*](/hacker) (2021--). Ongoing project
+  to hack the universe.
 - ["Why is a soap bubble like a railway?"](https://arxiv.org/abs/2008.09611)
   (2020). An introduction to soap bubble math.
 
