@@ -21,8 +21,6 @@ permalink: /art/
 #### Nonfiction
 
 - ["Calling down the lightning"](/assets/lightning.pdf) (2021). An
-  essay about art, community, and madness. Published in Third Factor
-  magazine.
+  essay about art, community, and madness.
 - ["Counternarratives for young scientists"](/assets/reality)
-  (2020). Talk for young scientists given at the Quantum Leaps
-  conference in Vancouver.
+  (2020). Talk for [youth science conference](https://scienceinvancouver.com/event/teen-nerd-nite-quantum-leaps-conference/).
