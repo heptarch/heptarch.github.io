@@ -23,7 +23,7 @@ this world is to do everything we can to foster it.
 </div>
 
 This website is a place for me to collect my own thoughts on, and
-attempts at, viriditas. It's a place where I'll try to ask (and
+attempts at, viriditas. It's a place I'll try to ask (and
 answer) stupid questions, not be boring, wonder, celebrate, and if I'm
 lucky, change reality in tough places. Like the little purple flowers.
 
