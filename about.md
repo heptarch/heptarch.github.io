@@ -30,7 +30,7 @@ flourish in unlikely places; they are in the business of viriditas.
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/sax-alpine.jpeg" width="600"/>
-	<figcaption><i>Wikimedia Commons.</i></figcaption>
+	<figcaption><i>From Wikimedia Commons.</i></figcaption>
 	</div>
 	</figure>
 	
