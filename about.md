@@ -22,6 +22,8 @@ this world is to do everything we can to foster it.
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i>
 </div>
 
+---
+
 "Saxifrage" means "stone breaker". These tiny, five-petalled
 flowers are the toughest and most northernmost growing plants on
 earth. By virtue of their pattern of growth, they split rocks and
