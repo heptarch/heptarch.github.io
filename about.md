@@ -26,6 +26,7 @@ this world is to do everything we can to foster it.
 flowers are the toughest and most northernmost growing plants on
 earth. By virtue of their pattern of growth, they split rocks and
 flourish in unlikely places; they are in the business of viriditas.
+
 This website is a place for me to collect my own thoughts on, and
 attempts at, viriditas. It's a place I'll try to ask (and
 answer) stupid questions, not be boring, wonder, celebrate, and if I'm
