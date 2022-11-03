@@ -27,6 +27,12 @@ flowers are the toughest and most northernmost growing plants on
 earth. By virtue of their pattern of growth, they split rocks and
 flourish in unlikely places; they are in the business of viriditas.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/sax-alpine.jpeg" width="600"/>
+	</div>
+	</figure>
+	
 This website is a place for me to collect my own thoughts on, and
 attempts at, viriditas. It's a place I'll try to ask (and
 answer) stupid questions, not be boring, wonder, celebrate, and if I'm
