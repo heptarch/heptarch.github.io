@@ -4,4 +4,8 @@ title: The Hacker's Guide to the Universe
 permalink: /hacker/
 ---
 
-Under construction.
+Everything here is in draft form.
+
+#### Chapters
+
+- [Introduction](/assets/hgu/hgu-intro.pdf)
