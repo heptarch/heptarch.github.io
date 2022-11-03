@@ -22,6 +22,11 @@ this world is to do everything we can to foster it.
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i>
 </div>
 
+This website is a place for me to collect my own thoughts on, and
+attempts at, viriditas. It's a place where I'll try to ask (and
+answer) stupid questions, not be boring, wonder, celebrate, and if I'm
+lucky, change reality in tough places. Like the little purple flowers.
+
 <!--<div>
 <center><br>
 Today, like every other day, we wake up empty
