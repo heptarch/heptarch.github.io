@@ -44,8 +44,7 @@ lucky, change reality in tough places. Like the little purple flowers.
 ---
 
 A side project of David Wakeham.
-This site uses [Jekyll Now](https://github.com/barryclark/jekyll-now), a
-[Jekyll](https://jekyllrb.com/) theme by Barry Clark.
+This site uses [Jekyll Now](https://github.com/barryclark/jekyll-now).
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
