@@ -9,7 +9,7 @@ permalink: /art/
 - [*Invisible Authors*](/assets/invisible-authors.pdf) (2022). A
   recreation of *Invisible Cities*.
 - <a href = "mailto:cursedhorses@gmail.com"><i>Cursed horses</i></a>
-  (2022). Inquire here for cursed horses.
+  (2022). Inquire here for cursed horses. [cursed horses](cursedhorses@gmail.com)
 
 #### Writing
 
