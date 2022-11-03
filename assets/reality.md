@@ -1,5 +1,5 @@
 ---
-title:  "Counter-narratives for young scientists"
+title:  "Counternarratives for young scientists"
 date:  2020-11-12
 layout: post
 ---
@@ -220,7 +220,7 @@ colour. You can be male, female, or non-binary. It doesn't matter. As long as yo
 approach the universe with an open mind, with the humility to admit
 that you don't know, the curiosity to ask, and enough love and wonder
 to listen to reality's answer, then you have all that it takes (and
-probably much more) to be a great scientist. Thanks for listening. <!-- And with that, I will -->
+probably much more) to be a great scientist. <!-- And with that, I will -->
 <!-- conclude. Thank you very much for listening. -->
 
 <!-- They are much stranger than anything dreamt of in our mythologies.
