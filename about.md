@@ -43,14 +43,11 @@ lucky, change reality in tough places. Like the little purple flowers.
 
 ---
 
-A side project of David Wakeham.
-This site uses [Jekyll Now](https://github.com/barryclark/jekyll-now).
-
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br
-/>Work on this site is licensed under a <a rel="license"
+/>A side project of David Wakeham. Work on this site is licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC A-NC-SA 4.0 International License</a>.
 
 <!--<div>
