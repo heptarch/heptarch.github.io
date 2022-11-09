@@ -4,25 +4,12 @@ mathjax: true
 comments: true
 title:  "Hello world"
 categories:
-date:  2022-11-02
+date:  2022-11-09
 ---
 
-**November 2, 2022.** *A quick introduction to the website.*
+**November 9, 2022.** *I'll explain what Parrondo's paradox is, why it
+  isn't a paradox, a quantum analogue, and how it's connected to
+  Maxwell's demon.*
 
-"Saxifrage" means "stone breaker". These tiny, five-petalled
-flowers are the toughest and most northernmost growing plants on
-earth. By virtue of their pattern of growth, they split rocks and
-flourish in unlikely places; they are in the business of
-[viriditas](https://blog.saxifrage.one/about/).
+#### Machine collaboration
 
-<figure>
-    <div style="text-align:center"><img src
-    ="/img/posts/sax-alpine.jpeg" width="600"/>
-	<figcaption><i>From Wikimedia Commons.</i></figcaption>
-	</div>
-	</figure>
-
-This website is a place for me to collect my own thoughts on, and
-attempts at, viriditas. It's a place I'll try to ask (and
-answer) stupid questions, not be boring, wonder, celebrate, and if I'm
-lucky, change reality in tough places. Like the little purple flowers.
