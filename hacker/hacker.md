@@ -8,4 +8,4 @@ Everything here is in draft form.
 
 #### Chapters
 
-- [Introduction](/assets/hgu/hgu-intro.pdf)
+- [Introduction](/hacker/intro)

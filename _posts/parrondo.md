@@ -11,5 +11,8 @@ date:  2022-11-09
   isn't a paradox, a quantum analogue, and how it's connected to
   Maxwell's demon.*
 
-#### Machine collaboration
+#### Introduction
 
+Sometimes, alternating between two losing strategies becomes a winning
+strategy. This is called *Parrondo's paradox*. A simple illustration
+involves a particle jumping around a potential
