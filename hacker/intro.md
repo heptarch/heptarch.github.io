@@ -17,7 +17,7 @@ are almost entirely missing from our curricula. We teach the wrong things, using
 methods, for the wrong reasons. The outcome is, of course, deeply
 wrong.
 
-Let me elaborate. If students learn to reproduce known results by rote, they will take both
+<div.a>Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
 square law, and what happens if it doesn’t? They neither know nor care because they are
@@ -27,7 +27,7 @@ resent this "mastery" and see it for the sham that it is. No wonder so many peop
 faster than a hot potato! But worst of all, students learn to mask their ignorance. There is no
 better way to discourage a love of play and a taste for the unknown than by labelling questions
 "stupid", and rewarding those who "fake it till they make it". Or, more realistically, simply go
-on faking.
+on faking.</div.a>
 
 If formal education kills this sense of awe and beauty (with an almost military efficiency)
 where can it be found? If you’re lucky, the rigors of graduate school. A better bet is to pick a
