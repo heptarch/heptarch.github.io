@@ -23,4 +23,6 @@ permalink: /art/
 - ["Calling down the lightning"](/assets/lightning.pdf) (2021). An
   essay about art, community, and madness.
 - ["Counternarratives for young scientists"](/assets/reality)
-  (2020). Talk for [youth science conference](https://scienceinvancouver.com/event/teen-nerd-nite-quantum-leaps-conference/).
+  (2020). A
+  [talk](https://scienceinvancouver.com/event/teen-nerd-nite-quantum-leaps-conference/)
+  about the nature of science.
