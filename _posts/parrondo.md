@@ -15,4 +15,4 @@ date:  2022-11-09
 
 Sometimes, alternating between two losing strategies becomes a winning
 strategy. This is called *Parrondo's paradox*. A simple illustration
-involves a particle jumping around a potential
+is a piece 
