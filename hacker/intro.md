@@ -120,7 +120,7 @@ and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/tupper" width="600"/>
+    ="/hacker/img/tupper.png" width="400"/>
 	<figcaption>Fig 1.1. <i>Tupper’s formula graphing itself.</i></figcaption>
 	</div>
 	</figure>
