@@ -16,4 +16,6 @@ date:  2022-11-09
 Sometimes, alternating between two losing strategies becomes a winning
 strategy. This is called *Parrondo's paradox*. As we'll see
 below, it isn't much of a paradox, but it is interesting.
-A simple illustration is a piece of 
+A simple illustration is a ball rolling around some hills. Maybe the
+ball is hot, and has the tendency to jump randomly, but it's average
+behaviour is easy to understand.
