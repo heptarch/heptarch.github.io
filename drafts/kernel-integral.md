@@ -2,14 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Quantum Parrondo"
-categories: [Math, Physics]
+title:  "Integrals from kernels"
+categories: [Math, Hacks]
 date:  2022-11-09
 ---
 
-**November 9, 2022.** *I'll explain what Parrondo's paradox is, why it
-  isn't a paradox, a quantum analogue, and how it's connected to
-  Maxwell's demon.*
+**November 9, 2022.** *A cheap hack for evaluatiing integrals.*
 
 #### Introduction
 
