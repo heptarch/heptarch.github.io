@@ -14,5 +14,6 @@ date:  2022-11-09
 #### Introduction
 
 Sometimes, alternating between two losing strategies becomes a winning
-strategy. This is called *Parrondo's paradox*, though, as we'll see
-below, it isn't much of a paradox. A simple illustration is a piece
+strategy. This is called *Parrondo's paradox*. As we'll see
+below, it isn't much of a paradox, but it is interesting.
+A simple illustration is a piece of 
