@@ -7,7 +7,7 @@ categories:
 date:  2021-04-06
 ---
 
-The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
+<div>The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
 it is knowable. Our knowledge may be fragmentary and often plain wrong; that is the basic
 predicament of science. But it makes it no less miraculous that we can unravel the biological
 blueprint of a daffodil, land a robot on the red sands of Mars, or hear the faint chirp of black
@@ -15,7 +15,7 @@ holes colliding, in the depths of space, a billion years ago. There is awe and b
 providence in this. This book is written from the conviction that awe, beauty, and providence
 are almost entirely missing from our curricula. We teach the wrong things, using the wrong
 methods, for the wrong reasons. The outcome is, of course, deeply
-wrong.
+wrong.</div>
 
 Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
