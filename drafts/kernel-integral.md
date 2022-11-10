@@ -135,13 +135,21 @@ is defined by an asymmetric
 kernel $K(x, s) = x^{s-1}$.
 In particular $\mathcal{M} = \mathcal{M}_1$ and integrating with
 respect to the base gives a different transform, $\mathcal{M}_2
-\neq \mathcal{M}_1$.<br>
+\neq \mathcal{M}_1$. In general, $\mathcal{M}_2$ isn't well-defined (since
+$\Omega_2$ depends on the function) but we can still use the kernel
+trick to do some interesting things. <br>
 
 <span style="padding-left: 20px; display:block">
 (a) Using results from Mellin transforms, show that
 
 $$
 \int_0^\infty \frac{\mathcal{M}_2 g(x)}{e^x - 1} \, \text{d}x = \int_0^\infty \Gamma(s)\zeta(s) g(s) \, \text{d}s.
+$$
+
+(b) Evaluate
+
+$$
+\frac{\mathcal{M}_2 g(x) = \int_0^\infty
 $$
 </span>
 </div>
