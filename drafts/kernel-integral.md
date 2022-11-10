@@ -22,10 +22,17 @@ If everything is smooth enough to swap integrals (i.e. Fubini's theorem), then
 
 $$
 \begin{align*}
-\int_{\Omega_1} f(x) T_2g(x) \text{d}y & = \int_{\Omega_1}
+\int_{\Omega_1} f(x) T_2g(x) \text{d}x & = \int_{\Omega_1}
 f(x)\left[\int_{\Omega_2} g(y) K(x, y) \, \text{d}y\right] \text{d}x \\
 & = \int_{\Omega_2}
 g(y)\left[\int_\Omega f(x) K(x, y) \, \text{d}x\right] \text{d}y \\
 & = \int_{\Omega_2} T_1f(y) g(y) \text{d}y.
 \end{align*}
+$$
+
+For a symmetric kernel, with $T_1 = T_2 = T$ and $\Omega_1 = \Omega_2
+= \Omega$, we have the neater result
+
+$$
+\int_{\Omega} f(x) Tg(x) \text{d}x = \int_{\Omega} Tf(y) g(y) \text{d}y.
 $$
