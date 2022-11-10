@@ -49,4 +49,11 @@ $$
 
 This may seem trivial (we've "just" written the definition orthogonality in an obscure way)
 or uselessly abstract, but this is sometimes useful for doing integrals.
-Let's take everyone's favourite, the Fourier transform.
+Let's take everyone's favourite example, the 1D Fourier transform,:
+
+$$
+T_\text{F} f(\omega) = \frac{1}{\sqrt{2\pi}}\int_{-\infty}^\infty
+f(x)e^{}-i\omega x} \, \text{d}x.
+$$
+
+The basic point is that we can replace 
