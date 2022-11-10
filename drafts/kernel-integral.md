@@ -39,15 +39,7 @@ $$
 \int_{\Omega} f(x) Tg(x) \text{d}x = \int_{\Omega} Tf(y) g(y) \text{d}y.
 $$
 
-If the inverse transform $T^{-1}$ exists, then this can also be written
-
-$$
-\int_{\Omega} f(x) g(x) \text{d}x = \int_{\Omega} Tf(y) Tg(y) \text{d}y.
-$$
-
-#### Examples
-
-From a pure math standpoint, this is in some sense trivial. We have an
+From a pure math standpoint, these observations are in some sense trivial. We have an
 inner product, and we've just observed that the integral transforms
 $T_1$ and $T_2$ are dual,
 
@@ -57,6 +49,9 @@ $$
 
 with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for evaluating concrete integrals!
+
+#### Examples
+
 Let's take everyone's favourite example, the 1D Fourier transform:
 
 $$
