@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "A kernel trick for integrals"
 categories: [Math, Hacks]
-date:  2022-11-09
+date:  2022-11-10
 ---
 
-**November 9, 2022.** *I present a simple trick for doing integrals by swapping
+**November 10, 2022.** *I present a simple trick for doing integrals by swapping
   kernels. I'll apply this to a funky Gaussian integral and a class of
   expressions studied by Mordell and Ramanujan.*
 
@@ -55,6 +55,7 @@ $$
 
 with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing integrals!
+
 *Full disclosure.* I didn't come up with this hack, but stole it
 (with modifications) from Ramanujan.
 Also, I'm happily ignoring many mathematical subtleties! The joys of
@@ -127,19 +128,20 @@ the
 <b>Exercise 1.</b> The <i>Mellin transform</i>
 
 $$
-\mathcal{M}f(s) = \int_0^\infty x^{s-1} f(x) \, \text{d}s.
+\mathcal{M}f(s) = \int_0^\infty x^{s-1} f(x) \, \text{d}x.
 $$
 
 is defined by an asymmetric
 kernel $K(x, s) = x^{s-1}$.
 In particular $\mathcal{M} = \mathcal{M}_1$ and integrating with
 respect to the base gives a different transform, $\mathcal{M}_2
-\neq \mathcal{M}_1$.
+\neq \mathcal{M}_1$.<br>
+
 <span style="padding-left: 20px; display:block">
 (a) Using results from Mellin transforms, show that
 
 $$
-\int_0^\infty e^{-x}\mathcal{M}_2 g(x) \, \text{d}x = \int_0^\infty \Gamma(s) g(s) \, \text{d}s.
+\int_0^\infty \frac{\mathcal{M}_2 g(x)}{e^x - 1} \, \text{d}x = \int_0^\infty \Gamma(s)\zeta(s) g(s) \, \text{d}s.
 $$
 </span>
 </div>
