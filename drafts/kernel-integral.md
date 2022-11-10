@@ -11,7 +11,7 @@ date:  2022-11-09
   kernels. I'll apply this to a funky Gaussian integral and a class of
   expressions studied by Mordell and Ramanujan.*
 
-#### Outline
+## Outline
 ---
 
 Consider an integral transform with kernel $K(x, y)$.
@@ -40,7 +40,8 @@ For a symmetric kernel $K(x, y) = K(y, x)$ and $\Omega_1 = \Omega_2
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 $$
-\int_{\Omega} f(x) Tg(x) \text{d}x = \int_{\Omega} Tf(y) g(y) \text{d}y.
+\int_{\Omega} f(x) Tg(x) \text{d}x = \int_{\Omega} Tf(y) g(y)
+\text{d}y. \tag{1}
 $$
 </div>
 
@@ -173,7 +174,7 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-i\pi x^2/\tau+z/\tau}}{\cosh(x/2)} \, \text{d}u \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h\left(\frac{z}{2\pi\tau};
--\frac{1}{\tau}\right). \tag{1}
+-\frac{1}{\tau}\right). \tag{2}\label{h}
 \end{align*}
 $$
 
@@ -202,10 +203,10 @@ related by
 
 $$
 F_{-i\tau}(2iz) =
-\frac{1}{2i\tau}\left[\varphi(z, t) - \varphi(-z, \tau)\right]. \tag{2}
+\frac{1}{2i\tau}\left[\varphi(z, t) - \varphi(-z, \tau)\right]. \tag{3} \label{varphi}
 $$
 
-(b) Using equation $(1)$ and $(2)$ or otherwise, show that
+(b) Using equation $(\ref{h})$ and $(\ref{varphi})$ or otherwise, show that
 
 $$
 F_\omega(z) = -\frac{i}{\sqrt{\omega}} e^{-\pi z^2/4\omega} F_{1/\omega}\left(\frac{iz}{\omega}\right).
