@@ -97,3 +97,10 @@ e^{-u^2} \, \text{d}u\\
 & = 2\sqrt{\pi\alpha} e^{\alpha\beta^2}\text{erfc}(\sqrt{\alpha}\beta).
 \end{align*}
 $$
+
+We conclude that 
+
+$$
+\int_{-\infty}^\infty \frac{ e^{-\alpha
+x^2}}{\beta^2 + x^2} = \frac{\pi\sqrt{2\alpha}}{\beta} e^{\alpha\beta^2}\text{erfc}(\sqrt{\alpha}\beta).
+$$
