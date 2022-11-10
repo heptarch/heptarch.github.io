@@ -8,7 +8,8 @@ date:  2022-11-09
 ---
 
 **November 9, 2022.** *I present a simple trick for doing integrals by swapping
-  kernels. I'll apply this to a funky Gaussian integral, *
+  kernels. I'll apply this to a funky Gaussian integral and a class of
+  integrals studied by Mordell and Ramanujan.*
 
 #### Outline
 
