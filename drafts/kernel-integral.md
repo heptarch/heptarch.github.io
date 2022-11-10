@@ -166,8 +166,8 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-ix^2/4\pi\tau+z/\tau}}{\cosh(x/2)} \, \text{d}x \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-i\pi x^2/\tau+z/\tau}}{\cosh(x/2)} \, \text{d}u \\
-& = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h(z/2\pi\tau;
--1/\tau). \tag{1}
+& = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h\left(\frac{z}{2\pi\tau};
+-\frac{1}{\tau}\right). \tag{1}
 \end{align*}
 $$
 
