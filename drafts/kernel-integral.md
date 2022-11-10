@@ -112,5 +112,5 @@ x^2}}{\beta^2 + x^2} = \frac{\pi\sqrt{2\alpha}}{\beta} e^{\alpha\beta^2}\text{er
 $$
 
 I call this the
-["Voigt integral"](https://en.wikipedia.org/wiki/Voigt_profile) after
-the related convolution in spectroscopy.
+"Voigt integral"after
+the [related convolution in spectroscopy ](https://en.wikipedia.org/wiki/Voigt_profile).
