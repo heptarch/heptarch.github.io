@@ -24,11 +24,11 @@ If everything is smooth enough to swap integrals (i.e. Fubini's theorem), then
 
 $$
 \begin{align*}
-\int_{\Omega_1} f(x) T_2g(x) \text{d}x & = \int_{\Omega_1}
+\int_{\Omega_1} f(x) T_2g(x) \,\text{d}x & = \int_{\Omega_1}
 f(x)\left[\int_{\Omega_2} g(y) K(x, y) \, \text{d}y\right] \text{d}x \\
 & = \int_{\Omega_2}
 g(y)\left[\int_\Omega f(x) K(x, y) \, \text{d}x\right] \text{d}y \\
-& = \int_{\Omega_2} T_1f(y) g(y) \text{d}y.
+& = \int_{\Omega_2} T_1f(y) g(y)\, \text{d}y.
 \end{align*}
 $$
 
@@ -47,9 +47,17 @@ $$
 
 #### Examples
 
-This may seem trivial (we've "just" written the definition orthogonality in an obscure way)
-or uselessly abstract, but this is sometimes useful for doing integrals.
-Let's take everyone's favourite example, the 1D Fourier transform,:
+From a pure math standpoint, this is in some sense trivial. We have an
+inner product, and we've just observed that the integral transforms
+$T_1$ and $T_2$ are dual,
+
+$$
+\langle f, T_2 g\rangle = \langle T_1 f, g\rangle,
+$$
+
+with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
+But this turns out to be a useful trick for evaluating concrete integrals!
+Let's take everyone's favourite example, the 1D Fourier transform:
 
 $$
 T_\text{F} f(\omega) = \frac{1}{\sqrt{2\pi}}\int_{-\infty}^\infty
