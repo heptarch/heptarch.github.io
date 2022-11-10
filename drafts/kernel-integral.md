@@ -55,8 +55,6 @@ But this turns out to be a useful trick for doing integrals!
 (with modifications) from Ramanujan.
 There are a variety of mathematical subtleties I'm happily ignoring.
 
-**Exercise 1.**
-
 #### The Voigt integral
 
 Let's take everyone's favourite example, the 1D Fourier transform:
@@ -119,6 +117,16 @@ I call this the
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
+**Exercise 1.** The *Mellin transform* is defined by an asymmetric
+kernel
+
+$$
+\mathcal{M}f(s) = \int_0^\infty x^{s-1} f(x) \, \text{d}s.
+$$
+
+Note that, for $K(x, s) = x^{s-1}$, $ \mathcal{M} = T_1$, and $T_2
+\neq T_1$.
+
 #### Mordell integrals
 
 Here's a fancier example, again using the Fourier transform.
@@ -157,14 +165,20 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \end{align*}
 $$
 
-Ramanujan defined the related integral
+This is not a trivial result!
+
+---
+
+**Exercise 2.** Ramanujan defined the related integral
 
 $$
-F_\omega(z) = \int_{-\infty}]^\infty \frac{e^{-\pi\omega x^2 + 2\pi
+F_\omega(z) = \int_{-\infty}^\infty \frac{e^{-\pi\omega x^2 + 2\pi
 x}\sin(\pi x z)}{e^{2\pi x}-1} \, \text{d} x.
 $$
 
-**Exercise 2.** (a) Define $\varphi$ by
+We'll end with a few exercises on this theme.
+
+(a) Define $\varphi$ by
 
 $$
 h(z; \tau) = -\frac{2i}{\tau}e^{-(\pi i\tau/4 + \pi i
@@ -182,7 +196,7 @@ $$
 (b) Using equation $(1)$ and $(2)$ or otherwise, show that
 
 $$
-F_\omega(z) = -\frac{i}{\sqrt{omega}} e^{-\pi z^2/3\omega} F_{1/\omega}\left(\frac{iz}{\omega}\right).
+F_\omega(z) = -\frac{i}{\sqrt{\omega}} e^{-\pi z^2/3\omega} F_{1/\omega}\left(\frac{iz}{\omega}\right).
 $$
 
 (c) Set $\omega = \alpha^2$ and replace $z$ with $\alpha
