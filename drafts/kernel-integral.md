@@ -152,3 +152,12 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h(z/2\pi\tau; -1/\tau).
 \end{align*}
 $$
+
+**Exercise 2.** Show this translates into the following identity: for
+  $\alpha\beta = 1$ and $\alpha, \beta > 0$,
+
+$$
+\sqrt{\alpha}e^{z^2/8}\int_{-\infty}^\infty
+\frac{e^{-\pi^2\alpha^2x^2}\sin(\sqrt{\pi}\alpha x z)}{e^{2\pi x}-1} \text{d}x = \sqrt{\beta}e^{-z^2/8}\int_{-\infty}^\infty
+\frac{e^{-\pi^2\beta^2x^2}\sinh(\sqrt{\pi}\beta x z)}{e^{2\pi x}-1} \text{d}x.
+$$
