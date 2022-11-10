@@ -53,7 +53,7 @@ Let's take everyone's favourite example, the 1D Fourier transform,:
 
 $$
 T_\text{F} f(\omega) = \frac{1}{\sqrt{2\pi}}\int_{-\infty}^\infty
-f(x)e^{}-i\omega x} \, \text{d}x.
+f(x)e^{-i\omega x} \, \text{d}x.
 $$
 
 The basic point is that we can replace 
