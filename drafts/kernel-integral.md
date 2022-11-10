@@ -63,7 +63,7 @@ T_\text{F} f(\omega) = \frac{1}{\sqrt{2\pi}}\int_{-\infty}^\infty
 f(x)e^{-i\omega x} \, \text{d}x.
 $$
 
-Let's warm up with a simple one, using the pairs
+We can consult a table and pick out, for instance, the pairs
 
 $$
 \begin{align*}
@@ -80,8 +80,6 @@ $$
 \begin{align*}
 \int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha x^2}}{\beta^2 + x^2} \,
 \text{d}x
-& = \int_{-\infty}^\infty \overset{f}{e^{-\alpha x^2}} \overset{T_\text{F}g}{\sqrt{\frac{2}{\pi}}\cdot\frac{\beta}{\beta^2 +
-x^2}} \, \text{d}x \\
 & =\frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x.
 \end{align*}
 $$
@@ -90,5 +88,5 @@ This last expression is a Gaussian integral we can easily evalute, yielding
 
 $$
 \int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha
-x^2}}{\beta^2 + x^2} = \frac{2}{\sqrt{2\alpha}} \int_{0}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x
+x^2}}{\beta^2 + x^2} = \frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x.
 $$
