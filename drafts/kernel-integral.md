@@ -48,7 +48,12 @@ $$
 $$
 
 with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
-But this turns out to be a useful trick for evaluating concrete integrals!
+But this turns out to be a useful trick for doing integrals!
+Even if we can't evaluate them in closed form, we can sometimes arrive
+at curious identities.
+
+*Full disclosure.* I didn't come up with this trick. Rather, I gleaned
+ it from some identities of Ramanujan!
 
 #### Examples
 
@@ -59,4 +64,25 @@ T_\text{F} f(\omega) = \frac{1}{\sqrt{2\pi}}\int_{-\infty}^\infty
 f(x)e^{-i\omega x} \, \text{d}x.
 $$
 
-The basic point is that we can replace 
+Let's warm up with a simple one, using the pairs
+
+$$
+\begin{align*}
+f(x) & = e^{-\alpha x^2}, \quad T_\text{F}f(\omega) =
+\frac{1}{\sqrt{2\alpha}}} e^{-\omega^2/4\alpha} \\
+g(x) & = e^{-\beta |x|}, \quad T_\text{F}g(\omega) =
+\sqrt{\frac{2}{\pi}} \cdot \frac{\beta}{\beta^2 + \omega^2}.
+\end{align*}
+$$
+
+Then
+
+$$
+\begin{align*}
+\int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha x^2}}{\beta^2 + x^2} \,
+\text{d}x
+& = \int_{-\infty}^\infty \overset{f}{e^{-\alpha x^2}} \overset{T_\text{F}g}{\sqrt{\frac{2}{\pi}}\cdot\frac{\beta}{\beta^2 +
+x^2}} \, \text{d}x \\
+& =\frac{1}{\sqrt{2\alpha}}} \int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x.
+\end{align*}
+$$
