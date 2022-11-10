@@ -45,9 +45,8 @@ $$
 \int_{\Omega} f(x) g(x) \text{d}x = \int_{\Omega} Tf(y) Tg(y) \text{d}y.
 $$
 
-This may seem trivial (we've "just" written the definition orthogonality in an obscure way)
-or uselessly abstract, but this is sometimes useful for doing integrals.
-
 #### Examples
 
+This may seem trivial (we've "just" written the definition orthogonality in an obscure way)
+or uselessly abstract, but this is sometimes useful for doing integrals.
 Let's take everyone's favourite, the Fourier transform.
