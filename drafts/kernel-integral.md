@@ -139,16 +139,16 @@ g(x) & = \frac{1}{\cosh(\gamma x)}, \quad T_\text{F}g(\omega) =
 \end{align*}
 $$
 
-The kernel trick now gives
+The kernel trick (and the change of variable $x = 2\pi u$) now gives
 
 $$
 \begin{align*}
 h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
-\frac{e^{i(2\pi z-i\omega)^2/4\pi\tau}}{\cosh(x/2)} \, \text{d}x \\
+\frac{e^{i(2\pi z-ix)^2/4\pi\tau}}{\cosh(x/2)} \, \text{d}x \\
 & = \frac{\sqrt{\pi}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
-\frac{e^{-i\omega^2/4\pi\tau+z/\tau}}{\cosh(x/2)} \, \text{d}x
+\frac{e^{-ix^2/4\pi\tau+z/\tau}}{\cosh(x/2)} \, \text{d}x \\
+& = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
+\frac{e^{-i\pi x^2/\tau+z/\tau}}{\cosh(x/2)} \, \text{d}u \\
+& = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h(z/2\pi\tau; -1/\tau).
 \end{align*}
 $$
-
-i(2\pi z-i\omega)^2/4\pi\tau
--i\omega^2/4\pi\tau+z/\tau
