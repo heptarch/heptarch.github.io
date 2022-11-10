@@ -11,7 +11,7 @@ date:  2022-11-09
   kernels. I'll apply this to a funky Gaussian integral and a class of
   expressions studied by Mordell and Ramanujan.*
 
-### Outline
+#### Outline
 ---
 
 Consider an integral transform with kernel $K(x, y)$.
@@ -38,9 +38,11 @@ $$
 For a symmetric kernel $K(x, y) = K(y, x)$ and $\Omega_1 = \Omega_2
 = \Omega$, we have $T_1 = T_2 = T$, and our result simplifies to
 
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 $$
 \int_{\Omega} f(x) Tg(x) \text{d}x = \int_{\Omega} Tf(y) g(y) \text{d}y.
 $$
+</div>
 
 From a pure math standpoint, these observations are in some sense
 trivial. We've just observed that the integral transforms
@@ -54,9 +56,10 @@ with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing integrals!
 *Full disclosure.* I didn't come up with this hack, but stole it
 (with modifications) from Ramanujan.
-Also, I'm happily ignoring many mathematical subtleties!
+Also, I'm happily ignoring many mathematical subtleties! The joys of
+being a physicist.
 
-### The Voigt integral
+#### The Voigt integral
 ---
 
 Let's take everyone's favourite example, the 1D Fourier transform:
@@ -120,7 +123,7 @@ the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-**Exercise 1.** The *Mellin transform* 
+<b>Exercise 1.</b> The <i>Mellin transform</i>
 
 $$
 \mathcal{M}f(s) = \int_0^\infty x^{s-1} f(x) \, \text{d}s.
@@ -130,10 +133,12 @@ is defined by an asymmetric
 kernel $K(x, s) = x^{s-1}$.
 In particular $ \mathcal{M} = T_1$ and $T_2
 \neq T_1$.
-If we want to apply our
+<span style="padding-left: 20px; display:block">
+(a) Use 
+</span>
 </div>
 
-### Mordell integrals
+#### Mordell integrals
 ---
 
 Here's a fancier example, again using the Fourier transform.
@@ -175,7 +180,7 @@ $$
 This is not a trivial result!
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-**Exercise 2.** Ramanujan defined the related integral
+<b>Exercise 2.</b> Ramanujan defined the related integral
 
 $$
 F_\omega(z) = \int_{-\infty}^\infty \frac{e^{-\pi\omega x^2 + 2\pi
@@ -184,6 +189,7 @@ $$
 
 We'll end with a few exercises on this theme.
 
+<span style="padding-left: 20px; display:block">
 (a) Define $\varphi$ by
 
 $$
@@ -214,4 +220,5 @@ $$
 \frac{e^{-\pi^2\alpha^2x^2}\sin(\sqrt{\pi}\alpha x z)}{e^{2\pi x}-1} \text{d}x = \sqrt{\beta}e^{-z^2/8}\int_{-\infty}^\infty
 \frac{e^{-\pi^2\beta^2x^2}\sinh(\sqrt{\pi}\beta x z)}{e^{2\pi x}-1} \text{d}x.
 $$
+</span>
 </div>
