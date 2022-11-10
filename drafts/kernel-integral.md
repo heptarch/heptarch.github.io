@@ -11,7 +11,7 @@ date:  2022-11-09
   kernels. I'll apply this to a funky Gaussian integral and a class of
   expressions studied by Mordell and Ramanujan.*
 
-#### Outline
+### Outline
 
 Consider an integral transform with kernel $K(x, y)$.
 In general, this gives two distinct transforms,
@@ -53,9 +53,9 @@ with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing integrals!
 *Full disclosure.* I didn't come up with this hack, but stole it
 (with modifications) from Ramanujan.
-There are a variety of mathematical subtleties I'm happily ignoring.
+Also, I'm happily ignoring many mathematical subtleties!
 
-#### The Voigt integral
+### The Voigt integral
 
 Let's take everyone's favourite example, the 1D Fourier transform:
 
@@ -131,7 +131,7 @@ Note that, for $K(x, s) = x^{s-1}$, $ \mathcal{M} = T_1$, and $T_2
 
 ---
 
-#### Mordell integrals
+### Mordell integrals
 
 Here's a fancier example, again using the Fourier transform.
 Consider the [*Mordell integral*](https://webpages.charlotte.edu/aroy15/image/drz5-err.pdf)
