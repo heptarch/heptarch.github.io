@@ -93,7 +93,7 @@ $$
 $$
 
 The RHS is straightforward to express in terms of the complementary error
-function
+function:
 
 $$
 \text{erfc}(z) = \frac{2}{\sqrt{\pi}}\int_z^\infty e^{-x^2}\, \text{d}x.
