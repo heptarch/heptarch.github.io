@@ -9,7 +9,7 @@ date:  2022-11-09
 
 **November 9, 2022.** *I present a simple trick for doing integrals by swapping
   kernels. I'll apply this to a funky Gaussian integral and a class of
-  integrals studied by Mordell and Ramanujan.*
+  expressions studied by Mordell and Ramanujan.*
 
 #### Outline
 
@@ -54,6 +54,8 @@ But this turns out to be a useful trick for doing integrals!
 *Full disclosure.* I didn't come up with this hack, but stole it
 (with modifications) from Ramanujan.
 There are a variety of mathematical subtleties I'm happily ignoring.
+
+**Exercise 1.**
 
 #### The Voigt integral
 
@@ -128,7 +130,7 @@ zx}}{\cosh(\pi x)} \, \text{d}x,
 $$
 
 with $\Im(\tau) > 0$ to ensure convergence.
-In fact, this is a product of functions which are *self-dual* under
+For our purposes, we note tat this is a product of functions which are *self-dual* under
 the Fourier transform, up to a change in their parameters:
 
 $$
@@ -150,12 +152,42 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-ix^2/4\pi\tau+z/\tau}}{\cosh(x/2)} \, \text{d}x \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-i\pi x^2/\tau+z/\tau}}{\cosh(x/2)} \, \text{d}u \\
-& = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h(z/2\pi\tau; -1/\tau).
+& = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h(z/2\pi\tau;
+-1/\tau). \tag{1}
 \end{align*}
 $$
 
-**Exercise 2.** Show this translates into the following identity: for
-  $\alpha\beta = 1$ and $\alpha, \beta > 0$,
+Ramanujan defined the related integral
+
+$$
+F_\omega(z) = \int_{-\infty}]^\infty \frac{e^{-\pi\omega x^2 + 2\pi
+x}\sin(\pi x z)}{e^{2\pi x}-1} \, \text{d} x.
+$$
+
+**Exercise 2.** (a) Define $\varphi$ by
+
+$$
+h(z; \tau) = -\frac{2i}{\tau}e^{-(\pi i\tau/4 + \pi i
+z)}\varphi\left(z + \frac{\tau-1}{2}, \tau\right).
+$$
+
+Prove that $F_\omega(z)$ and $h(z; \tau)$ are
+related by
+
+$$
+F_{-i\tau}(2iz) =
+\frac{1}{2i\tau}\left[\varphi(z, t) - \varphi(-z, \tau)\right]. \tag{2}
+$$
+
+(b) Using equation $(1)$ and $(2)$ or otherwise, show that
+
+$$
+F_\omega(z) = -\frac{i}{\sqrt{omega}} e^{-\pi z^2/3\omega} F_{1/\omega}\left(\frac{iz}{\omega}\right).
+$$
+
+(c) Set $\omega = \alpha^2$ and replace $z$ with $\alpha
+z/\sqrt{\pi}$.
+Deduce from part (b) that, for $\alpha\beta = 1$ and $\alpha, \beta > 0$,
 
 $$
 \sqrt{\alpha}e^{z^2/8}\int_{-\infty}^\infty
