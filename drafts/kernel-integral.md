@@ -51,8 +51,8 @@ with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing integrals!
 Even if we can't evaluate them in closed form, we can sometimes arrive
 at curious identities.
-*Full disclosure.* I didn't come up with this trick. Rather, I
-abstracted it from Ramanujan!
+*Full disclosure.* I didn't come up with this trick, but stole it
+(with modifications) from Ramanujan!
 
 #### Examples
 
