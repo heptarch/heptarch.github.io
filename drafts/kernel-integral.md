@@ -119,15 +119,17 @@ the
 
 ---
 
-**Exercise 1.** The *Mellin transform* is defined by an asymmetric
-kernel
+**Exercise 1.** The *Mellin transform* 
 
 $$
 \mathcal{M}f(s) = \int_0^\infty x^{s-1} f(x) \, \text{d}s.
 $$
 
-Note that, for $K(x, s) = x^{s-1}$, $ \mathcal{M} = T_1$, and $T_2
+is defined by an asymmetric
+kernel $K(x, s) = x^{s-1}$.
+In particular $ \mathcal{M} = T_1$ and $T_2
 \neq T_1$.
+If we want to apply our 
 
 ---
 
