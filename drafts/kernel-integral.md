@@ -196,7 +196,7 @@ $$
 (b) Using equation $(1)$ and $(2)$ or otherwise, show that
 
 $$
-F_\omega(z) = -\frac{i}{\sqrt{\omega}} e^{-\pi z^2/3\omega} F_{1/\omega}\left(\frac{iz}{\omega}\right).
+F_\omega(z) = -\frac{i}{\sqrt{\omega}} e^{-\pi z^2/4\omega} F_{1/\omega}\left(\frac{iz}{\omega}\right).
 $$
 
 (c) Set $\omega = \alpha^2$ and replace $z$ with $\alpha
