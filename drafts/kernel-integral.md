@@ -11,7 +11,7 @@ date:  2022-11-09
   kernels. I'll apply this to a funky Gaussian integral and a class of
   expressions studied by Mordell and Ramanujan.*
 
-### Outline
+## Outline
 ---
 
 Consider an integral transform with kernel $K(x, y)$.
