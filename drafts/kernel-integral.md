@@ -12,6 +12,7 @@ date:  2022-11-09
   expressions studied by Mordell and Ramanujan.*
 
 ### Outline
+---
 
 Consider an integral transform with kernel $K(x, y)$.
 In general, this gives two distinct transforms,
@@ -56,6 +57,7 @@ But this turns out to be a useful trick for doing integrals!
 Also, I'm happily ignoring many mathematical subtleties!
 
 ### The Voigt integral
+---
 
 Let's take everyone's favourite example, the 1D Fourier transform:
 
@@ -117,8 +119,7 @@ I call this the
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
----
-
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 **Exercise 1.** The *Mellin transform* 
 
 $$
@@ -129,11 +130,11 @@ is defined by an asymmetric
 kernel $K(x, s) = x^{s-1}$.
 In particular $ \mathcal{M} = T_1$ and $T_2
 \neq T_1$.
-If we want to apply our 
-
----
+If we want to apply our
+</div>
 
 ### Mordell integrals
+---
 
 Here's a fancier example, again using the Fourier transform.
 Consider the [*Mordell integral*](https://webpages.charlotte.edu/aroy15/image/drz5-err.pdf)
@@ -173,8 +174,7 @@ $$
 
 This is not a trivial result!
 
----
-
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 **Exercise 2.** Ramanujan defined the related integral
 
 $$
@@ -214,5 +214,4 @@ $$
 \frac{e^{-\pi^2\alpha^2x^2}\sin(\sqrt{\pi}\alpha x z)}{e^{2\pi x}-1} \text{d}x = \sqrt{\beta}e^{-z^2/8}\int_{-\infty}^\infty
 \frac{e^{-\pi^2\beta^2x^2}\sinh(\sqrt{\pi}\beta x z)}{e^{2\pi x}-1} \text{d}x.
 $$
-
----
+</div>
