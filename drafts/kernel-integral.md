@@ -11,7 +11,7 @@ date:  2022-11-09
   kernels. I'll apply this to a funky Gaussian integral and a class of
   expressions studied by Mordell and Ramanujan.*
 
-<font size="+2">Outline</font>
+### Outline
 ---
 
 Consider an integral transform with kernel $K(x, y)$.
@@ -132,10 +132,15 @@ $$
 
 is defined by an asymmetric
 kernel $K(x, s) = x^{s-1}$.
-In particular $ \mathcal{M} = T_1$ and $T_2
-\neq T_1$.
+In particular $\mathcal{M} = \mathcal{M}_1$ and integrating with
+respect to the base gives a different transform, $\mathcal{M}_2
+\neq \mathcal{M}_1$.
 <span style="padding-left: 20px; display:block">
-(a) Use 
+(a) Using results from Mellin transforms, show that
+
+$$
+\int_0^\infty e^{-x}\mathcal{M}_2 g(x) \, \text{d}x = \int_0^\infty \Gamma(s) g(s) \, \text{d}s.
+$$
 </span>
 </div>
 
