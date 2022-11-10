@@ -115,4 +115,39 @@ I call this the
 "Voigt integral"after
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
-I did this one myself!
+
+#### Mordell integrals
+
+Here's a fancier example, again using the Fourier transform.
+Consider the [*Mordell integral*](https://webpages.charlotte.edu/aroy15/image/drz5-err.pdf)
+
+$$
+h(z; \tau) = \int_{-\infty}^\infty \frac{e^{\pi i \tau x^2 - 2\pi
+zx}}{\cosh(\pi x)} \, \text{d}x,
+$$
+
+with $\Im(\tau) > 0$ to ensure convergence.
+In fact, this is a product of functions which are *self-dual* under
+the Fourier transform, up to a change in their parameters:
+
+$$
+\begin{align*}
+f(x) & = e^{i\alpha x^2 - \beta x}, \quad T_\text{F}f(\omega) =
+\frac{1}{\sqrt{-2i\alpha}} e^{i(\beta-i\omega)^2/4\alpha} \\
+g(x) & = \frac{1}{\cosh(\gamma x)}, \quad T_\text{F}g(\omega) =
+\sqrt{\frac{\pi}{2}} \frac{1}{\gamma\cosh(\pi\omega/2\gamma)}.
+\end{align*}
+$$
+
+The kernel trick now gives
+
+$$
+\begin{align*}
+h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
+\frac{e^{i(2\pi z-i\omega)^2/4\pi\tau}}{\cosh(x/2)} \, \text{d}x \\
+& = 
+\end{align*}
+$$
+
+alpha = \pi tau
+\beta = 2\pi z
