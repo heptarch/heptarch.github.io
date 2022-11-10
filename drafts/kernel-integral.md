@@ -69,13 +69,13 @@ Let's warm up with a simple one, using the pairs
 $$
 \begin{align*}
 f(x) & = e^{-\alpha x^2}, \quad T_\text{F}f(\omega) =
-\frac{1}{\sqrt{2\alpha}}} e^{-\omega^2/4\alpha} \\
+\frac{1}{\sqrt{2\alpha}} e^{-\omega^2/4\alpha} \\
 g(x) & = e^{-\beta |x|}, \quad T_\text{F}g(\omega) =
 \sqrt{\frac{2}{\pi}} \cdot \frac{\beta}{\beta^2 + \omega^2}.
 \end{align*}
 $$
 
-Then
+Then our kernel trick gives
 
 $$
 \begin{align*}
@@ -83,6 +83,13 @@ $$
 \text{d}x
 & = \int_{-\infty}^\infty \overset{f}{e^{-\alpha x^2}} \overset{T_\text{F}g}{\sqrt{\frac{2}{\pi}}\cdot\frac{\beta}{\beta^2 +
 x^2}} \, \text{d}x \\
-& =\frac{1}{\sqrt{2\alpha}}} \int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x.
+& =\frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x.
 \end{align*}
+$$
+
+This last expression is a Gaussian integral we can easily evalute, yielding
+
+$$
+\int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha
+x^2}}{\beta^2 + x^2} = 
 $$
