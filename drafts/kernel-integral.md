@@ -11,7 +11,7 @@ date:  2022-11-09
   kernels. I'll apply this to a funky Gaussian integral and a class of
   expressions studied by Mordell and Ramanujan.*
 
-## Outline
+## Overview
 ---
 
 Consider an integral transform with kernel $K(x, y)$.
@@ -60,7 +60,7 @@ But this turns out to be a useful trick for doing integrals!
 Also, I'm happily ignoring many mathematical subtleties! The joys of
 being a physicist.
 
-#### The Voigt integral
+## The Voigt integral
 ---
 
 Let's take everyone's favourite example, the 1D Fourier transform:
@@ -144,7 +144,7 @@ $$
 </span>
 </div>
 
-#### Mordell integrals
+## Mordell integrals
 ---
 
 Here's a fancier example, again using the Fourier transform.
@@ -193,7 +193,7 @@ F_\omega(z) = \int_{-\infty}^\infty \frac{e^{-\pi\omega x^2 + 2\pi
 x}\sin(\pi x z)}{e^{2\pi x}-1} \, \text{d} x.
 $$
 
-We'll end with a few exercises on this theme.
+We'll end with a few exercises on this theme. <br>
 
 <span style="padding-left: 20px; display:block">
 (a) Define $\varphi$ by
@@ -217,7 +217,7 @@ $$
 F_\omega(z) = -\frac{i}{\sqrt{\omega}} e^{-\pi z^2/4\omega} F_{1/\omega}\left(\frac{iz}{\omega}\right).
 $$
 
-(c) Set $\omega = \alpha^2$ and replace $z$ with $\alpha
+(c) Set $\omega = \alpha^2$ and $z \to \alpha
 z/\sqrt{\pi}$.
 Deduce from part (b) that, for $\alpha\beta = 1$ and $\alpha, \beta > 0$,
 
