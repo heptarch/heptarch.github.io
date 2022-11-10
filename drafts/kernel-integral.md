@@ -8,8 +8,8 @@ date:  2022-11-10
 ---
 
 **November 10, 2022.** *I present a simple trick for doing integrals by swapping
-  kernels. I'll apply this to a funky Gaussian integral and a class of
-  expressions studied by Mordell and Ramanujan.*
+  kernels. I'll apply this to a weird Gaussian integral and some
+  objects studied by Mordell and Ramanujan.*
 
 ## Overview
 ---
@@ -57,7 +57,7 @@ with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing integrals!
 
 *Full disclosure.* I didn't come up with this hack, but stole it
-(with modifications) from Ramanujan.
+(with a few personal customizations) from Ramanujan.
 Also, I'm happily ignoring many mathematical subtleties! The joys of
 being a physicist.
 
@@ -143,13 +143,15 @@ trick to do some interesting things. <br>
 (a) Using results from Mellin transforms, show that
 
 $$
-\int_0^\infty \frac{\mathcal{M}_2 g(x)}{e^x - 1} \, \text{d}x = \int_0^\infty \Gamma(s)\zeta(s) g(s) \, \text{d}s.
+\int_0^\infty \frac{\mathcal{M}_2 g(x)}{e^x - 1} \, \text{d}x = \int_0^\infty \Gamma(s)\zeta(s) g(s) \, \text{d}s,
 $$
+
+where $\zeta(s)$ is the Riemann zeta function.
 
 (b) Evaluate
 
 $$
-\frac{\mathcal{M}_2 g(x) = \int_0^\infty
+\mathcal{M}_2 g(x) = \int_0^\infty
 $$
 </span>
 </div>
