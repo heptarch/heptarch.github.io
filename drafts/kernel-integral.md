@@ -7,7 +7,8 @@ categories: [Math, Hacks]
 date:  2022-11-09
 ---
 
-**November 9, 2022.** *A trick for doing integrals, .*
+**November 9, 2022.** *I present a simple trick for doing integrals by swapping
+  kernels. I'll apply this to a funky Gaussian integral, *
 
 #### Outline
 
@@ -39,8 +40,8 @@ $$
 \int_{\Omega} f(x) Tg(x) \text{d}x = \int_{\Omega} Tf(y) g(y) \text{d}y.
 $$
 
-From a pure math standpoint, these observations are in some sense trivial. We have an
-inner product, and we've just observed that the integral transforms
+From a pure math standpoint, these observations are in some sense
+trivial. We've just observed that the integral transforms
 $T_1$ and $T_2$ are dual,
 
 $$
@@ -49,10 +50,9 @@ $$
 
 with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing integrals!
-Even if we can't evaluate them in closed form, we can sometimes arrive
-at curious identities.
-*Full disclosure.* I didn't come up with this trick, but stole it
-(with modifications) from Ramanujan!
+*Full disclosure.* I didn't come up with this hack, but stole it
+(with modifications) from Ramanujan.
+There are a variety of mathematical subtleties I'm happily ignoring.
 
 #### The Voigt integral
 
@@ -113,4 +113,6 @@ $$
 
 I call this the
 "Voigt integral"after
-the [related convolution in spectroscopy ](https://en.wikipedia.org/wiki/Voigt_profile).
+the
+[related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
+I did this one myself!
