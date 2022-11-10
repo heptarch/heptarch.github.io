@@ -22,9 +22,10 @@ If everything is smooth enough to swap integrals (i.e. Fubini's theorem), then
 
 $$
 \begin{align*}
-\int_\Omega f(t) \hat{g}(t) \text{d}t & = \int_\Omega
-f(t)\left[\int_\Omega g(x) K(x, t) \, \text{d}x\right] \text{d}t \\
-& = \int_\Omega
-g(x)\left[\int_\Omega f(t) K(x, t) \, \text{d}t\right] \text{d}x
+\int_{\Omega_1} f(x) T_2g(x) \text{d}y & = \int_{\Omega_1}
+f(x)\left[\int_{\Omega_2} g(y) K(x, y) \, \text{d}y\right] \text{d}x \\
+& = \int_{\Omega_2}
+g(y)\left[\int_\Omega f(x) K(x, y) \, \text{d}x\right] \text{d}y \\
+& = \int_{\Omega_2} T_1f(y) g(y) \text{d}y.
 \end{align*}
 $$
