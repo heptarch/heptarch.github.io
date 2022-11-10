@@ -54,7 +54,7 @@ at curious identities.
 *Full disclosure.* I didn't come up with this trick, but stole it
 (with modifications) from Ramanujan!
 
-#### Examples
+#### The Voigt integral
 
 Let's take everyone's favourite example, the 1D Fourier transform:
 
@@ -80,13 +80,20 @@ $$
 \begin{align*}
 \int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha x^2}}{\beta^2 + x^2} \,
 \text{d}x
-& =\frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x.
+& =\frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha + \beta|x|} \, \text{d}x.
 \end{align*}
 $$
 
-This last expression is a Gaussian integral we can easily evalute, yielding
+The RHS is straightforward to express in terms of the complementary error
+function. We complete the square, defining $2\sqrt{\alpha}u = x +
+2\alpha\beta$ to find
 
 $$
-\int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha
-x^2}}{\beta^2 + x^2} = \frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x.
+\begin{align*}
+\int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x
+& = 2\int_{0}^\infty e^{-x^2/4\alpha - \beta x} \, \text{d}x\\
+& = 4\sqrt{\alpha} e^{\alpha\beta^2}\int_{2\alpha\beta}^\infty
+e^{-u^2} \, \text{d}u\\
+& = 2\sqrt{\pi\alpha} e^{\alpha\beta^2}\text{erfc}(\sqrt{\alpha}\beta).
+\end{align*}
 $$
