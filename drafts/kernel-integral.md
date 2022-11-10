@@ -105,7 +105,7 @@ e^{-u^2} \, \text{d}u\\
 \end{align*}
 $$
 
-We conclude that 
+We can finally conclude that 
 
 $$
 \int_{-\infty}^\infty \frac{ e^{-\alpha
@@ -117,6 +117,8 @@ I call this the
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
+---
+
 **Exercise 1.** The *Mellin transform* is defined by an asymmetric
 kernel
 
@@ -126,6 +128,8 @@ $$
 
 Note that, for $K(x, s) = x^{s-1}$, $ \mathcal{M} = T_1$, and $T_2
 \neq T_1$.
+
+---
 
 #### Mordell integrals
 
@@ -208,3 +212,5 @@ $$
 \frac{e^{-\pi^2\alpha^2x^2}\sin(\sqrt{\pi}\alpha x z)}{e^{2\pi x}-1} \text{d}x = \sqrt{\beta}e^{-z^2/8}\int_{-\infty}^\infty
 \frac{e^{-\pi^2\beta^2x^2}\sinh(\sqrt{\pi}\beta x z)}{e^{2\pi x}-1} \text{d}x.
 $$
+
+---
