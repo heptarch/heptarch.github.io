@@ -51,9 +51,8 @@ with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing integrals!
 Even if we can't evaluate them in closed form, we can sometimes arrive
 at curious identities.
-
-*Full disclosure.* I didn't come up with this trick. Rather, I gleaned
- it from some identities of Ramanujan!
+*Full disclosure.* I didn't come up with this trick. Rather, I
+abstracted it from Ramanujan!
 
 #### Examples
 
@@ -91,5 +90,5 @@ This last expression is a Gaussian integral we can easily evalute, yielding
 
 $$
 \int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha
-x^2}}{\beta^2 + x^2} = 
+x^2}}{\beta^2 + x^2} = \frac{2}{\sqrt{2\alpha}} \int_{0}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x
 $$
