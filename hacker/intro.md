@@ -16,7 +16,6 @@ providence in this. This book is written from the conviction that awe, beauty, a
 are almost entirely missing from our curricula. We teach the wrong things, using the wrong
 methods, for the wrong reasons. The outcome is, of course, deeply
 wrong.
-
 <div.a>Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
