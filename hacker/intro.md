@@ -44,7 +44,7 @@ in replacing one rigidity with another. Instead, it is an invitation to ask stup
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
 culture, not the digital intruders and electoral trolls that "hacker" suggests to the modern ear,
 but an older, nobler tradition growing out of places like MIT, Bell Labs, and the open-source
-software movement. In the words of open-source gnuru Richard Stallman: </p>
+software movement. In the words of open-source gnuru Richard Stallman: 
 <span style="padding-left: 20px; display:block">
 What [hackers] had in common was a love of excellence and programming. They
 wanted to make the programs that they used be as good as they could. They also
@@ -61,7 +61,7 @@ indistinguishable. To paraphrase L. P. Jacks, a hacker
 . . . simply pursues their vision of excellence at whatever they do, leaving others to
 decide whether they are working or playing. To them, they are always
 doing both.
-</span>
+</span></p>
 
 <p> When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
 pranksters transformed a campus building into a giant version of Tetris, were they working
