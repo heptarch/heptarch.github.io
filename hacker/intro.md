@@ -7,7 +7,7 @@ categories:
 date:  2021-04-06
 ---
 
-The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
+<p>The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
 it is knowable. Our knowledge may be fragmentary and often plain wrong; that is the basic
 predicament of science. But it makes it no less miraculous that we can unravel the biological
 blueprint of a daffodil, land a robot on the red sands of Mars, or hear the faint chirp of black
@@ -15,9 +15,8 @@ holes colliding, in the depths of space, a billion years ago. There is awe and b
 providence in this. This book is written from the conviction that awe, beauty, and providence
 are almost entirely missing from our curricula. We teach the wrong things, using the wrong
 methods, for the wrong reasons. The outcome is, of course, deeply
-wrong.
-
-Let me elaborate. If students learn to reproduce known results by rote, they will take both
+wrong.</p>
+<p> Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
 square law, and what happens if it doesn’t? They neither know nor care because they are
@@ -27,9 +26,8 @@ resent this "mastery" and see it for the sham that it is. No wonder so many peop
 faster than a hot potato! But worst of all, students learn to mask their ignorance. There is no
 better way to discourage a love of play and a taste for the unknown than by labelling questions
 "stupid", and rewarding those who "fake it till they make it". Or, more realistically, simply go
-on faking.
-
-If formal education kills this sense of awe and beauty (with an almost military efficiency)
+on faking. </p>
+<p> If formal education kills this sense of awe and beauty (with an almost military efficiency)
 where can it be found? If you’re lucky, the rigors of graduate school. A better bet is to pick a
 volume at random from the popular science section at your local bookstore. Here you will find
 the universe described in loving wonder, and the greater portion of that wonder reserved for
@@ -40,14 +38,13 @@ their ignorance and keep asking. If they fake it, the only person they deceive i
 School does not work this way, and when teachers make the same quip about cheating, they
 are neglecting the systemic realities — the hoops to jump through, the boxes to tick, all those
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
-there will be no cheating.
-
-So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
+there will be no cheating. </p>
+<p> So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
 in replacing one rigidity with another. Instead, it is an invitation to ask stupid questions, and
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
 culture, not the digital intruders and electoral trolls that "hacker" suggests to the modern ear,
 but an older, nobler tradition growing out of places like MIT, Bell Labs, and the open-source
-software movement. In the words of open-source gnuru Richard Stallman:
+software movement. In the words of open-source gnuru Richard Stallman: </p>
 
 <span style="padding-left: 20px; display:block">
 What [hackers] had in common was a love of excellence and programming. They
@@ -68,12 +65,12 @@ decide whether they are working or playing. To them, they are always
 doing both.
 </span>
 
-When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
+<p> When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
 pranksters transformed a campus building into a giant version of Tetris, were they working
 or playing? The answer is both; they were hacking, so the distinction is irrelevant. This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
 Feynman, a physicist who won the Nobel Prize for co-inventing quantum electrodynamics,
 but had a history of hopping between different areas and doing amazing things wherever he
-landed. He gave this advice to an aspiring scientist:
+landed. He gave this advice to an aspiring scientist: </p>
 
 <span style="padding-left: 20px; display:block">
 Study hard what interests you the most in the most undisciplined, irreverent and
@@ -99,11 +96,10 @@ got the Nobel Prize for came from that piddling around with the wobbling plate.
 The plate, here, is one that Feynman saw wobbling oddly when thrown in the Cornell cafeteria.
 He sat down, figured out the wobble, and was led, step by associative step, to a Nobel Prize.
 Working and playing go together.
-
-Hacker culture is organized around discrete units called hacks. A hack is more than a
+<p> Hacker culture is organized around discrete units called hacks. A hack is more than a
 record of play, or mere cleverness, or even creative flair. It is play condensed by technical wit,
 and like a good joke, has an element of surprise or shortcut. A brilliant example is Tupper’s
-self-referential formula. Consider the inequality
+self-referential formula. Consider the inequality </p>
 
 $$
 \frac{1}{2} < \left\lfloor
@@ -131,11 +127,11 @@ to understand, are not usually hacks. Andrew Wiles’ proof of Fermat’s Last T
 us. It is precisely this unimaginability that makes it hard to share at the pub or during a departmental coffee break. And like jokes, hacks are *memes*, designed to be socially distributed
 and mutually enjoyed. What’s the point if you can’t talk about it?
 
-These qualities of shareability and mutual enjoyment contribute to what is called the hack
+<p> These qualities of shareability and mutual enjoyment contribute to what is called the hack
 value, a term which actually predates "hack", and from which "hack" is formed. Just like
 humor, hack value is hard to define, but perhaps the most important component is leverage,
 which (analogous to mechanical leverage) we can define as the ratio of end result to the means
-used:
+used: </p>
 
 $$
 \text{hack value} = \frac{\text{ends}}{\text{means}}.
