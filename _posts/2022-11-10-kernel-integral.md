@@ -150,18 +150,17 @@ $(\ref{hankel})$ to show that
 
 $$
 \int_0^\infty e^{-\alpha^2 t/2} K_0(\beta\sqrt{u})\, \text{d}u =
--\frac{1}{\alpha^2} e^{-\beta^2/2\alpha^2}\text{Ei}\left(-\frac{\beta^2}{2\alpha^2}\right).
+-\frac{1}{\alpha^2} e^{-\beta^2/2\alpha^2}\text{Ei}\left(-\frac{\beta^2}{2\alpha^2}\right),
 $$
 
-
-</span>
-
-Here, $K_0$ is a <i>modified Bessel function of the second kind</i> and
+where $K_0$ is a <i>modified Bessel function of the second kind</i> and
 $\text{Ei}$ is the <i>exponential integral<i>, a special function defined by
 
 $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
 $$
+
+</span>
 
 </div>
 
