@@ -132,8 +132,9 @@ $$
 $$
 
 is defined by an asymmetric
-kernel $K(r, k) = rJ_\nu(kr)$, where $J_\nu$ is the Bessel function of
-order $\nu$. <br>
+kernel $K(r, k) = rJ_\nu(kr)$, where $J_\nu$ is a Bessel function of
+the first kind of order $\nu$.
+<br>
 
 <span style="padding-left: 20px; display:block">
 (a) Using the kernel trick, show that
