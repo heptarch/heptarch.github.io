@@ -8,4 +8,4 @@ Everything here is in draft form.
 
 #### Chapters
 
-- [Introduction](/hacker/intro)
+- [*Introduction: Hacking the Universe*](/hacker/intro)

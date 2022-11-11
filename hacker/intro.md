@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Hacking the universe"
+title:  "Introduction: Hacking the universe"
 categories:
 date:  2021-04-06
 ---
