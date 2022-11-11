@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "An introductory manifesto"
+title:  "Hacking the universe"
 categories:
 date:  2021-04-06
 ---
@@ -44,7 +44,8 @@ in replacing one rigidity with another. Instead, it is an invitation to ask stup
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
 culture, not the digital intruders and electoral trolls that "hacker" suggests to the modern ear,
 but an older, nobler tradition growing out of places like MIT, Bell Labs, and the open-source
-software movement. In the words of open-source gnuru Richard Stallman: 
+software movement. In the words of open-source gnuru Richard Stallman:
+
 <span style="padding-left: 20px; display:block">
 What [hackers] had in common was a love of excellence and programming. They
 wanted to make the programs that they used be as good as they could. They also
@@ -52,6 +53,7 @@ wanted to make them do neat things. They wanted to be able to do something in
 a more exciting way than anyone believed possible and show ‘Look how wonderful
 this is. I bet you didn’t believe this could be done.’
 </span>
+
 Stallman is articulating here a broad ethos of play, excellence, and creativity. Put simply, the
 idea is to do cool things in cool ways. That’s how we can learn and have fun at the same
 time, activities no longer at odds, but combined and harmonized to the point they become
