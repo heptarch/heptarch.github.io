@@ -125,34 +125,40 @@ the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-<b>Exercise 1.</b> The <i>Mellin transform</i>
+<b>Exercise 1.</b> The <i>Hankel transform</i>
 
 $$
-\mathcal{M}f(s) = \int_0^\infty x^{s-1} f(x) \, \text{d}x.
+\mathcal{H}^{(\nu)}f(k) = \int_0^\infty f(r) rJ_\nu(kr) \, \text{d}r
 $$
 
 is defined by an asymmetric
-kernel $K(x, s) = x^{s-1}$.
-In particular $\mathcal{M} = \mathcal{M}_1$ and integrating with
-respect to the base gives a different transform, $\mathcal{M}_2
-\neq \mathcal{M}_1$. In general, $\mathcal{M}_2$ isn't well-defined (since
-$\Omega_2$ depends on the function) but we can still use the kernel
-trick to do some interesting things. <br>
+kernel $K(r, k) = rJ_\nu(kr)$, where $J_\nu$ is the Bessel function of
+order $\nu$. <br>
 
 <span style="padding-left: 20px; display:block">
-(a) Using results from Mellin transforms, show that
+(a) Using the kernel trick, show that
 
 $$
-\int_0^\infty \frac{\mathcal{M}_2 g(x)}{e^x - 1} \, \text{d}x = \int_0^\infty \Gamma(s)\zeta(s) g(s) \, \text{d}s,
+\int_0^\infty k \mathcal{H}^{(\nu)}\left[\frac{f(r)}{r}\right](k) g(k)
+\, \text{d}k = \int_0^\infty f(k)\mathcal{H}^{(\nu)}g (k)\,
+\text{d}k. \tag{2} \label{hankel}
 $$
 
-where $\zeta(s)$ is the Riemann zeta function.
-
-(b) Evaluate
+(b) By finding a suitable pair of Hankel transforms, use
+$(\ref{hankel})$ to show that
 
 $$
-\mathcal{M}_2 g(x) = \int_0^\infty
+\int_0^\infty e^{-\alpha^2 t/2} K_0(\beta\sqrt{u})\, \text{d}u =
+-\frac{1}{\alpha^2} e^{-\beta^2/2\alpha^2}\text{Ei}\left(-\frac{\beta^2}{2\alpha^2}\right),
 $$
+
+where $K_0$ is a modified Bessel function of the second kind and
+$\text{Ei}$ is the exponential integral
+
+$$
+\text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
+$$
+
 </span>
 </div>
 
@@ -191,7 +197,7 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-i\pi x^2/\tau+z/\tau}}{\cosh(x/2)} \, \text{d}u \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h\left(\frac{z}{2\pi\tau};
--\frac{1}{\tau}\right). \tag{2}\label{h}
+-\frac{1}{\tau}\right). \tag{3}\label{h}
 \end{align*}
 $$
 
@@ -220,7 +226,7 @@ related by
 
 $$
 F_{-i\tau}(2iz) =
-\frac{1}{2i\tau}\left[\varphi(z, t) - \varphi(-z, \tau)\right]. \tag{3} \label{varphi}
+\frac{1}{2i\tau}\left[\varphi(z, t) - \varphi(-z, \tau)\right]. \tag{4} \label{varphi}
 $$
 
 (b) Using equation $(\ref{h})$ and $(\ref{varphi})$ or otherwise, show that
