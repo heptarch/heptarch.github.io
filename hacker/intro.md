@@ -155,7 +155,7 @@ But with a mild tweak, it becomes a celebration of cosmic providence:
 <i>Look how wonderful this is. I bet you didn’t believe this could be true.</i>
 </span>
 
-<p> What if, instead of hacking inkjet printers, campus buildings, or
+What if, instead of hacking inkjet printers, campus buildings, or
 bitmaps, we hack *the universe itself*? If, like Feynman, we piddle
 around with wobbling plates and see where it leads us?
 That is the goal of this book. We will play seriously, and develop high-leverage, low-tech hacks
@@ -163,4 +163,4 @@ which take us beyond the colorful language of pop science. Using high school alg
 will hack our way to nuclear explosions, tidal waves, turbulence, bacterial genetics, aliens, life
 expectancy, light bulbs, dark energy, black holes, and much more besides, ending with some
 of the deepest unsolved problems in physics. There will be no stupid questions or incentives
-to fake. There will be awe. There will be beauty. And most of all, it will be a lot of darn fun. </p>
+to fake. There will be awe. There will be beauty. And most of all, it will be a lot of darn fun.
