@@ -8,8 +8,8 @@ date:  2022-11-10
 ---
 
 **November 10, 2022.** *I present a simple trick for doing integrals by swapping
-  kernels. I'll apply this to a weird Gaussian integral and some
-  objects studied by Mordell and Ramanujan.*
+  kernels. I'll apply this to some funky Gaussian integrals and some
+  identities of Mordell and Ramanujan.*
 
 ## Overview
 ---
