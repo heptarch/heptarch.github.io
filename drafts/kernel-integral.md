@@ -58,7 +58,7 @@ But this turns out to be a useful trick for doing integrals!
 
 *Full disclosure.* I didn't come up with this hack, but stole it
 (with a few personal customizations) from Ramanujan.
-Also, I'm happily ignoring many mathematical subtleties! The joys of
+Also, I'm ignoring many mathematical subtleties! The joys of
 being a physicist.
 
 ## The Voigt integral
