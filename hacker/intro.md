@@ -44,23 +44,25 @@ in replacing one rigidity with another. Instead, it is an invitation to ask stup
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
 culture, not the digital intruders and electoral trolls that "hacker" suggests to the modern ear,
 but an older, nobler tradition growing out of places like MIT, Bell Labs, and the open-source
-software movement. In the words of open-source gnuru Richard Stallman: </p>
-<blockquote>
+software movement. In the words of open-source gnuru Richard Stallman: </p><br>
+<span style="padding-left: 20px; display:block">
 What [hackers] had in common was a love of excellence and programming. They
 wanted to make the programs that they used be as good as they could. They also
 wanted to make them do neat things. They wanted to be able to do something in
 a more exciting way than anyone believed possible and show ‘Look how wonderful
 this is. I bet you didn’t believe this could be done.’
-</blockquote>
+</span><br>
 Stallman is articulating here a broad ethos of play, excellence, and creativity. Put simply, the
 idea is to do cool things in cool ways. That’s how we can learn and have fun at the same
 time, activities no longer at odds, but combined and harmonized to the point they become
 indistinguishable. To paraphrase L. P. Jacks, a hacker
+
 <span style="padding-left: 20px; display:block">
 . . . simply pursues their vision of excellence at whatever they do, leaving others to
 decide whether they are working or playing. To them, they are always
 doing both.
 </span>
+
 <p> When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
 pranksters transformed a campus building into a giant version of Tetris, were they working
 or playing? The answer is both; they were hacking, so the distinction is irrelevant. This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
