@@ -145,8 +145,8 @@ $$
 \text{d}k. \tag{2} \label{hankel}
 $$
 
-(b) By finding a suitable pair of Hankel transforms, use
-$(\ref{hankel})$ to show that
+(b) Apply $(\ref{hankel})$ to a judicious choice of Hankel transform
+pairs to derive the expression
 
 $$
 \int_0^\infty e^{-\alpha^2 t/2} K_0(\beta\sqrt{u})\, \text{d}u =
