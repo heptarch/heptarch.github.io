@@ -132,8 +132,8 @@ $$
 $$
 
 is defined by an asymmetric
-kernel $K(r, k) = rJ_\nu(kr)$, where $J_\nu$ is a Bessel function of
-the first kind of order $\nu$.
+kernel $K(r, k) = rJ_\nu(kr)$, where $J_\nu$ is a <i>Bessel function of
+the first kind</i> of order $\nu$.
 <br>
 
 <span style="padding-left: 20px; display:block">
@@ -150,24 +150,25 @@ $(\ref{hankel})$ to show that
 
 $$
 \int_0^\infty e^{-\alpha^2 t/2} K_0(\beta\sqrt{u})\, \text{d}u =
--\frac{1}{\alpha^2} e^{-\beta^2/2\alpha^2}\text{Ei}\left(-\frac{\beta^2}{2\alpha^2}\right),
+-\frac{1}{\alpha^2} e^{-\beta^2/2\alpha^2}\text{Ei}\left(-\frac{\beta^2}{2\alpha^2}\right).
 $$
 
-where $K_0$ is a modified Bessel function of the second kind and
-$\text{Ei}$ is the exponential integral
+
+</span>
+
+Here, $K_0$ is a <i>modified Bessel function of the second kind</i> and
+$\text{Ei}$ is the <i>exponential integral<i>, a special function defined by
 
 $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
 $$
-
-</span>
 </div>
 
 ## Mordell integrals
 ---
 
 Here's a fancier example, again using the Fourier transform.
-Consider the [*Mordell integral*](https://webpages.charlotte.edu/aroy15/image/drz5-err.pdf)
+Consider the *Mordell integral*
 
 $$
 h(z; \tau) = \int_{-\infty}^\infty \frac{e^{\pi i \tau x^2 - 2\pi
@@ -247,3 +248,5 @@ $$
 $$
 </span>
 </div>
+
+<!-- https://webpages.charlotte.edu/aroy15/image/drz5-err.pdf -->
