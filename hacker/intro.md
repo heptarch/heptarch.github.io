@@ -56,13 +56,11 @@ Stallman is articulating here a broad ethos of play, excellence, and creativity.
 idea is to do cool things in cool ways. That’s how we can learn and have fun at the same
 time, activities no longer at odds, but combined and harmonized to the point they become
 indistinguishable. To paraphrase L. P. Jacks, a hacker
-
 <span style="padding-left: 20px; display:block">
 . . . simply pursues their vision of excellence at whatever they do, leaving others to
 decide whether they are working or playing. To them, they are always
 doing both.
 </span>
-
 <p> When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
 pranksters transformed a campus building into a giant version of Tetris, were they working
 or playing? The answer is both; they were hacking, so the distinction is irrelevant. This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
