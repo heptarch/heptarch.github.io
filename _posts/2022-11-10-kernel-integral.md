@@ -162,6 +162,7 @@ $\text{Ei}$ is the <i>exponential integral<i>, a special function defined by
 $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
 $$
+
 </div>
 
 ## Mordell integrals
