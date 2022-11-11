@@ -154,14 +154,13 @@ $$
 $$
 
 where $K_0$ is a <i>modified Bessel function of the second kind</i> and
-$\text{Ei}$ is the <i>exponential integral<i>, a special function defined by
+$\text{Ei}$ is the <i>exponential integral</i>, a special function defined by
 
 $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
 $$
 
 </span>
-
 </div>
 
 ## Mordell integrals
