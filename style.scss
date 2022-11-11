@@ -25,6 +25,10 @@ body {
   color: $darkGray;
 }
 
+p + p {
+  text-indent: 2em;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
