@@ -186,6 +186,9 @@ leading to that apotheosis of wonder and hacker spirit captured by Stallman:
 Viewed this way, hacker culture is a celebration of human wit and ingenuity, of our ability to
 creatively overcome technical limitation and share that triumph in the
 form of memes.
+</div>
+<div style="margin: 0px 0px">
+&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 
 But with a mild tweak, it becomes a celebration of cosmic providence:
 
 <div style="margin: 20px 0px">
