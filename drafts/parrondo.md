@@ -232,5 +232,7 @@ I might make this the subject of another blog post, but to me this
 suggests a different formulation of the Second Law:
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
-A demon cannot violate the Second Law
+<blockquote>
+<i>A demon cannot violate the Second Law</i>
+</blockquote>
 </div>
