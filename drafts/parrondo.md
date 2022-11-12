@@ -114,7 +114,7 @@ A(t) = \alpha(t) E + (1-\alpha(t)) B.
 $$
 
 To implement Parrondo's paradox, we will simply seek an alternation
-strategy $\alpha(t)$ such that $\langle A(t)\rangle$ increases with
+strategy $\alpha(t) \in [0, 1]$ such that $\langle A(t)\rangle$ increases with
 time.
 Since expectations are linear, we have that
 
@@ -134,6 +134,6 @@ For this to be positive, we require
 
 $$
 \dot{\alpha(t)}
-(\langle E\rangle - \langle B\rangle ) \geq -\alpha(t)\langle
-E\rangle - 1 + \alpha(t))(\langle E\rangle - \langle B\rangle)
+(\langle E\rangle - \langle B\rangle) \geq \alpha(t)|\langle
+E\rangle| + (1 - \alpha(t))|\langle B\rangle|.
 $$
