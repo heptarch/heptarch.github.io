@@ -149,7 +149,7 @@ $$
 pairs to derive the expression
 
 $$
-\int_0^\infty e^{-\alpha^2 t/2} K_0(\beta\sqrt{u})\, \text{d}u =
+\int_0^\infty e^{-\alpha^2 u/2} K_0(\beta\sqrt{u})\, \text{d}u =
 -\frac{1}{\alpha^2} e^{-\beta^2/2\alpha^2}\text{Ei}\left(-\frac{\beta^2}{2\alpha^2}\right),
 $$
 
