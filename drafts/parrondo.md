@@ -19,7 +19,7 @@ much of a paradox, but it is interesting, particularly due to its
 connection to thermodynamics.
 To illustrate, consider a molecule sitting in a hot bath.
 It will bump into other particles and jump around randomly.
-If it's subject to gravity and sitting on a slope, it will gradually
+If it's subject to gravity and sitting on an even slope $E$, it will gradually
 slide down, albeit with random jumps back and forth.
 
 <figure>
@@ -29,7 +29,7 @@ slide down, albeit with random jumps back and forth.
 	</div>
 	</figure>
 
-Instead an even slope, we could imagine something jagged, which still
+Instead of an even slope, we could imagine something jagged, which still
 tilts to the left overall. The molecule may get stuck in a local
 divot, or it may drift to the left.
 What it cannot do, however, is drift to the right.
@@ -51,5 +51,5 @@ have violated the Second Law, but really, what matters is the
 Random fluctuations are fine, but the average trajectory must always
 get stuck or go left.
 
-Let us manufacture a violation of the Second Law.
-We
+Suppose we can press 
+The basic idea is to use the 
