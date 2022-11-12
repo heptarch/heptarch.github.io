@@ -137,3 +137,15 @@ $$
 (\langle E\rangle - \langle B\rangle) \geq \alpha(t)|\langle
 E\rangle| + (1 - \alpha(t))|\langle B\rangle|.
 $$
+
+Put differently, we will turn our losing strategies into a winning
+strategy provided we switch to whatever strategy is locally better
+quickly enough, where "quickly enough" means
+
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
+$$
+|\dot{\alpha(t)}| \geq \frac{\alpha(t)|\langle
+E\rangle| + (1 - \alpha(t))|\langle B\rangle|}{|(\langle E\rangle - \langle B\rangle)|}.
+\tag{1}
+$$
+</div>
