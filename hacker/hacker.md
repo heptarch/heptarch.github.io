@@ -4,7 +4,7 @@ title: The Hacker's Guide to the Universe
 permalink: /hacker/
 ---
 
-Everything here is in draft form.
+I am slowly adding chapters; everything here is extremely drafty.
 
 - [*Introduction: Hacking the Universe*](/hacker/intro)
 

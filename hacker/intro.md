@@ -7,7 +7,7 @@ categories:
 date:  2021-04-06
 ---
 
-## The Death of Wonder
+## The death of wonder
 ---
 
 <p style="margin=-50px 0px;">
