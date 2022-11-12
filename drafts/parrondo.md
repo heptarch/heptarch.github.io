@@ -212,6 +212,9 @@ of the molecule.
 Shouldn't it be easy to compute the outcome?
 In this case, rather than needing vast computational resources in *space* which will
 be correlated with the strategy, the demon will need vast
-computational resources in *time*: it must solve a
-hard problem, namely the evolution of a chaotic system with $\sim
+resources in *time*.
+To determine the difference between the losing strategies, it needs to
+solve a very hard problem, namely the evolution of a chaotic system with $\sim
 10^{23}$ degrees of freedom.
+The resource cost for violating the Second Law is a bump under the
+carpet, shifting between time and space depending on what we give the demon.
