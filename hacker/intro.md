@@ -146,7 +146,7 @@ and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 
 It would spoil the joke to explain how it works. But the point here is that play and technical excellence are condensed into a move that, like a joke, amuses and surprises us. In contrast, thoughts which
 are serious, specialized, deep and difficult, which take hundreds of pages to explain or a PhD
-to understand, are not usually hacks. Andrew Wiles’ proof of Fermat’s Last Theorem, for instance, involves creative insight and technical cleverness on a level unimaginable for most of
+to understand, are not really hacks. Andrew Wiles’ proof of Fermat’s Last Theorem, for instance, involves creative insight and technical cleverness on a level unimaginable for most of
 us. It is precisely this unimaginability that makes it hard to share at the pub or during a departmental coffee break. And like jokes, hacks are <i>memes</i>, designed to be socially distributed
 and mutually enjoyed. What’s the point if you can’t talk about it?
 </div>
