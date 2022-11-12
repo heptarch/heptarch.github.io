@@ -55,6 +55,7 @@ culture, not the digital intruders and electoral trolls that “hacker” sugges
 but an older, nobler tradition growing out of places like MIT, Bell Labs, and the open-source
 software movement. In the words of open-source gnuru Richard Stallman:
 
+<div style="margin: 10px 0px">
 <span style="padding-left: 20px; display:block">
 What [hackers] had in common was a love of excellence and programming. They
 wanted to make the programs that they used be as good as they could. They also
@@ -62,17 +63,20 @@ wanted to make them do neat things. They wanted to be able to do something in
 a more exciting way than anyone believed possible and show ‘Look how wonderful
 this is. I bet you didn’t believe this could be done.’
 </span>
+</div>
 
 Stallman is articulating here a broad ethos of play, excellence, and creativity. Put simply, the
 idea is to do cool things in cool ways. That’s how we can learn and have fun at the same
 time, activities no longer at odds, but combined and harmonized to the point they become
 indistinguishable. To paraphrase L. P. Jacks, a hacker
 
+<div style="margin: 10px 0px">
 <span style="padding-left: 20px; display:block">
 . . . simply pursues their vision of excellence at whatever they do, leaving others to
 decide whether they are working or playing. To them, they are always
 doing both.
 </span>
+</div>
 
 </div>
 <div style="margin: 0px 0px">
@@ -83,10 +87,12 @@ Feynman, a physicist who won the Nobel Prize for co-inventing quantum electrodyn
 but had a history of hopping between different areas and doing amazing things wherever he
 landed. He gave this advice to an aspiring scientist: </p>
 
+<div style="margin: 10px 0px">
 <span style="padding-left: 20px; display:block">
 Study hard what interests you the most in the most undisciplined, irreverent and
 original manner possible
 </span>
+</div>
 
 This is a terrible recipe for conventional academic success, which usually requires studying
 hard what interests us not at all, in a disciplined and reverent fashion along well-trodden paths.
@@ -94,6 +100,7 @@ But Feynman had no time for convention, and followed his own advice. In his auto
 he describes the fruits of his policy of free and creative
 exploration:
 
+<div style="margin: 10px 0px">
 <span style="padding-left: 20px; display:block">
 Why did I enjoy [physics]? I used to play with it. I used to do whatever I felt like
 doing — it didn’t have to do with whether it was important for the development of
@@ -103,6 +110,7 @@ flowed out effortlessly. I almost tried to resist it! There was no importance to
 I was doing, but ultimately there was. The diagrams and the whole business that I
 got the Nobel Prize for came from that piddling around with the wobbling plate.
 </span>
+</div>
 
 The plate, here, is one that Feynman saw wobbling oddly when thrown in the Cornell cafeteria.
 He sat down, figured out the wobble, and was led, step by associative step, to a Nobel Prize.
@@ -156,18 +164,22 @@ or easy tool for the job. They delight in the unexpected, in using humble means 
 extraordinary ends. And a great hack demands to be shared because it *empowers the user*,
 leading to that apotheosis of wonder and hacker spirit captured by Stallman:
 
+<div style="margin: 10px 0px">
 <span style="padding-left: 20px; display:block">
 <i>Look how wonderful this is. I bet you didn’t believe this could be done.</i>
 </span>
+</div>
 
 Viewed this way, hacker culture is a celebration of human wit and ingenuity, of our ability to
 creatively overcome technical limitation and share that triumph in the
 form of memes.
 But with a mild tweak, it becomes a celebration of cosmic providence:
 
+<div style="margin: 10px 0px">
 <span style="padding-left: 20px; display:block">
 <i>Look how wonderful this is. I bet you didn’t believe this could be true.</i>
 </span>
+</div>
 
 What if, instead of hacking inkjet printers, campus buildings, or
 bitmaps, we hack *the universe itself*? If, like Feynman, we piddle
