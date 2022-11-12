@@ -61,7 +61,7 @@ but an older, nobler tradition growing out of places like MIT, Bell Labs, and th
 software movement. In the words of open-source gnuru Richard Stallman:
 
 <div style="margin: 20px 0px">
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 <p>
 What [hackers] had in common was a love of excellence and programming. They
 wanted to make the programs that they used be as good as they could. They also
@@ -79,7 +79,7 @@ time, activities no longer at odds, but combined and harmonized to the point the
 indistinguishable. To paraphrase L. P. Jacks, a hacker
 
 <div style="margin: 20px 0px">
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 <p>
 . . . simply pursues their vision of excellence at whatever they do, leaving others to
 decide whether they are working or playing. To them, they are always
@@ -102,7 +102,7 @@ but had a history of hopping between different areas and doing amazing things wh
 landed. He gave this advice to an aspiring scientist:
 
 <div style="margin: 20px 0px">
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 <p>
 Study hard what interests you the most in the most undisciplined, irreverent and
 original manner possible.
@@ -117,7 +117,7 @@ he describes the fruits of his policy of free and creative
 exploration:
 
 <div style="margin: 20px 0px">
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 <p>
 Why did I enjoy [physics]? I used to play with it. I used to do whatever I felt like
 doing — it didn’t have to do with whether it was important for the development of
@@ -197,7 +197,7 @@ extraordinary ends. And a great hack demands to be shared because it <i>empowers
 leading to that apotheosis of wonder and hacker spirit captured by Stallman:
 
 <div style="margin: 20px 0px">
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 <i>Look how wonderful this is. I bet you didn’t believe this could be
 done.</i>
 </span>
@@ -209,7 +209,7 @@ form of memes.
 But with a mild tweak, it becomes a celebration of cosmic providence:
 
 <div style="margin: 20px 0px">
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 <i>Look how wonderful this is. I bet you didn’t believe this could be true.</i>
 </span>
 </div>
