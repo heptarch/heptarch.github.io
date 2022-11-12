@@ -181,8 +181,8 @@ to understand, are not really hacks. Andrew Wiles’ proof of Fermat’s Last Th
 us. It is precisely this unimaginability that makes it hard to share at the pub or during a departmental coffee break. And like jokes, hacks are <i>memes</i>, designed to be socially distributed
 and mutually enjoyed. What’s the point if you can’t talk about it?
 
-These qualities of shareability and mutual enjoyment contribute to what is called the hack
-value, a term which actually predates “hack”, and from which “hack” is formed. Just like
+These qualities of shareability and mutual enjoyment contribute to what is called the *hack
+value*, a term which actually predates “hack”, and from which “hack” is formed. Just like
 humor, hack value is hard to define, but perhaps the most important component is leverage,
 which (analogous to mechanical leverage) we can define as the ratio of end result to the means
 used:
