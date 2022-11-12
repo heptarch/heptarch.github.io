@@ -45,7 +45,7 @@ their ignorance and keep asking. If they fake it, the only person they deceive i
 School does not work this way, and when teachers make the same quip about cheating, they
 are neglecting the systemic realities — the hoops to jump through, the boxes to tick, all those
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
-there will be no cheating.<label for="sn-demo"
+there will be no cheating. </p><label for="sn-demo"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -54,7 +54,6 @@ there will be no cheating.<label for="sn-demo"
 <span class="sidenote">
   This is a margin note. Notice there isn’t a number preceding the note.
 </span>
-</p>
 <p style="text-indent: 50px; margin=-10pt 0 pt;">
 So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
 in replacing one rigidity with another. Instead, it is an invitation to ask stupid questions, and
