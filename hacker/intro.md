@@ -10,7 +10,6 @@ date:  2021-04-06
 ## Killing wonder
 ---
 
-<p style="margin=-50px 0px;">
 The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
 it is knowable. Our knowledge may be fragmentary and often plain wrong; that is the basic
 predicament of science. But it makes it no less miraculous that we can unravel the biological
@@ -19,8 +18,8 @@ holes colliding, in the depths of space, a billion years ago. There is awe and b
 providence in this. This book is written from the conviction that awe, beauty, and providence
 are almost entirely missing from our curricula. We teach the wrong things, using the wrong
 methods, for the wrong reasons. The outcome is, of course, deeply
-wrong.</p>
-<p style="text-indent: 50px; margin=-50px 0px;">
+wrong.
+
 Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
@@ -32,8 +31,7 @@ faster than a hot potato! But worst of all, students learn to mask their ignoran
 better way to discourage a love of play and a taste for the unknown than by labelling questions
 “stupid”, and rewarding those who “fake it till they make it”. Or, more realistically, simply go
 on faking.
-</p>
-<p style="text-indent: 50px; margin=-10pt 0 pt;">
+
 If formal education kills this sense of awe and beauty (with an almost military efficiency)
 where can it be found? If you’re lucky, the rigors of graduate school. A better bet is to pick a
 volume at random from the popular science section at your local bookstore. Here you will find
@@ -45,7 +43,7 @@ their ignorance and keep asking. If they fake it, the only person they deceive i
 School does not work this way, and when teachers make the same quip about cheating, they
 are neglecting the systemic realities — the hoops to jump through, the boxes to tick, all those
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
-there will be no cheating. </p><label for="sn-demo"
+there will be no cheating.<label for="sn-demo"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -54,7 +52,7 @@ there will be no cheating. </p><label for="sn-demo"
 <span class="sidenote">
   This is a margin note. Notice there isn’t a number preceding the note.
 </span>
-<p style="text-indent: 50px; margin=-10pt 0 pt;">
+
 So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
 in replacing one rigidity with another. Instead, it is an invitation to ask stupid questions, and
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
