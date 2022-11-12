@@ -85,9 +85,6 @@ restored.<label for="mn-demo" class="margin-toggle">&#8853;</label>
 </span>
 Here, for instance, if the button which switches $E$ and $B$ is
 random, we won't have a violation of the Second Law.
-More generally, whatever resolutions apply to Maxwell's demon apply
-here, since this is just a sort of "linearized" demon, which has to
-assess the speed of the molecule as it moves up the slope.
 
 <figure>
     <div style="text-align:center"><img src
@@ -95,6 +92,10 @@ assess the speed of the molecule as it moves up the slope.
 	<figcaption><i>Parrondo's paradox as a linearized Maxwell's demon.</i></figcaption>
 	</div>
 	</figure>
+
+More generally, whatever resolutions apply to Maxwell's demon apply
+here, since this is just a sort of "linearized" demon, which has to
+inspect of the molecule as it moves up the slope.
 
 ## Quantum mechanics
 ---
