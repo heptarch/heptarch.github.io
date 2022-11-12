@@ -103,11 +103,12 @@ original manner possible.
 </span>
 </div>
 
+<p style="margin=-10pt 0 pt;">
 This is a terrible recipe for conventional academic success, which usually requires studying
 hard what interests us not at all, in a disciplined and reverent fashion along well-trodden paths.
 But Feynman had no time for convention, and followed his own advice. In his autobiography,
 he describes the fruits of his policy of free and creative
-exploration:
+exploration:</p>
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
@@ -124,6 +125,7 @@ wobbling plate.
 </span>
 </div>
 
+<p style="text-indent: 50px; margin=-10pt 0 pt;">
 The plate, here, is one that Feynman saw wobbling oddly when thrown in the Cornell cafeteria.
 He sat down, figured out the wobble, and was led, step by associative step, to a Nobel Prize.
 Working and playing go together.</p>
@@ -155,6 +157,7 @@ and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 	</figure>
 </div>
 
+<p style="margin=-10pt 0 pt;">
 It would spoil the joke to explain how it works. But the point here is
 that play and technical excellence are condensed into a move that,
 like a joke, amuses and surprises us.</p>
@@ -169,16 +172,17 @@ These qualities of shareability and mutual enjoyment contribute to what is calle
 value, a term which actually predates “hack”, and from which “hack” is formed. Just like
 humor, hack value is hard to define, but perhaps the most important component is leverage,
 which (analogous to mechanical leverage) we can define as the ratio of end result to the means
-used:
+used:</p>
 
 $$
 \text{hack value} = \frac{\text{ends}}{\text{means}}.
 $$
 
+<p style="margin=-10pt 0 pt;">
 This tells us why, unlike Andrew Wiles, hackers do not look for the most powerful, or obvious,
 or easy tool for the job. They delight in the unexpected, in using humble means to achieve
 extraordinary ends. And a great hack demands to be shared because it <i>empowers the user</i>,
-leading to that apotheosis of wonder and hacker spirit captured by Stallman:
+leading to that apotheosis of wonder and hacker spirit captured by Stallman:</p>
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
@@ -187,11 +191,11 @@ done.</i>
 </span>
 </div>
 
+<p style="margin=-10pt 0 pt;">
 Viewed this way, hacker culture is a celebration of human wit and ingenuity, of our ability to
 creatively overcome technical limitation and share that triumph in the
-form of memes.</p>
-<p style="text-indent: 50px; margin=-10pt 0 pt;">
-But with a mild tweak, it becomes a celebration of cosmic providence:
+form of memes.
+But with a mild tweak, it becomes a celebration of cosmic providence:</p>
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
@@ -199,6 +203,7 @@ But with a mild tweak, it becomes a celebration of cosmic providence:
 </span>
 </div>
 
+<p style="margin=-10pt 0 pt;">
 What if, instead of hacking inkjet printers, campus buildings, or
 bitmaps, we hack <i>the universe itself</i>? If, like Feynman, we piddle
 around with wobbling plates and see where it leads us?
