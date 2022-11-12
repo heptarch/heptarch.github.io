@@ -62,6 +62,8 @@ it jumps right; switch back to $B$ so it gets trapped again.
 This is a type of
 ["Brownian ratchet"](https://en.wikipedia.org/wiki/Brownian_ratchet)
 which slowly raises the molecule up the hill.
+This converts the thermal energy of random jumps into gravitational
+potential energy on average, and thus violates the Second Law.
 
 <figure>
     <div style="text-align:center"><img src
@@ -71,4 +73,5 @@ which slowly raises the molecule up the hill.
 	</div>
 	</figure>
 
-The solution to this, 
+There are a couple of observations we can make about this.
+First, 
