@@ -196,3 +196,5 @@ and would need to execute these measurements simultaneously.
 This is similar to "Bennett's demon", which uses reversible computations
 to perform entropy-lowering process, but needs a huge physical memory
 to remember everything it did.
+Roughly speaking, the Second Law is preserved if we must *create* a
+physical bit for every bit of entropy we decrease.
