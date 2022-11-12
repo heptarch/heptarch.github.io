@@ -98,13 +98,21 @@ paradox appears in quantum mechanics.
 Let us consider a system with Hamiltonian $H$, and two observables,
 $E$ (not energy!) and $B$.
 For simplicity, we'll suppose that neither of these changes with time,
-just like the slopes; the time-dependence will be in the alternation.
+just like the slopes; the time-dependence will be in the alternation only.
 
-To say that both are "losing strategies" here means that the
+To say that both $E$ and $B$ are "losing strategies" here means that the
 expectation decreases with time:
 
 $$
 \frac{\text{d}}{\text{d}t} \langle E\rangle \leq 0, \quad \frac{\text{d}}{\text{d}t}\langle B\rangle \leq 0.
+$$
+
+It will be useful to note Heisenberg's equations of motion for a
+time-dependent operator $\mathcal{O}(t)$,
+
+$$
+\frac{\text{d}}{\text{d}t} \langle \mathcal{O}(t)\rangle =
+\langle\dot{\mathcal{O}(t)}\rangle -i\langle[\mathcal{O}, H]\rangle.
 $$
 
 Let's define our alternating strategy in terms of an operator which
