@@ -43,5 +43,10 @@ What it cannot do, however, is drift to the right.
 
 Suppose that it did. Then we would be turning thermal energy---the
 random jumps---into gravitational potential energy. This violates the
-second law of thermodynamics, which forbids us turning thermal energy
+Second Law of thermodynamics, which forbids us turning thermal energy
 into useful work.
+To be clear, each time the particle jumps to the right, we seem to
+have violated the Second Law, but really, what matters is the
+*average*.
+Random fluctuations are fine, but the average trajectory must always
+get stuck or go left.
