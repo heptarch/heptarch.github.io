@@ -25,10 +25,10 @@ obvious. But why? What assumptions does this depend on? What else might obey an 
 square law, and what happens if it doesn’t? They neither know nor care because they are
 taught not to. In the same vein, when we assess mastery by trivial variations on known things,
 students come to identify mastery with trivial variation. After variation number 173, they will
-resent this "mastery" and see it for the sham that it is. No wonder so many people drop math
+resent this “mastery” and see it for the sham that it is. No wonder so many people drop math
 faster than a hot potato! But worst of all, students learn to mask their ignorance. There is no
 better way to discourage a love of play and a taste for the unknown than by labelling questions
-"stupid", and rewarding those who "fake it till they make it". Or, more realistically, simply go
+“stupid”, and rewarding those who “fake it till they make it”. Or, more realistically, simply go
 on faking.
 </div>
 <p> If formal education kills this sense of awe and beauty (with an almost military efficiency)
@@ -46,7 +46,7 @@ there will be no cheating. </p>
 <p> So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
 in replacing one rigidity with another. Instead, it is an invitation to ask stupid questions, and
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
-culture, not the digital intruders and electoral trolls that "hacker" suggests to the modern ear,
+culture, not the digital intruders and electoral trolls that “hacker” suggests to the modern ear,
 but an older, nobler tradition growing out of places like MIT, Bell Labs, and the open-source
 software movement. In the words of open-source gnuru Richard Stallman:
 
@@ -132,7 +132,7 @@ us. It is precisely this unimaginability that makes it hard to share at the pub 
 and mutually enjoyed. What’s the point if you can’t talk about it?
 
 <p> These qualities of shareability and mutual enjoyment contribute to what is called the hack
-value, a term which actually predates "hack", and from which "hack" is formed. Just like
+value, a term which actually predates “hack”, and from which “hack” is formed. Just like
 humor, hack value is hard to define, but perhaps the most important component is leverage,
 which (analogous to mechanical leverage) we can define as the ratio of end result to the means
 used: </p>
