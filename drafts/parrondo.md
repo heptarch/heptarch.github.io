@@ -52,3 +52,4 @@ Random fluctuations are fine, but the average trajectory must always
 get stuck or go left.
 
 Let us manufacture a violation of the Second Law.
+We
