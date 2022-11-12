@@ -174,7 +174,7 @@ zx}}{\cosh(\pi x)} \, \text{d}x,
 $$
 
 with $\Im(\tau) > 0$ to ensure convergence.
-For our purposes, we note that this is a product of functions which are *self-dual* under
+Note that this is a product of functions which are *self-dual* under
 the Fourier transform, up to a change in their parameters:
 
 $$
