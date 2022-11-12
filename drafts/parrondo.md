@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Parrondo's paradox in quantum mechanics"
 categories: [Math, Physics]
-date:  2022-11-09
+date:  2022-11-12
 ---
 
-**November 9, 2022.** *I'll explain what Parrondo's paradox is, and why it
+**November 12, 2022.** *I'll explain what Parrondo's paradox is, and why it
   isn't a paradox, using the convenient language of quantum mechanics.*
 
 ## Introduction
@@ -185,4 +185,4 @@ which is just like knowing where the molecule is on the slope.
 It then needs to switch to the better slope, at a speed inversely
 proportional to the difference, like lowering the divot to allow the
 molecule to jump out.
-There
+There are a fews to understand why this doesn't violate the Second Law.
