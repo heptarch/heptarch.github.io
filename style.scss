@@ -56,13 +56,25 @@ html {
   font-size: 100%;
 }
 
-body {
+/*body {
     background: $white;
     /*  font: 18px/1.4 $helvetica;*/
     /*font: 19px/1.4 $times;*/
-    /*font: 18px/1.4 $nunito;*/
+    /*font: 18px/1.4 $nunito;
     font: 20px/1.4 $bskr;
   color: $darkGray;
+}*/
+
+body {
+    width: 87.5%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12.5%;
+    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    background-color: #fffff8;
+    color: #111;
+    max-width: 1400px;
+    counter-reset: sidenote-counter;
 }
 
 .container {
