@@ -31,7 +31,7 @@ better way to discourage a love of play and a taste for the unknown than by labe
 “stupid”, and rewarding those who “fake it till they make it”. Or, more realistically, simply go
 on faking.
 </p>
-
+<p style="text-indent: 50px;">
 If formal education kills this sense of awe and beauty (with an almost military efficiency)
 where can it be found? If you’re lucky, the rigors of graduate school. A better bet is to pick a
 volume at random from the popular science section at your local bookstore. Here you will find
@@ -44,7 +44,8 @@ School does not work this way, and when teachers make the same quip about cheati
 are neglecting the systemic realities — the hoops to jump through, the boxes to tick, all those
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
 there will be no cheating.
-
+</p>
+<p style="text-indent: 50px;">
 So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
 in replacing one rigidity with another. Instead, it is an invitation to ask stupid questions, and
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
