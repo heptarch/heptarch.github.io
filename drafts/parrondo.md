@@ -233,14 +233,16 @@ I might make this the subject of another blog post, but to me this
 suggests a different formulation of the Second Law:
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
-<blockquote>
 <b>A Second Law</b><br>
 
 A demon cannot violate the Second Law without paying for entropy
-decrease by either (a) increasing its own entropy to compensate; (b)
-increasing its mutual information with the observed system to
-compensate; or (c)
-</blockquote>
+decrease by either
+<ul>
+  <li>increasing its own entropy to compensate;</li>
+  <li>increasing its mutual information with the observed system to
+compensate; or</li>
+  <li>Milk</li>
+</ul>
 </div>
 
 Parts (a) and (b) are in line with the proposal of
