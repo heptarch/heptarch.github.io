@@ -50,7 +50,7 @@ there will be no cheating.<label for="sn-demo"
        id="sn-demo"
        class="margin-toggle"/>
 <span class="sidenote">
-  This is a margin note. Notice there isn’t a number preceding the note.
+  Or perhaps dramatically less cheating.
 </span>
 
 So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
