@@ -147,7 +147,7 @@ and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 It would spoil the joke to explain how it works. But the point here is that play and technical excellence are condensed into a move that, like a joke, amuses and surprises us. In contrast, thoughts which
 are serious, specialized, deep and difficult, which take hundreds of pages to explain or a PhD
 to understand, are not usually hacks. Andrew Wiles’ proof of Fermat’s Last Theorem, for instance, involves creative insight and technical cleverness on a level unimaginable for most of
-us. It is precisely this unimaginability that makes it hard to share at the pub or during a departmental coffee break. And like jokes, hacks are *memes*, designed to be socially distributed
+us. It is precisely this unimaginability that makes it hard to share at the pub or during a departmental coffee break. And like jokes, hacks are <i>memes</i>, designed to be socially distributed
 and mutually enjoyed. What’s the point if you can’t talk about it?
 </div>
 <div style="margin: 0px 0px">
@@ -184,7 +184,7 @@ But with a mild tweak, it becomes a celebration of cosmic providence:
 </div>
 
 What if, instead of hacking inkjet printers, campus buildings, or
-bitmaps, we hack *the universe itself*? If, like Feynman, we piddle
+bitmaps, we hack <i>the universe itself</i>? If, like Feynman, we piddle
 around with wobbling plates and see where it leads us?
 That is the goal of this book. We will play seriously, and develop high-leverage, low-tech hacks
 which take us beyond the colorful language of pop science. Using high school algebra, we
