@@ -8,8 +8,7 @@ date:  2022-11-10
 ---
 
 **November 10, 2022.** *I present a simple trick for doing integrals by swapping
-  kernels. I'll apply this to some funky Gaussian integrals and some
-  identities of Mordell and Ramanujan.*
+  kernels.*
 
 ## Overview
 ---
@@ -194,9 +193,9 @@ $$
 h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{i(2\pi z-ix)^2/4\pi\tau}}{\cosh(x/2)} \, \text{d}x \\
 & = \frac{\sqrt{\pi}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
-\frac{e^{-ix^2/4\pi\tau+z/\tau}}{\cosh(x/2)} \, \text{d}x \\
+\frac{e^{-ix^2/4\pi\tau+zx/\tau}}{\cosh(x/2)} \, \text{d}x \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
-\frac{e^{-i\pi x^2/\tau+z/\tau}}{\cosh(x/2)} \, \text{d}u \\
+\frac{e^{-i\pi u^2/\tau+zu/2\pi\tau}}{\cosh(\pi u)} \, \text{d}u \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}} h\left(\frac{z}{2\pi\tau};
 -\frac{1}{\tau}\right). \tag{3}\label{h}
 \end{align*}
