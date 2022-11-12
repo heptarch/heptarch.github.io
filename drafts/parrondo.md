@@ -24,7 +24,7 @@ slide down, albeit with random jumps back and forth.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/qparrondo1.png" width="400"/>
+    ="/img/posts/parrpar1.png" width="400"/>
 	<figcaption><i>A molecule slides down an even slope with random jumps.</i></figcaption>
 	</div>
 	</figure>
@@ -67,7 +67,7 @@ potential energy on average, and thus violates the Second Law.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/qparrondo3.png" width="400"/>
+    ="/img/posts/parrpar3.png" width="400"/>
 	<figcaption><i>Alternating between slopes ratchets the molecule up
     the hill.</i></figcaption>
 	</div>
