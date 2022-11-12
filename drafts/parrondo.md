@@ -222,9 +222,9 @@ demon.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/parrbump.png" width="450"/>
-	<figcaption><i>A demon must pay for violating the Second Law with
-    vast computational resources in time or space.</i></figcaption>
+    ="/img/posts/parrbump.png" width="500"/>
+	<figcaption><i>A demon must pay for violating the Second Law one
+    way or another.</i></figcaption>
 	</div>
 	</figure>
 
