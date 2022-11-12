@@ -50,3 +50,5 @@ have violated the Second Law, but really, what matters is the
 *average*.
 Random fluctuations are fine, but the average trajectory must always
 get stuck or go left.
+
+Let us manufacture a violation of the Second Law.
