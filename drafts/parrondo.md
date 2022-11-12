@@ -99,7 +99,6 @@ Let us consider a system with Hamiltonian $H$, and two observables,
 $E$ (not energy!) and $B$.
 For simplicity, we'll suppose that neither of these changes with time,
 just like the slopes; the time-dependence will be in the alternation only.
-
 To say that both $E$ and $B$ are "losing strategies" here means that the
 expectation decreases with time:
 
