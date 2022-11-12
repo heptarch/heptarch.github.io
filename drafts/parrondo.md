@@ -28,3 +28,5 @@ slide down, albeit with random jumps back and forth.
 	<figcaption><i>A molecule slides down the slope with random jumps.</i></figcaption>
 	</div>
 	</figure>
+
+Now consider a 
