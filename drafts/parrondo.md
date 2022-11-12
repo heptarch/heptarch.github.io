@@ -97,7 +97,7 @@ More generally, whatever resolutions apply to Maxwell's demon apply
 here, since this is just a sort of "linearized" demon, which has to
 inspect of the molecule as it moves up the slope.
 
-## Quantum mechanics
+## A quantum paradox
 ---
 
 We could analyze this in terms of Brownian motion with drift, but
