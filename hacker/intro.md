@@ -58,7 +58,7 @@ in replacing one rigidity with another. Instead, it is an invitation to ask stup
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
 culture, not the digital intruders and electoral trolls that “hacker” suggests to the modern ear,
 but an older, nobler tradition growing out of places like MIT, Bell Labs, and the open-source
-software movement. In the words of open-source gnuru Richard Stallman:</p>
+software movement. In the words of open-source gnuru Richard Stallman:
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
