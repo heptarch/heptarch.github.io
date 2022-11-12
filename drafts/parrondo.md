@@ -24,7 +24,7 @@ slide down, albeit with random jumps back and forth.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/parrondo1.png" width="400"/>
+    ="/img/posts/qparrondo1.png" width="400"/>
 	<figcaption><i>A molecule slides down an even slope with random jumps.</i></figcaption>
 	</div>
 	</figure>
@@ -36,7 +36,7 @@ What it cannot do, however, is drift to the right.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/parrondo2.png" width="400"/>
+    ="/img/posts/qparrondo2.png" width="400"/>
 	<figcaption><i>A molecule slides down a jagged slope with random jumps.</i></figcaption>
 	</div>
 	</figure>
