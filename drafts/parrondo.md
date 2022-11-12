@@ -205,5 +205,9 @@ difference $(\ref{diff})$, as will the decrease in entropy, and on a
 more detailed analysis, I expect that the increase in correlation would
 precisely correspond to the decrease in entropy at each step.
 
-But now imagine that the demon is given some analytic form for $E$ and
+Now imagine that the demon is given some analytic form for $E$ and
 $B$ in advance, like knowing the precise shape of the slopes.
+In the ratchet example above, it still needs to keep track of the
+molecule.
+But in the streamlined quantum-mechanical example, there is no
+molecule to worry about.
