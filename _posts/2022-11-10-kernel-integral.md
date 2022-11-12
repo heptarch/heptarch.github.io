@@ -156,13 +156,11 @@ $$
 $$
 
 where $K_0$ is a <i>modified Bessel function of the second kind</i> and
-$\text{Ei}$ is the <i>exponential integral</i>, a special function defined by
+$\text{Ei}$ is the <i>exponential integral</i>, a special function defined by </p>
 
 $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
 $$
-
-</p>
 </span>
 </div>
 
@@ -244,15 +242,13 @@ $$
 
 (c) Set $\omega = \alpha^2$ and $z \to \alpha
 z/\sqrt{\pi}$.
-Deduce from part (b) that, for $\alpha\beta = 1$ and $\alpha, \beta > 0$,
+Deduce from part (b) that, for $\alpha\beta = 1$ and $\alpha, \beta > 0$, </p>
 
 $$
 \sqrt{\alpha}e^{z^2/8}\int_{-\infty}^\infty
 \frac{e^{-\pi^2\alpha^2x^2}\sin(\sqrt{\pi}\alpha x z)}{e^{2\pi x}-1} \text{d}x = \sqrt{\beta}e^{-z^2/8}\int_{-\infty}^\infty
 \frac{e^{-\pi^2\beta^2x^2}\sinh(\sqrt{\pi}\beta x z)}{e^{2\pi x}-1} \text{d}x.
 $$
-
-</p>
 </span>
 </div>
 
