@@ -37,7 +37,9 @@ $$
 For a symmetric kernel $K(x, y) = K(y, x)$ and $\Omega_1 = \Omega_2
 = \Omega$, we have $T_1 = T_2 = T$, and our result simplifies to
 
-<div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
+solid purple;">
+<b>Symmetric kernel trick</b>
 $$
 \int_{\Omega} f(x) \cdot Tg(x)\, \text{d}x = \int_{\Omega} Tf(y) \cdot g(y)\,
 \text{d}y. \tag{1}
@@ -123,7 +125,9 @@ the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-<b>Exercise 1.</b> The <i>Hankel transform</i>
+<b>Exercise 1.</b>
+
+<p>The <i>Hankel transform</i>
 
 $$
 \mathcal{H}^{(\nu)}f(k) = \int_0^\infty f(r) rJ_\nu(kr) \, \text{d}r
@@ -158,6 +162,7 @@ $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
 $$
 
+</p>
 </span>
 </div>
 
@@ -204,7 +209,9 @@ $$
 This is a cool result!
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-<b>Exercise 2.</b> Ramanujan defined the related integral
+<b>Exercise 2.</b>
+
+<p>Ramanujan defined the related integral
 
 $$
 F_\omega(z) = \int_{-\infty}^\infty \frac{e^{-\pi\omega x^2 + 2\pi
@@ -244,6 +251,8 @@ $$
 \frac{e^{-\pi^2\alpha^2x^2}\sin(\sqrt{\pi}\alpha x z)}{e^{2\pi x}-1} \text{d}x = \sqrt{\beta}e^{-z^2/8}\int_{-\infty}^\infty
 \frac{e^{-\pi^2\beta^2x^2}\sinh(\sqrt{\pi}\beta x z)}{e^{2\pi x}-1} \text{d}x.
 $$
+
+</p>
 </span>
 </div>
 
