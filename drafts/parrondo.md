@@ -241,7 +241,7 @@ decrease by either
   <li>increasing its own entropy to compensate;</li>
   <li>increasing its mutual information with the observed system to
 compensate; or</li>
-  <li></li>
+  <li>solving</li>
   </ul>
   </p>
 </div>
