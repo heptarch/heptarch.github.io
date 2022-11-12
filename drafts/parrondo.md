@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Quantum Parrondo"
+title:  "Parrondo's paradox in quantum mechanics"
 categories: [Math, Physics]
 date:  2022-11-09
 ---
