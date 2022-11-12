@@ -213,4 +213,4 @@ Shouldn't it be easy to compute the outcome?
 In this case, rather than needing vast computational resources in *space* which will
 be correlated with the strategy, the demon will need to solve a very
 hard problem, namely the evolution of a chaotic system with $\sim
-10^{26}$ degrees of freeom.
+10^{23}$ degrees of freedom.
