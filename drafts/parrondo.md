@@ -89,7 +89,7 @@ assess the speed of the molecule as it moves up the slope.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/linear-demon.png" width="400"/>
+    ="/img/posts/linear-demon.png" width="450"/>
 	<figcaption><i>Parrondo's paradox as a linearized Maxwell's demon.</i></figcaption>
 	</div>
 	</figure>
