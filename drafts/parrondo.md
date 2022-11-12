@@ -95,4 +95,16 @@ there's a more general quantum-mechanical formulation which makes the
 point clear.
 It also gives a clean and simple illustration of how Parrondo's
 paradox appears in quantum mechanics.
-Let us consider a system with Hamiltonian $H$, and two observables, $E$ (not energy!) and $B$.
+Let us consider a system with Hamiltonian $H$, and two observables,
+$E$ (not energy!) and $B$.
+For simplicity, we'll suppose that neither of these changes with time,
+just like the slopes; the time-dependence will be in the alternation.
+
+To say that both are "losing strategies" here means that the
+expectation decreases with time:
+
+$$
+\partial_t \langle E\rangle \leq 0, \quad \partial_t \langle B\rangle \leq 0.
+$$
+
+Using Heisenberg's equation, and assuming that 
