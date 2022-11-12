@@ -78,11 +78,7 @@ First, we need to know where the particle is, analogous to Maxwell's
 demon separating fast and slow particles into chambers.
 Any concrete physical implementation of the Parrondo ratchet, like a
 Maxwell demon, will have some random behaviour, and once we average over that randomness the Second Law is
-restored.<label for="mn-demo" class="margin-toggle">&#8853;</label>
-<input type="checkbox" id="mn-demo" class="margin-toggle"/>
-<span class="marginnote">
-  To the best of my knowledge, all resolutions have this form.
-</span>
+restored.
 Here, for instance, if the button which switches $E$ and $B$ is
 random, we won't have a violation of the Second Law.
 
@@ -182,15 +178,21 @@ demon needs to create Parrondo's paradox.
 It needs to be able to locally assess the difference in expectations,
 
 $$
-\langle E\rangle - \langle B\rangle,
+\langle E\rangle - \langle B\rangle, \tag{2}\label{diff}
 $$
 
-which is just like knowing where the molecule is on the slope.
+which is analogous to knowing where the molecule is on the slope.
 It then needs to switch to the better slope, at a speed inversely
 proportional to the difference, like lowering the divot to allow the
 molecule to jump out, up the slope.
 
 There are a fews to understand why this doesn't violate the Second Law.
-In any scheme for physically performing the local assessment on the
-fly, the strategy $\alpha(t)$ will itself be subject to random forces.
-We can conjecture that
+The first is to think about physical mechanisms for locally assessing
+$(\ref{diff})$ in real-time.
+A demon would need many copies of the system to evaluate these
+expectations, around $N$ for an error of $1/N$ (called the
+[Heisenberg limit](https://en.wikipedia.org/wiki/Quantum_metrology)),
+and would need to execute these measurements simultaneously.
+This is similar to "Bennett's demon", which uses reversible computations
+to perform entropy-lowering process, but needs a huge physical memory
+to remember everything it did.
