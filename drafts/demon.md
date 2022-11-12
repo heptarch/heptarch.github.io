@@ -8,8 +8,12 @@ date:  2021-04-06
 ---
 
 All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
-gravecloth---rain imminent---coach horses champing and steaming beneath Euston Arch---
-station master taking a quick swig in his darkened office, while his
-eyes search the coffered vault of the Great Hall---
+gravecloth---rain imminent---the coach horses, champing and steaming
+in their oiled leather beneath Euston Arch---now the station master,
+taking a quick swig and eyeing the coffered vault of
+the Great Hall with mindless curiosity---all these details are
+infinitely beneath the notice of Susan Dewar, who, 200 yards directly
+below the stationmasters rum, gazes with rapture at the fragile and
+impossible object before her.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
