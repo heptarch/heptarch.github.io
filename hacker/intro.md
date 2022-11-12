@@ -7,6 +7,7 @@ categories:
 date:  2021-04-06
 ---
 
+## The Death of Wonder
 ---
 
 <p style="margin=-50px 0px;">
@@ -46,7 +47,11 @@ are neglecting the systemic realities — the hoops to jump through, the boxes t
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
 there will be no cheating.
 </p>
-<p style="text-indent: 50px; margin=-10pt 0 pt;">
+
+## Hacking physics
+---
+
+<p style="margin=-10pt 0 pt;">
 So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
 in replacing one rigidity with another. Instead, it is an invitation to ask stupid questions, and
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
