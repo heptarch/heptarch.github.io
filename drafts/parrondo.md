@@ -217,7 +217,17 @@ To determine the difference between the losing strategies, it needs to
 solve a very hard problem, namely the evolution of a chaotic system with $\sim
 10^{23}$ degrees of freedom.
 The resource cost for violating the Second Law is a bump under the
-carpet, shifting between time and space depending on what we give the demon.
+carpet, shifting between time and space depending on what we give the
+demon.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/parrbump.png" width="450"/>
+	<figcaption><i>A demon must pay for violating the Second Law with
+    vast computational resources in time or space.</i></figcaption>
+	</div>
+	</figure>
+
 I might make this the subject of another blog post, but to me this
 suggests a different formulation of the Second Law:
 
