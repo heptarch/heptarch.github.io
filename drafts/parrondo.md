@@ -198,3 +198,10 @@ to perform entropy-lowering process, but needs a huge physical memory
 to remember everything it did.
 This correlation between the demon's computer and the physical system
 compensates for the decrease in system entropy.
+
+Similarly, the strategy $\alpha(t)$ will be correlated with the
+results of these many experiments.
+The number of copies $N$ will be inversely proportional to the
+difference $(\ref{diff})$, as will the decrease in entropy, and on a
+more detailed analysis, I expect that the increase in correlation would
+precisely correspond to the decrease in entropy.
