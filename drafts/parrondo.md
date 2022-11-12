@@ -181,5 +181,5 @@ $$
 which is just like knowing where the molecule is on the slope.
 It then needs to switch to the better slope, at a speed inversely
 proportional to the difference.
-Interestingly, our analysis *requires* that both strategies are always
-losing, with a minimum loss $m(t)$.
+Interestingly, our analysis is simplified by assuming that both
+strategies are *always* losing, with a minimum loss $m(t)$.
