@@ -19,7 +19,7 @@ methods, for the wrong reasons. The outcome is, of course, deeply
 wrong.
 </div>
 <div style="margin: -10px 0px">
-&#160;&#160;&#160;&#160; Let me elaborate. If students learn to reproduce known results by rote, they will take both
+&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
 square law, and what happens if it doesn’t? They neither know nor care because they are
