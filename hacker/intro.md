@@ -217,6 +217,7 @@ But with a mild tweak, it becomes a celebration of cosmic providence:
 What if, instead of hacking inkjet printers, campus buildings, or
 bitmaps, we hack <i>the universe itself</i>? If, like Feynman, we piddle
 around with wobbling plates and see where it leads us?
+
 That is the goal of this book. We will play seriously, and develop high-leverage, low-tech hacks
 which take us beyond the colorful language of pop science. Using high school algebra, we
 will hack our way to nuclear explosions, tidal waves, turbulence, bacterial genetics, aliens, life
