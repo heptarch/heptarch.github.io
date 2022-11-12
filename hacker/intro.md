@@ -18,8 +18,8 @@ providence in this. This book is written from the conviction that awe, beauty, a
 are almost entirely missing from our curricula. We teach the wrong things, using the wrong
 methods, for the wrong reasons. The outcome is, of course, deeply
 wrong.
-
-Let me elaborate. If students learn to reproduce known results by rote, they will take both
+<pre>
+	Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
 square law, and what happens if it doesn’t? They neither know nor care because they are
@@ -30,7 +30,7 @@ faster than a hot potato! But worst of all, students learn to mask their ignoran
 better way to discourage a love of play and a taste for the unknown than by labelling questions
 “stupid”, and rewarding those who “fake it till they make it”. Or, more realistically, simply go
 on faking.
-
+</pre>
 
 If formal education kills this sense of awe and beauty (with an almost military efficiency)
 where can it be found? If you’re lucky, the rigors of graduate school. A better bet is to pick a
