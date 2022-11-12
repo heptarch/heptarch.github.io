@@ -73,14 +73,16 @@ potential energy on average, and thus violates the Second Law.
 	</div>
 	</figure>
 
-There are a couple of observations we can make about this.
-First, we need to interact with the particle to know where it is,
-analogous to Maxwell's demon separating fast and slow particles into
-chambers.
+There are a couple of important observations we can already make.
+First, we need to know where the particle is, analogous to Maxwell's
+demon separating fast and slow particles into chambers.
 Any concrete physical implementation of the Parrondo ratchet, like a
-Maxwell demon, will have some random behaviour that we perhaps forgot
-about, and once we average over that randomness the Second Law is
-restored.
+Maxwell demon, will have some random behaviour, and once we average over that randomness the Second Law is
+restored.<label for="mn-demo" class="margin-toggle">&#8853;</label>
+<input type="checkbox" id="mn-demo" class="margin-toggle"/>
+<span class="marginnote">
+  To the best of my knowledge, all resolutions have this form.
+</span>
 Here, for instance, if the button which switches $E$ and $B$ is
 random, we won't have a violation of the Second Law.
 More generally, whatever resolutions apply to Maxwell's demon apply
