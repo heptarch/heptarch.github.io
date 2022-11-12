@@ -19,4 +19,5 @@ much of a paradox, but it is interesting, particularly due to its
 connection to thermodynamics.
 To illustrate, consider a molecule sitting in a hot bath.
 It will bump into other particles and jump around randomly.
-If it's sitting on a slope, on 
+If it's subject to gravity and sitting on a slope, it will gradually
+slide down, albeit with random jumps back and forth.
