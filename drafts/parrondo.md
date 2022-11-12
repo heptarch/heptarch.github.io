@@ -222,7 +222,7 @@ demon.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/parrbump.png" width="500"/>
+    ="/img/posts/parrbump2.png" width="500"/>
 	<figcaption><i>A demon must pay for violating the Second Law one
     way or another.</i></figcaption>
 	</div>
