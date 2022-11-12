@@ -107,4 +107,9 @@ $$
 \partial_t \langle E\rangle \leq 0, \quad \partial_t \langle B\rangle \leq 0.
 $$
 
-Using Heisenberg's equation, and assuming that 
+Heisenberg's equations of motion tell us that, for a time-independent
+operator $\mathcal{O}$, the rate of change in expectation is
+
+$$
+\partial_t \langle \mathcal{O}\rangle  = -i \langle [\mathcal{O}, H] \rangle.
+$$
