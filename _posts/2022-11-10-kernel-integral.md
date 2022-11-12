@@ -39,13 +39,12 @@ For a symmetric kernel $K(x, y) = K(y, x)$ and $\Omega_1 = \Omega_2
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 $$
-\int_{\Omega} f(x) \cdot Tg(x) \text{d}x = \int_{\Omega} Tf(y) \cdot g(y)
+\int_{\Omega} f(x) \cdot Tg(x)\, \text{d}x = \int_{\Omega} Tf(y) \cdot g(y)\,
 \text{d}y. \tag{1}
 $$
 </div>
 
-From a pure math standpoint, these observations are in some sense
-trivial. We've just observed that the integral transforms
+From a pure math standpoint, we've just observed that the integral transforms
 $T_1$ and $T_2$ are dual,
 
 $$
