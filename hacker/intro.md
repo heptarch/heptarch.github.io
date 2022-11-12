@@ -162,7 +162,16 @@ and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 	</figure>
 </div>
 
-It would spoil the joke to explain how it works. But the point here is
+It would spoil the joke to explain how it works. <label for="sn-2"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-2"
+       class="margin-toggle"/>
+<span class="sidenote">
+  Here's a hint: Tupper found a way to encode <i>all</i> bitmaps.
+</span>
+But the point here is
 that play and technical excellence are condensed into a move that,
 like a joke, amuses and surprises us.
 
