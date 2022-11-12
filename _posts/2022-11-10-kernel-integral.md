@@ -38,7 +38,7 @@ For a symmetric kernel $K(x, y) = K(y, x)$ and $\Omega_1 = \Omega_2
 = \Omega$, we have $T_1 = T_2 = T$, and our result simplifies to
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px
-solid purple;">
+solid purple; line-height:1.5">
 <b>Symmetric kernel trick</b>
 $$
 \int_{\Omega} f(x) \cdot Tg(x)\, \text{d}x = \int_{\Omega} Tf(y) \cdot g(y)\,
@@ -124,10 +124,9 @@ I call this the
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-<b>Exercise 1.</b>
-
-<p>The <i>Hankel transform</i>
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid
+green; line-height:1.5">
+<b>Exercise 1.</b> The <i>Hankel transform</i>
 
 $$
 \mathcal{H}^{(\nu)}f(k) = \int_0^\infty f(r) rJ_\nu(kr) \, \text{d}r
@@ -160,7 +159,7 @@ $\text{Ei}$ is the <i>exponential integral</i>, a special function defined by
 
 $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
-$$</p>
+$$
 </span>
 </div>
 
@@ -206,10 +205,8 @@ $$
 
 This is a cool result!
 
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
-<b>Exercise 2.</b>
-
-Ramanujan defined the related integral
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid green; line-height:1.5">
+<b>Exercise 2.</b> Ramanujan defined the related integral
 
 $$
 F_\omega(z) = \int_{-\infty}^\infty \frac{e^{-\pi\omega x^2 + 2\pi
