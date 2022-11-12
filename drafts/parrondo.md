@@ -87,6 +87,13 @@ More generally, whatever resolutions apply to Maxwell's demon apply
 here, since this is just a sort of "linearized" demon, which has to
 assess the speed of the molecule as it moves up the slope.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/demon.png" width="400"/>
+	<figcaption><i>Parrondo's paradox as a linearized Maxwell's demon.</i></figcaption>
+	</div>
+	</figure>
+
 ## Quantum mechanics
 ---
 
@@ -155,3 +162,5 @@ $$
 \tag{1}
 $$
 </div>
+
+This makes it clear that 
