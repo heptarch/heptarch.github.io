@@ -104,12 +104,29 @@ To say that both are "losing strategies" here means that the
 expectation decreases with time:
 
 $$
-\partial_t \langle E\rangle \leq 0, \quad \partial_t \langle B\rangle \leq 0.
+\frac{\text{d}}{\text{d}t} \langle E\rangle \leq 0, \quad \frac{\text{d}}{\text{d}t}\langle B\rangle \leq 0.
 $$
 
-Heisenberg's equations of motion tell us that, for a time-independent
-operator $\mathcal{O}$, the rate of change in expectation is
+Let's define our alternating strategy in terms of an operator which
+weights $E$ and $B$ in a time-dependent fashion:
 
 $$
-\partial_t \langle \mathcal{O}\rangle  = -i \langle [\mathcal{O}, H] \rangle.
+A(t) = \alpha(t) E + (1-\alpha(t)) B.
+$$
+
+To implement Parrondo's paradox, we will simply seek an alternation
+strategy $\alpha(t)$ such that $\langle A(t)\rangle$ increases with
+time.
+Since expectations are linear, we have that
+
+$$
+\langle A(t)\rangle = \alpha(t) \langle E\rangle + (1-\alpha(t))
+\langle B\rangle,
+$$
+
+and hence time derivative
+
+$$
+\frac{\text{d}}{\text{d}t} \langle A(t)\rangle = \dot{\alpha(t)}
+(\langle E\rangle - \langle B\rangle ) +
 $$
