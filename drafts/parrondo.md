@@ -127,7 +127,7 @@ and hence time derivative
 
 $$
 \frac{\text{d}}{\text{d}t} \langle A(t)\rangle = \dot{\alpha(t)}
-(\langle E\rangle - \langle B\rangle ) + \alpha(t)\langle E\rangle + (1-\alpha(t))\langle B\rangle.
+(\langle E\rangle - \langle B\rangle ) + \alpha(t) \frac{\text{d}}{\text{d}t}\langle E\rangle + (1-\alpha(t)) \frac{\text{d}}{\text{d}t}\langle B\rangle.
 $$
 
 For this to be positive, we require 
