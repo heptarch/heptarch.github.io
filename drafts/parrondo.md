@@ -17,4 +17,6 @@ Sometimes, alternating between two losing strategies becomes a winning
 strategy. This is called *Parrondo's paradox*. As we'll see, it isn't
 much of a paradox, but it is interesting, particularly due to its
 connection to thermodynamics.
-To illustrate, suppose
+To illustrate, consider a molecule sitting in a hot bath.
+It will bump into other particles and jump around randomly.
+If it's sitting on a slope, on 
