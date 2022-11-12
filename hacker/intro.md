@@ -163,7 +163,7 @@ $$
 
 This tells us why, unlike Andrew Wiles, hackers do not look for the most powerful, or obvious,
 or easy tool for the job. They delight in the unexpected, in using humble means to achieve
-extraordinary ends. And a great hack demands to be shared because it *empowers the user*,
+extraordinary ends. And a great hack demands to be shared because it <i>empowers the user</i>,
 leading to that apotheosis of wonder and hacker spirit captured by Stallman:
 
 <div style="margin: 10px 0px">
