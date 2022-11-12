@@ -55,16 +55,17 @@ html {
   font-size: 100%;
 }
 
-/*body {
+body {
     background: $white;
     /*  font: 18px/1.4 $helvetica;*/
     /*font: 19px/1.4 $times;*/
-    /*font: 18px/1.4 $nunito;
-    font: 20px/1.4 $bskr;
+    /*font: 18px/1.4 $nunito;*/
+    /*font: 20px/1.4 $bskr;*/
+    font: 20px/1.4, et-book;
   color: $darkGray;
-}*/
+}
 
-body {
+/*body {
     width: 87.5%;
     margin-left: auto;
     margin-right: auto;
@@ -74,7 +75,7 @@ body {
     color: #111;
     max-width: 1400px;
     counter-reset: sidenote-counter;
-}
+}*/
 
 .container {
   margin: 0 auto;
