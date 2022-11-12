@@ -196,7 +196,7 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-i\pi u^2/\tau+2\pi zu/\tau}}{\cosh(\pi u)} \, \text{d}u \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}
-h\left(-\frac{z}{tau};
+h\left(-\frac{z}{\tau};
 -\frac{1}{\tau}\right). \tag{3}\label{h}
 \end{align*}
 $$
