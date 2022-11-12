@@ -85,7 +85,7 @@ pranksters transformed a campus building into a giant version of Tetris, were th
 or playing? The answer is both; they were hacking, so the distinction is irrelevant. This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
 Feynman, a physicist who won the Nobel Prize for co-inventing quantum electrodynamics,
 but had a history of hopping between different areas and doing amazing things wherever he
-landed. He gave this advice to an aspiring scientist: </p>
+landed. He gave this advice to an aspiring scientist:
 
 <div style="margin: 10px 0px">
 <span style="padding-left: 20px; display:block">
