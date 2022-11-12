@@ -211,6 +211,7 @@ knowing the precise shape of the slopes, but the microscopic evolution
 of the molecule.
 Shouldn't it be easy to compute the outcome?
 In this case, rather than needing vast computational resources in *space* which will
-be correlated with the strategy, the demon will need to solve a very
+be correlated with the strategy, the demon will need vast
+computational resources in *time*: it must solve a
 hard problem, namely the evolution of a chaotic system with $\sim
 10^{23}$ degrees of freedom.
