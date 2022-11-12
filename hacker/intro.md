@@ -197,4 +197,3 @@ expectancy, light bulbs, dark energy, black holes, and much more besides, ending
 of the deepest unsolved problems in physics. There will be no stupid questions or incentives
 to fake. There will be awe. There will be beauty. And most of all, it
 will be a lot of darn fun.
-</div>
