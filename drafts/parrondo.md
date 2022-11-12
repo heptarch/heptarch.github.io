@@ -206,8 +206,11 @@ more detailed analysis, I expect that the increase in correlation would
 precisely correspond to the decrease in entropy at each step.
 
 Now imagine that the demon is given some analytic form for $E$ and
-$B$ in advance, like knowing the precise shape of the slopes.
-In the ratchet example above, it still needs to keep track of the
-molecule.
-But in the streamlined quantum-mechanical example, there is no
-molecule to worry about.
+$B$ in advance, which in the ratchet example, is analogous not only to
+knowing the precise shape of the slopes, but the microscopic evolution
+of the molecule.
+Shouldn't it be easy to compute the outcome?
+In this case, rather than needing vast computational resources in *space* which will
+be correlated with the strategy, the demon will need to solve a very
+hard problem, namely the evolution of a chaotic system with $\sim
+10^{26}$ degrees of freeom.
