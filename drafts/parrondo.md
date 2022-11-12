@@ -194,7 +194,7 @@ expectations, around $N$ for an error of $1/N$ (called the
 [Heisenberg limit](https://en.wikipedia.org/wiki/Quantum_metrology)),
 and would need to execute these measurements simultaneously.
 This is similar to "Bennett's demon", which uses reversible computations
-to perform entropy-lowering process, but needs a huge physical memory
+to perform an entropy-lowering process, but needs a huge physical memory
 to remember everything it did.
 This correlation between the demon's computer and the physical system
 compensates for the decrease in system entropy.
@@ -233,6 +233,13 @@ suggests a different formulation of the Second Law:
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 <blockquote>
-<i>A demon cannot violate the Second Law</i>
+<i>A demon cannot violate the Second Law without paying for entropy
+decrease by either (a) increasing its own entropy to compensate; (b)
+increasing its mutual information with the observed system to
+compensate; or (c) </i>
 </blockquote>
 </div>
+
+Parts (a) and (b) are in line with the proposal of
+[Touchette and Lloyd (1999)](https://arxiv.org/pdf/chao-dyn/9905039.pdf),
+but part (c) is the one I'd like to explore more another time.
