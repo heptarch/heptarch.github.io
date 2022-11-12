@@ -44,7 +44,7 @@ $$
 $$
 </div>
 
-From a pure math standpoint, we've just observed that the integral transforms
+From a pure math standpoint, we've basically just observed that the integral transforms
 $T_1$ and $T_2$ are dual,
 
 $$
@@ -52,7 +52,7 @@ $$
 $$
 
 with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
-But this turns out to be a useful trick for doing integrals!
+But this turns out to be a useful trick for doing real-life integrals!
 
 *Full disclosure.* I didn't come up with this hack, but stole it
 (with a few personal customizations) from Ramanujan.
