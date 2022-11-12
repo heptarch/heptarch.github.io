@@ -162,9 +162,21 @@ quickly enough, where "quickly enough" means
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 $$
-|\dot{\alpha(t)}| > \frac{m(t)}{|(\langle E\rangle - \langle B\rangle)|}.
-\tag{1}
+|\dot{\alpha(t)}| > \frac{m(t)}{|\langle E\rangle - \langle B\rangle|}.
+\tag{1} \label{qparr}
 $$
 </div>
 
-This makes it clear that 
+## Discussion
+---
+
+Equation $(\ref{qparr})$ tells us clearly what powers our linearized
+demon needs to create Parrondo's paradox.
+It needs to be able to locally assess the difference in expectations,
+
+$$
+\langle E\rangle - \langle B\rangle,
+$$
+
+which is just like knowing where the molecule is on the slope.
+It then needs to switch to the better slope quickly.
