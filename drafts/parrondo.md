@@ -223,8 +223,7 @@ demon.
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/parrbump2.png" width="500"/>
-	<figcaption><i>A demon must pay for violating the Second Law one
-    way or another.</i></figcaption>
+	<figcaption><i>Thermodynamic bumps under the carpet: a demon must pay for violating the Second Law.</i></figcaption>
 	</div>
 	</figure>
 
