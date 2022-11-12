@@ -89,7 +89,7 @@ assess the speed of the molecule as it moves up the slope.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/demon.png" width="400"/>
+    ="/img/posts/linear-demon.png" width="400"/>
 	<figcaption><i>Parrondo's paradox as a linearized Maxwell's demon.</i></figcaption>
 	</div>
 	</figure>
@@ -111,6 +111,13 @@ expectation decreases with time:
 
 $$
 \partial_t\langle E\rangle \leq 0, \quad \partial_t\langle B\rangle \leq 0.
+$$
+
+For simplicity, we'll assume that the rate is bounded by some maximum
+loss rate $m(t)$, like the overall slope in our Brownian example:
+
+$$
+|\partial_t \langle E\rangle|, |\partial_t \langle B\rangle| \geq m(t).
 $$
 
 Let's define our alternating strategy in terms of an operator which
@@ -140,21 +147,18 @@ $$
 For this to be positive, we require 
 
 $$
+\begin{align*}
 \dot{\alpha(t)}
-(\langle E\rangle - \langle B\rangle) > \alpha(t)|\partial_t\langle
-E\rangle| + (1 - \alpha(t))|\partial_t\langle B\rangle|.
+(\langle E\rangle - \langle B\rangle) & > \alpha(t)|\partial_t\langle
+E\rangle| + (1 - \alpha(t))|\partial_t\langle B\rangle| \\
+&\geq \alpha(t)m(t) + (1- \alpha(t))m(t) = m(t),
+\end{align*}
 $$
 
+using our loss bound $m(t)$.
 Put differently, we will turn our losing strategies into a winning
 strategy provided we switch to whatever strategy is locally better
-quickly enough. If we are transitioning to the better strategy, and we
-can bound the loss rate for both losing strategies by a minimum loss $m(t)$,
-
-$$
-|\partial_t \langle E\rangle|, |\partial_t \langle B\rangle| \geq m(t),
-$$
-
-then we have a winning strategy provided
+quickly enough, where "quickly enough" means
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 $$
