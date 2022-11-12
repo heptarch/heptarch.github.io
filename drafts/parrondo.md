@@ -159,21 +159,23 @@ Put differently, we will turn our losing strategies into a winning
 strategy provided we switch to whatever strategy is locally better
 quickly enough, where "quickly enough" means
 
-<div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
+solid purple;">
+<b>Parrondo condition</b>
 $$
 |\dot{\alpha(t)}| > \frac{m(t)}{|\langle E\rangle - \langle B\rangle|}.
 \tag{1} \label{qparr}
 $$
 </div>
 
-Of course, we could phrase all this in terms of probability
+Of course, we could phrase the Parrondo condition in terms of probability
 distributions rather than observables, but the quantum-mechanical
 version is to my mind more fundamental.
 
 ## Discussion
 ---
 
-Equation $(\ref{qparr})$ tells us clearly what powers our linearized
+The Parrondo condition $(\ref{qparr})$ tells us clearly what powers our linearized
 demon needs to create Parrondo's paradox.
 It needs to be able to locally assess the difference in expectations,
 
@@ -232,10 +234,12 @@ suggests a different formulation of the Second Law:
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 <blockquote>
-<i>A demon cannot violate the Second Law without paying for entropy
+<b>A Second Law</b><br>
+
+A demon cannot violate the Second Law without paying for entropy
 decrease by either (a) increasing its own entropy to compensate; (b)
 increasing its mutual information with the observed system to
-compensate; or (c) </i>
+compensate; or (c)
 </blockquote>
 </div>
 
