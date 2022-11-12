@@ -9,7 +9,6 @@ date:  2021-04-06
 
 ---
 
-<div style="margin: 0px 0px">
 The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
 it is knowable. Our knowledge may be fragmentary and often plain wrong; that is the basic
 predicament of science. But it makes it no less miraculous that we can unravel the biological
@@ -19,9 +18,8 @@ providence in this. This book is written from the conviction that awe, beauty, a
 are almost entirely missing from our curricula. We teach the wrong things, using the wrong
 methods, for the wrong reasons. The outcome is, of course, deeply
 wrong.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; Let me elaborate. If students learn to reproduce known results by rote, they will take both
+
+Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
 square law, and what happens if it doesn’t? They neither know nor care because they are
@@ -32,9 +30,9 @@ faster than a hot potato! But worst of all, students learn to mask their ignoran
 better way to discourage a love of play and a taste for the unknown than by labelling questions
 “stupid”, and rewarding those who “fake it till they make it”. Or, more realistically, simply go
 on faking.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; If formal education kills this sense of awe and beauty (with an almost military efficiency)
+
+
+If formal education kills this sense of awe and beauty (with an almost military efficiency)
 where can it be found? If you’re lucky, the rigors of graduate school. A better bet is to pick a
 volume at random from the popular science section at your local bookstore. Here you will find
 the universe described in loving wonder, and the greater portion of that wonder reserved for
@@ -46,9 +44,8 @@ School does not work this way, and when teachers make the same quip about cheati
 are neglecting the systemic realities — the hoops to jump through, the boxes to tick, all those
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
 there will be no cheating.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
+
+So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
 in replacing one rigidity with another. Instead, it is an invitation to ask stupid questions, and
 to learn about the universe with a spirit of play and wonder. I take inspiration from hacker
 culture, not the digital intruders and electoral trolls that “hacker” suggests to the modern ear,
@@ -67,9 +64,7 @@ this is. I bet you didn’t believe this could be done.’
 
 Stallman is articulating here a broad ethos of play, excellence, and creativity. Put simply, the
 idea is to do cool things in cool ways.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;
+
 That’s how we can learn and have fun at the same
 time, activities no longer at odds, but combined and harmonized to the point they become
 indistinguishable. To paraphrase L. P. Jacks, a hacker
@@ -86,9 +81,8 @@ When Google co-founder Larry Page built a working inkjet printer out of Lego, or
 pranksters transformed a campus building into a giant version of Tetris, were they working
 or playing? The answer is both; they were hacking, so the distinction
 is irrelevant.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
+
+This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
 Feynman, a physicist who won the Nobel Prize for co-inventing quantum electrodynamics,
 but had a history of hopping between different areas and doing amazing things wherever he
 landed. He gave this advice to an aspiring scientist:
@@ -121,9 +115,8 @@ got the Nobel Prize for came from that piddling around with the wobbling plate.
 The plate, here, is one that Feynman saw wobbling oddly when thrown in the Cornell cafeteria.
 He sat down, figured out the wobble, and was led, step by associative step, to a Nobel Prize.
 Working and playing go together.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; Hacker culture is organized around discrete units called hacks. A hack is more than a
+
+Hacker culture is organized around discrete units called hacks. A hack is more than a
 record of play, or mere cleverness, or even creative flair. It is play condensed by technical wit,
 and like a good joke, has an element of surprise or shortcut. A brilliant example is Tupper’s
 self-referential formula. Consider the inequality
@@ -153,16 +146,15 @@ and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 It would spoil the joke to explain how it works. But the point here is
 that play and technical excellence are condensed into a move that,
 like a joke, amuses and surprises us.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; In contrast, thoughts which
+
+
+In contrast, thoughts which
 are serious, specialized, deep and difficult, which take hundreds of pages to explain or a PhD
 to understand, are not really hacks. Andrew Wiles’ proof of Fermat’s Last Theorem, for instance, involves creative insight and technical cleverness on a level unimaginable for most of
 us. It is precisely this unimaginability that makes it hard to share at the pub or during a departmental coffee break. And like jokes, hacks are <i>memes</i>, designed to be socially distributed
 and mutually enjoyed. What’s the point if you can’t talk about it?
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; These qualities of shareability and mutual enjoyment contribute to what is called the hack
+
+These qualities of shareability and mutual enjoyment contribute to what is called the hack
 value, a term which actually predates “hack”, and from which “hack” is formed. Just like
 humor, hack value is hard to define, but perhaps the most important component is leverage,
 which (analogous to mechanical leverage) we can define as the ratio of end result to the means
@@ -186,9 +178,7 @@ leading to that apotheosis of wonder and hacker spirit captured by Stallman:
 Viewed this way, hacker culture is a celebration of human wit and ingenuity, of our ability to
 creatively overcome technical limitation and share that triumph in the
 form of memes.
-</div>
-<div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; 
+
 But with a mild tweak, it becomes a celebration of cosmic providence:
 
 <div style="margin: 20px 0px">
