@@ -103,7 +103,7 @@ To say that both $E$ and $B$ are "losing strategies" here means that the
 expectation decreases with time:
 
 $$
-\frac{\text{d}}{\text{d}t} \langle E\rangle \leq 0, \quad \frac{\text{d}}{\text{d}t}\langle B\rangle \leq 0.
+\partial_t\langle E\rangle \leq 0, \quad \partial_t\langle B\rangle \leq 0.
 $$
 
 Let's define our alternating strategy in terms of an operator which
@@ -126,26 +126,32 @@ $$
 and hence time derivative
 
 $$
-\frac{\text{d}}{\text{d}t} \langle A(t)\rangle = \dot{\alpha(t)}
-(\langle E\rangle - \langle B\rangle ) + \alpha(t) \frac{\text{d}}{\text{d}t}\langle E\rangle + (1-\alpha(t)) \frac{\text{d}}{\text{d}t}\langle B\rangle.
+\partial_t\langle A(t)\rangle = \dot{\alpha(t)}
+(\langle E\rangle - \langle B\rangle ) + \alpha(t) \partial_t\langle E\rangle + (1-\alpha(t)) \partial_t\langle B\rangle.
 $$
 
 For this to be positive, we require 
 
 $$
 \dot{\alpha(t)}
-(\langle E\rangle - \langle B\rangle) \geq \alpha(t)|\langle
-E\rangle| + (1 - \alpha(t))|\langle B\rangle|.
+(\langle E\rangle - \langle B\rangle) > \alpha(t)|\partial_t\langle
+E\rangle| + (1 - \alpha(t))|\partial_t\langle B\rangle|.
 $$
 
 Put differently, we will turn our losing strategies into a winning
 strategy provided we switch to whatever strategy is locally better
-quickly enough, where "quickly enough" means
+quickly enough. If we are transitioning to the better strategy, and we
+can bound the loss rate for both losing strategies by a minimum loss $m(t)$,
+
+$$
+|\partial_t \langle E\rangle|, |\partial_t \langle B\rangle| \geq m(t),
+$$
+
+then we have a winning strategy provided
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
 $$
-|\dot{\alpha(t)}| \geq \frac{\alpha(t)|\langle
-E\rangle| + (1 - \alpha(t))|\langle B\rangle|}{|(\langle E\rangle - \langle B\rangle)|}.
+|\dot{\alpha(t)}| > \frac{m(t)}{|(\langle E\rangle - \langle B\rangle)|}.
 \tag{1}
 $$
 </div>
