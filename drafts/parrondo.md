@@ -14,8 +14,7 @@ date:  2022-11-09
 ---
 
 Sometimes, alternating between two losing strategies becomes a winning
-strategy. This is called *Parrondo's paradox*. As we'll see
-shortly, it isn't much of a paradox, but it is interesting.
-A simple illustration is a ball rolling around some hills. Maybe the
-ball is hot, and has the tendency to jump randomly, but its average
-behaviour is easy to understand.
+strategy. This is called *Parrondo's paradox*. As we'll see, it isn't
+much of a paradox, but it is interesting, particularly due to its
+connection to thermodynamics.
+To illustrate, suppose
