@@ -7,7 +7,7 @@ categories:
 date:  2021-04-06
 ---
 
-<div style="margin: -10px">
+<div style="margin: 10px -10px">
 The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
 it is knowable. Our knowledge may be fragmentary and often plain wrong; that is the basic
 predicament of science. But it makes it no less miraculous that we can unravel the biological
