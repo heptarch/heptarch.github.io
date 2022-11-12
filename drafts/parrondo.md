@@ -113,8 +113,8 @@ $$
 \partial_t\langle E\rangle \leq 0, \quad \partial_t\langle B\rangle \leq 0.
 $$
 
-For simplicity, we'll assume that the rate is bounded by some maximum
-loss rate $m(t)$, like the overall slope in our Brownian example:
+For simplicity, we'll assume that the loss rate is bounded below by
+some minimum loss rate $m(t)$, i.e.
 
 $$
 |\partial_t \langle E\rangle|, |\partial_t \langle B\rangle| \geq m(t).
