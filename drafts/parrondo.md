@@ -218,3 +218,9 @@ solve a very hard problem, namely the evolution of a chaotic system with $\sim
 10^{23}$ degrees of freedom.
 The resource cost for violating the Second Law is a bump under the
 carpet, shifting between time and space depending on what we give the demon.
+I might make this the subject of another blog post, but to me this
+suggests a different formulation of the Second Law:
+
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
+A demon cannot violate the Second Law
+</div>
