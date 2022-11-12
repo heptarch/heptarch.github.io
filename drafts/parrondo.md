@@ -74,4 +74,20 @@ potential energy on average, and thus violates the Second Law.
 	</figure>
 
 There are a couple of observations we can make about this.
-First, 
+First, we need to interact with the particle to know where it is,
+analogous to Maxwell's demon separating fast and slow particles into
+chambers.
+Any concrete physical implementation of the Parrondo ratchet, like a
+Maxwell demon, will have some random behaviour that we perhaps forgot
+about, and once we average over that randomness the Second Law is
+restored.
+Here, for instance, if the button which switches $E$ and $B$ is
+random, we won't have a violation of the Second Law.
+More generally, whatever resolutions apply to Maxwell's demon apply
+here, since this is just a sort of "linearized" demon, which has to
+assess the speed of the molecule as it moves up the slope.
+
+## Quantum mechanics
+---
+
+as
