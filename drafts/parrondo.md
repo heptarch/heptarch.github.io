@@ -241,7 +241,7 @@ decrease by either
   <li>increasing its own entropy to compensate;</li>
   <li>increasing its mutual information with the observed system to
 compensate; or</li>
-  <li>solving</li>
+  <li>solving a computationally intractable problem.</li>
   </ul>
   </p>
 </div>
@@ -250,4 +250,4 @@ Part (1) is the traditional way of understanding Maxwell's demon, and
 part (2) is in line with the proposal of
 [Touchette and Lloyd (1999)](https://arxiv.org/pdf/chao-dyn/9905039.pdf),
 which explains Bennett's demon.
-Part (3) is the interesting one I'd like to come back to another time!
+Part (3) is the one I'd like to think about more!
