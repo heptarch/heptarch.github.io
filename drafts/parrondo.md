@@ -19,7 +19,7 @@ much of a paradox, but it is interesting, particularly due to its
 connection to thermodynamics.
 To illustrate, consider a molecule sitting in a hot bath.
 It will bump into other particles and jump around randomly.
-If it's subject to gravity and sitting on an even slope $E$, it will gradually
+If it's subject to gravity and sitting on a smooth slope $S$, it will gradually
 slide down, albeit with random jumps back and forth.
 
 <figure>
@@ -50,14 +50,14 @@ have violated the Second Law, but really, what matters is the
 *average*.
 Random fluctuations are fine, but the average trajectory must always
 get stuck or go left.
-So, both $E$ and $B$ are "losing strategies" in the sense that on
+So, both $S$ and $B$ are "losing strategies" in the sense that on
 average the particle does not go right.
 
 Suppose we can press a button which alternates instantaneously between
-$E$ and $B$.
+$S$ and $B$.
 Provided the bumps are big enough to trap the particle, we can
 manufacture a violation of the Second Law as follows.
-Wait for it to get trapped in a divot in $B$; quickly switch to $E$ so
+Wait for it to get trapped in a divot in $B$; quickly switch to $S$ so
 it jumps right; switch back to $B$ so it gets trapped again.
 This is a type of
 ["Brownian ratchet"](https://en.wikipedia.org/wiki/Brownian_ratchet)
@@ -93,3 +93,6 @@ assess the speed of the molecule as it moves up the slope.
 We could analyze this in terms of Brownian motion with drift, but
 there's a more general quantum-mechanical formulation which makes the
 point clear.
+It also gives a clean and simple illustration of how Parrondo's
+paradox appears in quantum mechanics.
+Let us consider 
