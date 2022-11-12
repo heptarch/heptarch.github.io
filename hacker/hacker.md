@@ -6,6 +6,7 @@ permalink: /hacker/
 
 Everything here is in draft form.
 
-#### Chapters
-
 - [*Introduction: Hacking the Universe*](/hacker/intro)
+- *Dimensional analysis*
+- *Fermi estimates*
+- *Random walks and collisions*
