@@ -131,7 +131,7 @@ the
 
 $$
 \mathcal{H}^{(\nu)}f(k) = \int_0^\infty f(r) rJ_\nu(kr) \, \text{d}r
-$$</p>
+$$
 
 is defined by an asymmetric
 kernel $K(r, k) = rJ_\nu(kr)$, where $J_\nu$ is a <i>Bessel function of
@@ -160,7 +160,7 @@ $\text{Ei}$ is the <i>exponential integral</i>, a special function defined by
 
 $$
 \text{Ei}(z) = -\int_{-z} \frac{e^{-t}}{t} \, \text{d}t.
-$$
+$$</p>
 </span>
 </div>
 
