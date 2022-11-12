@@ -66,7 +66,11 @@ this is. I bet you didn’t believe this could be done.’
 </div>
 
 Stallman is articulating here a broad ethos of play, excellence, and creativity. Put simply, the
-idea is to do cool things in cool ways. That’s how we can learn and have fun at the same
+idea is to do cool things in cool ways.
+</div>
+<div style="margin: 0px 0px">
+&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;
+That’s how we can learn and have fun at the same
 time, activities no longer at odds, but combined and harmonized to the point they become
 indistinguishable. To paraphrase L. P. Jacks, a hacker
 
@@ -78,11 +82,13 @@ doing both.
 </span>
 </div>
 
+When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
+pranksters transformed a campus building into a giant version of Tetris, were they working
+or playing? The answer is both; they were hacking, so the distinction
+is irrelevant.
 </div>
 <div style="margin: 0px 0px">
-&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
-pranksters transformed a campus building into a giant version of Tetris, were they working
-or playing? The answer is both; they were hacking, so the distinction is irrelevant. This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
+&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
 Feynman, a physicist who won the Nobel Prize for co-inventing quantum electrodynamics,
 but had a history of hopping between different areas and doing amazing things wherever he
 landed. He gave this advice to an aspiring scientist:
