@@ -21,3 +21,10 @@ To illustrate, consider a molecule sitting in a hot bath.
 It will bump into other particles and jump around randomly.
 If it's subject to gravity and sitting on a slope, it will gradually
 slide down, albeit with random jumps back and forth.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/parrondo1.png" width="600"/>
+	<figcaption><i>A molecule slides down the slope with random jumps.</i></figcaption>
+	</div>
+	</figure>
