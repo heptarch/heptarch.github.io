@@ -97,7 +97,10 @@ When Google co-founder Larry Page built a working inkjet printer out of Lego, or
 pranksters transformed a campus building into a giant version of Tetris, were they working
 or playing? The answer is both; they were hacking, so the distinction
 is irrelevant.</p>
-<p style="text-indent: 50px; margin=-10pt 0 pt;">
+
+## Hacking physics
+---
+<p style="margin=-10pt 0 pt;">
 This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
 Feynman, a physicist who won the Nobel Prize for co-inventing quantum electrodynamics,
 but had a history of hopping between different areas and doing amazing things wherever he
