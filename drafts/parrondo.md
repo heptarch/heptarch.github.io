@@ -170,6 +170,10 @@ $$
 $$
 </div>
 
+Of course, we could phrase all this in terms of probability
+distributions rather than observables, but the quantum-mechanical
+version is to my mind more fundamental.
+
 ## Discussion
 ---
 
@@ -184,5 +188,9 @@ $$
 which is just like knowing where the molecule is on the slope.
 It then needs to switch to the better slope, at a speed inversely
 proportional to the difference, like lowering the divot to allow the
-molecule to jump out.
+molecule to jump out, up the slope.
+
 There are a fews to understand why this doesn't violate the Second Law.
+In any scheme for physically performing the local assessment on the
+fly, the strategy $\alpha(t)$ will itself be subject to random forces.
+We can conjecture that
