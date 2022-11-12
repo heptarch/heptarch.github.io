@@ -233,10 +233,9 @@ I might make this the subject of another blog post, but to me this
 suggests a different formulation of the Second Law:
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple;">
-<p>
-<b>A Second Law</b><br>
+<b>A Second Law</b>
 
-A demon cannot violate the Second Law without paying for entropy
+<p>A demon cannot violate the Second Law without paying for entropy
 decrease by either
 <ul>
   <li>increasing its own entropy to compensate;</li>
