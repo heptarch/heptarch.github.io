@@ -8,7 +8,7 @@ permalink: /hacks/
 
 - [*The Hacker's Guide to the Universe*](/hacker) (2021--). Ongoing project
 to hack the universe.
-- *Descrubbing math* (2022--). Ongoing project to make high school
+- *The Scrubland wiki* (2022--). Ongoing project to make high school
 math fun again.
 
 #### Documents
