@@ -209,7 +209,7 @@ This is a cool result!
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 <b>Exercise 2.</b>
 
-<p>Ramanujan defined the related integral
+Ramanujan defined the related integral
 
 $$
 F_\omega(z) = \int_{-\infty}^\infty \frac{e^{-\pi\omega x^2 + 2\pi
@@ -242,7 +242,7 @@ $$
 
 (c) Set $\omega = \alpha^2$ and $z \to \alpha
 z/\sqrt{\pi}$.
-Deduce from part (b) that, for $\alpha\beta = 1$ and $\alpha, \beta > 0$, </p>
+Deduce from part (b) that, for $\alpha\beta = 1$ and $\alpha, \beta > 0$,
 
 $$
 \sqrt{\alpha}e^{z^2/8}\int_{-\infty}^\infty
