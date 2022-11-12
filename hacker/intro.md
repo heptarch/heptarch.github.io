@@ -125,7 +125,7 @@ wobbling plate.
 </span>
 </div>
 
-<p style="text-indent: 50px; margin=-10pt 0 pt;">
+<p style=" margin=-10pt 0 pt;">
 The plate, here, is one that Feynman saw wobbling oddly when thrown in the Cornell cafeteria.
 He sat down, figured out the wobble, and was led, step by associative step, to a Nobel Prize.
 Working and playing go together.</p>
