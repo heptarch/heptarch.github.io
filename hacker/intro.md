@@ -135,12 +135,14 @@ important is that if we color blue the pairs of integers $(x, y)$ on
 the plane that satisfy the inequality, with $x$ increasing to the left
 and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 
+<div style="margin: 10px 0px">
 <figure>
     <div style="text-align:center"><img src
     ="/hacker/img/tupper.png" width="400"/>
 	<figcaption>Fig 1.1. <i>Tupper’s formula graphing itself.</i></figcaption>
 	</div>
 	</figure>
+</div>
 
 It would spoil the joke to explain how it works. But the point here is that play and technical excellence are condensed into a move that, like a joke, amuses and surprises us. In contrast, thoughts which
 are serious, specialized, deep and difficult, which take hundreds of pages to explain or a PhD
