@@ -29,7 +29,7 @@ slide down, albeit with random jumps back and forth.
 	</div>
 	</figure>
 
-Instead of an even slope, we could imagine something jagged, which still
+Instead of an even slope, we could imagine a bumpy slope $B$, which still
 tilts to the left overall. The molecule may get stuck in a local
 divot, or it may drift to the left.
 What it cannot do, however, is drift to the right.
@@ -50,6 +50,25 @@ have violated the Second Law, but really, what matters is the
 *average*.
 Random fluctuations are fine, but the average trajectory must always
 get stuck or go left.
+So, both $E$ and $B$ are "losing strategies" in the sense that on
+average the particle does not go right.
 
-Suppose we can press 
-The basic idea is to use the 
+Suppose we can press a button which alternates instantaneously between
+$E$ and $B$.
+Provided the bumps are big enough to trap the particle, we can
+manufacture a violation of the Second Law as follows.
+Wait for it to get trapped in a divot in $B$; quickly switch to $E$ so
+it jumps right; switch back to $B$ so it gets trapped again.
+This is a type of
+["Brownian ratchet"](https://en.wikipedia.org/wiki/Brownian_ratchet)
+which slowly raises the molecule up the hill.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/qparrondo3.png" width="400"/>
+	<figcaption><i>Alternating between slopes ratchets the molecule up
+    the hill.</i></figcaption>
+	</div>
+	</figure>
+
+The solution to this, 
