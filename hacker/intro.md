@@ -43,11 +43,11 @@ their ignorance and keep asking. If they fake it, the only person they deceive i
 School does not work this way, and when teachers make the same quip about cheating, they
 are neglecting the systemic realities — the hoops to jump through, the boxes to tick, all those
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
-there will be no cheating.<label for="sn-demo"
+there will be no cheating.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
-       id="sn-demo"
+       id="sn-1"
        class="margin-toggle"/>
 <span class="sidenote">
   Or perhaps dramatically less cheating.
