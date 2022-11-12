@@ -7,6 +7,7 @@ categories:
 date:  2021-04-06
 ---
 
+## Killing wonder
 ---
 
 <p style="margin=-50px 0px;">
@@ -44,7 +45,15 @@ their ignorance and keep asking. If they fake it, the only person they deceive i
 School does not work this way, and when teachers make the same quip about cheating, they
 are neglecting the systemic realities — the hoops to jump through, the boxes to tick, all those
 perverse incentives to fake it — that they help maintain. The day that cheating is unnecessary,
-there will be no cheating.
+there will be no cheating.<label for="sn-demo"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-demo"
+       class="margin-toggle"/>
+<span class="sidenote">
+  This is a margin note. Notice there isn’t a number preceding the note.
+</span>
 </p>
 <p style="text-indent: 50px; margin=-10pt 0 pt;">
 So, this is not a textbook, nor is it a manual, a manifesto or a monograph. I have no interest
