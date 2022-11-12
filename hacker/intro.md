@@ -7,7 +7,7 @@ categories:
 date:  2021-04-06
 ---
 
-<div style="margin: -10px 0px">
+<div style="margin: -5px 0px">
 The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
 it is knowable. Our knowledge may be fragmentary and often plain wrong; that is the basic
 predicament of science. But it makes it no less miraculous that we can unravel the biological
@@ -18,7 +18,7 @@ are almost entirely missing from our curricula. We teach the wrong things, using
 methods, for the wrong reasons. The outcome is, of course, deeply
 wrong.
 </div>
-<div style="margin: -10px 0px">
+<div style="margin: -5px 0px">
 &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
