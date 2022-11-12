@@ -90,4 +90,6 @@ assess the speed of the molecule as it moves up the slope.
 ## Quantum mechanics
 ---
 
-as
+We could analyze this in terms of Brownian motion with drift, but
+there's a more general quantum-mechanical formulation which makes the
+point clear.
