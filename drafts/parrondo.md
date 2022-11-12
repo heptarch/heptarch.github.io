@@ -95,4 +95,4 @@ there's a more general quantum-mechanical formulation which makes the
 point clear.
 It also gives a clean and simple illustration of how Parrondo's
 paradox appears in quantum mechanics.
-Let us consider 
+Let us consider a system with Hamiltonian $H$, and two observables, $E$ (not energy!) and $B$.
