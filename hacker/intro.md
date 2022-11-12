@@ -9,7 +9,7 @@ date:  2021-04-06
 
 ---
 
-<p style="margin=-20pt 0 pt;">
+<p style="margin=-20px 0pt;">
 The universe is huge, ancient, and marvelously strange. But the greatest miracle of all is that
 it is knowable. Our knowledge may be fragmentary and often plain wrong; that is the basic
 predicament of science. But it makes it no less miraculous that we can unravel the biological
@@ -19,7 +19,7 @@ providence in this. This book is written from the conviction that awe, beauty, a
 are almost entirely missing from our curricula. We teach the wrong things, using the wrong
 methods, for the wrong reasons. The outcome is, of course, deeply
 wrong.</p>
-<p style="text-indent: 50px; margin=-20pt 0 pt;">
+<p style="text-indent: 50px; margin=-20px 0pt;">
 Let me elaborate. If students learn to reproduce known results by rote, they will take both
 the methods and the results for granted. Of course gravity obeys an inverse square law! It’s
 obvious. But why? What assumptions does this depend on? What else might obey an inverse
