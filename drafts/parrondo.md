@@ -107,14 +107,6 @@ $$
 \frac{\text{d}}{\text{d}t} \langle E\rangle \leq 0, \quad \frac{\text{d}}{\text{d}t}\langle B\rangle \leq 0.
 $$
 
-It will be useful to note Heisenberg's equations of motion for a
-time-dependent operator $\mathcal{O}(t)$,
-
-$$
-\frac{\text{d}}{\text{d}t} \langle \mathcal{O}(t)\rangle =
-\langle\dot{\mathcal{O}(t)}\rangle -i\langle[\mathcal{O}, H]\rangle.
-$$
-
 Let's define our alternating strategy in terms of an operator which
 weights $E$ and $B$ in a time-dependent fashion:
 
@@ -136,5 +128,5 @@ and hence time derivative
 
 $$
 \frac{\text{d}}{\text{d}t} \langle A(t)\rangle = \dot{\alpha(t)}
-(\langle E\rangle - \langle B\rangle ) +
+(\langle E\rangle - \langle B\rangle ) + \alpha(t)\langle E\rangle + (1-\alpha(t))\langle B\rangle
 $$
