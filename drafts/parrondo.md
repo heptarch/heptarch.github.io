@@ -40,3 +40,8 @@ What it cannot do, however, is drift to the right.
 	<figcaption><i>A molecule slides down a jagged slope with random jumps.</i></figcaption>
 	</div>
 	</figure>
+
+Suppose that it did. Then we would be turning thermal energy---the
+random jumps---into gravitational potential energy. This violates the
+second law of thermodynamics, which forbids us turning thermal energy
+into useful work.
