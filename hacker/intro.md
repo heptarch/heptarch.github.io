@@ -55,34 +55,38 @@ software movement. In the words of open-source gnuru Richard Stallman:
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
+<p>
 What [hackers] had in common was a love of excellence and programming. They
 wanted to make the programs that they used be as good as they could. They also
 wanted to make them do neat things. They wanted to be able to do something in
 a more exciting way than anyone believed possible and show ‘Look how wonderful
 this is. I bet you didn’t believe this could be done.’
+</p>
 </span>
 </div>
 
 Stallman is articulating here a broad ethos of play, excellence, and creativity. Put simply, the
-idea is to do cool things in cool ways.
-
+idea is to do cool things in cool ways.</p>
+<p style="text-indent: 50px;">
 That’s how we can learn and have fun at the same
 time, activities no longer at odds, but combined and harmonized to the point they become
 indistinguishable. To paraphrase L. P. Jacks, a hacker
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
+<p>
 . . . simply pursues their vision of excellence at whatever they do, leaving others to
 decide whether they are working or playing. To them, they are always
 doing both.
+</p>
 </span>
 </div>
 
 When Google co-founder Larry Page built a working inkjet printer out of Lego, or MIT
 pranksters transformed a campus building into a giant version of Tetris, were they working
 or playing? The answer is both; they were hacking, so the distinction
-is irrelevant.
-
+is irrelevant.</p>
+<p style="text-indent: 50px;">
 This philosophy goes well beyond programming. One of the great avatars of hacker spirit is Richard
 Feynman, a physicist who won the Nobel Prize for co-inventing quantum electrodynamics,
 but had a history of hopping between different areas and doing amazing things wherever he
@@ -90,8 +94,10 @@ landed. He gave this advice to an aspiring scientist:
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
+<p>
 Study hard what interests you the most in the most undisciplined, irreverent and
-original manner possible
+original manner possible.
+</p>
 </span>
 </div>
 
@@ -103,20 +109,23 @@ exploration:
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
+<p>
 Why did I enjoy [physics]? I used to play with it. I used to do whatever I felt like
 doing — it didn’t have to do with whether it was important for the development of
 nuclear physics, but whether it was interesting and amusing for me to play with. . .
 It was easy to play with these things. It was like uncorking a bottle: Everything
 flowed out effortlessly. I almost tried to resist it! There was no importance to what
 I was doing, but ultimately there was. The diagrams and the whole business that I
-got the Nobel Prize for came from that piddling around with the wobbling plate.
+got the Nobel Prize for came from that piddling around with the
+wobbling plate.
+</p>
 </span>
 </div>
 
 The plate, here, is one that Feynman saw wobbling oddly when thrown in the Cornell cafeteria.
 He sat down, figured out the wobble, and was led, step by associative step, to a Nobel Prize.
-Working and playing go together.
-
+Working and playing go together.</p>
+<p style="text-indent: 50px;">
 Hacker culture is organized around discrete units called hacks. A hack is more than a
 record of play, or mere cleverness, or even creative flair. It is play condensed by technical wit,
 and like a good joke, has an element of surprise or shortcut. A brilliant example is Tupper’s
@@ -146,15 +155,14 @@ and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 
 It would spoil the joke to explain how it works. But the point here is
 that play and technical excellence are condensed into a move that,
-like a joke, amuses and surprises us.
-
-
+like a joke, amuses and surprises us.</p>
+<p style="text-indent: 50px;">
 In contrast, thoughts which
 are serious, specialized, deep and difficult, which take hundreds of pages to explain or a PhD
 to understand, are not really hacks. Andrew Wiles’ proof of Fermat’s Last Theorem, for instance, involves creative insight and technical cleverness on a level unimaginable for most of
 us. It is precisely this unimaginability that makes it hard to share at the pub or during a departmental coffee break. And like jokes, hacks are <i>memes</i>, designed to be socially distributed
-and mutually enjoyed. What’s the point if you can’t talk about it?
-
+and mutually enjoyed. What’s the point if you can’t talk about it?</p>
+<p style="text-indent: 50px;">
 These qualities of shareability and mutual enjoyment contribute to what is called the hack
 value, a term which actually predates “hack”, and from which “hack” is formed. Just like
 humor, hack value is hard to define, but perhaps the most important component is leverage,
@@ -172,14 +180,15 @@ leading to that apotheosis of wonder and hacker spirit captured by Stallman:
 
 <div style="margin: 20px 0px">
 <span style="padding-left: 20px; display:block">
-<i>Look how wonderful this is. I bet you didn’t believe this could be done.</i>
+<i>Look how wonderful this is. I bet you didn’t believe this could be
+done.</i>
 </span>
 </div>
 
 Viewed this way, hacker culture is a celebration of human wit and ingenuity, of our ability to
 creatively overcome technical limitation and share that triumph in the
-form of memes.
-
+form of memes.</p>
+<p style="text-indent: 50px;">
 But with a mild tweak, it becomes a celebration of cosmic providence:
 
 <div style="margin: 20px 0px">
@@ -197,4 +206,4 @@ will hack our way to nuclear explosions, tidal waves, turbulence, bacterial gene
 expectancy, light bulbs, dark energy, black holes, and much more besides, ending with some
 of the deepest unsolved problems in physics. There will be no stupid questions or incentives
 to fake. There will be awe. There will be beauty. And most of all, it
-will be a lot of darn fun.
+will be a lot of darn fun.</p>
