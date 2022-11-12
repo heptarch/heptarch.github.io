@@ -20,7 +20,7 @@ $$
 T_1f(y) = \int_{\Omega_1} f(x) K(x, y) \, \text{d}x, \quad T_2f(x) = \int_{\Omega_2} f(y) K(x, y) \, \text{d}y,
 $$
 
-where $T_i$ integrates over argument $i$, and $\Omega_i \subseteq \mathbb{R}^d$ denotes the
+where $T_i$ integrates over argument $i$, and $\Omega_i$ denotes the
 corresponding domain of integration.
 If everything is smooth enough to swap integrals (i.e. Fubini's theorem), then
 
