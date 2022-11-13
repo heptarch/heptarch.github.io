@@ -135,7 +135,7 @@ contain it.
 
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself and the whole
 backward scheme of his life---formulates the terms of an offer he will
-later describe as "inspired lunacy" and his "greatest success". Susan accepts.
+later describe as "inspired lunacy". Susan accepts.
 
 <p align="center">
   ⁂
