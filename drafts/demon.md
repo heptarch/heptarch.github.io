@@ -120,6 +120,8 @@ modifications of electromagnetic theory itself...
 </font>
 </div>
 
+What strikes the duke, however, is the flame of living joy in the young virtuoso's eyes.
+
 <p align="center">
   ⁂
   </p>
