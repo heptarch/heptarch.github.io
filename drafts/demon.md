@@ -28,8 +28,18 @@ infinitely beneath the notice of Susan Dewar, who, 200 yards directly
 below the stationmaster's rum, gazed with rapture at the fragile and
 impossible object before her.
 
+A small shape glowed and hummed in the darkness; a patchwork of
+triangles, folded in on itself like an origami ball.
+Dewar pulled gently on a wire near her head, and the tug communicated
+itself into the darkness. One pulley rolled, then another, then a
+third, and a cantilevered armature covered in coils and ribbons of
+piping leaned forward.
+The ball grew larger as a constellation of teardrops appeared around
+it, and swelled like stalactites to pierce each corner of the ball.
+
 <p align="center">
   ⁂
   </p>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
+<!-- http://www.polytope.net/hedrondude/regulars.htm -->
