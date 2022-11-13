@@ -122,8 +122,10 @@ but by the supposition of an additional spatial dimension, leads to
 modifications of electromagnetic theory itself...
 </font>
 </div>
-The talk is largely gibberish to the duke. What strikes him
-most is not  is the flame of living joy in the young virtuoso's eyes.
+The talk is largely gibberish to the duke. The play of symbols, the
+contrivance and subtlety of the reasoning, the flashes of scientific
+wit, are all lost on him; what is not lost, however, is the flame of
+living joy in Miss Dewar's eyes, 
 
 <p align="center">
   ⁂
