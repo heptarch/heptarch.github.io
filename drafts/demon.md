@@ -38,7 +38,7 @@ impossible object before her.
 
 A small shape glowed and hummed in the darkness: a patchwork of
 triangles, folded in on itself like an origami ball.
-Susan gently pulled on a wire near her head, and the tug travelled off
+Susan gently pulled on a wire near her head, and the tug travelled obediently
 into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and ribbons of
 piping leaned forward as if bowing.
