@@ -148,8 +148,8 @@ tunnels, forks they are forbidden from taking, and huge, humming
 pieces of apparatus that seem unrelated to the pneumatic mechanism of the despatch tubes.
 Engineers and builders are only given small parts of the blueprint.
 Questions about other sections are at first politely, then firmly,
-discouraged, and those who keep asking were let go.
-Though the network is abandoned, something bigger is already finished.
+discouraged, and those who keep asking are let go.
+The network is abandoned but something bigger is already finished.
 
 <p align="center">
   ⁂
