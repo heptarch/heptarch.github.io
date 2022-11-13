@@ -44,11 +44,8 @@ third, and a cantilevered armature covered in coils and ribbons of
 piping leaned forward as if bowing.
 The ball grew larger and a constellation of teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
-twelve apostles in 
-
-The teardrops grew, their tails spiking into the ball and piercing it
-at the corners.
-The tails kept growing, no longer angelic,
+twelve apostles celebrating their master.
+As the 
 
 <p align="center">
   ⁂
