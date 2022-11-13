@@ -56,5 +56,7 @@ A devilish shape, she thought, and switched it off.
   ⁂
   </p>
 
+London Pneumatic Despatch Company
+
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
