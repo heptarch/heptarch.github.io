@@ -69,10 +69,11 @@ In the 1860s, the London Pneumatic Despatch Company raised the extravagant sum o
 distributing London's mail, commencing with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile distant.
 The network made it as far as the General Post Office on St Martin's
-le Grand, a few years later and miles southwest, before encountering
-the ultimate terminus: underperformance and adverse market conditions.
+le Grand, a few years later and miles southwest, before arriving at
+its ultimate terminus.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
 <!-- , or the apostles orbiting the son. -->
 <!-- , a betrayal beyond anything in the scriptures. -->
+<!-- : underperformance and adverse market conditions. -->
