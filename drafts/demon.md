@@ -77,7 +77,7 @@ discontinued in 1874.
 
 A company ambitious enough to propose an underground pneumatic
 network could not be reasonably expected to stop there.
-The chairman, Richard Temple-Nugent-Brydges-Chandos-Grenville, Third
+The chairman, Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville, Third
 Duke of Chandos,
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
