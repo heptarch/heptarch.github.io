@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Working title: the avenues"
+title:  "The Ashen Quay"
 categories:
 date:  2022-11-12
 ---
@@ -129,6 +129,7 @@ contrivance and subtlety of the reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers.
+The duke---disappointed in politics, business, in his whole
 
 <p align="center">
   ⁂
