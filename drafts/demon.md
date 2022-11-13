@@ -112,7 +112,7 @@ solid black; line-height:1.5;">
 Additional Dimension of Space</b> <br>
 
 Maxwell sought to explain mutual action of bodies at a distance by the
-hypothesis of an electromagnetic. I will essay to develop a similar
+hypothesis of an electromagnetic field. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another at a distance,
 but by the supposition of an additional spatial dimension, leads to
