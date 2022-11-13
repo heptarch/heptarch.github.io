@@ -47,8 +47,8 @@ it, dancing, Susan thought, like angels on the head of a pin.
 But then the teardrops lengthened inward into spikes, cruelly piercing the
 ball through its corners, and Susan gasped.
 The spikes pushed through to the opposite side, and the whole figure
-convulsed, dancing into new, more elaborate patchworks as the ball was
-swallowed up by its assailants.
+convulsed, shivering into new, more elaborate patchworks, the ball
+swallowed up by its dancing assailants.
 
 A devilish shape, she concluded, grinning, and switched it off.
 
