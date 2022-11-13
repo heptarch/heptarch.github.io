@@ -99,11 +99,12 @@ Though the network was abandoned, something bigger was already finished.
 One of these men confesses that a sensation is afoot: a lass, no more
  than 10, and, one mutters, a "leanabh breugach", is giving a lecture
  on natural philosophy.
- The duke is intrigued---he has a daughter the same age---and attends. <br>
+ The duke is intrigued---he has a daughter the same age---and
+ attends.<br>
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
 grey; line-height:1.5">
-bla
+<b>A dynamical theory of gravity and electromagnetism with</b>
 </div>
 
 <p align="center">
