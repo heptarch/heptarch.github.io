@@ -53,7 +53,7 @@ A devilish shape, she concluded, grinning, and switched it off.
   ⁂
   </p>
 
-A little girl is seen to wander Aberdeen's Trinity Quay, fascinating by the
+*1860.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinating by the
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
@@ -61,7 +61,7 @@ passersby. They do not know.
   ⁂
   </p>
 
-In the 1860s, the London Pneumatic Despatch Company raised the extravagant sum of
+The London Pneumatic Despatch Company raised the extravagant sum of
 £150,000 to build an underground network of pneumatic tubes for
 distributing London's mail.
 Construction commenced in 1863 with a short experimental stretch between Euston Square and the North
@@ -88,7 +88,7 @@ Though the network was abandoned, something bigger was already finished.
   ⁂
   </p>
 
-Richard Plantagenet Campbell
+*1865.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
  Chandos, heir of even more debts than titles, weary, honest, but not without his
  moments of shrewdness, visits the University of Aberdeen in his
