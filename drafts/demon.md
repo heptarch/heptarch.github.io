@@ -56,7 +56,7 @@ A devilish shape, she concluded, grinning, and switched it off.
   ⁂
   </p>
 
-A little girl is seen to wander Trinity Quay, fascinating by the
+*1860*. A little girl is seen to wander Aberdeen's Trinity Quay, fascinating by the
 changing shape of the waves. "What's the go o' that?" she asks
 passersby. They do not know.
 
@@ -72,7 +72,7 @@ Construction started, and made it as far as the General Post Office on St Martin
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus. Although the Post
 Office used it in a desultory fashion for a few years, like a child
-with a disappointing toy,
+with a disappointing toy for which it has no alternative,
 the network was underperforming, overbudget, and was officially
 discontinued in 1874.
 
@@ -84,7 +84,15 @@ pieces of apparatus that seemed unrelated to pneumatics of the despatch tubes.
 Engineers and builders were confined to work only on small parts of the network.
 Questions about other sections were at first politely, then firmly,
 discouraged, and those who kept asking were let go.
-Though the network was abandoned, something bigger had already been built.
+Though the network was abandoned, something bigger was already finished.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1865*. Richard Plantagenet Campbell
+ Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
+ Chandos and inheritor of more
 
 <p align="center">
   ⁂
