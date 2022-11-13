@@ -40,7 +40,7 @@ A small shape glowed and hummed in the darkness: a patchwork of
 triangles, folded in on itself like an origami ball.
 Susan gently pulled on a wire near her head, and the tug travelled obediently
 into the darkness. A pulley lurched, then another, then a
-third, and a cantilevered armature covered in coils and ribbons of
+third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leaned forward as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
