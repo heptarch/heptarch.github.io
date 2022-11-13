@@ -109,7 +109,7 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  pupil" of "various modern developments".
  Miss Dewar coughs nervously, looks quickly at her mentor who nods
  paternally, and begins:
-<div style="width=75%; background-color: #fffff8 ; padding: 30px 0px; border: 0px
+<div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.3">
 <b>A Dynamical Theory of Gravity and Electromagnetism with an
@@ -128,6 +128,7 @@ contrivance and subtlety of the reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers.
+Before her disquisition is finished, the Duke has 
 
 <p align="center">
   ⁂
