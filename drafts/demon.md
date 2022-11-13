@@ -90,11 +90,12 @@ Though the network was abandoned, something bigger was already finished.
   ⁂
   </p>
 
-*1865*. Richard Plantagenet Campbell
+*1863*. Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
  Chandos, heir not only of names and titles but the Second Duke's
  debts, a politician and businessman, weary, honest, not without his
- moments of shrewdness, 
+ moments of shrewdness, visits the University of Aberdeen to obtain a
+ second opinion from some rail engineers.
 
 <p align="center">
   ⁂
