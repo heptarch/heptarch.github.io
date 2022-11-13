@@ -73,8 +73,8 @@ The network made it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office used it in a desultory fashion for a few years, like a child
-with a dull toy for which it has no alternative,
-the network was underperforming, overbudget, and was officially
+with a poor toy for which it has no alternative,
+the network was officially
 discontinued in 1874.
 
 But a company ambitious enough to propose an underground pneumatic
