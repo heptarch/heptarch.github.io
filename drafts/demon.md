@@ -101,7 +101,8 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  than 10, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
- himself laboriously ascending the granite steps of Cromwell Tower the next morning.
+ himself laboriously ascending the granite steps of Cromwell Tower the
+ next morning, curiosity more powerful than the cold.
  
 "Davie" Thomson, an immense, stentorian don who must stoop to enter
  the classroom, introduces the young "Miss Dewar" as a
