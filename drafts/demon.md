@@ -97,10 +97,12 @@ Though the network was abandoned, something bigger was already finished.
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
 One of these men confesses that a phenomenon is afoot: a lass, no more
- than 10, and, one mutters darkly, a "leanabh breugach", is giving a lecture
+ than 10, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
  on natural philosophy.
- The duke is intrigued---he has a daughter the same age---and
- attends. What transpires is largely gibberish to him.<br>
+ The duke is intrigued---he has a daughter the same age---and finds
+ himself in Cromwell Tower the next morning, in the biting cold,
+ laboriously ascending the granite steps to the lecture hall.
+ The talk itself is largely gibberish to him.<br>
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
 solid black; line-height:1.5"><br>
@@ -116,6 +118,6 @@ as
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
-<!-- , or the apostles orbiting the son. -->
-<!-- , a betrayal beyond anything in the scriptures. -->
-<!-- : underperformance and adverse market conditions. -->
+<!-- , or the apostles orbiting the son. , a betrayal beyond anything in the scriptures. -->
+<!-- https://homepages.abdn.ac.uk/npmuseum/scitourKings.shtml -->
+<!-- https://homepages.abdn.ac.uk/npmuseum/article/CTO/CTOPortfolio.html -->
