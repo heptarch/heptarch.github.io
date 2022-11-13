@@ -61,33 +61,6 @@ passersby. They do not know.
   ⁂
   </p>
 
-The London Pneumatic Despatch Company raised the extravagant sum of
-£150,000 to build an underground network of pneumatic tubes for
-distributing London's mail.
-Construction commenced in 1863 with a short experimental stretch between Euston Square and the North
-West District Post Office, a third of a mile distant.
-The network made it as far as the General Post Office on St Martin's
-le Grand, a few years later and miles southwest, before arriving at
-its ultimate terminus: unfavourable market conditions. Although the Post
-Office used it in a desultory fashion for a few years, like a child
-with a poor toy for which it has no alternative,
-the network was officially
-discontinued in 1874.
-
-But a company ambitious enough to propose an underground pneumatic
-network could not reasonably be expected to stop there.
-Visitors to the diggings would be confused by seemingly unnecessary
-tunnels, forks they were forbidden from taking, and huge, humming
-pieces of apparatus that seemed unrelated to the pneumatics of the despatch tubes.
-Engineers and builders only saw small parts of the blueprint.
-Questions about other sections were at first politely, then firmly,
-discouraged, and those who kept asking were let go.
-Though the network was abandoned, something bigger was already finished.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1865.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
  Chandos, heir of even more debts than titles, weary, honest, but not without his
@@ -133,6 +106,37 @@ contain it.
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself and the whole
 backward scheme of his life---formulates the terms of an offer he will
 later describe as "inspired lunacy". Susan accepts.
+
+<p align="center">
+  ⁂
+  </p>
+
+<p align="center">
+  ⁂
+  </p>
+
+*1874.* The London Pneumatic Despatch Company raises the extravagant sum of
+£150,000 to build an underground network of pneumatic tubes for
+distributing London's mail.
+Construction commences in 1863 with a short experimental stretch between Euston Square and the North
+West District Post Office, a third of a mile distant.
+The network makes it as far as the General Post Office on St Martin's
+le Grand, a few years later and miles southwest, before arriving at
+its ultimate terminus: unfavourable market conditions. Although the Post
+Office uses it in a desultory fashion for a few years, like a child
+with a poor toy for which it has no alternative,
+the network is officially
+discontinued in 1874.
+
+But a company ambitious enough to propose an underground pneumatic
+network cannot reasonably be expected to stop there.
+Visitors to the diggings are confused by seemingly unnecessary
+tunnels, forks they are forbidden from taking, and huge, humming
+pieces of apparatus that seem unrelated to the pneumatic mechanism of the despatch tubes.
+Engineers and builders are only given small parts of the blueprint.
+Questions about other sections are at first politely, then firmly,
+discouraged, and those who keep asking were let go.
+Though the network is abandoned, something bigger is already finished.
 
 <p align="center">
   ⁂
