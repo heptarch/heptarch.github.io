@@ -72,7 +72,7 @@ Construction started, and made it as far as the General Post Office on St Martin
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus. Although the Post
 Office used it in a desultory fashion for a few years,
-the network was overbudget and underperforming, and was officially
+the network was underperforming and overbudget, and was officially
 discontinued in 1874.
 
 But a company ambitious enough to propose an underground pneumatic
