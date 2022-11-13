@@ -45,7 +45,7 @@ The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles celebrating the lamb.
 But then the teardrops lengthened inward into spikes, and cruelly pierced the
-ball; Susan gasped, shocked by a twelvefold betrayal beyond anything in the scriptures.
+ball; Susan gasped, shocked by a betrayal beyond anything in the scriptures.
 The spikes pushed through to the opposite side, and the whole figure
 convulsed, dancing into new, more convoluted patchworks,
 the ball concealed by its assailants.
@@ -64,7 +64,7 @@ passersby. They do not know.
   ⁂
   </p>
 
-
+PlanetN9Ne
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
