@@ -41,7 +41,7 @@ triangles, folded in on itself like an origami ball.
 Susan gently pulled a wire near her head, and the tug travelled obediently
 into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
-piping leaned forward as if bowing.
+piping leaned forward, as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles celebrating their master.
