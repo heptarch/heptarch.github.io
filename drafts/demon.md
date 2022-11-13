@@ -77,7 +77,7 @@ passersby. They do not know.
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
-One of these men confides a phenomenon: a lass, no more
+One of these men confides of a phenomenon: a lass, no more
  than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
