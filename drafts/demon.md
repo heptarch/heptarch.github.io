@@ -120,7 +120,8 @@ hypothesis of an electromagnetic field. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another at a distance,
 but by the supposition of an additional spatial dimension, leads to
-modifications of electromagnetic theory itself...
+departures from electromagnetic theory itself, which we might detect
+with a suitably designed instrument...
 </font>
 </div>
 The talk is largely gibberish to the duke. The play of symbols, the
