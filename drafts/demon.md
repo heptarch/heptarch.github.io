@@ -71,7 +71,8 @@ West District Post Office, a third of a mile distant.
 Construction started, and made it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus. Although the Post
-Office used it in a desultory fashion for a few years,
+Office used it in a desultory fashion for a few years, like a child
+with a boring toy,
 the network was underperforming, overbudget, and was officially
 discontinued in 1874.
 
