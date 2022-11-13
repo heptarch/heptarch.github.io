@@ -105,21 +105,19 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  laboriously ascending the granite steps to the lecture hall in the biting cold.
  The talk itself is largely gibberish:<br>
 
----
-
 <div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
 solid black; line-height:1.5;">
+ <font size="-2">
 <b>A Dynamical Theory of Gravity and Electromagnetism with an
 Additional Dimension of Space</b> <br>
-
----
 
 Maxwell sought to explain mutual action of bodies at a distance by the
 hypothesis of an electromagnetic. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another at a distance,
-but by the supposition of an additional spatial dimensions, leads to
+but by the supposition of an additional spatial dimension, leads to
 modifications of electromagnetic theory itself...
+</font>
 </div>
 
 <p align="center">
