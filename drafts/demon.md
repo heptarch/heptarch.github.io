@@ -36,16 +36,16 @@ infinitely beneath the notice of Susan Dewar, who, 200
 yards directly beneath the stationmaster's rum, gazed with rapture at the fragile and
 impossible object before her.
 
-A small shape glowed and hummed in the darkness; a patchwork of
+A small shape glowed and hummed in the darkness: a patchwork of
 triangles, folded in on itself like an origami ball.
-Dewar pulled gently on a wire near her head, and the tug travelled off
+Dewar pulled gently a wire near her head, and the tug travelled off
 into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and ribbons of
 piping leaned forward as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles celebrating their master.
-The teardrops lengthened inward and cruelly pierced the
+But then the teardrops lengthened inward and cruelly pierced the
 ball; Susan gasped at this twelvefold betrayal, beyond anything in the scriptures.
 The spikes emerged on the other side of the ball, and the whole figure
 shivered, as the spikes and their heads continued dancing, swelling
