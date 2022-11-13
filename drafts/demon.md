@@ -102,7 +102,7 @@ One of these men confesses that a sensation is afoot: a lass, no more
  The duke is intrigued---he has a daughter the same age---and attends. <br>
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
-solid purple; line-height:1.5">
+grey; line-height:1.5">
 bla
 </div>
 
