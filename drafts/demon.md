@@ -90,12 +90,18 @@ Though the network was abandoned, something bigger was already finished.
   ⁂
   </p>
 
-*1863*. Richard Plantagenet Campbell
+*1865*. Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
- Chandos, heir of more debts than titles, weary, honest, not without his
+ Chandos, heir of more debts than titles, weary, honest, but not without his
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
+One of these 
+
+<div style="background-color: #111 ; padding: 10px; border: 1px
+solid purple; line-height:1.5">
+bla
+</div>
 
 <p align="center">
   ⁂
