@@ -81,7 +81,7 @@ network could not reasonably be expected to stop there.
 Visitors to the diggings would be confused by seemingly unnecessary
 tunnels, forks they were forbidden from taking, and huge, humming
 pieces of apparatus that seemed unrelated to pneumatics of the despatch tubes.
-Engineers were confined to work on small parts of the network.
+Engineers and builders were confined to work only on small parts of the network.
 Questions about other sections were at first politely, then firmly,
 discouraged, and those who kept asking were let go.
 
