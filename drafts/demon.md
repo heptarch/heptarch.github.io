@@ -129,7 +129,6 @@ contrivance and subtlety of the reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers.
-Before her disquisition is finished, the Duke has 
 
 <p align="center">
   ⁂
