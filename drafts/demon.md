@@ -104,10 +104,11 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  himself in Cromwell Tower the next morning,
  laboriously ascending the granite steps to the classroom.
  
- David Thomson, a towering, stentorian figure who looks much too large
+ David Thomson, an immense, stentorian figure who seems far too large
  for the cramped space, introduces the young "Miss Dewar" as a "keen
  pupil" of "various modern developments".
- Miss Dewar coughs nervously, and with a quick look at her mentor, begins:
+ Miss Dewar coughs nervously, looks quickly at her mentor who nods
+ paternally, and begins:
 <div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.3">
@@ -125,7 +126,8 @@ modifications of electromagnetic theory itself...
 The talk is largely gibberish to the duke. The play of symbols, the
 contrivance and subtlety of the reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
-living joy in Miss Dewar's eyes, 
+living joy in Miss Dewar's eyes, a flame which kindles something in
+his own dim embers.
 
 <p align="center">
   ⁂
