@@ -96,7 +96,7 @@ Though the network was abandoned, something bigger was already finished.
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
-One of these men confesses that a sensation is afoot: a lass, no more
+One of these men confesses that a phenomenon is afoot: a lass, no more
  than 10, and, one mutters, a "leanabh breugach", is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and
