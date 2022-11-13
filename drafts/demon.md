@@ -44,7 +44,7 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leaned forward, as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin.
-But then the teardrops lengthened inward into spikes, cruelly piercing the
+But then the teardrops lengthened inward into spikes, impaling the
 ball through its corners, and Susan gasped.
 The spikes pushed through to the opposite side, and the whole figure
 convulsed, shivering into new, more elaborate patchworks, the ball
@@ -102,8 +102,11 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
  himself in Cromwell Tower the next morning,
- laboriously ascending the granite steps to the lecture hall in the biting cold.
- The talk itself is largely gibberish:
+ laboriously ascending the granite steps to the lecture hall in the
+ biting cold.
+ David Thomson, a towering, stentorian presence, introduces the young
+ "Miss Dewar".
+ Miss Dewar begins:
 
 <div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
 solid black; line-height:1.3;">
@@ -120,7 +123,8 @@ modifications of electromagnetic theory itself...
 </font>
 </div>
 
-What strikes the duke, however, is the flame of living joy in the young virtuoso's eyes.
+The talk is largely gibberish to the duke. What strikes him
+forcefully, however, is the flame of living joy in the young virtuoso's eyes.
 
 <p align="center">
   ⁂
