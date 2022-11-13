@@ -102,10 +102,11 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
  himself in Cromwell Tower the next morning,
- laboriously ascending the granite steps to the lecture hall in the
- biting cold.
- David Thomson, a towering, stentorian presence, introduces the young
- "Miss Dewar".
+ laboriously ascending the granite steps to the classroom.
+ 
+ David Thomson, a towering, stentorian figure who looks much too large
+ for the cramped space, introduces the young "Miss Dewar" as a "keen
+ pupil" of "various modern developments".
  Miss Dewar begins:
 <div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
 solid black; line-height:1.3;">
