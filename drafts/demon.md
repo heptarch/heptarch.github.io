@@ -33,7 +33,7 @@ in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
 the Great Hall with mindless curiosity---all these details were
 infinitely beneath the notice of Susan Dewar, who, 200
-yards directly beneath the stationmaster's rum, gazed with rapture at the fragile and
+yards directly below the stationmaster's rum, gazed with rapture at the fragile and
 impossible object before her.
 
 A small shape glowed and hummed in the dark: a patchwork of
