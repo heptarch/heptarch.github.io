@@ -42,8 +42,13 @@ Dewar pulled gently on a wire near her head, and the tug travelled off
 into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and ribbons of
 piping leaned forward as if bowing.
-The ball grew larger and a constellation of teardrops appeared around
-it, like angels dancing on the head of a pin.
+The ball grew larger and a constellation of teardrops began to dance
+around it, and Susan thought of angels on the head of a pin, or the
+twelve apostles, orbiting that central figure.
+
+The teardrops grew, their tails spiking into the ball and piercing it
+at the corners.
+The tails kept growing, no longer angelic,
 
 <p align="center">
   ⁂
