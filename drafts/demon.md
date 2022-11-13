@@ -81,7 +81,7 @@ One of these men confides of a phenomenon: a lass, no more
   Illegitimate child.
 </span> is giving a lecture
  on natural philosophy.
- The duke is intrigued---he has a daughter the same age---and finds
+ The Duke is intrigued---he has a daughter the same age---and finds
  himself laboriously ascending the granite steps of Cromwell Tower the
  next morning, curiosity more powerful than the biting lowland cold.
  
@@ -108,7 +108,7 @@ addition predicts departures from the results of Maxwell and Faraday which we mi
 by suitably precise experimental work...
 </font>
 </div>
-The talk is largely gibberish to the duke. The play of symbols, the
+The talk is largely gibberish to the Duke. The play of symbols, the
 contrivance and subtlety of reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
