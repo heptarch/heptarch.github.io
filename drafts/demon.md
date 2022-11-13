@@ -7,6 +7,8 @@ categories:
 date:  2022-11-12
 ---
 
+<link href="https://fonts.cdnfonts.com/css/fin-fraktur" rel="stylesheet">
+
 <span style="padding-left: 40px; display:block">
 Since all the tools for my untying <br>
 In four-dimensioned space are lying, <br>
@@ -61,7 +63,7 @@ passersby. They do not know.
   ⁂
   </p>
 
-
+<p style="'fin fraktur', sans-serif;">Skip to the good bits, please.</p>
 
 <p align="center">
   ⁂
