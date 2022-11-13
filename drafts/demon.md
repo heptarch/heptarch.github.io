@@ -107,7 +107,7 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  David Thomson, a towering, stentorian figure who looks much too large
  for the cramped space, introduces the young "Miss Dewar" as a "keen
  pupil" of "various modern developments".
- Miss Dewar begins:
+ Miss Dewar coughs nervously, and with a quick look at her mentor, begins:
 <div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.3">
@@ -123,7 +123,7 @@ modifications of electromagnetic theory itself...
 </font>
 </div>
 The talk is largely gibberish to the duke. What strikes him
-forcefully, however, is the flame of living joy in the young virtuoso's eyes.
+most is not  is the flame of living joy in the young virtuoso's eyes.
 
 <p align="center">
   ⁂
