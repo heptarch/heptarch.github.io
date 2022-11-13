@@ -99,6 +99,7 @@ Though the network was abandoned, something bigger was already finished.
 One of these men confesses that a sensation is afoot: a lass, no more
  than 10, and, one mutters, a "leanabh breugach", is giving a lecture
  on natural philosophy.
+ The duke is intrigued---he has a daughter the same age---and attends. <br>
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
 solid purple; line-height:1.5">
