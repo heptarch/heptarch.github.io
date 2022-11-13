@@ -97,7 +97,8 @@ solid black; line-height:1.3;">
 <b>A Dynamical Theory of Gravity United with Electromagnetism by an
 Additional Dimension of Space</b> <br>
 
-Maxwell's treatise of 1864 sought to explain mutual action of bodies at a distance by the
+Maxwell's treatise of 1864 sought to explain the mutual influence of
+charged or magnetised bodies at a distance by the
 hypothesis of an electromagnetic field. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another when separated,
@@ -160,3 +161,4 @@ The network is abandoned but something bigger is already finished.
 <!-- , or the apostles orbiting the son. , a betrayal beyond anything in the scriptures. -->
 <!-- https://homepages.abdn.ac.uk/npmuseum/scitourKings.shtml -->
 <!-- https://homepages.abdn.ac.uk/npmuseum/article/CTO/CTOPortfolio.html -->
+<!-- https://www.ucl.ac.uk/physics-astronomy/about/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975 -->
