@@ -133,8 +133,9 @@ his own dim embers and threatens to engulf the room.
 Like Davie Thomson and the classroom, her disquisition can barely
 contain it.
 
-And so the duke---disappointed in politics, business, the whole
-backward scheme of his life---
+And so the duke---disappointed in politics, business, himself, the whole
+backward scheme of his life---formulates the terms of an offer he will
+later describe as "inspired lunacy". Susan accepts.
 
 <p align="center">
   ⁂
