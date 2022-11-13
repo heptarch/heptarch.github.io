@@ -84,6 +84,11 @@ pieces of apparatus that seemed unrelated to pneumatics of the despatch tubes.
 Engineers and builders were confined to work only on small parts of the network.
 Questions about other sections were at first politely, then firmly,
 discouraged, and those who kept asking were let go.
+Though the network was abandoned, something bigger had already been built.
+
+<p align="center">
+  ⁂
+  </p>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
