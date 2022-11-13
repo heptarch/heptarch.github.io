@@ -103,10 +103,10 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  The duke is intrigued---he has a daughter the same age---and finds
  himself laboriously ascending the granite steps of Cromwell Tower the next morning.
  
-"Davie" Thomson, an immense, stentorian figure who seems to barely
- fit into the classroom, introduces the young "Miss Dewar" as a
- "remarkably keen
- pupil" of "the modern developments".
+"Davie" Thomson, an immense, stentorian don who must stoop to enter
+ the classroom, introduces the young "Miss Dewar" as a
+ "keen pupil" of "the modern developments", and folds himself into a
+ chair in the front row.
  Miss Dewar coughs nervously, looks at her mentor who nods
  paternally, and begins:
 <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
