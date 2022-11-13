@@ -109,7 +109,7 @@ by suitably precise experimental work...
 </font>
 </div>
 The talk is largely gibberish to the duke. The play of symbols, the
-contrivance and subtlety of reasoning, its flashes of scientific
+contrivance and subtlety of reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
@@ -163,3 +163,4 @@ The network is abandoned but something bigger is already finished.
 <!-- https://homepages.abdn.ac.uk/npmuseum/scitourKings.shtml -->
 <!-- https://homepages.abdn.ac.uk/npmuseum/article/CTO/CTOPortfolio.html -->
 <!-- https://www.ucl.ac.uk/physics-astronomy/about/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975 -->
+<!-- https://yaytext.com/fraktur/ -->
