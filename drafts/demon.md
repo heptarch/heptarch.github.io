@@ -70,9 +70,9 @@ distributing London's mail, commencing with a short experimental stretch between
 West District Post Office, a third of a mile distant.
 Construction started, and made it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
-its ultimate terminus. Although the Post
+its ultimate terminus: market conditions. Although the Post
 Office used it in a desultory fashion for a few years, like a child
-with a disappointing toy for which it has no alternative,
+with a dull toy for which it has no alternative,
 the network was underperforming, overbudget, and was officially
 discontinued in 1874.
 
@@ -80,7 +80,7 @@ But a company ambitious enough to propose an underground pneumatic
 network could not reasonably be expected to stop there.
 Visitors to the diggings would be confused by seemingly unnecessary
 tunnels, forks they were forbidden from taking, and huge, humming
-pieces of apparatus that seemed unrelated to pneumatics of the despatch tubes.
+pieces of apparatus that seemed unrelated to the pneumatics of the despatch tubes.
 Engineers and builders were confined to work only on small parts of the network.
 Questions about other sections were at first politely, then firmly,
 discouraged, and those who kept asking were let go.
@@ -92,16 +92,16 @@ Though the network was abandoned, something bigger was already finished.
 
 *1865*. Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
- Chandos, heir of more debts than titles, weary, honest, but not without his
+ Chandos, heir of even more debts than titles, weary, honest, but not without his
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
-One of these men confesses that a phenomenon is afoot: a lass, no more
+One of these men confides that a phenomenon is afoot: a lass, no more
  than 10, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
- himself in Cromwell Tower the next morning, in the biting cold,
- laboriously ascending the granite steps to the lecture hall.
+ himself in Cromwell Tower the next morning,
+ laboriously ascending the granite steps to the lecture hall in the biting cold.
  The talk itself is largely gibberish:<br>
 
 <div style="background-color: #fffff8 ; padding: 30px; border: 1px
