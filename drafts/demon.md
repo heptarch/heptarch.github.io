@@ -101,13 +101,13 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  than 10, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
- himself in Cromwell Tower the next morning,
- laboriously ascending the granite steps to the classroom.
+ himself laboriously ascending the granite steps of Cromwell Tower the next morning.
  
- David Thomson, an immense, stentorian figure who seems far too large
- for the cramped space, introduces the young "Miss Dewar" as a "keen
- pupil" of "various modern developments".
- Miss Dewar coughs nervously, looks quickly at her mentor who nods
+"Davie" Thomson, an immense, stentorian figure who seems to barely
+ fit into the classroom, introduces the young "Miss Dewar" as a
+ "remarkably keen
+ pupil" of "the modern developments".
+ Miss Dewar coughs nervously, looks at her mentor who nods
  paternally, and begins:
 <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
