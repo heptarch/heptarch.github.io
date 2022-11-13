@@ -68,9 +68,9 @@ In the 1860s, the London Pneumatic Despatch Company raised the extravagant sum o
 £150,000. Their stated goal: to build an underground network of pneumatic tubes for
 distributing London's mail, commencing with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile distant.
-The network made it as far as the General Post Office on St Martin's
+Construction started, and made it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
-its ultimate terminus. Construction stopped, and although the Post
+its ultimate terminus. Although the Post
 Office used the network in a desultory fashion for a few years, the
 pneumatic network was officially discontinued in 1874.
 
