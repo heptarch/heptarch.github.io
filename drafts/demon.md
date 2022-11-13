@@ -71,11 +71,12 @@ West District Post Office, a third of a mile distant.
 Construction started, and made it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus. Although the Post
-Office used the network in a desultory fashion for a few years,
-underperformance and adverse market conditions led to it being discontinued in 1874.
+Office used it in a desultory fashion for a few years,
+the network was overbudget and underperforming, and was officially
+discontinued in 1874.
 
-But the London Pneumatic Despatch Company did not limit its ambitions
-to the air.
+But a company ambitious enough to propose an underground pneumatic
+network had no reason to stop there.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
