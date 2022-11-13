@@ -32,7 +32,7 @@ gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
 the Great Hall with mindless curiosity---all these details were
-infinitely beneath the notice of Susan Dewar, who was in turn, 200
+infinitely beneath the notice of Susan Dewar, who was, in turn, 200
 yards directly beneath the stationmaster's rum, gazing with rapture at the fragile and
 impossible object before her.
 
@@ -42,9 +42,9 @@ Dewar pulled gently on a wire near her head, and the tug travelled off
 into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and ribbons of
 piping leaned forward as if bowing.
-The ball grew larger and a constellation of teardrops began to dance
-around it, and Susan thought of angels on the head of a pin, or the
-twelve apostles, orbiting that central figure.
+The ball grew larger and a constellation of teardrops appeared around
+it, dancing, Susan thought, like angels on the head of a pin, or the
+twelve apostles in 
 
 The teardrops grew, their tails spiking into the ball and piercing it
 at the corners.
