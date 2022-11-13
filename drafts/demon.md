@@ -59,16 +59,9 @@ A devilish shape, she concluded, grinning, and switched it off.
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
-<p align="center">
-  ⁂
-  </p>
 
 <p align="right">
 𝕾𝖐𝖎𝖕 𝖙𝖔 𝖙𝖍𝖊 𝖌𝖔𝖔𝖉 𝖇𝖎𝖙𝖘 𝖕𝖑𝖊𝖆𝖘𝖊.
-  </p>
-
-<p align="center">
-  ⁂
   </p>
 
 *1865.* Richard Plantagenet Campbell
@@ -78,7 +71,7 @@ passersby. They do not know.
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
 One of these men confides of a phenomenon: a lass, no more
- than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", <label for="sn-1"
+ than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
