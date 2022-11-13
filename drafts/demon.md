@@ -104,7 +104,7 @@ One of these men confesses that a sensation is afoot: a lass, no more
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
 black; line-height:1.5">
-<b>A dynamical theory of gravity and electromagnetism with</b>
+#### A dynamical theory of gravity and electromagnetism with
 </div>
 
 <p align="center">
