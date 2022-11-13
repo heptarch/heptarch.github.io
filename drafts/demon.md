@@ -32,7 +32,7 @@ gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
 the Great Hall with mindless curiosity---all these details were
-infinitely beneath the notice of Susan Dewar, who, in turn 200
+infinitely beneath the notice of Susan Dewar, who, 200
 yards directly beneath the stationmaster's rum, gazed with rapture at the fragile and
 impossible object before her.
 
