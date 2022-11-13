@@ -43,7 +43,7 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leaned forward, as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
-apostles celebrating the lamb.
+apostles orbiting the son.
 But then the teardrops lengthened inward into spikes, and cruelly pierced the
 ball; Susan gasped, shocked by a betrayal beyond anything in the scriptures.
 The spikes pushed through to the opposite side, and the whole figure
