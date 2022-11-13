@@ -46,7 +46,9 @@ The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles celebrating their master.
 As the ball expanded, the teardrops lengthened inward and pierced the
-ball; Susan gasped at this twelvefold betrayal.
+ball; Susan gasped at this twelvefold betrayal, beyond anything
+portrayed in the scriptures.
+More in heaven and earth, she thought.
 
 <p align="center">
   ⁂
