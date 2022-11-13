@@ -74,6 +74,8 @@ its ultimate terminus. The project was abandoned in 1869, although the
 Post Office continued to use the network in a desultory fashion until
 the mid 70s.
 
+But the 
+
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
 <!-- , or the apostles orbiting the son. -->
