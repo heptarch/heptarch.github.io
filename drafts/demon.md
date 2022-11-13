@@ -80,8 +80,7 @@ But a company ambitious enough to propose an underground pneumatic
 network could not reasonably be expected to stop there.
 Visitors to the diggings would be confused by seemingly unnecessary
 tunnels, forks they were forbidden from taking, and huge, humming
-pieces of apparatus that seemed unconnected to the spinning iron discs
-which sucked air from the despatch tubes.
+pieces of apparatus that seemed unrelated to pneumatics of the despatch tubes.
 Engineers were confined to work on small parts of the network.
 Questions about other sections were at first politely, then firmly, and finally menacingly,
 discouraged.
