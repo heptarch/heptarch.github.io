@@ -47,7 +47,7 @@ it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles celebrating their master.
 But then the teardrops lengthened inward into spikes, and cruelly pierced the
 ball; Susan gasped, shocked by a twelvefold betrayal beyond anything in the scriptures.
-The spikes pushed through to the other side, and the whole figure
+The spikes pushed through to the opposite side, and the whole figure
 shivered and convulsed, dancing into new, more convoluted patchworks,
 the ball concealed by its assailants.
 
