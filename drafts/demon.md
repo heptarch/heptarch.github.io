@@ -7,9 +7,6 @@ categories:
 date:  2022-11-12
 ---
 
----
-<br>
-
 <span style="padding-left: 40px; display:block">
 Since all the tools for my untying <br>
 In four-dimensioned space are lying, <br>
