@@ -65,12 +65,12 @@ passersby. They do not know.
   </p>
 
 In the 1860s, the London Pneumatic Despatch Company raised the extravagant sum of
-£150,000. Their stated goal was to build an underground network of pneumatic tubes for
+£150,000. Their stated goal: to build an underground network of pneumatic tubes for
 distributing London's mail, commencing with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile distant.
 The network made it as far as the General Post Office on St Martin's
-le Grand, a few years later and miles southwest, before
-underperformance and adverse market conditions killed it.
+le Grand, a few years later and miles southwest, before encountering
+the ultimate terminus: underperformance and adverse market conditions.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
