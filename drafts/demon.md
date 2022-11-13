@@ -105,11 +105,11 @@ One of these men confesses that a phenomenon is afoot: a lass, no more
  The talk itself is largely gibberish:<br>
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
-solid black; line-height:1.5"><br>
-<b>A dynamical theory of gravity and electromagnetism with additional
-dimensions of space</b> <br>
+solid black; line-height:1.5">
+<b>A dynamical theory of gravity and electromagnetism with an additional
+dimension of space</b> <br>
 
-as
+
 </div>
 
 <p align="center">
