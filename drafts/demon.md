@@ -104,7 +104,7 @@ One of these men confesses that a phenomenon is afoot: a lass, no more
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
 solid black; line-height:1.5">
-<h4>A dynamical theory of gravity and electromagnetism with additional dimensions of space</h4>
+<b>A dynamical theory of gravity and electromagnetism with additional dimensions of space</b>
 
 as
 </div>
