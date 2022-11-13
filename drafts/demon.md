@@ -79,8 +79,8 @@ But a company ambitious enough to propose an underground pneumatic
 network could not reasonably be expected to stop there.
 Visitors to the diggings would be confused by seemingly unnecessary
 tunnels, forks they were forbidden from taking, and huge, humming
-machines that seemed unconnected to the giant iron flywheels used to
-suck air from the tubes.
+pieces of apparatus that seemed unconnected to the spinning iron discs
+which sucked air from the despatch tubes.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
