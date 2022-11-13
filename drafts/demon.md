@@ -9,7 +9,7 @@ date:  2022-11-12
 
 ---
 
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 Since all the tools for my untying <br>
 In four-dimensioned space are lying, <br>
 Where playful fancy intersperses <br>
@@ -19,7 +19,7 @@ Whole avenues of universes...
 <div style="text-align: right">---James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div>
 
-<span style="padding-left: 20px; display:block">
+<span style="padding-left: 40px; display:block">
 [It] will be like herding cats, ferrets, badgers, spiders, zebras,
 slime molds, tapeworms, rotifers and cthulhus all at the same time.
 </span>
