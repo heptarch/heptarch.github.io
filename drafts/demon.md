@@ -65,8 +65,8 @@ passersby. They do not know.
   </p>
 
 In the 1860s, the London Pneumatic Despatch Company raised the extravagant sum of
-£125,000 with the stated goal of building an underground network of
-tubes to deliver mail.
+£125,000 with an equally extravagant goal: to build an underground
+network of pneumatic tubes to expedite the delivery of London's mail.
 The system was quickly found 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
