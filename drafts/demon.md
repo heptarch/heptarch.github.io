@@ -71,7 +71,8 @@ The network would carry pneumatically powered capsules filled with
 letters and parcels.
 It started with a short stretch between Euston Square and the North
 West District Post Office, a third of a mile away on Eversholt Street,
-in 1863, and made it as far as the General Post Office on St Martin's le Grand by 1869.
+in 1863, and made it as far as the General Post Office on St Martin's
+le Grand by 1869, when the .
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
