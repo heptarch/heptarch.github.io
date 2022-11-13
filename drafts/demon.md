@@ -74,8 +74,8 @@ its ultimate terminus. Construction stopped, and although the Post
 Office used the network in a desultory fashion for a few years, the
 pneumatic network was officially discontinued in 1874.
 
-But the London Pneumatic Despatch Company was not confined to
-pneumatic means of transmitting information.
+But the London Pneumatic Despatch Company did not limit its ambitions
+to the air.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
