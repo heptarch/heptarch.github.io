@@ -98,7 +98,7 @@ Though the network was abandoned, something bigger was already finished.
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
 One of these men confides that a phenomenon is afoot: a lass, no more
- than 10, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
+ than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
  himself laboriously ascending the granite steps of Cromwell Tower the
