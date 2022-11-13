@@ -133,9 +133,9 @@ his own dim embers and threatens to engulf the room.
 Like Davie Thomson in that cramped room in Cromwell Tower, her disquisition can barely
 contain it.
 
-And so the duke---disappointed in politics, business, himself and the whole
+And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself and the whole
 backward scheme of his life---formulates the terms of an offer he will
-later describe as "inspired lunacy". Susan accepts.
+later describe as "inspired lunacy" and his "greatest success". Susan accepts.
 
 <p align="center">
   ⁂
