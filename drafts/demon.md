@@ -45,7 +45,7 @@ The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles orbiting the son.
 But then the teardrops lengthened inward into spikes, and cruelly pierced the
-ball at its corners; Susan gasped, shocked by a betrayal beyond anything in the scriptures.
+ball at its corners; Susan gasped, a betrayal beyond anything in the scriptures.
 The spikes pushed through to the opposite side, and the whole figure
 convulsed, dancing into new, more convoluted patchworks,
 the ball concealed by its assailants.
