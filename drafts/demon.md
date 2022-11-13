@@ -69,7 +69,7 @@ passersby. They do not know.
 
 *1865.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
- Chandos, heir of even more debts than titles, weary, honest, but not without his
+ Chandos, heir of as many debts as titles, weary, honest, but not without his
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
