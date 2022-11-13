@@ -70,7 +70,9 @@ distributing London's mail, commencing with a short experimental stretch between
 West District Post Office, a third of a mile distant.
 The network made it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
-its ultimate terminus.
+its ultimate terminus. The project was abandoned in 1869, although the
+Post Office continued to use the network in a desultory fashion until
+the mid 70s.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
