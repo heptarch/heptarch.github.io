@@ -61,6 +61,12 @@ passersby. They do not know.
   ⁂
   </p>
 
+
+
+<p align="center">
+  ⁂
+  </p>
+
 *1865.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
  Chandos, heir of even more debts than titles, weary, honest, but not without his
