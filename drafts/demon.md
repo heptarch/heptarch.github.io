@@ -112,7 +112,7 @@ One of these men confides that a phenomenon is afoot: a lass, no more
 <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<b>A Dynamical Theory of Gravity and Electromagnetism with an
+<b>A Dynamical Theory of Gravity United with Electromagnetism by an
 Additional Dimension of Space</b> <br>
 
 Maxwell's treatise of 1864 sought to explain mutual action of bodies at a distance by the
