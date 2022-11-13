@@ -41,9 +41,9 @@ triangles, folded in on itself like an origami ball.
 Dewar pulled gently on a wire near her head, and the tug travelled off
 into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and ribbons of
-piping leaned forward as if bowing to the shape.
-The origami ball grew larger as a constellation of teardrops appeared around
-it, and swelled like stalactites to pierce each corner of the ball.
+piping leaned forward as if bowing.
+The ball grew larger and a constellation of teardrops appeared around
+it, like angels dancing on the head of a pin.
 
 <p align="center">
   ⁂
