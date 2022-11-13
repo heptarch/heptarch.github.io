@@ -129,7 +129,8 @@ contrivance and subtlety of the reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers.
-The duke---disappointed in politics, business, in his whole
+And so the duke---disappointed in politics, business, his whole
+retrograde scheme of life---
 
 <p align="center">
   ⁂
