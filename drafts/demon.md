@@ -57,7 +57,7 @@ A devilish shape, she concluded, grinning, and switched it off.
   </p>
 
 *1860*. A little girl is seen to wander Aberdeen's Trinity Quay, fascinating by the
-changing shape of the waves. "What's the go o' that?" she asks
+changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
 <p align="center">
