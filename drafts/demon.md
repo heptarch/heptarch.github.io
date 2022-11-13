@@ -81,6 +81,7 @@ Visitors to the diggings would be confused by seemingly unnecessary
 tunnels, forks they were forbidden from taking, and huge, humming
 pieces of apparatus that seemed unconnected to the spinning iron discs
 which sucked air from the despatch tubes.
+Questions were at first politely, then firmly, and finally menacingly, discouraged.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
