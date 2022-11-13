@@ -65,7 +65,7 @@ passersby. They do not know.
   </p>
 
 The London Pneumatic Despatch Company raised the extravagant sum of
-£125,000 with the goal,
+£125,000 with the stated goal of delivering letters by underground rail.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
