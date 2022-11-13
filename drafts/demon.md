@@ -107,7 +107,6 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  David Thomson, a towering, stentorian presence, introduces the young
  "Miss Dewar".
  Miss Dewar begins:
-
 <div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.3">
@@ -122,7 +121,6 @@ but by the supposition of an additional spatial dimension, leads to
 modifications of electromagnetic theory itself...
 </font>
 </div>
-
 The talk is largely gibberish to the duke. What strikes him
 forcefully, however, is the flame of living joy in the young virtuoso's eyes.
 
