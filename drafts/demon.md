@@ -113,6 +113,7 @@ contrivance and subtlety of reasoning, the flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
+It is strangely unchildlike.
 Like Davie Thomson and Cromwell Tower, her disquisition can barely
 contain it.
 
