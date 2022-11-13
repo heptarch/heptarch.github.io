@@ -96,7 +96,7 @@ One of these men confides of a phenomenon: a lass, no more
  the classroom, introduces the young "Miss Dewar" as an
  "exceedingly keen pupil of the modern developments". He folds himself into a
  chair in the front row and motions her to begin.
- Miss Dewar coughs nervously, and after receiving another paternal nod from her mentor,
+ Miss Dewar coughs nervously, and after receiving another paternal nod,
  starts in a high, calm, clear voice:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
