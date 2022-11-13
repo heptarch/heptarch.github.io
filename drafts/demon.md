@@ -109,7 +109,7 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  "keen pupil" of "the modern developments", folds himself into a
  chair in the front row, and motions her to begin.
  Miss Dewar coughs nervously, receives a paternal nod from her mentor,
- and starts speaking in a high, calm, clear voice:
+ and starts in a high, calm, clear voice:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
