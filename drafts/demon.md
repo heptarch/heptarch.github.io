@@ -45,7 +45,8 @@ piping leaned forward as if bowing.
 The ball grew larger and a constellation of teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 twelve apostles celebrating their master.
-As the 
+As the ball expanded, the teardrops lengthened inward and pierced the
+patch at each corner; Susan gasped at the betrayal.
 
 <p align="center">
   ⁂
