@@ -96,9 +96,11 @@ Though the network was abandoned, something bigger was already finished.
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
-One of these 
+One of these men confesses that a sensation is afoot: a lass, no more
+ than 10, and, one mutters, a "leanabh breugach", is giving a lecture
+ on natural philosophy.
 
-<div style="background-color: #111 ; padding: 10px; border: 1px
+<div style="background-color: #fffff8 ; padding: 10px; border: 1px
 solid purple; line-height:1.5">
 bla
 </div>
