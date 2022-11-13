@@ -70,11 +70,11 @@ distributing London's mail, commencing with a short experimental stretch between
 West District Post Office, a third of a mile distant.
 The network made it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
-its ultimate terminus. Although the
-Post Office used the network in a desultory fashion into
-the 70s, it was officially discontinued in 1874.
+its ultimate terminus. Construction stopped, and although the Post
+Office used the network in a desultory fashion for a few years, the
+pneumatic network was officially discontinued in 1874.
 
-But the 
+But the London Pneumatic Despatch Company
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
