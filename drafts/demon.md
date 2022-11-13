@@ -45,7 +45,7 @@ piping leaned forward as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles celebrating their master.
-But then the teardrops lengthened inward and cruelly pierced the
+But then the teardrops lengthened inward into spikes, and cruelly pierced the
 ball; Susan gasped, shocked by a twelvefold betrayal beyond anything in the scriptures.
 The spikes pushed through to the other side of the ball, and the whole figure
 shivered, the spikes and their heads dancing, swelling, contracting in
