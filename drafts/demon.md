@@ -63,7 +63,9 @@ passersby. They do not know.
   ⁂
   </p>
 
+<p align="right">
 𝕾𝖐𝖎𝖕 𝖙𝖔 𝖙𝖍𝖊 𝖌𝖔𝖔𝖉 𝖇𝖎𝖙𝖘 𝖕𝖑𝖊𝖆𝖘𝖊.
+  </p>
 
 <p align="center">
   ⁂
@@ -118,6 +120,8 @@ later describe as "inspired lunacy". Susan accepts.
 <p align="center">
   ⁂
   </p>
+
+
 
 <p align="center">
   ⁂
