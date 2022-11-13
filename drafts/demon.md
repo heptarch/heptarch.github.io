@@ -45,7 +45,7 @@ The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles orbiting the son.
 But then the teardrops lengthened inward into spikes, and cruelly pierced the
-ball; Susan gasped, shocked by a betrayal beyond anything in the scriptures.
+ball at its corners; Susan gasped, shocked by a betrayal beyond anything in the scriptures.
 The spikes pushed through to the opposite side, and the whole figure
 convulsed, dancing into new, more convoluted patchworks,
 the ball concealed by its assailants.
@@ -64,8 +64,8 @@ passersby. They do not know.
   ⁂
   </p>
 
-The London Pneumatic Despatch Company raised the extravagant sum of
-£125,000 with the stated goal of building an undeground network of
+In the 1860s, the London Pneumatic Despatch Company raised the extravagant sum of
+£125,000 with an equally extravagant stated goal of building an undeground network of
 tubes to deliver letters, unimpeded by ground traffic.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
