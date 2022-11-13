@@ -105,8 +105,8 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  next morning, curiosity more powerful than the cold.
  
 "Davie" Thomson, an immense, stentorian don who must stoop to enter
- the classroom, introduces the young "Miss Dewar" as a
- "keen pupil" of "the modern developments", folds himself into a
+ the classroom, introduces the young "Miss Dewar" as an
+ "exceedingly keen pupil of the modern developments", folds himself into a
  chair in the front row, and motions her to begin.
  Miss Dewar coughs nervously, receives a paternal nod from her mentor,
  and starts in a high, calm, clear voice:
