@@ -132,8 +132,8 @@ later describe as "inspired lunacy". Susan accepts.
   </p>
 
 *1874.* The London Pneumatic Despatch Company raises the extravagant sum of
-£150,000 to build an underground network of pneumatic tubes for
-distributing London's mail.
+£150,000 for an underground network of pneumatic tubes to
+distribute London's mail.
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile distant.
 The network makes it as far as the General Post Office on St Martin's
