@@ -42,11 +42,11 @@ Dewar pulled gently on a wire near her head, and the tug travelled off
 into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and ribbons of
 piping leaned forward as if bowing.
-The ball grew larger and a constellation of teardrops appeared around
+The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
-twelve apostles celebrating their master.
+apostles celebrating their master.
 As the ball expanded, the teardrops lengthened inward and pierced the
-patch at each corner; Susan gasped at the betrayal.
+ball; Susan gasped at this twelvefold betrayal.
 
 <p align="center">
   ⁂
