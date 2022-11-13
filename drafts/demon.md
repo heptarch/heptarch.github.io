@@ -92,7 +92,9 @@ Though the network was abandoned, something bigger was already finished.
 
 *1865*. Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
- Chandos, heir not only of names and titles but the Second Duke's debts,
+ Chandos, heir not only of names and titles but the Second Duke's
+ debts, a politician and businessman, weary, honest, not without his
+ moments of shrewdness, 
 
 <p align="center">
   ⁂
