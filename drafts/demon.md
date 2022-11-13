@@ -103,7 +103,7 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  The duke is intrigued---he has a daughter the same age---and finds
  himself in Cromwell Tower the next morning,
  laboriously ascending the granite steps to the lecture hall in the biting cold.
- The talk itself is largely gibberish:<br>
+ The talk itself is largely gibberish:
 
 <div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
 solid black; line-height:1;">
