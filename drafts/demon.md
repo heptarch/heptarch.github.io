@@ -103,7 +103,7 @@ One of these men confesses that a sensation is afoot: a lass, no more
  attends.<br>
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
-black; line-height:1.5">
+solid black; line-height:1.5">
 <h4>A dynamical theory of gravity and electromagnetism with additional dimensions of space</h4>
 
 as
