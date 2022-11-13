@@ -75,10 +75,12 @@ Office used it in a desultory fashion for a few years,
 the network was underperforming, overbudget, and was officially
 discontinued in 1874.
 
-A company ambitious enough to propose an underground pneumatic
-network could not be reasonably expected to stop there.
-The chairman, Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville, Third
-Duke of Chandos,
+But a company ambitious enough to propose an underground pneumatic
+network could not reasonably be expected to stop there.
+Visitors to the diggings would be confused by seemingly unnecessary
+tunnels, forks they were forbidden from taking, and huge, humming
+machines that seemed unconnected to the giant iron flywheels used to
+suck air from the tubes.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
