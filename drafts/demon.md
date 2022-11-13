@@ -118,10 +118,10 @@ Additional Dimension of Space</b> <br>
 Maxwell's treatise of 1864 sought to explain mutual action of bodies at a distance by the
 hypothesis of an electromagnetic field. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
-which massive objects may act reciprocally upon one another at a distance,
+which massive objects may act reciprocally upon one another when separated,
 but by the supposition of an additional spatial dimension, leads to
-departures from electromagnetic theory itself, which we might detect
-with a suitably designed instrument...
+departures from electromagnetic theory itself which we might detect
+by suitably precise experimental work...
 </font>
 </div>
 The talk is largely gibberish to the duke. The play of symbols, the
