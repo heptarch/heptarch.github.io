@@ -106,7 +106,7 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  The talk itself is largely gibberish:<br>
 
 <div style="background-color: #fffff8 ; padding: 30px; border: 1px
-solid black; line-height:1.5; margin = 20px 20px">
+solid black; line-height:1.5; width=75%">
 <b>A dynamical theory of gravity and electromagnetism with an additional
 dimension of space</b> <br>
 
