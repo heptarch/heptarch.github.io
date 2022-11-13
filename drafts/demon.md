@@ -56,7 +56,7 @@ A devilish shape, she thought, and switched it off.
   ⁂
   </p>
 
-London Pneumatic Despatch Company
+The tunnels of London Pneumatic Despatch Company lay abandoned and dormant.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
