@@ -17,14 +17,14 @@ Whole avenues of universes...
 </span>
 
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
-</div>
+</div> <br>
 
 <span style="padding-left: 40px; display:block">
 [It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time.
 </span>
 
 <div style="text-align: right">PlanetN9Ne
-</div>
+</div> <br>
 
 All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
@@ -66,7 +66,8 @@ passersby. They do not know.
 
 In the 1860s, the London Pneumatic Despatch Company raised the extravagant sum of
 £125,000 with the stated goal of building an underground network of
-pneumatic tubes to deliver mail.
+tubes to deliver mail.
+The system was quickly found 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
