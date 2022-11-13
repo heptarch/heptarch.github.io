@@ -129,8 +129,7 @@ The talk is largely gibberish to the duke. The play of symbols, the
 contrivance and subtlety of reasoning, flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
-his own dim embers, and threatens to engulf the room and transform her
-disquisition into something higher.
+his own dim embers and threatens to engulf the room.
 And so the duke---disappointed in politics, business, his whole
 retrograde scheme of life---
 
