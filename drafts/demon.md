@@ -43,13 +43,12 @@ into the blackness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leaned forward, as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
-it, dancing, Susan thought, like angels on the head of a pin, or the
-apostles orbiting the son.
+it, dancing, Susan thought, like angels on the head of a pin.
 But then the teardrops lengthened inward into spikes, and cruelly pierced the
-ball at its corners; Susan gasped, a betrayal beyond anything in the scriptures.
+ball at its corners; Susan gasped.
 The spikes pushed through to the opposite side, and the whole figure
-convulsed, dancing into new, more convoluted patchworks,
-the ball concealed by its assailants.
+convulsed, dancing into new, more elaborate patchworks.
+The ball was swallowed up by its assailants.
 
 A devilish shape, she concluded, grinning, and switched it off.
 
@@ -72,3 +71,5 @@ The system was quickly found
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
+<!-- , or the apostles orbiting the son. -->
+<!-- , a betrayal beyond anything in the scriptures. -->
