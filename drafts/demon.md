@@ -130,6 +130,9 @@ contrivance and subtlety of reasoning, flashes of scientific
 wit, are all lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
+Like Davie Thomson and the classroom, her disquisition can barely
+contain that joy.
+
 And so the duke---disappointed in politics, business, his whole
 retrograde scheme of life---
 
