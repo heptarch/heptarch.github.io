@@ -50,7 +50,7 @@ The spikes pushed through to the opposite side, and the whole figure
 convulsed, dancing into new, more convoluted patchworks,
 the ball concealed by its assailants.
 
-A devilish shape, she thought, grinning, and switched it off.
+A devilish shape, she concluded, grinning, and switched it off.
 
 <p align="center">
   ⁂
