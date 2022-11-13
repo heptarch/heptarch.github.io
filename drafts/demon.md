@@ -19,14 +19,6 @@ Whole avenues of universes...
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div>
 
-<span style="padding-left: 40px; display:block">
-[It] will be like herding cats, ferrets, badgers, spiders, zebras,
-slime molds, tapeworms, rotifers and cthulhus all at the same time.
-</span>
-
-<div style="text-align: right">PlanetN9Ne
-</div>
-
 All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
