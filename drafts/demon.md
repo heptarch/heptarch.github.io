@@ -109,7 +109,7 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  pupil" of "various modern developments".
  Miss Dewar coughs nervously, looks quickly at her mentor who nods
  paternally, and begins:
-<div style="width=75%; background-color: #fffff8 ; padding: 30px; border: 0px
+<div style="width=75%; background-color: #fffff8 ; padding: 30px 0px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.3">
 <b>A Dynamical Theory of Gravity and Electromagnetism with an
