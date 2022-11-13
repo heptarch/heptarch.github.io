@@ -111,7 +111,7 @@ solid black; line-height:1;">
 <b>A Dynamical Theory of Gravity and Electromagnetism with an
 Additional Dimension of Space</b> <br>
 
-Maxwell sought to explain mutual action of bodies at a distance by the
+Maxwell's treatise of 1864 sought to explain mutual action of bodies at a distance by the
 hypothesis of an electromagnetic field. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another at a distance,
