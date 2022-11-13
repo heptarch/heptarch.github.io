@@ -35,10 +35,10 @@ infinitely beneath the notice of Susan Dewar, who, in turn 200
 yards directly beneath the stationmaster's rum, gazed with rapture at the fragile and
 impossible object before her.
 
-A small shape glowed and hummed in the darkness: a patchwork of
+A small shape glowed and hummed in the dark: a patchwork of
 triangles, folded in on itself like an origami ball.
 Susan gently pulled a wire near her head, and the tug travelled obediently
-into the darkness. A pulley lurched, then another, then a
+into the blackness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leaned forward, as if bowing.
 The ball grew larger and a constellation of twelve teardrops appeared around
