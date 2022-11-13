@@ -7,6 +7,16 @@ categories:
 date:  2021-04-06
 ---
 
+<span style="padding-left: 20px; display:block">
+Since all the tools for my untying
+In four-dimensioned space are lying,
+Where playful fancy intersperses
+Whole avenues of universes...
+</span>
+
+<div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
+</div>
+
 All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
