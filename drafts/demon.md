@@ -133,8 +133,8 @@ his own dim embers and threatens to engulf the room.
 Like Davie Thomson and the classroom, her disquisition can barely
 contain that joy.
 
-And so the duke---disappointed in politics, business, his whole
-retrograde scheme of life---
+And so the duke---disappointed in politics, business, the whole
+backward scheme of his life---
 
 <p align="center">
   ⁂
