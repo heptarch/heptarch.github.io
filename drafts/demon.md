@@ -97,10 +97,10 @@ Though the network was abandoned, something bigger was already finished.
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
 One of these men confesses that a phenomenon is afoot: a lass, no more
- than 10, and, one mutters, a "leanabh breugach", is giving a lecture
+ than 10, and, one mutters darkly, a "leanabh breugach", is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and
- attends.<br>
+ attends. What transpires is largely gibberish to him.<br>
 
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
 solid black; line-height:1.5"><br>
