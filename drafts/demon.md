@@ -78,7 +78,15 @@ passersby. They do not know.
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
 One of these men confides of a phenomenon: a lass, no more
- than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", is giving a lecture
+ than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach", <label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+<span class="sidenote">
+  Illegitimate child.
+</span> is giving a lecture
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
  himself laboriously ascending the granite steps of Cromwell Tower the
