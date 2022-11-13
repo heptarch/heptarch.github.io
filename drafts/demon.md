@@ -63,7 +63,7 @@ passersby. They do not know.
   ⁂
   </p>
 
-<p style="'fin fraktur', sans-serif;">Skip to the good bits, please.</p>
+𝕾𝖐𝖎𝖕 𝖙𝖔 𝖙𝖍𝖊 𝖌𝖔𝖔𝖉 𝖇𝖎𝖙𝖘 𝖕𝖑𝖊𝖆𝖘𝖊.
 
 <p align="center">
   ⁂
