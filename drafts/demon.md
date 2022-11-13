@@ -8,9 +8,9 @@ date:  2021-04-06
 ---
 
 <span style="padding-left: 20px; display:block">
-Since all the tools for my untying
-In four-dimensioned space are lying,
-Where playful fancy intersperses
+Since all the tools for my untying <br>
+In four-dimensioned space are lying, <br>
+Where playful fancy intersperses <br>
 Whole avenues of universes...
 </span>
 
