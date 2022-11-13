@@ -48,7 +48,8 @@ apostles celebrating their master.
 But then the teardrops lengthened inward into spikes, and cruelly pierced the
 ball; Susan gasped, shocked by a twelvefold betrayal beyond anything in the scriptures.
 The spikes pushed through to the other side of the ball, and the whole figure
-shivered and convulsed, dancing into new, more convoluted patchworks, oblivious to the fate of the ball...
+shivered and convulsed, dancing into new, more convoluted patchworks,
+the ball concealed by its assailants.
 
 A devilish shape, she thought, and switched it off.
 
