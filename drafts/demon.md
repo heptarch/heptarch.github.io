@@ -49,7 +49,15 @@ A devilish shape, she thought, and switched it off.
   ⁂
   </p>
 
-The tunnels of London Pneumatic Despatch Company lay abandoned and dormant.
+A little girl is seen to wander Trinity Quay, fascinating by the
+changing shape of the waves. "What's the go o' that?" she asks
+passersby. They do not know.
+
+<p align="center">
+  ⁂
+  </p>
+
+The London Pneumatic Despatch Company lay abandoned and dormant.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
