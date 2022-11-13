@@ -106,11 +106,11 @@ One of these men confides that a phenomenon is afoot: a lass, no more
  
 "Davie" Thomson, an immense, stentorian don who must stoop to enter
  the classroom, introduces the young "Miss Dewar" as a
- "keen pupil" of "the modern developments", and folds himself into a
- chair in the front row.
- Miss Dewar coughs nervously, looks at her mentor who nods
- paternally, and begins:
-<div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+ "keen pupil" of "the modern developments", folds himself into a
+ chair in the front row, and motions her to begin.
+ Miss Dewar coughs nervously, receives a paternal nod from her mentor,
+ and begins speaking in a high, calm, clear voice:
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
 <b>A Dynamical Theory of Gravity United with Electromagnetism by an
