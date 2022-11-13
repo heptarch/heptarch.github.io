@@ -78,7 +78,7 @@ One of these men confides a phenomenon: a lass, no more
  on natural philosophy.
  The duke is intrigued---he has a daughter the same age---and finds
  himself laboriously ascending the granite steps of Cromwell Tower the
- next morning, curiosity more powerful than the cold.
+ next morning, curiosity more powerful than the biting lowland cold.
  
 "Davie" Thomson, an immense, stentorian don who must stoop to enter
  the classroom, introduces the young "Miss Dewar" as an
