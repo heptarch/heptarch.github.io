@@ -16,7 +16,7 @@ Where playful fancy intersperses <br>
 Whole avenues of universes...
 </span>
 
-<div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
+<div style="text-align: right">---James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div>
 
 <span style="padding-left: 20px; display:block">
@@ -24,7 +24,7 @@ Whole avenues of universes...
 slime molds, tapeworms, rotifers and cthulhus all at the same time.
 </span>
 
-<div style="text-align: right">PlanetN9Ne
+<div style="text-align: right">---PlanetN9Ne
 </div>
 
 All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
