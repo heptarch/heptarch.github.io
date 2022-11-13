@@ -104,13 +104,15 @@ One of these men confesses that a phenomenon is afoot: a lass, no more
  laboriously ascending the granite steps to the lecture hall.
  The talk itself is largely gibberish:<br>
 
+<span style="padding-left: 40px; display:block">
 <div style="background-color: #fffff8 ; padding: 10px; border: 1px
 solid black; line-height:1.5">
 <b>A dynamical theory of gravity and electromagnetism with an additional
 dimension of space</b> <br>
 
-
+asd
 </div>
+</span>
 
 <p align="center">
   ⁂
