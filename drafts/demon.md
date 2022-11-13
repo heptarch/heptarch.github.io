@@ -38,11 +38,11 @@ impossible object before her.
 
 A small shape glowed and hummed in the darkness; a patchwork of
 triangles, folded in on itself like an origami ball.
-Dewar pulled gently on a wire near her head, and the tug communicated
-itself into the darkness. One pulley rolled, then another, then a
+Dewar pulled gently on a wire near her head, and the tug travelled off
+into the darkness. A pulley lurched, then another, then a
 third, and a cantilevered armature covered in coils and ribbons of
-piping leaned forward.
-The ball grew larger as a constellation of teardrops appeared around
+piping leaned forward as if bowing to the shape.
+The origami ball grew larger as a constellation of teardrops appeared around
 it, and swelled like stalactites to pierce each corner of the ball.
 
 <p align="center">
