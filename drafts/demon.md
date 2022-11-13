@@ -46,11 +46,10 @@ The ball grew larger and a constellation of twelve teardrops appeared around
 it, dancing, Susan thought, like angels on the head of a pin, or the
 apostles celebrating their master.
 But then the teardrops lengthened inward and cruelly pierced the
-ball; Susan gasped at this twelvefold betrayal, beyond anything in the scriptures.
-The spikes emerged on the other side of the ball, and the whole figure
-shivered, as the spikes and their heads continued dancing, swelling
-and contracting in new patchworks, oblivious to the fate of the
-ball...
+ball; Susan gasped, shocked by a twelvefold betrayal beyond anything in the scriptures.
+The spikes pushed through to the other side of the ball, and the whole figure
+shivered, the spikes and their heads dancing, swelling, contracting in
+new patchworks, oblivious to the fate of the ball...
 
 More in heaven and earth, she thought.
 
