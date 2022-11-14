@@ -63,7 +63,10 @@ passersby. They do not know.
   </p>
 
 *1874.* Under government pressure, the Post Office pays the London Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system for London’s mail.
+£200,000 to build an underground distribution system for London’s
+mail.
+It is to consist of pneumatic tubes laid with narrow-gauge rail;
+mail capsules driven by air pressure will run on the tracks.
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile hence.
 The network makes it past Holborn, and as far as the General Post Office on St Martin's
