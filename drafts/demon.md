@@ -60,7 +60,7 @@ Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system for London’s
 mail.
 It is to consist of tubes laid with narrow-gauge rail, cleared of air
-by giant iron turbines, 20 feet in diameter, powered by the steaming, lopsided
+by 20-foot wide iron turbines driven by the steaming, lopsided
 hammer of a Cornish engine.
 Mail capsules will be loaded up and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
@@ -189,7 +189,8 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-*1872.* A shy, gaunt youth
+*1872.* In the Beethoven Rooms of 27 Harley
+Street, University College, a shy, gaunt youth, who 
 Thaddeus S. C. Lowe
 
 <p align="center">
