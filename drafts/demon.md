@@ -122,7 +122,7 @@ She is about to start the Holborn cleaning cycle, but some premonitory
 instinct stops her; she checks the readings again and notes a small
 discrepancy. It could be dead rats in the tubes, blocking the light.
 
-Or it could be an object in the fourth dimension.
+Or it could be an object in another dimension.
 
 <p align="center">
   ⁂
@@ -189,7 +189,7 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-*1875.*
+*1875.* 
 
 Over the course of several months, Susan calibrates the weights,
  charges, and magnetic fields applied to the colloids of the Holborn
