@@ -59,9 +59,22 @@ A devilish shape, she concluded, grinning, and switched it off.
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
+<p align="center">
+  ⁂
+  </p>
 
-<p align="right">
-𝕾𝖐𝖎𝖕 𝖙𝖔 𝖙𝖍𝖊 𝖌𝖔𝖔𝖉 𝖇𝖎𝖙𝖘 𝖕𝖑𝖊𝖆𝖘𝖊.
+Passengers shuffle like autumn leaves through the doubled cube of the Hall.
+A doctor from Boxmoore talks about the Factory Act---a mother of three
+chases little William, who cries with delight---skulking beneath the
+allegorical statuary, a boy in shabby clothes regards the scene with
+brooding insolence.
+The motions blurs into a kind of stillness.
+
+On a routine calibration run around the despatch pipes, $\Delta\phi$ was off by a few seconds.
+Susan knew that the earth was curved, so
+
+<p align="center">
+  ⁂
   </p>
 
 *1865.* Richard Plantagenet Campbell
@@ -140,7 +153,7 @@ The network makes it as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office uses it in a desultory fashion for a few years, like a child
-with a poor toy for which it has no alternative,
+with a makeshift toy,
 the network is officially
 discontinued in 1874.
 
@@ -165,3 +178,5 @@ The network is abandoned but something bigger is already finished.
 <!-- https://homepages.abdn.ac.uk/npmuseum/article/CTO/CTOPortfolio.html -->
 <!-- https://www.ucl.ac.uk/physics-astronomy/about/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975 -->
 <!-- https://yaytext.com/fraktur/ -->
+<!-- with a poor toy for which it has no alternative, -->
+<!-- 𝕾𝖐𝖎𝖕 𝖙𝖔 𝖙𝖍𝖊 𝖌𝖔𝖔𝖉 𝖇𝖎𝖙𝖘 𝖕𝖑𝖊𝖆𝖘𝖊.-->
