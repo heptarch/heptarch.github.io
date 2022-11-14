@@ -74,9 +74,8 @@ Susan as usual does not enter the Great Hall.
 Instead, she has resolved some disagreement with Professor Foster
 about birefringence (in her favour) and walks briskly from the student
 laboratory to Eversholt Street.
-She ducks into a culvert, unlocks a small service door, takes the
-moderator lamp from its hook and with its small, brave light, begins
-the journey down into the tunnels.
+She ducks into a culvert, unlocks a small service door, and with a
+moderator lamp kepy by the door, begins the journey down into the tunnels.
 
 <p align="center">
   ⁂
