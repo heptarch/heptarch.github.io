@@ -65,8 +65,7 @@ passersby. They do not know.
 *1875.* Passengers shuffle like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
-shadows of the allegorical statuary, where nobody watches, a boy cries
-in shabby clothes.
+shadows of the allegorical statuary, where nobody watches, a boy cries.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
 stillness modulated only by the rhythym of the timetable.
@@ -75,8 +74,8 @@ Susan as usual does not enter the Great Hall, or philosophize about its
 contents and discontents.
 Instead, she has resolved some disagreement with Professor Foster
 about birefringence (in her favour) and walks briskly from the student
-laboratory to Eversholt Street, thinking about .
-Down some stairs, unlocked a service door, took the
+laboratory to Eversholt Street.
+She ducks into a culvert, unlocked a service door, took the
 moderator lamp from its hook and began making her way down the stairs
 into the tunnels.
 
