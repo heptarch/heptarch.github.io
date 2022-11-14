@@ -47,7 +47,7 @@ A devilish shape, she concludes, grinning, and switches it off.
   ⁂
   </p>
 
-*1860.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
+*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
@@ -89,13 +89,9 @@ The network is abandoned, but something bigger is already finished.
   ⁂
   </p>
 
-*1863.* "Child, what should you like?"
-
-"To see the world spin, reverend."
-
-"Ellen, why must you call me that."
-
-"You are not my father, reverend."
+*1863.* The study overlooks the gentle slopes of Kilspindie glen. A
+ man leans on a chestnut bureau, with a hymnary, some notes in Gaelic,
+ and a lump of amygdule with sparkles with calcite. "Child, what should you like to do?"
 
 <p align="center">
   ⁂
@@ -263,3 +259,4 @@ discontinued in 1874.-->
 <!-- https://arxiv.org/pdf/quant-ph/9908043.pdf -->
 <!--[It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time., PlanetN9Ne-->
 <!-- https://en.wikipedia.org/wiki/Thaddeus_S._C._Lowe-->
+<!-- https://www.nationalgalleries.org/art-and-artists/27451/rev-daniel-dewar-presbyterian-minister-glasgow-->
