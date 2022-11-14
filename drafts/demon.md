@@ -115,8 +115,7 @@ One of these men shares a novelty: a lass, no more
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<b>A Dynamical Theory of Gravity United with Electromagnetism by an
-Additional Dimension of Space</b> <br>
+<b>A Dynamical Theory of Gravity United with Electromagnetism</b> <br>
 
 Maxwell's treatise of 1864 sought to explain the mutual influence of
 charged or magnetised bodies at a distance by the
