@@ -93,7 +93,7 @@ The network is abandoned, but something bigger is already finished.
  reverend leans on a chestnut bureau: a hymnary, some notes in Gaelic,
  a lump of amygdule sparkling with calcite. His eyes are kind.
  "Child, what should you like to do? The schoolmaster tells me he can
- teaching you nothing."
+ teach you nothing."
 
 "Tilleadh."<label for="sn-2"
        class="margin-toggle sidenote-number">
