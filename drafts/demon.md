@@ -65,11 +65,12 @@ passersby. They do not know.
 
 Passengers shuffle like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and women studying medicine---a mother of three
-chases little William, who shrieks with delight as dust motes swirl in
-the air---skulking in the
+chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, a boy in shabby clothes looks
-around insolently, and when nobody is watching, cries.
-The motion blurs into a kind of stillness.
+insolently about him, and when nobody is watching, cries.
+All this commotion, the coming and going, arrivals and departures,
+blurs into a kind of stillness, swaying slowly to the rhythym of the
+train timetables.
 
 Susan, as usual, 
 
