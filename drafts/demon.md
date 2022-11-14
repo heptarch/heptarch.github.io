@@ -40,8 +40,8 @@ Susan gently pulls on a wire near her head, and the tug travels obediently
 into the blackness. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
-The ball grows larger and a constellation of twelve teardrops appears around
-it, dancing, Susan thought, like angels on the head of a pin.
+The ball grows larger and a constellation of twelve teardrops appears,
+dancing around it, Susan thinks, like angels on the head of a pin.
 Or perhaps demons: the teardrops lengthen inward into spikes, impaling the
 ball through its corners; Susan gasps.
 The spikes push through to the opposite side, and the whole figure
