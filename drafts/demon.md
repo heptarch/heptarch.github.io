@@ -59,8 +59,34 @@ changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
 <p align="right">
-«<b>Child, I will give you a shifting star.</b>»
+«<b>I will give you a shooting star.</b>»
   </p>
+
+<p align="center">
+  ⁂
+  </p>
+
+*1874.* The Post Office pays the London Pneumatic Despatch Company the extravagant sum of
+£200,000 to build an underground network of pneumatic tubes to distribute London’s mail.
+Construction commences in 1863 with a short experimental stretch between Euston Square and the North
+West District Post Office, a third of a mile hence.
+The network makes it past Holborn, and as far as the General Post Office on St Martin's
+le Grand, a few years later and miles southwest, before arriving at
+its ultimate terminus: unfavourable market conditions. Although the Post
+Office uses it in a desultory fashion for a few years, like a child
+with a makeshift toy,
+the network is officially
+discontinued in 1874.
+
+But a company ambitious enough to propose an underground narrow-grain
+rail network in the 1860s cannot reasonably be expected to stop there.
+Visitors to the diggings are confused by seemingly unnecessary
+tunnels, forks they are forbidden from taking, and huge, humming
+pieces of apparatus that seem unrelated to the centrifugal mechanism of the despatch tubes.
+Engineers and builders are only given small parts of the blueprint.
+Questions about other sections are at first politely, then firmly,
+discouraged, and those who keep asking are let go.
+The network is abandoned but something bigger is already finished.
 
 <p align="center">
   ⁂
@@ -97,8 +123,7 @@ configuring, jotting down readings, pulling on wires which
 radiate from the junction into the dark of other machine banks.
 She is about to start the Holborn cleaning cycle, but some premonitory
 instinct arrests her; she checks the readings again and notes a small
-discrepancy. Before she turns on the fans, she needs to check
-there are no dead rats blocking the light.
+discrepancy. She has 
 
 <p align="right">
 «<b>Found you.</b>»
@@ -163,32 +188,6 @@ contain it.
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
 backward scheme of his life---formulates the terms of an offer he will
 later describe as "inspired lunacy". Susan accepts.
-
-<p align="center">
-  ⁂
-  </p>
-
-*1874.* The Post Office pays the London Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground network of pneumatic tubes to distribute London’s mail.
-Construction commences in 1863 with a short experimental stretch between Euston Square and the North
-West District Post Office, a third of a mile hence.
-The network makes it past Holborn, and as far as the General Post Office on St Martin's
-le Grand, a few years later and miles southwest, before arriving at
-its ultimate terminus: unfavourable market conditions. Although the Post
-Office uses it in a desultory fashion for a few years, like a child
-with a makeshift toy,
-the network is officially
-discontinued in 1874.
-
-But a company ambitious enough to propose an underground narrow-grain
-rail network in the 1860s cannot reasonably be expected to stop there.
-Visitors to the diggings are confused by seemingly unnecessary
-tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus that seem unrelated to the centrifugal mechanism of the despatch tubes.
-Engineers and builders are only given small parts of the blueprint.
-Questions about other sections are at first politely, then firmly,
-discouraged, and those who keep asking are let go.
-The network is abandoned but something bigger is already finished.
 
 <p align="center">
   ⁂
