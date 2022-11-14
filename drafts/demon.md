@@ -6,8 +6,7 @@ title:  "The Ashen Quay"
 categories:
 date:  2022-11-12
 ---
-
-<link href="https://fonts.cdnfonts.com/css/fin-fraktur" rel="stylesheet">
+<br>
 
 <span style="padding-left: 40px; display:block">
 Since all the tools for my untying <br>
@@ -26,30 +25,30 @@ Whole avenues of universes...
 <div style="text-align: right">PlanetN9Ne
 </div> <br>
 
-All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
+*1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
-the Great Hall with mindless curiosity---all these details were
+the Great Hall with mindless curiosity---all these details are
 infinitely beneath the notice of Susan Dewar, who, 200
-yards directly below the stationmaster's rum, gazed with rapture at the fragile and
+yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible object before her.
 
-A small shape glowed and hummed in the dark: a patchwork of
+A small shape glows and hums in the dark: a patchwork of
 triangles, folded in on itself like an origami ball.
-Susan gently pulled on a wire near her head, and the tug travelled obediently
-into the blackness. A pulley lurched, then another, then a
+Susan gently pulls on a wire near her head, and the tug travels obediently
+into the blackness. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
-piping leaned forward, as if bowing.
-The ball grew larger and a constellation of twelve teardrops appeared around
+piping leans forward, as if bowing.
+The ball grows larger and a constellation of twelve teardrops appears around
 it, dancing, Susan thought, like angels on the head of a pin.
-But then the teardrops lengthened inward into spikes, impaling the
-ball through its corners, and Susan gasped.
-The spikes pushed through to the opposite side, and the whole figure
-convulsed, shivering into new, more elaborate patchworks, the ball
-swallowed up by its dancing assailants.
+But then the teardrops lengthen inward into spikes, impaling the
+ball through its corners; Susan gasps.
+The spikes push through to the opposite side, and the whole figure
+convulses, shivering forth into new, more elaborate patchworks.
 
-A devilish shape, she concluded, grinning, and switched it off.
+The ball is swallowed up by its dancing assailants.
+A devilish shape, she concludes, grinning, and switches it off.
 
 <p align="center">
   ⁂
@@ -58,20 +57,6 @@ A devilish shape, she concluded, grinning, and switched it off.
 *1860.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinating by the
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
-
-<p align="center">
-  ⁂
-  </p>
-
-Passengers shuffle like autumn leaves through the doubled cube of the Hall.
-A doctor from Boxmoor talks about the Factory Act and women studying medicine---a mother of three
-chases little William, who shrieks with delight---in the
-shadows of the allegorical statuary, a boy in shabby clothes looks
-insolently about him, and when nobody is watching, cries.
-All this commotion, the coming and going, blurs into a kind of
-stillness, modulated only by the rhythym of the timetable.
-
-Susan, as usual, 
 
 <p align="center">
   ⁂
@@ -138,18 +123,12 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-
-
-<p align="center">
-  ⁂
-  </p>
-
 *1874.* The London Pneumatic Despatch Company raises the extravagant sum of
 £150,000 for an underground network of pneumatic tubes to
 distribute London's mail.
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile distant.
-The network makes it as far as the General Post Office on St Martin's
+The network makes it past Holborn, as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office uses it in a desultory fashion for a few years, like a child
@@ -161,11 +140,30 @@ But a company ambitious enough to propose an underground pneumatic
 network cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus that seem unrelated to the pneumatic mechanism of the despatch tubes.
+pieces of apparatus that seem unrelated to the centrifugal mechanism of the despatch tubes.
 Engineers and builders are only given small parts of the blueprint.
 Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
 The network is abandoned but something bigger is already finished.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1875.* Passengers shuffle like autumn leaves through the doubled cube of the Hall.
+A doctor from Boxmoor talks about the Factory Act and women studying medicine---a mother of three
+chases little William, who shrieks with delight---in the
+shadows of the allegorical statuary, a boy in shabby clothes looks
+about him, and when nobody is watching, cries.
+All this commotion, the comings and goings, arrivals and leavetakings, blur into a kind of
+stillness modulated only by the rhythym of the timetable.
+
+Susan, as usual, walked to Euston from the old laboratory at
+University College after resolving some difficulty with
+Professor Foster.
+She walked down Eversholt Street, unlocked a service door, took the
+moderator lamp from its hook and began making her way down the stairs
+into the tunnels.
 
 <p align="center">
   ⁂
@@ -182,3 +180,5 @@ The network is abandoned but something bigger is already finished.
 <!-- 𝕾𝖐𝖎𝖕 𝖙𝖔 𝖙𝖍𝖊 𝖌𝖔𝖔𝖉 𝖇𝖎𝖙𝖘 𝖕𝖑𝖊𝖆𝖘𝖊.-->
 <!-- https://en.wikipedia.org/wiki/Euston_railway_station -->
 <!-- https://thebeautyoftransport.com/2015/06/10/lost-beauty-9-hardwicks-hall-the-old-euston-station-london-uk/ -->
+<!-- https://en.wikipedia.org/wiki/Moderator_lamp -->
+<!-- https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395-->
