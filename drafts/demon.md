@@ -45,9 +45,9 @@ it, dancing, Susan thought, like angels on the head of a pin.
 But then the teardrops lengthen inward into spikes, impaling the
 ball through its corners; Susan gasps.
 The spikes push through to the opposite side, and the whole figure
-convulses, shivering forth into new, more elaborate patchworks.
+convulses, shivering forth into new, more elaborate patchworks, like a
+dancing star.
 
-The ball is swallowed up by its dancing assailants.
 A devilish shape, she concludes, grinning, and switches it off.
 
 <p align="center">
@@ -197,3 +197,4 @@ The network is abandoned but something bigger is already finished.
 <!-- https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395-->
 <!-- Susan as usual does not enter the Great Hall, or philosophize -->
 <!-- about its contents and discontents.-->
+<!-- The ball is swallowed up by its dancing assailants. -->
