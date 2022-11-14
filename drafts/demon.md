@@ -222,8 +222,6 @@ One evening, it begins to pulse back.
  Marr's Head.
  One C. Watson is listed as missing.
 
-Ellen accepts.
-
 <p align="center">
   ⁂
   </p>
