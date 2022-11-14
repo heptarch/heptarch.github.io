@@ -96,8 +96,9 @@ configuring, jotting down readings, and pulling on wires which
 radiate from the junction into the dark of other machine banks.
 She is about to start the Holborn cleaning cycle, but some instinct
 arrests her; she checks the readings again, compares it to yesterday's,
-and notes a small discrepancy, a few seconds in the Holborn colloidal
-interferometer.
+and notes a small discrepancy in the Holborn colloidal
+interferometer. Before she blows the dust out, she needs to check
+there are no dead rats in the despatch tubes.
 
 <p align="center">
   ⁂
