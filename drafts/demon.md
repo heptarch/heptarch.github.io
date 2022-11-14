@@ -134,7 +134,7 @@ wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
 It is strangely unchildlike.
-Like Davie Thomson in Cromwell Tower's cramped spaces, the outlines of her disquisition can barely
+Like Davie Thomson in the cramped space of Cromwell Tower, her disquisition can barely
 contain it.
 
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
