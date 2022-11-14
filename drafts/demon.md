@@ -59,7 +59,7 @@ changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
 <p align="right">
-«<b>Child, let me give you a star.</b>»
+«<b>Child, I will give you a shifting star.</b>»
   </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ The elevator, once summoned, clanks croakingly up like an oversized
 frog and swallows her with its wrought-iron mouth.
 As she begins the slow journey down to the
 tunnels, the hum of coils and windings and transformers gets louder,
-and Susan feels as if she is becoming her true self once more, a self
+and Susan feels as if she is becoming her true self once more: a self
 which expands through the tunnels, which winds in arcs of jagged light
 through the despatch tubes and magnetized colloids.
 
@@ -97,7 +97,7 @@ configuring, jotting down readings, pulling on wires which
 radiate from the junction into the dark of other machine banks.
 She is about to start the Holborn cleaning cycle, but some premonitory
 instinct arrests her; she checks the readings again and notes a small
-discrepancy in the Holborn interferometer. Before she blows the dust out, she needs to check
+discrepancy. Before she turns on the fans, she needs to check
 there are no dead rats blocking the light.
 
 <p align="right">
