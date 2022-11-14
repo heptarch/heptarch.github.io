@@ -180,8 +180,8 @@ with a makeshift toy,
 the network is officially
 discontinued in 1874.
 
-But a company ambitious enough to propose an underground pneumatic
-network cannot reasonably be expected to stop there.
+But a company ambitious enough to propose an underground narrow-grain
+rail network in the 1860s cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
 pieces of apparatus that seem unrelated to the centrifugal mechanism of the despatch tubes.
