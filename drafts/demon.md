@@ -89,10 +89,11 @@ The network is abandoned, but something bigger is already finished.
   ⁂
   </p>
 
-*1863.* The study overlooks the gentle slopes of Kilspindie glen. A
+*1861.* The study overlooks the gentle slopes of Kilspindie glen. A
  man leans on a chestnut bureau: a hymnary, some notes in Gaelic,
  a lump of amygdule, sparkling with calcite. His eyes are kind.
- "Child, what should you like to do?"
+ "Child, what should you like to do? The schoolmaster tells me he can
+ teaching you nothing."
 
 <p align="center">
   ⁂
