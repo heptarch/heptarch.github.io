@@ -158,7 +158,7 @@ Or it could be an object in another dimension.
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
 One of these men shares some scientific gossip: a lass, no more
- than ten, a protege of Auld Dauvit and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
+ than ten, a ward of Auld Dauvit and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
