@@ -67,7 +67,7 @@ passersby. They do not know.
   </p>
 
 *1870s.* Under government pressure, the Post Office pays the London Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground tube network to distribute London’s mail.
+£200,000 to build an underground pneumatic system to distribute London’s mail.
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile hence.
 The network makes it past Holborn, and as far as the General Post Office on St Martin's
@@ -75,7 +75,8 @@ le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office uses it for a few years, like a child growing bored of a toy, the network is officially retired in 1874.
 
-But a company ambitious enough to propose an subterranen pneumatic network
+But a company ambitious enough to propose an subterranen network of
+pneumatic tubes
 in the 1860s cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
