@@ -182,8 +182,8 @@ wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
 It is both childlike and strangely unchildlike, with something of the Old Testament
-prophet about it.
-Like Davie Thomson in the cramped space of Cromwell Tower, her disquisition can barely
+prophet.
+Like Davie Thomson in the cramped space of Cromwell Tower, her small frame can barely
 contain it.
 
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
@@ -197,7 +197,7 @@ later describe as "inspired lunacy". Susan accepts.
 *1875.* Susan, with Foster's practical assistance, calibrates the weights,
  charges, and magnetic fields of the Holborn detector over the course
  of months to probe what she affectionately terms the "blob".
- They find it is around 
+ They cannot 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
