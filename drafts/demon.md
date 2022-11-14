@@ -72,7 +72,7 @@ chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, where nobody watches, a boy in
 shabby clothes curls up on the ground and sleeps.
 All this commotion, the comings and goings, arrivals and leavetakings,
-chaos and love and heartbreak, blur into a kind of
+chaos and love and heartbreak and tobacco smoke, blur into a kind of
 stillness, modulated only by the rhythm of the timetable.
 Humans on average.
 
