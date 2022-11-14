@@ -137,7 +137,7 @@ It is strangely unchildlike.
 Like Davie Thomson in Cromwell Tower's cramped spaces, the outlines of her disquisition can barely
 contain it.
 
-And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself and the whole
+And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
 backward scheme of his life---formulates the terms of an offer he will
 later describe as "inspired lunacy". Susan accepts.
 
