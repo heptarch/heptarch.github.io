@@ -181,7 +181,7 @@ twined threads of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
-It is strangely unchildlike, with something of the Old Testament
+It is both childlike and strangely unchildlike, with something of the Old Testament
 prophet about it.
 Like Davie Thomson in the cramped space of Cromwell Tower, her disquisition can barely
 contain it.
