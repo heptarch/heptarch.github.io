@@ -30,20 +30,20 @@ gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
 the Great Hall with mindless curiosity---all these details are
-infinitely beneath the notice of Susan Dewar, who, 200
+infinitely beneath the notice of Ellen Dewar, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible object before her.
 
 A small shape glows and hums in the dark: a patchwork of
 triangles, folded in on itself like an origami ball.
-Susan gently pulls on a wire near her head, and the tug travels obediently
+Ellen gently pulls on a wire near her head, and the tug travels obediently
 into the blackness. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
 The ball grows larger and a constellation of twelve teardrops appears,
-dancing around it, Susan thinks, like angels on the head of a pin.
+dancing around it, Ellen thinks, like angels on the head of a pin.
 Or perhaps demons: the teardrops lengthen inward into spikes, impaling the
-ball through its corners, and Susan gasps.
+ball through its corners, and Ellen gasps.
 The spikes emerge from the opposite side, and the whole figure
 convulses into new, more elaborate patchworks, like a
 dancing star.
@@ -99,7 +99,7 @@ chaos and love and heartbreak and tobacco smoke, blur into a kind of
 stillness, modulated only by the rhythm of the timetable.
 Humans on average.
 
-Susan as usual does not enter the Great Hall.
+Ellen as usual does not enter the Great Hall.
 Instead, she has resolved some disagreement with Professor Foster
 about magnetism and birefringence, and walks briskly from the student
 laboratory of University College to Eversholt Street.
@@ -109,12 +109,12 @@ The elevator, once summoned, clanks croakingly up like an oversized
 frog and gulps her into its wrought-iron mouth.
 As it begins the slow journey down to the
 tunnels, the hum of coils and windings gets louder;
-Susan feels as if she is becoming her true self once more: a self
+Ellen feels as if she is becoming her true self once more: a self
 which expands through the old network, which winds in arcs of jagged light
 through the silvered despatch tubes and magnetized colloids.
 
 The frog disgorges her at a junction of six tunnels, a few meters
-across and choked with machinery. Susan puts the lamp on a cluttered
+across and choked with machinery. Ellen puts the lamp on a cluttered
 desk and begins checking the instruments, adjusting,
 configuring, jotting down readings, pulling on wires which
 radiate from the junction into the dark of other machine banks.
@@ -183,7 +183,7 @@ contain it.
 
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
 backward scheme of his life---formulates the terms of an offer he will
-later describe as "inspired lunacy". Susan accepts.
+later describe as "inspired lunacy". Ellen accepts.
 
 <p align="center">
   ⁂
@@ -191,7 +191,7 @@ later describe as "inspired lunacy". Susan accepts.
 
 *1875.* 
 
-Over the course of several months, Susan calibrates the weights,
+Over the course of several months, Ellen calibrates the weights,
  charges, and magnetic fields applied to the birefringent colloids of the Holborn
  detector, to image what she affectionately terms the "blob".
  She eventually concludes that the blob is vast---at
