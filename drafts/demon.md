@@ -194,10 +194,11 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-*1875.* Susan, with Foster's practical assistance, calibrates the weights,
- charges, and magnetic fields applied to the colloids of the Holborn detector over the course
- of months, to probe what she affectionately terms the "blob".
- They eventually conclude the blob is unimaginably large, and floating
+*1875.* Over the course of several months, Susan calibrates the weights,
+ charges, and magnetic fields applied to the colloids of the Holborn
+ detector, to probe what she affectionately terms the "blob".
+ She eventually concludes that the blob is unimaginably large---at
+ least several thousand yards in diameter---and floats
  a few meters "away" from Chancery House.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
