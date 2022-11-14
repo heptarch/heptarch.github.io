@@ -54,9 +54,29 @@ A devilish shape, she concludes, grinning, and switches it off.
   ⁂
   </p>
 
-*1860.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinating by the
+*1860.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1875.* Passengers shuffle like autumn leaves through the doubled cube of the Hall.
+A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
+chases little William, who shrieks with delight---in the
+shadows of the allegorical statuary, where nobody is watching, a boy in shabby clothes cries.
+All this commotion, the comings and goings, arrivals and leavetakings,
+chaos and love and heartbreak, blur into a kind of
+stillness modulated only by the rhythym of the timetable.
+
+Susan as usual does not notice the Great Hall.
+Instead, she has resolved some disagreement with Professor Foster
+about birefringence (in her favour) and walks from the student
+laboratory to Eversholt Street.
+Down some stairs, unlocked a service door, took the
+moderator lamp from its hook and began making her way down the stairs
+into the tunnels.
 
 <p align="center">
   ⁂
@@ -123,6 +143,12 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
+
+
+<p align="center">
+  ⁂
+  </p>
+
 *1874.* The London Pneumatic Despatch Company raises the extravagant sum of
 £150,000 for an underground network of pneumatic tubes to
 distribute London's mail.
@@ -145,25 +171,6 @@ Engineers and builders are only given small parts of the blueprint.
 Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
 The network is abandoned but something bigger is already finished.
-
-<p align="center">
-  ⁂
-  </p>
-
-*1875.* Passengers shuffle like autumn leaves through the doubled cube of the Hall.
-A doctor from Boxmoor talks about the Factory Act and women studying medicine---a mother of three
-chases little William, who shrieks with delight---in the
-shadows of the allegorical statuary, a boy in shabby clothes looks
-about him, and when nobody is watching, cries.
-All this commotion, the comings and goings, arrivals and leavetakings, blur into a kind of
-stillness modulated only by the rhythym of the timetable.
-
-Susan, as usual, walked to Euston from the old laboratory at
-University College after resolving some difficulty with
-Professor Foster.
-She walked down Eversholt Street, unlocked a service door, took the
-moderator lamp from its hook and began making her way down the stairs
-into the tunnels.
 
 <p align="center">
   ⁂
