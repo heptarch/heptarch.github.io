@@ -73,7 +73,7 @@ Mail capsules will be loaded up and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
 Construction commences in 1863 with a successful trial between Euston Square and the North
 West District Post Office, a third of a mile hence.
-The network makes it past Holborn, and as far as the General Post Office on St Martin's
+The tubes makes it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office uses it for a few years, the network is officially retired in 1874.
@@ -100,7 +100,7 @@ The network is abandoned, but something bigger is already finished.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, where nobody watches, a boy in
-shabby clothes curls up on the ground and sleeps.
+shabby clothes curls up and sleeps.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak and tobacco smoke, blur into a kind of
 stillness, modulated only by the rhythm of the timetable.
