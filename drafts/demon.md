@@ -43,7 +43,7 @@ piping leans forward, as if bowing.
 The ball grows larger and a constellation of twelve teardrops appears,
 dancing around it, Susan thinks, like angels on the head of a pin.
 Or perhaps demons: the teardrops lengthen inward into spikes, impaling the
-ball through its corners; Susan gasps.
+ball through its corners, and Susan gasps.
 The spikes push through to the opposite side, and the whole figure
 convulses, shivering forth into new, more elaborate patchworks, like a
 dancing star.
