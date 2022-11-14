@@ -59,7 +59,7 @@ changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
 <p align="right">
-«<b>Let me give you a star, child.</b>»
+«<b>Child, let me give you a star.</b>»
   </p>
 
 <p align="center">
@@ -86,7 +86,9 @@ The elevator, once summoned, clanks croakingly up like an oversized
 frog and swallows her with its wrought-iron mouth.
 As she begins the slow journey down to the
 tunnels, the hum of coils and windings and transformers gets louder,
-and Susan feels as if she is becoming her true self once more.
+and Susan feels as if she is becoming her true self once more, a self
+which expands through the tunnels, which winds in arcs of jagged light
+through the despatch tubes and magnetized colloids.
 
 The frog disgorges her at a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
