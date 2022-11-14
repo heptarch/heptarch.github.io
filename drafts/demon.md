@@ -193,7 +193,9 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-*1875.*
+*1875.* Susan, with Foster's assistance, calibrates the weights,
+ charges, and magnetic fields of the Holborn detector over the course
+ of months to probe what she affectionately terms the "blob".
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
