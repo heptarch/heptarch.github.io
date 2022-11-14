@@ -59,7 +59,7 @@ changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
 <p align="right">
-«<b>I will give you a shooting star.</b>»
+«<b>I will show you dancing stars.</b>»
   </p>
 
 <p align="center">
