@@ -89,7 +89,13 @@ The network is abandoned, but something bigger is already finished.
   ⁂
   </p>
 
-*1863.* 
+*1863.* "Child, what should you like?"
+
+"To see the world spin, reverend."
+
+"Ellen, why must you call me that."
+
+"You are not my father, reverend."
 
 <p align="center">
   ⁂
