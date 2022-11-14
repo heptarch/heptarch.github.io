@@ -71,7 +71,6 @@ by giant iron turbines, 20 feet in diameter, powered by the steaming, lopsided
 hammer of a Cornish engine.
 Mail capsules will be loaded up and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
-
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile hence.
 The network makes it past Holborn, and as far as the General Post Office on St Martin's
