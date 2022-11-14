@@ -58,6 +58,10 @@ A devilish shape, she concludes, grinning, and switches it off.
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
+<p align="right">
+𝕴'𝖑𝖑 𝖌𝖎𝖛𝖊 𝖞𝖔𝖚 𝖆 𝖘𝖙𝖆𝖗.
+  </p>
+
 <p align="center">
   ⁂
   </p>
