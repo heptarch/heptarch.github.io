@@ -74,6 +74,7 @@ shabby clothes curls up on the ground and cries.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
 stillness, modulated only by the rhythm of the timetable.
+Humans on average.
 
 Susan as usual does not enter the Great Hall.
 Instead, she has resolved some disagreement with Professor Foster
