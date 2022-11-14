@@ -64,14 +64,14 @@ passersby. They do not know.
   </p>
 
 Passengers shuffle like autumn leaves through the doubled cube of the Hall.
-A doctor from Boxmoore talks about the Factory Act---a mother of three
-chases little William, who cries with delight---skulking beneath the
-allegorical statuary, a boy in shabby clothes regards the scene with
-brooding insolence.
+A doctor from Boxmoor talks about the Factory Act and women studying medicine---a mother of three
+chases little William, who shrieks with delight as dust motes swirl in
+the air---skulking in the
+shadows of the allegorical statuary, a boy in shabby clothes looks
+around insolently, and when nobody is watching, cries.
 The motions blurs into a kind of stillness.
 
-On a routine calibration run around the despatch pipes, $\Delta\phi$ was off by a few seconds.
-Susan knew that the earth was curved, so
+Susan, as usual, 
 
 <p align="center">
   ⁂
@@ -181,3 +181,4 @@ The network is abandoned but something bigger is already finished.
 <!-- with a poor toy for which it has no alternative, -->
 <!-- 𝕾𝖐𝖎𝖕 𝖙𝖔 𝖙𝖍𝖊 𝖌𝖔𝖔𝖉 𝖇𝖎𝖙𝖘 𝖕𝖑𝖊𝖆𝖘𝖊.-->
 <!-- https://en.wikipedia.org/wiki/Euston_railway_station -->
+<!-- https://thebeautyoftransport.com/2015/06/10/lost-beauty-9-hardwicks-hall-the-old-euston-station-london-uk/ -->
