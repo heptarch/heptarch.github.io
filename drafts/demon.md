@@ -73,10 +73,8 @@ West District Post Office, a third of a mile hence.
 The network makes it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
-Office uses it in a desultory fashion for a few years, like a child
-with a makeshift toy,
-the network is officially
-discontinued in 1874.
+Office uses it for a few years, like a child with a toy it grows bored
+of, the network is officially retired in 1874.
 
 But a company ambitious enough to propose an underground rail network
 in the 1860s cannot reasonably be expected to stop there.
@@ -210,3 +208,7 @@ later describe as "inspired lunacy". Susan accepts.
 <!-- about its contents and discontents.-->
 <!-- The ball is swallowed up by its dancing assailants. -->
 <!-- feels as if she is entering another plane, a plane where she is her true self and has infinite space to play.-->
+<!-- Although the Post Office uses it in a desultory fashion for a few years, like a child
+with a makeshift toy,
+the network is officially
+discontinued in 1874.-->
