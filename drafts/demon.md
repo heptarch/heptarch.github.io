@@ -197,8 +197,15 @@ later describe as "inspired lunacy". Susan accepts.
  a few yards "away" from Chancery House in a direction that no
  lawyer, however advanced his legal sophistry, could point to.
 
+She has pulsed the blob with light to see what it absorbs.
+One evening, it begins to pulse back.
+
 <p align="right">
 «<b>Found you.</b>»
+  </p>
+
+<p align="center">
+  ⁂
   </p>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
