@@ -181,7 +181,8 @@ twined threads of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
-It is strangely unchildlike.
+It is strangely unchildlike, with something of the Old Testament
+prophet about it.
 Like Davie Thomson in the cramped space of Cromwell Tower, her disquisition can barely
 contain it.
 
@@ -193,9 +194,10 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-*1875.* Susan, with Foster's assistance, calibrates the weights,
+*1875.* Susan, with Foster's practical assistance, calibrates the weights,
  charges, and magnetic fields of the Holborn detector over the course
  of months to probe what she affectionately terms the "blob".
+ They find it is around 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
@@ -218,3 +220,4 @@ later describe as "inspired lunacy". Susan accepts.
 with a makeshift toy,
 the network is officially
 discontinued in 1874.-->
+<!-- https://arxiv.org/pdf/quant-ph/9908043.pdf -->
