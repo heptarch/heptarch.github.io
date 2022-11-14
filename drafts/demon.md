@@ -76,7 +76,7 @@ pneumatic tubes
 in the 1860s cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus that seem unrelated to the centrifugal mechanism of the despatch tubes.
+pieces of apparatus unrelated to the centrifugal wheels of the despatch tubes.
 Engineers and builders are only given small parts of the blueprint.
 Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
