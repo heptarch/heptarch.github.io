@@ -59,7 +59,7 @@ changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
 <p align="right">
-«<b>I'll give you a shape-shifting star.</b>»
+«<b>I'll give you a star.</b>»
   </p>
 
 <p align="center">
@@ -83,11 +83,16 @@ She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
 She summons the elevator, which clanks croakingly up like an oversized frog.
 It swallows her, and begins the slow journey down to the
-tunnels; as the hum of coils and transformers getting louder, Susan
+tunnels; as the hum of coils and windings and transformers gets louder, Susan
 feels as if she is entering another plane, where she is her true self
 and has infinite space to play.
 
-The frog disgorges her 
+The frog disgorges her onto a junction of six tunnels, a few meteres
+across and choked with machinery. Susan puts the lamp on a cluttered
+desk and begins checking, adjusting, jotting down readings, and
+pulling wires which radiate from the junction and into the dark of the
+tunnels.
+She flips 
 
 <p align="center">
   ⁂
