@@ -95,7 +95,7 @@ The network is abandoned, but something bigger is already finished.
  "Child, what should you like to do? The schoolmaster tells me he can
  teaching you nothing."
 
-"Tilleadh".<label for="sn-2"
+"Tilleadh."<label for="sn-2"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -223,7 +223,9 @@ later describe as "inspired lunacy". Ellen accepts.
   </p>
 
 *1872.* In the Beethoven Rooms of 27 Harley
-Street, University College, a shy, gaunt youth, who 
+Street, University College, a shy, gaunt youth grins at the
+assembled bluestockings.
+"Thermodynamics"---he pauses for dramatic effect---"
 Thaddeus S. C. Lowe
 
 <p align="center">
