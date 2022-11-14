@@ -92,11 +92,12 @@ self and has infinite space to play.
 The frog disgorges her at a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
 desk and begins checking the instruments, adjusting,
-configuring, jotting readings onto a notepad, and pulling on wires which
+configuring, jotting down readings, and pulling on wires which
 radiate from the junction into the dark of other machine banks.
 She is about to start the Holborn cleaning cycle, but some instinct
-arrests her; she checks the reading again, compares it to yesterday's,
-and there it is.
+arrests her; she checks the readings again, compares it to yesterday's,
+and notes a small discrepancy, a few seconds in the Holborn colloidal
+interferometer.
 
 <p align="center">
   ⁂
