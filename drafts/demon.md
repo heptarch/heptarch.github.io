@@ -70,7 +70,7 @@ passersby. They do not know.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, where nobody watches, a boy in
-shabby clothes curls up on the ground and cries.
+shabby clothes curls up on the ground and sleeps.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
 stillness, modulated only by the rhythm of the timetable.
