@@ -195,7 +195,7 @@ later describe as "inspired lunacy". Susan accepts.
  She eventually concludes that the blob is vast---at
  least several thousand yards in diameter, probably much more---and floats
  a few yards "away" from Chancery House in a direction that no
- lawyer, however deft his legalistic finger, could point to.
+ lawyer, however advanced his legal sophistry, could point to.
 
 <p align="right">
 «<b>Found you.</b>»
