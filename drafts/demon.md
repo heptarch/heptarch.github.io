@@ -62,7 +62,7 @@ passersby. They do not know.
   ⁂
   </p>
 
-*1870s.* Under government pressure, the Post Office pays the London Pneumatic Despatch Company the extravagant sum of
+*1874.* Under government pressure, the Post Office pays the London Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system for London’s mail.
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile hence.
@@ -89,7 +89,7 @@ The network is abandoned, but something bigger is already finished.
   ⁂
   </p>
 
-*1874.* Passengers waft like autumn leaves through the doubled cube of the Hall.
+*1875.* Passengers waft like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, where nobody watches, a boy in
@@ -123,10 +123,6 @@ instinct stops her; she checks the readings again and notes a small
 discrepancy. It could be dead rats in the tubes, blocking the light.
 
 Or it could be an object in the fourth dimension.
-
-<p align="right">
-«<b>Found you.</b>»
-  </p>
 
 <p align="center">
   ⁂
