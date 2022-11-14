@@ -89,7 +89,7 @@ The network is abandoned, but something bigger is already finished.
   ⁂
   </p>
 
-*1874.* Passengers shuffle like autumn leaves through the doubled cube of the Hall.
+*1874.* Passengers waft like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, where nobody watches, a boy in
