@@ -86,7 +86,7 @@ frog and swallows her.
 As she begins the slow journey down to the
 tunnels, the hum of coils and windings and transformers gets louder,
 and Susan
-feels as if she is entering another plane, and where she is her true
+feels as if she is entering another plane, a plane where she is her true
 self, where she has infinite space to play.
 
 The frog disgorges her onto a junction of six tunnels, a few meters
