@@ -65,8 +65,8 @@ passersby. They do not know.
 *1875.* Passengers shuffle like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
-shadows of the allegorical statuary, a boy in shabby clothes cries and
-wrings his hands.
+shadows of the allegorical statuary, where nobody watches, a boy cries
+in shabby clothes.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
 stillness modulated only by the rhythym of the timetable.
