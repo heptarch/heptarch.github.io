@@ -73,7 +73,7 @@ shadows of the allegorical statuary, where nobody watches, a boy in
 shabby clothes curls up on the ground and cries.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
-stillness, modulated only by the rhythym of the timetable.
+stillness, modulated only by the rhythm of the timetable.
 
 Susan as usual does not enter the Great Hall.
 Instead, she has resolved some disagreement with Professor Foster
