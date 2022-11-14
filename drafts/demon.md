@@ -110,7 +110,7 @@ frog and gulps her into its wrought-iron mouth.
 As it begins the slow journey down to the
 tunnels, the hum of coils and windings gets louder;
 Susan feels as if she is becoming her true self once more: a self
-which expands through the tunnels, which winds in arcs of jagged light
+which expands through the old network, which winds in arcs of jagged light
 through the silvered despatch tubes and magnetized colloids.
 
 The frog disgorges her at a junction of six tunnels, a few meters
