@@ -168,12 +168,6 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-
-
-<p align="center">
-  ⁂
-  </p>
-
 *1874.* The London Pneumatic Despatch Company raises the extravagant sum of
 £150,000 for an underground network of pneumatic tubes to
 distribute London's mail.
