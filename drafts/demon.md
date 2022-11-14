@@ -84,7 +84,10 @@ pieces of apparatus that seem unrelated to the centrifugal mechanism of the desp
 Engineers and builders are only given small parts of the blueprint.
 Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
-The network is abandoned but something bigger is already finished.
+A white-haired professor and a young woman are rumored to wander about
+and attend to the machines.
+
+The network is abandoned, but something bigger is already finished.
 
 <p align="center">
   ⁂
