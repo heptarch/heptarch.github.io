@@ -106,7 +106,8 @@ To return.
 </span>
 
 "I... I feared as much. Susan is too ill to travel to Aberdeen, but we
-want what is best for you. Do you remember Professor Thomson?"
+want what is best for you, and what He clearly wills. Do you remember
+Professor Thomson?"
 
 <p align="center">
   ⁂
