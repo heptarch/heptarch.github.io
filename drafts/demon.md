@@ -91,7 +91,7 @@ The network is abandoned, but something bigger is already finished.
 
 *1861.* The study overlooks the gentle slopes of Kilspindie glen. The
  reverend leans on a chestnut bureau: a hymnary, some notes in Gaelic,
- a lump of amygdule, sparkling with calcites. His eyes are kind.
+ a lump of amygdule sparkling with calcites. His eyes are kind.
  "Child, what should you like to do? The schoolmaster tells me he can
  teaching you nothing."
 
