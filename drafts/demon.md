@@ -93,8 +93,8 @@ across and choked with machinery. Susan puts the lamp on a cluttered
 desk and begins checking the instruments, adjusting,
 configuring, jotting readings, and pulling on wires which
 radiate from the junction into the dark of other machine banks.
-She is about to start the Holborn cleaning cycle, but some premonitory
-instinct arrests her;
+She is about to start the Holborn cleaning cycle, but some instinct
+arrests her; she checks the reading again
 
 <p align="center">
   ⁂
