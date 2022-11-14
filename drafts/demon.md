@@ -77,8 +77,8 @@ about birefringence (in her favour) and walks briskly from the student
 laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, lights the
 moderator lamp kept on a hook by the entrance and summons the elevator.
-The elevator clanks up, croaking like an oversized frog, and as she
-descends, the hum of coils and windings and transformers gets louder.
+The elevator clanks up, croaking like an oversized frog.
+As she begins the journey down to the tunnels, the hum of coils and windings and transformers gets louder.
 
 <p align="center">
   ⁂
