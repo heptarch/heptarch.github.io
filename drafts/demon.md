@@ -89,7 +89,7 @@ The network is abandoned, but something bigger is already finished.
   ⁂
   </p>
 
-*1863.*
+*1863.* 
 
 <p align="center">
   ⁂
@@ -158,7 +158,7 @@ One of these men shares some scientific gossip: a lass, no more
 "Davie" Thomson, an immense, stentorian don who must stoop to enter
  the classroom, introduces the young "Miss Dewar" as an
  "exceedingly keen pupil of the modern developments". He folds himself into a
- chair in the front row and motions her to begin.
+ chair in the front row and tenderly motions her to begin.
  Miss Dewar coughs nervously, and after receiving another paternal nod,
  addresses the small audience in a high, calm, clear voice:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
