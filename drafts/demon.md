@@ -69,8 +69,8 @@ mail.
 It is to consist of tubes laid with narrow-gauge rail, cleared of air
 by giant iron turbines, 20 feet in diameter, powered by the steaming, lopsided
 hammer of a Cornish engine.
-Mail capsules will be loaded up and shot through the near empty tubes,
-propelled by the inrushing atmosphere.
+Mail capsules will be loaded up and shot through the near-empty tubes,
+propelled only by the inrushing atmosphere.
 
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile hence.
@@ -131,6 +131,12 @@ instinct stops her; she checks the readings again and notes a small
 discrepancy. It could be dead rats in the tubes, blocking the light.
 
 Or it could be an object in another dimension.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1873.* 
 
 <p align="center">
   ⁂
