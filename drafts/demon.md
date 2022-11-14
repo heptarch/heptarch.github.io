@@ -42,7 +42,7 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
 The ball grows larger and a constellation of twelve teardrops appears around
 it, dancing, Susan thought, like angels on the head of a pin.
-But then the teardrops lengthen inward into spikes, impaling the
+Or perhaps demons: the teardrops lengthen inward into spikes, impaling the
 ball through its corners; Susan gasps.
 The spikes push through to the opposite side, and the whole figure
 convulses, shivering forth into new, more elaborate patchworks, like a
@@ -59,7 +59,7 @@ changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.
 
 <p align="right">
-«<b>I'll give you a star.</b>»
+«<b>Let me give you a star.</b>»
   </p>
 
 <p align="center">
