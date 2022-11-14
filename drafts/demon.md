@@ -177,7 +177,7 @@ results of Maxwell and Faraday, which we might detect by suitably careful experi
 </font>
 </div>
 The talk is largely gibberish to the Duke. The play of symbols, the
-subtle thread of argument, its flashes of scientific
+twined threads of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
