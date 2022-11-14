@@ -69,7 +69,7 @@ chases little William, who shrieks with delight as dust motes swirl in
 the air---skulking in the
 shadows of the allegorical statuary, a boy in shabby clothes looks
 around insolently, and when nobody is watching, cries.
-The motions blurs into a kind of stillness.
+The motion blurs into a kind of stillness.
 
 Susan, as usual, 
 
