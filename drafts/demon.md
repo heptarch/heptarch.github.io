@@ -89,12 +89,12 @@ and Susan
 feels as if she is entering another plane, a plane where she is her true
 self, where she has infinite space to play.
 
-The frog disgorges her onto a junction of six tunnels, a few meters
+The frog disgorges her into a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
-desk and begins checking, adjusting, jotting down readings, and
+desk and begins checking the humming machines, adjusting, jotting down readings, and
 pulling wires which radiate from the junction and into the dark of the
 tunnels.
-She flips 
+She is flipping a level to start a suction cycle when something occ
 
 <p align="center">
   ⁂
