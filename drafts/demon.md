@@ -70,7 +70,8 @@ All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
 stillness modulated only by the rhythym of the timetable.
 
-Susan as usual does not notice the Great Hall.
+Susan as usual does not enter the Great Hall, or philosophize about its
+contents and discontents.
 Instead, she has resolved some disagreement with Professor Foster
 about birefringence (in her favour) and walks from the student
 laboratory to Eversholt Street.
