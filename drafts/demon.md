@@ -91,11 +91,10 @@ self, where she has infinite space to play.
 
 The frog disgorges her into a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
-desk and begins checking the humming machines, adjusting, jotting down readings, and
-pulling on wires which radiate from the junction and into the dark of the
-tunnels.
-As she is starting the suction cycle for Holborn, she realizes
-something is off: the colloidal interferometer
+desk and begins checking the humming instrument, adjusting,
+reconfiguring, jotting down readings, and pulling on wires which
+radiate from the junction and into the dark of the tunnels, presumably
+connected to other machine banks.
 
 <p align="center">
   ⁂
