@@ -176,7 +176,7 @@ In addition, this predicts small phenomenological departures from the
 results of Maxwell and Faraday, which we might detect by suitably careful experimental work...
 </font>
 </div>
-The talk is largely gibberish to the Duke. The play of symbols, the
+The talk is gibberish to the Duke. The play of symbols, the
 twined threads of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
@@ -196,8 +196,9 @@ later describe as "inspired lunacy". Susan accepts.
 
 *1875.* Susan, with Foster's practical assistance, calibrates the weights,
  charges, and magnetic fields of the Holborn detector over the course
- of months to probe what she affectionately terms the "blob".
- They cannot 
+ of months, to probe what she affectionately terms the "blob".
+ They eventually conclude that it is very large, and positioned a few
+ meters 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
