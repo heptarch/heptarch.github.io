@@ -189,7 +189,9 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-*1875.* Over the course of several months, Susan calibrates the weights,
+*1875.*
+
+Over the course of several months, Susan calibrates the weights,
  charges, and magnetic fields applied to the colloids of the Holborn
  detector, to probe what she affectionately terms the "blob".
  She eventually concludes that the blob is vast---at
