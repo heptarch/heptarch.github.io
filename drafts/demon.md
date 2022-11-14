@@ -66,7 +66,7 @@ passersby. They do not know.
   ⁂
   </p>
 
-*1870s.* The Post Office pays the London Pneumatic Despatch Company the extravagant sum of
+*1870s.* Under government pressure, the Post Office pays the London Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground network of tubes to distribute London’s mail.
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
 West District Post Office, a third of a mile hence.
