@@ -152,7 +152,7 @@ results of Maxwell and Faraday, which we might detect by suitably careful experi
 </font>
 </div>
 The talk is largely gibberish to the Duke. The play of symbols, the
-contrivance and subtlety of reasoning, the flashes of scientific
+subtle thread of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Dewar's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
@@ -168,12 +168,11 @@ later describe as "inspired lunacy". Susan accepts.
   ⁂
   </p>
 
-*1874.* The London Pneumatic Despatch Company raises the extravagant sum of
-£150,000 for an underground network of pneumatic tubes to
-distribute London's mail.
+*1874.* The Post Office pays the London Pneumatic Despatch Company the extravagant sum of
+£200,000 to build an underground network of pneumatic tubes to distribute London’s mail.
 Construction commences in 1863 with a short experimental stretch between Euston Square and the North
-West District Post Office, a third of a mile distant.
-The network makes it past Holborn, as far as the General Post Office on St Martin's
+West District Post Office, a third of a mile hence.
+The network makes it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office uses it in a desultory fashion for a few years, like a child
