@@ -25,7 +25,7 @@ Whole avenues of universes...
 <div style="text-align: right">PlanetN9Ne
 </div> <br>
 
-*1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
+*1876.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
@@ -111,7 +111,7 @@ As it begins the slow journey down to the
 tunnels, the hum of coils and windings gets louder;
 Susan feels as if she is becoming her true self once more: a self
 which expands through the tunnels, which winds in arcs of jagged light
-through the despatch tubes and magnetized colloids.
+through the silvered despatch tubes and magnetized colloids.
 
 The frog disgorges her at a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
@@ -192,6 +192,8 @@ later describe as "inspired lunacy". Susan accepts.
 <p align="center">
   ⁂
   </p>
+
+*1875.*
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
