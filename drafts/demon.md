@@ -18,13 +18,6 @@ Whole avenues of universes...
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div> <br>
 
-<span style="padding-left: 40px; display:block">
-[It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time.
-</span>
-
-<div style="text-align: right">PlanetN9Ne
-</div> <br>
-
 *1876.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
@@ -135,12 +128,6 @@ Or it could be an object in another dimension.
   ⁂
   </p>
 
-*1873.* 
-
-<p align="center">
-  ⁂
-  </p>
-
 *1865.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
  Chandos, heir of as many debts as titles, weary, honest, but not without his
@@ -202,6 +189,13 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
+*1872.* A shy, gaunt youth
+Thaddeus S. C. Lowe
+
+<p align="center">
+  ⁂
+  </p>
+
 *1875.* 
 
 Over the course of several months, Ellen calibrates the weights,
@@ -218,6 +212,17 @@ One evening, it begins to pulse back.
 <p align="right">
 «<b>Found you.</b>»
   </p>
+
+<p align="center">
+  ⁂
+  </p>
+
+*1873.* The RMS *Atlantic*, a steam liner bound from Liverpool to New
+ York City, diverts to Halifax in heavy weather and strikes a rock off
+ Marr's Head.
+ One C. Watson is listed as missing.
+
+Ellen accepts.
 
 <p align="center">
   ⁂
@@ -245,3 +250,5 @@ with a makeshift toy,
 the network is officially
 discontinued in 1874.-->
 <!-- https://arxiv.org/pdf/quant-ph/9908043.pdf -->
+<!--[It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time., PlanetN9Ne-->
+<!-- https://en.wikipedia.org/wiki/Thaddeus_S._C._Lowe-->
