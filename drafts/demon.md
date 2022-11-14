@@ -71,7 +71,7 @@ le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office uses it for a few years, the network is officially retired in 1874.
 
-But a company ambitious enough to propose an subterranen network of
+But a company ambitious enough to propose a subterranean network of
 pneumatic tubes
 in the 1860s cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
