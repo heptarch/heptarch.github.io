@@ -199,7 +199,7 @@ later describe as "inspired lunacy". Susan accepts.
  detector, to probe what she affectionately terms the "blob".
  She eventually concludes that the blob is unimaginably large---at
  least several thousand yards in diameter---and floats
- a few yards "away" from Chancery House, in a direction that no
+ a few yards "away" from Chancery House in a direction that no
  lawyer, however sophisticated, could point to.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
