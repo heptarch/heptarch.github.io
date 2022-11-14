@@ -89,11 +89,24 @@ The network is abandoned, but something bigger is already finished.
   ⁂
   </p>
 
-*1861.* The study overlooks the gentle slopes of Kilspindie glen. A
- man leans on a chestnut bureau: a hymnary, some notes in Gaelic,
+*1861.* The study overlooks the gentle slopes of Kilspindie glen. Th
+ reverend leans on a chestnut bureau: a hymnary, some notes in Gaelic,
  a lump of amygdule, sparkling with calcite. His eyes are kind.
  "Child, what should you like to do? The schoolmaster tells me he can
  teaching you nothing."
+
+"Tilleadh".<label for="sn-2"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-2"
+       class="margin-toggle"/>
+<span class="sidenote">
+To return.
+</span>
+
+"I... I feared as much. But perhaps I can arrange something with
+Professor Thomson."
 
 <p align="center">
   ⁂
@@ -145,7 +158,7 @@ Or it could be an object in another dimension.
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
 One of these men shares some scientific gossip: a lass, no more
- than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
+ than ten, a protege of Auld Dauvit and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
