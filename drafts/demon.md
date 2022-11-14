@@ -84,10 +84,9 @@ moderator lamp kept on a hook by the entrance.
 The elevator, once summoned, clanks croakingly up like an oversized
 frog and swallows her.
 As she begins the slow journey down to the
-tunnels, the hum of coils and windings and transformers gets louder,
-and Susan
+tunnels, the hum of coils and windings and transformers gets louder; Susan
 feels as if she is entering another plane, a plane where she is her true
-self, where she has infinite space to play.
+self and has infinite space to play.
 
 The frog disgorges her into a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
