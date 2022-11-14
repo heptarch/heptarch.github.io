@@ -77,7 +77,7 @@ stillness, modulated only by the rhythm of the timetable.
 
 Susan as usual does not enter the Great Hall.
 Instead, she has resolved some disagreement with Professor Foster
-about birefringence (in her favour) and walks briskly from the student
+about magnetism and birefringence, and walks briskly from the student
 laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
