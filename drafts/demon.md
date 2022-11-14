@@ -81,11 +81,13 @@ about magnetism and birefringence, and walks briskly from the student
 laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
-She summons the elevator, which clanks croakingly up like an oversized frog.
-It swallows her, and begins the slow journey down to the
-tunnels; as the hum of coils and windings and transformers gets louder, Susan
-feels as if she is entering another plane, where she is her true self
-and has infinite space to play.
+The elevator, once summoned, clanks croakingly up like an oversized
+frog and swallows her.
+As she begins the slow journey down to the
+tunnels, the hum of coils and windings and transformers gets louder,
+and Susan
+feels as if she is entering another plane, and where she is her true
+self, where she has infinite space to play.
 
 The frog disgorges her onto a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
