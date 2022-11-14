@@ -70,8 +70,7 @@ All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
 stillness modulated only by the rhythym of the timetable.
 
-Susan as usual does not enter the Great Hall, or philosophize about its
-contents and discontents.
+Susan as usual does not enter the Great Hall.
 Instead, she has resolved some disagreement with Professor Foster
 about birefringence (in her favour) and walks briskly from the student
 laboratory to Eversholt Street.
@@ -190,3 +189,5 @@ The network is abandoned but something bigger is already finished.
 <!-- https://thebeautyoftransport.com/2015/06/10/lost-beauty-9-hardwicks-hall-the-old-euston-station-london-uk/ -->
 <!-- https://en.wikipedia.org/wiki/Moderator_lamp -->
 <!-- https://citymonitor.ai/transport/victorian-hyperloop-forgotten-pneumatic-railway-beneath-streets-london-2395-->
+<!-- Susan as usual does not enter the Great Hall, or philosophize -->
+<!-- about its contents and discontents.-->
