@@ -85,9 +85,8 @@ moderator lamp kept on a hook by the entrance.
 The elevator, once summoned, clanks croakingly up like an oversized
 frog and swallows her with its wrought-iron mouth.
 As she begins the slow journey down to the
-tunnels, the hum of coils and windings and transformers gets louder; Susan
-feels as if she is entering another plane, a plane where she is her true
-self and has infinite space to play.
+tunnels, the hum of coils and windings and transformers gets louder,
+and Susan feels as if she is becoming her true self once more.
 
 The frog disgorges her at a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
@@ -216,3 +215,4 @@ The network is abandoned but something bigger is already finished.
 <!-- Susan as usual does not enter the Great Hall, or philosophize -->
 <!-- about its contents and discontents.-->
 <!-- The ball is swallowed up by its dancing assailants. -->
+<!-- feels as if she is entering another plane, a plane where she is her true self and has infinite space to play.-->
