@@ -106,7 +106,7 @@ laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
 The elevator, once summoned, clanks croakingly up like an oversized
-frog and swallows her with its wrought-iron mouth.
+frog and gulp her into its wrought-iron mouth.
 As she begins the slow journey down to the
 tunnels, the hum of coils and windings and transformers gets louder;
 Susan feels as if she is becoming her true self once more: a self
