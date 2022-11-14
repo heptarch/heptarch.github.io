@@ -65,7 +65,8 @@ passersby. They do not know.
 *1875.* Passengers shuffle like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
-shadows of the allegorical statuary, where nobody is watching, a boy in shabby clothes cries.
+shadows of the allegorical statuary, a boy in shabby clothes cries and
+wrings his hands.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and love and heartbreak, blur into a kind of
 stillness modulated only by the rhythym of the timetable.
@@ -73,8 +74,8 @@ stillness modulated only by the rhythym of the timetable.
 Susan as usual does not enter the Great Hall, or philosophize about its
 contents and discontents.
 Instead, she has resolved some disagreement with Professor Foster
-about birefringence (in her favour) and walks from the student
-laboratory to Eversholt Street.
+about birefringence (in her favour) and walks briskly from the student
+laboratory to Eversholt Street, thinking about .
 Down some stairs, unlocked a service door, took the
 moderator lamp from its hook and began making her way down the stairs
 into the tunnels.
@@ -89,7 +90,7 @@ into the tunnels.
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
  consult some engineers.
-One of these men confides of a phenomenon: a lass, no more
+One of these men shares a novelty: a lass, no more
  than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -109,7 +110,7 @@ One of these men confides of a phenomenon: a lass, no more
  "exceedingly keen pupil of the modern developments". He folds himself into a
  chair in the front row and motions her to begin.
  Miss Dewar coughs nervously, and after receiving another paternal nod,
- starts in a high, calm, clear voice:
+ addresses the few  in a high, calm, clear voice:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
