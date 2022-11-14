@@ -140,7 +140,7 @@ She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
 The elevator, once summoned, clanks croakingly up like an oversized
 frog, and gulps her into its wrought-iron mouth.
-As it begins the slow journey down to the
+As it begins the slow descent to the
 tunnels, the hum of coils and windings gets louder;
 Ellen feels as if she is becoming her true self once more: a self
 which expands through the old network, which winds in arcs of jagged light
