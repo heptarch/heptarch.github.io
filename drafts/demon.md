@@ -89,8 +89,8 @@ into the tunnels.
  Chandos, heir of as many debts as titles, weary, honest, but not without his
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
- consult some engineers.
-One of these men shares a novelty: a lass, no more
+ consult some professors of civil engineering.
+One of these men confides a novelty: a lass, no more
  than ten, a protege of Prof. Thomson and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
