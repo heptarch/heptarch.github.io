@@ -82,8 +82,10 @@ laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
 She summons the elevator, which clanks croakingly up like an oversized frog.
-It swallows her up, and she begins the slow journey down into the
-tunnels, the hum of coils and transformers getting louder.
+It swallows her, and begins the slow journey down to the
+tunnels; as the hum of coils and transformers getting louder, Susan
+feels as if she is entering another plane, where she is her true self
+and has infinite space to play.
 
 The frog disgorges her 
 
