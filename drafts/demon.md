@@ -75,9 +75,9 @@ contents and discontents.
 Instead, she has resolved some disagreement with Professor Foster
 about birefringence (in her favour) and walks briskly from the student
 laboratory to Eversholt Street.
-She ducks into a culvert, unlocked a service door, took the
-moderator lamp from its hook and began making her way down the stairs
-into the tunnels.
+She ducks into a culvert, unlocks a small service door, takes the
+moderator lamp from its hook and with its small, brave light, begins
+the journey down into the tunnels.
 
 <p align="center">
   ⁂
