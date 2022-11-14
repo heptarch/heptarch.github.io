@@ -88,7 +88,7 @@ tunnels, the hum of coils and windings and transformers gets louder; Susan
 feels as if she is entering another plane, a plane where she is her true
 self and has infinite space to play.
 
-The frog disgorges her into a junction of six tunnels, a few meters
+The frog disgorges her at a junction of six tunnels, a few meters
 across and choked with machinery. Susan puts the lamp on a cluttered
 desk and begins checking the instruments, adjusting,
 configuring, jotting readings, and pulling on wires which
