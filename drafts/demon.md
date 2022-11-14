@@ -122,8 +122,8 @@ She is about to start the Holborn cleaning cycle, but some premonitory
 instinct arrests her; she checks the readings again and notes a small
 discrepancy.
 
-It could be dead rats in the despatch tubes, blocking the light.
-Or it could be objects in the fourth dimension.
+It could be dead rats in the tubes, blocking the light.
+Or it could be an object in the fourth dimension.
 
 <p align="right">
 «<b>Found you.</b>»
