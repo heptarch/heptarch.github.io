@@ -192,8 +192,8 @@ later describe as "inspired lunacy". Susan accepts.
 *1875.* 
 
 Over the course of several months, Susan calibrates the weights,
- charges, and magnetic fields applied to the colloids of the Holborn
- detector, to probe what she affectionately terms the "blob".
+ charges, and magnetic fields applied to the birefringent colloids of the Holborn
+ detector, to image what she affectionately terms the "blob".
  She eventually concludes that the blob is vast---at
  least several thousand yards in diameter, probably much more---and floats
  a few yards "away" from Chancery House in a direction that no
