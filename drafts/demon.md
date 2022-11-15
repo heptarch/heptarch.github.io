@@ -276,7 +276,7 @@ velocity of rotation is maintained in a machine? I have some notions
 on how, by a combination of magnetism and cooling, we might implement
 some of these ideas for corpuscular machines."
 
-The absurdity has changed character somewhat. Foster stammers: "You mean molecules?"
+The absurdity has somewhat changed character. Foster stammers: "Ah, you mean molecules?"
 
 <p align="center">
   ⁂
