@@ -270,10 +270,15 @@ He must restrain himself from laughing at the absurdity of it. "In what connecti
 how, forgive me, could you possibly get access to the necessary
 equipment?"
 
-"I am employed by the London Pneumatic Despatch Company to do this and
-more besides. They have put *considerable* resources at my
+"I am employed by the London Pneumatic Despatch Company to do this, and
+much more besides, and they have put considerable resources at my
 disposal. But to the point: are you familiar with Maxwell's paper on
-governors? These are mechanisms
+the theory of governors, that is, the contrivances by which a uniform
+velocity of rotation is maintained in a machine? I have some notions
+on how, by a combination of magnetism and cooling, we might implement
+some of these ideas for corpuscular machines."
+
+The absurdity has changed character. Foster stammers: "You mean molecules?"
 
 <p align="center">
   ⁂
