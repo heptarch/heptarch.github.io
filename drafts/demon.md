@@ -41,7 +41,7 @@ The spikes emerge from the opposite side, and the whole figure
 convulses into new, more elaborate patchworks, like a
 dancing star.
 
-A demon shape, she concludes, grinning, and switches it off.
+A daemonic shape, she concludes, grinning, and switches it off.
 
 <p align="center">
   ⁂
@@ -344,7 +344,7 @@ quay again.
 «<b>tell me, for i would know</b>»
 </div>
 
-Yet it is not only the reverend; that melodious power of suggestion, discarnate.
+Yet it is not only the reverend; there is that melodious power of suggestion, discarnate.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
