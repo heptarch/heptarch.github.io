@@ -35,13 +35,13 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
 The ball grows larger and a constellation of twelve teardrops appears,
 dancing around it, Ellen thinks, like angels on the head of a pin.
-Or perhaps demons: the teardrops lengthen inward into spikes, impaling the
+Or perhaps not: the teardrops lengthen inward into spikes, impaling the
 ball through its corners, and Ellen gasps.
 The spikes emerge from the opposite side, and the whole figure
 convulses into new, more elaborate patchworks, like a
 dancing star.
 
-A devilish shape, she concludes, grinning, and switches it off.
+A demon shape, she concludes, grinning, and switches it off.
 
 <p align="center">
   ⁂
