@@ -275,9 +275,11 @@ velocity of rotation is maintained? I have some notions
 on how, by a combination of magnetism and cooling, we might apply
 some of these effects to corpuscular machines. But I lack the requisite
 expertise in chemistry. I remember you stating in your lectures on
-acoustics that you had studied with Kekule."
+acoustics that you had studied with Kekule." The absurdity has
+somewhat changed character. The notebook swims with equations,
+schematics, little exclamations of EYPHKA!
 
-The absurdity has somewhat changed character. The composer looks on with amusement. Foster stammers:
+The composer looks on with amusement. Foster stammers:
 "Corpuscular machines?" The sounds of evening traffic float in from
 Marleybone. "Ah, you mean molecules. Perhaps... perhaps you would like
 some tea?"
