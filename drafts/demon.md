@@ -241,7 +241,7 @@ and which strike as too commonplace to discuss. It
 lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination, and in these lectures, we will learn the means by which these
-determinations are achieved, and the physical basis on which they rest."
+determinations are made, and the physical basis on which they rest."
 
 <p align="center">
   ⁂
