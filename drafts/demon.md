@@ -56,7 +56,6 @@ changing shape of the waves. "Ciamar?"<label for="sn-4"
        class="margin-toggle"/>
 <span class="sidenote">How?</span> she asks passersby. They do not
 know.
-
 An old man arrives from Marischal Street, ruddy, out of
 breath. "Child," he cries, then cracks into a smile: "What have you found now?"
 
@@ -285,7 +284,7 @@ Marleybone. "Perhaps... perhaps you would like some tea?"
   </p>
 
 *1871.* An envelope, ironically delivered by coach, arrives on the
- Chairman's desk in
+ Chairman's desk. Inside:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
