@@ -275,7 +275,7 @@ velocity of rotation is maintained? I have some notions
 on how, by a combination of magnetism and cooling, we might apply
 some of these effects to corpuscular machines. But I lack the requisite
 expertise in chemistry. I remember you stating in your lectures on
-acoustics that you had studied with Kekule." He begins to take in the
+acoustics that you had studied with Kekulé." He begins to take in the
 notebook: equations, schematics, scattered exclamations of EYPHKA!
 The absurdity has somewhat changed character.
 
@@ -324,7 +324,9 @@ Chancery House in a direction that no lawyer, however advanced his legal sophist
   ⁂
   </p>
 
-*1874.*
+*1874.* In a dream, Ellen returns to Trinity Quay; it is like
+ childhood, but everything is grey, as if the light cannot quite touch
+ the objects it falls on.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
