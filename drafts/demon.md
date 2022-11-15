@@ -265,7 +265,7 @@ your time?" The great composer watches their exchange. "Ah, of course child. How
 magnetised fluids."
 
 He must restrain himself from laughing at the absurdity. "Ah, in what connection? And
-how, forgive me, could you possibly get access to the necessary
+how, forgive me, could you possibly, that is, get access to the necessary
 equipment?"
 
 "I am employed by the London Pneumatic Despatch Company to do this, and
