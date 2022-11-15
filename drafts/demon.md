@@ -233,7 +233,8 @@ later describe as "inspired lunacy". Ellen accepts.
   </p>
 
 *1869.* In the Beethoven Rooms of 76 Harley
-Street, Carey Foster nervously regards the bluestockings assembled to learn about thermodynamics.
+Street, Carey Foster looks anxiously about at the bluestockings
+assembled to learn thermodynamics.
 "Heat"---he pauses for effect---"is not merely those sensible properties
 of a teapot or a fireplace, with which we are all familiar and
 therefore strike as too commonplace to discuss. Heat
