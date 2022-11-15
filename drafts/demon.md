@@ -295,10 +295,10 @@ solid black; line-height:1.3;">
  <b>Dewar's Annual Report for the LPDC Board, March 1873</b> <br>
  <i>6 Victoria Street, Westminster</i><br>
 
-• Budget: £10,000
+• Budget: £10,000 <br>
 • Expenditure: £9,870 (itemised, enclosed) <br>
 • Improvements: corpuscular transmission/storage using gravitoelectromagnetism; sol production (Foster, Loewy) <br>
-• New: 
+• New: birefringent daemon
 </font>
 </div>
 
