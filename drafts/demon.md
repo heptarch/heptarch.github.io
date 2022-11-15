@@ -344,7 +344,12 @@ quay again.
 «<b>tell me, for i would know</b>»
 </div>
 
-Yet it is not only the reverend; there is that melodious power of suggestion, discarnate.
+But it is not quite the reverend; it is mingled with her own melodious
+power of suggestion. And yet something else...
+
+<div style="text-align: right">
+«<b>tell me, for i would know</b>»
+</div>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
