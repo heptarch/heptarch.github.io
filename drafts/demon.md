@@ -232,8 +232,8 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-*1869.* In the Beethoven Rooms of 27 Harley
-Street, University College, Carey Foster theatrically regards the
+*1869.* In the Beethoven Rooms of 76 Harley
+Street, Carey Foster theatrically regards the
 bluestockings who have assembled to learn about thermodynamics.
 "Heat"---he pauses for effect---"is not merely those sensible properties
 of a teapot or a fireplace, with which we are all familiar and
@@ -242,7 +242,7 @@ lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination, and in these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest."
-He looks around.
+He looks about to ensure he has been understood.
 
 <p align="center">
   ⁂
