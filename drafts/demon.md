@@ -143,8 +143,8 @@ stillness, modulated only by the rhythm of the timetable.
 Humans on average.
 
 Ellen as usual does not enter the Great Hall.
-Instead, she has resolved some disagreement with Professor Foster
-about magnetism and birefringence, and walks briskly from the student
+Instead, she has resolved some disagreement with Carey
+about enathalpy, and walks briskly from the student
 laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
@@ -233,9 +233,12 @@ later describe as "inspired lunacy". Ellen accepts.
   </p>
 
 *1869.* In the Beethoven Rooms of 27 Harley
-Street, University College, Carey Foster regards the bluestockings
-assembled to hear about Dynamics and Heat.
-"Heat"---he pauses for dramatic effect---"
+Street, University College, Carey Foster theatrically regards the
+assembled bluestockings.
+"Heat"---he pauses for effect---"is not merely a trick of the weather, the
+sensible properties of a teapot or a furnace. Its very sensibility is
+evidence that it has measurable physical effects, which admit of
+precise determination. In this lecture
 
 <p align="center">
   ⁂
