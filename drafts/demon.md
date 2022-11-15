@@ -274,9 +274,11 @@ disposal. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, that is, the contrivances by which a uniform
 velocity of rotation is maintained in a machine? I have some notions
 on how, by a combination of magnetism and cooling, we might implement
-some of these ideas for corpuscular machines."
+some of these ideas for corpuscular machines. But I lack the requisite
+expertise in chemistry."
 
-The absurdity has somewhat changed character. Foster stammers: "Ah, you mean molecules?"
+The absurdity has somewhat changed character. Foster stammers:
+"Corpuscular machines? Ah, you mean molecules?"
 
 <p align="center">
   ⁂
