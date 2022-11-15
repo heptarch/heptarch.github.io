@@ -297,7 +297,7 @@ solid black; line-height:1.3;">
 
 • Budget: £10,000
 • Expenditure: £9,870 (itemised, enclosed) <br>
-• Improvements: mathematics of gravitoelectromagnetism (app. to corpuscular transmission/storage); sol production; turbine efficiency via governors <br>
+• Improvements: mathematics of gravitoelectromagnetism (app. to corpuscular transmission/storage); sol production (Foster); turbine efficiencys <br>
 • New: 
 </font>
 </div>
