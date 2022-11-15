@@ -297,10 +297,10 @@ solid black; line-height:1.3;">
  <b>Dewar's Annual Report for the LPDC Board, March 1873</b> <br>
  <i>6 Victoria Street, Westminster</i><br>
 
-• Budget: £10,000 <br>
-• Expenditure: £9,870 (itemised, enclosed) <br>
-• Improvements: birefringent colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant) <br>
-• New: inquiries regarding optical corpuscles; preliminary Möbian daemon w. gravitoelectromagntic control
+• Budget: £10,000. <br>
+• Expenditure: £9,870 (itemised, enclosed). <br>
+• Improvements: birefringent colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
+• New: inquiries regarding optical corpuscles; preliminary Möbian daemon w. gravitoelectromagntic control.
 </font>
 </div>
 
@@ -311,7 +311,7 @@ GPO. But something grabs his attention:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-• Forecast: determine the source of interference near Chancery House
+• Forecast: determine the source of interference near Chancery House.
 </font>
 </div>
 
