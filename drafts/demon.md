@@ -261,7 +261,14 @@ After the lecture is finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
 look lost. "Professor Foster, I wonder if I might have a moment of
 your time?" He has a sudden vision of the sun at dawn, just about to crest
-the horizon. "Of course child. How can I help?" 
+the horizon. "Of course child. How can I help?"
+
+"I have been carrying out researches into the optical properties of
+magnetised fluids."
+
+Foster must restrain himself from laughing. "In what connection? And
+how, forgive me, could you possibly get access to the necessary
+equipment?"
 
 <p align="center">
   ⁂
