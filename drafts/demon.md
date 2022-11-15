@@ -308,7 +308,7 @@ Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
 chuckles, thinking about the charade of negotiation with the
 GPO.
 He skips the patents and maintainance summaries, and skips to the
-forecast.
+yearly planning.
 One item grabs his attention:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
