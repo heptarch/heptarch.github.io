@@ -264,7 +264,7 @@ your time?" The great composer watches their exchange. "Of course child. How mig
 "I have been carrying out researches into the optical properties of
 magnetised fluids."
 
-He must restrain himself from laughing at the absurdity of it. "In what connection? And
+He must restrain himself from laughing at the absurdity. "Ah, in what connection? And
 how, forgive me, could you possibly get access to the necessary
 equipment?"
 
