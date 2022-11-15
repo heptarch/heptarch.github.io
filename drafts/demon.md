@@ -297,7 +297,7 @@ solid black; line-height:1.3;">
 
 • Budget: £10,000
 • Expenditure: £9,870 (itemised, enclosed) <br>
-• Improvements: corpuscular transmission/storage using gravitoelectromagnetism; sol production (Foster) <br>
+• Improvements: corpuscular transmission/storage using gravitoelectromagnetism; sol production (Foster, Loewy) <br>
 • New: 
 </font>
 </div>
