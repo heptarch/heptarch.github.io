@@ -62,7 +62,7 @@ mail.
 It is to consist of tubes laid with narrow-gauge rail, the air sucked out
 by spinning iron turbines, 20-foot wide and driven by the Hephaestian
 pistons of a Cornish engine.
-Mail capsules will be loaded up and shot through the near-empty tubes,
+Mail capsules are loaded and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
 Construction commences in 1863 with a successful trial between Euston Square and the North
 West District Post Office, a third of a mile hence.
