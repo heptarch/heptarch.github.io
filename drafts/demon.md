@@ -88,7 +88,7 @@ pieces of apparatus unconnected to the wheels of the despatch tubes.
 Engineers and builders are only given small parts of the blueprint.
 Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
-A white-haired professor and a young woman are rumored to wander about
+A young woman is rumored to wander about
 and attend to the machines.
 The network is abandoned, but something bigger is already finished.
 
