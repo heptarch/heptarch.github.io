@@ -247,7 +247,9 @@ He looks about to ensure he has been understood. "Let us start with
 the definition of temperature..."
 
 After the lecture, and the usual hour of questions, Foster is packing
-his valise when a young girl approaches. Is she lost? She does not look lost.
+his valise when a young girl approaches. Is she lost? She does not
+look lost. "Professor Foster, I wonder if I might have a moment of
+your time."
 
 <p align="center">
   ⁂
