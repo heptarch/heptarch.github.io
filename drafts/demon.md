@@ -219,7 +219,7 @@ which massive objects may act reciprocally upon one another when separated,
 but by the supposition of an additional spatial dimension (Möbius, Riemann,Hamilton &c), furnishes a
 mechanism to combine gravity and electromagnetism.
 In addition, this predicts small phenomenological departures from the
-results of Maxwell and Faraday, which we might detect by suitably careful experimental work...
+results of Maxwell and Faraday, which we might detect by suitably careful experiments...
 </font>
 </div>
 The talk is gibberish to the Duke. The play of symbols, the
