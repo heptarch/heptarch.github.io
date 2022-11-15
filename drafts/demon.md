@@ -246,6 +246,9 @@ determination, and in these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest."
 He looks about to ensure he has been understood.
 
+A young girl raises her hand. "Professor
+Foster," she begins. "Are you lost, young lady?"
+
 <p align="center">
   ⁂
   </p>
