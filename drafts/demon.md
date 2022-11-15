@@ -233,8 +233,7 @@ later describe as "inspired lunacy". Ellen accepts.
   </p>
 
 *1869.* In the Beethoven Rooms of 76 Harley
-Street, Carey Foster theatrically regards the
-bluestockings who have assembled to learn about thermodynamics.
+Street, Carey Foster nervously regards the bluestockings assembled to learn about thermodynamics.
 "Heat"---he pauses for effect---"is not merely those sensible properties
 of a teapot or a fireplace, with which we are all familiar and
 therefore strike as too commonplace to discuss. Heat
@@ -308,3 +307,4 @@ discontinued in 1874.-->
 <!-- https://en.wikipedia.org/wiki/Amygdule-->
 <!--*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the changing shape of the waves. "Where's the go o' that?" she asks passersby. They do not know.-->
 <!-- https://archive.org/details/paper-doi-10_1038_049573a0 -->
+<!-- looks at the framed holograph of the Große Fuge-->
