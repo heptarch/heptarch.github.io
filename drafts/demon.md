@@ -245,9 +245,9 @@ determination. In these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest."
 He looks about to ensure he has been understood.
 
-A young girl raises her hand. "Professor
-Foster," she begins. "Are you lost, young lady?" She smiles. "Far
-from it, Professor.
+A young girl raises her hand. Is she lost? Foster wonders. She does
+not look lost. "Professor
+Foster," she begins. "Yes?"
 
 <p align="center">
   ⁂
