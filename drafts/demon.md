@@ -277,7 +277,7 @@ some of these effects to corpuscular machines. But I lack the requisite
 expertise in chemistry. I remember you stating in your lectures on
 acoustics that you had studied with Kekule." The absurdity has
 somewhat changed character. The notebook swims with equations,
-schematics, little exclamations of EYPHKA!
+schematics, scattered exclamations of EYPHKA!
 
 The grumpy composer looks on with amusement. Foster stammers:
 "Corpuscular machines?" The sounds of evening traffic float in from
