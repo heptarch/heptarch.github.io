@@ -234,11 +234,11 @@ later describe as "inspired lunacy". Ellen accepts.
 
 *1869.* In the Beethoven Rooms of 27 Harley
 Street, University College, Carey Foster theatrically regards the
-assembled bluestockings.
+bluestockings assembled to hear about thermodynamics.
 "Heat"---he pauses for effect---"is not merely a trick of the weather, the
 sensible properties of a teapot or a furnace. Its very sensibility is
-evidence that it has measurable physical effects, which admit of
-precise determination. In this lecture
+evidence that it has measurable physical effects; these effects admit of
+precise determination."
 
 <p align="center">
   ⁂
