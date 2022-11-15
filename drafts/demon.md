@@ -338,7 +338,7 @@ The Duke chuckles again, and throws the envelope in the fire.
 
 The voice of Rev. Dewar, dead these seven years. He appears, greyly,
 now in Kilspindie, now in the granite halls of Marischal, now by the
-quay again. The voice intones:
+quay again.
 
 <div style="text-align: right">
 «<b>tell me, for i would know</b>»
