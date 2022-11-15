@@ -218,7 +218,8 @@ charged or magnetised bodies at a distance by the
 hypothesis of an electromagnetic field. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another when separated,
-but by the supposition of an additional spatial dimension (Möbius, Riemann,Hamilton &c), furnishes a
+but by the supposition of an additional spatial dimension (Möbius,
+Riemann, Hamilton &c), furnishes a
 mechanism to combine gravity and electromagnetism.
 In addition, this predicts small phenomenological departures from the
 results of Maxwell and Faraday, which we might detect by suitably careful experiments...
