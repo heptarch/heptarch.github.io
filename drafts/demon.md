@@ -169,8 +169,7 @@ There is a small discrepancy from the Holborn interferometer.
 She does a quick calculation---guided by the voice---and concludes that one of the rotating
 polarizations is *reversed*.
 She knows the arrangement of reflectors better than the
-veins in her hand.
-A stray reflection is impossible.
+veins in her hand; a stray reflection is impossible.
 The simplest explanation is a Möbian loop which turns
 the light inside out, like a glove; a loop in some *other* direction.
 
