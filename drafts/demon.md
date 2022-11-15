@@ -329,7 +329,7 @@ The Duke chuckles again, and throws the envelope into the fire.
   </p>
 
 *1874.* In a dream, Ellen returns to Trinity Quay; it is like
- childhood, and bathed in a gentle greyness, as if the light cannot quite touch
+ childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
 
 <div style="text-align: right">
