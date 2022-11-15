@@ -236,12 +236,13 @@ later describe as "inspired lunacy". Ellen accepts.
 Street, University College, Carey Foster theatrically regards the
 bluestockings who have assembled to learn about thermodynamics.
 "Heat"---he pauses for effect---"is not merely those sensible properties
-of a teapot or a fireplace in winter with which we are all familiar,
-and which strike as too commonplace to discuss. It
+of a teapot or a fireplace, with which we are all familiar and
+therefore strike as too commonplace to discuss. Heat
 lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination, and in these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest."
+He looks around.
 
 <p align="center">
   ⁂
