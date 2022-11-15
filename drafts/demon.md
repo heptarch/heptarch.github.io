@@ -126,7 +126,7 @@ Blessing in disguise.
 </span> Do you remember
 Professor Thomson?"
 
-"Will I see the stars again?"
+"Ay. Will I see the stars again?"
 
 "Yes, child. Yes."
 
