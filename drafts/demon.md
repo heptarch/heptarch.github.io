@@ -297,8 +297,8 @@ solid black; line-height:1.3;">
 
 • Budget: £10,000 <br>
 • Expenditure: £9,870 (itemised, enclosed) <br>
-• Improvements: corpuscular transmission/storage using gravitoelectromagnetism; sol production (w. Foster, Loewy) <br>
-• New: birefringent daemon (w. Grant)
+• Improvements: sol production (w. Foster, Loewy); turbine efficiency (w. Grant) <br>
+• New: corpuscular transmission/storage using gravitoelectromagnetism; birefringent daemon
 </font>
 </div>
 
