@@ -332,7 +332,8 @@ Chancery House in a direction that no lawyer, however advanced his legal sophist
 «<b>child, what should you like to do</b>»
 </div>
 
-A voice addresses her; 
+A voice addresses her: part Rev. Dewar, dead these seven years, part
+that melodious power of suggestion, and yet
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
