@@ -279,7 +279,7 @@ acoustics that you had studied with Kekule." The absurdity has
 somewhat changed character. The notebook swims with equations,
 schematics, little exclamations of EYPHKA!
 
-The composer looks on with amusement. Foster stammers:
+The grumpy composer looks on with amusement. Foster stammers:
 "Corpuscular machines?" The sounds of evening traffic float in from
 Marleybone. "Ah, you mean molecules. Perhaps... perhaps you would like
 some tea?"
