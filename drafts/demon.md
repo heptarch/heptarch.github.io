@@ -278,8 +278,8 @@ acoustics that you had studied with Kekule."
 
 The absurdity has somewhat changed character. Foster stammers:
 "Corpuscular machines?" The sounds of evening traffic float in from
-Marleybone. "Ah, you mean molecules?" The composer has
-softened. "Perhaps... perhaps you would like some tea?"
+Marleybone. "Ah, you mean molecules. Perhaps... perhaps you would like
+some tea?" The composer looks on with amusement.
 
 <p align="center">
   ⁂
