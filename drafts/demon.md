@@ -164,7 +164,7 @@ desk and begins checking the instruments, adjusting,
 configuring, jotting down readings, pulling on wires which
 radiate from the junction into the dark of other machine banks.
 She is about to start the Holborn cleaning cycle, but intuition---that
-melodious voice, not hers, yet has always accompanied her---tells her
+melodious voice which, not hers, has yet always accompanied her---tells her
 to check the readings again.
 There is a small discrepancy in the Holborn interferometer.
 
