@@ -307,7 +307,9 @@ solid black; line-height:1.3;">
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
 chuckles, thinking about the charade of negotiation with the
 GPO.
-But one item grabs his attention:
+He skips the patents and maintainance summaries, and skips to the
+forecast.
+One item grabs his attention:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
