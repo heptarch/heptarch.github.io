@@ -172,8 +172,10 @@ She does a quick calculation---guided by the voice---and concludes that one of t
 polarizations is *reversed*.
 She knows the arrangement of reflectors better than the
 veins in her hand.
-The simplest explanation is Möbian loop which turns
-the light inside out, like a glove; a veritable Alice through the looking glass.
+The simplest explanation is a Möbian loop which turns
+the light inside out, like a glove; a veritable Alice through the
+looking glass.
+A loop in some other dimension.
 
 <p align="center">
   ⁂
