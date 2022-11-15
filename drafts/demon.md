@@ -243,11 +243,11 @@ lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest."
-He looks about to ensure he has been understood.
+He looks about to ensure he has been understood. "Let us start with
+the definition of temperature..."
 
-A young girl raises her hand. Is she lost? Foster wonders. She does
-not look lost. "Professor
-Foster," she begins. 
+After the lecture, and the usual hour of questions, Foster is packing
+his valise when a young girl approaches. Is she lost? She does not look lost.
 
 <p align="center">
   ⁂
