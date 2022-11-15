@@ -247,15 +247,13 @@ He looks about to ensure he has been understood.
 
 A young girl raises her hand. Is she lost? Foster wonders. She does
 not look lost. "Professor
-Foster," she begins. "Yes?"
+Foster," she begins. 
 
 <p align="center">
   ⁂
   </p>
 
-*1875.* 
-
-Over the course of several months, Ellen calibrates the weights,
+*1875.* Over the course of several months, Ellen calibrates the weights,
  charges, and magnetic fields applied to the birefringent colloids of the Holborn
  detector, to image what she affectionately terms the "blob".
  She eventually concludes that the blob is vast---at
@@ -263,12 +261,6 @@ Over the course of several months, Ellen calibrates the weights,
  a few yards "away" from Chancery House in a direction that no
  lawyer, however advanced his legal sophistry, could point to.
 
-She has pulsed the blob with light to see what it absorbs.
-One evening, it begins to pulse back.
-
-<p align="right">
-«<b>Found you.</b>»
-  </p>
 
 <p align="center">
   ⁂
@@ -314,3 +306,4 @@ discontinued in 1874.-->
 <!--*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the changing shape of the waves. "Where's the go o' that?" she asks passersby. They do not know.-->
 <!-- https://archive.org/details/paper-doi-10_1038_049573a0 -->
 <!-- looks at the framed holograph of the Große Fuge-->
+<!-- «<b>Found you.</b>» -->
