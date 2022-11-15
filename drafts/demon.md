@@ -289,17 +289,9 @@ Marleybone. "Perhaps... perhaps you would like some tea?"
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<b>A Unified Dynamical Theory of Gravitational and Electromagnetic Fields</b> <br>
+<b>Dewar's report for the LPDC, 1870</b> <br>
 
-Maxwell's treatise of 1864 sought to explain the mutual influence of
-charged or magnetised bodies at a distance by the
-hypothesis of an electromagnetic field. I will essay to develop a similar
-theory for Newton's theory of gravity, which not only provides a medium by
-which massive objects may act reciprocally upon one another when separated,
-but by the supposition of an additional spatial dimension (Möbius, Riemann,Hamilton &c), furnishes a
-mechanism to combine gravity and electromagnetism.
-In addition, this predicts small phenomenological departures from the
-results of Maxwell and Faraday, which we might detect by suitably careful experiments...
+asd
 </font>
 </div>
 
