@@ -236,9 +236,10 @@ later describe as "inspired lunacy". Ellen accepts.
 Street, University College, Carey Foster theatrically regards the
 bluestockings assembled to hear about thermodynamics.
 "Heat"---he pauses for effect---"is not merely a trick of the weather, the
-sensible properties of a teapot or a furnace. Its very sensibility is
-evidence that it has measurable physical effects; these effects admit of
-precise determination."
+sensible properties of a teapot or a fireplace in winter. Its very sensibility is
+evidence that it has measurable physical effects; by measurable, we
+mean they admit of precise determination. The goal of these lectures
+will be instruct "
 
 <p align="center">
   ⁂
