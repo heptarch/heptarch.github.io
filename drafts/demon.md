@@ -169,10 +169,10 @@ There is a small discrepancy from the Holborn interferometer.
 She does a quick calculation---guided by the voice---and concludes that one of the rotating
 polarizations is *reversed*.
 She knows the arrangement of reflectors better than the
-veins in her hand; a stray reflection is impossible.
+veins in her hand. A stray reflection is impossible.
 The simplest explanation is a Möbian loop which turns
-the light inside out, like a glove, a loop which lies, like the White
-Queen, through the looking glass.
+the light inside out, like a glove; a loop that lies somewhere
+*beyond* the Looking Glass.
 
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
