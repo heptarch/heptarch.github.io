@@ -263,7 +263,7 @@ your time?" Bright and fearless. "Of course child. How
 might I assist?"
 "I have been carrying out researches into the optical properties of
 magnetised fluids." He must restrain himself from laughing at the absurdity. "In what connection? And
-how, ah, forgive me, could you possibly get access to the necessary
+how, ah, forgive me, how could you possibly get access to the necessary
 equipment?"
 
 A look of "I am employed by the London Pneumatic Despatch Company to do this, and
