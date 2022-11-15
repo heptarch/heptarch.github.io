@@ -289,7 +289,8 @@ Marleybone. "Perhaps... perhaps you would like some tea?"
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<b>Dewar's report for the LPDC, 1870</b> <br>
+ <b>Dewar's report for the LPDC, 1870</b> <br>
+ <i>6 Victoria Street, Westminster</i><br>
 
 asd
 </font>
