@@ -171,7 +171,8 @@ polarizations is *reversed*.
 She knows the arrangement of reflectors better than the
 veins in her hand; a stray reflection is impossible.
 The simplest explanation is a Möbian loop which turns
-the light inside out, like a glove; a loop in some *other* direction.
+the light inside out, like a glove, a loop which lies, like the White
+Queen, through the looking glass.
 
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
