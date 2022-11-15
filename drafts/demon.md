@@ -234,7 +234,7 @@ later describe as "inspired lunacy". Ellen accepts.
 
 *1869.* In the Beethoven Rooms of 27 Harley
 Street, University College, Carey Foster theatrically regards the
-bluestockings assembled to learn about thermodynamics.
+bluestockings who have assembled to learn about thermodynamics.
 "Heat"---he pauses for effect---"is not merely those sensible properties
 of a teapot or a fireplace in winter with which we are all familiar
 and which strike as too commonplace to discuss. It
