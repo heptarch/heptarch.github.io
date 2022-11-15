@@ -267,8 +267,8 @@ how, ah, forgive me, how could you possibly get access to the necessary
 equipment?"
 
 She explains as if it was as commonplace as the teapot. "I am employed
-by the London Pneumatic Despatch Company to do so---much more besides---they have put considerable resources at
-my disposal. But to the point: are you familiar with Maxwell's paper on
+by the London Pneumatic Despatch Company to do so---much more
+besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, that is, the contrivances by which a uniform
 velocity of rotation is maintained in a machine? I have some notions
 on how, by a combination of magnetism and cooling, we might implement
