@@ -305,12 +305,13 @@ solid black; line-height:1.3;">
 </div>
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
-chuckles.
+chuckles, thinking about the recent charade of negotiations with the
+GPO. But something grabs his attention:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-• Concerns: 
+• Forecast: determine the source of interference near Chancery House
 </font>
 </div>
 
