@@ -240,7 +240,7 @@ of a teapot or a fireplace in winter with which we are all familiar
 and which strikes as too commonplace to discuss. It
 lives in the realm of measurable phenomena, and its very sensibility is
 evidence of its effects. If measurable, it must admit of precise
-determination, and in these lectures, we will learn the means by which
+determination, and in these lectures, we will learn the means by which these
 determinations are achieved, and the physical basis on which they rest."
 
 <p align="center">
