@@ -145,8 +145,8 @@ stillness, modulated only by the rhythm of the timetable.
 Humans on average.
 
 Ellen as usual does not enter the Great Hall.
-Instead, she has resolved some disagreement with Carey
-about enathalpy, and walks briskly from the student
+Instead, she has resolved some disagreement with Foster
+about scattering by metal spheres, and walks briskly from the student
 laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
