@@ -62,7 +62,7 @@ breath. "Child," he cries, then cracks into a smile: "What have you found now?"
   ⁂
   </p>
 
-*1874.* Under government pressure, the Post Office pays the London
+*1874.* The Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system for London’s
 mail.
