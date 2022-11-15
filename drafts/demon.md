@@ -270,7 +270,7 @@ equipment?" He leafs theatrically through the notebook without paying attention.
 She explains as if it was as commonplace as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
 besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
-the theory of governors, the mechanical contrivances by which a uniform
+the theory of governors, the mechanical contrivance by which a uniform
 velocity of rotation is maintained? I have some notions
 on how, by a combination of magnetism and cooling, we might apply
 some of these effects to corpuscular machines. But I lack the requisite
