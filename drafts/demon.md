@@ -254,8 +254,7 @@ lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest."
-He looks about to ensure he has been understood. "Let us start with
-the definition of temperature..."
+He looks about to ensure he has been understood. "Let us start by defining temperature..."
 
 After the lecture and questions are finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
