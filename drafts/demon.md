@@ -146,7 +146,7 @@ Humans on average.
 
 Ellen as usual does not enter the Great Hall.
 Instead, she has resolved some disagreement with Foster
-about scattering by metal spheres, and walks briskly from the student
+about the electromagnetic shadow of a sphere, and walks briskly from the student
 laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
 moderator lamp kept on a hook by the entrance.
@@ -237,7 +237,7 @@ later describe as "inspired lunacy". Ellen accepts.
 *1869.* In the Beethoven Rooms of 76 Harley
 Street, Carey Foster anxiously regards the bluestockings assembled to learn thermodynamics.
 "Heat"---he pauses, steadies himself, and fills the room with his voice---"heat is not merely those sensible properties
-of a teapot or a fireplace, with which we are all familiar and
+of a teapot or a fireplace with which we are all familiar, and
 therefore strike as too commonplace to discuss. Heat
 lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
@@ -246,7 +246,8 @@ determinations are made, and the physical basis on which they rest."
 He looks about to ensure he has been understood.
 
 A young girl raises her hand. "Professor
-Foster," she begins. "Are you lost, young lady?"
+Foster," she begins. "Are you lost, young lady?" She smiles. "Far
+from it, Professor.
 
 <p align="center">
   ⁂
