@@ -297,7 +297,7 @@ solid black; line-height:1.3;">
 
 • Budget: £10,000. Expenditure: £9,870 (itemised, enclosed). <br>
 • Improvements: mathematics of gravitoelectromagnetism; sol
-• production; turbine efficiency <br>
+• production; turbine efficiency via governors <br>
 </font>
 </div>
 
