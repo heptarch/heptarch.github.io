@@ -285,7 +285,25 @@ particularly smug look. "Perhaps, ah... perhaps you would like some tea?"
   ⁂
   </p>
 
-*1871.*
+*1871.* An envelope, ironically delivered by coach, arrives on the
+ Chairman's desk in
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+<b>A Unified Dynamical Theory of Gravitational and Electromagnetic Fields</b> <br>
+
+Maxwell's treatise of 1864 sought to explain the mutual influence of
+charged or magnetised bodies at a distance by the
+hypothesis of an electromagnetic field. I will essay to develop a similar
+theory for Newton's theory of gravity, which not only provides a medium by
+which massive objects may act reciprocally upon one another when separated,
+but by the supposition of an additional spatial dimension (Möbius, Riemann,Hamilton &c), furnishes a
+mechanism to combine gravity and electromagnetism.
+In addition, this predicts small phenomenological departures from the
+results of Maxwell and Faraday, which we might detect by suitably careful experiments...
+</font>
+</div>
 
 <p align="center">
   ⁂
@@ -350,3 +368,4 @@ Or it could be an object in another dimension.-->
 <!-- https://www.maths.ed.ac.uk/~v1ranick/papers/maxwell1.pdf-->
 <!-- He has a sudden vision of the sun at dawn, just about to crest
 the horizon.-->
+<!-- https://www.gracesguide.co.uk/Pneumatic_Despatch_Co-->
