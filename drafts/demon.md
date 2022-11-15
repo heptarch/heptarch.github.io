@@ -344,7 +344,7 @@ quay again. The voice intones:
 «<b>tell me, for i would know</b>»
 </div>
 
-Yet it is not only the reverend; it is that melodious suggestive
+Yet it is not only the reverend; there is that melodious suggestive
 power, now discarnate.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
