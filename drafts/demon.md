@@ -171,7 +171,7 @@ There is a small discrepancy in the Holborn interferometer.
 She does a quick calculation and concludes that one of the rotating
 polarizations must be *reversed*.
 She knows the arrangement of reflectors better than the
-veins in her hand; there is no mistaking.
+veins in her hand; there is no mistaking it.
 
 
 <p align="center">
@@ -215,7 +215,8 @@ charged or magnetised bodies at a distance by the
 hypothesis of an electromagnetic field. I will essay to develop a similar
 theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another when separated,
-but by the supposition of an additional spatial dimension, furnishes a
+but by the supposition of an additional spatial dimension (a notion
+developed by Möbius, Riemann and Hamilton among others), furnishes a
 mechanism to combine gravity and electromagnetism.
 In addition, this predicts small phenomenological departures from the
 results of Maxwell and Faraday, which we might detect by suitably careful experimental work...
