@@ -293,7 +293,6 @@ solid black; line-height:1.3;">
  <font size="-0.2">
  <b>Dewar's report for the LPDC, March 1871</b> <br>
  <i>6 Victoria Street, Westminster</i><br>
-
 <ul>
   <li>bla</li>
   <li>bla</li>
