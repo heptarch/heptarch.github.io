@@ -18,7 +18,7 @@ Whole avenues of universes...
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div> <br>
 
-*1876.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
+*1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
