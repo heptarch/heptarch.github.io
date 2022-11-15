@@ -203,10 +203,10 @@ One of these men shares some scientific gossip: a lass, no more
  next morning, curiosity more powerful than the biting lowland cold.
  
 "Davie" Thomson, an immense, stentorian don who must stoop to enter
- the classroom, introduces the young "Miss Dewar" as an
+ the classroom, introduces the young "Miss Watson" as an
  "exceedingly keen pupil of the modern developments". He folds himself into a
  chair in the front row and tenderly motions her to begin.
- Miss Dewar coughs nervously, and after receiving another paternal nod,
+ Miss Watson coughs nervously, and after receiving another paternal nod,
  addresses the room in a high, calm, clear voice:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -228,7 +228,7 @@ results of Maxwell and Faraday, which we might detect by suitably careful experi
 The talk is gibberish to the Duke. The play of symbols, the
 twined threads of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
-living joy in Miss Dewar's eyes, a flame which kindles something in
+living joy in Miss Watson's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
 It is both childlike and strangely unchildlike, with something of the Old Testament
 prophet.
@@ -294,7 +294,7 @@ some tea?"
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- <b>Dewar's Annual Report for the LPDC Board, March 1873</b> <br>
+ <b>E. Watson's Annual Report for the LPDC Board, March 1873</b> <br>
  <i>6 Victoria Street, Westminster</i><br>
 
 • Budget: £10,000. <br>
@@ -323,6 +323,8 @@ Chancery House in a direction that no lawyer, however advanced his legal sophist
 <p align="center">
   ⁂
   </p>
+
+*1874.*
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
