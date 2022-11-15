@@ -265,7 +265,7 @@ magnetised fluids." He must restrain himself from laughing at the absurdity. "In
 how, ah, forgive me, could you possibly get access to the necessary
 equipment?"
 
-"I am employed by the London Pneumatic Despatch Company to do this, and
+A look of "I am employed by the London Pneumatic Despatch Company to do this, and
 much more besides. They have put considerable resources at my
 disposal. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, that is, the contrivances by which a uniform
@@ -275,9 +275,9 @@ some of these ideas for corpuscular machines. But I lack the requisite
 expertise in chemistry."
 
 The absurdity has somewhat changed character. Foster stammers:
-"Corpuscular machines? Ah, you mean molecules?" Beethoven has softened
-somewhat; the sounds of evening traffic float in from
-Marleybone. "Perhaps... perhaps you would like some tea?"
+"Corpuscular machines?" The sounds of evening traffic float in from
+Marleybone. "Ah, you mean molecules?" Beethoven's picture has
+softened. "Perhaps... perhaps you would like some tea?"
 
 <p align="center">
   ⁂
