@@ -168,7 +168,7 @@ melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
 
 There is a small discrepancy from the Holborn interferometer.
-She does a quick calculation and concludes that one of the rotating
+She does a quick calculation---guided by the voice---and concludes that one of the rotating
 polarizations is *reversed*.
 She knows the arrangement of reflectors better than the
 veins in her hand.
