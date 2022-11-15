@@ -246,7 +246,8 @@ later describe as "inspired lunacy". Ellen accepts.
 Street, Carey Foster anxiously regards the bluestockings who have
 assembled to learn about thermodynamics.
 Ludwig van glowers at him from the wall.
-"Heat"---he pauses, steadies himself, and tries to speak over the portrait---"is not merely those sensible properties
+"Heat"---he pauses, steadies himself, and tries to speak over the
+disapproval of the portrait---"is not merely those sensible properties
 of a teapot or a fireplace with which we are all familiar, and
 therefore strike us as too commonplace to discuss. Heat
 lives in the realm of measurable phenomena; its very sensibility gives
