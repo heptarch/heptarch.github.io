@@ -133,7 +133,7 @@ Professor Thomson?"
   ⁂
   </p>
 
-*1870.* Passengers waft like autumn leaves through the doubled cube of the Hall.
+*1872.* Passengers waft like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, where nobody watches, a boy in
