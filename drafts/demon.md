@@ -236,7 +236,7 @@ later describe as "inspired lunacy". Ellen accepts.
 
 *1869.* In the Beethoven Rooms of 76 Harley
 Street, Carey Foster anxiously regards the bluestockings assembled to learn thermodynamics.
-"Heat"---he pauses, steadies himself---"heat is not merely those sensible properties
+"Heat"---he pauses, steadies himself, and fills the room with his voice---"heat is not merely those sensible properties
 of a teapot or a fireplace, with which we are all familiar and
 therefore strike as too commonplace to discuss. Heat
 lives in the realm of measurable phenomena; its very sensibility gives
