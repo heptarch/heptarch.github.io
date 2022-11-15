@@ -244,8 +244,8 @@ lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination, and in these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest."
-He looks about to ensure he has been understood.
 
+He looks about to ensure he has been understood.
 A young girl raises her hand. "Professor
 Foster," she begins. "Are you lost, young lady?"
 
