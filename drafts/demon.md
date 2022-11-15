@@ -332,8 +332,13 @@ Chancery House in a direction that no lawyer, however advanced his legal sophist
 «<b>child, what should you like to do</b>»
 </div>
 
-The voice is part Rev. Dewar, dead these seven years, part
-that melodious power of suggestion, and yet
+The voice of Rev. Dewar, dead these seven years. He appears, greyly,
+now in Kilspindie, now in the granite halls of Marischal, now by the
+quay again.
+
+<div style="text-align: right">
+«<b>tell me</b>»
+</div>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
