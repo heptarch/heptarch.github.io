@@ -238,7 +238,7 @@ later describe as "inspired lunacy". Ellen accepts.
 Street, Carey Foster anxiously regards the bluestockings who have assembled to learn thermodynamics.
 "Heat"---he pauses, steadies himself, and fills the room with his voice---"is not merely those sensible properties
 of a teapot or a fireplace with which we are all familiar, and
-therefore strike as too commonplace to discuss. Heat
+therefore strike us as too commonplace to discuss. Heat
 lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
