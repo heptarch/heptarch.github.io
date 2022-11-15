@@ -273,7 +273,8 @@ the theory of governors? The contrivances by which a uniform
 velocity of rotation is maintained in a machine? I have some notions
 on how, by a combination of magnetism and cooling, we might apply
 some of these effects to corpuscular machines. But I lack the requisite
-expertise in chemistry."
+expertise in chemistry. I remember you stating in your lectures on
+acoustics that you had studied with Kekule."
 
 The absurdity has somewhat changed character. Foster stammers:
 "Corpuscular machines?" The sounds of evening traffic float in from
