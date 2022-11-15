@@ -344,8 +344,8 @@ quay again. The voice intones:
 «<b>tell me, for i would know</b>»
 </div>
 
-Yet it is not only the reverend; also, in part, that melodious voice
-of suggestion, discarnate.
+Yet it is not only the reverend; it is that melodious suggestive
+power, now discarnate.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
