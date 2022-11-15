@@ -262,18 +262,20 @@ look lost. "Professor Foster, I wonder if I might have a moment of
 your time?" The great composer looks on. "Ah, of course child. How might I assist?"
 
 "I have been carrying out researches into the optical properties of
-magnetised fluids." He must restrain himself from laughing at the absurdity. "Ah, in what connection? And
-how, forgive me, could you possibly get access, that is, to the necessary
+magnetised fluids." He must restrain himself from laughing at the absurdity. "In what connection? And
+how, ah, forgive me, could you possibly get access, that is, to the necessary
 equipment?"
 
 "I am employed by the London Pneumatic Despatch Company to do this, and
-much more besides, and they have put considerable resources at my
+much more besides. They have put considerable resources at my
 disposal. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, that is, the contrivances by which a uniform
 velocity of rotation is maintained in a machine? I have some notions
 on how, by a combination of magnetism and cooling, we might implement
 some of these ideas for corpuscular machines. But I lack the requisite
-expertise in chemistry." The absurdity has somewhat changed character. Foster stammers:
+expertise in chemistry."
+
+The absurdity has somewhat changed character. Foster stammers:
 "Corpuscular machines? Ah, you mean molecules?" Beethoven has softened
 somewhat; the sounds of evening traffic float in from
 Marleybone. "Perhaps... perhaps you would like some tea?"
