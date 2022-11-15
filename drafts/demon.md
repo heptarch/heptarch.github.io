@@ -235,11 +235,12 @@ later describe as "inspired lunacy". Ellen accepts.
 *1869.* In the Beethoven Rooms of 27 Harley
 Street, University College, Carey Foster theatrically regards the
 bluestockings assembled to hear about thermodynamics.
-"Heat"---he pauses for effect---"is not merely a trick of the weather, the
-sensible properties of a teapot or a fireplace in winter. Its very sensibility is
-evidence that it has measurable physical effects; by measurable, we
-mean they admit of precise determination. The goal of these lectures
-will be instruct "
+"Heat"---he pauses for effect---"is not merely those sensible properties
+of a teapot or a fireplace in winter that we are all familiar with. It
+lives in realm of measurable phenomena, and its very sensibility is
+evidence of its effects. If measurable, it must admit of precise
+determination, and in these lectures, we will learn the means by which
+determinations are achieved, and the physical basis on which they rest."
 
 <p align="center">
   ⁂
