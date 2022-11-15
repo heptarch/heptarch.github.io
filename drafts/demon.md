@@ -260,15 +260,20 @@ the definition of temperature..."
 After the lecture is finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
 look lost. "Professor Foster, I wonder if I might have a moment of
-your time?" He has a sudden vision of the sun at dawn, just about to crest
-the horizon. "Of course child. How can I help?"
+your time?" He has a sudden vision of the great composer, watching
+their exchange. "Of course child. How can I help?"
 
 "I have been carrying out researches into the optical properties of
 magnetised fluids."
 
-Foster must restrain himself from laughing. "In what connection? And
+He must restrain himself from laughing at the absurdity of it. "In what connection? And
 how, forgive me, could you possibly get access to the necessary
 equipment?"
+
+"I am employed by the London Pneumatic Despatch Company to do this and
+more besides. They have put *considerable* resources at my
+disposal. But to the point: are you familiar with Maxwell's paper on
+governors? These are mechanisms
 
 <p align="center">
   ⁂
@@ -330,3 +335,6 @@ discontinued in 1874.-->
 <!-- «<b>Found you.</b>» -->
 <!--It could be dead rats in the tubes again, blocking the light.
 Or it could be an object in another dimension.-->
+<!-- https://www.maths.ed.ac.uk/~v1ranick/papers/maxwell1.pdf-->
+<!-- He has a sudden vision of the sun at dawn, just about to crest
+the horizon.-->
