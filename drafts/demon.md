@@ -304,6 +304,8 @@ solid black; line-height:1.3;">
 </font>
 </div>
 
+Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville chuckles.
+
 <p align="center">
   ⁂
   </p>
