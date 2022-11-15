@@ -296,8 +296,8 @@ solid black; line-height:1.3;">
  <i>6 Victoria Street, Westminster</i><br>
 
 • Budget: £10,000. Expenditure: £9,870 (itemised, enclosed). <br>
-• Improvements: mathematics of gravitoelectromagnetism; sol
-• production; turbine efficiency via governors <br>
+• Improvements: mathematics of gravitoelectromagnetism; sol production; turbine efficiency via governors <br>
+• Novel Initiatives:
 </font>
 </div>
 
