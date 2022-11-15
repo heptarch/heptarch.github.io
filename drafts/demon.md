@@ -60,8 +60,8 @@ Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system for London’s
 mail.
 It is to consist of tubes laid with narrow-gauge rail, the air sucked out
-by spinning iron turbines, 20 feet wide and driven by the Hephaestian
-piston of a Cornish engine.
+by spinning iron turbines, 20-foot wide and driven by the Hephaestian
+pistons of a Cornish engine.
 Mail capsules will be loaded up and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
 Construction commences in 1863 with a successful trial between Euston Square and the North
