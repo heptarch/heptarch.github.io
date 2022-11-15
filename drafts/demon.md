@@ -105,8 +105,8 @@ To return.
 </span>
 
 "I... I feared as much. Susan is too ill to travel to Aberdeen, but we
-want what is best for you, and what He clearly wills with his living
-breath, this beannachd ann an còmhdach.<label for="sn-3"
+want what is best for you, and what He clearly wills with His living
+breath by this beannachd ann an còmhdach.<label for="sn-3"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
