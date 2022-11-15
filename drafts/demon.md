@@ -232,11 +232,10 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-*1872.* In the Beethoven Rooms of 27 Harley
-Street, University College, an intense 
-assembled bluestockings.
-"Thermodynamics"---he pauses for dramatic effect---"
-Thaddeus S. C. Lowe
+*1869.* In the Beethoven Rooms of 27 Harley
+Street, University College, Carey Foster regards the bluestockings
+assembled to hear about Dynamics and Heat.
+"Heat"---he pauses for dramatic effect---"
 
 <p align="center">
   ⁂
@@ -267,6 +266,8 @@ One evening, it begins to pulse back.
  York City, diverts to Halifax in heavy weather and strikes a rock off
  Marr's Head.
  One C. Watson is listed as missing.
+
+Thaddeus S. C. Lowe
 
 <p align="center">
   ⁂
@@ -301,3 +302,4 @@ discontinued in 1874.-->
 <!--*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
 changing shape of the waves. "Where's the go o' that?" she asks
 passersby. They do not know.-->
+<-- https://archive.org/details/paper-doi-10_1038_049573a0 --?
