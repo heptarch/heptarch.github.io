@@ -305,7 +305,7 @@ solid black; line-height:1.3;">
 </div>
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
-chuckles, thinking about the recent charade of negotiations with the
+chuckles, thinking about the charade of negotiation with the
 GPO. But something grabs his attention:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
