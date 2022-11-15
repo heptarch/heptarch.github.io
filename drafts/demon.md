@@ -337,7 +337,7 @@ now in Kilspindie, now in the granite halls of Marischal, now by the
 quay again.
 
 <div style="text-align: right">
-«<b>tell me, for i should like to know</b>»
+«<b>tell me, for i would know</b>»
 </div>
 
 Yet it is not only the reverend; also, in part, that melodious voice
