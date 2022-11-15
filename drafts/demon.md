@@ -260,8 +260,8 @@ the definition of temperature..."
 After the lecture is finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
 look lost. "Professor Foster, I wonder if I might have a moment of
-your time?" He has an inexplicable vision of the sun at dawn, just about to crest
-the horizon. "Ah, of course, of course child. How can I help?" 
+your time?" He has a sudden vision of the sun at dawn, just about to crest
+the horizon. "Of course child. How can I help?" 
 
 <p align="center">
   ⁂
