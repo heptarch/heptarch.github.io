@@ -234,7 +234,7 @@ later describe as "inspired lunacy". Ellen accepts.
 
 *1869.* In the Beethoven Rooms of 27 Harley
 Street, University College, Carey Foster theatrically regards the
-bluestockings assembled to hear about thermodynamics.
+bluestockings assembled to learn about thermodynamics.
 "Heat"---he pauses for effect---"is not merely those sensible properties
 of a teapot or a fireplace in winter that we are all familiar with. It
 lives in realm of measurable phenomena, and its very sensibility is
@@ -304,7 +304,5 @@ discontinued in 1874.-->
 <!-- https://en.wikipedia.org/wiki/Thaddeus_S._C._Lowe-->
 <!-- https://www.nationalgalleries.org/art-and-artists/27451/rev-daniel-dewar-presbyterian-minister-glasgow-->
 <!-- https://en.wikipedia.org/wiki/Amygdule-->
-<!--*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
-changing shape of the waves. "Where's the go o' that?" she asks
-passersby. They do not know.-->
-<-- https://archive.org/details/paper-doi-10_1038_049573a0 --?
+<!--*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the changing shape of the waves. "Where's the go o' that?" she asks passersby. They do not know.-->
+<!-- https://archive.org/details/paper-doi-10_1038_049573a0 -->
