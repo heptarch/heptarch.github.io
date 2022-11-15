@@ -48,8 +48,15 @@ A devilish shape, she concludes, grinning, and switches it off.
   </p>
 
 *1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
-changing shape of the waves. "Where's the go o' that?" she asks
-passersby. They do not know.
+changing shape of the waves. "Ciamar?"<label for="sn-4"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-4"
+       class="margin-toggle"/>
+<span class="sidenote">How?</span> she asks passersby. They do not
+know. An old man arrives from Marischal Street, out of
+breath. "Child," he cries, then smiles: "What have you found now?"
 
 <p align="center">
   ⁂
@@ -291,3 +298,6 @@ discontinued in 1874.-->
 <!-- https://en.wikipedia.org/wiki/Thaddeus_S._C._Lowe-->
 <!-- https://www.nationalgalleries.org/art-and-artists/27451/rev-daniel-dewar-presbyterian-minister-glasgow-->
 <!-- https://en.wikipedia.org/wiki/Amygdule-->
+<!--*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
+changing shape of the waves. "Where's the go o' that?" she asks
+passersby. They do not know.-->
