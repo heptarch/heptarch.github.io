@@ -259,8 +259,8 @@ He stops to ensure he has been understood. "Let us start by defining temperature
 After the lecture and questions are finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
 look lost. "Professor Foster, I wonder if I might have a moment of
-your time?" The great composer looks on. "Ah, of course child. How might I assist?"
-
+your time?" The great composer looks on. "Ah, of course child. How
+might I assist?" 
 "I have been carrying out researches into the optical properties of
 magnetised fluids." He must restrain himself from laughing at the absurdity. "In what connection? And
 how, ah, forgive me, could you possibly get access, that is, to the necessary
