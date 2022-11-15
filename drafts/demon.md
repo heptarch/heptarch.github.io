@@ -319,7 +319,7 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*1875.* Over the course of several months, Ellen calibrates the weights,
+*1874.* Over the course of several months, Ellen calibrates the weights,
  charges, and magnetic fields applied to the birefringent colloids of the Holborn
  detector, to image what she affectionately terms the "blob".
  She eventually concludes that the blob is vast---at
