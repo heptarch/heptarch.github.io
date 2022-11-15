@@ -166,10 +166,9 @@ radiate from the junction into the dark of other machine banks.
 She is about to start the Holborn cleaning cycle, but intuition---that
 melodious voice which, not hers, has yet always accompanied her---tells her
 to check the readings again.
-There is a small discrepancy in the Holborn interferometer.
 
-It could be dead rats in the tubes again, blocking the light.
-But perhaps the light has been scattered *away*.
+There is a small discrepancy in the Holborn interferometer.
+She does a quick calculation and notes that *both polarizations must be reversed*.
 
 <p align="center">
   ⁂
@@ -313,3 +312,5 @@ discontinued in 1874.-->
 <!-- https://archive.org/details/paper-doi-10_1038_049573a0 -->
 <!-- looks at the framed holograph of the Große Fuge-->
 <!-- «<b>Found you.</b>» -->
+<!--It could be dead rats in the tubes again, blocking the light.
+Or it could be an object in another dimension.-->
