@@ -306,38 +306,19 @@ solid black; line-height:1.3;">
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
 chuckles, thinking about the charade of negotiation with the
-GPO. But something grabs his attention:
+GPO.
+But one item grabs his attention:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-• Forecast: determine the source of interference near Chancery House.
+• Forecast: determine the source of interference near Chancery House; ...
 </font>
 </div>
 
-<p align="center">
-  ⁂
-  </p>
-
-*1874.* Over the course of several months, Ellen calibrates the weights,
- charges, and magnetic fields applied to the birefringent colloids of the Holborn
- detector, to image what she affectionately terms the "blob".
- She eventually concludes that the blob is vast---at
- least several thousand yards in diameter, probably much more---and floats
- a few yards "away" from Chancery House in a direction that no
- lawyer, however advanced his legal sophistry, could point to.
-
-
-<p align="center">
-  ⁂
-  </p>
-
-*1873.* The RMS *Atlantic*, a steam liner bound from Liverpool to New
- York City, diverts to Halifax in heavy weather and strikes a rock off
- Marr's Head.
- One C. Watson is listed as missing.
-
-Thaddeus S. C. Lowe
+So, it wasn't dead rats in the Holborn despatch tube again.
+It must be---as Ellen had initially hoped---an opaque body, floating "away" from
+Chancery House in a direction that no lawyer, however advanced his legal sophistry, could point to.
 
 <p align="center">
   ⁂
