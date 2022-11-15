@@ -126,7 +126,7 @@ Professor Thomson?"
 
 "Will I see the stars again?"
 
-"Yes child."
+"Yes child. Yes."
 
 <p align="center">
   ⁂
