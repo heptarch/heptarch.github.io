@@ -168,8 +168,8 @@ melodious voice which, not hers, has yet always accompanied her---tells her
 to check the readings again.
 There is a small discrepancy in the Holborn interferometer.
 
-It could be dead rats in the tubes, blocking the light.
-Or it could be an object in another dimension.
+It could be dead rats in the tubes again, blocking the light.
+But perhaps the light has been scattered *away*.
 
 <p align="center">
   ⁂
