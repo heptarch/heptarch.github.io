@@ -325,7 +325,7 @@ Chancery House in a direction that no lawyer, however advanced his legal sophist
   </p>
 
 *1874.* In a dream, Ellen returns to Trinity Quay; it is like
- childhood but bathed in a gentle greyness, as if the light cannot quite touch
+ childhood, and bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls on.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
