@@ -207,7 +207,7 @@ One of these men shares some scientific gossip: a lass, no more
  "exceedingly keen pupil of the modern developments". He folds himself into a
  chair in the front row and tenderly motions her to begin.
  Miss Dewar coughs nervously, and after receiving another paternal nod,
- addresses the small audience in a high, calm, clear voice:
+ addresses the room in a high, calm, clear voice:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
