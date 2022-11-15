@@ -286,14 +286,15 @@ some tea?" The composer looks on with amusement.
   ⁂
   </p>
 
-*1871.* An envelope, ironically delivered by coach, arrives on the
+*1873.* An envelope, ironically delivered by coach, arrives on the
  Chairman's desk. Inside:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- <b>Dewar's report for the LPDC, March 1871</b> <br>
+ <b>Dewar's report for the LPDC, March 1873</b> <br>
  <i>6 Victoria Street, Westminster</i><br>
+ Budget: £10,000
 <ul>
   <li>bla</li>
   <li>bla</li>
