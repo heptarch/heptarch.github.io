@@ -156,7 +156,7 @@ As it begins the slow descent to the
 tunnels, the hum of coils and windings gets louder;
 Ellen feels as if she is becoming her true self once more: a self
 which expands through the old network, which winds in arcs of jagged light
-through the silvered despatch tubes and magnetized colloids.
+through the despatch tubes, reflectors, and magnetized colloids.
 
 The frog disgorges her at a junction of six tunnels, a few meters
 across and choked with machinery. Ellen puts the lamp on a cluttered
@@ -168,7 +168,10 @@ melodious voice which, not hers, has yet always accompanied her---tells her
 to check the readings again.
 
 There is a small discrepancy in the Holborn interferometer.
-She does a quick calculation and notes that *both polarizations must be reversed*.
+She does a quick calculation and concludes that one of the rotating
+polarizations is *reversed*.
+She knows the number and arrangement of reflectors better than the
+veins in her hand;
 
 <p align="center">
   ⁂
