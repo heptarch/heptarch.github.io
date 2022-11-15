@@ -292,12 +292,11 @@ some tea?"
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- <b>Dewar's report for the LPDC, March 1873</b> <br>
+ <b>Dewar's report for the LPDC board, March 1873</b> <br>
  <i>6 Victoria Street, Westminster</i><br>
 
-• Budget: £10,000 <br>
-• Expenditure: £9,870 (itemised, enclosed) <br>
-• <br>
+• Budget: £10,000. Expenditure: £9,870 (itemised, enclosed) <br>
+• Achieved <br>
 </font>
 </div>
 
