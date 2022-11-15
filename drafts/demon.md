@@ -82,7 +82,6 @@ Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
 A white-haired professor and a young woman are rumored to wander about
 and attend to the machines.
-
 The network is abandoned, but something bigger is already finished.
 
 <p align="center">
@@ -223,7 +222,7 @@ later describe as "inspired lunacy". Ellen accepts.
   </p>
 
 *1872.* In the Beethoven Rooms of 27 Harley
-Street, University College, a shy, gaunt youth grins at the
+Street, University College, an intense 
 assembled bluestockings.
 "Thermodynamics"---he pauses for dramatic effect---"
 Thaddeus S. C. Lowe
