@@ -166,7 +166,6 @@ radiate from the junction into the dark of other machine banks.
 She is about to start the cleaning cycle, but intuition---that
 melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
-
 There is a small discrepancy from the Holborn interferometer.
 She does a quick calculation---guided by the voice---and concludes that one of the rotating
 polarizations is *reversed*.
