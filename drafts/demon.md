@@ -251,7 +251,7 @@ the definition of temperature..."
 After the lecture is finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
 look lost. "Professor Foster, I wonder if I might have a moment of
-your time."
+your time?" He assents. "Of course child. How can I help you?" 
 
 <p align="center">
   ⁂
