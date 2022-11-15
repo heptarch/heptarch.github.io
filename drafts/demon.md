@@ -278,7 +278,14 @@ some of these ideas for corpuscular machines. But I lack the requisite
 expertise in chemistry."
 
 The absurdity has somewhat changed character. Foster stammers:
-"Corpuscular machines? Ah, you mean molecules?"
+"Corpuscular machines? Ah, you mean molecules?" Beethoven now has a
+particularly smug look. "Perhaps, ah... perhaps you would like some tea?"
+
+<p align="center">
+  ⁂
+  </p>
+
+*1871.*
 
 <p align="center">
   ⁂
