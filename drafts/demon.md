@@ -163,10 +163,12 @@ across and choked with machinery. Ellen puts the lamp on a cluttered
 desk and begins checking the instruments, adjusting,
 configuring, jotting down readings, pulling on wires which
 radiate from the junction into the dark of other machine banks.
-She is about to start the Holborn cleaning cycle, but some premonitory
-instinct stops her; she checks the readings again and notes a small
-discrepancy. It could be dead rats in the tubes, blocking the light.
+She is about to start the Holborn cleaning cycle, but intuition---that
+melodious voice, not hers, yet has always accompanied her---tells her
+to check the readings again.
+There is a small discrepancy in the Holborn interferometer.
 
+It could be dead rats in the tubes, blocking the light.
 Or it could be an object in another dimension.
 
 <p align="center">
@@ -251,7 +253,7 @@ the definition of temperature..."
 After the lecture is finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
 look lost. "Professor Foster, I wonder if I might have a moment of
-your time?" He assents. "Of course child. How can I help you?" 
+your time?" He has a presentiment. "Of course child. How can I help you?" 
 
 <p align="center">
   ⁂
