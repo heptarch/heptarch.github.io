@@ -326,7 +326,7 @@ Chancery House in a direction that no lawyer, however advanced his legal sophist
 
 *1874.* In a dream, Ellen returns to Trinity Quay; it is like
  childhood, and bathed in a gentle greyness, as if the light cannot quite touch
- the objects it falls on.
+ the objects it falls upon.
 
 <div style="text-align: right">
 «<b>child, what should you like to do</b>»
