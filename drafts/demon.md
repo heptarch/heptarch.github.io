@@ -337,7 +337,7 @@ legal sophistry, could point to.
 grey, and becomes labored:
 
 <div style="text-align: right; color:silver;">
-«<b>your section—transversal—</b>»
+«<b>your section—transversal point—</b>»
 </div>
 
 The figure has faded into the greyness. There is no quay. There is
