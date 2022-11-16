@@ -327,12 +327,13 @@ legal sophistry, could point to.
 
 *1874.* In a dream, Ellen returns to Trinity Quay; it is like
  childhood, but bathed in gentle greyness, as if the light cannot quite touch
- the objects it falls upon. A figure in black---Reverend Dewar? Davie?---sits by the
- water.
- They stand, much too tallly, 
+ the objects it falls upon. A black-cloaked figure---Reverend Dewar?
+ Professor Davie?---sits, facing away from her and towards the water.
+ They unfold themselves, like Davie used to do, but much too tallly,
+ and do not turn.
 
 <div style="text-align: right">
-«<b>the veem</b>»
+«<b>the veem ate my face</b>»
 </div>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
