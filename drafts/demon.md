@@ -334,7 +334,7 @@ legal sophistry, could point to.
 </div>
 
 "I'm sorry?" The voice belongs to neither. It too is somehow
-grey, and becomes stretched, as if by great effort:
+grey, and becomes labored:
 
 <div style="text-align: right; color:silver;">
 «<b>your section—transversal—</b>»
