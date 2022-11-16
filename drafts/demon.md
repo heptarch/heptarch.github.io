@@ -336,7 +336,7 @@ legal sophistry, could point to.
 "I'm sorry?" The voice belongs to neither, and it too is somehow grey.
 
 <div style="text-align: right; color:whitesmoke;">
-«<b>your section---of---transversal</b>»
+«<b>your section—transversal—...</b>»
 </div>
 
 The figure has faded into the greyness. She looks up, to find a
