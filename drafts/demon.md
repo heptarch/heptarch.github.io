@@ -324,7 +324,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1874.* In a dream, Ellen returns to Trinity Quay; it is like
+*1873.* In a dream, Ellen returns to Trinity Quay; it is like
  childhood, but bathed in gentle greyness, as if the light cannot quite touch
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
@@ -349,7 +349,7 @@ She wakes feeling sick.
   ⁂
   </p>
 
-*1856.* "Katherine, you cannot 
+*1856.* "Katherine, you cannot keep it."
 
 <p align="center">
   ⁂
