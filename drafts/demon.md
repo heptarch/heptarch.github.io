@@ -311,7 +311,7 @@ He skips past patents and maintainance summaries to the yearly planning:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-... determine the source of interference near Chancery House; ...
+ determine the source of interference near Chancery House
 </font>
 </div>
 
