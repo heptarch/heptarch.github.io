@@ -330,7 +330,8 @@ legal sophistry, could point to.
 
 *1874.* In a dream, Ellen returns to Trinity Quay; it is like
  childhood, but bathed in gentle greyness, as if the light cannot quite touch
- the objects it falls upon.
+ the objects it falls upon. Someone---Reverend Dewar?---sits by the
+ water.
 
 <div style="text-align: right">
 «<b>tell me, for i would know</b>»
