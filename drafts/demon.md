@@ -316,7 +316,7 @@ solid black; line-height:1.3;">
 </div>
 
 Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
-It must be---as Ellen had hoped---an opaque body, floating "away" from
+It must be---as Ellen had hoped---an opaque body, hovering near
 Chancery House in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
 
