@@ -333,7 +333,7 @@ legal sophistry, could point to.
 «<b>the veem ate my face</b>»
 </div>
 
-"I'm sorry?" The voice belongs to neither. It too is somehow grey.
+"I'm sorry?" The voice belongs to neither, and it too is somehow grey.
 
 <div style="text-align: right; color:grey;">
 «<b>your section---of---transversal</b>»
