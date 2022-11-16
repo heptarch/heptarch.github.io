@@ -339,8 +339,13 @@ legal sophistry, could point to.
 «<b>your section—transversal—...</b>»
 </div>
 
-The figure has faded into the greyness. She looks up, to find a
-rippling skin of stars; far too many, and all unfamiliar.
+The figure has faded into the greyness. She looks up to find a
+rippling skin of stars; far too many, and none of them familiar.
+She wakes feeling sick.
+
+<p align="center">
+  ⁂
+  </p>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
