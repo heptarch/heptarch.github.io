@@ -300,7 +300,8 @@ solid black; line-height:1.3;">
 • Budget: £10,000. <br>
 • Expenditure: £9,870 (itemised, enclosed). <br>
 • Improvements: birefringent colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
-• New: inquiries regarding optical corpuscles; preliminary Möbian daemon w. gravitoelectromagntic control.
+• New: inquiries regarding optical corpuscles; preliminary Möbian
+• daemon w. gravitoelectromagnetic control; ...
 </font>
 </div>
 
@@ -328,20 +329,8 @@ legal sophistry, could point to.
   </p>
 
 *1874.* In a dream, Ellen returns to Trinity Quay; it is like
- childhood, but bathed in a gentle greyness, as if the light cannot quite touch
- the objects it falls upon.
-
-<div style="text-align: right">
-«<b>child, what should you like to do</b>»
-</div>
-
-The voice of Rev. Dewar, dead these seven years. He appears, greyly,
-now in Kilspindie, now in the granite halls of Marischal, now by the
-quay again.
-
-<div style="text-align: right">
-«<b>tell me, for i would know</b>»
-</div>
+ childhood, but bathed in gentle greyness, as if the light cannot quite touch
+ the objects it falls upon. A star,
 
 But it is not quite the reverend; it is mingled with her own melodious
 power of suggestion. And yet something else...
