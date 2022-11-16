@@ -328,18 +328,18 @@ legal sophistry, could point to.
  childhood, but bathed in gentle greyness, as if the light cannot quite touch
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
- There are far too many stars, and they are unfamiliar.
- The figure does not turn.
 
 <div style="text-align: right">
 «<b>the veem ate my face</b>»
 </div>
 
-"I'm sorry?"
+"I'm sorry?" The voice belongs to neither. It too is somehow grey.
 
 <div style="text-align: right">
 «<b>the veem ate my face</b>»
 </div>
+
+She looks up, to find a rippling skin of stars; far too many, and all unfamiliar.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
