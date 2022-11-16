@@ -324,8 +324,14 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1873.* In a dream, Ellen returns to Trinity Quay; it is like
- childhood, but bathed in gentle greyness, as if the light cannot quite touch
+*1856.*
+
+<p align="center">
+  ⁂
+  </p>
+
+*1873.* In a dream, Ellen returns to Trinity Quay, like
+ childhood but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
 
@@ -334,21 +340,15 @@ legal sophistry, could point to.
 </div>
 
 "I'm sorry?" The voice belongs to neither. It too is somehow
-grey, and becomes labored:
+grey.
 
 <div style="text-align: right; color:silver;">
 «<b>your section—transversal point—</b>»
 </div>
 
-The figure has faded into the greyness. There is no quay. There is
+The figure fades into the greyness. There is no quay. There is
 only the sky, with its rippling skin of stars; far too many,
 far too bright, and none of them familiar.
-
-<p align="center">
-  ⁂
-  </p>
-
-*1856.* "Katherine, you cannot keep it."
 
 <p align="center">
   ⁂
