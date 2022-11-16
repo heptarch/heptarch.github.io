@@ -335,11 +335,12 @@ legal sophistry, could point to.
 
 "I'm sorry?" The voice belongs to neither. It too is somehow grey.
 
-<div style="text-align: right">
-«<b>the veem ate my face</b>»
+<div style="text-align: right; color:grey;">
+«<b>your section---of---transversal</b>»
 </div>
 
-She looks up, to find a rippling skin of stars; far too many, and all unfamiliar.
+The figure has faded into the greyness. She looks up, to find a
+rippling skin of stars; far too many, and all unfamiliar.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
