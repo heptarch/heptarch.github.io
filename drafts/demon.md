@@ -298,9 +298,8 @@ solid black; line-height:1.3;">
 
 • Budget: £10,000. <br>
 • Expenditure: £9,870 (itemised, enclosed). <br>
-• Improvements: birefringent colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
-• New: inquiries regarding optical corpuscles; preliminary Möbian
-• daemon w. gravitoelectromagnetic control; ...
+• Improvements: sol production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
+• New: preliminary Möbian daemon w. gravitoelectromagnetic control; ...
 </font>
 </div>
 
