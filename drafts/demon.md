@@ -330,7 +330,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1873.* In a dream, Ellen returns to Trinity Quay, like
+*1873.* In a dream, Ellen returns to Trinity Quay at night. It is like
  childhood but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
