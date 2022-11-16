@@ -341,9 +341,8 @@ grey, and becomes stretched, as if by great effort:
 </div>
 
 The figure has faded into the greyness. There is no quay. There is
-only the sky above her, with its rippling skin of stars; far too many,
+only the sky, with its rippling skin of stars; far too many,
 far too bright, and none of them familiar.
-She wakes feeling sick.
 
 <p align="center">
   ⁂
