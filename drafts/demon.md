@@ -333,18 +333,6 @@ legal sophistry, could point to.
  childhood but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
-
-<div style="text-align: right; color:grey;">
-«<b>the veem ate my face</b>»
-</div>
-
-"I'm sorry?" The voice belongs to neither. It too is somehow
-grey.
-
-<div style="text-align: right; color:silver;">
-«<b>your section—transversal—</b>»
-</div>
-
 The figure fades into the greyness. There is no quay. There is
 only the sky, with its rippling skin of stars; far too many,
 far too bright, and none of them familiar.
