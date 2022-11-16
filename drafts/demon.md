@@ -332,7 +332,7 @@ legal sophistry, could point to.
  They stand, much too tallly, 
 
 <div style="text-align: right">
-«<b>tell me, for i would know</b>»
+«<b>the veem</b>»
 </div>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
