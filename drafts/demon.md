@@ -329,8 +329,8 @@ legal sophistry, could point to.
  childhood, but bathed in gentle greyness, as if the light cannot quite touch
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
- They unfold themselves, like Davie used to do, but much too tallly,
- and do not turn.
+ There are far too many stars, and they are unfamiliar.
+ The figure does not turn.
 
 <div style="text-align: right">
 «<b>the veem ate my face</b>»
