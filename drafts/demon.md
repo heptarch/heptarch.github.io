@@ -329,7 +329,7 @@ legal sophistry, could point to.
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
 
-<div style="text-align: right">
+<div style="text-align: right; color:grey;">
 «<b>the veem ate my face</b>»
 </div>
 
