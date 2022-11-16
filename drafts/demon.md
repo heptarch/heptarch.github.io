@@ -314,7 +314,7 @@ One item grabs his attention:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-... determine the source of interference near Chancery House.
+... determine the source of interference near Chancery House; ...
 </font>
 </div>
 
