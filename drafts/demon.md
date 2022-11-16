@@ -339,8 +339,9 @@ legal sophistry, could point to.
 «<b>your section—transversal—...</b>»
 </div>
 
-The figure has faded into the greyness. She looks up to find a
-rippling skin of stars; far too many, and none of them familiar.
+The figure has faded into the greyness. There is no quay. There is
+only the sky above her, with its rippling skin of stars; far too many,
+far too bright, and none of them familiar.
 She wakes feeling sick.
 
 <p align="center">
