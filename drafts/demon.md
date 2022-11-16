@@ -265,7 +265,7 @@ might I assist?" She proffers a notebook.
 "I have been carrying out researches into the optical properties of
 magnetised fluids." He must restrain himself from laughing at the absurdity. "In what connection? And
 how, ah, forgive me, how could you possibly get access to the necessary
-equipment?" He leafs theatrically through the notebook without paying attention.
+equipment?" He leafs theatrically through the notebook. A bunch of scribbles...
 
 She explains as if it was as commonplace as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
@@ -275,8 +275,8 @@ velocity of rotation is maintained? I have some notions
 on how, by a combination of magnetism and cooling, we might apply
 some of these effects to corpuscular machines. But I lack the requisite
 expertise in chemistry. I remember you stating in your lectures on
-acoustics that you had studied with Kekulé." The notebook swims
-before him: equations, schematics, scattered exclamations of EYPHKA!
+acoustics that you had studied with Kekulé." The notebook becomes
+suddenly clear: equations, engineering schematics, scattered exclamations of EYPHKA!
 The absurdity has somewhat changed character.
 
 Beethoven looks on with amusement. Foster stammers:
