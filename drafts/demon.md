@@ -318,11 +318,10 @@ solid black; line-height:1.3;">
 </font>
 </div>
 
-So, it wasn't dead rats in the Holborn despatch tube again.
-It must be---as Ellen had initially hoped---an opaque body, floating "away" from
+Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
+It must be---as Ellen had hoped---an opaque body, floating "away" from
 Chancery House in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
-The Duke chuckles again, and throws the envelope in the fire.
 
 <p align="center">
   ⁂
