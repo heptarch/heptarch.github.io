@@ -336,8 +336,8 @@ legal sophistry, could point to.
 "I'm sorry?" The voice belongs to neither. It too is somehow
 grey, and becomes stretched, as if by great effort:
 
-<div style="text-align: right; color:lightgrey;">
-«<b>your section—transversal—...</b>»
+<div style="text-align: right; color:silver;">
+«<b>your section—transversal—</b>»
 </div>
 
 The figure has faded into the greyness. There is no quay. There is
