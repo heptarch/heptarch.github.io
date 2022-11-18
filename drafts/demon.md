@@ -332,8 +332,8 @@ legal sophistry, could point to.
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. The sky is a rippling skin of stars;
  far too many, and none of them familiar.
- By the water is a conical pile of some crumpled, granular
- material---ash? snakeskin?---and which appears to be slowly
+ By the water is a conical pile of matter---ash? snakeskin? something
+ crumpled or granular---and which appears to be slowly
  spreading.
 
 <p align="right">
