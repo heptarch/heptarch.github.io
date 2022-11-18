@@ -309,7 +309,7 @@ solid black; line-height:1.3;">
 </div>
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
-chuckles, thinking of that inclement morning in Aberdeen.
+chuckles, thinking of that frigid morning in Aberdeen.
 He skips past patents and maintainance summaries to the yearly planning:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
@@ -330,15 +330,14 @@ legal sophistry, could point to.
 
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
- the objects it falls upon. The sky is a rippling skin of stars;
- far too many, and none of them familiar.
- By the water is a rough cone of matter---ash? snakeskin?---which
- appears to be spreading.
- "Is this Trinity Quay?"
+ the objects it falls upon.
+ A small wooden boat is moored where the Kirkland ferry usually
+ departs.
+ She hops in and begins rowing with a smooth greyness of motion,
+ almost without resistance.
 
-<p align="right">
-«<b>close enough</b>»
-  </p>
+The sky is a rippling skin of stars;
+ far too many, and none of them familiar.
 
 <p align="center">
   ⁂
