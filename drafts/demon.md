@@ -349,7 +349,7 @@ A pause. "And how am I to view her?" The dwindling flame is his answer.
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
  departs.
- Ellen is drawn ineluctably into it, and immediately, without effort, it begins to move, gaining
+ Ellen is drawn ineluctably towards it, and immediately, without effort, it begins to move, gaining
  speed from Victoria dock into the turning basin, and then outwards,
  outwards to the North Sea.
  Now they are hurtling, the oars
@@ -366,7 +366,7 @@ knows she has become her own mirror image.
 Facing now to the North Sea, she sees the immense wall of ice from
 which they have rebounded, and through which she can
 faintly see, like a finger pressed against the inside of a glass, the
-ashen outlines of a shopfront on Chancery Lane.
+dark outlines of a shopfront on Chancery Lane.
 
 She wakes with a start in her garrett on Munster Square. The melodious
 voice whispers: there is no Möbian loop. The light was reversed by striking a
@@ -375,6 +375,8 @@ barrier in the fourth dimension, and near Chancery Lane, the *light leaks throug
 <p align="center">
   ⁂
   </p>
+
+
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
