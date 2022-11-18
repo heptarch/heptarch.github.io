@@ -35,10 +35,9 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
 The ball grows larger and a constellation of twelve teardrops appears,
 dancing around it, Ellen thinks, like angels on the head of a pin.
-Or perhaps not: the teardrops lengthen sharply inward, impaling the
-ball, and emerge on the other side.
-The whole figure convulses, and starts folding itself into new and elaborate
-patchworks, like a dancing star.
+Or perhaps the pins themselves: the teardrops lengthen sharply inward
+and pierce the ball through.
+The whole figure convulses, pulsing and folding itself into new patchworks, like a dancing star.
 
 A daemonic shape, she concludes, grinning, and switches it off.
 
@@ -167,7 +166,7 @@ melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
 There is a small discrepancy from the Holborn interferometer.
 She does a quick calculation---guided by the voice---and concludes that one of the rotating
-polarizations is *reversed*.
+polarizations must have *reversed*.
 She knows the arrangement of reflectors better than the
 veins in her hand. A stray reflection is impossible.
 The simplest explanation is a Möbian loop which turns
