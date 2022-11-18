@@ -333,7 +333,7 @@ legal sophistry, could point to.
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small wooden rowboat is moored where the Kirkland ferry usually
- departs, and Ellen hops in.
+ departs, and Ellen feels drawn into it.
  Almost immediately and without effort, it begins to move, from Victoria dock towards the
  turning basin, and then outwards, outwards to the North Sea, gaining speed.
  Now they are hurtling, the oars
