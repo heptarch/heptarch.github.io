@@ -336,7 +336,7 @@ legal sophistry, could point to.
 chair at Edinburgh."
 
 "But the child---" "---will be well-loved by my parents, I can assure
-you. My father will arrange something in the parish register."
+you. My father can arrange something in the parish register."
 
 "And how am I to view her?" The dwindling flame is his answer.
 
