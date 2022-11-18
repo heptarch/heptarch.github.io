@@ -276,8 +276,8 @@ by the London Pneumatic Despatch Company to do so---much more
 besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, the mechanical contrivance by which a uniform
 velocity of rotation is maintained? By a combination of magnetism and cooling, we might apply
-some of these notions to corpuscular machines, but I lack the requisite
-expertise in chemistry. I remember you stating in your lectures on
+some of these notions to corpuscular machines, but I some of the finer
+points of experimental chemistry elude me. I remember you stating in your lectures on
 acoustics that you had studied with Kekulé?" The notebook becomes
 suddenly clear: equations, engineering schematics, scattered exclamations of EYPHKA!
 The absurdity has somewhat changed character.
