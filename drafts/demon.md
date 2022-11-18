@@ -67,7 +67,8 @@ breath. "Child," he cries, then cracks into a smile: "What have you found now?"
 Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system for London’s
 mail.
-It is to consist of tubes laid with narrow-gauge rail, the air sucked out
+It is to consist of tubes laid with narrow-gauge rail from which the
+air is sucked out
 by spinning iron turbines, 20-foot wide and driven by Cornish engines.
 Mail capsules are loaded and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
