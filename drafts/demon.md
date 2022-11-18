@@ -331,7 +331,8 @@ legal sophistry, could point to.
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. The sky is a rippling skin of stars;
- too many, and none of them familiar.
+ far too many, and none of them familiar.
+ There is a pile of what is perhaps ash? or snakeskin? by the water.
 
 <p align="center">
   ⁂
