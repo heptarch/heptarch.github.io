@@ -335,12 +335,8 @@ legal sophistry, could point to.
 "Because you---or rather, I---cannot be saddled with that and expect a
 chair at Edinburgh."
 
-"But the child---"
-
-”...will be well-loved by my parents. And my father can arrange
-something in the parish register; I will make sure of it."
-
-"And what of me? Of my 
+"But the child---" ”---will be well-loved by my parents. And my father can arrange
+something in the parish register. I will ensure it."
 
 <p align="center">
   ⁂
