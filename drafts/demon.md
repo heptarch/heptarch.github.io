@@ -337,7 +337,8 @@ chair at Edinburgh or London."
 
 "But child---"
 
-"---will be well-loved by my parents."
+"---will be well-loved by my parents. And my father can perhaps
+arrange something in the parish register."
 
 <p align="center">
   ⁂
