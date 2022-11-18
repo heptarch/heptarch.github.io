@@ -328,9 +328,12 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1873.* In a dream, Ellen returns to Trinity Quay at night. It is like
- childhood but bathed in a gentle greyness, as if the light cannot quite touch
- the objects it falls upon. A black-cloaked figure---Reverend Dewar?
+*1873.* In a dream, Ellen returns to Trinity Quay. It is like
+ childhood, but bathed in a gentle greyness, as if the light cannot quite touch
+ the objects it falls upon. The sky is a rippling skin of stars, far
+ too many, and none of them familiar.
+
+A black-cloaked figure---Reverend Dewar?
  Professor Davie?---sits, facing away from her and towards the water.
 The figure fades into the greyness. There is no quay. There is
 only the sky, with its rippling skin of stars; far too many,
