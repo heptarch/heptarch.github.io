@@ -333,7 +333,7 @@ legal sophistry, could point to.
  citadel of Marischal College. "Katherine, why in God's name would you conceal that?"
 
 "Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh or London."
+chair at Edinburgh."
 
 "But child---"
 
