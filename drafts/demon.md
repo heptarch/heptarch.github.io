@@ -97,7 +97,7 @@ The network is abandoned, but something bigger continues.
   </p>
 
 *1861.* The study overlooks the gentle slopes of Kilspindie glen. The
- reverend leans on a chestnut bureau: a hymnary, some notes in Gaelic,
+ reverend leans on his chestnut bureau: a hymnary, some notes in Gaelic,
  a lump of amygdule sparkling with calcite. His eyes are kind.
  "Child, what should you like to do? The schoolmaster tells me he can
  teach you nothing."
@@ -139,7 +139,7 @@ chases little William, who shrieks with delight---in the
 shadows of the allegorical statuary, where nobody watches, a boy in
 shabby clothes curls up and sleeps.
 All this commotion, the comings and goings, arrivals and leavetakings,
-chaos and love and heartbreak and tobacco smoke, blur into a kind of
+chaos and heartbreak and tobacco smoke, blur into a kind of
 stillness, modulated only by the rhythm of the timetable.
 Humans on average.
 
