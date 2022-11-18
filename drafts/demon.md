@@ -46,7 +46,7 @@ A daemonic shape, she concludes, grinning, and switches it off.
   </p>
 
 *1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
-changing shape of the waves. "Ciamar?"<label for="sn-4"
+changing shape of the waves as they bounce off the dock wall. "Ciamar?"<label for="sn-4"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -259,7 +259,8 @@ determinations are made, and the physical basis on which they rest. We
 will cover thermometry, calorimetry, and the basic dynamical
 principles governing the evolution of a thermodynamic system, like our
 friend the teapot."
-He stops to ensure he has been understood. "Let us start by defining temperature..."
+He stops to ensure he has been understood. "Let us start with the
+definition temperature..."
 
 After the lecture and questions are finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
