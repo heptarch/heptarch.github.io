@@ -334,16 +334,16 @@ legal sophistry, could point to.
  the objects it falls upon.
  A small wooden rowboat is moored where the Kirkland ferry usually
  departs, and Ellen hops in.
- Almost immediately, it begins to move, from Victoria dock towards the
- turning basin, and then outwards, outwards to the North Sea, gaining speed
- almost invisibly.
+ Almost immediately and without effort, it begins to move, from Victoria dock towards the
+ turning basin, and then outwards, outwards to the North Sea, gaining speed.
  Now they are hurtling, the oars
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
 
-The boat shudders and abruptly slows. Facing backwards, she can only see the
-grey light of Aberdeen, but from the swelling tilt of the water she
-knows they are approaching a great wave.
+Facing backwards, she can only see the grey light of Aberdeen, frozen
+in time.
+There is a shudder, and sudden resistance; Ellen can tell from the
+swelling tilt of the water that they are approaching a great wave.
 With a
 
 The sky is a rippling skin of stars;
