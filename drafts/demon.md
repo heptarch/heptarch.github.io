@@ -283,7 +283,7 @@ suddenly clear: equations, engineering schematics, scattered exclamations of EYP
 The absurdity has somewhat changed character.
 
 Beethoven looks on with amusement. Foster stammers:
-"Corpuscular machines? Ah, you mean molecules. Perhaps..." The sounds of evening traffic float in from
+"Corpuscular machines? Ah, you mean molecules. Perhaps..." Evening traffic floats in from
 Marleybone. "Perhaps you would like
 some tea?"
 
@@ -303,7 +303,7 @@ solid black; line-height:1.3;">
 • Budget: £10,000. <br>
 • Expenditure: £9,870 (itemised, enclosed). <br>
 • Improvements: colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
-• New: gravitomagnetic governors (w. Foster, Lodge); ...
+• New: theory of Möbian gravitomagnetism; theory of corpscular magnetic control; ...
 </font>
 </div>
 
