@@ -335,10 +335,10 @@ legal sophistry, could point to.
 "Because you---or rather, I---cannot be saddled with that and expect a
 chair at Edinburgh."
 
-"But child---"
+"But the child---"
 
 "---will be well-loved by my parents. And my father can perhaps
-arrange something in the parish register."
+arrange something in the parish register; I will make sure of it."
 
 <p align="center">
   ⁂
