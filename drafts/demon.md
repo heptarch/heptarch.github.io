@@ -333,9 +333,10 @@ legal sophistry, could point to.
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
- departs, and Ellen feels drawn ineluctably towards it.
- She falls in, and almost immediately, without effort, it begins to move, gaining
- speed from Victoria dock into the turning basin, and then outwards, outwards to the North Sea.
+ departs, into which Ellen is drawn ineluctably.
+ She falls in, and immediately, without effort, it begins to move, gaining
+ speed from Victoria dock into the turning basin, and then outwards,
+ outwards to the North Sea, borne on the crest of a wave.
  Now they are hurtling, the oars
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
