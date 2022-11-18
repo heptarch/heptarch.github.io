@@ -309,7 +309,7 @@ solid black; line-height:1.3;">
 </div>
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
-chuckles, thinking of that inclement Aberdeen morning.
+chuckles, thinking of that inclement morning in Aberdeen.
 He skips past patents and maintainance summaries to the yearly planning:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
