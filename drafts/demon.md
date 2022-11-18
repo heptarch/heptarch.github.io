@@ -333,10 +333,11 @@ legal sophistry, could point to.
  the objects it falls upon. The sky is a rippling skin of stars;
  far too many, and none of them familiar.
  By the water is a conical pile of some crumpled, granular
- material---ash? snakeskin?
+ material---ash? snakeskin?---and which appears to be slowly
+ spreading.
 
 <p align="right">
-«<b>Found you.</b>»
+«<b>close enough to talk</b>»
   </p>
 
 <p align="center">
