@@ -332,16 +332,16 @@ legal sophistry, could point to.
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
- A small wooden rowboat is moored where the Kirkland ferry usually
- departs, and Ellen feels drawn into it.
- Almost immediately and without effort, it begins to move, gaining
- speed from Victoria dock towards the turning basin, and then outwards, outwards to the North Sea.
+ A small rowboat is moored where the Kirkland ferry usually
+ departs, and Ellen feels drawn ineluctably towards it.
+ She falls in, and almost immediately, without effort, it begins to move, gaining
+ speed from Victoria dock into the turning basin, and then outwards, outwards to the North Sea.
  Now they are hurtling, the oars
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
 
 Facing backwards, she can see the light of Aberdeen, grey and frozen.
-There is a shudder, and sudden resistance; Ellen can tell from the
+But then the boat shudders; Ellen can tell from the
 swelling pitch of the water that they approach a wave.
 She starts rowing furiously, without effect; in an eversion too
 quick to register, she and the boat are now hurtling towards the quay again.
