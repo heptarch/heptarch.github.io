@@ -172,8 +172,8 @@ veins in her hand. A stray reflection is impossible.
 
 She pauses for a moment.
 How can a corkscrew of light be reversed without a mirror?
-The same way left and become right: transport it around a Möbius loop.
-In this case, a Möbius loop which did not lie in the three-dimensional
+The same way left can become right: transport it around a Möbius loop,
+in this case, a Möbius loop which did not lie in the three-dimensional
 plane of the Holborn interferometer.
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
@@ -231,10 +231,10 @@ twined threads of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
 living joy in Miss Watson's eyes, a flame which kindles something in
 his own dim embers and threatens to engulf the room.
-It is both childlike and strangely unchildlike; it has something of the Old Testament
-prophet.
-Like Davie Thomson in the cramped space of Cromwell Tower, her small frame can barely
-contain it.
+It is both childlike and strangely unchildlike; it has something of
+the Old Testament prophet or the Greek philosopher in it.
+Like Davie Thomson in the cramped space of Cromwell Tower, her small
+frame can barely contain it.
 
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
 backward scheme of his life---formulates the terms of an offer he will
