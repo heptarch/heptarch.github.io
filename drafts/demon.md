@@ -278,7 +278,7 @@ the theory of governors, the mechanical contrivance by which a uniform
 velocity of rotation is maintained? By a combination of magnetism and cooling, we might apply
 some of these notions to corpuscular machines, but I some of the finer
 points of experimental chemistry elude me. I remember you stating in your lectures on
-acoustics that you had studied with Kekulé?" The notebook becomes
+acoustics that you studied with Kekulé?" The notebook becomes
 suddenly clear: equations, engineering schematics, scattered exclamations of EYPHKA!
 The absurdity has somewhat changed character.
 
