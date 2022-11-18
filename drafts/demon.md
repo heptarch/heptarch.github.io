@@ -332,10 +332,16 @@ legal sophistry, could point to.
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
- A small wooden boat is moored where the Kirkland ferry usually
- departs.
- She hops in and begins rowing with a smooth greyness of motion,
- almost without resistance.
+ A small wooden rowboat is moored where the Kirkland ferry usually
+ departs, and Ellen hops in.
+ Almost immediately, it begins to move, a smoothed greyness of motion
+ from Victoria dock towards the turning basin, and then out towards
+ the North Sea.
+ Now she is moving, hurtling along the skin of the ocean, the oars
+ flat in the rowloacks and skimming above the water, almost like the
+ rowboat is flying.
+
+But then a slowing
 
 The sky is a rippling skin of stars;
  far too many, and none of them familiar.
