@@ -344,7 +344,9 @@ Facing backwards, she can only see the grey light of Aberdeen, frozen
 in time.
 There is a shudder, and sudden resistance; Ellen can tell from the
 swelling tilt of the water that they are approaching a great wave.
-With a
+She begins to row furiously, but without effect.
+And then, in an eversion too quick to register, she and the boat are
+heading back towards the quay.
 
 The sky is a rippling skin of stars;
 far too many, and none of them familiar.
