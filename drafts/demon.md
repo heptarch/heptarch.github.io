@@ -332,9 +332,9 @@ legal sophistry, could point to.
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. The sky is a rippling skin of stars;
  far too many, and none of them familiar.
- By the water is a conical pile of matter---ash? snakeskin? something
- crumpled or granular---and which appears to be slowly
+ By the water is a rough cone of matter---ash? snakeskin?---which appears to be slowly
  spreading.
+ "Is this Trinity Quay?"
 
 <p align="right">
 «<b>close enough to talk</b>»
