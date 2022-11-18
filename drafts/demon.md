@@ -245,7 +245,7 @@ later describe as "inspired lunacy". Ellen accepts.
   </p>
 
 *1869.* In the Beethoven Rooms of 76 Harley
-Street, Carey Foster anxiously regards the bluestockings who have
+Street, Professor Carey Foster anxiously regards the bluestockings who have
 assembled to learn about thermodynamics.
 Ludwig van glowers at him from the wall.
 "Heat"---he pauses, steadies himself, and tries to speak over the
