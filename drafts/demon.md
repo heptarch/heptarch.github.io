@@ -35,8 +35,8 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
 The ball grows larger and a constellation of twelve teardrops appears,
 dancing around it, Ellen thinks, like angels on the head of a pin.
-Or perhaps the pins themselves: the teardrops lengthen sharply inward
-and pierce the ball through.
+Or perhaps like the pins themselves: the teardrops lengthen sharply
+inward and impale the ball.
 The whole figure convulses, pulsing and folding itself into new patchworks, like a dancing star.
 
 A daemonic shape, she concludes, grinning, and switches it off.
