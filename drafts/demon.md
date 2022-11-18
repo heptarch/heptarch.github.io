@@ -329,6 +329,20 @@ legal sophistry, could point to.
   ⁂
   </p>
 
+*1857.* A single candle burns low in that room, high in the granite
+ citadel of Marischal College. "Katherine, why in God's name would you conceal that?"
+
+"Because you---or rather, I---cannot be saddled with that and expect a
+chair at Edinburgh or London."
+
+"But child---"
+
+"---will be well-loved by my parents."
+
+<p align="center">
+  ⁂
+  </p>
+
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
