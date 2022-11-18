@@ -332,7 +332,6 @@ legal sophistry, could point to.
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
- Looking up, she finds a sky filled with unfamiliar constellations.
  A small wooden rowboat is moored where the Kirkland ferry usually
  departs, and Ellen hops in.
  Almost immediately and without effort, it begins to move, from Victoria dock towards the
@@ -341,13 +340,13 @@ legal sophistry, could point to.
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
 
-Facing backwards, she can only see the grey light of Aberdeen.
+Facing backwards, she can see the light of Aberdeen, grey and frozen.
 There is a shudder, and sudden resistance; Ellen can tell from the
 swelling pitch of the water that they approach a wave.
-She starts rowing furiously, without effect, and in an eversion too
-quick to register, she and the boat are heading back towards the quay
-and the frozen lights of the city.
-But she now faces the wave: The wave is like a wall of glass;
+She starts rowing furiously, without effect; in an eversion too
+quick to register, she and the boat are now hurtling towards the quay again.
+But she faces the wave: a frozen wall of ice, through which she can
+faintly see, like a finger pressed against the inside of a glass, 
 
 Möbius
 
