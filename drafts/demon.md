@@ -291,8 +291,9 @@ some tea?"
   ⁂
   </p>
 
-*1873.* An envelope, ironically delivered by coach, is delivered to
- the chairman. Inside:
+*1873.* An envelope, ironically delivered by coach, is arrives on the
+ chairman's desk; a welcome distraction from negotiations with the
+ GPO. Inside:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -303,13 +304,12 @@ solid black; line-height:1.3;">
 • Budget: £10,000. <br>
 • Expenditure: £9,870 (itemised, enclosed). <br>
 • Improvements: colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
-• New: theory of Möbian gravitomagnetism; theory of corpscular magnetic control; ...
+• New: theory of Möbian gravitomagnetism; ...
 </font>
 </div>
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
-chuckles, thinking about the charade of negotiation with the
-GPO.
+chuckles, thinking of that inclement Aberdeen morning.
 He skips past patents and maintainance summaries to the yearly planning:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
