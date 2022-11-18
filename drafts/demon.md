@@ -291,8 +291,8 @@ some tea?"
   ⁂
   </p>
 
-*1873.* An envelope, ironically delivered by coach, arrives on the
- Chairman's desk. Inside:
+*1873.* An envelope, ironically delivered by coach, is delivered to
+ the chairman. Inside:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -303,7 +303,7 @@ solid black; line-height:1.3;">
 • Budget: £10,000. <br>
 • Expenditure: £9,870 (itemised, enclosed). <br>
 • Improvements: colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
-• New: Möbian daemon with gravitomagnetic storage; ...
+• New: gravitomagnetic governors (w. Foster, Lodge); ...
 </font>
 </div>
 
