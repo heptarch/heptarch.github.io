@@ -291,7 +291,7 @@ some tea?"
   ⁂
   </p>
 
-*1873.* An envelope, ironically delivered by coach, is arrives on the
+*1873.* An envelope, ironically delivered by coach, arrives on the
  chairman's desk; a welcome distraction from negotiations with the
  GPO. Inside:
 
