@@ -55,6 +55,7 @@ changing shape of the waves. "Ciamar?"<label for="sn-4"
        class="margin-toggle"/>
 <span class="sidenote">How?</span> she asks passersby. They do not
 know.
+
 An old man arrives from Marischal Street, ruddy and out of
 breath. "Child," he cries, then cracks into a smile: "What have you found now?"
 
