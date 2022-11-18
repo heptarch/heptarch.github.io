@@ -165,14 +165,16 @@ She is about to start the cleaning cycle, but intuition---that
 melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
 There is a small discrepancy from the Holborn interferometer.
-She does a quick calculation---guided by the voice---and concludes that one of the rotating
-polarizations must have *reversed*.
-She knows the arrangement of reflectors better than the
+She does a quick calculation---guided by the voice---and finds the
+results are consistent with *reversing* one of the rotating
+polarizations. She knows the arrangement of reflectors better than the
 veins in her hand. A stray reflection is impossible.
-The simplest explanation is a Möbian loop which turns
-the light inside out, like a glove; a loop that lies somewhere
-*beyond* the Looking Glass.
 
+She pauses for a moment.
+How can a corkscrew of light be reversed without a mirror?
+The same way left and become right: transport it around a Möbius loop.
+In this case, a Möbius loop which did not lie in the three-dimensional
+plane of the Holborn interferometer.
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
 
