@@ -269,7 +269,7 @@ might I assist?" She proffers a notebook.
 "I have been carrying out researches into the optical properties of
 magnetised fluids." He restrains himself from laughing at the absurdity. "In what connection? And
 how, ah, forgive me, how could you possibly get access to the necessary
-equipment?" He leafs theatrically through the notebook. The scribbles
+equipment?" He leafs theatrically through the notebook. The scribbling
 of a child...
 
 She explains as if it was as commonplace as the teapot. "I am employed
