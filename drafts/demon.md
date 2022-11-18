@@ -143,7 +143,7 @@ stillness, modulated only by the rhythm of the timetable.
 Humans on average.
 
 Ellen as usual does not enter the Great Hall.
-Instead, she has resolved some disagreement with Foster
+Instead, she has resolved a disagreement with Foster
 about the electromagnetic shadow of a sphere, and walks briskly from the student
 laboratory of University College to Eversholt Street.
 She ducks into a culvert, unlocks a small service door, and lights the
@@ -187,8 +187,8 @@ the tunnels to learn the precise bearings of the fourth dimension.
  Chandos, heir of as many debts as titles, weary, honest, but not without his
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
- consult some engineers.
-One of these men shares some scientific gossip: a lass, no more
+ consult a few engineers.
+They share some scientific gossip: a lass, no more
  than ten, a ward of Auld Dauvit and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -229,7 +229,7 @@ results of Maxwell and Faraday, which we might detect by suitably careful experi
 The talk is gibberish to the Duke. The play of symbols, the
 twined threads of argument, its flashes of scientific
 wit, are lost on him; what is not lost, however, is the flame of
-living joy in Miss Watson's eyes, a flame which kindles something in
+living joy in Miss Watson's eyes, a flame which kindles
 his own dim embers and threatens to engulf the room.
 It is both childlike and strangely unchildlike; it has something of
 the Old Testament prophet or the Greek philosopher in it.
@@ -275,9 +275,9 @@ She explains as if it was as commonplace as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
 besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, the mechanical contrivance by which a uniform
-velocity of rotation is maintained? By a combination of magnetism and cooling, we might apply
-some of these notions to corpuscular machines, but I some of the finer
-points of experimental chemistry elude me. I remember you stating in your lectures on
+velocity of rotation is maintained? By a combination of magnetism and
+cooling, I think we might apply these notions to corpuscular machines, but I fear
+some of the finer points of experimental chemistry elude me. I remember you stating in your lectures on
 acoustics that you studied with Kekulé?" The notebook becomes
 suddenly clear: equations, engineering schematics, scattered exclamations of EYPHKA!
 The absurdity has somewhat changed character.
