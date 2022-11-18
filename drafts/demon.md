@@ -332,8 +332,6 @@ legal sophistry, could point to.
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. The sky is a rippling skin of stars;
  too many, and none of them familiar.
-  A black-cloaked figure---Reverend Dewar?
- Professor Davie?---sits, facing away from her and towards the water.
 
 <p align="center">
   ⁂
