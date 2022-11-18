@@ -334,8 +334,8 @@ legal sophistry, could point to.
  the objects it falls upon.
  A small wooden rowboat is moored where the Kirkland ferry usually
  departs, and Ellen feels drawn into it.
- Almost immediately and without effort, it begins to move, from Victoria dock towards the
- turning basin, and then outwards, outwards to the North Sea, gaining speed.
+ Almost immediately and without effort, it begins to move, gaining
+ speed from Victoria dock towards the turning basin, and then outwards, outwards to the North Sea.
  Now they are hurtling, the oars
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
