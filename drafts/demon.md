@@ -72,7 +72,7 @@ air is sucked out
 by spinning iron turbines, 20-foot wide and driven by Cornish engines.
 Mail capsules are loaded and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
-Construction commences in 1863 with a successful trial between Euston Square and the North
+Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
 The tubes makes it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
