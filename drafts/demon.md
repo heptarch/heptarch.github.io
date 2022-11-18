@@ -173,7 +173,7 @@ veins in her hand. A stray reflection is impossible.
 She pauses for a moment.
 How can a corkscrew of light be reversed without a mirror?
 The same way left can become right: transport it around a Möbius loop,
-in this case, a Möbius loop which did not lie in the three-dimensional
+and in this case, a Möbius loop which does not lie in the three-dimensional
 plane of the Holborn interferometer.
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
