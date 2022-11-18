@@ -328,12 +328,6 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1856.*
-
-<p align="center">
-  ⁂
-  </p>
-
 *1873.* In a dream, Ellen returns to Trinity Quay at night. It is like
  childhood but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. A black-cloaked figure---Reverend Dewar?
