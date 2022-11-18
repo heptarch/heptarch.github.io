@@ -332,7 +332,12 @@ legal sophistry, could point to.
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon. The sky is a rippling skin of stars;
  far too many, and none of them familiar.
- There is a pile of what is perhaps ash? or snakeskin? by the water.
+ By the water is a conical pile of some crumpled, granular
+ material---ash? snakeskin?
+
+<p align="right">
+«<b>Found you.</b>»
+  </p>
 
 <p align="center">
   ⁂
