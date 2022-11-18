@@ -37,7 +37,7 @@ The ball grows larger and a constellation of twelve teardrops appears,
 dancing around it, Ellen thinks, like angels on the head of a pin.
 Or perhaps not: the teardrops lengthen sharply inward, impaling the
 ball, and emerge on the other side.
-The whole figure convulses, and begins to body forth new and elaborate
+The whole figure convulses, and starts folding itself into new and elaborate
 patchworks, like a dancing star.
 
 A daemonic shape, she concludes, grinning, and switches it off.
