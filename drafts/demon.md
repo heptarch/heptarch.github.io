@@ -316,12 +316,12 @@ He skips past patents and maintainance summaries to the yearly planning:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- determine the source of interference near Chancery Lane
+ determine the source of asborption near Chancery Lane
 </font>
 </div>
 
 Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
-It must be---as Ellen had hoped---an opaque body, hovering near
+It must be---as Ellen had hoped---an artefact, hovering near
 Chancery Lane in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
 
@@ -333,23 +333,30 @@ legal sophistry, could point to.
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
- departs, into which Ellen is drawn ineluctably.
- She falls in, and immediately, without effort, it begins to move, gaining
+ departs.
+ Ellen almost falls into it, and immediately, without effort, it begins to move, gaining
  speed from Victoria dock into the turning basin, and then outwards,
- outwards to the North Sea, borne on the crest of a wave.
+ outwards to the North Sea.
  Now they are hurtling, the oars
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
+Facing backwards, she can see from a distance the grey and frozen
+light of Aberdeen, and beneath the boat, the mild swell of the wave
+which bears them.
 
-Facing backwards, she can see the light of Aberdeen, grey and frozen.
-But then the boat shudders; Ellen can tell from the
-swelling pitch of the water that they approach a wave.
-She starts rowing furiously, without effect; in an eversion too
-quick to register, she and the boat are now hurtling towards the quay again.
-But she faces the wave: a frozen wall of ice, through which she can
-faintly see, like a finger pressed against the inside of a glass, 
+There is a shudder, a collision, and in a reversal too quick to
+register, the wave is guiding them back to the quay.
+She feels her heart thumping, but on the wrong side of her chest; she
+knows she has become her own mirror image.
+Facing now to the North Sea, there is an immense wall of ice against,
+against which they have rebounded, and through which she can
+faintly see, like a finger pressed against the inside of a glass, the
+ashen outlines of a shopfront on Chancery Lane.
 
-Möbius
+She wakes with a start in her garrett on Munster Square. The melodious
+voice whispers---the light was reversed not by a Möbian loop, but a
+barrier in the fourth dimension, which is weaker near Chancery Lane
+since *light leaked through*.
 
 <p align="center">
   ⁂
