@@ -74,7 +74,7 @@ Mail capsules are loaded and shot through the near-empty tubes,
 propelled only by the inrushing atmosphere.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
-The tubes makes it past Holborn, and as far as the General Post Office on St Martin's
+The tubes make it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 its ultimate terminus: unfavourable market conditions. Although the Post
 Office uses it for a few years, it runs at a loss, and the system is officially retired in 1874.
@@ -90,7 +90,7 @@ Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
 A young woman is rumored to wander about
 and attend to the machines.
-The network is abandoned, but something bigger is already finished.
+The network is abandoned, but something bigger continues.
 
 <p align="center">
   ⁂
