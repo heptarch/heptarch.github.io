@@ -358,9 +358,9 @@ Facing backwards, she can see from a distance the grey and frozen
 light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
 
-There is a shudder, a collision, and in a reversal too quick to
-register, the wave is guiding them back to the quay.
-She feels her heart thumping, but on the wrong side of her chest; she
+There is a shudder, a collision, a reversal too quick to
+register, and the wave is guiding them back to the quay.
+She feels her heart thumping, but on the wrong side of her chest, and
 knows she has become her own mirror image.
 Facing now to the North Sea, there is an immense wall of ice against,
 against which they have rebounded, and through which she can
