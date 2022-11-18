@@ -283,8 +283,8 @@ suddenly clear: equations, engineering schematics, scattered exclamations of EYP
 The absurdity has somewhat changed character.
 
 Beethoven looks on with amusement. Foster stammers:
-"Corpuscular machines?" The sounds of evening traffic float in from
-Marleybone. "Ah, you mean molecules. Perhaps... perhaps you would like
+"Corpuscular machines? Ah, you mean molecules. Perhaps..." The sounds of evening traffic float in from
+Marleybone. "Perhaps you would like
 some tea?"
 
 <p align="center">
