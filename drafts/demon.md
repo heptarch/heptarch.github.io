@@ -36,7 +36,7 @@ piping leans forward, as if bowing.
 The ball grows larger and a constellation of twelve teardrops appears,
 dancing around it, Ellen thinks, like angels on the head of a pin.
 Or perhaps the pins themselves: the teardrops lengthen sharply
-inward and impale the ball along twelve evenly distributed axes.
+inward and impale the ball along twelve symmetric axes.
 The whole figure convulses, pulsing and folding itself into new patchworks, like a dancing star.
 
 A daemonic shape, she concludes, grinning, and switches it off.
@@ -334,14 +334,17 @@ legal sophistry, could point to.
  the objects it falls upon.
  A small wooden rowboat is moored where the Kirkland ferry usually
  departs, and Ellen hops in.
- Almost immediately, it begins to move, a smoothed greyness of motion
- from Victoria dock towards the turning basin, and then out towards
- the North Sea.
- Now she is moving, hurtling along the skin of the ocean, the oars
- flat in the rowloacks and skimming above the water, almost like the
- rowboat is flying.
+ Almost immediately, it begins to move, from Victoria dock towards the
+ turning basin, and then outwards, outwards to the North Sea, gaining speed
+ almost invisibly.
+ Now they are hurtling, the oars
+ flat in the rowlocks and skimming the water, she and the boat one breathless motion
+ over the skin of the ocean.
 
-But then a slowing
+Suddenly there is a slowing. Facing backwards, she can only see the
+grey lights of Aberdeen, but from the swelling tilt of the water she
+knows they are approaching a great wave.
+The boat is suddenly reversed
 
 The sky is a rippling skin of stars;
  far too many, and none of them familiar.
