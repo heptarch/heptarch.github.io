@@ -255,7 +255,10 @@ therefore strike us as too commonplace to discuss. Heat
 lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
-determinations are made, and the physical basis on which they rest."
+determinations are made, and the physical basis on which they rest. We
+will cover thermometry, calorimetry, and the basic dynamical
+principles governing the evolution of a thermodynamic system, like our
+friend the teapot."
 He stops to ensure he has been understood. "Let us start by defining temperature..."
 
 After the lecture and questions are finished, Foster is packing
