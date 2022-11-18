@@ -267,9 +267,10 @@ look lost. "Professor Foster, I wonder if I might have a moment of
 your time?" Bright and fearless; intriguing. "Of course child. How
 might I assist?" She proffers a notebook.
 "I have been carrying out researches into the optical properties of
-magnetised fluids." He must restrain himself from laughing at the absurdity. "In what connection? And
+magnetised fluids." He restrains himself from laughing at the absurdity. "In what connection? And
 how, ah, forgive me, how could you possibly get access to the necessary
-equipment?" He leafs theatrically through the notebook. A bunch of scribbles...
+equipment?" He leafs theatrically through the notebook. The scribbles
+of a child...
 
 She explains as if it was as commonplace as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
