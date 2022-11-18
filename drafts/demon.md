@@ -369,9 +369,8 @@ faintly see, like a finger pressed against the inside of a glass, the
 ashen outlines of a shopfront on Chancery Lane.
 
 She wakes with a start in her garrett on Munster Square. The melodious
-voice whispers: the light was reversed not by a Möbian loop, but
-collision with a barrier. And the cause of absorption
-near Chancery Lane is that *light leaked through*.
+voice whispers: there is no loop. The light was reversed by striking a
+barrier in the fourth dimension, and near Chancery Lane the *light leaks through*.
 
 <p align="center">
   ⁂
