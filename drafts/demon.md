@@ -349,7 +349,7 @@ you. My father will arrange something in the parish register."
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
  departs.
- Ellen almost falls into it, and immediately, without effort, it begins to move, gaining
+ Ellen is drawn ineluctably into it, and immediately, without effort, it begins to move, gaining
  speed from Victoria dock into the turning basin, and then outwards,
  outwards to the North Sea.
  Now they are hurtling, the oars
