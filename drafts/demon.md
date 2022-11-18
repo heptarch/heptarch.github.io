@@ -341,13 +341,14 @@ legal sophistry, could point to.
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
 
-Suddenly there is a slowing. Facing backwards, she can only see the
-grey lights of Aberdeen, but from the swelling tilt of the water she
+The boat shudders and abruptly slows. Facing backwards, she can only see the
+grey light of Aberdeen, but from the swelling tilt of the water she
 knows they are approaching a great wave.
-The boat is suddenly reversed
+With a
 
 The sky is a rippling skin of stars;
- far too many, and none of them familiar.
+far too many, and none of them familiar.
+Möbius
 
 <p align="center">
   ⁂
