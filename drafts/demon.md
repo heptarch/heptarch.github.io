@@ -333,7 +333,9 @@ legal sophistry, could point to.
  College. "Katherine, why in God's name would you conceal that?"
 
 "Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh." "But the child---" "---will be well-loved by my parents, I can assure
+chair at Edinburgh."
+
+"But the child---" "---will be well-loved by my parents, I can assure
 you. My father can arrange something in the parish register." A pause. "And how am I to view her?" The dwindling flame is his answer.
 
 <p align="center">
