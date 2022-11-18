@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Ashen Quay"
+title:  "The Ashen House"
 categories:
 date:  2022-11-12
 ---
@@ -316,13 +316,13 @@ He skips past patents and maintainance summaries to the yearly planning:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- determine the source of interference near Chancery House
+ determine the source of interference near Chancery Lane
 </font>
 </div>
 
 Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
 It must be---as Ellen had hoped---an opaque body, hovering near
-Chancery House in a direction that no lawyer, however advanced his
+Chancery Lane in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
 
 <p align="center">
@@ -332,6 +332,7 @@ legal sophistry, could point to.
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
+ Looking up, she finds a sky filled with unfamiliar constellations.
  A small wooden rowboat is moored where the Kirkland ferry usually
  departs, and Ellen hops in.
  Almost immediately and without effort, it begins to move, from Victoria dock towards the
@@ -340,16 +341,14 @@ legal sophistry, could point to.
  flat in the rowlocks and skimming the water, she and the boat one breathless motion
  over the skin of the ocean.
 
-Facing backwards, she can only see the grey light of Aberdeen, frozen
-in time.
+Facing backwards, she can only see the grey light of Aberdeen.
 There is a shudder, and sudden resistance; Ellen can tell from the
-swelling tilt of the water that they are approaching a great wave.
-She begins to row furiously, but without effect.
-And then, in an eversion too quick to register, she and the boat are
-heading back towards the quay.
+swelling pitch of the water that they approach a wave.
+She starts rowing furiously, without effect, and in an eversion too
+quick to register, she and the boat are heading back towards the quay
+and the frozen lights of the city.
+But she now faces the wave: The wave is like a wall of glass;
 
-The sky is a rippling skin of stars;
-far too many, and none of them familiar.
 Möbius
 
 <p align="center">
