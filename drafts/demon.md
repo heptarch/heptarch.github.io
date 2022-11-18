@@ -329,7 +329,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1857.* A single candle burns low in that room, high in the granite
+*1857.* A single candle burns low in that room, an ill star in the granite
  citadel of Marischal College. "Katherine, why in God's name would you conceal that?"
 
 "Because you---or rather, I---cannot be saddled with that and expect a
@@ -337,8 +337,10 @@ chair at Edinburgh."
 
 "But the child---"
 
-"---will be well-loved by my parents. And my father can perhaps
-arrange something in the parish register; I will make sure of it."
+”...will be well-loved by my parents. And my father can arrange
+something in the parish register; I will make sure of it."
+
+"And what of me? Of my 
 
 <p align="center">
   ⁂
