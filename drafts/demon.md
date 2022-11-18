@@ -329,8 +329,8 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1857.* A single candle burns low in that room, an ill star in the granite
- citadel of Marischal College. "Katherine, why in God's name would you conceal that?"
+*1857.* A single candle burns low in the granite citadel of Marischal
+ College. "Katherine, why in God's name would you conceal that?"
 
 "Because you---or rather, I---cannot be saddled with that and expect a
 chair at Edinburgh."
