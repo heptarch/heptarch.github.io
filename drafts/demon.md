@@ -362,13 +362,13 @@ There is a shudder, a collision, and a reversal too quick to
 register; then the wave is guiding them back to the quay.
 She feels her heart thumping, but on the wrong side of her chest, and
 knows she has become her own mirror image.
-Facing now to the North Sea, she sees the immense wall of ice from
+Facing now to the North Sea, there is a the vast wall of ice from
 which they have rebounded, and through which she can
 faintly see, like a finger pressed against the inside of a glass, the
 dark outlines of a shopfront on Chancery Lane.
 
 She wakes with a start in her garrett on Munster Square. The melodious
-voice whispers: there is no Möbian loop. The light was reversed by striking a
+voice whispers: there is no Möbian loop; the light was reversed by striking a
 barrier in the fourth dimension, and near Chancery Lane, the *light leaks through*.
 
 <p align="center">
