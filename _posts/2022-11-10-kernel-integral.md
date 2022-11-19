@@ -203,7 +203,7 @@ h\left(-\frac{z}{\tau};
 \end{align*}
 $$
 
-This is a cool result!
+This seems like a neat result!
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green; line-height:1.5">
 <b>Exercise 2.</b> Ramanujan defined the related integral
