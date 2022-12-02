@@ -51,4 +51,4 @@ $$
 This has a clear link to "eggcorn". But it gets better: on hearing
 "egcoin", someone might mistakenly suppose they had heard "eggcorn",
 making "egcoin" an eggcorn precisely when it is heard as "eggcorn". It
-is a self-fulfilling anti-prophecy!
+is a self-fulfilling semantic prophecy!
