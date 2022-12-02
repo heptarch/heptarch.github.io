@@ -31,5 +31,9 @@ We can lump these under the general heading of *instance-naming* (a
 more specific term than metonym or synecdoche, where an instance can
 be named after something more general). A few months ago, I set myself
 the challenge of naming this phenomenon after an instance, and became
-promptly stuck. I forgot about it until a plane flight last week,
-where I
+promptly stuck. How could I name it after an instance without getting
+confused with the original referent? I forgot about this
+self-referential puzzle until a plane flight last week, where lack of
+other amusements forced me to solve it.
+
+The idea is simple: 
