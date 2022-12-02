@@ -86,9 +86,9 @@ Then our kernel trick gives
 
 $$
 \begin{align*}
-\int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha x^2}}{\beta^2 + x^2} \,
+\int_{-\infty}^\infty \sqrt{\frac{2}{\pi}}\frac{\beta e^{-\alpha^2 x^2}}{\beta^2 + x^2} \,
 \text{d}x
-& =\frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha + \beta|x|} \, \text{d}x.
+& =\frac{1}{\sqrt{2\alpha}} \int_{-\infty}^\infty e^{-x^2/4\alpha^2 + \beta|x|} \, \text{d}x.
 \end{align*}
 $$
 
@@ -99,30 +99,38 @@ $$
 \text{erfc}(z) = \frac{2}{\sqrt{\pi}}\int_z^\infty e^{-x^2}\, \text{d}x.
 $$
 
-We complete the square, defining $2\sqrt{\alpha}u = x +
-2\alpha\beta$ to find
+We complete the square, defining $2\alpha u = x +
+2\alpha^2\beta$ to find
 
 $$
 \begin{align*}
-\int_{-\infty}^\infty e^{-x^2/4\alpha - \beta|x|} \, \text{d}x
-& = 2\int_{0}^\infty e^{-x^2/4\alpha - \beta x} \, \text{d}x\\
-& = 4\sqrt{\alpha} e^{\alpha\beta^2}\int_{2\alpha\beta}^\infty
+\int_{-\infty}^\infty e^{-x^2/4\alpha^2 - \beta|x|} \, \text{d}x
+& = 2\int_{0}^\infty e^{-x^2/4\alpha^2 - \beta x} \, \text{d}x\\
+& = 4\sqrt{\alpha} e^{(\alpha\beta)^2}\int_{2\alpha^2\beta}^\infty
 e^{-u^2} \, \text{d}u\\
-& = 2\sqrt{\pi\alpha} e^{\alpha\beta^2}\text{erfc}(\sqrt{\alpha}\beta).
+& = 2\sqrt{\pi\alpha} e^{(\alpha\beta)^2}\text{erfc}(\alpha\beta).
 \end{align*}
 $$
 
 We can finally conclude that 
 
 $$
-\int_{-\infty}^\infty \frac{ e^{-\alpha
-x^2}}{\beta^2 + x^2} \, \text{d}x = \frac{\pi\sqrt{2\alpha}}{\beta} e^{\alpha\beta^2}\text{erfc}(\sqrt{\alpha}\beta).
+\int_{-\infty}^\infty \frac{ e^{-\alpha^2
+x^2}}{\beta^2 + x^2} \, \text{d}x = \frac{\sqrt{2}\pi \alpha}{\beta}
+e^{(\alpha\beta)^2}\text{erfc}(\alpha\beta).
 $$
 
 I call this the
 "Voigt integral"after
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
+
+Setting $\alpha\beta = \tau$, it implies the cute duality
+
+$$
+\beta\int_{-\infty}^\infty \frac{ e^{-(\tau/\beta)^2
+x^2}}{\beta^2 + x^2} \, \text{d}x = \sqrt{2}\pi \alpha\tau e^{\tau^2}\text{erfc}(\tau).
+$$
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid
 green; line-height:1.5">
