@@ -39,7 +39,7 @@ other amusements forced me to solve it.
 The idea is simple: *modify* an instance so that it refers both to the
 phenomenon of instance-naming, and to a specific instance of
 instance-naming. The victim of mutation here is "eggcorn", which is
-modified to "egcoin", which literally means "a new word based on an
+modified to "egcoin". This literally means "a new word based on an
 example". For maximal silliness, here is a semantic equation:
 
 $$
