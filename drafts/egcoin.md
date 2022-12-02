@@ -46,7 +46,7 @@ $$
 \text{egcoin} = \text{e.g. (example)} + \text{coin (create a new word)}.
 $$
 
-This has a clear link to "eggcorn". But it gets even better: on hearing
+This has a clear link to "eggcorn". But it gets better: on hearing
 "egcoin", someone might mistakenly suppose they had heard "eggcorn",
 making "egcoin" an eggcorn precisely when it is heard as "eggcoin". It
 is a self-fulfulling prophecy!
