@@ -31,9 +31,16 @@ more specific term than metonym or synecdoche, where an instance can
 be named after something more general). A few months ago, I set myself
 the challenge of naming this phenomenon after an instance, and became
 promptly stuck. How could I name it after an instance without getting
-confused with the original referent? I forgot about this
+confused with the original referent? And if I came up with a new term,
+how I could refer to an instance? It seemed impossible. I forgot about this
 self-referential puzzle until a plane flight last week, where lack of
 other amusements forced me to solve it.
 
-The idea is simple: *modify* the name of another instance. In this
-case, 
+The idea is simple: *modify* an instance so that it refers both to the
+phenomenon of instance-naming, and to a specific instance of
+instance-naming. The victim of mutation here is eggcorn, which is
+modified to
+
+$$
+\text{egcoin} = \text{e.g. (example)} + \text{coin (create a new word)}.
+$$
