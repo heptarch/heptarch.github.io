@@ -48,4 +48,5 @@ $$
 
 This has a clear link to "eggcorn". But it gets even better: on hearing
 "egcoin", someone might mistakenly suppose they had heard "eggcorn",
-making "egcoin" an "eggcorn" only if it is misheard as the latter.
+making "egcoin" an eggcorn precisely when it is heard as "eggcoin". It
+is a self-fulfulling prophecy!
