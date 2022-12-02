@@ -9,6 +9,8 @@ date:  2022-12-01
 
 **December 1, 2022.** *A whimsical post on naming things named after an instance after an instance.*
 
+---
+
 Sometimes general phenomena are named after specific instances.
 For instance, a [mondegreen](https://en.wikipedia.org/wiki/Mondegreen)
 is a misallocation of word boundaries, with "Lady Mondegreen" a
