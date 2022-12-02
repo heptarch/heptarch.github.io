@@ -27,7 +27,9 @@ For our purposes, the most important example is the
 sensible mishearing of a word, in this case,
 named after "eggcorn", a cute but infelicitous version of "acorn".
 
-We can lump these under the general heading of *instance-naming* (more
-specific than metonym or synecdoche). A few months ago, I set myself
+We can lump these under the general heading of *instance-naming* (a
+more specific term than metonym or synecdoche, where an instance can
+be named after something more general). A few months ago, I set myself
 the challenge of naming this phenomenon after an instance, and became
-promptly stuck.
+promptly stuck. I forgot about it until a plane flight last week,
+where I
