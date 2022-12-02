@@ -46,4 +46,4 @@ $$
 \text{egcoin} = \text{e.g. (example)} + \text{coin (create a new word)}.
 $$
 
-This has a clear link to "eggcorn", 
+This has a clear link to "eggcorn".
