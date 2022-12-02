@@ -22,8 +22,12 @@ about the eponymous
 [Marxist guerilla group](https://en.wikipedia.org/wiki/Red_Army_Faction).
 As you might guess, this triggered a wave of similar and apparently
 novel experiences.
-
 For our purposes, the most important example is the
 [eggcorn](https://en.wikipedia.org/wiki/Eggcorn): a semantically
 sensible mishearing of a word, in this case,
 named after "eggcorn", a cute but infelicitous version of "acorn".
+
+We can lump these under the general heading of *instance-naming* (more
+specific than metonym or synecdoche). A few months ago, I set myself
+the challenge of naming this phenomenon after an instance, and became
+promptly stuck.
