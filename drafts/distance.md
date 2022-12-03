@@ -11,5 +11,7 @@ date:  2022-12-02
 
 ---
 
-Protagoras wrote that "man is the measure of all things"; he may also
-have been skeptical about the application of pure maths to the natural world.
+The ancient Greek philosopher Protagoras famously stated that "man is the
+measure of all things". He was also skeptical about the
+application of pure math to the natural world, so it is unlikely he
+meant that the human body could be used to measure things.
