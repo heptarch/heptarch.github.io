@@ -32,7 +32,7 @@ formed by the distant object:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/anthrometry1.png" width="700"/>
+    ="/img/posts/distance1.png" width="700"/>
 	<figcaption><i>Similar triangles formed by your hand and the object.</i></figcaption>
 	</div>
 	</figure>
@@ -50,15 +50,24 @@ We now have a new set of similar triangles:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/anthrometry2.png" width="700"/>
+    ="/img/posts/distance2.png" width="700"/>
 	<figcaption><i>Similar triangles after moving towards the object.</i></figcaption>
 	</div>
 	</figure>
 
-The ratio of sides obeys
+The ratio of sides now obeys
 
 $$
 \frac{f'}{a} = \frac{h}{d-s},
 $$
 
 where we measure distance in steps.
+We can rearrange to eliminate the length of the arm, $a$, and physical
+height $h$, to find
+
+$$
+\frac{f}{d} = \frac{f'}{d - s} \quad \Longrightarrow \quad d = \frac{s}{1 -\frac{f'}{f}}.
+$$
+
+Thus, by eyeballing the size of something in fingers, and counting
+some steps, we can 
