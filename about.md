@@ -40,6 +40,8 @@ attempts at, viriditas. It's a place I'll try to ask (and
 answer) stupid questions, not be boring, wonder, celebrate, and if I'm
 lucky, change reality in tough places. Like the little purple flowers.
 
+---
+
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
