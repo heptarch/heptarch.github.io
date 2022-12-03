@@ -19,7 +19,7 @@ in all the universe—its culmination, like the color of a flower at
 first bloom on a wet morning. It’s a holy feeling, and our task in
 this world is to do everything we can to foster it.
 
-<div style="text-align: right">---Kim Stanley Robinson, <i>Green Mars</i>
+<div style="text-align: right">— Kim Stanley Robinson, <i>Green Mars</i>
 </div>
 </div>
 
