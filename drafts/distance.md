@@ -69,7 +69,7 @@ We can rearrange to eliminate the length of the arm, $a$, and physical
 height $h$, to find
 
 $$
-\frac{f}{d} = \frac{f'}{d - s} \quad \Longrightarrow \quad d = \frac{s}{1 -(f'/f)}.
+fd = f'(d - s) \quad \Longrightarrow \quad d = \frac{s}{1 -(f/f')}.
 $$
 
 This gives a rule of thumb for distance measurement about which
@@ -82,7 +82,7 @@ Take the transition from $f = 3$ to $f' = 4$.
 In this case, the distance estimate is
 
 $$
-d = \frac{s}{1 -(f'/f)} = 4s,
+d = \frac{s}{1 -(f/f')} = \frac{s}{1 - 3/4} = 4s,
 $$
 
 or four times the number of steps. I find this works with $90$-$95\%$
