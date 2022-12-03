@@ -26,13 +26,13 @@ So, consider a distant object you want to find the distance to.
 Hold your hand out at a fixed distance from your eyes and fixed
 orientation (e.g. horizontal), and estimate the size of the object in
 fingers $f$.
-Practically speaking, you want to have an integer number of fingers.
+(Practically speaking, it's preferable to have an integer number of fingers.)
 Your arm and hands form a triangle which is similar to the triangle
 formed by the distant object:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/anthrometry1.png" width="600"/>
+    ="/img/posts/anthrometry1.png" width="700"/>
 	<figcaption><i>Triangles formed by your hand and the object.</i></figcaption>
 	</div>
 	</figure>
@@ -41,8 +41,16 @@ If $a$ is the length of your arm, $h$ the actual height, $d$ the
 distance to the object and $f$ the apparent height in fingers, then
 
 $$
-\frac{}{}
+\frac{f}{a} = \frac{h}{d}.
 $$
 
-Now walk $s$ steps towards the object, so that it has integer finger
+Now walk $s$ steps towards the object, so that it has finger
 width $f'$.
+We now have a new set of similar triangles:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/anthrometry2.png" width="700"/>
+	<figcaption><i>Triangles after moving towards the object</i></figcaption>
+	</div>
+	</figure>
