@@ -8,7 +8,7 @@ date:  2022-11-10
 ---
 
 **November 10, 2022.** *I present a simple trick for doing integrals by swapping
-  the argument a kernel acts on.*
+  the argument of a kernel.*
 
 ## Overview
 ---
