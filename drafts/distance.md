@@ -76,12 +76,12 @@ Protagoras might have mixed feelings.
 ## Practice
 ---
 
-In practice, I find this works with $90$-$95\%$ accuracy for $f = 3$ and
-$f' = 4$.
+Take the transition from $f = 3$ to $f' = 4$.
 In this case, the distance estimate is
 
 $$
 d = \frac{s}{1 -(f'/f)} = 4s,
 $$
 
-or four times the number of steps. The problem
+or four times the number of steps. I find this works with $90$-$95\%$
+accuracy for distances on the order of $50$ steps.
