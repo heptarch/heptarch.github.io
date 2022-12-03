@@ -67,7 +67,7 @@ We can rearrange to eliminate the length of the arm, $a$, and physical
 height $h$, to find
 
 $$
-\frac{f}{d} = \frac{f'}{d - s} \quad \Longrightarrow \quad d = \frac{s}{1 -\frac{f'}{f}}.
+\frac{f}{d} = \frac{f'}{d - s} \quad \Longrightarrow \quad d = \frac{s}{1 -(f'/f)}.
 $$
 
 This gives a rule of thumb for distance measurement that would
@@ -76,5 +76,12 @@ probably give Protagoras mixed feelings.
 ## Practice
 ---
 
-In practice, I find this works with limited accuracy for $f = 3$ and
+In practice, I find this works with $90$-$95\%$ accuracy for $f = 3$ and
 $f' = 4$.
+In this case, the distance estimate is
+
+$$
+d = \frac{s}{1 -(f'/f)} = 4s,
+$$
+
+or four times the number of steps.
