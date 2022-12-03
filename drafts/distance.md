@@ -33,7 +33,7 @@ formed by the distant object:
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/anthrometry1.png" width="700"/>
-	<figcaption><i>Triangles formed by your hand and the object.</i></figcaption>
+	<figcaption><i>Similar triangles formed by your hand and the object.</i></figcaption>
 	</div>
 	</figure>
 
@@ -51,6 +51,14 @@ We now have a new set of similar triangles:
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/anthrometry2.png" width="700"/>
-	<figcaption><i>Triangles after moving towards the object</i></figcaption>
+	<figcaption><i>Similar triangles after moving towards the object.</i></figcaption>
 	</div>
 	</figure>
+
+The ratio of sides obeys
+
+$$
+\frac{f'}{a} = \frac{h}{d-s},
+$$
+
+where we measure distance in steps.
