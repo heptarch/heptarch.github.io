@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<span style="padding-left: 20px; display:block">
+<div style="background-color: #cfc ; padding: 10px; border: 1px solid
+green; line-height:1.5">
 Look at the pattern this seashell makes. The dappled whorl, curving
 inward to infinity. That's the shape of the universe itself. There's a
 constant pressure, pushing toward pattern. A tendency in matter to
@@ -17,12 +18,10 @@ strikes us as beautiful. And that feeling is the most important thing
 in all the universe—its culmination, like the color of a flower at
 first bloom on a wet morning. It’s a holy feeling, and our task in
 this world is to do everything we can to foster it.
-</span>
 
 <div style="text-align: right">Kim Stanley Robinson, <i>Green Mars</i>
 </div>
-
----
+</div>
 
 "Saxifrage" means "stone breaker". These tiny, five-petalled
 flowers are the toughest and most northernmost growing plants on
@@ -40,8 +39,6 @@ This website is a place for me to collect my own thoughts on, and
 attempts at, viriditas. It's a place I'll try to ask (and
 answer) stupid questions, not be boring, wonder, celebrate, and if I'm
 lucky, change reality in tough places. Like the little purple flowers.
-
----
 
 <a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
