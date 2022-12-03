@@ -11,6 +11,7 @@ date:  2022-12-02
   not in the sense Protagoras meant. I show how to estimate distance
   using only your hands and feet.*
 
+## Theory
 ---
 
 The ancient Greek philosopher Protagoras famously stated that "man is the
@@ -26,7 +27,7 @@ So, consider a distant object you want to find the distance to.
 Hold your hand out at a fixed distance from your eyes and fixed
 orientation (e.g. horizontal), and estimate the size of the object in
 fingers $f$.
-(Practically speaking, it's preferable to have an integer number of fingers.)
+(Practically, it's good to have an integer number of fingers.)
 Your arm and hands form a triangle which is similar to the triangle
 formed by the distant object:
 
@@ -69,5 +70,11 @@ $$
 \frac{f}{d} = \frac{f'}{d - s} \quad \Longrightarrow \quad d = \frac{s}{1 -\frac{f'}{f}}.
 $$
 
-Thus, by eyeballing the size of something in fingers, and counting
-some steps, we can 
+This gives a rule of thumb for distance measurement that would
+probably give Protagoras mixed feelings.
+
+## Practice
+---
+
+In practice, I find this works with limited accuracy for $f = 3$ and
+$f' = 4$.
