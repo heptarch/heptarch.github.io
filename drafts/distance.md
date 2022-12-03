@@ -9,7 +9,7 @@ date:  2022-12-02
 
 **December 2, 2022.** *Humans are the measure of all things, though
   not in the sense Protagoras meant. I show how to estimate distance
-  using your hands and feet.*
+  using only your hands and feet.*
 
 ---
 
@@ -22,4 +22,11 @@ hack for estimating distance using only your hands and feet. If you
 want to look eccentric and get better results, you can carry a clear
 plastic ruler around instead.
 
-The basic idea is to
+So, consider a distant object you want to find the distance to.
+Hold your hand out at a fixed distance from your eyes and fixed
+orientation (e.g. horizontal), and estimate the size of the object in
+fingers $f$.
+Practically speaking, you want to have an integer finger width.
+Now walk $s$ steps towards the object, so that it has integer finger
+width $f'$.
+If the original distance was 
