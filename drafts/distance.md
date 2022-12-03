@@ -11,8 +11,6 @@ date:  2022-12-02
   not in the sense Protagoras meant. I show how to estimate distance
   using only your hands and feet.*
 
----
-
 The ancient Greek philosopher Protagoras famously stated that "man is the
 measure of all things". He was also skeptical about whether math could
 be applied to the real world, so it's unlikely he meant you could use
