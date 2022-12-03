@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "An anthrometric hack"
+title:  "Anthrometry"
 categories: [Math, Hacks]
 date:  2022-12-02
 ---
