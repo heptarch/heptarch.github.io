@@ -27,7 +27,7 @@ So, consider a distant object you want to find the distance to.
 Hold your hand out at a fixed distance from your eyes and fixed
 orientation (e.g. horizontal), and estimate the size of the object in
 fingers $f$.
-(Practically, it's good to have an integer number of fingers.)
+(For best results, use an integer number of fingers.)
 Your arm and hands form a triangle which is similar to the triangle
 formed by the distant object:
 
