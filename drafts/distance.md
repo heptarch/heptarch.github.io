@@ -22,11 +22,20 @@ hack for estimating distance using only your hands and feet. If you
 want to look eccentric and get better results, you can carry a clear
 plastic ruler around instead.
 
-So, consider a distant object you want to find the distance to.
+So, consider a distant object you want to find the distance $d$ to.
 Hold your hand out at a fixed distance from your eyes and fixed
 orientation (e.g. horizontal), and estimate the size of the object in
 fingers $f$.
-Practically speaking, you want to have an integer finger width.
+(Practically speaking, you want to have an integer finger width.)
+Your arm and hands form a triangle which is similar to the triangle
+formed by the distant object:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/anthrometry1" width="600"/>
+	<figcaption><i>From Wikimedia Commons.</i></figcaption>
+	</div>
+	</figure>
+
 Now walk $s$ steps towards the object, so that it has integer finger
 width $f'$.
-If the original distance was 
