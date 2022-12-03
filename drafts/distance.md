@@ -13,12 +13,10 @@ date:  2022-12-02
 
 The ancient Greek philosopher Protagoras famously stated that "man is the
 measure of all things". He was also skeptical about whether math could
-be applied to the real world, so it's unlikely he meant you could use
-the human body to measure things. But you can! Famously, Galileo used
-his pulse as a stopwatch. In this post, I'll point out a neat little
-hack for estimating distance using only your hands and feet. If you
-want to look eccentric and get better results, you can carry a clear
-plastic ruler around instead.
+be applied to the real world, and according to Aristotle, argued that
+"perceptible lines are not the kind of things the geometer talks
+about". We'll consider a sort of Protagorean mashup and use humans to
+measure distances using exactly these "perceptible lines".
 
 ## Theory
 ---
@@ -95,3 +93,7 @@ By counting the number of steps from $f = 9$ to $f' = 10$, you estimate $d \appr
 that is the best you can do. For large ratios, you need to replace
 fingers with a finer measurement instrument, such as a clear plastic
 ruler held at arm's length.
+Although you will get better results and enable yourself to measure
+larger distances, you may look a tad eccentric.
+But as Protagoras informs us, that is a tradeoff that each individual
+must assess for, or measure, themselves.
