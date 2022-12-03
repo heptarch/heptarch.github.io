@@ -70,8 +70,8 @@ $$
 \frac{f}{d} = \frac{f'}{d - s} \quad \Longrightarrow \quad d = \frac{s}{1 -(f'/f)}.
 $$
 
-This gives a rule of thumb for distance measurement that would
-probably give Protagoras mixed feelings.
+This gives a cute rule of thumb for distance measurement about which
+Protagoras might have mixed feelings.
 
 ## Practice
 ---
