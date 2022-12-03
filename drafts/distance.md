@@ -11,7 +11,6 @@ date:  2022-12-02
   not in the sense Protagoras meant. I show how to estimate distance
   using only your hands and feet.*
 
-## Theory
 ---
 
 The ancient Greek philosopher Protagoras famously stated that "man is the
@@ -22,6 +21,9 @@ his pulse as a stopwatch. In this post, I'll point out a neat little
 hack for estimating distance using only your hands and feet. If you
 want to look eccentric and get better results, you can carry a clear
 plastic ruler around instead.
+
+## Theory
+---
 
 So, consider a distant object you want to find the distance to.
 Hold your hand out at a fixed distance from your eyes and fixed
