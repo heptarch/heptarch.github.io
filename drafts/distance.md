@@ -51,7 +51,7 @@ We now have a new set of similar triangles:
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/distance2.png" width="700"/>
+    ="/img/posts/distance2v2.png" width="700"/>
 	<figcaption><i>Similar triangles after moving towards the object.</i></figcaption>
 	</div>
 	</figure>
@@ -84,4 +84,4 @@ $$
 d = \frac{s}{1 -(f'/f)} = 4s,
 $$
 
-or four times the number of steps.
+or four times the number of steps. The problem
