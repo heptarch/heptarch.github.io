@@ -91,7 +91,7 @@ orientation of the hands can be fixed by an reference line, e.g. the
 horizon.
 
 The main disadvantage of the limited resolution of fingers.
-By going from $f = 9$ and $f' = 10$, you estimate $d \simeq 10s$, but
+By counting the number of steps from $f = 9$ to $f' = 10$, you estimate $d \approx 10s$, but
 that is the best you can do. For large ratios, you need to replace
 fingers with a finer measurement instrument, such as a clear plastic
 ruler held at arm's length.
