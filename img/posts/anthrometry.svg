@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="anthrometry.svg"
-   inkscape:export-filename="anthrometry1.png"
+   inkscape:export-filename="anthrometry2.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,21 +28,21 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0560803"
-     inkscape:cx="598.91281"
-     inkscape:cy="194.11403"
+     inkscape:cx="612.16938"
+     inkscape:cy="190.32644"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g6728" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:none">
+     style="display:inline">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.610054;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m -19.492334,70.202126 c -4.382996,2.139991 -8.404122,4.909616 -12.37649,7.718335 -0.663939,0.414981 -2.659424,1.541833 -0.857489,1.840049 1.795222,0.163311 3.656684,-0.05841 5.371538,0.631134 2.366438,0.553398 4.697385,1.441032 6.556653,3.04935 0.208585,0.152478 0.417252,0.304847 0.626872,0.455906"
@@ -82,7 +82,7 @@
          sodipodi:nodetypes="cssssssscsscssc" />
     </g>
     <path
-       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0.98983049;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 28.379627,47.644124 250.6597,8.5866301 V 48.188137 Z"
        id="path6610" />
     <path
@@ -119,14 +119,14 @@
     <text
        xml:space="preserve"
        style="font-style:oblique;font-weight:500;font-size:15.9492px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Medium Oblique';fill:#43724b;fill-opacity:1;stroke-width:0.398732"
-       x="238.25778"
-       y="43.992981"
+       x="253.28978"
+       y="42.740314"
        id="text3810"><tspan
          sodipodi:role="line"
          id="tspan3808"
          style="fill:#43724b;fill-opacity:1;stroke-width:0.398732"
-         x="238.25778"
-         y="43.992981">h</tspan></text>
+         x="253.28978"
+         y="42.740314">h</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:oblique;font-weight:500;font-size:15.9492px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Medium Oblique';fill:#c636ca;fill-opacity:1;stroke-width:0.398732"
@@ -142,13 +142,13 @@
        xml:space="preserve"
        style="font-style:oblique;font-weight:500;font-size:15.9492px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Medium Oblique';fill:#5a3434;fill-opacity:1;stroke-width:0.398732"
        x="145.22418"
-       y="44.150345"
+       y="42.897678"
        id="text4696"><tspan
          sodipodi:role="line"
          id="tspan4694"
          style="fill:#5a3434;fill-opacity:1;stroke-width:0.398732"
          x="145.22418"
-         y="44.150345">f</tspan></text>
+         y="42.897678">f</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:oblique;font-weight:500;font-size:15.9492px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Medium Oblique';fill:#eca61c;fill-opacity:1;stroke-width:0.398732"
@@ -172,7 +172,8 @@
   <g
      inkscape:label="Layer 1 copy"
      inkscape:groupmode="layer"
-     id="g6728">
+     id="g6728"
+     style="display:none">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.610054;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m -19.492334,70.202126 c -4.382996,2.139991 -8.404122,4.909616 -12.37649,7.718335 -0.663939,0.414981 -2.659424,1.541833 -0.857489,1.840049 1.795222,0.163311 3.656684,-0.05841 5.371538,0.631134 2.366438,0.553398 4.697385,1.441032 6.556653,3.04935 0.208585,0.152478 0.417252,0.304847 0.626872,0.455906"
@@ -212,7 +213,7 @@
          sodipodi:nodetypes="cssssssscsscssc" />
     </g>
     <path
-       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#5a3434;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 46.919095,47.644124 236.50457,8.5866301 237.1309,48.188137 Z"
        id="path6692"
        sodipodi:nodetypes="cccc" />
