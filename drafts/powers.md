@@ -75,4 +75,27 @@ $$
 (1+x)^n = 1 + nx + \binom{n}{2}x^2 + \cdots + x^n = \sum_{k=0}^n \binom{n}{k}x^k.
 $$
 
-We can use this 
+So, for instance,
+
+$$
+\begin{align*}
+67^{13} &= 70^{13}\left(1 - \frac{0.3}{7})^{13} \\
+& =
+70^{13}\left[1 - \frac{13\times 0.3}{7} + \frac{13\times 12 \times (0.3)^2}{2\times 7^2} - \frac{13 \times 12 \times 11 \times (0.3)^3}{6\times 7^3} + \cdots\right]\\
+& \approx 70^{13}\left[1 - 0.55 + 0.14 - 0.02 \right]\\
+& \approx 0.57 \times 10^{24} \\
+&  = 5.7 \times 10^{23},
+\end{align*}
+
+using the estimate from the previous section.
+This is much better!
+We've ignored the factor of $70/2^6$, which means we've
+underestimated, but we've also replaced $7^{12}$ with $(100/2)^6$,
+which is an overestimate, and the two almost cancel. As an exercise,
+you can use the binomial approximation to check this.
+
+## Where to stop?
+---
+
+In doing a binomial expansion, where should you stop? Depends on how
+much precision you want.
