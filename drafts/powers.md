@@ -98,4 +98,15 @@ you can use the binomial approximation to check this.
 ---
 
 In doing a binomial expansion, where should you stop? Depends on how
-much precision you want.
+much precision you want. Here, I went to third order since it gate
+terms of size $\sim 0.01$, which is the precision I wanted to try and
+match the correct answer above. How did I know? Well, I know terms in
+the expansion have the form
+
+$$
+\binom{n}{k}x^k = \binom{n}{k-1} x^{k-1} \times \frac{x (n-k+1)}{k},
+$$
+
+so for $n = 13$ and $x = -0.3/7$, progressive terms shrink by
+$\sim 0.04$ give or take. So I can probably stop after a term of the
+size I want, in this case, the third term, which was order $\sim 0.01$.
