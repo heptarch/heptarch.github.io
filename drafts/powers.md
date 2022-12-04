@@ -79,7 +79,7 @@ So, for instance,
 
 $$
 \begin{align*}
-67^{13} &= 70^{13}\left(1 - \frac{0.3}{7})^{13} \\
+67^{13} &= 70^{13}\left(1 - \frac{0.3}{7}\right)^{13} \\
 & =
 70^{13}\left[1 - \frac{13\times 0.3}{7} + \frac{13\times 12 \times (0.3)^2}{2\times 7^2} - \frac{13 \times 12 \times 11 \times (0.3)^3}{6\times 7^3} + \cdots\right]\\
 & \approx 70^{13}\left[1 - 0.55 + 0.14 - 0.02 \right]\\
@@ -111,3 +111,8 @@ $$
 so for $n = 13$ and $x = -0.3/7$, progressive terms shrink by
 $\sim 0.04$ give or take. So I can probably stop after a term of the
 size I want, in this case, the third term, which was order $\sim 0.01$.
+
+## An alternative
+---
+
+There are many ways to approach 
