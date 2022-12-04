@@ -38,8 +38,21 @@ We can use these to give quick and dirty estimates. For instance,
 
 $$
 \begin{align}
-67^{13}
+67^{13} & = 6.7^{13} \times 10^{13} \\
+& \approx 6\times 7^{12}\times 10^{13} \\
+& \approx 6 \times 49^6 \times 10^{13} \\
+& \approx \frac{6}{2^6} \times 100^6 \times 10^{13} \\
+& \approx 10^{24}.
 \end{align}
 $$
+
+If you get a calculator out, you find the answer is in fact
+
+$$
+67^{13} = 5.5 \times 10^{23},
+$$
+
+so this is correct to the nearest order of magnitude. Great! But can
+we can do better?
 
 ## Binomial boost
