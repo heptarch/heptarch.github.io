@@ -131,4 +131,8 @@ $$
 \end{align*}
 $$
 
-using our trick $6^9 \approx 10^7$ on the third line.
+using our trick $6^9 \approx 10^7$ on the third line. This illustrates
+the way factoring can be useful. Again, we can improve this estimate
+by binomially expanding from $66^{13}$ to $67^{13}$, a task I leave
+for the diligent reader. Taking just the leading term in the binomial
+expansion gives $5.3 \times 10^{23}$, a decent improvement.
