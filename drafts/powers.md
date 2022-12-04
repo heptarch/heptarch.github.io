@@ -39,9 +39,9 @@ We can use these to give quick and dirty estimates. For instance,
 $$
 \begin{align*}
 67^{13} & = 6.7^{13} \times 10^{13} \\
-& \approx 6\times 7^{12}\times 10^{13} \\
-& \approx 6 \times 49^6 \times 10^{13} \\
-& \approx \frac{6}{2^6} \times 100^6 \times 10^{13} \\
+& \approx 7\times 7^{12}\times 10^{13} \\
+& \approx 7 \times 49^6 \times 10^{13} \\
+& \approx \frac{7}{2^6} \times 100^6 \times 10^{13} \\
 & \approx 10^{24}.
 \end{align*}
 $$
