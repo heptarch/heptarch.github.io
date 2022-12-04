@@ -11,9 +11,17 @@ date:  2022-12-03
   perfect powers.*
 
 Say I want to estimate a perfect power like $67^{13}$, but only to the
-nearest order of magnitude, and don't have a calculator. It's also
+nearest order of magnitude, and don't have a calculator. <label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	  It's also
 easy to make the power so large that no calculator will give you an
-answer! We'll build up to an answer in stages.
+answer!</span> How do we go
+about it? We'll build up to an answer in stages.
 
 ## A new times table
 ---
@@ -66,3 +74,5 @@ In general, we have
 $$
 (1+x)^n = 1 + nx + \binom{n}{2}x^2 + \cdots + x^n = \sum_{k=0}^n \binom{n}{k}x^k.
 $$
+
+We can use this 
