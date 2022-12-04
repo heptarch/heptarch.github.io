@@ -52,11 +52,17 @@ $$
 67^{13} = 5.5 \times 10^{23},
 $$
 
-so this is correct to the nearest order of magnitude. Great! But can
-we can do better?
+so this is correct to the nearest order of magnitude. Great! But
+clearly, by replacing $6.7$ by $7$ on the second line we are going to
+overestimate. Can we do better?
 
 ## Binomial boost
 ---
 
 The [binomial theorem](https://en.wikipedia.org/wiki/Binomial_theorem)
 gives us a way to improve these estimates.
+In general, we have
+
+$$
+(1+x)^n = 1 + nx + \binom{n}{2}x^2 + \cdots + x^n = \sum_{k=0}^n \binom{n}{k}x^k.
+$$
