@@ -27,8 +27,8 @@ $$
 \begin{align*}
 2^{10} & = 1024 \approx 10^3 \\
 3^2 & = 9 \approx 10 \\
-5 & = \frac{10}{2} \quad \text{or} \quad 5^{10} = 9.77 \times 10^6 \approx 10^7\\
-6^9 = 1.01 \times 10^7 \approx
+5 & = \frac{10}{2} \\
+6^9 & = 1.01 \times 10^7 \approx
 10^7 \\
 7^2 & = 49 \approx \frac{100}{2}.
 \end{align*}
@@ -59,4 +59,4 @@ we can do better?
 ---
 
 The [binomial theorem](https://en.wikipedia.org/wiki/Binomial_theorem)
-gives us a way to improve
+gives us a way to improve these estimates.
