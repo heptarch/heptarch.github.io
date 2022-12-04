@@ -86,6 +86,7 @@ $$
 & \approx 0.57 \times 10^{24} \\
 &  = 5.7 \times 10^{23},
 \end{align*}
+$$
 
 using the estimate from the previous section.
 This is much better!
