@@ -24,26 +24,26 @@ so we can approximate binary powers easily enough. Here's a list of
 tricks for $2$ to $7$, omitting powers of $2$ and $3$:
 
 $$
-\begin{align}
+\begin{align*}
 2^{10} & = 1024 \approx 10^3 \\
 3^2 & = 9 \approx 10 \\
 5 & = \frac{10}{2} \quad \text{or} \quad 5^{10} = 9.77 \times 10^6 \approx 10^7\\
 6^9 = 1.01 \times 10^7 \approx
 10^7 \\
 7^2 & = 49 \approx \frac{100}{2}.
-\end{align}
+\end{align*}
 $$
 
 We can use these to give quick and dirty estimates. For instance,
 
 $$
-\begin{align}
+\begin{align*}
 67^{13} & = 6.7^{13} \times 10^{13} \\
 & \approx 6\times 7^{12}\times 10^{13} \\
 & \approx 6 \times 49^6 \times 10^{13} \\
 & \approx \frac{6}{2^6} \times 100^6 \times 10^{13} \\
 & \approx 10^{24}.
-\end{align}
+\end{align*}
 $$
 
 If you get a calculator out, you find the answer is in fact
@@ -56,3 +56,7 @@ so this is correct to the nearest order of magnitude. Great! But can
 we can do better?
 
 ## Binomial boost
+---
+
+The [binomial theorem](https://en.wikipedia.org/wiki/Binomial_theorem)
+gives us a way to improve
