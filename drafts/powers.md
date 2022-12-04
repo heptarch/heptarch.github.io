@@ -112,8 +112,7 @@ size I want, in this case, the third term, which was order $\sim 0.01$.
 ## Factors
 ---
 
-There are other ways to skin this cat. I'll mention another way, using
-similar tricks, but with some clever factoring added in. Note that
+There are other ways to skin this cat. Another strategy is factoring. Note that
 
 $$
 67 \approx 66 = 6 \times 11.
