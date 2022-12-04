@@ -95,9 +95,6 @@ underestimated, but we've also replaced $7^{12}$ with $(100/2)^6$,
 which is an overestimate, and the two almost cancel. As an exercise,
 you can use the binomial approximation to check this.
 
-## Where to stop?
----
-
 In doing a binomial expansion, where should you stop? Depends on how
 much precision you want. Here, I went to third order since it gate
 terms of size $\sim 0.01$, which is the precision I wanted to try and
@@ -112,7 +109,26 @@ so for $n = 13$ and $x = -0.3/7$, progressive terms shrink by
 $\sim 0.04$ give or take. So I can probably stop after a term of the
 size I want, in this case, the third term, which was order $\sim 0.01$.
 
-## An alternative
+## Factors
 ---
 
-There are many ways to approach 
+There are other ways to skin this cat. I'll mention another way, using
+similar tricks, but with some clever factoring added in. Note that
+
+$$
+67 \approx 66 = 6 \times 11.
+$$
+
+Then
+
+$$
+\begin{align*}
+67^{13} & \approx 6^{13} \times 11^{13} \\
+& \approx 6^4 \times 6^9 \times 10^{13}\times (1 + 0.1)^{13} \\
+& \approx 1300 \times 10^{20} \times (1 + 1.3 + 0.78 + 0.286) \\
+& \approx 1.3 \times 10^{23} \times 3.37 \\
+& \approx 4.4 \times 10^{23},
+\end{align*}
+$$
+
+using our trick $6^9 \approx 10^7$ on the third line.
