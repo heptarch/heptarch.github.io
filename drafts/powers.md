@@ -15,7 +15,7 @@ nearest order of magnitude, and don't have a calculator. It's also
 easy to make the power so large that no calculator will give you an
 answer! We'll build up to an answer in stages.
 
-## The power table
+## A new times table
 ---
 
 The first step is to relate single-digit powers to powers of $10$. For
@@ -36,3 +36,7 @@ $$
 9 & \approx 10.
 \end{align}
 $$
+
+This gives quick and dirty estimates for
+
+## Binomial boost
