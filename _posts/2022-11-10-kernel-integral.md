@@ -125,13 +125,6 @@ I call this the
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
-Setting $\alpha\beta = \tau$, it implies the cute duality
-
-$$
-\beta\int_{-\infty}^\infty \frac{ e^{-(\tau/\beta)^2
-x^2}}{\beta^2 + x^2} \, \text{d}x = \sqrt{2}\pi \alpha\tau e^{\tau^2}\text{erfc}(\tau).
-$$
-
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid
 green; line-height:1.5">
 <b>Exercise 1.</b> The <i>Hankel transform</i>
