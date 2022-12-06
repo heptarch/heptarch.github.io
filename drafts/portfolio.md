@@ -107,6 +107,11 @@ R_\lambda(\omega_k) & = \sum_{k=1}^n
 \\
 & = \sum_{k=1}^{n-1}
 \left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right] +
-\lambda \left(1-\sum_{k=1}^{n=1}\omega_n\mu_k + (\lambda- 1)\sum_{k=1}^{n-1}\omega_k^2\sigma_n^2.
+\lambda \left(1-\sum_{k=1}^{n=1}\omega_n\mu_k + (\lambda-
+1)\sum_{k=1}^{n-1}\omega_k^2\sigma_n^2 \\
+& = \sum_{k=1}^{n-1}
+\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right] +
+\lambda \left(\Omega-\sum_{k=1}^{n=1}\omega_n\mu_k + (\lambda-
+1)\left(\Omega - \sum_{k=1}^{n-1}\omega_k\right)^2\sigma_n^2 \\
 \end{align*}
 $$
