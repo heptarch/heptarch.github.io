@@ -149,3 +149,13 @@ $$
 \sum_{k=1}^n\frac{(1-\lambda)\mu_k}{2\lambda \sigma_k^2}\right].
 \end{align*}
 $$
+
+Since $\gamma \simeq \lambda$, for small $\lambda$ we can ignore that
+$\gamma$ term. Then the investments
+
+$$
+\omega_k \propto \frac{\mu_k}{\sigma^2_k},
+$$
+
+so we weight investments proportional to expected return, but
+inversely to variance. Sounds sensible!
