@@ -38,7 +38,7 @@ $$
 1}^{n} \omega_k \mu_k + \gamma \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right).
 $$
 
-This has no local maxima, so we have to search at the edge of the
+This has no local maxima, so the maximal return must lie at the edge of the
 feasible region. In fact, it's clear that just invest all our money in
 the bet with maximum return:
 
