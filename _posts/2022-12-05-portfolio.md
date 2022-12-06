@@ -176,7 +176,7 @@ so we weight investments proportional to expected return, but
 inversely to variance. Sounds sensible!
 On the other hand, when $\lambda \to 1$, the Lagrange multiplier
 $\gamma \gg (1 - \lambda)\mu_k$, so that the investment is
-proportional only to the inverse variance only:
+proportional to the inverse variance only:
 
 $$
 \omega_k\approx \frac{\gamma}{2\lambda\sigma_k^2} \propto \frac{1}{\sigma_k^2}.
