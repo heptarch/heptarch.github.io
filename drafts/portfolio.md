@@ -29,11 +29,11 @@ But if I try to optimize the expected return, I get a boring linear function
 
 $$
 \mathbb{E}[P] = \sum_{k =
-1}^{n-1} \omega_k \mu_k + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) \mu_n,
+1}^{n-1} \omega_k \mu_k + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) \mu_n.
 $$
 
-which is clearly maximized by investing all my money in whatever bet
-has the largest expected return:
+This is maximized by betting everything on whatever $k$ has the
+largest expected return:
 
 $$
 P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k \mu_k.
