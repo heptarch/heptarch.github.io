@@ -47,9 +47,6 @@ P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k\,\mu_k.
 $$
 
 But putting all your eggs in one basket seems like a bad idea.
-My intuition is that to optimize my portfolio, my investment should
-include a spread of high-risk, high-return and low-risk, low-return
-bets.
 What have we missed?
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px
@@ -62,9 +59,11 @@ How should assess the value of a portfolio
 ## Adding risk
 ---
 
-Maximising expected return is good, but it ignores the *risk*, or
-uncertainty of our bets, altogether.
-The simplest way to measure this is the total variance,
+My intuition is that to optimize my portfolio, my investment should
+include a spread of high-risk, high-return and low-risk, low-return
+bets.
+Maximising expected return ignores the *risk* altogether!
+The simplest way to measure the risk of our portfolio is the total variance,
 
 $$
 \sigma^2_P = \mathbb{E}[(P - \mu_P)^2].
