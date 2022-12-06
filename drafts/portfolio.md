@@ -28,7 +28,7 @@ include a spread of high-risk, high-return and low-risk, low-return bets.
 But if I try to optimize the expected return $\mu_P = \mathbb{E}[P]$, I get a boring linear function
 
 $$
-\mu_P = \sum_{k =
+\mu_P(\omegA)k) = \sum_{k =
 1}^{n} \omega_k \mu_k,
 $$
 
@@ -74,7 +74,7 @@ If the bets are independent random variables, then the variance is
 additive, with
 
 $$
-\sigma^2[P] = \sum_{k =
+\sigma^2_P(\omega_k) = \sum_{k =
 1}^{n} \omega_k \sigma^2_k,
 $$
 
@@ -85,4 +85,12 @@ $$
 \sigma^2[P] = \sum_{k = 1}^{n} \omega_k \sigma^2_k + \sum_{j \neq k}
 \text{cov}(B_j, B_k), \quad \text{cov}(B_j, B_k) =
 \mathbb{E}[(B_j - \mu_j)(B_k - \mu_k)].
+$$
+
+Instead of maximizing expected return, it seems reasonable to try and
+try to balance between maximizing return and minimizing risk, which we
+can represent by the convex combination
+
+$$
+L
 $$
