@@ -54,3 +54,11 @@ How do we measure the value of a portfolio of bets so the optimum is a spread?
 
 Maximising expected return is good, but it ignores the *risk*, or
 uncertainty of our bets, altogether.
+The simplest way to measure this is the total variance,
+
+$$
+\sigma^2[P] = \sum_{k =
+1}^{n-1} \omega_k \sigma^2_k + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) \sigma^2_n,
+$$
+
+where $\sigma^2_k$ is the variance of $B_k$.
