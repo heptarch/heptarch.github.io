@@ -82,5 +82,6 @@ where $\sigma^2_k$ is the variance of $B_k$.
 If they are not independent, then we simply add some covariance terms:
 
 $$
-\sigma^2[P] = 
+\sigma^2[P] = \sum_{k = 1}^{n} \omega_k \sigma^2_k + \sum_{j \neq k}
+\text{cov}(B_j, B_k).
 $$
