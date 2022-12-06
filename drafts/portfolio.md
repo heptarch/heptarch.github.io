@@ -43,7 +43,8 @@ largest expected return:<label for="sn-1"
 	   of the form $z = \sum_k \omega_k \mu_k$ with the hyperplane
 	   $\Omega = \sum_k\omega_k$, with additional constraints $0 \leq
 	   \omega_k$. This gives a family of lines labelled by $z$, for
-	   each of which we simply travel to the tip of the feasible region.</span>
+	   each of which we simply travel to the tip of the feasible
+	   region and maximize over $z$.</span>
 
 $$
 P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k\,\mu_k.
