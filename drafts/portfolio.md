@@ -50,7 +50,7 @@ $$
 P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k\,\mu_k.
 $$
 
-This doesn't seem quite right, so what have we missed?
+Putting all your eggs in one basket seems like a bad idea. What have we missed?
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px
 solid green; line-height:1.5">
