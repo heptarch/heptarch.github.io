@@ -128,3 +128,16 @@ so we have an extremum at
 $$
 \omega_k = \frac{(1-\lambda)\mu_k + \gamma}{2\lambda \sigma_k^2}.
 $$
+
+To determine the value of $\gamma$, note that our constraint is
+
+$$
+\begin{align*}
+\Omega & = \sum_{k=1}^n\omega_k \\
+& = \sum_{k=1}^n\frac{(1-\lambda)\mu_k +
+\gamma}{2\lambda \sigma_k^2} \\
+\Longrightarrow \quad \gamma
+= \left(\sum_{k=1}^n\frac{1}{2\lambda \sigma_k^2}\right)^{-1}\left[\Omega -
+\sum_{k=1}^n\frac{(1-\lambda)\mu_k}{2\lambda \sigma_k^2}\right].
+\end{align*}
+$$
