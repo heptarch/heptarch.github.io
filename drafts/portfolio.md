@@ -2,12 +2,13 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Portfolio optimization and stochastic replicators"
+title:  "Derisky business"
 categories: [Math, Probability, Finance]
 date:  2022-12-05
 ---
 
-**December 5, 2022.** *A*
+**December 5, 2022.** *A quick, first-principles discussion of
+  optimizing portfolios when risk is taken into account.*
 
 ## Introduction
 ---
@@ -60,7 +61,7 @@ How do we assess the value of a portfolio so the optimum is a spread
 of risky and safe options?
 </div>
 
-## Risky business
+## Adding/removing risk
 ---
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px
