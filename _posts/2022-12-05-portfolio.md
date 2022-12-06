@@ -57,8 +57,8 @@ What have we missed?
 solid green; line-height:1.5">
 <b>Portfolio optimization.</b> <br>
 
-How do we assess the value of a portfolio so the optimum is a spread
-of risky and safe options?
+How do we assess the value of a portfolio so the optimum can
+accomodate risk-aversion?
 </div>
 
 ## Derisky business
