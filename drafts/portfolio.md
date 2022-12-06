@@ -63,7 +63,7 @@ of risky and safe options?
 ## Adding risk
 ---
 
-Maximising expected return ignores the *risk* altogether!
+Maximizing expected return ignores the *risk* altogether!
 The simplest way to measure the risk of our portfolio is the total variance,
 
 $$
