@@ -108,7 +108,7 @@ The expected return is $0$-derisked, while $1$-derisked
 return minimizes the variance of the portfolio and ignores the return
 completely.
 
-## Spreading the eggs
+## Distributing eggs
 ---
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px
