@@ -104,7 +104,7 @@ explicitly write the derisked return as
 $$
 \begin{align*}
 R_\lambda(\omega_k, \kappa) & = \sum_{k=1}^n
-\left[(1-\lambda_ \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] -
+\left[(1-\lambda) \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] -
 \kappa \left(\Omega - \sum_{k=1}^n\omega_k\right).
 \end{align*}
 $$
