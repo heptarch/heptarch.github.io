@@ -75,7 +75,7 @@ additive, with
 
 $$
 \sigma^2[P] = \sum_{k =
-1}^{n-1} \omega_k \sigma^2_k + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) \sigma^2_n,
+1}^{n} \omega_k \sigma^2_k,
 $$
 
 where $\sigma^2_k$ is the variance of $B_k$.
