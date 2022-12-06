@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Derisky business"
+title:  "Portfolio optimization"
 categories: [Math, Probability, Finance]
 date:  2022-12-05
 ---
@@ -14,7 +14,7 @@ date:  2022-12-05
 ---
 
 Suppose there are $n$ bets I can make, with the return per dollar for
-bet $k$, represented by a random variable $B_k$
+bet $k$ represented by a random variable $B_k$
 with expected value $\mu_k = \mathbb{E}[B_k]$.
 If I invest $\omega_k$ on bet
 $k$, and have a fixed total $\Omega$, then I can view the value of my
@@ -61,7 +61,7 @@ How do we assess the value of a portfolio so the optimum is a spread
 of risky and safe options?
 </div>
 
-## Adding/removing risk
+## Derisky business
 ---
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px
@@ -134,7 +134,7 @@ Then adding a Lagrange multiplier as above, we get
 $$
 \begin{align*}
 R_\lambda(\omega_k, \gamma) & = \sum_{k=1}^n
-\left[(1-\lambda) \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] -
+\left[(1-\lambda) \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] +
 \gamma \left(\Omega - \sum_{k=1}^n\omega_k\right).
 \end{align*}
 $$
@@ -149,7 +149,7 @@ $$
 so we have an extremum at
 
 $$
-\omega_k = \frac{(1-\lambda)\mu_k + \gamma}{2\lambda \sigma_k^2}.
+\omega_k = \frac{(1-\lambda)\mu_k + \gamma}{2\lambda \sigma_k^2}. \tag{1}\label{opt}
 $$
 
 To determine the value of $\gamma$, note from our constraint that
@@ -165,16 +165,17 @@ $$
 \end{align*}
 $$
 
-Since $\gamma \simeq \lambda$, for small $\lambda$ we can ignore that
+Since $\gamma \simeq \lambda$, for small $\lambda$ (a return-oriented investor) we can ignore that
 $\gamma$ term. Then the investments
 
 $$
-\omega_k \approx \frac{(1 - \lambda)\mu_k}{2\lambda\sigma^2_k} \propto \frac{\mu_k}{\sigma^2_k},
+\omega_k \approx \frac{(1 - \lambda)\mu_k}{2\lambda\sigma^2_k} \propto
+\frac{\mu_k}{\sigma^2_k},
 $$
 
 so we weight investments proportional to expected return, but
 inversely to variance. Sounds sensible!
-On the other hand, when $\lambda \to 1$, the Lagrange multiplier
+On the other hand, when $\lambda \to 1$ (a risk-averse investor), the Lagrange multiplier
 $\gamma \gg (1 - \lambda)\mu_k$, so that the investment is
 proportional to the inverse variance only:
 
@@ -183,10 +184,4 @@ $$
 $$
 
 Intermediate values of $\lambda$ go between these two regimes, with a
-degeneracy at $\lambda = 0$ where only expected return matters.<label for="sn-2"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-2"
-       class="margin-toggle"/>
-	   <span class="sidenote">I'm sure all this is already known, but it was fun to work out!</span>
+degeneracy at $\lambda = 0$ where only expected return matters.
