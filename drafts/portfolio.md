@@ -90,28 +90,29 @@ $$
 Instead of just maximizing expected return, we should balance return
 and risk. A simple way to do this is to maximize the convex
 combination of $\mu_k$ and $-\sigma^2_P$, which we'll call the
-*risk-balanced return*:
+*$\lambda$-derisked return*:
 
 $$
-R_\lambda(\omega_k) = \lambda \mu_P(\omega_k) + (\lambda -
-1)\sigma^2_P(\omega_k).
+R_\lambda(\omega_k) = (1 - \lambda) \mu_P(\omega_k) - \lambda \sigma^2_P(\omega_k).
 $$
 
-For simplicity, let's assume our bets are independent. The balanced
-return is then
+The expected return is $0$-derisked return, and the $1$-derisked
+return simply minimizes the variance of the portfolio.
+For simplicity, let's assume our bets are independent. We can
+explicitly write the derisked return as
 
 $$
 \begin{align*}
 R_\lambda(\omega_k) & = \sum_{k=1}^n
-\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right]
+\left[(1-\lambda_ \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right]
 \\
 & = \sum_{k=1}^{n-1}
-\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right] +
-\lambda \left(1-\sum_{k=1}^{n=1}\omega_k\right)\mu_n + (\lambda-
-1)\sum_{k=1}^{n-1}\omega_k^2\sigma_n^2 \\
+\left[(1-\lambda) \omega_k\mu_k - \lambda\omega_k^2\sigma_k^2\right] +
+(1-\lambda) \left(\Omega-\sum_{k=1}^{n=1}\omega_k\right)\mu_n -
+\lambda\left(\Omega - \sum_{k=1}^{n-1}\omega_k\right)^2\sigma_n^2 \\
 & = \sum_{k=1}^{n-1}
-\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right] +
-\lambda \left(\Omega-\sum_{k=1}^{n=1}\omega_k\right)\mu_n + (\lambda-
-1)\left(\Omega - \sum_{k=1}^{n-1}\omega_k\right)^2\sigma_n^2 \\
+\left[(1-\lambda) \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] +
+(1-\lambda) \left(\Omega-\sum_{k=1}^{n=1}\omega_k\right)\mu_n -
+\lambda\left(\Omega - \sum_{k=1}^{n-1}\omega_k\right)^2\sigma_n^2 \\
 \end{align*}
 $$
