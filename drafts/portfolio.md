@@ -11,22 +11,23 @@ date:  2022-12-05
 
 ---
 
-Suppose I have $n$ bets I can make, with return per dollar
-represented by random variable $B_k$. If I invest $\omega_k$ in bet
-$k$, with fixed total $\Omega$, then I can view the value of my
+Suppose there are $n$ bets I can make, with the return per dollar for
+bet $k$, $k = 1, \ldots, n$, represented by a random variable $B_k$.
+If I invest $\omega_k$ on bet
+$k$, and have a fixed total $\Omega$, then I can view the value of my
 portfolio as a random variable
-$P$
 
 $$
-P = \sum_{k = 1}^n \omega_k \mathbb{E}[B_k] = \sum_{k =
+P(\omega_k) = \sum_{k = 1}^n \omega_k \mathbb{E}[B_k] = \sum_{k =
 1}^{n-1} \omega_k B_k + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) B_n.
 $$
 
-How much should I invest in each bet?
-My intuition is that
+My intuition is that to optimize my portfolio, my investment should
+include both high and low risk bets.
+But if I try to optimize the expected return, I get a linear function
 
 $$
-\mathbb{E}[P] = \sum_{k = 1}^n \omega_k \mathbb{E}[B_k] = \sum_{k =
+\mathbb{E}[P] = \sum_{k =
 1}^{n-1} \omega_k \mathbb{E}[B_k] + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) \mathbb{E}[B_n].
 $$
 
