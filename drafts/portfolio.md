@@ -60,15 +60,14 @@ How do we assess the value of a portfolio so the optimum is a spread
 of risky and safe options?
 </div>
 
-## Adding risk
+## Risky business
 ---
 
 <div style="background-color: #EAD1DC ; padding: 10px; border: 1px
 solid purple; line-height:1.5">
 <b>Derisked return.</b><br>
 
-A convex combination of expected return and (negative) variance leads
-to a spread.
+We can evaluate portfolios with a convex combination of expected return and (negative) variance.
 </div>
 
 Maximizing expected return ignores the *risk* altogether!
@@ -105,7 +104,21 @@ R_\lambda(\omega_k) = (1 - \lambda) \mu_P(\omega_k) - \lambda \sigma^2_P(\omega_
 $$
 
 The expected return is $0$-derisked, while $1$-derisked
-return minimizes the variance of the portfolio and ignores the return completely.
+return minimizes the variance of the portfolio and ignores the return
+completely.
+
+## Spreading the eggs
+---
+
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
+solid purple; line-height:1.5">
+<b>Derisking limits.</b><br>
+
+In the $\lambda \to 0$ derisked limit, investments are proportional to
+expected return and inverse variance, but as $\lambda \to 1$, to
+inverse variance only.
+</div>
+
 For simplicity, let's assume our bets are independent.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -154,8 +167,17 @@ Since $\gamma \simeq \lambda$, for small $\lambda$ we can ignore that
 $\gamma$ term. Then the investments
 
 $$
-\omega_k \propto \frac{\mu_k}{\sigma^2_k},
+\omega_k \approx \frac{(1 - \lambda)\mu_k}{2\lambda\sigma^2_k} \propto \frac{\mu_k}{\sigma^2_k},
 $$
 
 so we weight investments proportional to expected return, but
 inversely to variance. Sounds sensible!
+On the other hand, when $\lambda \to 1$, the Lagrange multiplier
+$\gamma \gg (1 - \lambda)\mu_k$, so that the investment is
+proportional only to the inverse variance only:
+
+$$
+\omega_k\approx \frac{\gamma}{2\lambda\sigma_k^2} \propto \frac{1}{\sigma_k^2}.
+$$
+
+Intermediate values of $\lambda$ interpolate between these two regimes.
