@@ -75,22 +75,30 @@ additive, with
 
 $$
 \sigma^2_P(\omega_k) = \sum_{k =
-1}^{n} \omega_k \sigma^2_k,
+1}^{n} \omega_k^2 \sigma^2_k,
 $$
 
 where $\sigma^2_k$ is the variance of $B_k$.
 If they are not independent, then we add covariance terms:
 
 $$
-\sigma^2_P(\omega_k) = \sum_{k = 1}^{n} \omega_k \sigma^2_k + \sum_{j \neq k}
-\text{cov}(B_j, B_k), \quad \text{cov}(B_j, B_k) =
+\sigma^2_P(\omega_k) = \sum_{k = 1}^{n} \omega_k^2 \sigma^2_k + \sum_{j \neq k}
+\omega_j\omega_k\text{cov}(B_j, B_k), \quad \text{cov}(B_j, B_k) =
 \mathbb{E}[(B_j - \mu_j)(B_k - \mu_k)].
 $$
 
-Instead of maximizing expected return, it seems reasonable to try and
-try to balance between maximizing return and minimizing risk, which we
-can represent by the convex combination
+Instead of just maximizing expected return, we should balance return
+and risk. A simple way to do this is to maximize the convex
+combination of $\mu_k$ and $-\sigma^2_P$:
 
 $$
-L_\lambda(\omega_k) = \lambda \mu_P(\omega_k) + (1 - \lambda)\sigma^2_P(\omega_k).
+L_\lambda(\omega_k) = \lambda \mu_P(\omega_k) + (\lambda -
+1)\sigma^2_P(\omega_k).
+$$
+
+For simplicity, let's assume our bets are independent. Then
+
+$$
+L_\lambda(\omega_k) - \sum_{k=1}^n
+\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma^2\right].
 $$
