@@ -9,6 +9,7 @@ date:  2022-12-05
 
 **December 5, 2022.** *A*
 
+## Introduction
 ---
 
 Suppose there are $n$ bets I can make, with the return per dollar for
@@ -36,5 +37,20 @@ This is maximized by betting everything on whatever $k$ has the
 largest expected return:
 
 $$
-P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k \mu_k.
+P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k\,\mu_k.
 $$
+
+This doesn't seem quite right, so what have we missed?
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px
+solid green; line-height:1.5">
+<b>Portfolio optimization.</b> <br>
+
+How do we measure the value of a portfolio of bets so the optimum is a spread?
+</div>
+
+## Adding risk
+---
+
+Maximising expected return is good, but it ignores the *risk*, or
+uncertainty of our bets, altogether.
