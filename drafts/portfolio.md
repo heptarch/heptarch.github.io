@@ -18,5 +18,5 @@ $P$ with expected return
 
 $$
 \mathbb{E}[P] = \sum_{k = 1}^n \omega_k \mathbb{E}[B_k] = \sum_{k =
-1}^{n-1} \omega_k \mathbb{E}[B_k] + \left(1 - \sum{k=1}^{n-1}\omega_k\right) \mathbb{E}[B_n].
+1}^{n-1} \omega_k \mathbb{E}[B_k] + \left(\Omega - \sum{k=1}^{n-1}\omega_k\right) \mathbb{E}[B_n].
 $$
