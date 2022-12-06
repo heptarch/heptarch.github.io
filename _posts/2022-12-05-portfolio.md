@@ -7,8 +7,8 @@ categories: [Math, Probability, Finance]
 date:  2022-12-05
 ---
 
-**December 5, 2022.** *A quick, first-principles discussion of
-  optimizing portfolios when risk is taken into account.*
+**December 5, 2022.** *A quick, first-principles derivation of
+  optimal portfolios with risk.*
 
 ## Introduction
 ---
@@ -182,6 +182,11 @@ $$
 \omega_k\approx \frac{\gamma}{2\lambda\sigma_k^2} \propto \frac{1}{\sigma_k^2}.
 $$
 
-Intermediate values of $\lambda$ go between these two regimes,
-gradually dialling down the relative importance of expected return.
-Presumably all of this was already known, but it was fun to work out.
+Intermediate values of $\lambda$ go between these two regimes, with a
+degeneracy at $\lambda = 0$ where only expected return matters.<label for="sn-2"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-2"
+       class="margin-toggle"/>
+	   <span class="sidenote">I'm sure all this is already known, but it was fun to work out!</span>
