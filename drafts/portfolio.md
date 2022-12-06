@@ -67,7 +67,8 @@ of risky and safe options?
 solid purple; line-height:1.5">
 <b>Derisked return.</b><br>
 
-We can evaluate portfolios with a convex combination of expected return and (negative) variance.
+We can maximize a convex combination of expected return and (negative)
+variance.
 </div>
 
 Maximizing expected return ignores the *risk* altogether!
