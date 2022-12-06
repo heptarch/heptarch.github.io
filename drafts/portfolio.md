@@ -12,7 +12,7 @@ date:  2022-12-05
 ---
 
 Suppose there are $n$ bets I can make, with the return per dollar for
-bet $k$, $k = 1, \ldots, n$, represented by a random variable $B_k$
+bet $k$, represented by a random variable $B_k$
 with expected value $\mu_k = \mathbb{E}[B_k]$.
 If I invest $\omega_k$ on bet
 $k$, and have a fixed total $\Omega$, then I can view the value of my
