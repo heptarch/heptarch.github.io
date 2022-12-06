@@ -129,7 +129,7 @@ $$
 \omega_k = \frac{(1-\lambda)\mu_k + \gamma}{2\lambda \sigma_k^2}.
 $$
 
-To determine the value of $\gamma$, note that our constraint is
+To determine the value of $\gamma$, note from our constraint that
 
 $$
 \begin{align*}
