@@ -96,23 +96,15 @@ $$
 R_\lambda(\omega_k) = (1 - \lambda) \mu_P(\omega_k) - \lambda \sigma^2_P(\omega_k).
 $$
 
-The expected return is $0$-derisked return, and the $1$-derisked
-return simply minimizes the variance of the portfolio.
+The expected return is $0$-derisked, while $1$-derisked
+return minimizes the variance of the portfolio.
 For simplicity, let's assume our bets are independent. We can
 explicitly write the derisked return as
 
 $$
 \begin{align*}
-R_\lambda(\omega_k) & = \sum_{k=1}^n
-\left[(1-\lambda_ \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right]
-\\
-& = \sum_{k=1}^{n-1}
-\left[(1-\lambda) \omega_k\mu_k - \lambda\omega_k^2\sigma_k^2\right] +
-(1-\lambda) \left(\Omega-\sum_{k=1}^{n=1}\omega_k\right)\mu_n -
-\lambda\left(\Omega - \sum_{k=1}^{n-1}\omega_k\right)^2\sigma_n^2 \\
-& = \sum_{k=1}^{n-1}
-\left[(1-\lambda) \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] +
-(1-\lambda) \left(\Omega-\sum_{k=1}^{n=1}\omega_k\right)\mu_n -
-\lambda\left(\Omega - \sum_{k=1}^{n-1}\omega_k\right)^2\sigma_n^2 \\
+R_\lambda(\omega_k, \kappa) & = \sum_{k=1}^n
+\left[(1-\lambda_ \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] -
+\kappa \left(\Omega - \sum_{k=1}^n\omega_k\right).
 \end{align*}
 $$
