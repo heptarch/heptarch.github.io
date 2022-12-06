@@ -96,9 +96,10 @@ L_\lambda(\omega_k) = \lambda \mu_P(\omega_k) + (\lambda -
 1)\sigma^2_P(\omega_k).
 $$
 
-For simplicity, let's assume our bets are independent. Then
+For simplicity, let's assume our bets are independent. Our loss
+function is now quadratic:
 
 $$
-L_\lambda(\omega_k) - \sum_{k=1}^n
-\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma^2\right].
+L_\lambda(\omega_k) = \sum_{k=1}^n
+\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right].
 $$
