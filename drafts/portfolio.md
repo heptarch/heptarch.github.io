@@ -94,13 +94,20 @@ $$
 
 The expected return is $0$-derisked, while $1$-derisked
 return minimizes the variance of the portfolio.
-For simplicity, let's assume our bets are independent.
-
+For simplicity, let's assume our bets are independent.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">Otherwise, we simply diagonalize the
+	   covariance matrix and go to a basis of orthogonal bets.</span>
+Then adding a Lagrange multiplier as above, we get
 
 $$
 \begin{align*}
-R_\lambda(\omega_k, \kappa) & = \sum_{k=1}^n
+R_\lambda(\omega_k, \gamma) & = \sum_{k=1}^n
 \left[(1-\lambda) \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] -
-\kappa \left(\Omega - \sum_{k=1}^n\omega_k\right).
+\gamma \left(\Omega - \sum_{k=1}^n\omega_k\right).
 \end{align*}
 $$
