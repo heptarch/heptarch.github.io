@@ -92,5 +92,5 @@ try to balance between maximizing return and minimizing risk, which we
 can represent by the convex combination
 
 $$
-L
+L_\lambda(\omega_k) = \lambda \mu_P(\omega_k) + (1 - \lambda)\sigma^2_P(\omega_k).
 $$
