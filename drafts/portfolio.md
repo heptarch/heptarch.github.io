@@ -114,9 +114,9 @@ completely.
 solid purple; line-height:1.5">
 <b>Derisking limits.</b><br>
 
-In the $\lambda \to 0$ derisked limit, investments are proportional to
+In the $\lambda \to 0$ derisked limit, optimal investments are proportional to
 expected return and inverse variance, but as $\lambda \to 1$, to
-inverse variance only.
+inverse variance only. General $\lambda$ interpolates between these regimes.
 </div>
 
 For simplicity, let's assume our bets are independent.<label for="sn-1"
