@@ -137,7 +137,7 @@ $$
 & = \sum_{k=1}^n\frac{(1-\lambda)\mu_k +
 \gamma}{2\lambda \sigma_k^2} \\
 \Longrightarrow \quad \gamma
-= \left(\sum_{k=1}^n\frac{1}{2\lambda \sigma_k^2}\right)^{-1}\left[\Omega -
+& = \left(\sum_{k=1}^n\frac{1}{2\lambda \sigma_k^2}\right)^{-1}\left[\Omega -
 \sum_{k=1}^n\frac{(1-\lambda)\mu_k}{2\lambda \sigma_k^2}\right].
 \end{align*}
 $$
