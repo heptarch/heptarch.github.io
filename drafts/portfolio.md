@@ -28,7 +28,7 @@ include a spread of high-risk, high-return and low-risk, low-return bets.
 But if I try to optimize the expected return $\mu_P = \mathbb{E}[P]$, I get a boring linear function
 
 $$
-\mu_P(\omegA)k) = \sum_{k =
+\mu_P(\omega)k) = \sum_{k =
 1}^{n} \omega_k \mu_k,
 $$
 
