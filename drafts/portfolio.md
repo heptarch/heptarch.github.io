@@ -181,4 +181,5 @@ $$
 \omega_k\approx \frac{\gamma}{2\lambda\sigma_k^2} \propto \frac{1}{\sigma_k^2}.
 $$
 
-Intermediate values of $\lambda$ interpolate between these two regimes.
+Intermediate values of $\lambda$ go between these two regimes,
+gradually dialling down the relative importance of expected return.
