@@ -53,7 +53,7 @@ What have we missed?
 solid green; line-height:1.5">
 <b>Portfolio optimization.</b> <br>
 
-How should assess the value of a portfolio
+How do we assess the value of a portfolio so the optimum is a spread?
 </div>
 
 ## Adding risk
@@ -113,4 +113,17 @@ R_\lambda(\omega_k, \gamma) & = \sum_{k=1}^n
 \left[(1-\lambda) \omega_k\mu_k - \lambda \omega_k^2\sigma_k^2\right] -
 \gamma \left(\Omega - \sum_{k=1}^n\omega_k\right).
 \end{align*}
+$$
+
+The partial derivatives are
+
+$$
+\partial_{\omega_k} R_\lambda = (1-\lambda)\mu_k + \gamma - 2\lambda
+\omega_k \sigma_k^2,
+$$
+
+so we have an extremum at
+
+$$
+\omega_k = \frac{(1-\lambda)\mu_k + \gamma}{2\lambda \sigma_k^2}.
 $$
