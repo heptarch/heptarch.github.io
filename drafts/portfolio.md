@@ -97,7 +97,7 @@ R_\lambda(\omega_k) = (1 - \lambda) \mu_P(\omega_k) - \lambda \sigma^2_P(\omega_
 $$
 
 The expected return is $0$-derisked, while $1$-derisked
-return minimizes the variance of the portfolio.
+return minimizes the variance of the portfolio and ignores the return completely.
 For simplicity, let's assume our bets are independent.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
