@@ -28,23 +28,19 @@ include a spread of high-risk, high-return and low-risk, low-return bets.
 But if I try to optimize the expected return $\mu_P = \mathbb{E}[P]$, I get a boring linear function
 
 $$
-\mu_P(\omega)k) = \sum_{k =
-1}^{n} \omega_k \mu_k,
+\mu_P(\omega_k) = \sum_{k =
+1}^{n} \omega_k \mu_k.
 $$
 
-which is maximized by betting everything on whatever $k$ has the
-largest expected return:<label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
-	   <span class="sidenote">We look for intersections of hyperplanes
-	   of the form $z = \sum_k \omega_k \mu_k$ with the hyperplane
-	   $\Omega = \sum_k\omega_k$, with additional constraints $0 \leq
-	   \omega_k$. This gives a family of lines labelled by $z$, for
-	   each of which we simply travel to the tip of the feasible
-	   region and maximize over $z$.</span>
+To see how to maximize this, we can introduce a Lagrange multiplier
+$\gamma$ to enforce the fixed total:
+
+$$
+\mu_P(\omega_k, \gamma) = \sum_{k =
+1}^{n} \omega_k \mu_k + \gamma \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right).
+$$
+
+To maximize this,
 
 $$
 P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k\,\mu_k.
@@ -98,8 +94,8 @@ $$
 
 The expected return is $0$-derisked, while $1$-derisked
 return minimizes the variance of the portfolio.
-For simplicity, let's assume our bets are independent. We can
-explicitly write the derisked return as
+For simplicity, let's assume our bets are independent.
+
 
 $$
 \begin{align*}
