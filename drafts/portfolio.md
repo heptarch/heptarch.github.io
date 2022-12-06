@@ -63,6 +63,14 @@ of risky and safe options?
 ## Adding risk
 ---
 
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
+solid purple; line-height:1.5">
+<b>Derisked return.</b><br>
+
+A convex combination of expected return and (negative) variance leads
+to a spread.
+</div>
+
 Maximizing expected return ignores the *risk* altogether!
 The simplest way to measure the risk of our portfolio is the total variance,
 
