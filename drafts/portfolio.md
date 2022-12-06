@@ -23,9 +23,7 @@ $$
 P(\omega_k) = \sum_{k = 1}^n \omega_k B_k.
 $$
 
-My intuition is that to optimize my portfolio, my investment should
-include a spread of high-risk, high-return and low-risk, low-return bets.
-But if I try to optimize the expected return $\mu_P = \mathbb{E}[P]$, I get a boring linear function
+If I try to optimize the expected return $\mu_P = \mathbb{E}[P]$, I get a boring linear function
 
 $$
 \mu_P(\omega_k) = \sum_{k =
@@ -40,13 +38,19 @@ $$
 1}^{n} \omega_k \mu_k + \gamma \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right).
 $$
 
-To maximize this,
+This has no local maxima, so we have to search at the edge of the
+feasible region. In fact, it's clear that just invest all our money in
+the bet with maximum return:
 
 $$
 P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k\,\mu_k.
 $$
 
-Putting all your eggs in one basket seems like a bad idea. What have we missed?
+But putting all your eggs in one basket seems like a bad idea.
+My intuition is that to optimize my portfolio, my investment should
+include a spread of high-risk, high-return and low-risk, low-return
+bets.
+What have we missed?
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px
 solid green; line-height:1.5">
