@@ -183,3 +183,4 @@ $$
 
 Intermediate values of $\lambda$ go between these two regimes,
 gradually dialling down the relative importance of expected return.
+Presumably all of this was already known, but it was fun to work out.
