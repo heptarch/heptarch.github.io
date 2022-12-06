@@ -56,7 +56,7 @@ Putting all your eggs in one basket seems like a bad idea. What have we missed?
 solid green; line-height:1.5">
 <b>Portfolio optimization.</b> <br>
 
-How do we measure the value of a portfolio of bets so the optimum is a spread?
+How should assess the value of a portfolio
 </div>
 
 ## Adding risk
@@ -89,17 +89,24 @@ $$
 
 Instead of just maximizing expected return, we should balance return
 and risk. A simple way to do this is to maximize the convex
-combination of $\mu_k$ and $-\sigma^2_P$:
+combination of $\mu_k$ and $-\sigma^2_P$, which we'll call the
+*risk-balanced return*:
 
 $$
-L_\lambda(\omega_k) = \lambda \mu_P(\omega_k) + (\lambda -
+R_\lambda(\omega_k) = \lambda \mu_P(\omega_k) + (\lambda -
 1)\sigma^2_P(\omega_k).
 $$
 
-For simplicity, let's assume our bets are independent. Our loss
-function is now quadratic:
+For simplicity, let's assume our bets are independent. The balanced
+return is then
 
 $$
-L_\lambda(\omega_k) = \sum_{k=1}^n
-\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right].
+\begin{align*}
+R_\lambda(\omega_k) & = \sum_{k=1}^n
+\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right]
+\\
+& = \sum_{k=1}^{n-1}
+\left[\lambda \omega_k\mu_k + (\lambda- 1)\omega_k^2\sigma_k^2\right] +
+\lambda \left(1-\sum_{k=1}^{n=1}\omega_n\mu_k + (\lambda- 1)\sum_{k=1}^{n-1}\omega_k^2\sigma_n^2.
+\end{align*}
 $$
