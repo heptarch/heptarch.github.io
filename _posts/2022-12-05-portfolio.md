@@ -31,7 +31,7 @@ $$
 1}^{n} \omega_k \mu_k.
 $$
 
-To see how to maximize this, we can introduce a Lagrange multiplier
+To maximize this, introduce a Lagrange multiplier
 $\gamma$ to enforce the fixed total:
 
 $$
