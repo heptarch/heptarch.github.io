@@ -28,8 +28,12 @@ But if I try to optimize the expected return, I get a linear function
 
 $$
 \mathbb{E}[P] = \sum_{k =
-1}^{n-1} \omega_k \mathbb{E}[B_k] + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) \mathbb{E}[B_n].
+1}^{n-1} \omega_k \mathbb{E}[B_k] + \left(\Omega - \sum_{k=1}^{n-1}\omega_k\right) \mathbb{E}[B_n],
 $$
 
-This is a linear equation in the $\omega_k$, $k=1, \ldots, n-1$, so
-the maxim
+which is clearly maximized by investing all my money in whatever bet
+has the largest expected return,
+
+$$
+P^* = \Omega B_{k^*}, \quad k^* = \text{argmax}_k \mathbb{E}[B_k].
+$$
