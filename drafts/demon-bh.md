@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Reversible demon and black holes"
+title:  "Bennett's demon and black holes"
 categories: [Physics, Thermodynamics, Quantum]
 date:  2022-12-06
 ---
