@@ -13,7 +13,7 @@ date:  2022-12-06
 ---
 
 Maxwell's demon is a tiny hypothetical imp that can separate fast- and
-slow-moving particles in a gas. This decreases entropy ("disorder")
+slow-moving particles of a gas into separate chambers. This decreases entropy ("disorder")
 and thus apparently violates the Second Law of Thermodynamics.
 Concrete proposals either fail to work when thermal fluctuations are
 taken into account, or have a hidden entropy
@@ -39,7 +39,8 @@ no entropy costs need to be incurred!
 It seems as if a reversible demon can violate the Second Law after all.
 
 Or can they?
-Bennett noted that, every time the demon sorts a particle into a chamber, it
+Bennett noted that, every time the demon sorts the particle into the
+fast or slow chamber, it
 generates a bit of data it can either erase or store.
 Erasing comes with an entropy cost, as per Landauer's principle.
 Storing, on the other hand, has two interesting features: first, it
