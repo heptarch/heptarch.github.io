@@ -32,7 +32,8 @@ is *Boltzmann's constant*.
 In normal computing models, we erase bits as we go along, and
 for each bit of entropy reduced in the gas, the demon creates at least
 a bit of entropy in its computer.
-This seems to resolve Maxwell's demonic paradox. But Bennett, Landauer, Toffoli, Fredkin, and others realized
+This seems to resolve Maxwell's demonic paradox. But Bennett,
+Landauer, Fredkin, and others, realized
 that computing can be done *reversibly*. No bits need to be erased, so
 no entropy costs need to be incurred!
 It seems as if a reversibly computing demon can violate the Second Law.
