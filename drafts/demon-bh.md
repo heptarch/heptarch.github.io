@@ -39,6 +39,8 @@ It seems as if a reversibly computing demon can violate the Second Law.
 
 Or can they?
 Bennett noted that, every time the demon sorts a particle into a chamber, it
-generates a bit of data it can either erase or store. If erase, it
-comes with an entropy cost.
-If store, there are 
+generates a bit of data it can either erase or store.
+Erasing comes with an entropy cost, as per Landauer's principle.
+Storing, on the other hand, has two interesting features: first, it
+*correlates* the demon's memory with the gas system, and second, it is
+limited by the physical size of the memory.
