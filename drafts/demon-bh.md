@@ -17,4 +17,4 @@ slow-moving particles in a gas. This decreases entropy ("disorder")
 and thus apparently violates the Second Law of Thermodynamics.
 Concrete proposals either fail to work when thermal fluctuations are
 taken into account (e.g. hinged flaps), or have a hidden entropic
-cost which preserves the Second Law.
+cost which ultimately preserves the Second Law.
