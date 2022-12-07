@@ -44,7 +44,17 @@ Bennett noted that every time the demon sorts the particle into the
 fast or slow chamber, it
 generates a bit of data it can either remember or forget.
 Forgetting comes with an entropy cost, as per Landauer's principle.
-Remembering, on the other hand, has two interesting features: first, it
-*correlates* the demon's memory with the particles in the gas system,
-and second, it's limited by the physical size of this memory.
-It can't remember everything!
+Remembering, on the other hand, has two interesting features: (1) it
+*correlates* the demon's memory with the particles in the gas system;
+and (2) it's limited by the physical size of this memory.
+The demon can't remember everything!
+
+## Speed and memory
+---
+
+Neither (1) nor (2) seems to preclude macroscopic violations of the (usual) Second
+Law.
+We can modify the Second Law so that entropy *plus* correlations
+always increase.
+There are various ways to formalize this, but I won't here.
+Instead, I'll focus on the memory limitation (2).
