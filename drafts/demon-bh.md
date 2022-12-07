@@ -14,4 +14,7 @@ date:  2022-12-06
 
 Maxwell's demon is a tiny hypothetical imp that can separate fast- and
 slow-moving particles in a gas. This decreases entropy ("disorder")
-and apparently violates the Second Law of Thermodynamics.
+and thus apparently violates the Second Law of Thermodynamics.
+Concrete proposals either fail to work when thermal fluctuations are
+taken into account (e.g. hinged flaps), or have a hidden entropic
+cost which preserves the Second Law.
