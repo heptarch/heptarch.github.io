@@ -49,12 +49,20 @@ Remembering, on the other hand, has two interesting features: (1) it
 and (2) it's limited by the physical size of this memory.
 The demon can't remember everything!
 
-## Speed and memory
----
-
 Neither (1) nor (2) seems to preclude macroscopic violations of the (usual) Second
 Law.
 We can modify the Second Law so that entropy *plus* correlations
 always increase.
 There are various ways to formalize this, but I won't here.
 Instead, I'll focus on the memory limitation (2).
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px
+solid green; line-height:1.5">
+<b>Bennett's demon.</b> <br>
+
+How are reversible violations of the Second Law bounded by constraints
+on physical memory?
+</div>
+
+## Speed and memory
+---
