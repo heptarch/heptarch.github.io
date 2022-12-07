@@ -36,7 +36,7 @@ This seems to resolve Maxwell's demonic paradox. But Bennett,
 Landauer, Fredkin, and others, realized
 that computing can be done *reversibly*. No bits need to be erased, so
 no entropy costs need to be incurred!
-It seems as if a reversibly computing demon can violate the Second Law.
+It seems as if a reversible demon can violate the Second Law after all.
 
 Or can they?
 Bennett noted that, every time the demon sorts a particle into a chamber, it
