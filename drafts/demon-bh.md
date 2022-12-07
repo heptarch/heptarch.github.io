@@ -41,8 +41,8 @@ It seems as if a reversible demon can violate the Second Law after all.
 Or can they?
 Bennett noted that, every time the demon sorts the particle into the
 fast or slow chamber, it
-generates a bit of data it can either erase or store.
-Erasing comes with an entropy cost, as per Landauer's principle.
-Storing, on the other hand, has two interesting features: first, it
+generates a bit of data it can either remember or forget.
+Foretting comes with an entropy cost, as per Landauer's principle.
+Remembering, on the other hand, has two interesting features: first, it
 *correlates* the demon's memory with the gas system, and second, it is
-limited by the physical size of the memory.
+limited by the physical size of the demon's memory.
