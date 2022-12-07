@@ -19,8 +19,7 @@ Concrete proposals either fail to work when thermal fluctuations are
 taken into account (e.g. hinged flaps), or have a hidden entropy
 cost which ultimately preserves the Second Law.
 
-A general class of these hidden costs is captured by *Landauer's
-principle*.
+*Landauer's principle* is a general class of hidden costs.
 Landauer argued that erasing one bit (dissipating it irreversibly into
 the environment) always comes with an entropy cost of at least $k_BT \ln 2$, where
 the environment has temperature $T$ and
