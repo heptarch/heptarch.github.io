@@ -52,7 +52,7 @@ Neither (1) nor (2) seems to preclude macroscopic violations of the (usual) Seco
 Law.
 We can modify the Second Law so that entropy *plus* correlations
 always increase.
-There are various ways to formalize this, but I won't here.
+There are various ways to formalize this, but I won't do that here.
 Instead, I'll focus on the memory limitation (2).
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px
