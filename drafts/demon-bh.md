@@ -16,7 +16,7 @@ Maxwell's demon is a tiny hypothetical imp that can separate fast- and
 slow-moving particles in a gas. This decreases entropy ("disorder")
 and thus apparently violates the Second Law of Thermodynamics.
 Concrete proposals either fail to work when thermal fluctuations are
-taken into account (e.g. hinged flaps), or have a hidden entropy
+taken into account, or have a hidden entropy
 cost which ultimately preserves the Second Law.
 
 *Landauer's principle* is a general class of hidden costs.
