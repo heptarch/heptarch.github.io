@@ -19,7 +19,7 @@ Concrete proposals either fail to work when thermal fluctuations are
 taken into account (e.g. hinged flaps), or have a hidden entropy
 cost which ultimately preserves the Second Law.
 
-A general class of hidden entropy costs is given by *Landauer's
+A general class of these hidden costs is captured by *Landauer's
 principle*.
 Landauer argued that erasing one bit (dissipating it irreversibly into
 the environment) always comes with an entropy cost of at least $k_BT \ln 2$, where
@@ -30,7 +30,14 @@ k_B \approx 1.38 \times 10^{-23} \text{ m}^2\text{ kg s}^{-1} \text{ K}^{-1}
 $$
 
 is *Boltzmann's constant*.
-This seems to provide a general argument against Maxwell's demon,
-since in normal computing models, we erase bits as we go along, and
-for each bit of entropy reduced in the gas, the demon compensates by
-creating a bit of entropy in its computer.
+In normal computing models, we erase bits as we go along, and
+for each bit of entropy reduced in the gas, the demon creates at least
+a bit of entropy in its computer.
+
+This seems like a good general resolution of Maxwell's demonic
+paradox. But Bennett, Landauer, Toffoli, Fredkin, and others realized
+that computing can be done *reversibly*. No bits need to be erased, so
+no entropy costs need to be paid!
+A demon using a reversible computer can therefore violate the Second
+Law.
+Or can they? Bennett realized that 
