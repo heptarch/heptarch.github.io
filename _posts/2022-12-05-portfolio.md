@@ -118,7 +118,7 @@ solid purple; line-height:1.5">
 
 In the $\lambda \to 0$ derisked limit, optimal investments are proportional to
 expected return and inverse variance, but as $\lambda \to 1$, to
-inverse variance only. General $\lambda$ interpolates between these regimes.
+inverse variance only.
 </div>
 
 For simplicity, let's assume our bets are independent.<label for="sn-1"
@@ -183,5 +183,5 @@ $$
 \omega_k\approx \frac{\gamma}{2\lambda\sigma_k^2} \propto \frac{1}{\sigma_k^2}.
 $$
 
-Intermediate values of $\lambda$ go between these two regimes, with a
+Intermediate values of $\lambda$ interpolate between these two regimes, with a
 degeneracy at $\lambda = 0$ where only expected return matters.
