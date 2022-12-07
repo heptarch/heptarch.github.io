@@ -17,7 +17,8 @@ slow-moving particles of a gas into separate chambers. This decreases entropy ("
 and thus apparently violates the Second Law of Thermodynamics.
 Concrete proposals either fail to work when thermal fluctuations are
 taken into account, or have a hidden entropy
-cost which ultimately preserves the Second Law.
+cost, so that up to microscopic fluctuations, entropy always increases
+and the Second Law is preserved.
 
 *Landauer's principle* is a general class of hidden costs.
 Landauer argued that erasing one bit (dissipating it irreversibly into
