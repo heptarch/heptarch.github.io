@@ -40,7 +40,7 @@ no entropy costs need to be incurred!
 It seems as if a reversible demon can violate the Second Law after all.
 
 Or can they?
-Bennett noted that, every time the demon sorts the particle into the
+Bennett noted that every time the demon sorts the particle into the
 fast or slow chamber, it
 generates a bit of data it can either remember or forget.
 Foretting comes with an entropy cost, as per Landauer's principle.
