@@ -48,7 +48,6 @@ Remembering, on the other hand, has two interesting features: (1) it
 *correlates* the demon's memory with the particles in the gas system;
 and (2) it's limited by the physical size of this memory.
 The demon can't remember everything!
-
 Neither (1) nor (2) seems to preclude macroscopic violations of the (usual) Second
 Law.
 We can modify the Second Law so that entropy *plus* correlations
