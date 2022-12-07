@@ -149,7 +149,7 @@ $$
 so we have an extremum at
 
 $$
-\omega_k = \frac{(1-\lambda)\mu_k + \gamma}{2\lambda \sigma_k^2}. \tag{1}\label{opt}
+\omega_k = \frac{(1-\lambda)\mu_k + \gamma}{2\lambda \sigma_k^2}.
 $$
 
 To determine the value of $\gamma$, note from our constraint that
