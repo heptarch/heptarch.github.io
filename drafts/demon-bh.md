@@ -45,5 +45,6 @@ fast or slow chamber, it
 generates a bit of data it can either remember or forget.
 Foretting comes with an entropy cost, as per Landauer's principle.
 Remembering, on the other hand, has two interesting features: first, it
-*correlates* the demon's memory with the gas system, and second, it is
-limited by the physical size of the demon's memory.
+*correlates* the demon's memory with the particles in the gas system,
+and second, it's limited by the physical size of this memory.
+It can't remember everything!
