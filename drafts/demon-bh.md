@@ -37,10 +37,18 @@ What do memory constraints tell us about reversibly computed violations of the S
 ## Speed 
 ---
 
-Suppose Bennett's demon has a quantum memory of $n$ qutrits, total
-dimension $N = 3^n$, each in initial state $| 0\rangle$.
-After the $n$th particle is observed, the $n$ qutrit is placed in
-state $|\pm\rangle$, depending on whether it got sorted into the fast
-or slow chamber.
+Suppose Bennett's demon has a quantum memory of $n$ qubits, total
+dimension $N = 2^n$, each in initial state $| 0\rangle$.
+After the $n$th particle is observed, qubit $n$ is either left in
+state $|0\rangle$, or set to state $|1\rangle$, depending on whether
+it got sorted into fast or slow chambers.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+We can imagine an auxiliary counter system of $n' = \log n$ qubits to
+keep track of how many particles have been observed.</span>
 This should allow for the second law to be violated to the tune of
-roughly $nk_B T \ln 2$, one bit for each trit.
+roughly $nk_B T \ln 2$.
