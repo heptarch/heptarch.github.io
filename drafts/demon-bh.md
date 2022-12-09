@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Bennett's demon and black holes"
 categories: [Physics, Thermodynamics, Quantum]
-date:  2022-12-06
+date:  2022-12-08
 ---
 
-**December 6, 2022.** *Maxwell's demon *
+**December 8, 2022.** *Maxwell's demon *
 
 ## Introduction
 ---
@@ -34,5 +34,10 @@ solid green; line-height:1.5">
 What do memory constraints tell us about reversibly computed violations of the Second Law?
 </div>
 
-## Speed and memory
+## Speed 
 ---
+
+Suppose Bennett's demon has a quantum memory of $n$ qutrits, total
+dimension $N = 3^n$, each in initial state $| 0\rangle$.
+After the $n$th particle is observed, the $n$ qutrit is placed in
+state $|\pm 1\rangle$ for the slow or fast chamber.
