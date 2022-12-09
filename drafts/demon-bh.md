@@ -40,4 +40,4 @@ What do memory constraints tell us about reversibly computed violations of the S
 Suppose Bennett's demon has a quantum memory of $n$ qutrits, total
 dimension $N = 3^n$, each in initial state $| 0\rangle$.
 After the $n$th particle is observed, the $n$ qutrit is placed in
-state $|\pm 1\rangle$ for the slow or fast chamber.
+state $|\pm\rangle$ for the slow or fast chamber.
