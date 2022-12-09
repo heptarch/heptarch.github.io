@@ -42,3 +42,5 @@ dimension $N = 3^n$, each in initial state $| 0\rangle$.
 After the $n$th particle is observed, the $n$ qutrit is placed in
 state $|\pm\rangle$, depending on whether it got sorted into the fast
 or slow chamber.
+This should allow for the second law to be violated to the tune of
+roughly $nk_B T \ln 2$, one bit for each trit.
