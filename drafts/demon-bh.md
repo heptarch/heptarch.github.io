@@ -23,14 +23,16 @@ which it can either remember or forget.
 Forgetting costs thermodynamic entropy $k_BT \ln 2$, where $T$ is the
 temperature of the demon's memory unit, and $k_B$ is Boltzmann's
 constant.
-Remembering, on the other hand, costs *memory*, and cannot 
+Remembering, on the other hand, has a memory cost, and cannot be
+sustained indefinitely.
+What kind of constraints does this produce?
 
 <div style="background-color: #cfc ; padding: 10px; border: 1px
 solid green; line-height:1.5">
 <b>Bennett's demon.</b> <br>
 
-How are reversible violations of the Second Law bounded by constraints
-on physical memory?
+What do constraints on physical memory tell us about reversibly
+computed violations of the Second Law?
 </div>
 
 ## Speed and memory
