@@ -31,8 +31,7 @@ What kind of constraints does this produce?
 solid green; line-height:1.5">
 <b>Bennett's demon.</b> <br>
 
-What do constraints on physical memory tell us about reversibly
-computed violations of the Second Law?
+What do memory constraints tell us about reversibly computed violations of the Second Law?
 </div>
 
 ## Speed and memory
