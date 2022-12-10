@@ -15,14 +15,9 @@ permalink: /art/
 
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/)
 (2020--22). Tumblr with microfiction and pictures.
-- [*Fearful Spheres*](/assets/fearful-spheres.pdf) (2018). A short
-  chapbook.
+<!-- - [*Fearful Spheres*](/assets/fearful-spheres.pdf) (2018). A short chapbook.-->
 
-#### Nonfiction
+<!-- #### Nonfiction-->
 
-- ["Calling down the lightning"](/assets/lightning.pdf) (2021). An
-  essay about art, community, and madness.
-- ["Counternarratives for young scientists"](/assets/reality)
-  (2020). A
-  [talk](https://scienceinvancouver.com/event/teen-nerd-nite-quantum-leaps-conference/)
-  about the nature of science.
+<!-- - ["Calling down the lightning"](/assets/lightning.pdf) (2021). An essay about art, community, and madness.-->
+<!--- ["Counternarratives for young scientists"](/assets/reality)  (2020). A  [talk](https://scienceinvancouver.com/event/teen-nerd-nite-quantum-leaps-conference/)  about the nature of science.-->
