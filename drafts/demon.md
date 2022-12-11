@@ -32,7 +32,7 @@ planed like origami and symmetric as a jewel.
 Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
-The whole figure convulses, pulsing and folding itself into new
+The planetoid convulses, pulsing and folding itself into new
 patchworks. Spikes flatten, merge, spike again, and suddenly detach
 themselves from a central ball to form a constellation of twelve
 teardrops.
