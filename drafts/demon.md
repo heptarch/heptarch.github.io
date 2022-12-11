@@ -58,7 +58,6 @@ know.
 
 An old man arrives from Marischal Street, ruddy and out of
 breath. "Child," he cries, then cracks into a smile: "What have you found now?"
-
 <p align="center">
   ⁂
   </p>
