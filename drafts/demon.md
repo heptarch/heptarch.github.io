@@ -28,18 +28,20 @@ yards directly below the stationmaster's rum, gazes with rapture at the fragile 
 impossible object before her.
 
 A shape glows and hums in the dark: a bristling planetoid of spikes,
-planed like origami and symmetric as a jewel.
+planed like origami and scintillating as a jewel.
 Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
-piping leans forward, as if bowing.
+piping leans forward.
 The whole figure convulses, pulsing and folding itself into new
-patchworks, spikes flattening, merging, sharpening again.
-Then the spikes detach wordlessly, a constellation of twelve teardrops
-symmetrically guarding a central ball.
+patchworks. Spikes flatten, merge, spike again, and suddenly detach
+themselves from a central ball to form a constellation of twelve
+teardrops.
 
 <p align="right">
 𝕬𝖓𝖌𝖊𝖑𝖘 𝖔𝖓 𝖙𝖍𝖊 𝖍𝖊𝖆𝖉 𝖔𝖋 𝖆 𝖕𝖎𝖓.
-  </p>
+</p>
+
+The teardrops contract into themselves and wordlessly disappear.
 
 <p align="center">
   ⁂
@@ -54,7 +56,6 @@ changing shape of the waves as they bounce off the dock wall. "Ciamar?"<label fo
        class="margin-toggle"/>
 <span class="sidenote">How?</span> she asks passersby. They do not
 know.
-
 An old man arrives from Marischal Street, ruddy and out of
 breath. "Child," he cries, then cracks into a smile: "What have you found now?"
 <p align="center">
