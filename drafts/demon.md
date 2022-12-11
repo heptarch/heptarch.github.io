@@ -34,8 +34,8 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
 The planetoid convulses, pulsing and folding itself into new
 patchworks. Spikes flatten, merge, spike again, and suddenly detach
-themselves from a central ball to form a constellation of twelve
-teardrops.
+themselves to form a constellation of twelve
+perfect teardrops, guarding a central ball.
 
 <p align="right">
 𝕬𝖓𝖌𝖊𝖑𝖘 𝖔𝖓 𝖙𝖍𝖊 𝖍𝖊𝖆𝖉 𝖔𝖋 𝖆 𝖕𝖎𝖓.
