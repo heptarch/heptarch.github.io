@@ -35,7 +35,8 @@ piping leans forward, as if bowing.
 The planetoid begins to convulse, a mountain range run backwards, spikes
 flattening, merging, elongating into new spikes. Eventually they
 lengthen outward and withdraw to form a sort of constellation of
-twelve teardrops, orbiting a central origami ball.
+twelve teardrops, orbiting a central origami ball, and then disappear
+soundlessly.
 
 <p align="right">
 𝕬𝖓𝖌𝖊𝖑𝖘 𝖔𝖓 𝖙𝖍𝖊 𝖍𝖊𝖆𝖉 𝖔𝖋 𝖆 𝖕𝖎𝖓.
