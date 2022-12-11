@@ -27,19 +27,19 @@ infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible object before her.
 
-A small shape glows and hums in the dark: a patchwork of
-triangles, folded in on itself like an origami ball.
-Ellen gently pulls on a wire near her head, and the tug travels obediently
-into the blackness. A pulley lurches, then another, then a
+A shape glows and hums in the dark: a bristling planetoid of spikes,
+planed like origami and symmetric as a jewel.
+Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
-The ball grows larger and a constellation of twelve teardrops appears,
-dancing around it, Ellen thinks, like angels on the head of a pin.
-Or perhaps the pins themselves: the teardrops lengthen sharply
-inward and impale the ball along twelve symmetric axes.
-The whole figure convulses, pulsing and folding itself into new patchworks, like a dancing star.
+The planetoid begins to convulse, a mountain range run backwards, spikes
+flattening, merging, elongating into new spikes. Eventually they
+lengthen outward and withdraw to form a sort of constellation of
+twelve teardrops, orbiting a central origami ball.
 
-A daemonic shape, she concludes, grinning, and switches it off.
+<p align="right">
+𝕬𝖓𝖌𝖊𝖑𝖘 𝖔𝖓 𝖙𝖍𝖊 𝖍𝖊𝖆𝖉 𝖔𝖋 𝖆 𝖕𝖎𝖓.
+  </p>
 
 <p align="center">
   ⁂
