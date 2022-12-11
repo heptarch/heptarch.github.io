@@ -28,7 +28,7 @@ yards directly below the stationmaster's rum, gazes with rapture at the fragile 
 impossible object before her.
 
 A shape glows and hums in the dark: a bristling planetoid of spikes,
-planed like origami and scintillating as a jewel.
+planed like origami and symmetric as a jewel.
 Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
