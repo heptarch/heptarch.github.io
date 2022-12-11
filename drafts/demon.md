@@ -32,11 +32,10 @@ planed like origami and symmetric as a jewel.
 Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward, as if bowing.
-The planetoid begins to convulse, a mountain range run backwards, spikes
-flattening, merging, elongating into new spikes. Eventually they
-lengthen outward and withdraw to form a sort of constellation of
-twelve teardrops, orbiting a central origami ball, and then disappear
-soundlessly.
+The whole figure convulses, pulsing and folding itself into new
+patchworks, spikes flattening, merging, sharpening again.
+Then the spikes detach wordlessly, a constellation of twelve teardrops
+symmetrically guarding a central ball.
 
 <p align="right">
 𝕬𝖓𝖌𝖊𝖑𝖘 𝖔𝖓 𝖙𝖍𝖊 𝖍𝖊𝖆𝖉 𝖔𝖋 𝖆 𝖕𝖎𝖓.
