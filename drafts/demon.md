@@ -358,8 +358,12 @@ It blooms suddenly into color, and her view is swept beneath the
 trefoiled architrave, past its juridical wigs and robes,
 and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
-A small figure sits in a tattered green armchair, greedily devouring a
-scone, eyes bulging. The eyes are the clearest part of the 
+
+The little Rumpelstiltskin man sits in a tattered green armchair,
+greedily devouring a scone, eyes bulging as he explains: "They
+couldn't have that, of course, so here I am. You understand?" Ellen
+realizes they have been talking for hours, a plate of devoured scones
+beside them.
 
 <p align="center">
   ⁂
