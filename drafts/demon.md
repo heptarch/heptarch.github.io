@@ -353,7 +353,9 @@ The boat shudders onto a beach. Ellen turns: a vast wall of ice,
 through which she can see, like a finger pressed against the
 inside of a glass, the dark outlines of a shopfront on Chancery Lane.
 Ede & Ravenscroft.
-She sees through the 
+It blooms into color and light; her view is swept beneath the
+trefoiled architrave, past its juridical wigs, between its formal robs
+and up the stairs to a humble bedroom, lit by the embers of a dying fire.
 
 <p align="center">
   ⁂
