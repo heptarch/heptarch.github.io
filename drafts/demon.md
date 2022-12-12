@@ -369,8 +369,8 @@ and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
-devouring a scone. His eyes bulge, and beads of sweat form, perhaps
-from the fire or his rapidity of consumption. He explains: "They
+devouring a scone. His eyes bulge, and beads of sweat glisten on his
+forehead, perhaps from the fire or rapidity of consumption. He explains: "They
 couldn't have that, of course, so here I am. Ha! In this great grand
 stellar bego. Ha! You understand?" Ellen senses they have been
 talking for hours.
