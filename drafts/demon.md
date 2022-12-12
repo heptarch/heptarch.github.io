@@ -159,10 +159,10 @@ melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
 There is a small discrepancy from the Holborn interferometer.
 She does a quick calculation---guided by the voice---and finds the
-results are consistent with *reversing* one of the rotating
-polarizations. She knows the arrangement of reflectors better than the
-veins in her hand. A stray reflection is impossible.
+results are consistent with *reversing* one of the polarizations.
 
+She knows the arrangement of reflectors better than the
+veins in her hand. A stray reflection is impossible.
 She pauses for a moment.
 Parsimony suggests that it is not a stray reflection, but a mirror in
 a plane she cannot see.
