@@ -363,7 +363,7 @@ Ellen is now moored on the other side of a craggy, rough-hewn
 breakwater, concealing Aberdeen and reaching into the sky.
 Behind her, on a small rise, the outlines of a shopfront on Chancery
 Lane; Ede & Ravenscroft, royal tailors.
-The store blooms suddenly into light and color, and Ellen's view is
+The store blooms suddenly into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and robes,
 and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
@@ -379,6 +379,8 @@ fingers and the scones reappear.
 "The confining potential keeps the surface area small---Bekenstein you
 know---and stops me from replenishing my budget. But I still have a few tricks up my
 sleeve! Begoo. Ha!" The logs in the fire crackle and unburn.
+
+The dream lurches again.
 
 <p align="center">
   ⁂
