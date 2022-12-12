@@ -366,9 +366,9 @@ trefoiled architrave, past its juridical wigs and robes,
 and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
 
-The little Rumpelstiltskin man sits in a tattered green armchair,
-devouring a scone, eyes bulging, beads of sweat from the fire and the
-rapidity of consumption. He explains: "They
+The little Rumpelstiltskin man sits in a green armchair, all tatters,
+devouring a scone. His eyes bulge, and beads of sweat form, perhaps
+the fire or the rapidity of consumption. He explains: "They
 couldn't have that, of course, so here I am. Ha! In this great grand
 stellar prison. Ha! You understand?" Ellen realizes they have been
 talking for hours.
