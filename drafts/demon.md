@@ -365,6 +365,7 @@ and rapidity of consumption. He explains: "They
 couldn't have that, of course, so here I am. You understand?" Ellen
 realizes they have been talking for hours, a plate of devoured scones
 beside them. He clicks his fingers and the scones reappear.
+"The entropy 
 
 <p align="center">
   ⁂
