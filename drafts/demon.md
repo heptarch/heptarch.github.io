@@ -355,7 +355,7 @@ pause. "And how am I to view her?" The only answer is the dwindling flame.
 Facing backwards, she can see from a distance the grey and frozen
 light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
-Turning, a matte black rectangle stands out against the nightdark flux
+Turning, a black rectangle stands out against the nightdark flux
  of the water.
 
 The dream lurches.
