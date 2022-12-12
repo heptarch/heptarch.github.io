@@ -194,7 +194,7 @@ They share some scientific gossip: a lass, no more
  himself laboriously ascending the granite steps of Cromwell Tower the
  next morning, curiosity more powerful than the biting lowland cold.
  
-"Davie" Thomson, an immense, stentorian don who must stoop to enter
+Auld "Davie" Thomson, an immense, stentorian don who must stoop to enter
  the classroom, introduces the young "Miss Watson" as an
  "exceedingly keen pupil of the modern developments". He folds himself into a
  chair in the front row and tenderly motions her to begin.
