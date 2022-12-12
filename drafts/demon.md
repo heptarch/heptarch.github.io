@@ -73,8 +73,7 @@ their ultimate terminus: a bear market. Although the Post
 Office uses it for a few years, it runs at a loss, and the system is officially retired in 1874.
 
 But a company ambitious enough to propose a subterranean network of
-pneumatic tubes
-in the 1860s cannot reasonably be expected to stop there.
+pneumatic tubes cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
 pieces of apparatus unconnected to the wheels of the despatch tubes.
