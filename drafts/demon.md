@@ -368,11 +368,11 @@ dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat form, perhaps
-the fire or the rapidity of consumption. He explains: "They
+from the fire or his rapidity of consumption. He explains: "They
 couldn't have that, of course, so here I am. Ha! In this great grand
-stellar prison. Ha! You understand?" Ellen realizes they have been
+stellar bego. Ha! You understand?" Ellen senses they have been
 talking for hours.
-There is plate of scone crumbs beside them. Rumpelstiltskin clicks his
+There is a plate of crumbs beside them. Rumpelstiltskin clicks his
 fingers and the scones reappear.
 "The entropy bank is confined by the potential so the scaling kills you.
 
