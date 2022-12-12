@@ -34,9 +34,8 @@ third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
 The shape responds, pulsing and folding into new patterns. Spikes
 withdraw, merge, and dance in undulating bristles before suddenly
-detaching themselves. A constellation of twelve
-perfect teardrops, guarding a central cell.
-The teardrops contract into themselves and disappear.
+detaching themselves: a constellation of twelve teardrops, guarding a central cell.
+The teardrops shrink into themselves and disappear.
 
 So, Ellen thinks, this is how you
 summon a demon.
