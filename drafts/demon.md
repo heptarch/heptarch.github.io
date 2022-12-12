@@ -358,7 +358,7 @@ which bears them.
 
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn breakwater,
-reaching into sky, and behind which Aberdeen is concealed.
+reaching into sky, behind which Aberdeen is concealed.
 She turns to find the dark outlines of a shopfront on Chancery Lane.
 Ede & Ravenscroft.
 It blooms suddenly into color, and her view is swept beneath the
