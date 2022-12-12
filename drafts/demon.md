@@ -360,10 +360,11 @@ and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
 
 The little Rumpelstiltskin man sits in a tattered green armchair,
-greedily devouring a scone, eyes bulging as he explains: "They
+greedily devouring a scone, eyes bulging, beads of sweat from the fire
+and rapidity of consumption. He explains: "They
 couldn't have that, of course, so here I am. You understand?" Ellen
 realizes they have been talking for hours, a plate of devoured scones
-beside them.
+beside them. He clicks his fingers and the scones reappear.
 
 <p align="center">
   ⁂
