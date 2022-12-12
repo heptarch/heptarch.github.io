@@ -29,7 +29,7 @@ impossible object before her.
 
 A shape glows and hums in the dark, planed like origami, symmetric as
 a jewel, and bristling with spikes.
-Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
+Ellen pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
 The jewel responds, pulsing and folding into new patterns. Spikes
