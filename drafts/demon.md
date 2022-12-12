@@ -32,7 +32,7 @@ a jewel, and bristling with spikes.
 Ellen pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
-The jewel responds, pulsing and folding into new patterns. Spikes
+The shape responds, pulsing and folding into new patterns. Spikes
 withdraw, merge, and dance in undulating bristles before suddenly
 detaching themselves. A constellation of twelve
 perfect teardrops, guarding a central cell.
