@@ -36,9 +36,9 @@ The jewel responds, pulsing and folding into new patterns. Spikes
 withdraw, merge, and dance in undulating bristles before suddenly
 detaching themselves. A constellation of twelve
 perfect teardrops, guarding a central cell.
+The teardrops contract into themselves and disappear.
 
-
-The teardrops contract into themselves and disappear. So, Ellen thinks, this is how you
+So, Ellen thinks, this is how you
 summon a demon.
 
 <p align="center">
