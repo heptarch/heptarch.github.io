@@ -357,12 +357,12 @@ light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
 
 The dream lurches.
-Ellen is moored on the other side of a craggy, rough-hewn breakwater,
-reaching into sky, behind which Aberdeen is concealed.
-She turns to find the dark outlines of a shopfront on Chancery Lane.
-Ede & Ravenscroft.
-It blooms suddenly into color, and her view is swept beneath the
-trefoiled architrave, past its juridical wigs and robes,
+Ellen is now moored on the other side of a craggy, rough-hewn
+breakwater, concealing Aberdeen and reaching into the sky.
+Behind, the dark outlines of a shopfront on Chancery Lane;
+the tailor, Ede & Ravenscroft.
+The store blooms suddenly into light and color, and Ellen's view is
+pulled beneath its trefoiled architrave, past the juridical wigs and robes,
 and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
 
