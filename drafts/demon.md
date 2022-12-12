@@ -251,7 +251,7 @@ will cover thermometry, calorimetry, and the basic dynamical
 principles governing the evolution of a thermodynamic system, like our
 friend the teapot."
 He stops to ensure he has been understood. "Let us start with the
-definition temperature..."
+definition of temperature..."
 
 After the lecture and questions are finished, Foster is packing
 his valise when a young girl approaches. Is she lost? She does not
