@@ -296,7 +296,7 @@ solid black; line-height:1.3;">
 • Budget: £10,000. <br>
 • Expenditure: £9,870 (itemised, enclosed). <br>
 • Improvements: colloid production (w. Foster, Loewy); vacuum turbine efficiency (w. Grant). <br>
-• New: theory of Möbian gravitomagnetism; ...
+• Innovations: corpscular governors for magnetized colloids; perturbation theory in gravitomagnetism; ...
 </font>
 </div>
 
