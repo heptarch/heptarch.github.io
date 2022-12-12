@@ -378,12 +378,11 @@ There is a plate of crumbs beside them. Rumpelstiltskin clicks his
 fingers and the scones reappear.
 "The confining potential keeps the surface area small---Bekenstein you
 know---and stops me from replenishing my budget. But I still have a few tricks up my
-sleeve! Begoo. Ha!" The logs in fire crackle and slowly unburn.
+sleeve! Begoo. Ha!" The logs in the fire crackle and slowly unburn.
 
 <p align="center">
   ⁂
   </p>
-
 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
