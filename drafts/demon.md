@@ -377,9 +377,8 @@ talking for hours.
 There is a plate of crumbs beside them. Rumpelstiltskin clicks his
 fingers and the scones reappear.
 "The capacity of the entropy bath scales with area, so the confining
-potential kneecaps me. Ha!" The fire deposits fresh wood on the logs,
-and Rumpelstiltskin smiles: "I still have a few tricks up my
-sleeve. Begoo! Ha."
+potential kneecaps me. Ha! But I still have a few tricks up my
+sleeve. Begoo!" The logs in fire crackle and slowly unburn.
 
 <p align="center">
   ⁂
