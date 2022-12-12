@@ -349,13 +349,13 @@ Facing backwards, she can see from a distance the grey and frozen
 light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
 
-The boat shudders onto a beach. Ellen turns: a vast wall of ice,
+The boat is shuddered past a breakwater and onto a beach. Ellen turns: a vast wall of ice,
 through which she can see, like a finger pressed against the
 inside of a glass, the dark outlines of a shopfront on Chancery Lane.
 Ede & Ravenscroft.
 It blooms into color and light; her view is swept beneath the
-trefoiled architrave, past its juridical wigs, between its formal robs
-and up the stairs to a humble bedroom, lit by the embers of a dying fire.
+trefoiled architrave, past its juridical wigs and robes,
+and up the stairs to a humble bedroom, lit only by the embers of a dying fire.
 
 <p align="center">
   ⁂
