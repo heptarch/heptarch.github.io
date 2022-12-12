@@ -178,7 +178,7 @@ the tunnels to learn the precise bearings of the fourth dimension.
  Chandos, heir of as many debts as titles, weary, honest, but not without his
  moments of shrewdness, visits the University of Aberdeen in his
  capacity as Chairman of the London Pneumatic Despatch Company to
- consult an engineer.
+ consult some engineers.
 They share some scientific gossip: a lass, no more
  than ten, a ward of Auld Dauvit and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
        class="margin-toggle sidenote-number">
