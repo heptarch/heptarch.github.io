@@ -62,9 +62,8 @@ breath. "Child," he cries, then cracks into a smile: "What have you found now?"
 *1874.* The Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system for London’s
-mail: miles-long tubes, laid with narrow-gauge rail, the air sucked out
-by 20-foot wide spinning iron turbines, and on opening, the inrushing
-atmosphere propelling the mail capsules before it.
+mail: miles-long tubes, laid with narrow-gauge rail, emptied by
+20-foot wide iron turbines, shooting post capsules with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
 The tubes make it past Holborn, and as far as the General Post Office on St Martin's
