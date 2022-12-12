@@ -365,7 +365,7 @@ Behind her, on a small rise, the outlines of a shopfront on Chancery
 Lane; Ede & Ravenscroft, royal tailors.
 The store blooms suddenly into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and robes,
-and up the stairs to a humble bedroom, lit only by the embers of a
+the ermine and orders of chivalary, up the stairs to a humble bedroom lit only by the embers of a
 dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
