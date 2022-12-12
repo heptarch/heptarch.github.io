@@ -37,11 +37,8 @@ withdraw, merge, and dance in undulating bristles before suddenly
 detaching themselves. A constellation of twelve
 perfect teardrops forms, guarding a central cell.
 
-<p align="right">
-𝕬𝖓𝖌𝖊𝖑𝖘 𝖔𝖓 𝖙𝖍𝖊 𝖍𝖊𝖆𝖉 𝖔𝖋 𝖆 𝖕𝖎𝖓.
-</p>
 
-The teardrops contract into themselves and disappear. So this is how you
+The teardrops contract into themselves and disappear. So, Ellen thinks, this is how you
 summon a demon.
 
 <p align="center">
