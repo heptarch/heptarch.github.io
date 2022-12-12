@@ -69,7 +69,7 @@ Construction commences in 1863 with a successful test run between Euston Square 
 West District Post Office, a third of a mile hence.
 The tubes make it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
-its ultimate terminus: unfavourable market conditions. Although the Post
+their ultimate terminus: a bear market. Although the Post
 Office uses it for a few years, it runs at a loss, and the system is officially retired in 1874.
 
 But a company ambitious enough to propose a subterranean network of
