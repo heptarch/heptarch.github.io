@@ -349,7 +349,7 @@ Facing backwards, she can see from a distance the grey and frozen
 light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
 
-The boat is shuddered past a breakwater and onto a beach. Ellen turns: a vast wall of ice,
+They are shuddered past a breakwater and onto a beach. Ellen turns: a vast wall of ice,
 through which she can see, like a finger pressed against the
 inside of a glass, the dark outlines of a shopfront on Chancery Lane.
 Ede & Ravenscroft.
