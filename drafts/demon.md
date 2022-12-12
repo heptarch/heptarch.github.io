@@ -18,6 +18,13 @@ Whole avenues of universes...
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div> <br>
 
+<span style="padding-left: 40px; display:block">
+[It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time.
+</span>
+
+<div style="text-align: right">PlanetN9Ne
+</div> <br>
+
 *1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
@@ -360,12 +367,14 @@ and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
 
 The little Rumpelstiltskin man sits in a tattered green armchair,
-greedily devouring a scone, eyes bulging, beads of sweat from the fire
-and rapidity of consumption. He explains: "They
-couldn't have that, of course, so here I am. You understand?" Ellen
-realizes they have been talking for hours, a plate of devoured scones
-beside them. He clicks his fingers and the scones reappear.
-"The entropy 
+devouring a scone, eyes bulging, beads of sweat from the fire and the
+rapidity of consumption. He explains: "They
+couldn't have that, of course, so here I am. Ha! In this great grand
+stellar prison. Ha! You understand?" Ellen realizes they have been
+talking for hours.
+There is plate of scone crumbs beside them. Rumpelstiltskin clicks his
+fingers and the scones reappear.
+"The entropy bank is confined by the potential so the scaling kills you.
 
 <p align="center">
   ⁂
