@@ -355,11 +355,13 @@ pause. "And how am I to view her?" The only answer is the dwindling flame.
 Facing backwards, she can see from a distance the grey and frozen
 light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
+Turning, a matte black rectangle stands out against the nightdark flux
+ of the water.
 
 The dream lurches.
 Ellen is now moored on the other side of a craggy, rough-hewn
 breakwater, concealing Aberdeen and reaching into the sky.
-Behind, the dark outlines of a shopfront on Chancery Lane;
+Behind her, an island the dark outlines of a shopfront on Chancery Lane;
 the tailor, Ede & Ravenscroft.
 The store blooms suddenly into light and color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and robes,
