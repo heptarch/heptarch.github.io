@@ -344,8 +344,7 @@ pause. "And how am I to view her?" The only answer is the dwindling flame.
  speed from Victoria dock into the turning basin, and then outwards,
  outwards to the North Sea.
  Now they are hurtling, the oars
- flat in the rowlocks and skimming the water, she and the boat one breathless motion
- over the skin of the ocean.
+ flat in the rowlocks and skimming the water, she and the boat one breathless motion.
 Facing backwards, she can see from a distance the grey and frozen
 light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
