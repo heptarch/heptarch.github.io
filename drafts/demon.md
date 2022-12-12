@@ -271,7 +271,7 @@ velocity of rotation is maintained? By a combination of magnetism and
 cooling, I think we might apply these notions to corpuscular machines, but I fear
 some of the finer points of experimental chemistry elude me. I remember you stating in your lectures on
 acoustics that you studied with Kekulé?" The notebook becomes
-suddenly clear: equations, engineering schematics, scattered exclamations of EYPHKA!
+suddenly clear, and swims before him in equations, engineering schematics, scattered exclamations of EYPHKA!
 The absurdity has somewhat changed character.
 
 Beethoven looks on with amusement. Foster stammers:
