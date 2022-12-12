@@ -350,14 +350,16 @@ light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
 
 The dream lurches.
-She is docked on the other side of a massive, rough-hewn breakwater,
-behind which Aberdeen is obscured.
-Ellen turns to find the dark outlines of a shopfront on Chancery Lane.
+Ellen is moored on the other side of a craggy, rough-hewn breakwater,
+reaching into sky, and behind which Aberdeen is concealed.
+She turns to find the dark outlines of a shopfront on Chancery Lane.
 Ede & Ravenscroft.
 It blooms suddenly into color, and her view is swept beneath the
 trefoiled architrave, past its juridical wigs and robes,
 and up the stairs to a humble bedroom, lit only by the embers of a
 dying fire.
+A small figure sits in a tattered green armchair, greedily devouring a
+scone, eyes bulging. The eyes are the clearest part of the 
 
 <p align="center">
   ⁂
