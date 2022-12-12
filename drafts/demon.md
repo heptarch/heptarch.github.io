@@ -32,7 +32,7 @@ as a jewel, a ball of spikes.
 Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
-The planetoid convulses, pulsing and folding itself into new
+The planetoid convulses in response, pulsing and folding itself into new
 patchworks. Spikes flatten, merge, spike again, and suddenly detach
 themselves to form a constellation of twelve
 perfect teardrops, guarding a central cell.
