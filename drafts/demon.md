@@ -372,13 +372,14 @@ The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten on his
 forehead, perhaps from the fire or rapidity of consumption. He explains: "They
 couldn't have that, of course, so here I am. Ha! In this great grand
-stellar bego. Ha! You understand?" Ellen senses they have been
+stellar begoo. Ha! You understand?" Ellen senses they have been
 talking for hours.
 There is a plate of crumbs beside them. Rumpelstiltskin clicks his
 fingers and the scones reappear.
 "The capacity of the entropy bath scales with area, so the confining
 potential kneecaps me. Ha!" The fire deposits fresh wood on the logs,
-and Rumpelstiltskin smiles: "I still have a few tricks up my sleeve. Begoo!"
+and Rumpelstiltskin smiles: "I still have a few tricks up my
+sleeve. Begoo! Ha."
 
 <p align="center">
   ⁂
