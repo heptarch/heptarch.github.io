@@ -27,12 +27,11 @@ infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible object before her.
 
-A shape glows and hums in the dark, planed like origami and symmetric
-as a jewel.
+A shape glows and hums in the dark, planed like origami, covered in spikes, and symmetric as a jewel.
 Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
-The planetoid convulses in response, pulsing and folding itself into new
+The jewel convulses in response, pulsing and folding itself into new
 patchworks. Spikes flatten, merge, spike again, and suddenly detach
 themselves to form a constellation of twelve
 perfect teardrops, guarding a central cell.
