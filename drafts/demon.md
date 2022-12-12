@@ -32,10 +32,10 @@ a jewel, and bristling with spikes.
 Ellen gently pulls on a wire near her head. A pulley lurches, then another, then a
 third, and a cantilevered armature covered in coils and hissing ribbons of
 piping leans forward.
-The jewel convulses in response, pulsing and folding itself into new
-patchworks: spikes flatten, merge, spike again, and suddenly detach
-themselves to form a constellation of twelve
-perfect teardrops, guarding a central cell.
+The jewel responds, pulsing and folding into new patterns. Spikes
+withdraw, merge, and dance in undulating bristles before suddenly
+detaching themselves. A constellation of twelve
+perfect teardrops forms, guarding a central cell.
 
 <p align="right">
 𝕬𝖓𝖌𝖊𝖑𝖘 𝖔𝖓 𝖙𝖍𝖊 𝖍𝖊𝖆𝖉 𝖔𝖋 𝖆 𝖕𝖎𝖓.
