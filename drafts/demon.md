@@ -361,8 +361,8 @@ Turning, a black rectangle stands out against the nightdark flux
 The dream lurches.
 Ellen is now moored on the other side of a craggy, rough-hewn
 breakwater, concealing Aberdeen and reaching into the sky.
-Behind her, an island the dark outlines of a shopfront on Chancery Lane;
-the tailor, Ede & Ravenscroft.
+Behind her, on a small rise, the outlines of a shopfront on Chancery
+Lane; Ede & Ravenscroft, royal tailors.
 The store blooms suddenly into light and color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and robes,
 and up the stairs to a humble bedroom, lit only by the embers of a
