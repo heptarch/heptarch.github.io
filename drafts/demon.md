@@ -302,12 +302,13 @@ solid black; line-height:1.3;">
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
 chuckles, thinking of that frigid morning in Aberdeen and all its corollaries.
-He skips past patents and maintainance summaries to the yearly planning:
+He skips past patents and maintainance summaries to the yearly
+planning, which includes the item:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- determine the source of asborption near Chancery Lane
+ determine the source of reflection "near" Chancery Lane
 </font>
 </div>
 
