@@ -164,10 +164,8 @@ polarizations. She knows the arrangement of reflectors better than the
 veins in her hand. A stray reflection is impossible.
 
 She pauses for a moment.
-How can a corkscrew of light be reversed without a mirror?
-The same way left can become right: transport it around a Möbius loop,
-and in this case, a Möbius loop which does not lie in the three-dimensional
-plane of the Holborn interferometer.
+Parsimony suggests that it is not a stray reflection, but a mirror in
+a plane she cannot see.
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
 
