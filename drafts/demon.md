@@ -290,6 +290,21 @@ some tea?"
   ⁂
   </p>
 
+*1857.* A single candle burns low in the granite citadel of Marischal
+ College. "Katherine, why in God's name would you conceal that?"
+
+"Because you---or rather, I---cannot be saddled with that and expect a
+chair at Edinburgh."
+
+"But the child---" "---will be well-loved by my parents, I can assure
+you. My father can arrange something in the parish register." A
+pause. "And how am I to view her?" The only answer is the dwindling
+flame.
+
+<p align="center">
+  ⁂
+  </p>
+
 *1873.* An envelope, ironically delivered by coach, arrives on the
  chairman's desk; a welcome distraction from negotiations with the
  GPO. Inside:
@@ -323,20 +338,6 @@ Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
 It must be---as Ellen had hoped---an artefact, hovering near
 Chancery Lane in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
-
-<p align="center">
-  ⁂
-  </p>
-
-*1857.* A single candle burns low in the granite citadel of Marischal
- College. "Katherine, why in God's name would you conceal that?"
-
-"Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh."
-
-"But the child---" "---will be well-loved by my parents, I can assure
-you. My father can arrange something in the parish register." A
-pause. "And how am I to view her?" The only answer is the dwindling flame.
 
 <p align="center">
   ⁂
