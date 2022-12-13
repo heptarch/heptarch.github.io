@@ -365,7 +365,7 @@ Behind her is an island with a small rise, and the dark outlines of a shopfront 
 Lane: Ede & Ravenscroft, royal tailors.
 The store blooms suddenly into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and robes,
-the ermine and orders of chivalary, up the stairs to a humble bedroom lit only by the embers of a
+and up the stairs to a humble bedroom lit only by the embers of a
 dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
