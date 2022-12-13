@@ -376,16 +376,17 @@ stellar begoo. Ha! You understand?" Ellen senses they have been
 talking for hours.
 There is a plate of crumbs beside them. Rumpelstiltskin clicks his
 fingers and the scones reappear.
-"The confining potential keeps the surface area small---Bekenstein you
-know---and stops me from replenishing my budget. But I still have a few tricks up my
-sleeve! Begoo!" The logs in the fire crackle and unburn.
+"I am much reduced in circumstances. The confining potential keeps the
+surface area small---Bekenstein you know---and stops me from
+replenishing my entropy budget. But I still have a few tricks up my
+sleeve. Begoo!" The logs in the fire crackle and unburn, but a patch
+of white appears on his beard.
 
-The dream lurches again.
+The dream lurches again. In the distance, 
 
 <p align="center">
   ⁂
   </p>
-
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
