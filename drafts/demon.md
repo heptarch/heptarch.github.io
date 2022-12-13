@@ -249,7 +249,7 @@ Ludwig van glowers at him from the wall.
 "Heat"---he pauses, steadies himself, and tries to speak over the
 disapproval of the portrait---"heat, ladies, is not merely those sensible properties
 of a teapot or a fireplace with which we are all familiar, and
-therefore strike us as too commonplace to discuss. Heat
+therefore strike us as too commonplace to explain. Heat
 lives in the realm of measurable phenomena; its very sensibility gives
 evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
@@ -389,7 +389,9 @@ Ellen wakes with three white hairs.
   </p>
 
 *3808981210 BC.* Creatures the size of planetoids keen over the sky,
- bristling with teeth and luminescent ruin.
+bristling with teeth and luminescent ruin.
+The largest is pursued by a flock of smaller, faster planetoids. It
+turns,
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
