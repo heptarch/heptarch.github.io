@@ -390,7 +390,7 @@ Ellen wakes with three white hairs.
 
 *3808981210 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-A flock of small, fast planetoids pursues a larger; it turns, savages
+A flock of small, fast planetoids pursues a larger; it savages
 a pursuer in flickering whips of light and ingests it before it can
 heal.
 Twelve small planetoids break off, dance into alignment around the
