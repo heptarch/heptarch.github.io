@@ -343,8 +343,8 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*3808981210 BC.* Creatures the size of planetoids bristle with teeth and
- ruin, keening over the sky.
+*3808981210 BC.* Creatures the size of planetoids keen over the sky,
+ bristling with teeth and luminscent ruin.
 
 <p align="center">
   ⁂
