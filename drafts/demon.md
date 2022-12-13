@@ -392,7 +392,7 @@ Ellen wakes with three white hairs.
 bristling with teeth and luminescent ruin.
 A flock of small, fast planetoids pursues a larger, which turns,
 savages one in flickering arcs of light, and ingests it before it can
-funnel the negentropy from its surroundings and reform.
+reform.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
