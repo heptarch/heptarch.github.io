@@ -390,10 +390,10 @@ Ellen wakes with three white hairs.
 
 *3808981210 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-A flock of small, fast planetoids pursues a larger, which turns,
-savages one in flickering whips of light and ingests it before it can
+A flock of small, fast planetoids pursues a larger; it turns, savages
+a small one in flickering whips of light and ingests it before it can
 heal.
-Twelve break off to surround the large planetoid
+Twelve break off, dancing into a constellation around the larger, 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
