@@ -375,12 +375,11 @@ couldn't have that, of course, so here I am. Ha! In this great grand
 stellar begoo. Ha! You understand?" Ellen senses they have been
 talking for hours.
 There is a plate of crumbs beside them. Rumpelstiltskin clicks his
-fingers and the scones reappear.
-"I am much reduced in circumstances. The confining potential keeps the
+fingers and the scones reappear. He regards her sadly.
+"I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
-replenishing my entropy budget. But I still have a few tricks up my
-sleeve. Begoo!" The logs in the fire crackle and unburn, and a few
-white hairs appear in his beard.
+replenishing my entropy budget. But I still have a few tricks! Begoo."
+The logs in the fire crackle and unburn.
 
 The dream lurches again. In the distance, 
 
