@@ -380,7 +380,7 @@ fingers and the scones reappear.
 surface area small---Bekenstein you know---and stops me from
 replenishing my entropy budget. But I still have my little tricks. Begoo!"
 The logs in the fire crackle oddly and unburn. "I may have borrowed a
-little," he says with a sheepish grin.
+little entropy," he says with a sheepish grin.
 
 Ellen wakes with three white hairs.
 
