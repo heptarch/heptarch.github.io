@@ -305,6 +305,12 @@ flame.
   ⁂
   </p>
 
+*$10^9$ BC.* Creatures the size of planetoids clash in
+
+<p align="center">
+  ⁂
+  </p>
+
 *1873.* An envelope, ironically delivered by coach, arrives on the
  chairman's desk; a welcome distraction from negotiations with the
  GPO. Inside:
@@ -382,12 +388,6 @@ The logs in the fire crackle oddly and unburn. He regards her
 mischeviously. "I may have borrowed a little."
 
 Ellen wakes with a few white hairs.
-
-<p align="center">
-  ⁂
-  </p>
-
-*$10^9$ BC.*
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
