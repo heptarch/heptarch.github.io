@@ -343,7 +343,8 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*$10^9$ BC.* Creatures the size of planetoids bristle with ruined teeth.
+*$10^9$ BC.* Creatures the size of planetoids bristle with teeth and
+ ruin, keening over the sky.
 
 <p align="center">
   ⁂
