@@ -343,7 +343,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*$10^9$ BC.* Creatures the size of planetoids clash in
+*$10^9$ BC.* Creatures the size of planetoids bristle with ruined teeth.
 
 <p align="center">
   ⁂
