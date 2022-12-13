@@ -352,10 +352,10 @@ pause. "And how am I to view her?" The only answer is the dwindling flame.
  outwards to the North Sea.
  Now they are hurtling, the oars
  flat in the rowlocks and skimming the water, she and the boat one breathless motion.
-Facing backwards, she can see from a distance the grey and frozen
-light of Aberdeen, and beneath the boat, the mild swell of the wave
+Facing backwards, the frozen
+light of Aberdeen grpws smaller; beneath, the mild swell of the wave
 which bears them.
-Turning, a black rectangle stands out against the nightblue flux
+She turns to see a black rectangle stands out against the nightblue flux
  of the waves.
 
 The dream lurches.
