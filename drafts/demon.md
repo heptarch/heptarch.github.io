@@ -392,10 +392,11 @@ Ellen wakes with three white hairs.
 bristling with teeth and luminescent ruin.
 A flock of small, fast planetoids pursues a larger; it savages
 a pursuer in flickering whips of light and ingests it before it can
-heal.
-Twelve small planetoids break off, dance into alignment around the
-larger, then symmetrically fold in on themselves and disappear, like a letter sealed and
-despatched for delivery.
+heal itself with the surrounding dust.
+Twelve small planetoids break off and dance into alignment around the
+larger.
+In a sort of ritual slowness, they fold up the central creature and
+disappear, like a letter sealed and despatched for delivery.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
