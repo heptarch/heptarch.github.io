@@ -44,7 +44,7 @@ withdraw, merge, and dance in undulating bristles before suddenly
 detaching: a constellation of twelve teardrops, guarding a central globe.
 The teardrops shrink into themselves and disappear.
 
-So, Ellen thinks, this is how you
+So this, Ellen thinks, is how you
 summon a demon.
 
 <p align="center">
