@@ -286,20 +286,6 @@ Beethoven looks on with amusement. Foster stammers:
 Marleybone. "Perhaps you would like
 some tea?"
 
-<p align="center">
-  ⁂
-  </p>
-
-*1857.* A single candle burns low in the granite citadel of Marischal
- College. "Katherine, why in God's name would you conceal that?"
-
-"Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh."
-
-"But the child---" "---will be well-loved by my parents, I can assure
-you. My father can arrange something in the parish register." A
-pause. "And how am I to view her?" The only answer is the dwindling
-flame.
 
 <p align="center">
   ⁂
@@ -343,8 +329,16 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*3808981210 BC.* Creatures the size of planetoids keen over the sky,
- bristling with teeth and luminscent ruin.
+*1857.* A single candle burns low in the granite citadel of Marischal
+ College. "Katherine, why in God's name would you conceal that?"
+
+"Because you---or rather, I---cannot be saddled with that and expect a
+chair at Edinburgh."
+
+"But the child---" "---will be well-loved by my parents, I can assure
+you. My father can arrange something in the parish register." A
+pause. "And how am I to view her?" The only answer is the dwindling
+flame.
 
 <p align="center">
   ⁂
@@ -385,10 +379,17 @@ fingers and the scones reappear.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
 replenishing my entropy budget. But I still have my little tricks. Begoo!"
-The logs in the fire crackle oddly and unburn. He regards her
-mischeviously. "I may have borrowed a little."
+The logs in the fire crackle oddly and unburn. "I may have borrowed a
+little," he says with a sheepish grin.
 
-Ellen wakes with a few white hairs.
+Ellen wakes with three white hairs.
+
+<p align="center">
+  ⁂
+  </p>
+
+*3808981210 BC.* Creatures the size of planetoids keen over the sky,
+ bristling with teeth and luminescent ruin.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
