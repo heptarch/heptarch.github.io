@@ -380,7 +380,7 @@ fingers and the scones reappear.
 surface area small---Bekenstein you know---and stops me from
 replenishing my entropy budget. But I still have my little tricks. Begoo!"
 The logs in the fire crackle oddly and unburn. "I may have borrowed a
-little negentropy," he says with a sheepish grin.
+dollop of negentropy," he says with a sheepish grin.
 
 Ellen wakes with three white hairs.
 
@@ -391,9 +391,10 @@ Ellen wakes with three white hairs.
 *3808981210 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
 A flock of small, fast planetoids pursues a larger; it turns, savages
-a small one in flickering whips of light and ingests it before it can
+a pursuer in flickering whips of light and ingests it before it can
 heal.
-Twelve break off, dancing into a constellation around the larger, 
+Twelve small planetoids break off, and dance into alignment around the
+large.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
