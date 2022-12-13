@@ -355,13 +355,13 @@ pause. "And how am I to view her?" The only answer is the dwindling flame.
 Facing backwards, she can see from a distance the grey and frozen
 light of Aberdeen, and beneath the boat, the mild swell of the wave
 which bears them.
-Turning, a black rectangle stands out against the nightdark flux
+Turning, a black rectangle stands out against the nightblue flux
  of the waves.
 
 The dream lurches.
 Ellen is now moored on the other side of a craggy, rough-hewn
-breakwater, concealing Aberdeen and reaching into the sky.
-Behind her, on a small rise, the outlines of a shopfront on Chancery
+breakwater, reaching heavily into the sky.
+Behind her is an island with a small rise, and the dark outlines of a shopfront on Chancery
 Lane; Ede & Ravenscroft, royal tailors.
 The store blooms suddenly into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and robes,
@@ -379,9 +379,10 @@ fingers and the scones reappear. He regards her sadly.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
 replenishing my entropy budget. But I still have a few tricks. Begoo!"
-The logs in the fire crackle oddly and unburn.
+The logs in the fire crackle oddly and unburn. A few white hairs
+appear in his beard.
 
-The dream lurches again. In the distance, 
+The dream lurches again, and in the distance, like 
 
 <p align="center">
   ⁂
