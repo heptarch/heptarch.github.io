@@ -356,7 +356,7 @@ Facing backwards, the frozen
 light of Aberdeen grpws smaller; beneath, the mild swell of the wave
 which bears them.
 She turns to see a black rectangle stands out against the nightblue flux
- of the waves.
+ of the sea.
 
 The dream lurches.
 Ellen is now moored on the other side of a craggy, rough-hewn
