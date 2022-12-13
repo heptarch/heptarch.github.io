@@ -361,7 +361,7 @@ which bears them.
 The dream lurches.
 Ellen is now moored on the other side of a craggy, rough-hewn
 breakwater, reaching into the sky and concealing Aberdeen.
-Behind her is a small rise and the dark outlines of a shopfront on Chancery
+Behind, a small rise surmounted the dark outlines of a shopfront on Chancery
 Lane: Ede & Ravenscroft, royal tailors.
 The store blooms into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and
