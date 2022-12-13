@@ -370,7 +370,7 @@ and up the stairs to a humble bedroom lit only by the embers of a dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
-dully. He continues: "They
+dully on his forehead. He continues: "They
 couldn't have that, of course, so here I am. Ha! In this great grand
 stellar begoo. Ha! You understand?" Ellen knows they have been
 talking for hours.
