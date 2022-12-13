@@ -393,8 +393,9 @@ bristling with teeth and luminescent ruin.
 A flock of small, fast planetoids pursues a larger; it turns, savages
 a pursuer in flickering whips of light and ingests it before it can
 heal.
-Twelve small planetoids break off, and dance into alignment around the
-large.
+Twelve small planetoids break off, dance into alignment around the
+larger, then symmetrically fold in on themselves and disappear, like a letter sealed and
+despatched for delivery.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
