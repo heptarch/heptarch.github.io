@@ -379,8 +379,8 @@ fingers and the scones reappear.
 "I am much reduced in circumstances. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
 replenishing my entropy budget. But I still have a few tricks up my
-sleeve. Begoo!" The logs in the fire crackle and unburn, but a patch
-of white appears on his beard.
+sleeve. Begoo!" The logs in the fire crackle and unburn, and a few
+white hairs appear in his beard.
 
 The dream lurches again. In the distance, 
 
