@@ -353,14 +353,12 @@ pause. "And how am I to view her?" The only answer is the dwindling flame.
  Now they are hurtling, the oars
  flat in the rowlocks and skimming the water, she and the boat one breathless motion.
 Facing backwards, the frozen
-light of Aberdeen grpws smaller; beneath, the mild swell of the wave
+light of Aberdeen grows smaller; beneath, the mild swell of the wave
 which bears them.
-She turns to see a black rectangle stands out against the nightblue flux
- of the sea.
 
 The dream lurches.
 Ellen is now moored on the other side of a craggy, rough-hewn
-breakwater, reaching heavily into the sky.
+breakwater, reaching into the sky.
 Behind her is an island with a small rise, and the dark outlines of a shopfront on Chancery
 Lane: Ede & Ravenscroft, royal tailors.
 The store blooms suddenly into color, and Ellen's view is
