@@ -378,15 +378,16 @@ There is a plate of crumbs beside them. Rumpelstiltskin clicks his
 fingers and the scones reappear. He regards her sadly.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
-replenishing my entropy budget. But I still have a few tricks. Begoo!"
-The logs in the fire crackle oddly and unburn. A few white hairs
-appear in his beard.
+replenishing my entropy budget. But I still have my little tricks. Begoo!"
+The logs in the fire crackle oddly and unburn.
 
-The dream lurches again, and in the distance, like 
+Ellen wakes with a few white hairs.
 
 <p align="center">
   ⁂
   </p>
+
+*$10^9$ BC.*
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
