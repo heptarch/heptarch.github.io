@@ -305,12 +305,6 @@ flame.
   ⁂
   </p>
 
-*$10^9$ BC.* Creatures the size of planetoids clash in
-
-<p align="center">
-  ⁂
-  </p>
-
 *1873.* An envelope, ironically delivered by coach, arrives on the
  chairman's desk; a welcome distraction from negotiations with the
  GPO. Inside:
@@ -344,6 +338,12 @@ Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
 It must be---as Ellen had hoped---an artefact, hovering near
 Chancery Lane in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
+
+<p align="center">
+  ⁂
+  </p>
+
+*$10^9$ BC.* Creatures the size of planetoids clash in
 
 <p align="center">
   ⁂
