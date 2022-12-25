@@ -380,10 +380,9 @@ Another lurch. Ellen wakes with three white hairs.
 chair at Edinburgh."
 
 "But the child---" "---will be well-loved by my parents, I can assure
-you. My father can arrange something in the parish register." A
-pause.
+you. My father can arrange something in the parish register."
 
-"And how am I to view her?" The only answer is the dwindling flame.
+A pause. "And how am I to view her?" The only answer is the dwindling flame.
 
 <p align="center">
   ⁂
