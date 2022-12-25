@@ -77,7 +77,7 @@ West District Post Office, a third of a mile hence.
 The tubes make it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 their ultimate terminus: a bear market. Although the Post
-Office uses it for a few years, it runs at a loss, and the system is officially retired in 1874.
+Office uses it for a couple of years, it runs at a loss, and the system is officially retired in 1874.
 
 But a company ambitious enough to propose a subterranean network of
 pneumatic tubes cannot reasonably be expected to stop there.
@@ -363,8 +363,8 @@ There is a plate of crumbs beside them; Rumpelstiltskin clicks his
 fingers and the scones reappear.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
-replenishing my entropy budget. But I still have my little tricks. Begoo!"
-The logs in the fire crackle oddly and unburn. "I may have borrowed a
+replenishing my entropy budget. But I still have a few tricks. Begoo!"
+The logs in the fire crackle with an odd sound and brightly unburn. "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
 Another lurch. Ellen wakes with three white hairs.
