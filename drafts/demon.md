@@ -329,21 +329,6 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1857.* A single candle burns low in the granite citadel of Marischal
- College. "Katherine, why in God's name would you conceal that?"
-
-"Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh."
-
-"But the child---" "---will be well-loved by my parents, I can assure
-you. My father can arrange something in the parish register." A
-pause. "And how am I to view her?" The only answer is the dwindling
-flame.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1873.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -388,7 +373,16 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1874.*
+*1857.* A single candle burns low in the granite citadel of Marischal
+ College. "Katherine, why in God's name would you conceal that?"
+
+"Because you---or rather, I---cannot be saddled with that and expect a
+chair at Edinburgh."
+
+"But the child---" "---will be well-loved by my parents, I can assure
+you. My father can arrange something in the parish register." A
+pause. "And how am I to view her?" The only answer is the dwindling
+flame.
 
 <p align="center">
   ⁂
@@ -402,7 +396,14 @@ they can heal.
 Twelve break off from the swarm and dance in jagged, unpredictable
 vectors into an icosahedron surrounding the the largest.
 Whips travel inward, and with ritual slowness, the planetoids converge
-symmetrically, folding up space around their quarry, like a letter sealed and despatched to the future.
+symmetrically, folding up space around their quarry, like a letter
+sealed and despatched to the future.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1874.*
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
