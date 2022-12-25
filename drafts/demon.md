@@ -399,10 +399,10 @@ bristling with teeth and luminescent ruin.
 The largest is pursued by a flock of smaller; it savages one,
 then another, in flickering whips of light, and ingests them before
 they can heal.
-Twelve break off from the flock and dance in jagged, unpredictable
-vectors to form an icosahedral trap around the largest.
-With a ritual slowness, they converge, folding up space around their
-quarry; like a letter sealed and despatched to the future.
+Twelve break off from the swarm and dance in jagged, unpredictable
+vectors into an icosahedron surrounding the the largest.
+Whips travel inward, and with ritual slowness, the planetoids converge
+symmetrically, folding up space around their quarry, like a letter sealed and despatched to the future.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
