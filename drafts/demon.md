@@ -379,10 +379,13 @@ Another lurch. Ellen wakes with three white hairs.
 "Because you---or rather, I---cannot be saddled with that and expect a
 chair at Edinburgh."
 
-"But the child---" "---will be well-loved by my parents, I can assure
+"But the child---"
+
+"---will be well-loved by my parents, I can assure
 you. My father can arrange something in the parish register." A
-pause. "And how am I to view her?" The only answer is the dwindling
-flame.
+pause.
+
+"And how am I to view her?" The only answer is the dwindling flame.
 
 <p align="center">
   ⁂
@@ -394,8 +397,8 @@ The largest is pursued by a flock of smaller; it savages one,
 then another, in flickering whips of light, and ingests them before
 they can heal.
 Twelve break off from the swarm and dance in jagged, unpredictable
-vectors into an icosahedron surrounding the the largest.
-Whips travel inward, and with ritual slowness, the planetoids converge
+vectors to form an icosahedron surrounding the largest.
+ travel inward, and with ritual slowness, the planetoids converge
 symmetrically, folding up space around their quarry, like a letter
 sealed and despatched to the future.
 
