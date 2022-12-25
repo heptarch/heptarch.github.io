@@ -398,7 +398,7 @@ Another lurch. Ellen wakes with three white hairs.
 bristling with teeth and luminescent ruin.
 The largest is pursued by a flock of smaller; it savages one
 then another in flickering whips of light, and ingests them before
-they can heal themselves.
+they can heal.
 Twelve smaller planetoids break off and dance in jagged, unpredictable
 vectors to form an icosahedral trap.
 With a ritual slowness, they converge, folding up space around their
