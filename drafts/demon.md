@@ -396,7 +396,7 @@ Another lurch. Ellen wakes with three white hairs.
 
 *3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-The largest is pursued by a flock of smaller ones; it savages one
+The largest one is pursued by a flock of smaller; it savages one
 then another in flickering whips of light, and ingests them before
 they can heal themselves.
 Twelve smaller planetoids break off and dance in jagged, unpredictable
