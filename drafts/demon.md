@@ -356,12 +356,12 @@ flame.
  flat in the rowlocks and skimming the water, she and the boat one breathless motion.
 Facing backwards, the frozen
 light of Aberdeen grows smaller; beneath, the mild swell of the wave
-which bears them.
+which bears them towards an island ringed by a dark wall.
 
 The dream lurches.
-Ellen is now moored on the other side of a craggy, rough-hewn
-breakwater, reaching into the sky and concealing Aberdeen.
-Behind, a small rise surmounted the dark outlines of a shopfront on Chancery
+Ellen is moored on the other side of a craggy, rough-hewn
+breakwater which reaches into the sky.
+On the island, a small rise, surmounted by the dark outlines of a shopfront from Chancery
 Lane: Ede & Ravenscroft, royal tailors.
 The store blooms into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and
@@ -382,7 +382,13 @@ replenishing my entropy budget. But I still have my little tricks. Begoo!"
 The logs in the fire crackle oddly and unburn. "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
-Ellen wakes with three white hairs.
+Another lurch. Ellen wakes with three white hairs.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1875.*
 
 <p align="center">
   ⁂
@@ -390,11 +396,14 @@ Ellen wakes with three white hairs.
 
 *3808981210 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-A flock of small, fast planetoids pursues a larger; it savages
-a pursuer in flickering whips of light and ingests it before it can
-heal itself with the surrounding dust.
-Twelve small planetoids break off, dance into alignment, and with a ritual slowness, fold up the central creature and
-disappear; like a letter sealed and despatched for delivery.
+The largest is pursued by a flock of smaller ones; it savages one
+then another in flickering whips of light, and ingests them before
+they can heal themselves.
+Twelve smaller planetoids break off and dance in jagged, unpredictable
+vectors to form an icosahedral trap.
+With a ritual slowness, they converge, folding up space around their
+quarry, like a letter sealed and despatched for delivery to the
+future.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
