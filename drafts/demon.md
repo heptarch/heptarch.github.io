@@ -379,9 +379,7 @@ Another lurch. Ellen wakes with three white hairs.
 "Because you---or rather, I---cannot be saddled with that and expect a
 chair at Edinburgh."
 
-"But the child---"
-
-"---will be well-loved by my parents, I can assure
+"But the child---" "---will be well-loved by my parents, I can assure
 you. My father can arrange something in the parish register." A
 pause.
 
