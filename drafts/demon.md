@@ -402,7 +402,7 @@ they can heal.
 Twelve smaller planetoids break off and dance in jagged, unpredictable
 vectors to form an icosahedral trap.
 With a ritual slowness, they converge, folding up space around their
-quarry, like a letter sealed and despatched for delivery to the
+quarry; like a letter sealed and despatched for delivery to the
 future.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
