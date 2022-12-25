@@ -402,8 +402,7 @@ they can heal.
 Twelve break off from the flock and dance in jagged, unpredictable
 vectors to form an icosahedral trap around the largest.
 With a ritual slowness, they converge, folding up space around their
-quarry; like a letter sealed and despatched for delivery to the
-future.
+quarry; like a letter sealed and despatched to the future.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
