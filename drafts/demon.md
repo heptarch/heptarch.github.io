@@ -388,7 +388,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1875.*
+*1874.*
 
 <p align="center">
   ⁂
@@ -396,8 +396,8 @@ Another lurch. Ellen wakes with three white hairs.
 
 *3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-The largest is pursued by a flock of smaller; it savages one
-then another in flickering whips of light, and ingests them before
+The largest is pursued by a flock of smaller; it savages one,
+then another, in flickering whips of light, and ingests them before
 they can heal.
 Twelve break off from the flock and dance in jagged, unpredictable
 vectors to form an icosahedral trap around the largest.
