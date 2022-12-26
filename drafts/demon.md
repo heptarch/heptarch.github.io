@@ -403,7 +403,7 @@ It is bleeding to death.
 Twelve flies break off from the swarm and form an
 icosahedral web around the dying spider.
 Slowly, with ritual symmetry, they converge on their quarry, folding
-up space as they go: a letter sealed and despatched to the future.
+up space as they go. A letter sealed and despatched to the future.
 
 <p align="center">
   ⁂
