@@ -400,7 +400,7 @@ side, and from open wounds light, fluid, patches of disembodied
 structure, radiate into the void.
 It is bleeding to death.
 
-Twelve flies break off from the swarm and dance into an
+Twelve flies break off from the swarm and form an
 icosahedral web around the dying spider.
 Slowly, with ritual symmetry, they converge on their quarry, folding
 up space as they go: a letter sealed and despatched to the future.
