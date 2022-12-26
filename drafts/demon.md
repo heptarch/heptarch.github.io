@@ -393,7 +393,7 @@ bristling with teeth and luminescent ruin.
 The largest is pursued by a flock of smaller, fleeter ones, like a
 spider surrounded by
 flies.
-The spider slows and savages one fly, then another, in huge flickering whips
+The spider savages one fly, then another, in huge flickering whips
 of light, ingesting them before they can heal.
 But there are so many flies; some are attached, leech-like, to its
 side, and from open wounds light, fluid, patches of disembodied
