@@ -371,21 +371,6 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1857.* A single candle burns low in the granite citadel of Marischal
- College. "Katherine, why in God's name would you conceal that?"
-
-"Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh."
-
-"But the child---" "---will be well-loved by my parents, I can assure
-you. My father has arranged something in the parish register."
-
-A pause. "And how am I to view her?" The only answer is the dwindling flame.
-
-<p align="center">
-  ⁂
-  </p>
-
 *3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
 The largest is pursued by a flock of smaller, fleeter ones, like a
@@ -407,6 +392,21 @@ up space as they go. The letter is sealed and despatched to the future.
   </p>
 
 *1874.* 
+
+<p align="center">
+  ⁂
+  </p>
+
+*1857.* A single candle burns low in the granite citadel of Marischal
+ College. "Katherine, why in God's name would you conceal that?"
+
+"Because you---or rather, I---cannot be saddled with that and expect a
+chair at Edinburgh."
+
+"But the child---" "---will be well-loved by my parents, I can assure
+you. My father has arranged something in the parish register."
+
+A pause. "And how am I to view her?" The only answer is the dwindling flame.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
