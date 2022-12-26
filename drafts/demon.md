@@ -298,7 +298,7 @@ some tea?"
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- <b>E. Watson's Annual Report to LPDC Board, March 1873</b> <br>
+ <b>E. Watson's Annual Report to LPDC Board, December 1873</b> <br>
  <i>6 Victoria Street, Westminster</i><br>
 
 • Budget: £10,000. <br>
@@ -329,7 +329,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1873.* In a dream, Ellen returns to Trinity Quay. It is like
+*1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
