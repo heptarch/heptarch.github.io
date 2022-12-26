@@ -400,8 +400,8 @@ structure, radiate into the void.
 It is bleeding to death.
 
 Twelve flies break off from the swarm and form an
-icosahedral web around the dying spider.
-Slowly, with ritual symmetry, they converge, folding
+icosahedral web.
+Slowly, with ritual symmetry, they converge on the dying spider, folding
 up space as they go. The letter is sealed and despatched to the future.
 
 <p align="center">
