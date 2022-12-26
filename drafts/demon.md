@@ -316,7 +316,7 @@ planning, which includes the item:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- determine the source of reflection "near" Chancery Lane
+• Determine the source of reflection "near" Chancery Lane.
 </font>
 </div>
 
