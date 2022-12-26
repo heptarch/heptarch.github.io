@@ -391,8 +391,7 @@ A pause. "And how am I to view her?" The only answer is the dwindling flame.
 *3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
 The largest is pursued by a flock of smaller, fleeter ones, like a
-spider surrounded by
-flies.
+spider by flies.
 The spider savages one fly, then another, in huge flickering whips
 of light, ingesting them before they can heal.
 But there are so many flies; some are attached, leech-like, to its
