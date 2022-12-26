@@ -380,7 +380,7 @@ Another lurch. Ellen wakes with three white hairs.
 chair at Edinburgh."
 
 "But the child---" "---will be well-loved by my parents, I can assure
-you. My father can arrange something in the parish register."
+you. My father has arranged something in the parish register."
 
 A pause. "And how am I to view her?" The only answer is the dwindling flame.
 
@@ -390,14 +390,19 @@ A pause. "And how am I to view her?" The only answer is the dwindling flame.
 
 *3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-The largest is pursued by a flock of smaller; it savages one,
-then another, in flickering whips of light, and ingests them before
-they can heal.
-Twelve break off from the swarm and dance in jagged, unpredictable
-vectors to form an icosahedron surrounding the largest.
- travel inward, and with ritual slowness, the planetoids converge
-symmetrically, folding up space around their quarry, like a letter
-sealed and despatched to the future.
+The largest is pursued by a flock of smaller ones, like a spider stalked by
+flies.
+The spider slows and savages one fly, then another, in huge flickering whips
+of light, ingesting them before they can heal.
+But there are so many flies; some are attached, leech-like, to its
+side, and from open wounds light, fluid, patches of disembodied
+structure, radiate into the void.
+It is bleeding to death.
+
+Twelve flies break off from the swarm and dance fleetly into an
+icosahedral web around their quarry.
+Slowly, with ritual symmetry, they fold up space around their quarry:
+a letter sealed and despatched to the future.
 
 <p align="center">
   ⁂
