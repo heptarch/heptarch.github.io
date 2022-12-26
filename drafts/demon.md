@@ -400,9 +400,9 @@ structure, radiate into the void.
 It is bleeding to death.
 
 Twelve flies break off from the swarm and dance into an
-icosahedral web around their quarry.
-Slowly, with ritual symmetry, they fold up space around their quarry:
-a letter sealed and despatched to the future.
+icosahedral web around the dying spider.
+Slowly, with ritual symmetry, they converge on their quarry, folding
+up space as they go: a letter sealed and despatched to the future.
 
 <p align="center">
   ⁂
