@@ -402,14 +402,14 @@ It is bleeding to death.
 
 Twelve flies break off from the swarm and form an
 icosahedral web around the dying spider.
-Slowly, with ritual symmetry, they converge on their quarry, folding
+Slowly, with ritual symmetry, they converge, folding
 up space as they go. The letter is sealed and despatched to the future.
 
 <p align="center">
   ⁂
   </p>
 
-*1874.*
+*1874.* 
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
