@@ -390,7 +390,7 @@ A pause. "And how am I to view her?" The only answer is the dwindling flame.
 
 *3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-The largest is pursued by a flock of smaller ones, like a spider stalked by
+The largest is pursued by a flock of smaller, fleeter ones, like a spider stalked by
 flies.
 The spider slows and savages one fly, then another, in huge flickering whips
 of light, ingesting them before they can heal.
@@ -399,7 +399,7 @@ side, and from open wounds light, fluid, patches of disembodied
 structure, radiate into the void.
 It is bleeding to death.
 
-Twelve flies break off from the swarm and dance fleetly into an
+Twelve flies break off from the swarm and dance into an
 icosahedral web around their quarry.
 Slowly, with ritual symmetry, they fold up space around their quarry:
 a letter sealed and despatched to the future.
