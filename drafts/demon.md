@@ -413,7 +413,7 @@ $$
 "entanglement" corpuscules per cubic metre. If I pulse from each
 colloid chamber, every day, a year and $T \approx 500 \text{K}$
 should be enough to supply the dæmon's needs. (Consult Foster and Grant about
-raising temperatures.) But what happens after entropy delivered?
+raising temperatures.) But what happens after entropy is delivered?
 <br>
 </font>
 </div>
