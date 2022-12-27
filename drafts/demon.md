@@ -455,8 +455,8 @@ details elude me. <br>
 
 <i>May 7.</i> Another disquisition on scones. <br>
 
-<i>May 19.</i> In some other part of the "Ashen House", as he calls it—hear
-various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
+<i>May 19.</i> In some other part of the "Ashen House", as אשמדאי calls it—hear
+various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>May 26.</i> אשמדאי back in bedroom wearing particuarly outrageous
 peruke. Engages in long conversation about extradimensional
