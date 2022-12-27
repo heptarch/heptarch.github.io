@@ -375,7 +375,7 @@ Another lurch. Ellen wakes with three white hairs.
 
 *3980221461 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-The largest, purple, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
+The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
 spider by flies.
 The spider savages one fly, then another, in huge flickering whips
 of light, ingesting them before they can heal.
