@@ -373,18 +373,18 @@ Another lurch. Ellen wakes with three white hairs.
 
 *3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
-The largest is pursued by a flock of smaller, fleeter ones, like a
+The largest, purple, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
 spider by flies.
 The spider savages one fly, then another, in huge flickering whips
 of light, ingesting them before they can heal.
 But there are so many flies; some are attached, leech-like, to its
-side, and from open wounds light, fluid, patches of disembodied
-structure, radiate into the void.
+side, and from open wounds blobs of fluid and disembodied
+structure radiate into the void.
 It is bleeding to death.
 
-Twelve flies break off from the swarm and form an
-icosahedral web.
-Slowly, with ritual symmetry, they converge on the dying spider, folding
+Twelve flies break off from the swarm and dart into alignment, an
+icosahedral web thousands of miles wide around the dying spider.
+Slowly, with ritual symmetry, they converge, folding
 up space as they go. The letter is sealed and despatched to the future.
 
 <p align="center">
