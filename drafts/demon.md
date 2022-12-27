@@ -512,3 +512,5 @@ the horizon.-->
 <!-- https://www.sacred-texts.com/grim/lks/lks05.htm-->
 <!-- https://en.wikipedia.org/wiki/Asmodeus -->
 <!-- https://arxiv.org/pdf/quant-ph/0510002.pdf -->
+<!--- -->
+<!--https://www.wolframalpha.com/input?i=6+%5Ctimes+10%5E%7B-14%7D+%5Cpi%5E%7B3%2F2%7D%5CGamma%5Cleft%28%5Cfrac%7B5%7D%7B2%7D%5Cright%29%5Czeta%285%29+%281000%29%5E4+*+365+*+10+*+8 --->
