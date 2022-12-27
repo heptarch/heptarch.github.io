@@ -415,13 +415,9 @@ solid black; line-height:1.3;">
 <i>May 17.</i> אשמדאי discusses a method to remember the future, but
 details elude me. <br>
 
-<i>May 25.</i> In some other part of Ede & Ravenscroft—hear various "Ha!"s. <br>
+<i>May 25.</i> He is no longer in bedroom, but some other part of Ede & Ravenscroft—hear various "Ha!"s. <br>
 
-<i>May 26.</i> Find אשמדאי in kitchen making scones. Explains
-extradimensional scattering of light, rotational moment in potential. <br>
-</font>
-
-<i>May 30.</i>  <br>
+<i>May 26.</i> <br>
 </font>
 </div>
 
