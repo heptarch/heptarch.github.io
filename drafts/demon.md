@@ -411,11 +411,7 @@ viz. light. Better transmission due to rotational moment in potential. <br>
 details elude me. <br>
 
 <i>May 25.</i> אשמדאי in some other part of Ede & Ravenscroft—hear
-various "Ha!"s—but read notes in the bedroom on light-matter
-interactions in colloids. " <br>
-
-<i>May 26.</i> Discover  אשמדאי in the kitchen, also the
-bedroom, happily eating scones. Neither responds to me. <br>
+various "Ha!"s. <br>
 </font>
 </div>
 
