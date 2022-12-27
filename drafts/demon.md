@@ -410,10 +410,10 @@ s \approx 6 \times 10^{-14}
 10^{-13} T^4
 $$
 
-"entanglement" corpuscules per cubic metre. If I pulse from each
-colloid chamber, every day, a year and $T \approx 500 \text{K}$
-should be enough to supply the dæmon's needs. (Consult Foster and Grant about
-raising temperatures.) But what happens after entropy is delivered?
+"entanglement" corpuscules per cubic metre. If I pulse to Chancery
+Lane from each colloid chamber, a few times a day, one year and $T \approx 500 \text{K}$
+should be sufficient to furnish the dæmon. (Consult Foster and Grant about
+raising temperature.) But what happens once entropy is delivered?
 <br>
 </font>
 </div>
