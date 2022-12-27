@@ -328,6 +328,22 @@ legal sophistry, could point to.
   ⁂
   </p>
 
+*1857.* A single candle burns low in the granite citadel of Marischal
+ College. "Katherine, why in God's name would you conceal that?"
+
+"Because you---or rather, I---cannot be saddled with that and expect a
+chair at Edinburgh."
+
+"But the child---" "---will be well-loved by my parents, I can assure
+you. My father has arranged something in the parish register."
+
+A pause. "And how am I to view her?" The only answer is the dwindling
+flame.
+
+<p align="center">
+  ⁂
+  </p>
+
 *1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -373,28 +389,6 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*3980221461 BC.* Creatures the size of planetoids keen over the sky,
-bristling with teeth and luminescent ruin.
-The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
-spider by flies.
-The spider savages one fly, then another, in huge flickering whips
-of light, ingesting them before they can heal.
-But there are so many flies; some are attached, leech-like, to its
-side, and from open wounds blobs of fluid and disembodied
-structure radiate into the void.
-It is bleeding to death.
-
-Twelve flies break off from the swarm, forming an icosahedral web
-thousands of miles wide.
-The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
-vertex strafes fluidly out of reach.
-Slowly, with ritual symmetry, they pull the web closed, folding up
-space as they go. From far off, a star winks out of existence.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1874.* Ellen's blue notebook:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
@@ -427,17 +421,23 @@ should be supply the dæmon's needs. (Consult Foster.) But what happens after en
   ⁂
   </p>
 
-*1857.* A single candle burns low in the granite citadel of Marischal
- College. "Katherine, why in God's name would you conceal that?"
+*3980221461 BC.* Creatures the size of planetoids keen over the sky,
+bristling with teeth and luminescent ruin.
+The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
+spider by flies.
+The spider savages one fly, then another, in huge flickering whips
+of light, ingesting them before they can heal.
+But there are so many flies; some are attached, leech-like, to its
+side, and from open wounds blobs of fluid and disembodied
+structure radiate into the void.
+It is bleeding to death.
 
-"Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh."
-
-"But the child---" "---will be well-loved by my parents, I can assure
-you. My father has arranged something in the parish register."
-
-A pause. "And how am I to view her?" The only answer is the dwindling
-flame.
+Twelve flies break off from the swarm, forming an icosahedral web
+thousands of miles wide.
+The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
+vertex strafes fluidly out of reach.
+Slowly, with ritual symmetry, they pull the web closed, folding up
+space as they go. From far off, a star winks out of existence.
 
 <p align="center">
   ⁂
