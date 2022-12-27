@@ -19,13 +19,6 @@ Whole avenues of universes...
 </div> <br>
 
 <span style="padding-left: 40px; display:block">
-[It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time.
-</span>
-
-<div style="text-align: right">PlanetN9Ne
-</div> <br>
-
-<span style="padding-left: 40px; display:block">
 He showeth the place where Treasures lie, and guardeth it.
 </span>
 
