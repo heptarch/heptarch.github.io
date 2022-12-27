@@ -391,7 +391,7 @@ vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, they pull the web closed, folding up
 space as they go.
 
-From far away, it looks like a star dimming.
+From afar, it looks like a star dimming.
 
 <p align="center">
   ⁂
