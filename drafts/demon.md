@@ -402,7 +402,7 @@ From afar, it looks like a star dimming.
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<i>εφτά (May 12).</i>
+<i>The Seventh (May 12).</i> אשמדאי‎ tells me of 
 </font>
 </div>
 
@@ -457,3 +457,5 @@ Or it could be an object in another dimension.-->
 <!-- He has a sudden vision of the sun at dawn, just about to crest
 the horizon.-->
 <!-- https://www.gracesguide.co.uk/Pneumatic_Despatch_Co-->
+<!-- https://www.sacred-texts.com/grim/lks/lks05.htm-->
+<!-- https://en.wikipedia.org/wiki/Asmodeus -->
