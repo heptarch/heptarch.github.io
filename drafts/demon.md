@@ -401,12 +401,12 @@ space as they go. From far off, a star winks out of existence.
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>May 14.</i> אשמדאי discusses a method to remember the future, but
+<i>May 4.</i> אשמדאי discusses a method to remember the future, but
 details elude me. <br>
 
-<i>May 17.</i> Another disquisition on scones. <br>
+<i>May 7.</i> Another disquisition on scones. <br>
 
-<i>May 25.</i> In some other part of Ede & Ravenscroft—hear
+<i>May 19.</i> In some other part of Ede & Ravenscroft—hear
 various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
 
 <i>May 26.</i> אשמדאי back in bedroom wearing particuarly outrageous
@@ -415,8 +415,8 @@ scattering, "particles" of light, rotational moment term in
 gravitoelectromagnetic potential, and light-matter interactions in
 colloid. Vivid mental imagery. See Blue. <br>
 
-<i>May 27.</i> "Entanglement bridge" and the means by which the state
-is preserved and corrected. <br>
+<i>May 27.</i> "Entanglement bridge" and the means by which polarizations
+are preserved/corrected. <br>
 </font>
 </div>
 
@@ -426,7 +426,7 @@ Blue notebook:
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>June 5.</i> ... Based on the foregoing considerations, the light
+<i>May 28.</i> ... Based on the foregoing considerations, the light
 should have entropy density
 
 $$
