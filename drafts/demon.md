@@ -451,7 +451,7 @@ Final entry in the black notebook:
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>May 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
+
 </font>
 </div>
 
