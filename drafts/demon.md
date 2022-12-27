@@ -404,7 +404,7 @@ solid black; line-height:1.3;">
  <font size="-0.2">
 <i>The Seventh (May 12).</i> אשמדאי‎ explains scattering viz. light and
 matter. Light penetrates further due to angular momentum term in
-effective potential.
+effective potential. <br>
 
 <i>The Eighth (May 14).</i> אשמדאי‎
 </font>
