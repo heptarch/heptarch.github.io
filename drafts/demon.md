@@ -406,7 +406,7 @@ solid black; line-height:1.3;">
 matter. Light penetrates further due to angular momentum term in
 effective potential. <br>
 
-<i>The Eighth (May 14).</i> אשמדאי‎
+<i>The Eighth (May 14).</i> Another disquisition on scones. <br>
 </font>
 </div>
 
