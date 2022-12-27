@@ -402,18 +402,20 @@ From afar, it looks like a star dimming.
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<i>May 12.</i> אשמדאי‎ explains scattering viz. light and
-matter. Light penetrates further due to angular momentum term in
-effective potential. <br>
+<i>May 12.</i> אשמדאי‎ explains extradimensional scattering
+viz. light. Better transmission due to angular momentum term in effective potential. <br>
 
 <i>May 14.</i> Another disquisition on scones. <br>
 
 <i>May 17.</i> אשמדאי discusses a method to remember the future, but
 details elude me. <br>
 
-<i>May 25.</i> אשמדאי is in some other part of Ede & Ravenscroft---can
-hear his "Ha!" from elsewhere---but notes in bedroom on light-matter
+<i>May 25.</i> אשמדאי in some other part of Ede & Ravenscroft---can
+hear "Ha!"---but read notes in the bedroom on light-matter
 interactions in colloids. Improve electromagnets to test. <br>
+
+<i>May 26.</i> Discover  אשמדאי in the kitchen, also the
+bedroom. Movements paired and opposite. <br>
 </font>
 </div>
 
