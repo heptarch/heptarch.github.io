@@ -373,6 +373,39 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
+Ellen's blue notebook:
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+
+<i>May 28.</i> ... Based on the foregoing considerations, the light
+should have entropy density
+
+$$
+sT \propto \epsilon \propto T^5.
+$$
+
+Incorporating a rough estimate of the prefactor,
+
+$$
+\epsilon \approx 6 \times 10^{-14}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
+10^{-13} T^4
+$$
+
+"entanglement" corpuscules per cubic metre. If I pulse from each
+colloid chamber, every day, a year and $T \approx 500 \text{K}$
+should be supply the dæmon's entropy needs. I will need to consult
+Foster. But what happens after entropy delivered?
+<br>
+</font>
+</div>
+
+<p align="center">
+  ⁂
+  </p>
+
 *3980221461 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
 The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
@@ -417,35 +450,6 @@ colloid. Vivid mental imagery. See Blue. <br>
 
 <i>May 27.</i> "Entanglement bridge" and the means by which polarizations
 are preserved/corrected. <br>
-</font>
-</div>
-
-Blue notebook:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
- <font size="-0.2">
-
-<i>May 28.</i> ... Based on the foregoing considerations, the light
-should have entropy and energy density
-
-$$
-sT \propto \epsilon \propto T^5.
-$$
-
-Incorporating a rough estimate of the prefactor,
-
-$$
-\epsilon \approx 6 \times 10^{-14}
-\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
-10^{-13} T^4
-$$
-
-"entanglement" corpuscules per cubic metre. If I pulse from each
-colloid chamber, every day, a year and $T \approx 500 \text{K}$
-should be supply the dæmon's entropy needs. I will need to consult
-Foster. But what happens after entropy delivered?
-<br>
 </font>
 </div>
 
