@@ -391,7 +391,7 @@ vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, they pull the web closed, folding up
 space as they go.
 
-From afar, it looks like a star dimming.
+From afar, it looks like a star winking out of existence.
 
 <p align="center">
   ⁂
@@ -412,6 +412,9 @@ details elude me. <br>
 
 <i>May 26.</i> Find אשמדאי in kitchen making scones. Explains
 extradimensional scattering of light, rotational moment in potential. <br>
+</font>
+
+<i>May 30.</i>  <br>
 </font>
 </div>
 
