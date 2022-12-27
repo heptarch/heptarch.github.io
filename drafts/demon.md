@@ -401,15 +401,15 @@ space as they go. From far off, a star winks out of existence.
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>May 14.</i> Another disquisition on scones. <br>
-
-<i>May 17.</i> אשמדאי discusses a method to remember the future, but
+<i>May 14.</i> אשמדאי discusses a method to remember the future, but
 details elude me. <br>
+
+<i>May 17.</i> Another disquisition on scones. <br>
 
 <i>May 25.</i> In some other part of Ede & Ravenscroft—hear
 various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
 
-<i>May 14.</i> אשמדאי back in bedroom wearing particuarly outrageous
+<i>May 26.</i> אשמדאי back in bedroom wearing particuarly outrageous
 peruke. Engages in long conversation about extradimensional
 scattering, "particles" of light, rotational moment term in potential,
 and light-matter interactions in colloid. Accompanied by vivid mental imagery. <br>
