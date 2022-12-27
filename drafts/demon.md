@@ -273,7 +273,7 @@ She explains as if it was as commonplace as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
 besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, the mechanical contrivance by which a uniform
-velocity of rotation is maintained? By a combination of magnetism and
+velocity of rotation is maintained, in a turbine for example? By a combination of magnetism and
 cooling, I think we might apply these notions to corpuscular machines, but I fear
 some of the finer points of experimental chemistry elude me. I remember you stating in your lectures on
 acoustics that you studied with Kekulé?" The notebook becomes
