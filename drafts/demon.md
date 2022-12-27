@@ -399,10 +399,10 @@ solid black; line-height:1.3;">
 should have entropy density
 
 $$
-s \propto \epsilon T^{-1} \propto T^4.
+s \propto \epsilon T^{-1} \propto T^4
 $$
 
-Incorporating a rough estimate of the prefactor, this gives
+in Thomson's absolute units. A rough estimate of the prefactor gives
 
 $$
 s \approx 6 \times 10^{-14}
