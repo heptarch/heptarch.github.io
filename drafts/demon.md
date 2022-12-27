@@ -447,8 +447,7 @@ scattering, "particles" of light, rotational moment term in
 gravitoelectromagnetic potential, and light-matter interactions in
 colloid. Vivid mental imagery. See Blue. <br>
 
-<i>May 27.</i> "Entanglement bridge" and the means by which polarizations
-are preserved/corrected. <br>
+<i>May 27.</i> "Entanglement bridge" and methods to preserve/correct polarizations. <br>
 </font>
 </div>
 
