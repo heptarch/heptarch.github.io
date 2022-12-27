@@ -437,10 +437,13 @@ Incorporating a rough estimate of the prefactor,
 
 $$
 \epsilon \approx 6 \times 10^{-14}
-\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^3 \sim 10^{-5}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
+10^{-13} T^4
 $$
 
-"entanglement" corpuscules per cubic metre.
+"entanglement" corpuscules per cubic metre. If I pulse from each
+colloid chamber, every day, a year and $T \approx 1000 \text{K}$
+should be sufficient.
 <br>
 </font>
 </div>
