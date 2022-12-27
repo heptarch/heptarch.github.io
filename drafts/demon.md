@@ -399,13 +399,13 @@ solid black; line-height:1.3;">
 should have entropy density
 
 $$
-sT \propto \epsilon \propto T^5.
+s \propto \epsilon T^{-1} \propto T^4.
 $$
 
 Incorporating a rough estimate of the prefactor,
 
 $$
-\epsilon \approx 6 \times 10^{-14}
+s \approx 6 \times 10^{-14}
 \pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
 10^{-13} T^4
 $$
