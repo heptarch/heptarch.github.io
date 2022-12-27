@@ -396,9 +396,7 @@ thousands of miles wide around the dying spider.
 It thrashes, lunges, tries to flee; the web quivers and the fly at each
 vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, they pull the web closed, folding up
-space as they go.
-
-From far off: a star winks out of existence.
+space as they go. From far off, a star winks out of existence.
 
 <p align="center">
   ⁂
