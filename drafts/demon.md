@@ -462,9 +462,9 @@ various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
 peruke. Engages in long conversation about extradimensional
 scattering, "particles" of light, rotational moment term in
 gravitoelectromagnetic potential, and light-matter interactions in
-colloid. Vivid mental imagery. See Blue. <br>
+colloid. Vivid mental imagery. See blue notebook. <br>
 
-<i>May 27.</i> "Entanglement bridge" and methods to preserve/correct polarizations. <br>
+<i>May 29.</i> "Entanglement bridge" and methods to preserve/correct polarizations. <br>
 </font>
 </div>
 
