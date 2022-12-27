@@ -414,10 +414,12 @@ solid black; line-height:1.3;">
 details elude me. <br>
 
 <i>May 25.</i> In some other part of Ede & Ravenscroft—hear
-various "Ha!"s. Find אשמדאי trying on legal wigs. Engages in long
-conversation about extradimensional scattering, "particles" of light,
-rotational moment term in potential, and light-matter interactions in
-colloid. Distinct images. <br>
+various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
+
+<i>May 14.</i> אשמדאי back in bedroom wearing particuarly outrageous
+peruke. Engages in long conversation about extradimensional
+scattering, "particles" of light, rotational moment term in potential,
+and light-matter interactions in colloid. Accompanied by vivid mental imagery. <br>
 </font>
 </div>
 
