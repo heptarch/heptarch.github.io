@@ -443,7 +443,7 @@ $$
 
 "entanglement" corpuscules per cubic metre. If I pulse from each
 colloid chamber, every day, a year and $T \approx 1000 \text{K}$
-should be sufficient.
+should be sufficient. I will consult Foster.
 <br>
 </font>
 </div>
