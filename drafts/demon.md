@@ -340,7 +340,7 @@ legal sophistry, could point to.
  flat in the rowlocks and skimming the water, she and the boat one breathless motion.
 Facing backwards, the frozen
 light of Aberdeen grows smaller; beneath, the mild swell of the wave
-which bears them towards an island ringed by a dark wall.
+which bears them towards an island ringed by darkness.
 
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
