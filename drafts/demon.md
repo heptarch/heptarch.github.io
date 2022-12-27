@@ -266,7 +266,7 @@ your time?" Bright and fearless; intriguing. "Of course child. How
 might I assist?" She proffers a notebook.
 "I have been carrying out researches into the optical properties of
 magnetised fluids." He restrains himself from laughing at the absurdity. "In what connection? And
-how, ah, forgive me, how could you possibly get access to the necessary
+how, forgive me, could you possibly get access to the necessary
 equipment?" He leafs theatrically through the notebook. Mere scribbles.
 
 She explains as if it was as commonplace as the teapot. "I am employed
