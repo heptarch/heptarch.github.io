@@ -88,7 +88,7 @@ Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
 A young woman is rumored to wander about
 and attend to the machines.
-The network is abandoned, but a larger work continues.
+The network is abandoned, but a larger enterprise continues.
 
 <p align="center">
   ⁂
