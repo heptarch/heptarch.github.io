@@ -45,7 +45,7 @@ teardrops guarding a central globe.
 The teardrops shrink into themselves and disappear.
 
 So this, Ellen thinks, is how you
-summon a demon.
+summon a dæmon.
 
 <p align="center">
   ⁂
@@ -442,8 +442,9 @@ $$
 $$
 
 "entanglement" corpuscules per cubic metre. If I pulse from each
-colloid chamber, every day, a year and $T \approx 1000 \text{K}$
-should be sufficient. I will consult Foster.
+colloid chamber, every day, a year and $T \approx 500 \text{K}$
+should be supply the dæmon's entropy needs. I will consult Foster on
+raising the temperature.
 <br>
 </font>
 </div>
