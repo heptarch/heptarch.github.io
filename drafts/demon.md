@@ -427,13 +427,13 @@ solid black; line-height:1.3;">
  <font size="-0.2">
 
 <i>June 5.</i> ... Based on the foregoing considerations, the light
-should have entropy
+should have entropy density
 
 $$
-ST \propto U,
+sT \propto \epsilon \propto T^5.
 $$
 
-and in turn $U propto T^5$.
+The prefactor 
 <br>
 </font>
 </div>
