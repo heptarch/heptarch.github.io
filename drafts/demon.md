@@ -413,7 +413,7 @@ details elude me. <br>
 
 <i>May 25.</i> אשמדאי is in some other part of Ede & Ravenscroft---can
 hear his "Ha!" from elsewhere---but notes in bedroom on light-matter
-interactions relevant to colloids. Need stronger magnets. <br>
+interactions relevant to colloids. Need to improve electromagnets. <br>
 </font>
 </div>
 
