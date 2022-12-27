@@ -363,7 +363,7 @@ There is a plate of crumbs beside them; Rumpelstiltskin clicks his
 fingers and the crumbs assemble into a scone.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
-replenishing my entropy budget. But I still have a few tricks. Begoo!"
+replenishing my entropy budget, but I still have a few tricks. Begoo!"
 The logs in the fire crackle and unburn brightly. "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
