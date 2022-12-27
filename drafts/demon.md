@@ -402,8 +402,6 @@ From afar, it looks like a star dimming.
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<i>May 12.</i> אשמדאי‎ explains extradimensional scattering
-viz. light. Better transmission due to rotational moment in potential. <br>
 
 <i>May 14.</i> Another disquisition on scones. <br>
 
@@ -412,6 +410,9 @@ details elude me. <br>
 
 <i>May 25.</i> אשמדאי in some other part of Ede & Ravenscroft—hear
 various "Ha!"s. <br>
+
+<i>May 26.</i> Find him in kitchen making scones. Explains extradimensional scattering
+viz. light, rotational moment in potential. <br>
 </font>
 </div>
 
