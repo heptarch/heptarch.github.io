@@ -383,8 +383,8 @@ side, and from open wounds blobs of fluid and disembodied
 structure radiate into the void.
 It is bleeding to death.
 
-Twelve flies break off from the swarm and dart into alignment, an
-icosahedral web thousands of miles wide around the dying spider.
+Twelve flies break off from the swarm and dart into alignment, forming
+an icosahedral web thousands of miles wide around the dying spider.
 Slowly, with ritual symmetry, they converge, folding
 up space as they go. The letter is sealed and despatched to the future.
 
