@@ -397,13 +397,13 @@ From afar, it looks like a star dimming.
   ⁂
   </p>
 
-*1874.* In Ellen's black notebook:
+*1874.* Ellen's black notebook:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
 <i>May 12.</i> אשמדאי‎ explains extradimensional scattering
-viz. light. Better transmission due to angular momentum term in effective potential. <br>
+viz. light. Better transmission due to rotational moment in potential. <br>
 
 <i>May 14.</i> Another disquisition on scones. <br>
 
@@ -412,7 +412,7 @@ details elude me. <br>
 
 <i>May 25.</i> אשמדאי in some other part of Ede & Ravenscroft—hear
 various "Ha!"s—but read notes in the bedroom on light-matter
-interactions in colloids. Improve electromagnets to test. <br>
+interactions in colloids. " <br>
 
 <i>May 26.</i> Discover  אשמדאי in the kitchen, also the
 bedroom, happily eating scones. Neither responds to me. <br>
