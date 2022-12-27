@@ -427,13 +427,19 @@ solid black; line-height:1.3;">
  <font size="-0.2">
 
 <i>May 28.</i> ... Based on the foregoing considerations, the light
-should have entropy density
+should have entropy and energy density
 
 $$
 sT \propto \epsilon \propto T^5.
 $$
 
-The prefactor 
+Then
+
+$$
+\epsilon \sim 6 \times 10^{-14}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \approx 4.6 \times
+10^{-13} T^4.
+$$
 <br>
 </font>
 </div>
@@ -501,3 +507,4 @@ the horizon.-->
 <!-- https://www.gracesguide.co.uk/Pneumatic_Despatch_Co-->
 <!-- https://www.sacred-texts.com/grim/lks/lks05.htm-->
 <!-- https://en.wikipedia.org/wiki/Asmodeus -->
+<!-- https://arxiv.org/pdf/quant-ph/0510002.pdf -->
