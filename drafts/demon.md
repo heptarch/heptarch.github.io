@@ -402,7 +402,7 @@ $$
 s \propto \epsilon T^{-1} \propto T^4.
 $$
 
-Incorporating a rough estimate of the prefactor,
+Incorporating a rough estimate of the prefactor, this gives
 
 $$
 s \approx 6 \times 10^{-14}
