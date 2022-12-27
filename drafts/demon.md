@@ -444,7 +444,7 @@ $$
 "entanglement" corpuscules per cubic metre. If I pulse from each
 colloid chamber, every day, a year and $T \approx 500 \text{K}$
 should be supply the dæmon's entropy needs. I will need to consult
-Foster. But after the entropy is sent, what happens then?
+Foster. But after the entropy is delivered, what then?
 <br>
 </font>
 </div>
