@@ -455,7 +455,7 @@ details elude me. <br>
 
 <i>May 7.</i> Another disquisition on scones. <br>
 
-<i>May 19.</i> In some other part of Ede & Ravenscroft—hear
+<i>May 19.</i> In some other part of the "Ashen House", as he calls it—hear
 various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
 
 <i>May 26.</i> אשמדאי back in bedroom wearing particuarly outrageous
