@@ -434,7 +434,6 @@ ST \propto U,
 $$
 
 and in turn $U propto T^5$.
-
 <br>
 </font>
 </div>
