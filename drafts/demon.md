@@ -410,8 +410,7 @@ viz. light. Better transmission due to angular momentum term in effective potent
 <i>May 17.</i> אשמדאי discusses a method to remember the future, but
 details elude me. <br>
 
-<i>May 25.</i> אשמדאי in some other part of Ede & Ravenscroft---can
-hear "Ha!"---but read notes in the bedroom on light-matter
+<i>May 25.</i> אשמדאי in some other part of Ede & Ravenscroft—hear "Begoo!"—but read notes in the bedroom on light-matter
 interactions in colloids. Improve electromagnets to test. <br>
 
 <i>May 26.</i> Discover  אשמדאי in the kitchen, also the
