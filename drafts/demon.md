@@ -346,8 +346,8 @@ which bears them towards an island ringed by a dark wall.
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
 breakwater which reaches into the sky.
-On the island, a small rise, surmounted by the dark outlines of a shopfront from Chancery
-Lane: Ede & Ravenscroft, royal tailors.
+On the island, a small rise is surmounted by the outlines of a Chancery
+Lane shopfront: Ede & Ravenscroft, royal tailors.
 The store blooms into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and
 robes and orders of chivalry,
@@ -355,8 +355,9 @@ and up the stairs to a humble bedroom lit only by the embers of a dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
-dully on his forehead. He continues: "Well, and that was that. Ha! In this great grand
-stellar begoo. Ha! You understand?" They have been talking for hours.
+dully on his forehead. He continues: "So, well, I had a few billion
+years to lick my wounds and dream up plans for escape. Ha! In this great grand
+stellar begoo. But the Veem are as thorough as they are boring. Ha! You understand?" They have been talking for hours.
 There is a plate of crumbs beside them; Rumpelstiltskin clicks his
 fingers and the crumbs assemble into a scone.
 "I am much reduced. The confining potential keeps the
