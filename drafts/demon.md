@@ -402,7 +402,11 @@ From afar, it looks like a star dimming.
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<i>The Seventh (May 12).</i> אשמדאי‎ tells me of 
+<i>The Seventh (May 12).</i> אשמדאי‎ explains scattering viz. light and
+matter. Light penetrates further due to angular momentum term in
+effective potential.
+
+<i>The Eighth (May 14).</i> אשמדאי‎
 </font>
 </div>
 
