@@ -34,14 +34,14 @@ infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible object before her.
 
-A shape glows and hums in the dark, planed like origami, symmetric as
-a jewel, and bristling with spikes.
+A shape glows and hums in the dark, symmetric as
+a jewel and bristling with spikes.
 Ellen pulls on a wire near her head. A pulley lurches, then another, then a
-third, and a cantilevered armature covered in coils and hissing ribbons of
+third, and a cantilevered armature covered in coils and ribbons of
 piping leans forward.
-The shape responds, pulsing and folding into new patterns. Spikes
-withdraw, merge, and dance in undulating bristles before suddenly
-detaching: a constellation of twelve teardrops, guarding a central globe.
+The shape responds, folding itself into new patterns. Spikes
+withdraw, merge, and suddenly detach to form a constellation of twelve
+teardrops guarding a central globe.
 The teardrops shrink into themselves and disappear.
 
 So this, Ellen thinks, is how you
@@ -383,8 +383,9 @@ side, and from open wounds blobs of fluid and disembodied
 structure radiate into the void.
 It is bleeding to death.
 
-Twelve flies break off from the swarm and dart into alignment, forming
-an icosahedral web thousands of miles wide around the dying spider.
+Twelve flies break off from the swarm and dart into alignment around
+the dying spider, an icosahedral web thousands of miles wide.
+Spears of flame travel inward.
 Slowly, with ritual symmetry, they converge, folding
 up space as they go. The letter is sealed and despatched to the future.
 
