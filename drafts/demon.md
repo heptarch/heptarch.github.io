@@ -384,9 +384,8 @@ side, and from open wounds blobs of fluid and disembodied
 structure radiate into the void.
 It is bleeding to death.
 
-Twelve flies break off from the swarm and dart into alignment around
-the dying spider, forming an icosahedral web thousands of miles wide.
-Spears of flame travel inward and impale it.
+Twelve flies break off from the swarm to form an icosahedral web
+around the dying spider.
 Slowly, with ritual symmetry, they converge, folding
 up space as they go.
 
