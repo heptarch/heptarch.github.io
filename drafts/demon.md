@@ -350,7 +350,7 @@ Lane shopfront: Ede & Ravenscroft, tailors by appointment of Her Majesty.
 The store blooms into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and
 robes and orders of chivalry,
-up the stairs to a humble bedroom lit only by the embers of a dying fire.
+up the stairs to a humble bedroom lit only by the embers of a fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
