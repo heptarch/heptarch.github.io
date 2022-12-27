@@ -254,7 +254,7 @@ evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest. We
 will cover thermometry, calorimetry, and the basic dynamical
-principles governing the evolution of a thermodynamic system, like our
+principles governing the evolution of a thermodynamic system---like our
 friend the teapot."
 He stops to ensure he has been understood. "Let us start with the
 definition of temperature..."
