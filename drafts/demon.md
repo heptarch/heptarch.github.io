@@ -479,6 +479,10 @@ solid black; line-height:1.3;">
 </font>
 </div>
 
+<p align="center">
+  ⁂
+  </p>
+
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
 <!-- , or the apostles orbiting the son. , a betrayal beyond anything in the scriptures. -->
