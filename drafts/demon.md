@@ -373,38 +373,6 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1874.* Ellen's blue notebook:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
- <font size="-0.2">
-
-<i>May 28.</i> ... Based on the foregoing considerations, the light
-should have entropy density
-
-$$
-sT \propto \epsilon \propto T^5.
-$$
-
-Incorporating a rough estimate of the prefactor,
-
-$$
-\epsilon \approx 6 \times 10^{-14}
-\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
-10^{-13} T^4
-$$
-
-"entanglement" corpuscules per cubic metre. If I pulse from each
-colloid chamber, every day, a year and $T \approx 500 \text{K}$
-should be supply the dæmon's needs. (Consult Foster.) But what happens after entropy delivered?
-<br>
-</font>
-</div>
-
-<p align="center">
-  ⁂
-  </p>
-
 *3980221461 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
 The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
@@ -475,6 +443,38 @@ chair at Edinburgh."
 you. My father has arranged something in the parish register."
 
 A pause. "And how am I to view her?" The only answer is the dwindling flame.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1874.* Ellen's blue notebook:
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+
+<i>May 28.</i> ... Based on the foregoing considerations, the light
+should have entropy density
+
+$$
+sT \propto \epsilon \propto T^5.
+$$
+
+Incorporating a rough estimate of the prefactor,
+
+$$
+\epsilon \approx 6 \times 10^{-14}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
+10^{-13} T^4
+$$
+
+"entanglement" corpuscules per cubic metre. If I pulse from each
+colloid chamber, every day, a year and $T \approx 500 \text{K}$
+should be supply the dæmon's needs. (Consult Foster.) But what happens after entropy delivered?
+<br>
+</font>
+</div>
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
