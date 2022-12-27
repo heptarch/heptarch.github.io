@@ -26,7 +26,7 @@ Whole avenues of universes...
 </div> <br>
 
 <span style="padding-left: 40px; display:block">
-He giveth the Ring of Virtues; he teacheth the Arts of Arithmetic, Astronomy, Geometry, and all handicrafts absolutely. He giveth true and full answers unto thy demands. He maketh one Invincible. He showeth the place where Treasures lie, and guardeth it.
+He showeth the place where Treasures lie, and guardeth it.
 </span>
 
 <div style="text-align: right">Anonymous, <i>Lemegeton Clavicula Salomonis</i>
