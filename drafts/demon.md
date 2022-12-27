@@ -385,10 +385,10 @@ structure radiate into the void.
 It is bleeding to death.
 
 Twelve flies break off from the swarm and dart into alignment around
-the dying spider, an icosahedral web thousands of miles wide.
-Spears of flame travel inward.
+the dying spider, forming an icosahedral web thousands of miles wide.
+Spears of flame travel inward and impale it.
 Slowly, with ritual symmetry, they converge, folding
-up space as they go. The letter is sealed and despatched to the future.
+up space as they go.
 
 <p align="center">
   ⁂
