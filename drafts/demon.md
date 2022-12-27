@@ -400,7 +400,7 @@ up space as they go.
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<i>Dream 7 (May 12).</i>.
+<i>VII (May 12).</i>
 </font>
 </div>
 
