@@ -385,7 +385,7 @@ structure radiate into the void.
 It is bleeding to death.
 
 Twelve flies break off from the swarm, forming an icosahedral web thousands of miles wide.
-Slowly, with ritual symmetry, they converge, folding
+Slowly, with ritual symmetry, they converge on the dying spider, folding
 up space as they go.
 
 <p align="center">
