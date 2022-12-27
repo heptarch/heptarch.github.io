@@ -413,6 +413,16 @@ various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
 peruke. Engages in long conversation about extradimensional
 scattering, "particles" of light, rotational moment term in potential,
 and light-matter interactions in colloid. Vivid mental imagery. <br>
+
+<i>May 30.</i> Corrects errors from last conversation. <br>
+
+<i>May 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
+</font>
+</div>
+
+Ellen's blue notebook:
+
+<i>June 5.</i> We <br>
 </font>
 </div>
 
