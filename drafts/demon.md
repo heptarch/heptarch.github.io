@@ -459,7 +459,7 @@ details elude me. <br>
 <i>May 19.</i> In some other part of the "Ashen House", as אשמדאי calls it—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>May 26.</i> אשמדאי back in bedroom wearing particuarly outrageous
+<i>May 26.</i> Found  אשמדאי back in bedroom wearing particuarly outrageous
 peruke. Engages in long conversation about extradimensional
 scattering, "particles" of light, rotational moment term in
 gravitoelectromagnetic potential, and light-matter interactions in
@@ -482,6 +482,8 @@ solid black; line-height:1.3;">
 <p align="center">
   ⁂
   </p>
+
+
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
