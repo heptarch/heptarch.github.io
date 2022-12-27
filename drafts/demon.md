@@ -422,6 +422,10 @@ and light-matter interactions in colloid. Vivid mental imagery. <br>
 
 Ellen's blue notebook:
 
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+
 <i>June 5.</i> We <br>
 </font>
 </div>
