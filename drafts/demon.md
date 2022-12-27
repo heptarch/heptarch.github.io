@@ -417,6 +417,8 @@ colloid. Vivid mental imagery. See Blue. <br>
 
 <i>May 27.</i> "Entanglement bridge" and the means by which the state
 is preserved and corrected. <br>
+</font>
+</div>
 
 Blue notebook:
 
