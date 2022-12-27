@@ -371,7 +371,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*3 $\times 10^9$ BC.* Creatures the size of planetoids keen over the sky,
+*3980221461 BC.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
 The largest, purple, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
 spider by flies.
