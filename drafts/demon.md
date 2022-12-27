@@ -356,7 +356,9 @@ The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. He continues: "So, well, I had a few billion
 years to lick my wounds and dream up plans for escape. Ha! In this great grand
-stellar begoo. But the Veem are as thorough as they are boring. Ha! You understand?" They have been talking for hours.
+stellar begoo. But the Veem---those meddling bureaucrats---are as
+thorough as they are boring. Ha! You understand?" They have been
+talking for hours.
 There is a plate of crumbs beside them; Rumpelstiltskin clicks his
 fingers and the crumbs assemble into a scone.
 "I am much reduced. The confining potential keeps the
