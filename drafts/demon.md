@@ -384,8 +384,11 @@ side, and from open wounds blobs of fluid and disembodied
 structure radiate into the void.
 It is bleeding to death.
 
-Twelve flies break off from the swarm, forming an icosahedral web thousands of miles wide.
-Slowly, with ritual symmetry, they converge on the dying spider, folding
+Twelve flies break off from the swarm, forming an icosahedral web
+thousands of miles wide.
+The web quivers as the spider moves, and the fly at each vertex
+strafes fluidly out of reach.
+Slowly, with ritual symmetry, they pull the web closed, folding
 up space as they go.
 
 <p align="center">
