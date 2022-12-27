@@ -412,21 +412,38 @@ various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
 <i>May 26.</i> אשמדאי back in bedroom wearing particuarly outrageous
 peruke. Engages in long conversation about extradimensional
 scattering, "particles" of light, rotational moment term in
-gravitoelectromagnetic potential, and light-matter interactions in colloid. Vivid mental imagery. <br>
+gravitoelectromagnetic potential, and light-matter interactions in
+colloid. Vivid mental imagery. See Blue. <br>
 
-<i>May 30.</i> Corrects errors from last conversation. <br>
+<i>May 27.</i> "Entanglement bridge" and the means by which the state
+is preserved and corrected. <br>
 
-<i>May 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
-</font>
-</div>
-
-Ellen's blue notebook:
+Blue notebook:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>June 5.</i> We <br>
+<i>June 5.</i> ... Based on the foregoing considerations, the light
+should have entropy
+
+$$
+ST \propto U,
+$$
+
+and in turn $U propto T^5$.
+
+<br>
+</font>
+</div>
+
+Final entry in the black notebook:
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+
+<i>May 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
 </font>
 </div>
 
