@@ -436,11 +436,11 @@ $$
 Incorporating a rough estimate of the prefactor,
 
 $$
-\epsilon \sim 6 \times 10^{-14}
-\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \approx 0.0037
+\epsilon \approx 6 \times 10^{-14}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^3 \sim 10^{-5}
 $$
 
-joules per cubic metre.
+"entanglement" corpuscules per cubic metre.
 <br>
 </font>
 </div>
