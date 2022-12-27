@@ -413,8 +413,11 @@ solid black; line-height:1.3;">
 <i>May 17.</i> אשמדאי discusses a method to remember the future, but
 details elude me. <br>
 
-<i>May 25.</i> אשמדאי in some other part of Ede & Ravenscroft—hear
-various "Ha!"s. Find him trying on legal wigs. <br>
+<i>May 25.</i> In some other part of Ede & Ravenscroft—hear
+various "Ha!"s. Find אשמדאי trying on legal wigs. Engages in long
+conversation about extradimensional scattering, "particles" of light,
+rotational moment term in potential, and light-matter interactions in
+colloid. Distinct images. <br>
 </font>
 </div>
 
