@@ -415,7 +415,7 @@ various "Ha!"s—but read notes in the bedroom on light-matter
 interactions in colloids. Improve electromagnets to test. <br>
 
 <i>May 26.</i> Discover  אשמדאי in the kitchen, also the
-bedroom. Movements paired and opposite. <br>
+bedroom. Movements paired and opposite. He can't speak. <br>
 </font>
 </div>
 
