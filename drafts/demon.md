@@ -408,7 +408,7 @@ effective potential. <br>
 
 <i>May 14.</i> Another disquisition on scones. <br>
 
-<i>May 17.</i> אשמדאי discusses how to remember the future, but
+<i>May 17.</i> אשמדאי discusses a method to remember the future, but
 details elude me. <br>
 
 <i>May 25.</i> . <br>
