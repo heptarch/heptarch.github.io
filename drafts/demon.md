@@ -412,7 +412,7 @@ various "Ha!"s. Find אשמדאי trying on legal wigs. <br>
 <i>May 26.</i> אשמדאי back in bedroom wearing particuarly outrageous
 peruke. Engages in long conversation about extradimensional
 scattering, "particles" of light, rotational moment term in potential,
-and light-matter interactions in colloid. Accompanied by vivid mental imagery. <br>
+and light-matter interactions in colloid. Vivid mental imagery. <br>
 </font>
 </div>
 
