@@ -417,8 +417,8 @@ structure radiate into the void.
 It is bleeding to death.
 
 Twelve flies break off from the swarm, forming an icosahedral web
-thousands of miles wide around the dying spider.
-It thrashes, lunges, tries to flee; the web quivers and the fly at each
+thousands of miles wide.
+The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
 vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, they pull the web closed, folding up
 space as they go. From far off, a star winks out of existence.
@@ -451,7 +451,7 @@ colloid. Vivid mental imagery. See Blue. <br>
 </font>
 </div>
 
-Final entry in the black notebook:
+Final entry:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
