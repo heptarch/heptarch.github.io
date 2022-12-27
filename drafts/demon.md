@@ -397,16 +397,21 @@ From afar, it looks like a star dimming.
   ⁂
   </p>
 
-*1874.* Ellen's black notebook:
+*1874.* In Ellen's black notebook:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
-<i>The Seventh (May 12).</i> אשמדאי‎ explains scattering viz. light and
+<i>May 12.</i> אשמדאי‎ explains scattering viz. light and
 matter. Light penetrates further due to angular momentum term in
 effective potential. <br>
 
-<i>The Eighth (May 14).</i> Another disquisition on scones. <br>
+<i>May 14.</i> Another disquisition on scones. <br>
+
+<i>May 17.</i> אשמדאי discusses how to remember the future, but
+details elude me. <br>
+
+<i>May 25.</i> . <br>
 </font>
 </div>
 
