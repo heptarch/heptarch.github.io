@@ -391,7 +391,7 @@ vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, they pull the web closed, folding up
 space as they go.
 
-From afar, it looks like a star winking out of existence.
+From far off, it looks like a star winking out of existence.
 
 <p align="center">
   ⁂
