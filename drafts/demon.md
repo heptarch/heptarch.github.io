@@ -385,11 +385,11 @@ structure radiate into the void.
 It is bleeding to death.
 
 Twelve flies break off from the swarm, forming an icosahedral web
-thousands of miles wide.
-The web quivers as the spider thrashes, lunges, flees; the fly at each
-vertex strafes fluidly out of reach, keeping a fixed radial distance.
-Slowly, with ritual symmetry, they pull the web closed, folding
-up space as they go.
+thousands of miles wide around the dying spider.
+It thrashes, lunges, tries to flee; the web quivers and the fly at each
+vertex strafes fluidly out of reach.
+Slowly, with ritual symmetry, they pull the web closed, greying the
+space between them until all thirteen disappear from view.
 
 <p align="center">
   ⁂
