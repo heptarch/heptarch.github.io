@@ -395,7 +395,7 @@ Another lurch. Ellen wakes with three white hairs.
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>May 28.</i> ... Based on the foregoing considerations, the light
+<i>May 5.</i> ... Based on the foregoing considerations, the light
 should have entropy density
 
 $$
@@ -486,7 +486,7 @@ Final entry:
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>May 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
+<i>April 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
 </font>
 </div>
 
