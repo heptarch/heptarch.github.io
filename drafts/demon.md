@@ -442,7 +442,8 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*
+*3692007258 BC.* Moving from system to system, leaving a trail of
+ dead stars in its wake.
 
 <p align="center">
   ⁂
