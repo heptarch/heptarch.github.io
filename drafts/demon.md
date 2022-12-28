@@ -442,7 +442,7 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*4692007258 BC.* A shadow moves from system to system, leaving a trail of
+*4692007258 BC.* A shadow moves from system to system, a trail of
  dead stars in its wake.
 
 <p align="center">
