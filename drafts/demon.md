@@ -328,6 +328,28 @@ legal sophistry, could point to.
   ⁂
   </p>
 
+*3980221461 BC.* Creatures the size of planetoids keen over the sky,
+bristling with teeth and luminescent ruin.
+The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
+spider by flies.
+The spider savages one fly, then another, in huge flickering whips
+of light, ingesting them before they can heal.
+But there are so many flies; some are attached, leech-like, to its
+side, and from open wounds blobs of fluid and disembodied
+structure radiate into the void.
+It is bleeding to death.
+
+Twelve flies break off from the swarm, forming an icosahedral web
+thousands of miles wide.
+The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
+vertex strafes fluidly out of reach.
+Slowly, with ritual symmetry, they pull the web closed, folding up
+space as they go. From far off, a star winks out of existence.
+
+<p align="center">
+  ⁂
+  </p>
+
 *1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -373,75 +395,6 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1874.* Ellen's blue notebook:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
- <font size="-0.2">
-
-<i>May 5.</i> ... Based on the foregoing considerations, the light
-should have entropy density
-
-$$
-s \propto \epsilon T^{-1} \propto T^4
-$$
-
-in Thomson's absolute units. A rough estimate of the prefactor, and
-the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's polarization encipherment, gives
-
-$$
-r^{-1} s \approx 6 \times 10^{-11}
-\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
-10^{-10} T^4
-$$
-
-reliably transmitted "entanglement" corpuscules per cubic metre.
-If I pulse to Chancery
-Lane from each colloid chamber, a few times a day, one year and $T
-\approx 700^\circ \text{ C}$
-should be sufficient. (For LDPC: consult Foster and
-Grant about temperature.) Once he sends the corrections to be applied
-(using second encipherment scheme), need to tune and apply the
-rotation pulses. In the quaternionic formalism, the general pulse
-scheme can be written
-
-$$
-\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right],
-$$
-
-with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
-(For LDPC: upgrade induction coils and frequency resolution bank; add another
-year and £5K.)
-But what happens once the avatar—as he puts it—crosses the entanglement bridge? <br>
-</font>
-</div>
-
-<p align="center">
-  ⁂
-  </p>
-
-*3980221461 BC.* Creatures the size of planetoids keen over the sky,
-bristling with teeth and luminescent ruin.
-The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
-spider by flies.
-The spider savages one fly, then another, in huge flickering whips
-of light, ingesting them before they can heal.
-But there are so many flies; some are attached, leech-like, to its
-side, and from open wounds blobs of fluid and disembodied
-structure radiate into the void.
-It is bleeding to death.
-
-Twelve flies break off from the swarm, forming an icosahedral web
-thousands of miles wide.
-The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
-vertex strafes fluidly out of reach.
-Slowly, with ritual symmetry, they pull the web closed, folding up
-space as they go. From far off, a star winks out of existence.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1874.* Ellen's black notebook:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
@@ -482,6 +435,53 @@ solid black; line-height:1.3;">
  <font size="-0.2">
 
 <i>April 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
+</font>
+</div>
+
+<p align="center">
+  ⁂
+  </p>
+
+*1874.* Ellen's blue notebook:
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+
+<i>May 5.</i> ... Based on the foregoing considerations, the light
+should have entropy density
+
+$$
+s \propto \epsilon T^{-1} \propto T^4
+$$
+
+in Thomson's absolute units. A rough estimate of the prefactor, and
+the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's polarization encipherment, gives
+
+$$
+r^{-1} s \approx 6 \times 10^{-11}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
+10^{-10} T^4
+$$
+
+reliably transmitted "entanglement" corpuscules per cubic metre.
+If I pulse to Chancery
+Lane from each colloid chamber, a few times a day, one year and $T
+\approx 700^\circ \text{ C}$
+should be sufficient. (For LDPC: consult Foster and
+Grant about temperature.) Once he sends the corrections to be applied
+(using second encipherment scheme), need to tune and apply the
+rotation pulses. In the quaternionic formalism, the general pulse
+scheme can be written
+
+$$
+\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right],
+$$
+
+with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
+(For LDPC: upgrade induction coils and frequency resolution bank; add another
+year and £5K.)
+But what happens once the avatar—as he puts it—crosses the entanglement bridge? <br>
 </font>
 </div>
 
