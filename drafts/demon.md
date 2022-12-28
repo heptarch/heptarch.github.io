@@ -25,7 +25,7 @@ He showeth the place where Treasures lie, and guardeth it.
 <div style="text-align: right">Anonymous, <i>Lemegeton Clavicula Salomonis</i>
 </div> <br>
 
-*1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
+*1876.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
@@ -403,7 +403,7 @@ s \propto \epsilon T^{-1} \propto T^4
 $$
 
 in Thomson's absolute units. A rough estimate of the prefactor, and
-the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's correction scheme, gives
+the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's polarization encipherment, gives
 
 $$
 r^{-1} s \approx 6 \times 10^{-11}
@@ -415,8 +415,19 @@ reliablly transmitted "entanglement" corpuscules per cubic metre.
 If I pulse to Chancery
 Lane from each colloid chamber, a few times a day, one year and $T
 \approx 700^\circ \text{ C}$
-should be sufficient to supply the dæmon's needs. (Consult Foster and
-Grant about temperature.) But what happens once entropy is delivered?
+should be sufficient. (Consult Foster and
+Grant about temperature.) Once he sends the corrections to be applied
+(using second encipherment scheme), need to tune and apply the
+rotation pulses. In the quaternionic formalism, the general pulse
+scheme can be written
+
+$$
+\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right].
+$$
+
+Upgrade induction coils and frequency resolution bank. Will perhaps
+take another year.
+
 <br>
 </font>
 </div>
@@ -537,3 +548,4 @@ the horizon.-->
 <!-- https://arxiv.org/pdf/quant-ph/0510002.pdf -->
 <!--- -->
 <!--https://www.wolframalpha.com/input?i=6+%5Ctimes+10%5E%7B-14%7D+%5Cpi%5E%7B3%2F2%7D%5CGamma%5Cleft%28%5Cfrac%7B5%7D%7B2%7D%5Cright%29%5Czeta%285%29+%281000%29%5E4+*+365+*+10+*+8 --->
+<!-- https://arxiv.org/pdf/2102.11213.pdf-->
