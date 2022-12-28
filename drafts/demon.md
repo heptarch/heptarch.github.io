@@ -442,8 +442,12 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*4692007258 BC.* A shadow moves from system to system, a trail of
- dead stars in its wake.
+*4692007258 BC.* On a planet, somewhere near the centre of the galaxy,
+a clever life form summons a dæmon. Instantly, a shadow bloats
+outwards, cloaking the planet in darkness, then grows large enough to
+move on. The planet is now a dull, uniform grey; an entropic graveyard.
+
+The shadow moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
