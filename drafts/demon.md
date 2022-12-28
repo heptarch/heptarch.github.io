@@ -469,7 +469,7 @@ gravitoelectromagnetic potential. <br>
 details elude me. <br>
 
 <i>April 23.</i> אשמדאי in kitchen rummaging through cupboard. Tells
-me how to "imprint" polarizations into colloid bath via ight-matter
+me how to "imprint" polarizations into colloid bath via light-matter
 interactions, then methods to "correct" errors in polarization
 transmission. <br>
 
