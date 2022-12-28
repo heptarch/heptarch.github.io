@@ -160,7 +160,7 @@ across and choked with machinery. Ellen puts the lamp on a cluttered
 desk and begins checking the instruments, adjusting,
 configuring, jotting down readings, pulling on wires which
 radiate from the junction into the dark of other machine banks.
-She is about to start the cleaning cycle, but intuition---that
+She is about to start the vacuum cycle, but intuition---that
 melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
 There is a small discrepancy from the Holborn interferometer.
@@ -411,10 +411,10 @@ r^{-1} s \approx 6 \times 10^{-11}
 10^{-10} T^4
 $$
 
-"entanglement" corpuscules per cubic metre.
+reliablly transmitted "entanglement" corpuscules per cubic metre.
 If I pulse to Chancery
 Lane from each colloid chamber, a few times a day, one year and $T
-\approx 750^\circ \text{ C}$
+\approx 700^\circ \text{ C}$
 should be sufficient to supply the dæmon's needs. (Consult Foster and Grant about
 raising temperature.) But what happens once entropy is delivered?
 <br>
@@ -463,7 +463,7 @@ various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>April 15.</i> Found  אשמדאי back in bedroom wearing particuarly outrageous
 peruke. Engages in long conversation about extradimensional
-scattering. <br>
+scattering and scones. <br>
 
 <i>April 16.</i> Discusses "particles" of light, rotational moment term in
 gravitoelectromagnetic potential. <br>
