@@ -328,22 +328,6 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1857.* A single candle burns low in the granite citadel of Marischal
- College. "Katherine, why in God's name would you conceal that?"
-
-"Because you---or rather, I---cannot be saddled with that and expect a
-chair at Edinburgh."
-
-"But the child---" "---will be well-loved by my parents, I can assure
-you. My father has arranged something in the parish register."
-
-A pause. "And how am I to view her?" His answer is the dwindling
-flame.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -428,7 +412,7 @@ $$
 with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
 (For LDPC: upgrade induction coils and frequency resolution bank; add another
 year and £5K.)
-But what happens once avatar—as he puts it—crosses the entanglement bridge? <br>
+But what happens once the avatar—as he puts it—crosses the entanglement bridge? <br>
 </font>
 </div>
 
@@ -550,3 +534,9 @@ the horizon.-->
 <!--https://www.wolframalpha.com/input?i=6+%5Ctimes+10%5E%7B-14%7D+%5Cpi%5E%7B3%2F2%7D%5CGamma%5Cleft%28%5Cfrac%7B5%7D%7B2%7D%5Cright%29%5Czeta%285%29+%281000%29%5E4+*+365+*+10+*+8 --->
 <!-- https://arxiv.org/pdf/2102.11213.pdf-->
 <!-- https://www.emis.de/classics/Hamilton/OnQuat.pdf-->
+<!--  *1857.* A single candle burns low in the granite citadel of -->
+<!--  Marischal  College. "Katherine, why in God's name would you conceal that?" -->
+<!--  "Because you---or rather, I---cannot be saddled with that and -->
+<!--  expect a chair at Edinburgh." "But the child---" "---will be well-loved by my -->
+<!--  parents, I can assure you. My father has arranged something in the parish register." A -->
+<!--  pause. "And how am I to view her?" His answer is the dwindling flame.-->
