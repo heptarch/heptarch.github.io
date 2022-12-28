@@ -411,7 +411,7 @@ r^{-1} s \approx 6 \times 10^{-11}
 10^{-10} T^4
 $$
 
-reliablly transmitted "entanglement" corpuscules per cubic metre.
+reliably transmitted "entanglement" corpuscules per cubic metre.
 If I pulse to Chancery
 Lane from each colloid chamber, a few times a day, one year and $T
 \approx 700^\circ \text{ C}$
