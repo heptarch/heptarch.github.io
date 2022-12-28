@@ -371,7 +371,7 @@ up the stairs to a humble bedroom lit only by the embers of a fire.
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. He continues: "So, well, I had a few billion
-years to lick my wounds and dream up plans for escape. Ha! In this
+years to lick my wounds and dream up plans for escape. Ha! In the
 Ashen House. But the Veem---those meddling bureaucrats---are as
 thorough as they are boring. Ha! You understand?" They have been
 talking for hours.
@@ -549,3 +549,4 @@ the horizon.-->
 <!--- -->
 <!--https://www.wolframalpha.com/input?i=6+%5Ctimes+10%5E%7B-14%7D+%5Cpi%5E%7B3%2F2%7D%5CGamma%5Cleft%28%5Cfrac%7B5%7D%7B2%7D%5Cright%29%5Czeta%285%29+%281000%29%5E4+*+365+*+10+*+8 --->
 <!-- https://arxiv.org/pdf/2102.11213.pdf-->
+<!-- https://www.emis.de/classics/Hamilton/OnQuat.pdf-->
