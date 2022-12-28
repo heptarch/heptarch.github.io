@@ -415,8 +415,8 @@ reliablly transmitted "entanglement" corpuscules per cubic metre.
 If I pulse to Chancery
 Lane from each colloid chamber, a few times a day, one year and $T
 \approx 700^\circ \text{ C}$
-should be sufficient to supply the dæmon's needs. (Consult Foster and Grant about
-raising temperature.) But what happens once entropy is delivered?
+should be sufficient to supply the dæmon's needs. (Consult Foster and
+Grant about temperature.) But what happens once entropy is delivered?
 <br>
 </font>
 </div>
@@ -462,8 +462,8 @@ details elude me. <br>
 various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>April 15.</i> Found  אשמדאי back in bedroom wearing particuarly outrageous
-peruke. Engages in long conversation about extradimensional
-scattering and scones. <br>
+peruke. Conversation about extradimensional
+scattering in mock legal terms. <br>
 
 <i>April 16.</i> Discusses "particles" of light, rotational moment term in
 gravitoelectromagnetic potential. <br>
