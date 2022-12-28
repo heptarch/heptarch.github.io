@@ -426,7 +426,8 @@ $$
 $$
 
 (Upgrade induction coils and frequency resolution bank. Add another
-year and £5K.)
+year and £5K.) But what happens once avatar is, as he puts it, born
+from the entanglement bridge?
 
 <br>
 </font>
