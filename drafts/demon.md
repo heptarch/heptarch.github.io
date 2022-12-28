@@ -371,8 +371,8 @@ up the stairs to a humble bedroom lit only by the embers of a fire.
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. He continues: "So, well, I had a few billion
-years to lick my wounds and dream up plans for escape. Ha! In this great grand
-stellar begoo. But the Veem---those meddling bureaucrats---are as
+years to lick my wounds and dream up plans for escape. Ha! In this
+Ashen House. But the Veem---those meddling bureaucrats---are as
 thorough as they are boring. Ha! You understand?" They have been
 talking for hours.
 There is a plate of crumbs beside them; Rumpelstiltskin clicks his
@@ -475,7 +475,7 @@ transmission. <br>
 
 <i>April 27.</i> Diatribe about the Veem and "dæmonic
 anti-monopolies". Has somehow obtained a gavel which he strikes upon
-various walls with great gusto. <br>
+various walls with gusto. <br>
 
 </font>
 </div>
