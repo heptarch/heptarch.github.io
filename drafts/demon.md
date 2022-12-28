@@ -453,9 +453,6 @@ space as they go. From far off, a star winks out of existence.
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>April 4.</i> אשמדאי discusses a method to remember the future, but
-details elude me. <br>
-
 <i>April 7.</i> Another disquisition on scones. <br>
 
 <i>April 9.</i> אשמדאי in some other part of the Ashen House—hear
@@ -468,10 +465,18 @@ scattering in mock legal terms. <br>
 <i>April 16.</i> Discusses "particles" of light, rotational moment term in
 gravitoelectromagnetic potential. <br>
 
-<i>April 17.</i> Light-matter interactions in
-colloid. Vivid mental imagery. <br>
+<i>April 17.</i> אשמדאי discusses a method to remember the future, but
+details elude me. <br>
 
-<i>May 29.</i> "Entanglement bridge" and methods to preserve/correct polarizations. <br>
+<i>April 23.</i> אשמדאי in kitchen rummaging through cupboard. Tells
+me how to "imprint" polarizations into colloid bath via ight-matter
+interactions, then methods to "correct" errors in polarization
+transmission. <br>
+
+<i>April 27.</i> Diatribe about the Veem and "dæmonic
+anti-monopolies". Has somehow obtained a gavel which he strikes upon
+various walls with great gusto. <br>
+
 </font>
 </div>
 
