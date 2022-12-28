@@ -415,7 +415,7 @@ reliably transmitted "entanglement" corpuscules per cubic metre.
 If I pulse to Chancery
 Lane from each colloid chamber, a few times a day, one year and $T
 \approx 700^\circ \text{ C}$
-should be sufficient. (Consult Foster and
+should be sufficient. (For LDPC: consult Foster and
 Grant about temperature.) Once he sends the corrections to be applied
 (using second encipherment scheme), need to tune and apply the
 rotation pulses. In the quaternionic formalism, the general pulse
@@ -426,7 +426,7 @@ $$
 $$
 
 with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
-(Upgrade induction coils and frequency resolution bank. Add another
+(For LDPC: upgrade induction coils and frequency resolution bank; add another
 year and £5K.)
 But what happens once avatar—as he puts it—crosses the entanglement bridge? <br>
 </font>
