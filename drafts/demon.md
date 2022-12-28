@@ -395,7 +395,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*April 1874.* Ellen's black notebook, <b>Ὄνειροι</b>:
+*April 1874.* Ellen's black notebook, <b>oνειροι</b>:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -448,7 +448,7 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*1874.* Ellen's blue notebook:
+*1874.* Ellen's blue notebook, <b>φύσις</b>:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
