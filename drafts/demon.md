@@ -422,14 +422,15 @@ rotation pulses. In the quaternionic formalism, the general pulse
 scheme can be written
 
 $$
-\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right].
+\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right],
 $$
 
+with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
 (Upgrade induction coils and frequency resolution bank. Add another
-year and £5K.) But what happens once avatar is, as he puts it, born
-from the entanglement bridge?
+year and £5K.) <br>
 
-<br>
+But what happens once avatar is—as he puts it—born
+from the entanglement bridge? <br>
 </font>
 </div>
 
