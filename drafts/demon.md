@@ -350,7 +350,7 @@ space as they go. From far off, a star winks out of existence.
   ⁂
   </p>
 
-*1874.* In a dream, Ellen returns to Trinity Quay. It is like
+*March 1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
@@ -395,33 +395,37 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1874.* Ellen's black notebook:
+*April 1874.* Ellen's black notebook:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
- <font size="-0.2">
+<font size="-0.2">
 
-<i>April 7.</i> Another disquisition on scones. <br>
+<p align="center">
+<b>Ὄνειροι</b>
+</p>
 
-<i>April 9.</i> אשמדאי in some other part of the Ashen House—hear
+<i>Apr. 7.</i> Another disquisition on scones. <br>
+
+<i>Apr. 9.</i> אשמדאי in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>April 15.</i> Found  אשמדאי back in bedroom wearing particuarly outrageous
+<i>Apr. 15.</i> Found  אשמדאי back in bedroom wearing particuarly outrageous
 peruke. Conversation about extradimensional
 scattering in mock legal terms. <br>
 
-<i>April 16.</i> Discusses "particles" of light, rotational moment term in
+<i>Apr. 16.</i> Discusses "particles" of light, rotational moment term in
 gravitoelectromagnetic potential. <br>
 
-<i>April 17.</i> אשמדאי shares a method to remember the future, but
+<i>Apr. 17.</i> אשמדאי shares a method to remember the future, but
 details elude me. <br>
 
-<i>April 23.</i> אשמדאי in kitchen rummaging through cupboard. Tells
+<i>Apr. 23.</i> אשמדאי in kitchen rummaging through cupboard. Tells
 me how to "imprint" polarizations into colloid bath via light-matter
 interactions, then methods to "correct" errors in polarization
 transmission. <br>
 
-<i>April 27.</i> Diatribe about the Veem and "dæmonic
+<i>Apr. 27.</i> Diatribe about the Veem and "dæmonic
 anti-monopolies". Has somehow obtained a gavel which he strikes upon
 various walls with gusto. <br>
 
@@ -434,9 +438,15 @@ Then, in the final entry:
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>April 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
+<i>Apr. 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
 </font>
 </div>
+
+<p align="center">
+  ⁂
+  </p>
+
+*
 
 <p align="center">
   ⁂
