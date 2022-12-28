@@ -425,8 +425,8 @@ $$
 \mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right].
 $$
 
-Upgrade induction coils and frequency resolution bank. Will perhaps
-take another year.
+(Upgrade induction coils and frequency resolution bank. Add another
+year and £5K.)
 
 <br>
 </font>
