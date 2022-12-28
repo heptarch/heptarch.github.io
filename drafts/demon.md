@@ -402,17 +402,19 @@ $$
 s \propto \epsilon T^{-1} \propto T^4
 $$
 
-in Thomson's absolute units. A rough estimate of the prefactor gives
+in Thomson's absolute units. A rough estimate of the prefactor, and
+the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's correction scheme, gives
 
 $$
-s \approx 6 \times 10^{-14}
+r^{-1} s \approx 6 \times 10^{-11}
 \pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
-10^{-13} T^4
+10^{-10} T^4
 $$
 
-"entanglement" corpuscules per cubic metre. If I pulse to Chancery
+"entanglement" corpuscules per cubic metre.
+If I pulse to Chancery
 Lane from each colloid chamber, a few times a day, one year and $T
-\approx 250^\circ \text{ C}$
+\approx 750^\circ \text{ C}$
 should be sufficient to supply the dæmon's needs. (Consult Foster and Grant about
 raising temperature.) But what happens once entropy is delivered?
 <br>
