@@ -395,15 +395,11 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*April 1874.* Ellen's black notebook:
+*April 1874.* Ellen's black notebook, <b>Ὄνειροι</b>:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
 <font size="-0.2">
-
-<p align="center">
-<b>Ὄνειροι</b>
-</p>
 
 <i>Apr. 7.</i> Another disquisition on scones. <br>
 
