@@ -465,7 +465,7 @@ scattering in mock legal terms. <br>
 <i>April 16.</i> Discusses "particles" of light, rotational moment term in
 gravitoelectromagnetic potential. <br>
 
-<i>April 17.</i> אשמדאי discusses a method to remember the future, but
+<i>April 17.</i> אשמדאי shares a method to remember the future, but
 details elude me. <br>
 
 <i>April 23.</i> אשמדאי in kitchen rummaging through cupboard. Tells
