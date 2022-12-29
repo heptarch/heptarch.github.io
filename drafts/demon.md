@@ -409,7 +409,7 @@ details elude me. <br>
 
 <i>Apr. 27.</i> אשמדאי has now obtained a gavel which he strikes upon
 various walls with gusto. With each strike, cries nonsense words such
-as "Breeglage!", "By flade and understump!", and so forth. Stops to construct a
+as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 "Brownian clock" from dust he has found beneath the wigs. <br>
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and begoo". Weakly converses about
