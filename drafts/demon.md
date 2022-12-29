@@ -400,12 +400,9 @@ solid black; line-height:1.3;">
 <i>Apr. 9.</i> אשמדאי in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>Apr. 15.</i> Found  אשמדאי back in bedroom wearing particuarly outrageous
-peruke. Conversation about extradimensional
-scattering in mock legal terms. <br>
-
-<i>Apr. 16.</i> Discusses "particles" of light, rotational moment term in
-gravitoelectromagnetic potential. <br>
+<i>Apr. 15.</i> Returns to bedroom wearing particuarly outrageous
+peruke. Explains extradimensional
+scattering in archaic legal terms. <br>
 
 <i>Apr. 17.</i> אשמדאי shares a method to remember the future, but
 details elude me. <br>
