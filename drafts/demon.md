@@ -401,20 +401,19 @@ solid black; line-height:1.3;">
 various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>Apr. 15.</i> Returns to bedroom with particuarly outrageous
-peruke. Explains extradimensional
+peruke and discourses on extradimensional
 scattering in archaic legal terms. <br>
 
-<i>Apr. 17.</i> אשמדאי shares a method to remember the future, but
+<i>Apr. 17.</i> Shares a method to remember the future, but
 details elude me. <br>
 
-<i>Apr. 23.</i> אשמדאי in kitchen rummaging through cupboard. Tells
-me how to "imprint" polarizations into colloid bath via light-matter
-interactions, then methods to "correct" errors in polarization
-transmission. <br>
+<i>Apr. 27.</i> אשמדאי has now obtained a gavel which he strikes upon
+various walls with gusto. With each strike, cries nonsense words such
+as "Breeglage!", "Tomporgis!", and so forth. Stops to construct a
+Brownian clock from dust he has found beneath the wigs. <br>
 
-<i>Apr. 27.</i> Diatribe about the Veem and "demonic
-anti-monopolies". Has somehow obtained a gavel which he strikes upon
-various walls with gusto. <br>
+<i>Apr. 23.</i> Lies in bed with "scone-rot and begoo". Weakly converses about
+methods to imprint outgoing polarizations into colloid bath. <br>
 
 </font>
 </div>
