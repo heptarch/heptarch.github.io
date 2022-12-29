@@ -408,7 +408,7 @@ scattering. <br>
 <i>Apr. 17.</i> Shares a method to remember the future, but
 details elude me. <br>
 
-<i>Apr. 18.</i> אשמדאי has now obtained a gavel which he strikes upon
+<i>Apr. 18.</i> Finds gavel, which he strikes upon
 various walls with gusto. With each strike, cries nonsense words such
 as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 "Brownian clock" from dust he has found beneath the wigs. <br>
