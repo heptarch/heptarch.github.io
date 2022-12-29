@@ -201,7 +201,7 @@ determinations are made, and the physical basis on which they rest. We
 will cover thermometry, calorimetry, and the basic dynamical
 principles governing the evolution of a thermodynamic system---like our
 friend the teapot."
-He stops to ensure he has been understood. "Let us start with the
+He smiles and looks around the room. "Let us start with the
 definition of temperature..."
 
 After the lecture and questions are finished, Foster is packing
