@@ -25,17 +25,48 @@ He showeth the place where Treasures lie, and guardeth it.
 <div style="text-align: right">Anonymous, <i>Lemegeton Clavicula Salomonis</i>
 </div> <br>
 
-*1876.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
+*1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
 taking a quick swig and eyeing the coffered vault of
 the Great Hall with mindless curiosity---all these details are
 infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
-impossible object before her.
+impossible shape before her.
 
-So this, Ellen thinks, is how you
-summon a dæmon.
+Induction coils hum, as a hundred electromagnets, scattered beneath
+London, gently wobble giant vats of halocarbon.
+So, Ellen thinks, is how you
+summon a demon.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1874.* The Post Office pays the London
+Pneumatic Despatch Company the extravagant sum of
+£200,000 to build an underground distribution system: mile-long tubes
+laid with narrow gauge rail, emptied by iron turbines taller than a
+house, and shooting post capsules like bullets by virtue of the
+inrushing air.
+Construction commences in 1863 with a successful test run between Euston Square and the North
+West District Post Office, a third of a mile hence.
+The tubes make it past Holborn, and as far as the General Post Office on St Martin's
+le Grand, a few years later and miles southwest, before arriving at
+their ultimate terminus: a bear market. Although the Post
+Office uses the tubes for a couple of years, they run at a loss, and the system is officially retired in 1874.
+
+But a company ambitious enough to propose a subterranean network of
+pneumatic tubes cannot reasonably be expected to stop there.
+Visitors to the diggings are confused by seemingly unnecessary
+tunnels, forks they are forbidden from taking, and huge, humming
+pieces of apparatus unconnected to the wheels of the despatch tubes.
+Engineers and builders are given only fragments of the blueprint.
+Questions about other sections are at first politely, then firmly,
+discouraged, and those who keep asking are let go.
+A young woman is rumored to wander about
+and attend to the machines.
+The network is abandoned, but a larger enterprise continues.
 
 <p align="center">
   ⁂
@@ -90,35 +121,6 @@ Professor Thomson?"
 "Ay. Will I see the stars again?"
 
 "Yes, child. Yes."
-
-<p align="center">
-  ⁂
-  </p>
-
-*1874.* The Post Office pays the London
-Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system: mile-long tubes
-laid with narrow gauge rail, emptied by iron turbines taller than a
-house, and shooting post capsules like bullets by virtue of the
-inrushing air.
-Construction commences in 1863 with a successful test run between Euston Square and the North
-West District Post Office, a third of a mile hence.
-The tubes make it past Holborn, and as far as the General Post Office on St Martin's
-le Grand, a few years later and miles southwest, before arriving at
-their ultimate terminus: a bear market. Although the Post
-Office uses the tubes for a couple of years, they run at a loss, and the system is officially retired in 1874.
-
-But a company ambitious enough to propose a subterranean network of
-pneumatic tubes cannot reasonably be expected to stop there.
-Visitors to the diggings are confused by seemingly unnecessary
-tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus unconnected to the wheels of the despatch tubes.
-Engineers and builders are given only fragments of the blueprint.
-Questions about other sections are at first politely, then firmly,
-discouraged, and those who keep asking are let go.
-A young woman is rumored to wander about
-and attend to the machines.
-The network is abandoned, but a larger enterprise continues.
 
 <p align="center">
   ⁂
@@ -419,7 +421,7 @@ me how to "imprint" polarizations into colloid bath via light-matter
 interactions, then methods to "correct" errors in polarization
 transmission. <br>
 
-<i>Apr. 27.</i> Diatribe about the Veem and "dæmonic
+<i>Apr. 27.</i> Diatribe about the Veem and "demonic
 anti-monopolies". Has somehow obtained a gavel which he strikes upon
 various walls with gusto. <br>
 
@@ -530,3 +532,7 @@ third, and a cantilevered armature covered in coils and ribbons of
 piping leans forward.
 The shape responds, folding and unfolding into new patterns.
 -->
+<!--A pulley lurches, then another, then a
+third, and a cantilevered armature covered in coils and ribbons of
+piping leans forward.-->
+<!-- https://michaelnielsen.org/papers/teleport.pdf -->
