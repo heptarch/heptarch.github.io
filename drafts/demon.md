@@ -412,7 +412,7 @@ various walls with gusto. With each strike, cries nonsense words such
 as "Breeglage!", "Tomporgis!", and so forth. Stops to construct a
 Brownian clock from dust he has found beneath the wigs. <br>
 
-<i>Apr. 23.</i> Lies in bed with "scone-rot and begoo". Weakly converses about
+<i>Apr. 23.</i> Lies in bed with a case of "scone-rot and begoo". Weakly converses about
 methods to imprint outgoing polarizations into colloid bath. <br>
 
 </font>
