@@ -110,7 +110,7 @@ They share scientific gossip: a lass, no more
  
 Auld "Davie" Thomson, an immense, stentorian don who must stoop to enter
  the classroom, introduces the young "Miss Watson" as an
- "exceedingly keen pupil of the modern developments". He folds himself into a
+ "exceedingly sharp pupil of the modern developments". He folds himself into a
  chair in the front row and tenderly motions her to begin.
  Miss Watson coughs nervously, and after receiving another paternal nod,
  addresses the room in a high, calm, clear voice:
