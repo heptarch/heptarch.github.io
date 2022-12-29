@@ -350,6 +350,52 @@ legal sophistry, could point to.
   ⁂
   </p>
 
+*1874.* Ellen's blue notebook, <b>φύσις</b>:
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+
+<i>May 5.</i> ... Based on the foregoing considerations, the light
+should have entropy density
+
+$$
+s \propto \epsilon T^{-1} \propto T^4
+$$
+
+in Thomson's absolute units. A rough estimate of the prefactor, and
+the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's polarization encipherment, gives
+
+$$
+r^{-1} s \approx 6 \times 10^{-11}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
+10^{-10} T^4
+$$
+
+reliably transmitted "entanglement" corpuscules per cubic metre.
+If I pulse to Chancery
+Lane from each colloid chamber, a few times a day, one year and $T
+\approx 700^\circ \text{ C}$
+should be sufficient. (For LDPC: consult Foster and
+Grant about temperature.) Once he sends the corrections to be applied
+(using second encipherment scheme), need to tune and apply the
+rotation pulses, with quaternionic form
+
+$$
+\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right],
+$$
+
+with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
+(For LDPC: upgrade induction coils and frequency resolution bank; add another
+year and £5K.)
+But what happens once the avatar—as he puts it—crosses the entanglement bridge? <br>
+</font>
+</div>
+
+<p align="center">
+  ⁂
+  </p>
+
 *March 1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -395,6 +441,18 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
+*4692007258 BC.* On a planet, somewhere near the centre of the galaxy,
+a clever life form summons a dæmon. Instantly, a shadow bloats
+outwards, cloaking the planet in darkness, then grows large enough to
+move on. The planet is now a dull, uniform grey; an entropic
+graveyard. Nothing moves.
+
+The shadow moves from system to system, a trail of dead stars in its wake.
+
+<p align="center">
+  ⁂
+  </p>
+
 *April 1874.* Ellen's black notebook, <b>oνειροι</b>:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
@@ -435,65 +493,6 @@ solid black; line-height:1.3;">
  <font size="-0.2">
 
 <i>Apr. 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
-</font>
-</div>
-
-<p align="center">
-  ⁂
-  </p>
-
-*4692007258 BC.* On a planet, somewhere near the centre of the galaxy,
-a clever life form summons a dæmon. Instantly, a shadow bloats
-outwards, cloaking the planet in darkness, then grows large enough to
-move on. The planet is now a dull, uniform grey; an entropic
-graveyard. Nothing moves.
-
-The shadow moves from system to system, a trail of dead stars in its wake.
-
-<p align="center">
-  ⁂
-  </p>
-
-*1874.* Ellen's blue notebook, <b>φύσις</b>:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
- <font size="-0.2">
-
-<i>May 5.</i> ... Based on the foregoing considerations, the light
-should have entropy density
-
-$$
-s \propto \epsilon T^{-1} \propto T^4
-$$
-
-in Thomson's absolute units. A rough estimate of the prefactor, and
-the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's polarization encipherment, gives
-
-$$
-r^{-1} s \approx 6 \times 10^{-11}
-\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
-10^{-10} T^4
-$$
-
-reliably transmitted "entanglement" corpuscules per cubic metre.
-If I pulse to Chancery
-Lane from each colloid chamber, a few times a day, one year and $T
-\approx 700^\circ \text{ C}$
-should be sufficient. (For LDPC: consult Foster and
-Grant about temperature.) Once he sends the corrections to be applied
-(using second encipherment scheme), need to tune and apply the
-rotation pulses. In the quaternionic formalism, the general pulse
-scheme can be written
-
-$$
-\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right],
-$$
-
-with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
-(For LDPC: upgrade induction coils and frequency resolution bank; add another
-year and £5K.)
-But what happens once the avatar—as he puts it—crosses the entanglement bridge? <br>
 </font>
 </div>
 
