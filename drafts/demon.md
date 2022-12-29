@@ -413,7 +413,8 @@ as "Breeglage!", "Tomporgis!", and so forth. Stops to construct a
 "Brownian clock" from dust he has found beneath the wigs. <br>
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and begoo". Weakly converses about
-methods to imprint outgoing polarizations into colloid bath. <br>
+methods to imprint outgoing polarizations into colloid
+bath. Cryptically, states that his "avatar" will "glide across the entanglement bridge". <br>
 
 </font>
 </div>
