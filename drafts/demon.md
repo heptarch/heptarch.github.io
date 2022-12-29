@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Demon in the Ashen House"
+title:  "The Creature of Ashen House"
 categories:
 date:  2022-11-12
 ---
