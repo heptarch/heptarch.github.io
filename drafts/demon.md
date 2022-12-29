@@ -398,10 +398,10 @@ solid black; line-height:1.3;">
 
 <i>Apr. 7.</i> Fourth disquisition on scones. <br>
 
-<i>Apr. 9.</i> אשמדאי in some other part of the Ashen House—hear
+<i>Apr. 14.</i> אשמדאי in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>Apr. 15.</i> Returns to bedroom with particuarly outrageous
+<i>Apr. 15.</i> Back in bedroom with particuarly outrageous
 peruke and lectures—in archaic legal terms—on extradimensional
 scattering and "tunnelling" with light. <br>
 
@@ -414,8 +414,10 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 "Brownian clock" from dust he has found beneath the wigs. <br>
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
-begoo". In weak (I suspect feigned) falsetto, describes how to imprint outgoing polarizations into colloid
-bath.
+begoo". In weak (suspect feigned) falsetto, describes how to imprint
+outgoing polarizations into colloid bath. Begins, with excitement, to
+discuss an "entanglement bridge" by which an "avatar can be teleported
+to safety". Largely unintelligible.
 </font>
 </div>
 
@@ -536,3 +538,4 @@ piping leans forward.-->
 <!-- , and apply "corrective pulses" according to instructions he will send
 later by "detectably modulating the barrier and hence scattering
 coefficients, dya'see"-->
+<!-- https://en.wikipedia.org/wiki/List_of_Unicode_characters-->
