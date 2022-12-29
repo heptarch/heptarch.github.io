@@ -389,13 +389,13 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1874.* Ellen's black notebook, <b>oνειροι</b>:
+*1874.* Ellen's black notebook:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
 <font size="-0.2">
 
-<i>Apr. 7.</i> Another disquisition on scones. <br>
+<i>Apr. 7.</i> Fourth disquisition on scones. <br>
 
 <i>Apr. 9.</i> אשמדאי in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
