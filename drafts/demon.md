@@ -413,7 +413,7 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 "Brownian clock" from dust he has found beneath the wigs. <br>
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
-begoo". Weakly describes how to imprint outgoing polarizations into colloid
+begoo". In falsetto, describes how to imprint outgoing polarizations into colloid
 bath, apply "corrective pulses" based on instructions he will send
 later by "detectably modulating the barrier and hence scattering
 coefficients".
