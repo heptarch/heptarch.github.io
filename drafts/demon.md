@@ -408,7 +408,7 @@ scattering—in archaic legal terms. <br>
 <i>Apr. 17.</i> Shares a method to remember the future, but
 details elude me. <br>
 
-<i>Apr. 27.</i> אשמדאי has now obtained a gavel which he strikes upon
+<i>Apr. 18.</i> אשמדאי has now obtained a gavel which he strikes upon
 various walls with gusto. With each strike, cries nonsense words such
 as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 "Brownian clock" from dust he has found beneath the wigs. <br>
@@ -417,7 +417,10 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 begoo". In weak (I suspect feigned) falsetto, describes how to imprint outgoing polarizations into colloid
 bath, apply "corrective pulses" according to instructions he will send
 later by "detectably modulating the barrier and hence scattering
-coefficients".
+coefficients". <br>
+
+<i>Apr. 28.</i> Aspect is changed; colder. Tells me it will take a
+year to build an "entanglement bridge" his avatar can cross.
 
 </font>
 </div>
