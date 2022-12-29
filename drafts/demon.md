@@ -236,7 +236,7 @@ some tea?"
   ⁂
   </p>
 
-*3,2000,000,000 BC.* Creatures the size of planetoids keen over the sky,
+*ƕ.* Creatures the size of planetoids keen over the sky,
 bristling with teeth and luminescent ruin.
 The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
 spider by flies.
@@ -414,7 +414,7 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and begoo". Weakly converses about
 methods to imprint outgoing polarizations into colloid
-bath. Cryptically, states that his "avatar" will "glide across the entanglement bridge". <br>
+bath. Becomes excited towards the end, states that 
 
 </font>
 </div>
@@ -433,7 +433,7 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*4,800,000,000 BC.* The shadow moves from system to system, a trail of dead stars in its wake.
+*ƾ.* The shadow moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
