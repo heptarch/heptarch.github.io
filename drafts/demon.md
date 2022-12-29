@@ -402,7 +402,7 @@ various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>Apr. 15.</i> Returns to bedroom with particuarly outrageous
 peruke and lectures on extradimensional
-scattering in archaic legal terms. <br>
+scattering—in archaic legal terms. <br>
 
 <i>Apr. 17.</i> Shares a method to remember the future, but
 details elude me. <br>
