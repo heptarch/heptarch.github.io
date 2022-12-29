@@ -322,6 +322,12 @@ legal sophistry, could point to.
   ⁂
   </p>
 
+*ƾ.* The shadow moves from system to system, a trail of dead stars in its wake.
+
+<p align="center">
+  ⁂
+  </p>
+
 *ƴ.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -408,12 +414,6 @@ solid black; line-height:1.3;">
 <i>Apr. 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
 </font>
 </div>
-
-<p align="center">
-  ⁂
-  </p>
-
-*ƾ.* The shadow moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
