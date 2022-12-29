@@ -52,7 +52,7 @@ West District Post Office, a third of a mile hence.
 The tubes make it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 their ultimate terminus: a bear market. Although the Post
-Office uses the tubes for a couple of years, they run at a loss, and the system is officially retired in 1874.
+Office uses the tubes for a couple of years, they run at a loss, and the system is officially retired.
 
 But a company ambitious enough to propose a subterranean network of
 pneumatic tubes cannot reasonably be expected to stop there.
