@@ -344,12 +344,6 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*4,800,000,000 BC.* The shadow moves from system to system, a trail of dead stars in its wake.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -437,6 +431,12 @@ solid black; line-height:1.3;">
 <i>Apr. 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
 </font>
 </div>
+
+<p align="center">
+  ⁂
+  </p>
+
+*4,800,000,000 BC.* The shadow moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
