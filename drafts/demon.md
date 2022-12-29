@@ -221,7 +221,7 @@ the theory of governors, the mechanical contrivance by which a uniform
 velocity of rotation is maintained, in a turbine for example? By a combination of magnetism and
 cooling, I think we might apply these notions to corpuscular machines, but I fear
 some of the finer points of experimental chemistry elude me. I remember you stating in your lectures on
-acoustics that you studied with Kekulé? I hope to produce a carburet
+acoustics that you studied with Kekulé? I hope to produce a specific carburet
 of chlorine." The notebook becomes suddenly clear, swimming before him
 in equations, engineering schematics, reaction pathways, scattered
 exclamations of EYPHKA!
