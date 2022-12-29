@@ -403,7 +403,7 @@ various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>Apr. 15.</i> Returns to bedroom with particuarly outrageous
 peruke and lectures—in archaic legal terms—on extradimensional
-scattering. <br>
+scattering and "tunnelling" with light. <br>
 
 <i>Apr. 17.</i> Shares a method to remember the future, but
 details elude me. <br>
@@ -415,9 +415,7 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". In weak (I suspect feigned) falsetto, describes how to imprint outgoing polarizations into colloid
-bath, and apply "corrective pulses" according to instructions he will send
-later by "detectably modulating the barrier and hence scattering
-coefficients, dya'see".
+bath.
 </font>
 </div>
 
@@ -535,3 +533,6 @@ The shape responds, folding and unfolding into new patterns.
 third, and a cantilevered armature covered in coils and ribbons of
 piping leans forward.-->
 <!-- https://michaelnielsen.org/papers/teleport.pdf -->
+<!-- , and apply "corrective pulses" according to instructions he will send
+later by "detectably modulating the barrier and hence scattering
+coefficients, dya'see"-->
