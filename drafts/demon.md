@@ -41,6 +41,23 @@ So, Ellen thinks, this is how you summon a demon.
   ⁂
   </p>
 
+*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
+changing shape of the waves. "Ciamar?"<label for="sn-4"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-4"
+       class="margin-toggle"/>
+<span class="sidenote">How?</span> she asks passersby. They do not
+know.
+An old man arrives from Marischal Street, ruddy and out of
+breath. "Child," he cries, then cracks into a smile: "What have you
+found now?"
+
+<p align="center">
+  ⁂
+  </p>
+
 *1874.* The Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system: mile-long tubes,
@@ -64,23 +81,6 @@ discouraged, and those who keep asking are let go.
 A young woman is rumored to wander about
 and attend to the machines.
 The network is abandoned, but a larger enterprise continues.
-
-<p align="center">
-  ⁂
-  </p>
-
-*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
-changing shape of the waves. "Ciamar?"<label for="sn-4"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-4"
-       class="margin-toggle"/>
-<span class="sidenote">How?</span> she asks passersby. They do not
-know.
-An old man arrives from Marischal Street, ruddy and out of
-breath. "Child," he cries, then cracks into a smile: "What have you
-found now?"
 
 <p align="center">
   ⁂
