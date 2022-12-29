@@ -415,7 +415,7 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". Weakly describes how to imprint outgoing polarizations into colloid
 bath, apply "corrective pulses" based on information he will send
-later by "modulating the barrier and hence scattering
+later by "detectably modulating the barrier and hence scattering
 coefficients".
 
 </font>
