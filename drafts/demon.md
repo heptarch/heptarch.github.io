@@ -34,16 +34,6 @@ infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible object before her.
 
-A shape glows and hums in the dark, symmetric as
-a jewel and bristling with spikes.
-Ellen pulls on a wire near her head. A pulley lurches, then another, then a
-third, and a cantilevered armature covered in coils and ribbons of
-piping leans forward.
-The shape responds, folding itself into new patterns. Spikes
-withdraw, merge, and suddenly detach to form a constellation of twelve
-teardrops guarding a central globe.
-The teardrops shrink into themselves and disappear.
-
 So this, Ellen thinks, is how you
 summon a dæmon.
 
@@ -52,7 +42,7 @@ summon a dæmon.
   </p>
 
 *1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
-changing shape of the waves as they bounce off the dock wall. "Ciamar?"<label for="sn-4"
+changing shape of the waves. "Ciamar?"<label for="sn-4"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -61,34 +51,8 @@ changing shape of the waves as they bounce off the dock wall. "Ciamar?"<label fo
 <span class="sidenote">How?</span> she asks passersby. They do not
 know.
 An old man arrives from Marischal Street, ruddy and out of
-breath. "Child," he cries, then cracks into a smile: "What have you found now?"
-<p align="center">
-  ⁂
-  </p>
-
-*1874.* The Post Office pays the London
-Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system: mile-long tubes, laid with narrow-gauge rail, emptied by
-20-foot wide iron turbines, and shooting post capsules like bullets
-with inrushing air.
-Construction commences in 1863 with a successful test run between Euston Square and the North
-West District Post Office, a third of a mile hence.
-The tubes make it past Holborn, and as far as the General Post Office on St Martin's
-le Grand, a few years later and miles southwest, before arriving at
-their ultimate terminus: a bear market. Although the Post
-Office uses it for a couple of years, it runs at a loss, and the system is officially retired in 1874.
-
-A company ambitious enough to propose a subterranean network of
-pneumatic tubes cannot reasonably be expected to stop there.
-Visitors to the diggings are confused by seemingly unnecessary
-tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus unconnected to the wheels of the despatch tubes.
-Engineers and builders are only given small parts of the blueprint.
-Questions about other sections are at first politely, then firmly,
-discouraged, and those who keep asking are let go.
-A young woman is rumored to wander about
-and attend to the machines.
-The network is abandoned, but a larger enterprise continues.
+breath. "Child," he cries, then cracks into a smile: "What have you
+found now?"
 
 <p align="center">
   ⁂
@@ -131,71 +95,30 @@ Professor Thomson?"
   ⁂
   </p>
 
-*1873.* Passengers waft like autumn leaves through the doubled cube of the Hall.
-A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
-chases little William, who shrieks with delight---in the
-shadows of the allegorical statuary, where nobody watches, a boy in
-shabby clothes curls up and sleeps.
-All this commotion, the comings and goings, arrivals and leavetakings,
-chaos and heartbreak and tobacco smoke, blur into a kind of
-stillness, modulated only by the rhythm of the timetable.
-Humans on average.
+*1874.* The Post Office pays the London
+Pneumatic Despatch Company the extravagant sum of
+£200,000 to build an underground distribution system: mile-long tubes
+laid with narrow gauge rail, emptied by iron turbines taller than a
+house, and shooting post capsules like bullets by virtue of the
+inrushing air.
+Construction commences in 1863 with a successful test run between Euston Square and the North
+West District Post Office, a third of a mile hence.
+The tubes make it past Holborn, and as far as the General Post Office on St Martin's
+le Grand, a few years later and miles southwest, before arriving at
+their ultimate terminus: a bear market. Although the Post
+Office uses the tubes for a couple of years, they run at a loss, and the system is officially retired in 1874.
 
-Ellen as usual does not enter the Great Hall.
-Instead, she has resolved a disagreement with Foster
-about the electromagnetic shadow of a sphere, and walks briskly from the student
-laboratory of University College to Eversholt Street.
-She ducks into a culvert, unlocks a small service door, and lights the
-moderator lamp kept on a hook by the entrance.
-The elevator, once summoned, clanks croakingly up like an oversized
-frog and gulps her into its wrought-iron mouth.
-As it begins the slow descent to the
-tunnels, the hum of coils and windings gets louder, and
-Ellen feels as if she is becoming her true self once more: a self
-which expands through the old network, which winds in arcs of jagged light
-through the despatch tubes, reflectors, and magnetized colloids.
-
-The frog disgorges her at a junction of six tunnels, a few meters
-across and choked with machinery. Ellen puts the lamp on a cluttered
-desk and begins checking the instruments, adjusting,
-configuring, jotting down readings, pulling on wires which
-radiate from the junction into the dark of other machine banks.
-She is about to start the vacuum cycle, but intuition---that
-melodious voice which, not hers, has yet always accompanied
-her---suggests to check the readings again.
-There is a small discrepancy from the Holborn interferometer.
-She does a quick calculation---guided by the voice---and finds the
-results are consistent with *reversing* one of the polarizations.
-
-She knows the arrangement of reflectors better than the
-veins in her hand. A stray reflection is impossible.
-She pauses for a moment.
-Parsimony suggests that it is not a stray reflection, but a mirror in
-a plane she cannot see.
-Ellen gathers her lamp, compass, and notepad, and tramps off into
-the tunnels to learn the precise bearings of the fourth dimension.
-
-<p align="center">
-  ⁂
-  </p>
-
-*3980221461 BC.* Creatures the size of planetoids keen over the sky,
-bristling with teeth and luminescent ruin.
-The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
-spider by flies.
-The spider savages one fly, then another, in huge flickering whips
-of light, ingesting them before they can heal.
-But there are so many flies; some are attached, leech-like, to its
-side, and from open wounds blobs of fluid and disembodied
-structure radiate into the void.
-It is bleeding to death.
-
-Twelve flies break off from the swarm, forming an icosahedral web
-thousands of miles wide.
-The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
-vertex strafes fluidly out of reach.
-Slowly, with ritual symmetry, they pull the web closed, folding up
-space as they go. From far off, a star winks out of existence.
+But a company ambitious enough to propose a subterranean network of
+pneumatic tubes cannot reasonably be expected to stop there.
+Visitors to the diggings are confused by seemingly unnecessary
+tunnels, forks they are forbidden from taking, and huge, humming
+pieces of apparatus unconnected to the wheels of the despatch tubes.
+Engineers and builders are given only fragments of the blueprint.
+Questions about other sections are at first politely, then firmly,
+discouraged, and those who keep asking are let go.
+A young woman is rumored to wander about
+and attend to the machines.
+The network is abandoned, but a larger enterprise continues.
 
 <p align="center">
   ⁂
@@ -307,6 +230,75 @@ Beethoven looks on with amusement. Foster stammers:
 Marleybone. "Perhaps you would like
 some tea?"
 
+<p align="center">
+  ⁂
+  </p>
+
+*3980221461 BC.* Creatures the size of planetoids keen over the sky,
+bristling with teeth and luminescent ruin.
+The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
+spider by flies.
+The spider savages one fly, then another, in huge flickering whips
+of light, ingesting them before they can heal.
+But there are so many flies; some are attached, leech-like, to its
+side, and from open wounds blobs of fluid and disembodied
+structure radiate into the void.
+It is bleeding to death.
+
+Twelve flies break off from the swarm, forming an icosahedral web
+thousands of miles wide.
+The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
+vertex strafes fluidly out of reach.
+Slowly, with ritual symmetry, they pull the web closed, folding up
+space as they go. From far off, a star winks out of existence.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1873.* Passengers waft like autumn leaves through the doubled cube of the Hall.
+A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
+chases little William, who shrieks with delight---in the
+shadows of the allegorical statuary, where nobody watches, a boy in
+shabby clothes curls up and sleeps.
+All this commotion, the comings and goings, arrivals and leavetakings,
+chaos and heartbreak and tobacco smoke, blur into a kind of
+stillness, modulated only by the rhythm of the timetable.
+Humans on average.
+
+Ellen as usual does not enter the Great Hall.
+Instead, she has resolved a disagreement with Foster
+about the electromagnetic shadow of a sphere, and walks briskly from the student
+laboratory of University College to Eversholt Street.
+She ducks into a culvert, unlocks a small service door, and lights the
+moderator lamp kept on a hook by the entrance.
+The elevator, once summoned, clanks croakingly up like an oversized
+frog and gulps her into its wrought-iron mouth.
+As it begins the slow descent to the
+tunnels, the hum of coils and windings gets louder, and
+Ellen feels as if she is becoming her true self once more: a self
+which expands through the old network, which winds in arcs of jagged light
+through the despatch tubes, reflectors, and magnetized colloids.
+
+The frog disgorges her at a junction of six tunnels, a few meters
+across and choked with machinery. Ellen puts the lamp on a cluttered
+desk and begins checking the instruments, adjusting,
+configuring, jotting down readings, pulling on wires which
+radiate from the junction into the dark of other machine banks.
+She is about to start the vacuum cycle, but intuition---that
+melodious voice which, not hers, has yet always accompanied
+her---suggests to check the readings again.
+There is a small discrepancy from the Holborn interferometer.
+She does a quick calculation---guided by the voice---and finds the
+results are consistent with *reversing* one of the polarizations.
+
+She knows the arrangement of reflectors better than the
+veins in her hand. A stray reflection is impossible.
+She pauses for a moment.
+Parsimony suggests that it is not a stray reflection, but a mirror in
+a plane she cannot see.
+Ellen gathers her lamp, compass, and notepad, and tramps off into
+the tunnels to learn the precise bearings of the fourth dimension.
 
 <p align="center">
   ⁂
@@ -350,53 +342,13 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1874.* Ellen's blue notebook, <b>φύσις</b>:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
- <font size="-0.2">
-
-<i>May 5.</i> ... Based on the foregoing considerations, the light
-should have entropy density
-
-$$
-s \propto \epsilon T^{-1} \propto T^4
-$$
-
-in Thomson's absolute units. A rough estimate of the prefactor, and
-the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's polarization encipherment, gives
-
-$$
-r^{-1} s \approx 6 \times 10^{-11}
-\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
-10^{-10} T^4
-$$
-
-reliably transmitted "entanglement" corpuscules per cubic metre.
-If I pulse to Chancery
-Lane from each colloid chamber, a few times a day, one year and $T
-\approx 700^\circ \text{ C}$
-should be sufficient. (For LDPC: consult Foster and
-Grant about temperature.) Once he sends the corrections to be applied
-(using second encipherment scheme), need to tune and apply the
-rotation pulses, with quaternionic form
-
-$$
-\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right],
-$$
-
-with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
-(For LDPC: upgrade induction coils and frequency resolution bank; add another
-year and £5K.)
-But what happens once the avatar—as he puts it—crosses the entanglement bridge? <br>
-</font>
-</div>
+*4,800,000,000 BC.* The shadow moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
   </p>
 
-*March 1874.* In a dream, Ellen returns to Trinity Quay. It is like
+*1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
@@ -441,19 +393,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*4692007258 BC.* On a planet, somewhere near the centre of the galaxy,
-a clever life form summons a dæmon. Instantly, a shadow bloats
-outwards, cloaking the planet in darkness, then grows large enough to
-move on. The planet is now a dull, uniform grey; an entropic
-graveyard. Nothing moves.
-
-The shadow moves from system to system, a trail of dead stars in its wake.
-
-<p align="center">
-  ⁂
-  </p>
-
-*April 1874.* Ellen's black notebook, <b>oνειροι</b>:
+*1874.* Ellen's black notebook, <b>oνειροι</b>:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -551,3 +491,42 @@ the horizon.-->
 <!--  expect a chair at Edinburgh." "But the child---" "---will be well-loved by my -->
 <!--  parents, I can assure you. My father has arranged something in the parish register." A -->
 <!--  pause. "And how am I to view her?" His answer is the dwindling flame.-->
+<!-- *1874.* Ellen's blue notebook, <b>φύσις</b>:
+<!-- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
+<i>May 5.</i> ... Based on the foregoing considerations, the light
+should have entropy density
+$$
+s \propto \epsilon T^{-1} \propto T^4
+$$
+in Thomson's absolute units. A rough estimate of the prefactor, and
+the inverse rate $r^{-1} \sim 10^3$ for אשמדאי's polarization encipherment, gives
+$$
+r^{-1} s \approx 6 \times 10^{-11}
+\pi^{3/2}\Gamma\left(\frac{5}{2}\right)\zeta(5)T^4 \sim 4 \times
+10^{-10} T^4
+$$
+reliably transmitted "entanglement" corpuscules per cubic metre.
+If I pulse to Chancery
+Lane from each colloid chamber, a few times a day, one year and $T
+\approx 700^\circ \text{ C}$
+should be sufficient. (For LDPC: consult Foster and
+Grant about temperature.) Once he sends the corrections to be applied
+(using second encipherment scheme), need to tune and apply the
+rotation pulses, with quaternionic form
+$$
+\mathbf{Q} = -\alpha \mathbf{k} - \beta \left[\mathbf{i}\cos(\omega t + \delta) - \mathbf{j}\cos(\omega t + \delta)\right],
+$$
+with $\alpha, \beta \sim 10^{-25}$ and $\omega$ to be determined.
+(For LDPC: upgrade induction coils and frequency resolution bank; add another
+year and £5K.)
+But what happens once the avatar—as he puts it—crosses the entanglement bridge? <br>
+</font>
+</div>-->
+<!--A shape glows and hums in the dark.
+Ellen pulls on a wire near her head. A pulley lurches, then another, then a
+third, and a cantilevered armature covered in coils and ribbons of
+piping leans forward.
+The shape responds, folding and unfolding into new patterns.
+-->
