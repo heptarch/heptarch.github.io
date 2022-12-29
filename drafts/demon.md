@@ -179,6 +179,28 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
+*3980221461 BC.* Creatures the size of planetoids keen over the sky,
+bristling with teeth and luminescent ruin.
+The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
+spider by flies.
+The spider savages one fly, then another, in huge flickering whips
+of light, ingesting them before they can heal.
+But there are so many flies; some are attached, leech-like, to its
+side, and from open wounds blobs of fluid and disembodied
+structure radiate into the void.
+It is bleeding to death.
+
+Twelve flies break off from the swarm, forming an icosahedral web
+thousands of miles wide.
+The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
+vertex strafes fluidly out of reach.
+Slowly, with ritual symmetry, they pull the web closed, folding up
+space as they go. From far off, a star winks out of existence.
+
+<p align="center">
+  ⁂
+  </p>
+
 *1865.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
  Chandos, heir of as many debts as titles, weary, honest, but not without his
@@ -328,28 +350,6 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*3980221461 BC.* Creatures the size of planetoids keen over the sky,
-bristling with teeth and luminescent ruin.
-The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
-spider by flies.
-The spider savages one fly, then another, in huge flickering whips
-of light, ingesting them before they can heal.
-But there are so many flies; some are attached, leech-like, to its
-side, and from open wounds blobs of fluid and disembodied
-structure radiate into the void.
-It is bleeding to death.
-
-Twelve flies break off from the swarm, forming an icosahedral web
-thousands of miles wide.
-The spider thrashes, lunges, tries to flee; the web quivers and the fly at each
-vertex strafes fluidly out of reach.
-Slowly, with ritual symmetry, they pull the web closed, folding up
-space as they go. From far off, a star winks out of existence.
-
-<p align="center">
-  ⁂
-  </p>
-
 *March 1874.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
@@ -445,7 +445,8 @@ solid black; line-height:1.3;">
 *4692007258 BC.* On a planet, somewhere near the centre of the galaxy,
 a clever life form summons a dæmon. Instantly, a shadow bloats
 outwards, cloaking the planet in darkness, then grows large enough to
-move on. The planet is now a dull, uniform grey; an entropic graveyard.
+move on. The planet is now a dull, uniform grey; an entropic
+graveyard. Nothing moves.
 
 The shadow moves from system to system, a trail of dead stars in its wake.
 
