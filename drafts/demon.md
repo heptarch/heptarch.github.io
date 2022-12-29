@@ -344,7 +344,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*1874.* In a dream, Ellen returns to Trinity Quay. It is like
+*ƴ.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
