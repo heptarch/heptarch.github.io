@@ -236,28 +236,6 @@ some tea?"
   ⁂
   </p>
 
-*ƕ.* Creatures the size of planetoids keen over the sky,
-bristling with teeth and luminescent ruin.
-The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
-spider by flies.
-The spider savages one fly, then another, in huge flickering whips
-of light, ingesting them before they can heal.
-But there are so many flies; some are attached, leech-like, to its
-side, and from open wounds blobs of fluid and disembodied
-structure radiate into the void.
-It is bleeding to death.
-
-Twelve flies break off from the swarm, forming an icosahedral web
-thousands of miles wide.
-The spider thrashes, lunges, tries to flee; the web quivers and each
-vertex strafes fluidly out of reach.
-Slowly, with ritual symmetry, the web pulls closed, folding up
-space as it goes. From far off, a star winks out of existence.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1873.* Passengers waft like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---in the
@@ -441,7 +419,7 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-
+*ɰ.* "Who are you?"
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
@@ -539,3 +517,20 @@ piping leans forward.-->
 later by "detectably modulating the barrier and hence scattering
 coefficients, dya'see"-->
 <!-- https://en.wikipedia.org/wiki/List_of_Unicode_characters-->
+<!--
+*ƕ.* Creatures the size of planetoids keen over the sky,
+bristling with teeth and luminescent ruin.
+The largest, swollen and multi-limbed, is pursued by a flock of smaller ones, like a
+spider by flies.
+The spider savages one fly, then another, in huge flickering whips
+of light, ingesting them before they can heal.
+But there are so many flies; some are attached, leech-like, to its
+side, and from open wounds blobs of fluid and disembodied
+structure radiate into the void.
+It is bleeding to death.
+Twelve flies break off from the swarm, forming an icosahedral web
+thousands of miles wide.
+The spider thrashes, lunges, tries to flee; the web quivers and each
+vertex strafes fluidly out of reach.
+Slowly, with ritual symmetry, the web pulls closed, folding up
+space as it goes. From far off, a star winks out of existence.-->
