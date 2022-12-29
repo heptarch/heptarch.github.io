@@ -33,8 +33,8 @@ the Great Hall with mindless curiosity---all these details are
 infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible shape before her.
-Induction coils hum, and a hundred electromagnets scattered across the
-breadth of London gently wobble giant vats of halocarbon.
+Induction coils hum, and a hundred electromagnets, scattered across
+London and strapped to giant vats of halocarbon, gently sing a shadow into being.
 
 So, Ellen thinks, this is how you summon a demon.
 
