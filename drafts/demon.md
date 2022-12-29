@@ -376,7 +376,7 @@ years to lick my wounds and dream up plans for escape. Ha! In the
 Ashen House. But the Veem---those meddling bureaucrats---are as
 thorough as they are boring. Ha! You understand?" They have been
 talking for hours.
-There is a plate of crumbs beside them; Rumpelstiltskin clicks his
+There is a plate of crumbs beside them; the little man clicks his
 fingers and the crumbs assemble into a scone.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
