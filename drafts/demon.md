@@ -194,7 +194,7 @@ Ludwig van glowers at him from the wall.
 disapproval of the portrait---"heat, ladies, is not merely those sensible properties
 of a teapot or a fireplace with which we are all familiar, and
 therefore strike us as too commonplace to explain. Heat
-lives in the realm of measurable phenomena; its very sensibility gives
+lives in the realm of measurable phenomena; its very sensibility is
 evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
 determinations are made, and the physical basis on which they rest. We
