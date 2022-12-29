@@ -412,9 +412,11 @@ various walls with gusto. With each strike, cries nonsense words such
 as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 "Brownian clock" from dust he has found beneath the wigs. <br>
 
-<i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and begoo". Weakly converses about
-methods to imprint outgoing polarizations into colloid
-bath. Becomes excited towards the end, states that 
+<i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
+begoo". Weakly describes how to imprint outgoing polarizations into colloid
+bath, apply "corrective pulses" based on information he will send
+later by "modulating the barrier and hence scattering
+coefficients".
 
 </font>
 </div>
