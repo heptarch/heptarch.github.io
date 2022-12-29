@@ -284,6 +284,12 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
+*ƾ.* The shadow moves from system to system, a trail of dead stars in its wake.
+
+<p align="center">
+  ⁂
+  </p>
+
 *1873.* An envelope, ironically delivered by coach, arrives on the
  chairman's desk; a welcome distraction from negotiations with the
  GPO. Inside:
@@ -317,12 +323,6 @@ Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
 It must be---as Ellen had hoped---an artefact, hovering near
 Chancery Lane in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
-
-<p align="center">
-  ⁂
-  </p>
-
-*ƾ.* The shadow moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
@@ -419,7 +419,8 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*ɰ.* "Who are you?"
+*ƕ.* Objects the size of planetoids keen over the sky,
+bristling with teeth and luminescent ruin.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
