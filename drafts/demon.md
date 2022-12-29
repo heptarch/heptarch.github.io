@@ -417,7 +417,7 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. Stops to construct a
 begoo". In weak (I suspect feigned) falsetto, describes how to imprint outgoing polarizations into colloid
 bath, apply "corrective pulses" according to instructions he will send
 later by "detectably modulating the barrier and hence scattering
-coefficients". <br>
+coefficients, dya'see". <br>
 
 <i>Apr. 28.</i> Aspect is changed; colder. Tells me it will take a
 year to build an "entanglement bridge" his avatar can cross.
