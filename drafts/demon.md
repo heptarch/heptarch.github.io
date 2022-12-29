@@ -380,7 +380,7 @@ fingers and the crumbs assemble into a scone.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
 replenishing, but I still have a few tricks. Begoo!"
-The logs in the fire crackle and unburn brightly. "I may have borrowed a
+The logs in the fire crackle and brightly unburn. "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
 Another lurch. Ellen wakes with three white hairs.
