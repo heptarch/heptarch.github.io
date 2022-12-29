@@ -400,8 +400,8 @@ solid black; line-height:1.3;">
 <i>Apr. 9.</i> אשמדאי in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>Apr. 15.</i> Returns to bedroom wearing particuarly outrageous
-peruke. Explains extradimensional
+<i>Apr. 15.</i> Returns to bedroom with particuarly outrageous
+peruke and explains extradimensional
 scattering in archaic legal terms. <br>
 
 <i>Apr. 17.</i> אשמדאי shares a method to remember the future, but
