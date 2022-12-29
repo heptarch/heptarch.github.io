@@ -402,8 +402,8 @@ solid black; line-height:1.3;">
 various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>Apr. 15.</i> Returns to bedroom with particuarly outrageous
-peruke and lectures on extradimensional
-scattering—in archaic legal terms. <br>
+peruke and lectures—in archaic legal terms—on extradimensional
+scattering. <br>
 
 <i>Apr. 17.</i> Shares a method to remember the future, but
 details elude me. <br>
