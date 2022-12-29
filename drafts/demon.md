@@ -43,8 +43,8 @@ So, Ellen thinks, this is how you summon a demon.
 
 *1874.* The Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system: mile-long tubes
-laid with narrow gauge rail, emptied by iron turbines taller than a
+£200,000 to build an underground distribution system: mile-long tubes,
+threaded with narrow gauge rail, emptied by iron turbines taller than a
 house, and shooting post capsules like bullets with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
