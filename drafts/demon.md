@@ -74,7 +74,8 @@ But a company ambitious enough to propose a subterranean network of
 pneumatic tubes cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus unconnected to the wheels of the despatch tubes.
+pieces of apparatus unconnected to the turbines and the hellish
+Cornish engines which drive them.
 Engineers and builders are given only fragments of the blueprint.
 Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
