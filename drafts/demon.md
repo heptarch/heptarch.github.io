@@ -41,23 +41,6 @@ So, Ellen thinks, this is how you summon a demon.
   ⁂
   </p>
 
-*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
-changing shape of the waves. "Ciamar?"<label for="sn-4"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-4"
-       class="margin-toggle"/>
-<span class="sidenote">How?</span> she asks passersby. They do not
-know.
-An old man arrives from Marischal Street, ruddy and out of
-breath. "Child," he cries, then cracks into a smile: "What have you
-found now?"
-
-<p align="center">
-  ⁂
-  </p>
-
 *1874.* The Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system: mile-long tubes,
@@ -87,38 +70,18 @@ The network is abandoned, but a larger enterprise continues.
   ⁂
   </p>
 
-*1861.* The study overlooks the gentle slopes of Kilspindie glen. The
- reverend leans on his chestnut bureau: a hymnary, some notes in Gaelic,
- a lump of amygdule sparkling with calcite. His eyes are kind.
- "Child, what should you like to do? The schoolmaster tells me he can
- teach you nothing."
-
-"Tilleadh."<label for="sn-2"
+*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
+changing shape of the waves. "Ciamar?"<label for="sn-4"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
-       id="sn-2"
+       id="sn-4"
        class="margin-toggle"/>
-<span class="sidenote">
-To return.
-</span>
-
-"I... I feared as much. Susan is too ill to travel to Aberdeen, but we
-want what is best for you, and what He clearly wills, with His living
-breath, by this beannachd ann an còmhdach.<label for="sn-3"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-3"
-       class="margin-toggle"/>
-<span class="sidenote">
-Blessing in disguise.
-</span> Do you remember
-Professor Thomson?"
-
-"Ay. Will I see the stars again?"
-
-"Yes, child. Yes."
+<span class="sidenote">How?</span> she asks passersby. They do not
+know.
+An old man arrives from Marischal Street, ruddy and out of
+breath. "Child," he cries, then cracks into a smile: "What have you
+found now?"
 
 <p align="center">
   ⁂
@@ -181,6 +144,43 @@ frame can barely contain it.
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
 backward scheme of his life---formulates the terms of an offer he will
 later describe as "inspired lunacy". Ellen accepts.
+
+<p align="center">
+  ⁂
+  </p>
+
+*1861.* The study overlooks the gentle slopes of Kilspindie glen. The
+ reverend leans on his chestnut bureau: a hymnary, some notes in Gaelic,
+ a lump of amygdule sparkling with calcite. His eyes are kind.
+ "Child, what should you like to do? The schoolmaster tells me he can
+ teach you nothing."
+
+"Tilleadh."<label for="sn-2"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-2"
+       class="margin-toggle"/>
+<span class="sidenote">
+To return.
+</span>
+
+"I... I feared as much. Susan is too ill to travel to Aberdeen, but we
+want what is best for you, and what He clearly wills, with His living
+breath, by this beannachd ann an còmhdach.<label for="sn-3"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-3"
+       class="margin-toggle"/>
+<span class="sidenote">
+Blessing in disguise.
+</span> Do you remember
+Professor Thomson?"
+
+"Ay. Will I see the stars again?"
+
+"Yes, child. Yes."
 
 <p align="center">
   ⁂
