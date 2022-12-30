@@ -462,7 +462,7 @@ will haunt the Duke for the rest of his life: "What *is* it?" Ellen: "I'm afraid
   ⁂
   </p>
 
-*Ȣ.* "Who are you?" The little man looks at her slyly. "According to
+Ȣ. "Who are you?" The little man looks at her slyly. "According to
  legend, the demon Ashmedai (אשמדאי) was trapped inside a box of rock,
  wrapped about with great chains of iron and cast into the sea."
 
@@ -470,7 +470,7 @@ will haunt the Duke for the rest of his life: "What *is* it?" Ellen: "I'm afraid
   ⁂
   </p>
 
-*Ʊ.* Objects the size of planetoids keen over the sky, bristling with
+Ʊ. Objects the size of planetoids keen over the sky, bristling with
 teeth and luminescent ruin.
 
 One molecule at a time, she is teleporting a demon out of the fourth dimension.
