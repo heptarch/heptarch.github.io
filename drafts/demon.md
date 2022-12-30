@@ -427,13 +427,14 @@ you the same question."
 
 *1875.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
- office, empty but for a chestnut bureau. Thorough the window, he can
- see Westminster, and Hawksmoor's twin giants towering over Dean's Yard. He has that air of
- distraction and regret that so often hovers around men of station;
- Luck never seemed to him well-personified by a Lady, but rather a
- profligate and wastrel Lord who giveth or taketh, depending on his
+ office, empty but for a chestnut bureau and a box of reports. Through the window, he can
+ see the twin giants ot Westminster towering over Dean's Yard. He has that air of
+ distraction and regret that so often hovers around men of station.
+ He has just learned from Disraeli that he will govern Madras.
+ Luck never seemed to him personified by a Lady, but rather a
+ profligate and wastrel Lord, who giveth or taketh, depending on his
  humour.
- He has just learned from Disraeli that he will be governor of Madras.
+ Well then.
 
 For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
@@ -565,4 +566,4 @@ The spider thrashes, lunges, tries to flee; the web quivers and each
 vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, the web pulls closed, folding up
 space as it goes. From far off, a star winks out of existence.-->
-<-- https://www.newspapers.com/clip/38642730/the-times/-->
+<!-- https://www.newspapers.com/clip/38642730/the-times/-->
