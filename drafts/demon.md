@@ -430,7 +430,8 @@ solid black; line-height:1.3;">
  And in whose service each of us must, from time to time, be implicated.
 
 Miss Watson enters; the Duke
-continues to gaze at Hawksmoor's giants. "I remember your talk at
+continues to gaze at Hawksmoor's giants. "Ah Ellen, come in. You know,
+I well remember your talk at
 Aberdeen. I understood nothing, except that, like Atlas, with a little
 leverage you could move the world." Ellen smiles. "No need for prevarication or
 sentiment, Chandos. There is no money. You must close the tubes." He turns and
