@@ -482,9 +482,9 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ʊ. Ellen dreams she is back at Aberdeen Quay, the waters stilled and
-the sky coruscant with unfamiliar stars. Rev. Dewar faces away
-from her, and towards the sea. "Child, what should you like to do?"
+Ʊ. Ellen dreams she is back at Aberdeen Quay; the waters are stilled, and
+the sky coruscant with unfamiliar stars. Rev. Dewar faces towards the
+sea. "Child, what should you like to do?"
 
 Tilleadh.
 
