@@ -452,10 +452,11 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  governor theory *quite* considerably to make sense of them."
  The Duke: "No, I mean, how do you receive instructions? From who? To what
  end?" Ellen wrinkles her nose. "I misspoke. I was using this scheme
- to learn the shape of the artefact. I meant 'instructions' figuratively."
+ to learn the shape of the artefact. I use 'instructions' figuratively."
+
 Madras, the GPO, the House of Lords, even Westminster, fade from the
-Duke's vision and resolve themselves into a single question: "What
-*is* it?" Ellen: "I'm afraid we will never know."
+Duke's vision, and resolve themselves into a single question that
+will haunt the Duke for the rest of his life: "What *is* it?" Ellen: "I'm afraid we will never know."
 
 <p align="center">
   ⁂
