@@ -399,7 +399,7 @@ discharge? Stops to construct a "Brownian clock" from dust he has found beneath 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". In weak falsetto, describes how to record
 outgoing polarizations into ethylene colloid, and how to communicate
-using barrier itself: "Why, I just wobble and squeeze the wall, like
+using barrier itself: "Why, I just wobble and squeeze the breakwater, like
 an accordion. Ha!"
 </font>
 </div>
@@ -422,12 +422,11 @@ solid black; line-height:1.3;">
  Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
  office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can
  see the twin giants of Westminster towering over Dean's Yard. He has that air of
- distraction and regret that so often hovers about men of station;
+ abstraction and regret that so often hovers about men of station;
  he has just learned from Disraeli that he will govern Madras.
  Luck never seemed to him personified by a Lady, but rather a
  profligate and wastrel Lord, who giveth or taketh depending on his
- humour.
- And in whose service each of us must, from time to time, be implicated.
+ humour, and in whose service each of us must, from time to time, be implicated.
 
 Miss Watson enters; the Duke
 continues to gaze at Hawksmoor's giants. "Ellen, come in. You know,
@@ -435,12 +434,11 @@ I remember your talk at
 Aberdeen. I understood nothing, except that, like Atlas, with a little
 leverage you could move the world." Ellen smiles. "No need for prevarication or
 sentiment, Chandos. There is no money. You must close the tubes." He turns and
-folds his hands in supplication. "I... I'm afraid
-so. Treasury, the GPO, have washed their hands of us. Shareholders
+folds his hands in supplication. "Treasury, the GPO, have washed their hands of us. Shareholders
 have been disbursed. And your usually reliable stream of patents has,
 it seems, dried up." His eyes are kind. "Luck is fickle. But
-perhaps—if only to satisfy my curiosity and distract me from
-politics—you might explain what has occupied you these last six months."
+perhaps—if only to satisfy my curiosity—you might explain what has
+occupied you these last six months. An interim report, if you will."
 
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  does not." The Duke looks puzzled. "As you did two years ago."
@@ -456,7 +454,8 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
 
 Westminster, the GPO, the House of Lords, even Madras, fade from the
 Duke's vision, and resolve themselves into a single question that
-will haunt him the rest of his life: "What *is* it?" Ellen: "We will never know."
+will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
+afraid we will never know."
 
 <p align="center">
   ⁂
