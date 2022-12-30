@@ -373,7 +373,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-*1874.* Ellen's black notebook:
+*1874.* Ellen's black notebook ("κέρας"):
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -404,7 +404,7 @@ an accordion. Ha!"
 </font>
 </div>
 
-In the final entry:
+The final entry:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
