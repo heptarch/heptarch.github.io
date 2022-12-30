@@ -461,8 +461,8 @@ afraid we will never know."
   ⁂
   </p>
 
-Ȣ. "אשמדאי ('Ashmedai') was trapped inside a chamber of rock,
- wrapped with chains of iron and cast into the sea. It's as good a
+Ȣ. "Ashmedai (אשמדאי) was trapped inside a chamber of rock,
+ bound with chains of iron and cast into the sea. It's as good a
  name as any, or I'm a begoo."
 
 "Are you אשמדאי?"
