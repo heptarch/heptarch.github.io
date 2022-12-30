@@ -467,7 +467,7 @@ afraid we will never know."
 
 "Are you Ashmedai?"
 
-He peeks out from behind it. "Ha! Are you Ellen Watson? Or a scone?"
+He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 <p align="center">
   ⁂
