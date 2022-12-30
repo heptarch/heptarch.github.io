@@ -418,13 +418,20 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
+*ƪ.* 
+
+<p align="center">
+  ⁂
+  </p>
+
 *1875.* For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
  ethylene, towards Chancery Lane. Some bounces back, some doesn't. The
  lost light is entangled with ethylene molecules. The light that
- returns contains messages from the demon about corrective radio
- frequency pulses to apply at specific locations in specific vats.
-
+ returns contains messages from the demon. From transmission
+ coefficients and phase shifts, she decodes a specific set of radio
+ frequency pulses to apply at specific locations in specific
+ vats.
 One molecule at a time, she is teleporting the demon out of Ede & Ravenscroft.
 
 <p align="center">
