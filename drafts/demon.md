@@ -461,7 +461,7 @@ Duke's vision and resolve themselves into a single question: "What
 
 *Ȣ.* "Who are you?" The little man looks at her slyly. "According to
  legend, the demon Ashmedai (אשמדאי) was trapped inside a box of rock,
- which was wrapped about with chains of iron and cast into the sea."
+ wrapped about with great chains of iron and cast into the sea."
 
 <p align="center">
   ⁂
