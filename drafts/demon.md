@@ -284,7 +284,7 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
-*ƾ.* The shadow moves from system to system, a trail of dead stars in its wake.
+*ƕ.* The shadow moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
@@ -401,7 +401,7 @@ discharge?) Stops to construct a "Brownian clock" from dust he has found beneath
 begoo". In weak (suspect feigned) falsetto, describes how to imprint
 outgoing polarizations into colloid bath. Begins, with excitement, to
 discuss an "entanglement bridge" by which an "avatar can be teleported
-to safety". Largely unintelligible.
+to safety".
 </font>
 </div>
 
@@ -419,8 +419,8 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*ƕ.* Objects the size of planetoids keen over the sky,
-bristling with teeth and luminescent ruin.
+*ƣ.* Objects the size of planetoids keen over the sky, bristling with
+ teeth and luminescent ruin.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
