@@ -461,13 +461,13 @@ afraid we will never know."
   ⁂
   </p>
 
-Ȣ. "Ashmedai was trapped inside a chamber of rock,
+Ȣ. The little man is hiding behind the armchair. "Ashmedai was trapped inside a chamber of rock,
  bound with chains of iron and cast into the sea. It's as good a
  name as any, or I'm a begoo."
 
 "Are you Ashmedai?"
 
-"Ha! Are you Ellen Watson? Or a scone?"
+He peeks out from behind it. "Ha! Are you Ellen Watson? Or a scone?"
 
 <p align="center">
   ⁂
