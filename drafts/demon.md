@@ -448,11 +448,11 @@ it seems, dried up." His eyes are kind. "I don't blame you;
 Luck is fickle. But perhaps—if only to satisfy my curiosity—you might
 explains what has occupied you these last six months."
 
-Ellen pauses. "Flashing light along Holborn. Some bounces back, some
+Ellen sighs. "Flashing light along Holborn. Some bounces back, some
  doesn't." The Duke looks puzzled. "Forgive me, but that is what you
- were doing two years ago, was it not?" Ellen continues: "Lost light
- is recorded into the ethylene. Reflected light contains
- instructions." The Duke: "How?" "From transmission
+ were doing two years ago, was it not?" Ellen continues: "Not
+ exactly. Lost light is recorded into the ethylene. Reflected light contains
+ instructions to correct recordings." The Duke: "How?" "From transmission
  coefficients and phase shifts. They translate into carefully
  calibrated magnetic pulses on specific vats. We've had to extend
  governor theory *quite* considerably."
