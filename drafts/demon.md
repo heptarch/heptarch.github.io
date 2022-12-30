@@ -437,7 +437,9 @@ you the same question."
  And in whose service each of us must, from time to time, be implicated.
 
 Miss Watson enters, brisk, punctual, direct as ever. The Duke
-continues looking towards Hawksmoor's giants. "I remember you at Aberdeen."
+continues looking towards Hawksmoor's giants. "I remember your talk at
+Aberdeen." Ellen smiles. "No need for prevarication or
+sentiment. There is no money. You must close the tubes."
 
 For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
