@@ -440,7 +440,9 @@ Miss Watson enters briskly, punctual as ever. The Duke
 continues to gaze at Hawksmoor's giants. "I remember your talk at
 Aberdeen. I understood nothing, but that you could change the world." Ellen smiles. "No need for prevarication or
 sentiment. There is no money. You must close the tubes." He
-turns. "I... I'm afraid so. The stone is dry."
+winces, turns, folds his hands in supplication. "I... I'm afraid
+so. Treasury, the GPO, have washed their hands of it. Shareholders
+have been disbursed. And your usually reliable stream of patents dried up this year."
 
 For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
