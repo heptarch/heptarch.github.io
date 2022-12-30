@@ -444,11 +444,11 @@ sentiment, Chandos. There is no money. You must close the tubes." He turns and
 folds his hands in supplication. "I... I'm afraid
 so. Treasury, the GPO, have washed their hands of us. Shareholders
 have been disbursed. And your usually reliable stream of patents has,
-it seems, dried up." A pause. His eyes are kind. "I don't blame you;
+it seems, dried up." His eyes are kind. "I don't blame you;
 Luck is fickle. But perhaps—if only to satisfy my curiosity—you might
 explains what has occupied you these last six months."
 
-For over a year, Ellen has been flashing light along the
+Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
  ethylene, towards Chancery Lane. Some bounces back, some doesn't. The
  lost light is entangled with ethylene molecules. The light that
