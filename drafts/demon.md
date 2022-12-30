@@ -453,8 +453,8 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  of the artefact. I meant 'instructions' figuratively."
 
 Madras, the GPO, the House of Lords, even Westminster, fade from the
-Duke's vision and resolve themselves into a single burning question:
-"What *is* it?" Ellen:
+Duke's vision and resolve themselves into a single question: "What
+*is* it?" Ellen: "I'm afraid we will never know."
 
 <p align="center">
   ⁂
