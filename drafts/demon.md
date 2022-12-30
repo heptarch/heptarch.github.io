@@ -475,9 +475,11 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ʊ. Objects the size of planetoids keen over the sky, bristling with
-teeth and luminescent ruin.
+Ʊ. Ellen dreams once more she is at the quay; Rev. Dewar holds her
+hand. Both look wonderingly at a sky coruscant with unfamiliar stars.
 
+
+<!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
 <!-- , or the apostles orbiting the son. , a betrayal beyond anything in the scriptures. -->
