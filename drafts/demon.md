@@ -327,7 +327,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*ƴ.* In a dream, Ellen returns to Trinity Quay. It is like
+*Ȣ.* In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
@@ -418,13 +418,6 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*ƴ.* "Who are you?" The little man looks at her slyly. "I might ask
-you the same question."
-
-<p align="center">
-  ⁂
-  </p>
-
 *1875.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
  office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can
@@ -445,26 +438,39 @@ folds his hands in supplication. "I... I'm afraid
 so. Treasury, the GPO, have washed their hands of us. Shareholders
 have been disbursed. And your usually reliable stream of patents has,
 it seems, dried up." His eyes are kind. "I don't blame you;
-Luck is fickle. But perhaps—if only to satisfy my curiosity—you might
+Luck is fickle. But perhaps—if only to satisfy my curiosity and distract me from politics—you might
 explain what has occupied you these last six months."
 
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  does not." The Duke looks puzzled. "You did that two years ago."
- Ellen continues: "Indeed. Now, howeer, lost light is recorded into the
- ethylene. Reflected light contains instructions to correct previous recordings." The Duke: "How?" "From transmission
+ Ellen continues: "Indeed. Now, however, lost light is recorded into the
+ ethylene. Reflected light contains instructions to correct the old 'recordings'." The Duke: "How?" "From transmission
  coefficients and phase shifts. They translate into carefully
  calibrated magnetic pulses on specific vats, though we've had to extend
  governor theory *quite* considerably to make sense of them."
- The Duke: "I mean, how do you receive instructions? From who?" 
+ The Duke: "I mean, how do you receive instructions? From who? To what
+ end?" Ellen wrinkles her nose. "I misspoke. I am learning the shape
+ of the artefact. I meant 'instructions' figuratively."
 
-One molecule at a time, she is teleporting a demon out of the fourth dimension.
+Madras, the GPO, the House of Lords, even Westminster, fade from the
+Duke's vision and resolve themselves into a single burning question:
+"What *is* it?" Ellen:
+
+<p align="center">
+  ⁂
+  </p>
+
+*Ȣ.* "Who are you?" The little man looks at her slyly. "I might ask
+you the same question."
 
 <p align="center">
   ⁂
   </p>
 
 *Ʊ.* Objects the size of planetoids keen over the sky, bristling with
- teeth and luminescent ruin.
+teeth and luminescent ruin.
+
+One molecule at a time, she is teleporting a demon out of the fourth dimension.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
