@@ -416,13 +416,15 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*1875.* For over a year, Ellen has been pulsing light through
- cylinderical drums of ethylene, along the despatch tubes, and towards
- Chancery Lane. Some bounces back, some doesn't; sometimes there is a
- phase shift. From these data, Ellen applies a specific radio
- frequency pulse to a specific batch of molecules, using an ingenious
- combinatorial scheme of her own design to prevent errors. One
- molecule at a time, she is teleporting the demon.
+*1875.* For over a year, Ellen has been pulsing light along the
+ despatch tubes, through filters, lenses, and cylinderical drums of
+ ethylene, towards Chancery Lane. Some bounces back, some doesn't;
+ sometimes there is a phase shift. From these data, Ellen cooks up a specific radio
+ frequency pulse to a specific batch of molecules, chosen by an ingenious
+ combinatorial scheme of her own design. The light that leaks through
+ has its state imprinted in the colloid, and is corrected on a future round.
+
+One molecule at a time, she is teleporting the demon out of Ede & Ravenscroft.
 
 <p align="center">
   ⁂
