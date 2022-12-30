@@ -448,15 +448,18 @@ it seems, dried up." His eyes are kind. "I don't blame you;
 Luck is fickle. But perhaps—if only to satisfy my curiosity—you might
 explains what has occupied you these last six months."
 
-Ellen has been flashing light along the
- despatch tubes, through filters, lenses, and cylinderical drums of
- ethylene, towards Chancery Lane. Some bounces back, some doesn't. The
- lost light is entangled with ethylene molecules. The light that
- returns contains messages from the demon. From transmission
- coefficients and phase shifts, she decodes a specific set of radio
- frequency pulses to apply at specific locations in specific
- vats.
-One molecule at a time, she is teleporting the demon out of Ede & Ravenscroft.
+Ellen pauses. "Flashing light along Holborn. Some bounces back, some
+ doesn't." The Duke looks puzzled. "Forgive me, but that is what you
+ were doing two years ago, was it not?" Ellen continues: "Lost light
+ is recorded into the ethylene. Reflected light contains
+ instructions." The Duke: "How?" "From transmission
+ coefficients and phase shifts. They translate into carefully
+ calibrated magnetic pulses on specific vats. We've had to extend
+ governor theory *quite* considerably."
+
+The Duke: "What do you mean 'instructions'? From who?"
+
+One molecule at a time, she is teleporting a demon out of the fourth dimension.
 
 <p align="center">
   ⁂
