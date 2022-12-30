@@ -427,7 +427,7 @@ you the same question."
 
 *1875.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
- office, empty but for a chestnut bureau and a box of reports. Through the window, he can
+ office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can
  see the twin giants of Westminster towering over Dean's Yard. He has that air of
  distraction and regret that so often hovers around men of station;
  he has just learned from Disraeli that he will govern Madras.
