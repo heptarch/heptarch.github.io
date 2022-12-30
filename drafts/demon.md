@@ -283,7 +283,7 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
-*ƕ.* The darkness moves from system to system, a trail of dead stars in its wake.
+*ƪ.* The darkness moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
@@ -418,13 +418,24 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*ƪ.* 
+*ƴ.* "Who are you?" The little man looks at her slyly. "I might ask
+you the same question."
 
 <p align="center">
   ⁂
   </p>
 
-*1875.* For over a year, Ellen has been flashing light along the
+*1875.* Richard Plantagenet Campbell
+ Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
+ office, empty but for a chestnut bureau. Thorough the window, he can
+ see Westminster, and Hawksmoor's twin giants towering over Dean's Yard. He has that air of
+ distraction and regret that so often hovers around men of station;
+ Luck never seemed to him well-personified by a Lady, but rather a
+ profligate and wastrel Lord who giveth or taketh, depending on his
+ humour.
+ He has just learned from Disraeli that he will be governor of Madras.
+
+For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
  ethylene, towards Chancery Lane. Some bounces back, some doesn't. The
  lost light is entangled with ethylene molecules. The light that
@@ -554,3 +565,4 @@ The spider thrashes, lunges, tries to flee; the web quivers and each
 vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, the web pulls closed, folding up
 space as it goes. From far off, a star winks out of existence.-->
+<-- https://www.newspapers.com/clip/38642730/the-times/-->
