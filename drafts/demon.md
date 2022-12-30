@@ -445,7 +445,8 @@ politics—you might explain what has occupied you these last six months."
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  does not." The Duke looks puzzled. "As you did two years ago."
  Ellen continues: "Indeed. Now, however, lost light is recorded into the
- ethylene. Reflected light contains instructions to correct the old 'recordings'." The Duke: "How?" "From transmission
+ ethylene. Reflected light contains instructions to 'correct' the lost
+ light from previous flashes." The Duke: "How?" "From transmission
  coefficients and phase shifts. They translate into carefully
  calibrated magnetic pulses on specific vats, though we've had to extend
  governor theory *quite* considerably to make sense of them."
