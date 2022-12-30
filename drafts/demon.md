@@ -438,13 +438,15 @@ you the same question."
 
 Miss Watson enters briskly, punctual as ever. The Duke
 continues to gaze at Hawksmoor's giants. "I remember your talk at
-Aberdeen. I understood nothing, but that you could change the world." Ellen smiles. "No need for prevarication or
-sentiment. There is no money. You must close the tubes." He turns and
+Aberdeen. I understood nothing, except that, with a little money and
+encourageent, you could change the world." Ellen smiles. "No need for prevarication or
+sentiment, Chandos. There is no money. You must close the tubes." He turns and
 folds his hands in supplication. "I... I'm afraid
 so. Treasury, the GPO, have washed their hands of us. Shareholders
-have been disbursed. And your usually reliable stream of patents has dried
-up. I know that Loewy left, but he was not an integral part of your
-operations, was he?" A pause. "I covered this in my report."
+have been disbursed. And your usually reliable stream of patents has,
+it seems, dried up." A pause. His eyes are kind. "I don't blame you;
+Luck is fickle. But perhaps—if only to satisfy my curiosity—you might
+explains what has occupied you these last six months."
 
 For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
