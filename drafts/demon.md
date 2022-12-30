@@ -438,7 +438,7 @@ you the same question."
 
 Miss Watson enters, brisk, punctual, direct as ever. The Duke
 continues looking towards Hawksmoor's giants. "I remember your talk at
-Aberdeen." Ellen smiles. "No need for prevarication or
+Aberdeen. I understood nothing, but that you could change the world." Ellen smiles. "No need for prevarication or
 sentiment. There is no money. You must close the tubes."
 
 For over a year, Ellen has been flashing light along the
