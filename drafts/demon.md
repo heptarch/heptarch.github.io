@@ -456,7 +456,7 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
 
 Westminster, the GPO, the House of Lords, even Madras, fade from the
 Duke's vision, and resolve themselves into a single question that
-will haunt him the rest of his life: "What *is* it?" Ellen: "I'm afraid we will never know."
+will haunt him the rest of his life: "What *is* it?" Ellen: "We will never know."
 
 <p align="center">
   ⁂
