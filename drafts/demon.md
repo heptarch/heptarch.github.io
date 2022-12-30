@@ -461,9 +461,13 @@ afraid we will never know."
   ⁂
   </p>
 
-Ȣ. "Who are you?" The little man looks at her slyly. "According to
- legend, the demon Ashmedai (אשמדאי) was trapped inside a box of rock,
- wrapped about with great chains of iron and cast into the sea."
+Ȣ. "אשמדאי ('Ashmedai') was trapped inside a chamber of rock,
+ wrapped with chains of iron and cast into the sea. It's as good a
+ name as any, or I'm a begoo."
+
+"Are you אשמדאי?"
+
+"Are you Ellen Watson?"
 
 <p align="center">
   ⁂
