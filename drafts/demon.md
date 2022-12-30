@@ -418,7 +418,7 @@ solid black; line-height:1.3;">
   ⁂
   </p>
 
-*ƣ.* Objects the size of planetoids keen over the sky, bristling with
+*ƪ.* Objects the size of planetoids keen over the sky, bristling with
  teeth and luminescent ruin.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
