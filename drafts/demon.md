@@ -454,9 +454,9 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  end?" Ellen wrinkles her nose. "I misspoke. I was using this scheme
  to learn the shape of the artefact. I use 'instructions' figuratively."
 
-Madras, the GPO, the House of Lords, even Westminster, fade from the
+Westminster, the GPO, the House of Lords, even Madras, fade from the
 Duke's vision, and resolve themselves into a single question that
-will haunt the Duke for the rest of his life: "What *is* it?" Ellen: "I'm afraid we will never know."
+will haunt him the rest of his life: "What *is* it?" Ellen: "I'm afraid we will never know."
 
 <p align="center">
   ⁂
