@@ -428,15 +428,16 @@ you the same question."
 *1875.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
  office, empty but for a chestnut bureau and a box of reports. Through the window, he can
- see the twin giants ot Westminster towering over Dean's Yard. He has that air of
- distraction and regret that so often hovers around men of station.
- He has just learned from Disraeli that he will govern Madras.
+ see the twin giants of Westminster towering over Dean's Yard. He has that air of
+ distraction and regret that so often hovers around men of station;
+ he has just learned from Disraeli that he will govern Madras.
  Luck never seemed to him personified by a Lady, but rather a
- profligate and wastrel Lord, who giveth or taketh, depending on his
+ profligate and wastrel Lord, who giveth or taketh depending on his
  humour.
- Well then.
+ And in whose service each of us must, from time to time, be implicated.
 
-Miss Watson enters briskly, punctual, direct, 
+Miss Watson enters, brisk, punctual, direct as ever. The Duke
+continues looking towards Hawksmoor's giants. "I remember you at Aberdeen."
 
 For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
