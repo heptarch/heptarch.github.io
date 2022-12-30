@@ -436,28 +436,26 @@ you the same question."
  humour.
  And in whose service each of us must, from time to time, be implicated.
 
-Miss Watson enters briskly, punctual as ever. The Duke
+Miss Watson enters; the Duke
 continues to gaze at Hawksmoor's giants. "I remember your talk at
-Aberdeen. I understood nothing, except that, with a little money and
-encourageent, you could change the world." Ellen smiles. "No need for prevarication or
+Aberdeen. I understood nothing, except that, like Atlas, with a little
+leverage you could move the world." Ellen smiles. "No need for prevarication or
 sentiment, Chandos. There is no money. You must close the tubes." He turns and
 folds his hands in supplication. "I... I'm afraid
 so. Treasury, the GPO, have washed their hands of us. Shareholders
 have been disbursed. And your usually reliable stream of patents has,
 it seems, dried up." His eyes are kind. "I don't blame you;
 Luck is fickle. But perhaps—if only to satisfy my curiosity—you might
-explains what has occupied you these last six months."
+explain what has occupied you these last six months."
 
-Ellen sighs. "Flashing light along Holborn. Some bounces back, some
- doesn't." The Duke looks puzzled. "Forgive me, but that is what you
- were doing two years ago, was it not?" Ellen continues: "Not
- exactly. Lost light is recorded into the ethylene. Reflected light contains
- instructions to correct recordings." The Duke: "How?" "From transmission
+Ellen pauses. "Flashing light along Holborn. Some bounces back, some
+ does not." The Duke looks puzzled. "You did that two years ago."
+ Ellen continues: "Indeed. Now, howeer, lost light is recorded into the
+ ethylene. Reflected light contains instructions to correct previous recordings." The Duke: "How?" "From transmission
  coefficients and phase shifts. They translate into carefully
- calibrated magnetic pulses on specific vats. We've had to extend
- governor theory *quite* considerably."
-
-The Duke: "What do you mean 'instructions'? From who?"
+ calibrated magnetic pulses on specific vats, though we've had to extend
+ governor theory *quite* considerably to make sense of them."
+ The Duke: "I mean, how do you receive instructions? From who?" 
 
 One molecule at a time, she is teleporting a demon out of the fourth dimension.
 
