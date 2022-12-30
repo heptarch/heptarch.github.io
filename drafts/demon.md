@@ -436,6 +436,8 @@ you the same question."
  humour.
  Well then.
 
+Miss Watson enters briskly, punctual, direct, 
+
 For over a year, Ellen has been flashing light along the
  despatch tubes, through filters, lenses, and cylinderical drums of
  ethylene, towards Chancery Lane. Some bounces back, some doesn't. The
