@@ -399,9 +399,8 @@ discharge?) Stops to construct a "Brownian clock" from dust he has found beneath
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". In weak (suspect feigned) falsetto, describes how to imprint
-outgoing polarizations into colloid bath. Begins, with excitement, to
-discuss an "entanglement bridge" by which an "avatar can be teleported
-to safety".
+outgoing polarizations into colloid bath. and later sequence of
+pulsed corrections.
 </font>
 </div>
 
