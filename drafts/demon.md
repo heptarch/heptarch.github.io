@@ -461,11 +461,11 @@ afraid we will never know."
   ⁂
   </p>
 
-Ȣ. "Ashmedai (אשמדאי) was trapped inside a chamber of rock,
+Ȣ. "Ashmedai was trapped inside a chamber of rock,
  bound with chains of iron and cast into the sea. It's as good a
  name as any, or I'm a begoo."
 
-"Are you אשמדאי?"
+"Are you Ashmedai?"
 
 "Ha! Are you Ellen Watson?"
 
