@@ -238,8 +238,7 @@ some tea?"
 
 *1873.* Passengers waft like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
-chases little William, who shrieks with delight---in the
-shadows of the allegorical statuary, where nobody watches, a boy in
+chases little William, who shrieks with delight---beneath the allegorical statuary, where nobody watches, a boy in
 shabby clothes curls up and sleeps.
 All this commotion, the comings and goings, arrivals and leavetakings,
 chaos and heartbreak and tobacco smoke, blur into a kind of
@@ -284,7 +283,7 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
-*ƕ.* The shadow moves from system to system, a trail of dead stars in its wake.
+*ƕ.* The darkness moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
@@ -380,7 +379,7 @@ Another lurch. Ellen wakes with three white hairs.
 solid black; line-height:1.3;">
 <font size="-0.2">
 
-<i>Apr. 7.</i> Fourth disquisition on scones. <br>
+<i>Apr. 7.</i> Further disquisitions on scones. <br>
 
 <i>Apr. 14.</i> אשמדאי in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
@@ -399,12 +398,11 @@ discharge?) Stops to construct a "Brownian clock" from dust he has found beneath
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". In weak (suspect feigned) falsetto, describes how to imprint
-outgoing polarizations into colloid bath, and later sequence of
-pulsed corrections.
+outgoing polarizations into colloid bath.
 </font>
 </div>
 
-Then, in the final entry:
+In the final entry:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -413,6 +411,18 @@ solid black; line-height:1.3;">
 <i>Apr. 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
 </font>
 </div>
+
+<p align="center">
+  ⁂
+  </p>
+
+*1875.* For over a year, Ellen has been pulsing light through
+ cylinderical drums of ethylene, along the despatch tubes, and towards
+ Chancery Lane. Some bounces back, some doesn't; sometimes there is a
+ phase shift. From these data, Ellen applies a specific radio
+ frequency pulse to a specific batch of molecules, using an ingenious
+ combinatorial scheme of her own design to prevent errors. One
+ molecule at a time, she is teleporting the demon.
 
 <p align="center">
   ⁂
