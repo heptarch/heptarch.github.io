@@ -397,8 +397,9 @@ as "Breeglage!", "Flade!", "Understump!", and so forth. (Entropy
 discharge?) Stops to construct a "Brownian clock" from dust he has found beneath the wigs. <br>
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
-begoo". In weak (suspect feigned) falsetto, describes how to imprint
-outgoing polarizations into colloid bath.
+begoo". In weak falsetto, describes how to record
+outgoing polarizations into ethylene colloid, and how to communicate
+using barrier itself. "Why, I just wobble the wall this way and that."
 </font>
 </div>
 
@@ -424,8 +425,8 @@ solid black; line-height:1.3;">
  demon. The messages take the form of specific frequency pulses, applied to a
  specific batch of molecules, chosen by an ingenious combinatorial
  scheme of her own design. The light that does
- not return has its state imprinted in the colloid, and is corrected
- on a future round of experiments.
+ not return has its state entangled with ethylene molecules, and is corrected
+ on a future round.
 
 One molecule at a time, she is teleporting the demon out of Ede & Ravenscroft.
 
