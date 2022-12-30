@@ -475,9 +475,18 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
+*1880.* 
+
+<p align="center">
+  ⁂
+  </p>
+
 Ʊ. Ellen dreams once more she is at the quay; Rev. Dewar holds her
 hand. Both look wonderingly at a sky coruscant with unfamiliar stars.
+There is a great thunderous crash, like the splitting of stone, from the direction of the Ashen
+House—
 
+Tilleadh.
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
