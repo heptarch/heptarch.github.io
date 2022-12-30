@@ -283,7 +283,7 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
-*ƪ.* The darkness moves from system to system, a trail of dead stars in its wake.
+*Ʊ.* The darkness moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
@@ -465,7 +465,7 @@ One molecule at a time, she is teleporting a demon out of the fourth dimension.
   ⁂
   </p>
 
-*ƪ.* Objects the size of planetoids keen over the sky, bristling with
+*Ʊ.* Objects the size of planetoids keen over the sky, bristling with
  teeth and luminescent ruin.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
