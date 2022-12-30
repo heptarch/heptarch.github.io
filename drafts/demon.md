@@ -464,10 +464,9 @@ teleporting a demon out of the fourth dimension.
   </p>
 
 Ȣ. The little man is hiding behind the armchair. "Ashmedai was trapped inside a chamber of rock,
- bound with chains of iron and cast into the sea. It's as good a
- name as any, or I'm a begoo."
+ bound with chains of iron and cast into the sea."
 
-"Are you Ashmedai?"
+"Art thou Ashmedai?"
 
 He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
@@ -475,16 +474,17 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1880.* 
+*1880.* Richard Plantagenet Campbell
+ Temple-Nugent-Brydges-Chandos-Grenville tires of updates from the
+ Vizagapatam Hill Tracts Agency
 
 <p align="center">
   ⁂
   </p>
 
-Ʊ. Ellen dreams once more she is at the quay; Rev. Dewar holds her
-hand. Both look wonderingly at a sky coruscant with unfamiliar stars.
-There is a great thunderous crash, like the splitting of stone, from the direction of the Ashen
-House—
+Ʊ. Ellen dreams she is back at Aberdeen Quay, the waters stilled and
+the sky coruscant with unfamiliar stars. Rev. Dewar faces away
+from her, and towards the sea. "Child, what should you like to do?"
 
 Tilleadh.
 
@@ -603,3 +603,4 @@ vertex strafes fluidly out of reach.
 Slowly, with ritual symmetry, the web pulls closed, folding up
 space as it goes. From far off, a star winks out of existence.-->
 <!-- https://www.newspapers.com/clip/38642730/the-times/-->
+<!-- https://en.wikisource.org/wiki/Translation:The_Story_of_King_Solomon_and_Ashmedai-->
