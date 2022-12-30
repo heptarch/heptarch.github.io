@@ -450,7 +450,7 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  coefficients and phase shifts. They translate into carefully
  calibrated magnetic pulses on specific vats, though we've had to extend
  governor theory *quite* considerably to make sense of them."
- The Duke: "I mean, how do you receive instructions? From who? To what
+ The Duke: "No, I mean, how do you receive instructions? From who? To what
  end?" Ellen wrinkles her nose. "I misspoke. I was using this scheme
  to learn the shape of the artefact. I meant 'instructions' figuratively."
 Madras, the GPO, the House of Lords, even Westminster, fade from the
