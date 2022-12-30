@@ -422,7 +422,8 @@ solid black; line-height:1.3;">
  sometimes there is a phase shift. These vary systematically, and from
  her dreams, Ellen understands these to encode messages from the
  demon. The messages take the form of specific frequency pulses, applied to a
- specific batch of molecules. On the other hand, the light that does
+ specific batch of molecules, chosen by an ingenious combinatorial
+ scheme of her own design. The light that does
  not return has its state imprinted in the colloid, and is corrected
  on a future round of experiments.
 
