@@ -456,8 +456,7 @@ Westminster, the GPO, the House of Lords, even Madras, fade from the
 Duke's vision, and resolve themselves into a single question that
 will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
 afraid we will never know."
-The Duke will go to India. Ellen will return to the Eversholt Street culvert
-and down to the tunnels, where, one molecule at a time, she is
+The Duke will go to India. Ellen will return to the tunnels, where, one molecule at a time, she is
 teleporting a demon out of the fourth dimension.
 
 <p align="center">
