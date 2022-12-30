@@ -283,7 +283,7 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
-*Ʊ.* The darkness moves from system to system, a trail of dead stars in its wake.
+Ʊ. The darkness moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
@@ -327,7 +327,7 @@ legal sophistry, could point to.
   ⁂
   </p>
 
-*Ȣ.* In a dream, Ellen returns to Trinity Quay. It is like
+Ȣ. In a dream, Ellen returns to Trinity Quay. It is like
  childhood, but bathed in a gentle greyness, as if the light cannot quite touch
  the objects it falls upon.
  A small rowboat is moored where the Kirkland ferry usually
