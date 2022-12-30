@@ -422,7 +422,7 @@ solid black; line-height:1.3;">
  Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
  office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can
  see the twin giants of Westminster towering over Dean's Yard. He has that air of
- distraction and regret that so often hovers around men of station;
+ distraction and regret that so often hovers about men of station;
  he has just learned from Disraeli that he will govern Madras.
  Luck never seemed to him personified by a Lady, but rather a
  profligate and wastrel Lord, who giveth or taketh depending on his
@@ -437,9 +437,9 @@ sentiment, Chandos. There is no money. You must close the tubes." He turns and
 folds his hands in supplication. "I... I'm afraid
 so. Treasury, the GPO, have washed their hands of us. Shareholders
 have been disbursed. And your usually reliable stream of patents has,
-it seems, dried up." His eyes are kind. "I don't blame you;
-Luck is fickle. But perhaps—if only to satisfy my curiosity and distract me from politics—you might
-explain what has occupied you these last six months."
+it seems, dried up." His eyes are kind. "Luck is fickle. But
+perhaps—if only to satisfy my curiosity and distract me from
+politics—you might explain what has occupied you these last six months."
 
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  does not." The Duke looks puzzled. "You did that two years ago."
