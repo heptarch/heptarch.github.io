@@ -467,7 +467,7 @@ afraid we will never know."
 
 "Are you אשמדאי?"
 
-"Are you Ellen Watson?"
+"Ha! Are you Ellen Watson?"
 
 <p align="center">
   ⁂
