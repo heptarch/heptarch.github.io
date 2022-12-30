@@ -457,6 +457,10 @@ Duke's vision, and resolve themselves into a single question that
 will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
 afraid we will never know."
 
+The Duke goes to Madras. Ellen returns to the Eversholt Street culvert
+and down to the tunnels, where, one molecule at a time, she is
+teleporting a demon out of the fourth dimension.
+
 <p align="center">
   ⁂
   </p>
@@ -475,8 +479,6 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 Ʊ. Objects the size of planetoids keen over the sky, bristling with
 teeth and luminescent ruin.
-
-One molecule at a time, she is teleporting a demon out of the fourth dimension.
 
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
 <!-- http://www.polytope.net/hedrondude/regulars.htm -->
