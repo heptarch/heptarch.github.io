@@ -150,8 +150,7 @@ later describe as "inspired lunacy". Ellen accepts.
   </p>
 
 ɰ. *Solomon's Temple was made of whole stone from the quarry, yet
-no hammer, axe, or instrument wrought from iron was to be heard while
-it was built.*
+no hammer, axe, or instrument wrought from iron was to be heard.*
 <!--darkness moves from system to system, a trail of dead stars in its wake.-->
 
 <p align="center">
