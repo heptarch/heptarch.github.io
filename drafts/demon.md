@@ -495,10 +495,9 @@ of pottery joined with gold.
 
 Ȣ. The waters are stilled. The Ashen House is an empty
 box of stone, its genius fled.
-The sky is coruscant with unfamiliar suns.
+The sky is coruscant—Ellen notes—with unfamiliar suns.
 
-<i>Child, what should you like to do?</i> Now she unforgets:
-planetoids keening over the sky, bristling with teeth and luminescent ruin
+<i>Child, what should you like to do?</i>
 
 Tilleadh. She will see the stars again.
 
