@@ -479,7 +479,7 @@ one molecule at a time, she teleports a demon from otherspace.
  and mounts the back of the armchair like a lectern. "According to
  Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—to his service
  in construction of the great temple, using a chain and anklet graven with the tetragrammaton.
- Once it was complete, Solomon removed the bindings to see a further
+ Once complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
  miles and replaced him as king! A right begoo." He removes his spectacles and collapses
  melodramatically behind the chair.
