@@ -452,7 +452,7 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  light from previous flashes." The Duke: "How?" "From transmission
  coefficients and phase shifts. They translate into precisely
  calibrated magnetic pulses, though we've had to extend
- governor theory considerably to make sense of them."
+ governor theory considerably to perform them."
  The Duke: "No, I mean, how do you receive instructions? From who? To what
  end?" Ellen wrinkles her nose. "I misspoke. I was using this scheme
  to learn the shape of the artefact. I use 'instructions' figuratively."
