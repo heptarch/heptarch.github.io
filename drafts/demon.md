@@ -450,18 +450,18 @@ Westminster, the GPO, the House of Lords, even Madras, fade from the
 Duke's vision, resolved into a single question that
 will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
 afraid we will never know."
-The Duke will go to India. Ellen will return to the tunnels, where, one molecule at a time, she is
-teleporting a demon from the fourth dimension.
+The Duke will go to India. Ellen will return to the tunnels, where,
+one molecule at a time, she will teleport a demon from the fourth dimension.
 
 <p align="center">
   ⁂
   </p>
 
 Ȣ. "My name?" The little man looks puzzled, then mounts the back of
- the armchair like a lectern and begins discoursing. "In Islamic tradition, Ashmedai was trapped in a chamber of rock,
- encircled by iron shackles and cast into the sea. Rabbinic lore holds
- similarly that he was bound with special chains on which Solomon had
- written the name of God."
+ the armchair like a lectern and dons a pair of spectacles. "In Islamic tradition, Ashmedai—Prince of
+ Demons—was trapped in a chamber of rock, encircled by iron
+ shackles and cast into the sea. Similarly, Rabbinic lore holds that
+ Solomon bound him with a chain graven with the ineffable Name of God."
 
 "Art thou Ashmedai?"
 
@@ -471,8 +471,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ȣ. The waters are stilled, and the Ashen House an empty
-chamber of stone.
+Ȣ. The waters are stilled; the Ashen House an empty
+box of stone.
 the sky coruscant with unfamiliar stars
 Its genius loci has deserted it.
 Rev. Dewar holds her hand.
