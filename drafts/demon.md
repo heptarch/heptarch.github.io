@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Creature of Ashen House"
+title:  "Solomon and Ashmedai"
 categories:
 date:  2022-11-12
 ---
@@ -487,8 +487,8 @@ complexity-theoretic analogue of the <a href="https://en.wikipedia.org/wiki/No-d
  then mounts the back of the armchair like a lectern. "In Islamic tradition, Ashmedai—Prince of
  Demons—was trapped in a chamber of rock, encircled by iron
  shackles and cast into the sea. Similarly, Rabbinic lore holds that
- Solomon bound Ashmedai with a chain, graven with the ineffable Name of
- God to remind him of his Master." He removes his spectacles and collapses melodramatically behind
+ Solomon made a chain graven with the ineffable Name of
+ God. tied Ashmedai up, and bound the demon to his service." He removes his spectacles and collapses melodramatically behind
  the chair.
 
 "Art thou Ashmedai?"
