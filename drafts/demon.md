@@ -506,7 +506,7 @@ ocean in its welcoming infinitude.
 
 <i>Child, what should you like to do?</i>
 
-Tilleadh. She will see the stars again.
+Tilleadh. I will see the stars again.
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
