@@ -513,14 +513,16 @@ mirror of ocean in its welcoming infinitude. Rev. Dewar appears beside her:
 
 <i>Child, what should you like to do?</i>
 
-She expands through the old network; the fractures revive from their
+She expands through the old network, revived from its
 traces, for nothing suitably complex can be truly destroyed.
 
 <i>Child, what should you like to do?</i>
 
-She remembers a galaxy.
+She remembers the galaxy.
 
-<i>Tilleadh. I will see the stars again.</i>
+*Tilleadh.*
+
+*I will see the stars again.*
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
