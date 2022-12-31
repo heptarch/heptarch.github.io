@@ -506,9 +506,9 @@ flew into the sky, making haste his escape.*
   ⁂
   </p>
 
-Ȣ. The waters of Trinity Quay are stilled—Ashen House a vacant
-box of stone, its spirit fled—the sky fluorescent with unfamiliar
-suns—the ocean a mirror of welcoming infinitude.
+Ȣ. The scene at Trinity Quay—the waters stilled—the island with its
+vacant box of stone—a sky dancing with unfamiliar suns—is reflected by the
+mirror of ocean in its welcoming infinitude. Rev. Dewar appears beside her:
 
 <i>Child, what should you like to do?</i>
 
