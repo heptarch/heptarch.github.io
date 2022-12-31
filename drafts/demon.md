@@ -486,8 +486,9 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 Ʊ. Ellen dreams she is back at Aberdeen Quay; the waters are stilled,
-the sky coruscant with unfamiliar stars, and the Ashen House, an empty
-chamber of stone bobbing on the waves. Its genius loci has deserted it.
+the sky coruscant with unfamiliar stars, and the Ashen House an empty
+chamber of stone in the distance. Its genius loci has deserted it.
+Rev. Dewar holds her hand.
 "Child, what should you like to do?"
 
 Tilleadh.
