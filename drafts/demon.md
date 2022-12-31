@@ -283,12 +283,6 @@ the tunnels to learn the precise bearings of the fourth dimension.
   ⁂
   </p>
 
-Ʊ. The darkness moves from system to system, a trail of dead stars in its wake.
-
-<p align="center">
-  ⁂
-  </p>
-
 *1873.* An envelope, ironically delivered by coach, arrives on the
  chairman's desk; a welcome distraction from negotiations with the
  GPO. Inside:
@@ -477,21 +471,36 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1880.* Richard Plantagenet Campbell
- Temple-Nugent-Brydges-Chandos-Grenville tires of updates from the
- Vizagapatam Hill Tracts Agency
+*1880.* The governor of Madras opens a letter:
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+<font size="-0.2">
+
+Miss. W. missing in J'burg. Worst presumed.
+
+<div style="text-align: right">Carey Foster</div> <br>
+
+</div>
 
 <p align="center">
   ⁂
   </p>
 
-Ʊ. Ellen dreams she is back at Aberdeen Quay; the waters are stilled,
-the sky coruscant with unfamiliar stars, and the Ashen House an empty
-chamber of stone in the distance. Its genius loci has deserted it.
+Ȣ. The waters are stilled, and the Ashen House an empty
+chamber of stone.
+the sky coruscant with unfamiliar stars
+Its genius loci has deserted it.
 Rev. Dewar holds her hand.
 "Child, what should you like to do?"
 
 Tilleadh.
+
+<p align="center">
+  ⁂
+  </p>
+
+Ʊ. The darkness moves from system to system, a trail of dead stars in its wake.
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
