@@ -510,9 +510,8 @@ W. missing in J'burg. Presume worst.
   ⁂
   </p>
 
-Ȣ. The waters are stilled. The Ashen House is an empty
-box of stone, its genius fled.
-The sky is coruscant—Ellen notes—with unfamiliar suns.
+Ȣ. The waters are stilled—the Ashen House an empty
+box of stone, its genius fled—the sky fluoresces with unfamiliar suns.
 
 <i>Child, what should you like to do?</i>
 
