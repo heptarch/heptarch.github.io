@@ -500,8 +500,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 ɰ. The waters of Trinity Quay are stilled—Ashen House an empty
 box of stone, its genius fled—the sky fluorescent with unfamiliar
-suns. Ellen looks up, and Rev. Dewar, holding her hand, out to the
-ocean in its welcoming infinitude.
+suns. Rev. Dewar, holding her hand, faces the ocean in its welcoming
+infinitude. Ellen looks up and remembers the galaxy.
 
 <i>Child, what should you like to do?</i>
 
