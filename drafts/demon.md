@@ -502,16 +502,13 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 ɰ. The waters of Trinity Quay are stilled—Ashen House an empty
-box of stone—its genius fled—the sky fluorescent with unfamiliar
+box of stone, its genius fled—the sky fluorescent with unfamiliar
 suns. Ellen faces the ocean in its welcoming
-infinitude, and the Reverend's voice sounds beside her:
+infinitude.
 
 <i>Child, what should you like to do?</i>
 
-Then she remembers: dark suns and spheres of bloodlight and the
-sundering darkness... She remembers a galaxy.
-
-<i>Tilleadh. I will see the stars again.</i>
+Tilleadh. I will see the stars again.
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
