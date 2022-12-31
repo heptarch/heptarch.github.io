@@ -486,8 +486,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ɰ. The lines begin to stitch themselves back together, like pottery
-fragments joined with gold
+ɰ. The network begins to stitch itself together, like fragments
+of pottery joined with gold.
 
 <p align="center">
   ⁂
