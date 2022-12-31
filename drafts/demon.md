@@ -477,8 +477,9 @@ one molecule at a time, she teleports a demon from otherspace.
 
 Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
  and mounts the back of the armchair like a lectern. "According to
- Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—to his service
- in construction of the great temple, using a chain and anklet graven with the tetragrammaton.
+ Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—to help him
+ construct the great temple, using a chain and anklet graven with the
+ tetragrammaton.
  Once complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
  miles and replaced him as king! A right begoo." He removes his spectacles and collapses
