@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Solomon and Ashmedai"
+title:  "The Marquess of Otherspace"
 categories:
 date:  2022-11-12
 ---
