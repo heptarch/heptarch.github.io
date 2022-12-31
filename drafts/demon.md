@@ -468,8 +468,16 @@ one molecule at a time, she teleports a demon from otherspace.
   ⁂
   </p>
 
-ɰ. The network begins to stitch itself together, like fragments
-of pottery joined with gold.
+ɰ. The network begins to stitch back together, like fragments
+of pottery joined with gold. It reconstructs itself from its traces;
+for something suitably complex, redundancy is indestructible.<label for="sn-5"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-5"
+       class="margin-toggle"/>
+<span class="sidenote">In particular, psuedorandom states obey a
+complexity-theoretic analogue of the <a href="https://en.wikipedia.org/wiki/No-deleting_theorem">No Deleting theorem</a>.</span>
 
 <p align="center">
   ⁂
