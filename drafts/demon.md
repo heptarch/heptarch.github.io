@@ -471,16 +471,11 @@ one molecule at a time, she teleports a demon from otherspace.
   ⁂
   </p>
 
-ɰ. The network begins to stitch itself back together like fragments
-of pottery joined with gold. For anything suitably complex cannot be
-destroyed and is revived from its traces.<label for="sn-5"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-5"
-       class="margin-toggle"/>
-<span class="sidenote">In particular, <a href="https://arxiv.org/abs/1711.00385">pseudorandom states</a> obey a
-complexity-theoretic analogue of the <a href="https://en.wikipedia.org/wiki/No-deleting_theorem">No Deleting theorem</a>.</span>
+ɰ. <i>At hearing this, they brought back Solomon who had been deposed,
+and they gave him the anklet whereon the ineffable Name of God had
+been engraved, and the chain whereon the ineffable Name of God had
+been engraved. When Ashmedai entered the palace, he saw him. He then
+flew off in the sky, making haste his escape.</i>
 
 <p align="center">
   ⁂
@@ -631,3 +626,13 @@ space as it goes. From far off, a star winks out of existence.-->
 <!-- https://en.wikisource.org/wiki/Translation:The_Story_of_King_Solomon_and_Ashmedai-->
 <!-- *1879.* The Governor of Madras cries as he reads Foster's untimely missive:
 W. missing in J'burg. Presume worst.-->
+<!--The network begins to stitch itself back together like fragments
+of pottery joined with gold. For anything suitably complex cannot be
+destroyed and is revived from its traces.<label for="sn-5"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-5"
+       class="margin-toggle"/>
+<span class="sidenote">In particular, <a href="https://arxiv.org/abs/1711.00385">pseudorandom states</a> obey a
+complexity-theoretic analogue of the <a href="https://en.wikipedia.org/wiki/No-deleting_theorem">No Deleting theorem</a>.</span>-->
