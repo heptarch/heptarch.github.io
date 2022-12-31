@@ -493,8 +493,8 @@ of pottery joined with gold, and eats the darkness.
   ⁂
   </p>
 
-Ȣ. The waters are stilled—the Ashen House an empty
-box of stone, its genius fled—the sky fluorescent with unfamiliar suns.
+Ȣ. The waters of Aberdeen Quay are stilled—the Ashen House an empty
+box of stone—its genius fled—and the sky fluorescent with unfamiliar suns.
 
 <i>Child, what should you like to do?</i>
 
