@@ -494,7 +494,7 @@ of pottery joined with gold.
   </p>
 
 Ȣ. The waters are stilled—the Ashen House an empty
-box of stone, its genius fled—the sky fluoresces with unfamiliar suns.
+box of stone, its genius fled—the sky fluorescent with unfamiliar suns.
 
 <i>Child, what should you like to do?</i>
 
