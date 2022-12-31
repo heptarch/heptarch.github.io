@@ -457,7 +457,7 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  calibrated magnetic pulses, though we've had to extend
  governor theory considerably to perform them."
  The Duke: "No, I mean, how do you receive instructions? From who? To what
- end?" Ellen wrinkles her nose. "I misspoke. I was using this scheme
+ end?" Ellen wrinkles her nose. "I was using this scheme
  to learn the shape of the artefact. I use 'instructions' figuratively."
 Westminster, the GPO, the House of Lords, even Madras, fade from the
 Duke's vision, resolved into a single question that
@@ -505,6 +505,10 @@ flew into the sky, making haste his escape.*
 box of stone, its genius fled—the sky fluorescent with unfamiliar
 suns. Ellen faces the ocean in its welcoming
 infinitude.
+
+<i>Child, what should you like to do?</i>
+
+
 
 <i>Child, what should you like to do?</i>
 
