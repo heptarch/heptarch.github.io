@@ -468,7 +468,7 @@ one molecule at a time, she teleports a demon from the fourth dimension.
  Demons—was trapped in a chamber of rock, encircled by iron
  shackles and cast into the sea. Similarly, Rabbinic lore holds that
  Solomon bound him with a chain, graven with the ineffable Name of
- God." He removes his spectacles and collapses melodramatically behind
+ God to remind him of his Master." He removes his spectacles and collapses melodramatically behind
  the chair.
 
 "Art thou Ashmedai?"
