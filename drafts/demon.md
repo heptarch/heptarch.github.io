@@ -397,7 +397,7 @@ discharge?) Stops to construct a "Brownian clock" from dust he has found beneath
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". In weak falsetto, describes how to record
-outgoing polarizations into ethylene colloid, and how to communicate
+outgoing polarizations into ethylene colloid, and communicate
 using barrier itself: "Why, I just wobble and squeeze the breakwater, like
 an accordion. Ha!"
 </font>
