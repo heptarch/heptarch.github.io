@@ -513,7 +513,7 @@ suns, and the ocean a mirror of welcoming infinitude.
 <i>Child, what should you like to do?</i>
 
 She expands through the old network; the fractures revive from their
-traces, for nothing suitably complex can be destroyed.
+traces, for nothing suitably complex can be truly destroyed.
 
 <i>Child, what should you like to do?</i>
 
