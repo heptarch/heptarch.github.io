@@ -517,7 +517,7 @@ traces, for nothing suitably complex can be destroyed.
 
 <i>Child, what should you like to do?</i>
 
-She remembers who she was.
+She remembers a galaxy.
 
 <i>Tilleadh. I will see the stars again.</i>
 
