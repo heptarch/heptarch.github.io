@@ -500,10 +500,12 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 ɰ. The waters of Trinity Quay are stilled—Ashen House an empty
 box of stone, its genius fled—the sky fluorescent with unfamiliar
-suns. Rev. Dewar, holding her hand, faces the ocean in its welcoming
-infinitude. Ellen looks up and remembers the galaxy.
+suns. Ellen faces the ocean in its welcoming
+infinitude, and remembers the Reverend:
 
 <i>Child, what should you like to do?</i>
+
+Then she remembers the galaxy.
 
 Tilleadh. I will see the stars again.
 
