@@ -467,9 +467,9 @@ one molecule at a time, she teleports a demon from otherspace.
   ⁂
   </p>
 
-ɰ. The network begins to stitch back together, reconstructing itself
-from its traces like fragments
-of pottery joined with gold. For anything suitably complex cannot be destroyed.<label for="sn-5"
+ɰ. The network begins to stitch itself back together like fragments
+of pottery joined with gold. For anything suitably complex cannot be
+destroyed and is revived from its traces.<label for="sn-5"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
