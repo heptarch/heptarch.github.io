@@ -244,7 +244,7 @@ some tea?"
 
 ɰ. The whorl fractures: along lines of luminescent ruin, teeth, and
 collapsing space, tearing the computational fabric
-of the network like wet paper. Bright nodes darken as they
+of the network like wet paper. Bright nodes falter
 
 <p align="center">
   ⁂
@@ -495,7 +495,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 ɰ.. The waters of Aberdeen Quay are stilled—the Ashen House an empty
 box of stone, its genius fled—the sky fluorescent with unfamiliar
-suns. Ellen looks up, and Rev. Dewar is beside her.
+suns. Ellen looks up, and Rev. Dewar, holding her hand, out to the
+infinite sea.
 
 <i>Child, what should you like to do?</i>
 
