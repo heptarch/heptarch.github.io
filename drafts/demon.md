@@ -468,7 +468,7 @@ one molecule at a time, she teleports a demon from otherspace.
   ⁂
   </p>
 
-ɰ. But the network begins to stitch itself together, like fragments
+ɰ. The network begins to stitch itself together, like fragments
 of pottery joined with gold.
 
 <p align="center">
