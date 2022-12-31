@@ -242,6 +242,12 @@ some tea?"
   ⁂
   </p>
 
+Ʊ. The darkness ramifies, explores, splits the light into fragments.
+
+<p align="center">
+  ⁂
+  </p>
+
 *1873.* Passengers waft like autumn leaves through the doubled cube of the Hall.
 A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
 chases little William, who shrieks with delight---beneath the allegorical statuary, where nobody watches, a boy in
@@ -478,24 +484,19 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ʊ. The darkness moves from system to system, a trail of dead stars in its wake.
+Ʊ. Objects the size of planetoids keen over the sky, bristling with
+teeth and luminescent ruin.
 
 <p align="center">
   ⁂
   </p>
 
-Ȣ. The waters are stilled, and the Ashen House is an empty
+Ȣ. The waters are stilled. The Ashen House is an empty
 box of stone, its genius fled.
 Ellen looks up a sky coruscant with unfamiliar stars.
 <i>Child, what should you like to do?</i> Rev. Dewar, eight years dead
 
 Tilleadh.
-
-<p align="center">
-  ⁂
-  </p>
-
-Ʊ. 
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
