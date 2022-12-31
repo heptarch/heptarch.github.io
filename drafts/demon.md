@@ -513,7 +513,14 @@ infinitude.
 
 <i>Child, what should you like to do?</i>
 
-Tilleadh. I will see the stars again.
+She expands through the old network; the fractures revive from their
+traces.
+
+<i>Child, what should you like to do?</i>
+
+She remembers who she was.
+
+<i>Tilleadh. I will see the stars again.</i>
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
