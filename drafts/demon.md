@@ -493,6 +493,12 @@ of pottery joined with gold.
   ⁂
   </p>
 
+*1879.* The Governor of Madras cries as he reads 
+
+<p align="center">
+  ⁂
+  </p>
+
 Ȣ. The waters are stilled. The Ashen House is an empty
 box of stone, its genius fled.
 The sky is coruscant—Ellen notes—with unfamiliar suns.
