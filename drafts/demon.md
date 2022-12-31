@@ -471,7 +471,7 @@ one molecule at a time, she teleports a demon from the fourth dimension.
   </p>
 
 ɰ. The network begins to stitch itself together, like fragments
-of pottery joined with gold, and eats the darkness.
+of pottery joined with gold.
 
 <p align="center">
   ⁂
