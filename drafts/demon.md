@@ -218,11 +218,11 @@ She explains as if it was as everyday as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
 besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, the mechanical contrivance by which a uniform
-velocity of rotation is maintained, in a turbine for example? By a combination of magnetism and
-cooling, I think we might apply these notions to corpuscular machines, but I fear
-some of the finer points of experimental chemistry elude me. I remember you stating in your lectures on
-acoustics that you studied with Kekulé? I hope to produce a specific carburet
-of chlorine." The notebook becomes suddenly clear, swimming before him
+velocity of rotation is maintained, in a turbine for example? By a combination of electromagnetism and
+cooling, I think we might apply these notions to corpuscular machines,
+but I fear the finer points of experimental chemistry elude me. I
+remember you stating in your lectures on
+acoustics that you studied with Kekulé?." The notebook becomes suddenly clear, swimming before him
 in equations, engineering schematics, reaction pathways, scattered
 exclamations of EYPHKA!
 The absurdity has somewhat changed character.
@@ -363,7 +363,7 @@ There is a plate of crumbs beside them; the little man clicks his
 fingers and the crumbs assemble into a scone.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
-replenishing, but I still have a few tricks. Begoo!"
+replenishing, but I still have a few tricks down my stockings. Begoo!"
 The logs in the fire crackle and brightly unburn. "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
@@ -445,15 +445,15 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  Ellen continues: "Indeed. Now, however, lost light is recorded into the
  ethylene. Reflected light contains instructions to 'correct' the lost
  light from previous flashes." The Duke: "How?" "From transmission
- coefficients and phase shifts. They translate into carefully
- calibrated magnetic pulses on specific vats, though we've had to extend
- governor theory *quite* considerably to make sense of them."
+ coefficients and phase shifts. They translate into precisely
+ calibrated magnetic pulses, though we've had to extend
+ governor theory considerably to make sense of them."
  The Duke: "No, I mean, how do you receive instructions? From who? To what
  end?" Ellen wrinkles her nose. "I misspoke. I was using this scheme
  to learn the shape of the artefact. I use 'instructions' figuratively."
 
 Westminster, the GPO, the House of Lords, even Madras, fade from the
-Duke's vision, and resolve themselves into a single question that
+Duke's vision, resolved into a single question that
 will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
 afraid we will never know."
 The Duke will go to India. Ellen will return to the tunnels, where, one molecule at a time, she is
