@@ -508,8 +508,7 @@ flew into the sky, making haste his escape.*
 
 Ȣ. The waters of Trinity Quay are stilled—Ashen House a vacant
 box of stone—the sky fluorescent with unfamiliar
-suns. Ellen faces the ocean in its welcoming
-infinitude.
+suns—the ocean a mirror of welcoming infinitude.
 
 <i>Child, what should you like to do?</i>
 
