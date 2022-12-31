@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Marquess of Otherspace"
+title:  "The King of Otherspace"
 categories:
 date:  2022-11-12
 ---
@@ -149,7 +149,7 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-ʕ. *Solomon's Temple was made of whole stone drafted from the quarry, yet
+ʕ. *Solomon's Temple was made of whole stone, drafted from the quarry, yet
 no hammer, axe, or instrument of iron was to be heard while it was built.*
 <!--darkness moves from system to system, a trail of dead stars in its wake.-->
 
