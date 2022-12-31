@@ -488,8 +488,10 @@ complexity-theoretic analogue of the <a href="https://en.wikipedia.org/wiki/No-d
  Demons—was trapped in a chamber of rock, encircled by iron
  shackles and cast into the sea. Similarly, Rabbinic lore holds that
  Solomon made a chain graven with the ineffable Name of
- God. tied Ashmedai up, and bound the demon to his service." He removes his spectacles and collapses melodramatically behind
- the chair.
+ God to bind the demon, but was tricked into removing it so that
+ Ashmedia could demonstrate his powers, and expelled—temporarily—from
+ his kingship." He removes his spectacles and collapses
+ melodramatically behind the chair.
 
 "Art thou Ashmedai?"
 
