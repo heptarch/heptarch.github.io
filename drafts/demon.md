@@ -457,7 +457,7 @@ will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
 afraid we will never know."
 
 The Duke will go to India. Ellen will return to the tunnels, where,
-one molecule at a time, she will teleport a demon from the fourth dimension.
+one molecule at a time, she teleports a demon from the fourth dimension.
 
 <p align="center">
   ⁂
