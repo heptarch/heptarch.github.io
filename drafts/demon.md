@@ -514,7 +514,7 @@ mirror of ocean in its welcoming infinitude.
 <i>Child, what should you like to do?</i>
 
 She expands through the old network, revived from its
-traces, for nothing suitably complex can be truly destroyed.
+traces, for nothing suitably complex can be destroyed.
 
 <i>Child, what should you like to do?</i>
 
