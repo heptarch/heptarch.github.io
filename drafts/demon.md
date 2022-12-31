@@ -500,13 +500,14 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 ɰ. The waters of Trinity Quay are stilled—Ashen House an empty
-box of stone, its genius fled—the sky fluorescent with unfamiliar
+box of stone—its genius fled—the sky fluorescent with unfamiliar
 suns. Ellen faces the ocean in its welcoming
-infinitude, and remembers the Reverend:
+infinitude, and the Reverend's voice sounds beside her:
 
 <i>Child, what should you like to do?</i>
 
-Then she remembers the galaxy.
+Then she remembers: dark suns and spheres of bloodlight and the
+sundering darkness... She remembers a galaxy.
 
 <i>Tilleadh. I will see the stars again.</i>
 
