@@ -509,7 +509,7 @@ flew into the sky, making haste his escape.*
 
 Ȣ. The scene at Trinity Quay—the waters stilled—the island with its
 vacant box of stone—a sky dancing with unfamiliar suns—is reflected by the
-mirror of ocean in its welcoming infinitude. Rev. Dewar appears beside her:
+mirror of ocean in its welcoming infinitude. Rev. Dewar's voice echoes:
 
 <i>Child, what should you like to do?</i>
 
