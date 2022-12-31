@@ -486,7 +486,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ɵ. The lines begin to stitch themselves back together, like kintsugi.
+Ɵ. The lines begin to stitch themselves back together, like pottery
+fragments joined with gold
 
 <p align="center">
   ⁂
