@@ -473,11 +473,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 Ȣ. The waters are stilled; the Ashen House an empty
-box of stone.
-
-the sky coruscant with unfamiliar stars
-Its genius loci has deserted it.
-Rev. Dewar holds her hand.
+box of stone, its genius locu, fled.
+Ellen looks up a sky coruscant with unfamiliar stars.
 "Child, what should you like to do?"
 
 Tilleadh.
