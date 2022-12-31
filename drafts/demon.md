@@ -57,7 +57,7 @@ But a company ambitious enough to propose a subterranean network of
 pneumatic tubes cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus unconnected to the turbines and the cacophanous
+pieces of apparatus unconnected to the turbines and the cacophonous
 engines which drive them.
 Engineers and builders are given only fragments of the blueprint.
 Questions about other sections are at first politely, then firmly,
