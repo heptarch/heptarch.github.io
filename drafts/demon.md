@@ -149,6 +149,12 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
+Ʊ. The darkness moves from system to system, a trail of dead stars in its wake.
+
+<p align="center">
+  ⁂
+  </p>
+
 *1861.* The study overlooks the gentle slopes of Kilspindie glen. The
  reverend leans on his chestnut bureau: a hymnary, some notes in Gaelic,
  a lump of amygdule sparkling with calcite. His eyes are kind.
@@ -462,7 +468,7 @@ one molecule at a time, she will teleport a demon from the fourth dimension.
  Demons—was trapped in a chamber of rock, encircled by iron
  shackles and cast into the sea. Similarly, Rabbinic lore holds that
  Solomon bound him with a chain, graven with the ineffable Name of
- God." He removes the spectacles and collapses melodramatically behind
+ God." He removes his spectacles and collapses melodramatically behind
  the chair.
 
 "Art thou Ashmedai?"
@@ -473,10 +479,16 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
+Ʊ. The darkness moves from system to system, a trail of dead stars in its wake.
+
+<p align="center">
+  ⁂
+  </p>
+
 Ȣ. The waters are stilled; the Ashen House an empty
-box of stone, its genius locu, fled.
+box of stone, its genius loci fled.
 Ellen looks up a sky coruscant with unfamiliar stars.
-"Child, what should you like to do?"
+<i>Child, what should you like to do?</i> Rev. Dewar, eight years dead
 
 Tilleadh.
 
@@ -484,7 +496,7 @@ Tilleadh.
   ⁂
   </p>
 
-Ʊ. The darkness moves from system to system, a trail of dead stars in its wake.
+Ʊ. 
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
