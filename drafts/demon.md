@@ -149,8 +149,8 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-ɰ. *Solomon's Temple was made of whole stone from the quarry, yet
-no hammer, axe, or instrument wrought from iron was to be heard.*
+ʕ. *Solomon's Temple was made of whole stone drafted from the quarry, yet
+no hammer, axe, or instrument of iron was to be heard while it was built.*
 <!--darkness moves from system to system, a trail of dead stars in its wake.-->
 
 <p align="center">
@@ -244,7 +244,7 @@ some tea?"
   ⁂
   </p>
 
-ɰ. <i>Remove the chain from me and give me your signet ring, whilst I show you mine advantage.</i>
+ʕ. *Remove the chain from me and give me your signet ring, whilst I show you mine advantage.*
 <!-- And fractures the bright whorl: lines of ruin, bloodlight, and
 otherspace, tearing the computational fabric of the network like wet paper.-->
 
@@ -471,24 +471,15 @@ one molecule at a time, she teleports a demon from otherspace.
   ⁂
   </p>
 
-ɰ. <i>At hearing this, they brought back Solomon who had been deposed,
-and they gave him the anklet whereon the ineffable Name of God had
-been engraved, and the chain whereon the ineffable Name of God had
-been engraved. When Ashmedai entered the palace, he saw him. He then
-flew off in the sky, making haste his escape.</i>
-
-<p align="center">
-  ⁂
-  </p>
-
 Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
- then mounts the back of the armchair like a lectern. "In Islamic tradition, Ashmedai—Prince of
+ then mounts the back of the armchair like a lectern. "According to
+ Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—using a chain
+ and anklet inscribed with the tetragrammaton, to assist in
+ construction of the great temple.
+ But Ashmedai tricked him into removing the chain, and replaced him—temporarily—from his kingship.
+ In Islamic tradition, Ashmedai—Prince of
  Demons—was trapped in a chamber of rock, encircled by iron
- shackles and cast into the sea. Similarly, Rabbinic lore holds that
- Solomon made a chain graven with the ineffable Name of
- God to bind the demon, but was tricked into removing it so that
- Ashmedia could demonstrate his powers, and expelled—temporarily—from
- his kingship." He removes his spectacles and collapses
+ shackles and cast into the sea." He removes his spectacles and collapses
  melodramatically behind the chair.
 
 "Art thou Ashmedai?"
@@ -499,7 +490,17 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ɰ. The waters of Trinity Quay are stilled—Ashen House an empty
+ʕ. *They brought back Solomon who had been deposed, and gave him
+the anklet whereon the ineffable Name of God had been engraved, and
+the chain whereon the ineffable Name of God had 
+been engraved. When Ashmedai entered the palace, he saw Solomon, and
+flew into the sky, making haste his escape.*
+
+<p align="center">
+  ⁂
+  </p>
+
+Ȣ. The waters of Trinity Quay are stilled—Ashen House an empty
 box of stone, its genius fled—the sky fluorescent with unfamiliar
 suns. Ellen faces the ocean in its welcoming
 infinitude.
