@@ -149,7 +149,7 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-ɰ. It moves from system to system, a trail of dead stars in its wake.
+ɰ. The darkness moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
