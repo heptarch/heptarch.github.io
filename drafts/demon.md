@@ -506,8 +506,8 @@ flew into the sky, making haste his escape.*
   ⁂
   </p>
 
-Ȣ. The waters of Trinity Quay are stilled—Ashen House an empty
-box of stone, its genius fled—the sky fluorescent with unfamiliar
+Ȣ. The waters of Trinity Quay are stilled—Ashen House a vacant
+box of stone—the sky fluorescent with unfamiliar
 suns. Ellen faces the ocean in its welcoming
 infinitude.
 
