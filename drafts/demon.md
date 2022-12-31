@@ -19,10 +19,10 @@ Whole avenues of universes...
 </div> <br>
 
 <span style="padding-left: 40px; display:block">
-He showeth the place where Treasures lie, and guardeth it.
+Thy Master's name is inscribed upon you!
 </span>
 
-<div style="text-align: right">Anonymous, <i>Lemegeton Clavicula Salomonis</i>
+<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
 </div> <br>
 
 *1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
@@ -463,8 +463,11 @@ teleporting a demon from the fourth dimension.
   ⁂
   </p>
 
-Ȣ. The little man discourses while hiding behind the armchair. "Ashmedai was trapped inside a chamber of rock,
- bound with chains of iron and cast into the sea."
+Ȣ. The little man discourses from behind the armchair. "In
+ Islamic lore, Ashmedai was trapped in a chamber of rock,
+ encircled by iron shackles and cast into the sea. The Talmudic
+ tradition similarly holds that he was bound with chains, inscribed
+ with the name of God."
 
 "Art thou Ashmedai?"
 
