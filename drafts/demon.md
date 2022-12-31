@@ -362,7 +362,7 @@ There is a plate of crumbs beside them; the little man clicks his
 fingers and the crumbs assemble into a scone.
 "I am much reduced. The confining potential keeps the
 surface area small---Bekenstein you know---and stops me from
-replenishing, but I still have a few tricks down my stockings. Begoo!"
+replenishing, but I still have a few tricks concealed about my person. Begoo!"
 The logs in the fire crackle and brightly unburn. "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
