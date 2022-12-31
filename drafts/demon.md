@@ -493,7 +493,19 @@ of pottery joined with gold.
   ⁂
   </p>
 
-*1879.* The Governor of Madras cries as he reads 
+*1879.* The Governor of Madras cries as he reads the missive from
+Foster:
+
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+<font size="-0.2">
+
+W. missing in J'burg. Presume worst.
+
+<div style="text-align: right">C.F.
+</div> <br>
+</font>
+</div>
 
 <p align="center">
   ⁂
