@@ -379,7 +379,7 @@ solid black; line-height:1.3;">
 various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>Apr. 15.</i> Back in bedroom with particuarly outrageous
-peruke and lectures—in archaic legal terms—on extradimensional
+peruke and expounds—in archaic legal terms—on extradimensional
 scattering and "tunnelling" with light. <br>
 
 <i>Apr. 17.</i> Shares a method to remember the future, but
@@ -435,7 +435,7 @@ perhaps—if only to satisfy my curiosity—you might explain what has
 occupied you these last six months. An interim report, if you will."
 
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
- does not." The Duke looks puzzled. "As you did two years ago."
+ does not." The Duke demurs. "As you did two years ago."
  Ellen continues: "Indeed. Now, however, lost light is recorded into the
  ethylene. Reflected light contains instructions to 'correct' the lost
  light from previous flashes." The Duke: "How?" "From transmission
@@ -457,8 +457,8 @@ teleporting a demon from the fourth dimension.
   ⁂
   </p>
 
-Ȣ. The little man discourses from behind the armchair while
- juggling. "According to Islamic tradition, Ashmedai was trapped in a chamber of rock,
+Ȣ. "My name?" The little man looks puzzled, then mounts the back of
+ the armchair like a lectern and begins discoursing. "In Islamic tradition, Ashmedai was trapped in a chamber of rock,
  encircled by iron shackles and cast into the sea. Rabbinic lore holds
  similarly that he was bound with special chains on which Solomon had
  written the name of God."
