@@ -352,7 +352,7 @@ pulled beneath its trefoiled architrave, past the juridical wigs and
 robes and orders of chivalry,
 up the stairs to a humble bedroom lit only by the embers of a dying fire.
 
-The little Rumpelstiltskin man sits in a green armchair, all tatters,
+The little Rumpelstiltskin-man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. He continues: "So, well, I had a few billion
 years to lick my wounds and dream up plans for escape. Ha! In the
