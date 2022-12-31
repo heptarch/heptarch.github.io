@@ -471,22 +471,6 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1880.* The governor of Madras opens a letter:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
-<font size="-0.2">
-
-Miss. W. missing in J'burg. Worst presumed.
-
-<div style="text-align: right">Carey Foster</div> <br>
-
-</div>
-
-<p align="center">
-  ⁂
-  </p>
-
 Ȣ. The waters are stilled, and the Ashen House an empty
 chamber of stone.
 the sky coruscant with unfamiliar stars
