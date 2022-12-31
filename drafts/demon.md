@@ -18,6 +18,13 @@ Whole avenues of universes...
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div> <br>
 
+<span style="padding-left: 40px; display:block">
+Thy Master's name is inscribed upon you!
+</span>
+
+<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
+</div> <br>
+
 *1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
 in their oiled leather beneath Euston Arch---and now the stationmaster,
@@ -618,8 +625,3 @@ space as it goes. From far off, a star winks out of existence.-->
 <!-- https://en.wikisource.org/wiki/Translation:The_Story_of_King_Solomon_and_Ashmedai-->
 <!-- *1879.* The Governor of Madras cries as he reads Foster's untimely missive:
 W. missing in J'burg. Presume worst.-->
-<!--<span style="padding-left: 40px; display:block">
-Thy Master's name is inscribed upon you!
-</span>
-<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
-</div> <br>-->
