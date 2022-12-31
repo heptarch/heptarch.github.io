@@ -41,11 +41,11 @@ So, Ellen thinks, this is how you summon a demon.
   ⁂
   </p>
 
-*1874.* The Post Office pays the London
+*1874.* The General Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system: mile-long tubes,
-threaded with narrow gauge rail, emptied by iron turbines taller than a
-house, and shooting post capsules like bullets with inrushing air.
+£200,000 to build an underground distribution system. The goal: a
+network of mile-long tunnels, threaded
+by narrow gauge rail, emptied by huge iron turbines, and shooting capsules like bullets with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
 The tubes make it past Holborn, and as far as the General Post Office on St Martin's
@@ -491,7 +491,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ɰ. The waters of Aberdeen Quay are stilled—the Ashen House an empty
+ɰ. The waters of Trinity Quay are stilled—Ashen House an empty
 box of stone, its genius fled—the sky fluorescent with unfamiliar
 suns. Ellen looks up, and Rev. Dewar, holding her hand, out to the
 ocean in its welcoming infinitude.
