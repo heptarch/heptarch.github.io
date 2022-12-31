@@ -472,11 +472,12 @@ one molecule at a time, she teleports a demon from otherspace.
   </p>
 
 Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
- then mounts the back of the armchair like a lectern. "According to
+ and mounts the back of the armchair like a lectern. "According to
  Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—to his service
  in construction of the great temple, using a chain and anklet graven with the tetragrammaton.
- Ashmedai tricked him into removing the bindings and exiled
- him—temporarily—from his kingship." He removes his spectacles and collapses
+ Once it was complete, Solomon removed the bindings to see a further
+ demonstration of the demon's powers. Ashmedai flung him a thousand
+ miles and replaced him as king!" He removes his spectacles and collapses
  melodramatically behind the chair.
 
 "Art thou Ashmedai? Or Solomon?"
