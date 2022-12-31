@@ -486,7 +486,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ɵ. 
+Ɵ. The lines begin to stitch themselves back together, like kintsugi.
 
 <p align="center">
   ⁂
