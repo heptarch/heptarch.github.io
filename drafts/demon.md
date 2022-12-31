@@ -494,7 +494,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 ɰ.. The waters of Aberdeen Quay are stilled—the Ashen House an empty
-box of stone—its genius fled—and the sky fluorescent with unfamiliar suns.
+box of stone, its genius fled—the sky fluorescent with unfamiliar
+suns. Ellen looks up, the Rev. Daniel Dewar beside her.
 
 <i>Child, what should you like to do?</i>
 
