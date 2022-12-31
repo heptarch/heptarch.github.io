@@ -463,11 +463,11 @@ teleporting a demon from the fourth dimension.
   ⁂
   </p>
 
-Ȣ. The little man discourses from behind the armchair. "In
- Islamic lore, Ashmedai was trapped in a chamber of rock,
- encircled by iron shackles and cast into the sea. The Talmudic
- tradition similarly holds that he was bound with chains, inscribed
- with the name of God."
+Ȣ. The little man discourses from behind the armchair while
+ juggling. "According to Islamic tradition, Ashmedai was trapped in a chamber of rock,
+ encircled by iron shackles and cast into the sea. Rabbinic lore holds
+ similarly that he was bound with special chains on which Solomon had
+ written the name of God."
 
 "Art thou Ashmedai?"
 
