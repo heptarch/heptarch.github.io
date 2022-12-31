@@ -507,7 +507,7 @@ flew into the sky, making haste his escape.*
   </p>
 
 Ȣ. The waters of Trinity Quay are stilled—Ashen House a vacant
-box of stone—the sky fluorescent with unfamiliar
+box of stone, its spirit fled—the sky fluorescent with unfamiliar
 suns, and the ocean a mirror of welcoming infinitude.
 
 <i>Child, what should you like to do?</i>
