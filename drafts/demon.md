@@ -473,18 +473,19 @@ one molecule at a time, she teleports a demon from otherspace.
 
 Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
  then mounts the back of the armchair like a lectern. "According to
- Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—using a chain
- and anklet inscribed with the tetragrammaton, to assist in
- construction of the great temple.
- But Ashmedai tricked him into removing the chain, and replaced him—temporarily—from his kingship.
- In Islamic tradition, Ashmedai—Prince of
- Demons—was trapped in a chamber of rock, encircled by iron
- shackles and cast into the sea." He removes his spectacles and collapses
+ Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—to his service
+ in construction of the great temple, using a chain and anklet graven with the tetragrammaton.
+ Ashmedai tricked him into removing the bindings and exiled
+ him—temporarily—from his kingship." He removes his spectacles and collapses
  melodramatically behind the chair.
 
-"Art thou Ashmedai?"
+"Art thou Ashmedai? Or Solomon?"
 
 He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
+
+<!-- In Islamic tradition, Ashmedai—Prince of
+ Demons—was trapped in a chamber of rock, encircled by iron
+ shackles and cast into the sea.-->
 
 <p align="center">
   ⁂
