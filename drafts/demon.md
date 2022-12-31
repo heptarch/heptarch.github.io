@@ -242,7 +242,7 @@ some tea?"
   ⁂
   </p>
 
-Ʊ. The darkness ramifies, explores, splits the light into fragments.
+Ʊ. The whorl fractures along lines of ruin: 
 
 <p align="center">
   ⁂
@@ -484,8 +484,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ʊ. Objects the size of planetoids keen over the sky, bristling with
-teeth and luminescent ruin.
+Ʊ. 
 
 <p align="center">
   ⁂
@@ -493,8 +492,10 @@ teeth and luminescent ruin.
 
 Ȣ. The waters are stilled. The Ashen House is an empty
 box of stone, its genius fled.
-Ellen looks up a sky coruscant with unfamiliar stars.
-<i>Child, what should you like to do?</i> Rev. Dewar, eight years dead
+The sky is coruscant with unfamiliar suns.
+
+<i>Child, what should you like to do?</i> Now she unforgets:
+planetoids keening over the sky, bristling with teeth and luminescent ruin
 
 Tilleadh. She will see the stars again.
 
