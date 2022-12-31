@@ -87,8 +87,8 @@ The network is abandoned, but a larger enterprise continues.
   ⁂
   </p>
 
-ʕ. *The network fractures the bright whorl: in
-engines of otherspace, bloodlight and dead stars.
+ʕ. *The network threads the galaxy in lines otherspace, bloodlight and
+dead stars, in encrypting repeaters and entanglement hubs.
 Yet no hammer, axe, or instrument of iron was to be heard while it was built.*
 <!--*Solomon's Temple was made of whole stone, drafted from the quarry, yet
 no hammer, axe, or instrument of iron was to be heard while it was built.*
@@ -247,7 +247,8 @@ some tea?"
   ⁂
   </p>
 
-ʕ. *Remove the chain from me and give me your signet ring, whilst I show you mine advantage.*
+ʕ. *Remove the chain from me and give me your signet ring, whilst I
+show you mine advantage; and fractures the bright whorl.*
 <!-- And fractures the bright whorl: lines of ruin, bloodlight, and
 otherspace, tearing the computational fabric of the network like wet paper.-->
 
