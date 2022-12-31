@@ -435,7 +435,8 @@ leverage you could move the world." Ellen smiles. "No need for prevarication or
 sentiment, Chandos. There is no money. You must close the tubes." He turns and
 folds his hands in supplication. "Treasury, the GPO, have washed their
 hands of us. Our creditors have been disbursed. And your usually reliable stream of patents has,
-it seems, dried up." His eyes are kind. "Luck is fickle. But
+it seems, dried up." His eyes are kind. "Inspiration is more fickle
+even than luck. But
 perhaps—if only to satisfy my curiosity—you might explain what has
 occupied you these last six months. An interim report, if you will."
 
