@@ -435,8 +435,7 @@ leverage you could move the world." Ellen smiles. "No need for prevarication or
 sentiment, Chandos. There is no money. You must close the tubes." He turns and
 folds his hands in supplication. "Treasury, the GPO, have washed their
 hands of us. Our creditors have been disbursed. And your usually reliable stream of patents has,
-it seems, dried up." His eyes are kind. "Inspiration is more fickle
-even than luck. But
+it seems, dried up." His eyes are kind. "Inspiration is fickler than luck. But
 perhaps—if only to satisfy my curiosity—you might explain what has
 occupied you these last six months. An interim report, if you will."
 
@@ -485,8 +484,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ȣ. The waters are stilled; the Ashen House an empty
-box of stone, its genius loci fled.
+Ȣ. The waters are stilled, and the Ashen House is an empty
+box of stone, its genius fled.
 Ellen looks up a sky coruscant with unfamiliar stars.
 <i>Child, what should you like to do?</i> Rev. Dewar, eight years dead
 
