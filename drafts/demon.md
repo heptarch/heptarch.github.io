@@ -485,9 +485,10 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ʊ. Ellen dreams she is back at Aberdeen Quay; the waters are stilled, and
-the sky coruscant with unfamiliar stars. Rev. Dewar faces towards the
-sea. "Child, what should you like to do?"
+Ʊ. Ellen dreams she is back at Aberdeen Quay; the waters are stilled,
+the sky coruscant with unfamiliar stars, and the Ashen House, an empty
+chamber of stone bobbing on the waves. Its genius loci has deserted it.
+"Child, what should you like to do?"
 
 Tilleadh.
 
