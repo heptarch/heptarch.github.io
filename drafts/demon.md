@@ -457,12 +457,13 @@ one molecule at a time, she will teleport a demon from the fourth dimension.
   ⁂
   </p>
 
-Ȣ. "My name?" The little man looks puzzled, then mounts the back of
- the armchair like a lectern and dons a pair of spectacles. "In Islamic tradition, Ashmedai—Prince of
+Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
+ then mounts the back of the armchair like a lectern. "In Islamic tradition, Ashmedai—Prince of
  Demons—was trapped in a chamber of rock, encircled by iron
  shackles and cast into the sea. Similarly, Rabbinic lore holds that
  Solomon bound him with a chain, graven with the ineffable Name of
- God." He removes the spectacles and sits behind the chair.
+ God." He removes the spectacles and collapses melodramatically behind
+ the chair.
 
 "Art thou Ashmedai?"
 
