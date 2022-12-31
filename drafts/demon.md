@@ -242,7 +242,7 @@ some tea?"
   ⁂
   </p>
 
-ɰ. And darkness spreads, and fractures the bright whorl: in lines of teeth, ruin, bloodlight, and
+ɰ. And fractures the bright whorl: in lines of ruin, bloodlight, and
 otherspace, tearing the computational fabric of the network like wet paper.
 
 <p align="center">
