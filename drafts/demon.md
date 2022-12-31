@@ -420,7 +420,7 @@ solid black; line-height:1.3;">
  he has just learned from Disraeli that he will govern Madras.
  Luck never seemed to him personified by a Lady, but rather a
  profligate and wastrel Lord, who giveth or taketh depending on his
- humour, and in whose service each of us must, from time to time, be embroiled.
+ humour, and in whose service each of us must, from time to time, be enmeshed.
 
 Miss Watson enters; the Duke
 continues to gaze at Hawksmoor's giants. "Ellen, come in. You know,
