@@ -481,7 +481,7 @@ one molecule at a time, she teleports a demon from otherspace.
  in construction of the great temple, using a chain and anklet graven with the tetragrammaton.
  Once it was complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
- miles and replaced him as king!" He removes his spectacles and collapses
+ miles and replaced him as king! A right begoo." He removes his spectacles and collapses
  melodramatically behind the chair.
 
 "Art thou Ashmedai? Or Solomon?"
