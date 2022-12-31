@@ -352,7 +352,8 @@ The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
 breakwater which reaches into the sky.
 On the island, a small rise is surmounted by the outlines of a Chancery
-Lane shopfront: Ede & Ravenscroft, tailors by royal appointment.
+Lane shopfront: Ede & Ravenscroft, tailors by royal appointment of His
+Majesty.
 The store blooms into color, and Ellen's view is
 pulled beneath its trefoiled architrave, past the juridical wigs and
 robes and orders of chivalry,
