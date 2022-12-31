@@ -496,7 +496,7 @@ box of stone, its genius fled.
 Ellen looks up a sky coruscant with unfamiliar stars.
 <i>Child, what should you like to do?</i> Rev. Dewar, eight years dead
 
-Tilleadh.
+Tilleadh. She will see the stars again.
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
