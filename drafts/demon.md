@@ -288,7 +288,7 @@ She knows the arrangement of reflectors better than the
 veins in her hand; a stray reflection is impossible.
 She pauses for a moment.
 Parsimony suggests that it is not a stray reflection, but a mirror in
-an "otherspace" she cannot see.
+some "otherspace" she cannot see.
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
 
