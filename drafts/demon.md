@@ -476,7 +476,7 @@ for something suitably complex, redundancy is indestructible.<label for="sn-5"
 <input type="checkbox"
        id="sn-5"
        class="margin-toggle"/>
-<span class="sidenote">In particular, psuedorandom states obey a
+<span class="sidenote">In particular, <a href="https://arxiv.org/abs/1711.00385">pseudorandom states</a> obey a
 complexity-theoretic analogue of the <a href="https://en.wikipedia.org/wiki/No-deleting_theorem">No Deleting theorem</a>.</span>
 
 <p align="center">
