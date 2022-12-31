@@ -242,9 +242,9 @@ some tea?"
   ⁂
   </p>
 
-ɰ. The whorl fractures along galactic lines of ruin: avenues of teeth,
-collapsed suns, and luminescent ruin, tearing the computational fabric
-of the network like wet paper.
+ɰ. The whorl fractures: along lines of luminescent ruin, teeth, and
+collapsing space, tearing the computational fabric
+of the network like wet paper. Bright nodes darken as they
 
 <p align="center">
   ⁂
