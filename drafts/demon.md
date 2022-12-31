@@ -128,7 +128,7 @@ but by the supposition of an additional spatial dimension (see Möbius,
 Riemann, Hamilton &c), furnishes a
 mechanism to combine gravity and electromagnetism.
 In addition, this predicts small phenomenological departures from the
-results of Maxwell and Faraday, which we might detect by suitably careful experiments...
+results of Maxwell and Faraday, which we might detect by careful experiments...
 </font>
 </div>
 The talk is gibberish to the Duke. The play of symbols, the
@@ -467,9 +467,9 @@ one molecule at a time, she teleports a demon from otherspace.
   ⁂
   </p>
 
-ɰ. The network begins to stitch back together, like fragments
-of pottery joined with gold. It reconstructs itself from its traces;
-for something suitably complex, redundancy is indestructible.<label for="sn-5"
+ɰ. The network begins to stitch back together, reconstructing itself
+from its traces like fragments
+of pottery joined with gold. For anything suitably complex cannot be destroyed.<label for="sn-5"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
