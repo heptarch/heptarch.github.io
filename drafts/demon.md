@@ -87,7 +87,7 @@ The network is abandoned, but a larger enterprise continues.
   ⁂
   </p>
 
-ʕ. *The network threads the galaxy in lines otherspace, bloodlight and
+ʕ. *The network threads the galaxy in lines of otherspace, bloodlight and
 dead stars, in encrypting repeaters and entanglement hubs.
 Yet no hammer, axe, or instrument of iron was to be heard while it was built.*
 <!--*Solomon's Temple was made of whole stone, drafted from the quarry, yet
