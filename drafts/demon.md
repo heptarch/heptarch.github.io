@@ -149,7 +149,10 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-ɰ. The darkness moves from system to system, a trail of dead stars in its wake.
+ɰ. *The Temple was made of whole stone, yet
+no hammer, axe, or instrument wrought from iron was to be heard while
+it was built.*
+<!--darkness moves from system to system, a trail of dead stars in its wake.-->
 
 <p align="center">
   ⁂
@@ -242,8 +245,9 @@ some tea?"
   ⁂
   </p>
 
-ɰ. And fractures the bright whorl: lines of ruin, bloodlight, and
-otherspace, tearing the computational fabric of the network like wet paper.
+ɰ. <i>Remove the chain from me and give me your signet ring, whilst I show you mine advantage.</i>
+<!-- And fractures the bright whorl: lines of ruin, bloodlight, and
+otherspace, tearing the computational fabric of the network like wet paper.-->
 
 <p align="center">
   ⁂
