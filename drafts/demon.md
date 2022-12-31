@@ -149,7 +149,7 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-Ɵ. The darkness moves from system to system, a trail of dead stars in its wake.
+ɰ. The darkness moves from system to system, a trail of dead stars in its wake.
 
 <p align="center">
   ⁂
@@ -242,7 +242,7 @@ some tea?"
   ⁂
   </p>
 
-Ɵ. The whorl fractures along lines of ruin: avenues of teeth,
+ɰ. The whorl fractures along galactic lines of ruin: avenues of teeth,
 collapsed suns, and luminescent ruin, ripping the computational fabric
 of the network like wet paper.
 
@@ -486,7 +486,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ɵ. The lines begin to stitch themselves back together, like pottery
+ɰ. The lines begin to stitch themselves back together, like pottery
 fragments joined with gold
 
 <p align="center">
