@@ -493,23 +493,6 @@ of pottery joined with gold.
   ⁂
   </p>
 
-*1879.* The Governor of Madras cries as he reads Foster's untimely missive:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
-<font size="-0.2">
-
-W. missing in J'burg. Presume worst.
-
-<div style="text-align: right">C.F.
-</div> <br>
-</font>
-</div>
-
-<p align="center">
-  ⁂
-  </p>
-
 Ȣ. The waters are stilled—the Ashen House an empty
 box of stone, its genius fled—the sky fluoresces with unfamiliar suns.
 
@@ -633,3 +616,5 @@ Slowly, with ritual symmetry, the web pulls closed, folding up
 space as it goes. From far off, a star winks out of existence.-->
 <!-- https://www.newspapers.com/clip/38642730/the-times/-->
 <!-- https://en.wikisource.org/wiki/Translation:The_Story_of_King_Solomon_and_Ashmedai-->
+<!-- *1879.* The Governor of Madras cries as he reads Foster's untimely missive:
+W. missing in J'burg. Presume worst.-->
