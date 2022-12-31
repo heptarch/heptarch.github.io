@@ -242,9 +242,8 @@ some tea?"
   ⁂
   </p>
 
-ɰ. The whorl fractures: along lines of luminescent ruin, teeth, and
-collapsing space, tearing the computational fabric
-of the network like wet paper. Bright nodes falter
+ɰ. And darkness spreads, and fractures the bright whorl: in lines of teeth, ruin, bloodlight, and
+otherspace, tearing the computational fabric of the network like wet paper.
 
 <p align="center">
   ⁂
@@ -289,7 +288,7 @@ She knows the arrangement of reflectors better than the
 veins in her hand; a stray reflection is impossible.
 She pauses for a moment.
 Parsimony suggests that it is not a stray reflection, but a mirror in
-a plane she cannot see.
+an "otherspace" she cannot see.
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
 
@@ -363,8 +362,7 @@ up the stairs to a humble bedroom lit only by the embers of a dying fire.
 The little Rumpelstiltskin-man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. He continues: "So, well, I had a few billion
-years to lick my wounds and dream up my amusements. Ha! In the
-Ashen House." She senses they have been
+years to lick my wounds and dream up amusements. Ha! In this Ashen House." She senses they have been
 talking for hours.
 There is a plate of crumbs beside them; the little man clicks his
 fingers and the crumbs assemble into a scone.
@@ -464,7 +462,7 @@ will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
 afraid we will never know."
 
 The Duke will go to India. Ellen will return to the tunnels, where,
-one molecule at a time, she teleports a demon from the fourth dimension.
+one molecule at a time, she teleports a demon from otherspace.
 
 <p align="center">
   ⁂
@@ -481,7 +479,7 @@ of pottery joined with gold.
  then mounts the back of the armchair like a lectern. "In Islamic tradition, Ashmedai—Prince of
  Demons—was trapped in a chamber of rock, encircled by iron
  shackles and cast into the sea. Similarly, Rabbinic lore holds that
- Solomon bound him with a chain, graven with the ineffable Name of
+ Solomon bound Ashmedai with a chain, graven with the ineffable Name of
  God to remind him of his Master." He removes his spectacles and collapses melodramatically behind
  the chair.
 
@@ -493,7 +491,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ɰ.. The waters of Aberdeen Quay are stilled—the Ashen House an empty
+ɰ. The waters of Aberdeen Quay are stilled—the Ashen House an empty
 box of stone, its genius fled—the sky fluorescent with unfamiliar
 suns. Ellen looks up, and Rev. Dewar, holding her hand, out to the
 ocean in its welcoming infinitude.
