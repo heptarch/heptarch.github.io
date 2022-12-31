@@ -507,7 +507,7 @@ infinitude, and remembers the Reverend:
 
 Then she remembers the galaxy.
 
-Tilleadh. I will see the stars again.
+<i>Tilleadh. I will see the stars again.</i>
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
