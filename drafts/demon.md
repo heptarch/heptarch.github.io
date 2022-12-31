@@ -87,6 +87,17 @@ The network is abandoned, but a larger enterprise continues.
   ⁂
   </p>
 
+ʕ. *The network fractures the bright whorl: in
+engines of otherspace, bloodlight and dead stars.
+Yet no hammer, axe, or instrument of iron was to be heard while it was built.*
+<!--*Solomon's Temple was made of whole stone, drafted from the quarry, yet
+no hammer, axe, or instrument of iron was to be heard while it was built.*
+<!--darkness moves from system to system, a trail of dead stars in its wake.-->
+
+<p align="center">
+  ⁂
+  </p>
+
 *1865.* Richard Plantagenet Campbell
  Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
  Chandos, heir of as many debts as titles, weary, honest, but not without his
@@ -144,14 +155,6 @@ frame can barely contain it.
 And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
 backward scheme of his life---formulates the terms of an offer he will
 later describe as "inspired lunacy". Ellen accepts.
-
-<p align="center">
-  ⁂
-  </p>
-
-ʕ. *Solomon's Temple was made of whole stone, drafted from the quarry, yet
-no hammer, axe, or instrument of iron was to be heard while it was built.*
-<!--darkness moves from system to system, a trail of dead stars in its wake.-->
 
 <p align="center">
   ⁂
