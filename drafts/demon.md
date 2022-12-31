@@ -487,7 +487,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 ɰ. The network begins to stitch itself together, like fragments
-of pottery joined with gold.
+of pottery joined with gold, and eats the darkness.
 
 <p align="center">
   ⁂
