@@ -470,6 +470,13 @@ one molecule at a time, she teleports a demon from the fourth dimension.
   ⁂
   </p>
 
+ɰ. The network begins to stitch itself together, like fragments
+of pottery joined with gold, and eats the darkness.
+
+<p align="center">
+  ⁂
+  </p>
+
 Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
  then mounts the back of the armchair like a lectern. "In Islamic tradition, Ashmedai—Prince of
  Demons—was trapped in a chamber of rock, encircled by iron
@@ -486,14 +493,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ɰ. The network begins to stitch itself together, like fragments
-of pottery joined with gold, and eats the darkness.
-
-<p align="center">
-  ⁂
-  </p>
-
-Ȣ. The waters of Aberdeen Quay are stilled—the Ashen House an empty
+ɰ.. The waters of Aberdeen Quay are stilled—the Ashen House an empty
 box of stone—its genius fled—and the sky fluorescent with unfamiliar suns.
 
 <i>Child, what should you like to do?</i>
