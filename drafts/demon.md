@@ -224,7 +224,7 @@ magnetised fluids." He restrains himself from laughing at the absurdity. "In wha
 how, forgive me, could you possibly get access to the necessary
 equipment?" He leafs theatrically through the notebook. Scribbles.
 
-She explains as if it was as everyday as the teapot. "I am employed
+She explains as if it was as unremarkable as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
 besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, the mechanical contrivance by which a uniform
