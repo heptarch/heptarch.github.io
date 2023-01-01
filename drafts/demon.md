@@ -198,12 +198,12 @@ Professor Thomson?"
 
 *1869.* In the Beethoven Rooms of 76 Harley
 Street, Professor Carey Foster anxiously regards the bluestockings who have
-assembled to learn about thermodynamics.
+assembled to learn thermodynamics.
 Ludwig van glowers at him from the wall.
 "Heat"---he pauses, steadies himself, and tries to speak over the
 disapproval of the portrait---"heat, ladies, is not merely those sensible properties
 of a teapot or a fireplace with which we are all familiar, and
-therefore strike us as too commonplace to explain. Heat
+therefore strike us as too commonplace to merit discussion. Heat
 lives in the realm of measurable phenomena; its very sensibility is
 evidence of its effects. If measurable, it must admit of precise
 determination. In these lectures, we will learn the means by which these
