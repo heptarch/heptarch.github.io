@@ -2,9 +2,9 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The King of Otherspace"
+title:  "The Creature of Ashen House"
 categories:
-date:  2022-11-12
+date:  2023-01-01
 ---
 <br>
 
