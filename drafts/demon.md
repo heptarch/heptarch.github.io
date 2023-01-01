@@ -34,7 +34,8 @@ infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible shape before her.
 Induction coils hum, and a hundred electromagnets, scattered across
-London and strapped to giant vats of halocarbon, gently sing a shadow into being.
+London and girding their alembics, sing a great shadow into being.
+
 So, Ellen thinks, this is how you summon a demon.
 
 <p align="center">
