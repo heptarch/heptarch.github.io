@@ -228,11 +228,11 @@ She explains as if it was as unremarkable as the teapot. "I am employed
 by the London Pneumatic Despatch Company to do so---much more
 besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
 the theory of governors, the mechanical contrivance by which a uniform
-velocity of rotation is maintained, in a turbine for example? By a combination of electromagnetism and
-cooling, I think we might apply these notions to corpuscular machines,
-but I fear the finer points of experimental chemistry elude me. I
+velocity of rotation is maintained, in a turbine for example?
+I think we might apply these notions to 'corpuscular machines',
+but the finer points of experimental chemistry elude me. I
 remember you stating in your lectures on
-acoustics that you studied with Kekulé?." The notebook becomes suddenly clear, swimming before him
+acoustics that you studied with Kekulé?" The notebook becomes suddenly clear, swimming before him
 in equations, engineering schematics, reaction pathways, scattered
 exclamations of EYPHKA!
 The absurdity has somewhat changed character.
@@ -288,7 +288,7 @@ melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
 There is a small discrepancy from the Holborn interferometer.
 She does a quick calculation---guided by the voice---and finds the
-results are consistent with *reversing* one of the polarizations.
+results are consistent with reversing one of the polarizations.
 
 She knows the arrangement of reflectors better than the
 veins in her hand; a stray reflection is impossible.
