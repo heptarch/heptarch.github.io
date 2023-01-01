@@ -124,7 +124,7 @@ Auld "Davie" Thomson, an immense, stentorian don who must stoop to enter
  the classroom, introduces the young "Miss Watson" as an
  "exceedingly sharp pupil of the modern developments". He folds himself into a
  chair in the front row and tenderly motions her to begin.
- Miss Watson coughs nervously, and after receiving another paternal nod,
+ Miss Watson coughs nervously, and after another paternal nod,
  addresses the room in a high, calm, clear voice:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -138,9 +138,7 @@ theory for Newton's theory of gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another when separated,
 but by the supposition of an additional spatial dimension (see Möbius,
 Riemann, Hamilton &c), furnishes a
-mechanism to combine gravity and electromagnetism.
-In addition, this predicts small phenomenological departures from the
-results of Maxwell and Faraday, which we might detect by careful experiments...
+mechanism to combine gravity and electromagnetism...
 </font>
 </div>
 The talk is gibberish to the Duke. The play of symbols, the
