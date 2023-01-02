@@ -519,9 +519,12 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ʕ. As Ellen descends to the tunnels she feels as if she is becoming
-her true self once more: a self which expands through the old network, which winds in arcs of jagged light
-through the despatch tubes, reflectors, and magnetized colloids. 
+ʕ. The sky reels with unfamiliar suns, reflected by the mirror of
+ocean in its welcoming infinitude.
+
+<i>Child, what should you like to do?</i>
+
+Tilleadh. I will see the stars again.
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
