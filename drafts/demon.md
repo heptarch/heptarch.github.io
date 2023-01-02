@@ -526,7 +526,8 @@ to a thousand tunnels, stretched in webs of otherspace and undisentanglable comp
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
-Ȣ. A door from Euston, one of the thousand thousand doors.
+Ȣ. A door from Euston, one of the thousand thousand doors threading
+the bright whorl of the galaxy.
 
 <i>Child, what should you like to do?</i>
 
