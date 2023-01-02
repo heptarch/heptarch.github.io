@@ -533,20 +533,18 @@ across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
 Ȣ. The portal from Euston leads to a twisted, lightless and improbably
-vast space beneath Ashen House. The voice slithers around her in the dark:
+vast space beneath Ashen House.
 
+<!--A voice slithers around her in the dark:
 <div style="text-align: right">
 <b>What have you found now begooo...</b>
 </div>
-
 Something ancient, bristling with teeth and luminescent ruin.
 Other shapes swim in that gloom; the king readying a triumphal procession.
-
 <div style="text-align: right">
 <b>Tilleadh.</b>
 </div>
-
-Ellen will the see the stars again and again, in all their welcoming infinitude.
+Ellen will the see the stars again, forever, in all their welcoming infinitude.-->
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
