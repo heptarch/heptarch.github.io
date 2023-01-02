@@ -539,7 +539,7 @@ vast space beneath Ashen House. A voice slithers around her in the dark:
 <b>What have you found now begooo....</b>
 </div>
 
-Something bristling with teeth and luminescent ruin.
+Something ancient, bristling with teeth and luminescent ruin.
 
 <div style="text-align: right">
 <b>Child, what should you like to do?</b>
