@@ -511,7 +511,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  about the platforms in drowse and languor---the newspapers
  wilting with damp---lamps lit at midday---and even the bronze likeness of George
  Stephenson, that commanding and self-willed presence, seems asleep.
- There is a bump, and a low-pitched screech muffled by the vapour.
+ There is a bump, and an odd sound muffled by the vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and rum.
 
