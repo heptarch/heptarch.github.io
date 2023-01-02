@@ -65,8 +65,7 @@ found now?"
 
 *1874.* The General Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system. The goal: a
-network of mile-long tunnels, threaded
+£200,000 to build an underground distribution system of mile-long tunnels, threaded
 by narrow gauge rail, emptied by 20-foot wide iron turbines, and shooting capsules like bullets with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
