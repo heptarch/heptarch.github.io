@@ -436,8 +436,8 @@ solid black; line-height:1.3;">
  profligate and wastrel Lord, who giveth or taketh depending on his
  humour, and in whose service each of us is, from time to time, dragooned.
 
-Miss Watson enters; the Duke
-continues to gaze at Hawksmoor's giants. "Ellen, come in. You know,
+A knock at the door. "Ah, Miss Watson. Come in." Ellen enters; the Duke
+continues to gaze at Hawksmoor's giants. "You know,
 I remember your talk at
 Aberdeen. I understood nothing, except that, like Atlas, with a little
 leverage you could move the world." Ellen smiles. "No need for prevarication or
