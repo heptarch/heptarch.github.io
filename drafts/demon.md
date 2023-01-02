@@ -552,10 +552,6 @@ Other shapes begin to move; a king readying his procession.
 
 Will I see the stars again?
 
-<div style="text-align: right">
-<b>Yes, child. Yes.</b>
-</div>
-
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
 the chain whereon the ineffable Name of God had 
