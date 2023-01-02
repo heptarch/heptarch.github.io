@@ -517,16 +517,14 @@ the resident machinist, disgorges her at the Ashen House, and winks again out of
   ⁂
   </p>
 
-Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
+Ȣ. <!--The currents are stilled; the ocean a mirror of welcoming infinitude.
 Ellen leaves her new friends by the breakwater and returns to the tunnels beneath
 the House.
-
 <i>What have you found now?</i>
-
 One of a thousand doors leads to Euston; each door leading
 to a thousand tunnels, stretched in webs of otherspace and undisentanglable complexity
 across the bright whorl of the galaxy.
-Expanding through the network, she feels as if she is becoming her true self once more.
+Expanding through the network, she feels as if she is becoming her true self once more.-->
 
 <i>Child, what should you like to do?</i>
 
