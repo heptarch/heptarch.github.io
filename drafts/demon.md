@@ -516,7 +516,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 Ȣ. The currents are stilled, and the ocean a mirror of welcoming infinitude.
-Ellen leaves her friends by the breakwater to enter the tunnels beneath
+Ellen leaves her friends by the breakwater to return to the tunnels beneath
 the House.
 
 <i>What have you found now?</i>
