@@ -493,10 +493,10 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  brass, seem frozen. The stationmaster
  dozes---trains delayed by fog---a motley of passengers scattered
  about the platforms in poses of drowse and languor---newspapers
- wilting with damp---lamps lit at midday---and even the bronze likeness of George
- Stephenson, Father of the Railways, that commanding and self-willed presence, seems asleep.
-
-But then a bump, and a hideous, low-pitched screech that seems 
+ wilt with damp---lamps on at midday---and even the bronze likeness of George
+ Stephenson, that commanding and self-willed presence who shaped the railways, seems asleep.
+ There is a bump, and an odd sound, muffled by the vapour.
+ The stationmaster opens his eyes briefly, then returns to a dream
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
