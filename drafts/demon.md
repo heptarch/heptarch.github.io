@@ -492,8 +492,9 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 *1875.* The clock of the Great Hall, in its armature of polished
  brass, seem frozen. The stationmaster
  dozes---trains delayed by fog---a motley of passengers scattered
- about the platforms in poses of drowse and languor---even the bronze
- likeness of George Stephenson seems asleep.
+ about the platforms in poses of drowse and languor---newspapers
+ damp---lamps flaring at midday---even the bronze likeness of George
+ Stephenson seems asleep.
 
 But then a bump, and a hideous, low-pitched screech that seems 
 
