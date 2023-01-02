@@ -472,15 +472,14 @@ one molecule at a time, she teleports a demon out of otherspace.
 
 Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
  and mounts the back of the armchair like a lectern. "According to
- Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—in servitude to help him
- construct the great temple, using a chain and anklet graven with the
- tetragrammaton.
+ Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—with a chain and anklet graven with the
+ tetragrammaton, and bade him construct the great temple.
  Once complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
- miles and replaced him as king! Curiosity is a right begoo." He removes his spectacles and collapses
- melodramatically behind the chair.
+ miles away and replaced him as king! Curiosity, a right begoo." He
+ removes his spectacles and dismounts.
 
-"Art thou Ashmedai? Or Solomon?"
+"Art thou Ashmedai?"
 
 He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
