@@ -515,12 +515,12 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
-Ellen leaves her friends by the breakwater to return to the tunnels beneath
+Ellen leaves her friends by the breakwater and returns to the tunnels beneath
 the House.
 
 <i>What have you found now?</i>
 
-One of a thousand doors leads to Euston; one of a thousand doors, stretching
+One of a thousand doors leads to Euston; thousand doors, stretching
 in webs of otherspace and undisentanglable complexity
 across the bright whorl of the galaxy.
 She feels as if she is becoming her true self once more.
