@@ -525,7 +525,7 @@ to a thousand tunnels, stretched in webs of otherspace and undisentanglable comp
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
-Ȣ. The portal from Euston leads to the dark and endless space beneath Ashen
+Ȣ. The portal from Euston leads to the twisted, lightless space beneath Ashen
 House. 
 
 <i>Child, what should you like to do?</i>
