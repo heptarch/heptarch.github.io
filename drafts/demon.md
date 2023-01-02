@@ -389,10 +389,10 @@ solid black; line-height:1.3;">
 
 <i>Apr. 7.</i> Further disquisitions on scones. <br>
 
-<i>Apr. 14.</i> אשמדאי in some other part of the Ashen House—hear
+<i>Apr. 14.</i> He in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>Apr. 15.</i> אשמדאי back in bedroom with particuarly outrageous
+<i>Apr. 15.</i> Back in bedroom with particuarly outrageous
 peruke. Expounds—in archaic legal terms—on extradimensional
 scattering and "tunnelling" with light. <br>
 
@@ -418,7 +418,7 @@ The final entry:
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>Apr. 31.</i> אשמדאי tells me how to free him from the Ashen House. <br>
+<i>Apr. 31.</i> Tells me how to free him from the Ashen House. <br>
 </font>
 </div>
 
@@ -481,7 +481,7 @@ one molecule at a time, she teleports a demon out of otherspace.
  kingship, and restored him to the throne." He removes his spectacles
  and dismounts.
 
-"Art thou Ashmedai? Solomon? Or the rabbis?"
+"Art thou Ashmedai?"
 
 He peeks out from behind the chair. "Ha! Are you Ellen Watson? Or a scone?"
 
