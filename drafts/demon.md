@@ -459,7 +459,7 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  end?" Ellen wrinkles her nose. "I was using this scheme
  to learn the shape of the artifact by Chancery Lane. I use 'instructions' figuratively."
 Westminster Abbey, GPO, the House of Lords, even Madras, fade from the
-Duke's vision, resolved into a single question that
+Duke's mind, resolved into a single question that
 will haunt him the rest of his life: "What *is* it?" Ellen: "I'm
 afraid we will never know."
 
