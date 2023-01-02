@@ -368,10 +368,11 @@ and up the stairs to a humble bedroom lit only by the embers of a dying fire.
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. She senses they have been talking for hours.
-"A few tricks left. Begoo!"
-There is a plate of crumbs beside them; the little man clicks his
+There is a plate of crumbs beside them
+"I have a few tricks left. Begoo!"
+The little man clicks his
 fingers and the crumbs assemble into a scone.
-<!--The logs in the fire crackle and brightly unburn.--> "I may have borrowed a
+<!--The logs in the fire crackle and brightly unburn.--> "Ha! I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
 Another lurch. Ellen wakes with three white hairs.
