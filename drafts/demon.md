@@ -26,6 +26,13 @@ the terrors of the night.
 <div style="text-align: right"><i>Song of Songs</i>
 </div><br>
 
+<span style="padding-left: 40px; display:block">
+[It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time.
+</span>
+
+<div style="text-align: right">PlanetN9Ne
+</div><br>
+
 <!--Thy Master's name is inscribed upon you!<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
 </div> <br>-->
 
@@ -525,12 +532,12 @@ to a thousand tunnels, stretched in webs of otherspace and undisentanglable comp
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
-Ȣ. The portal from Euston leads to a twisted, lightless space beneath Ashen
-House.
+Ȣ. The portal from Euston leads to a vast, twisted, and lightless space beneath Ashen
+House. A voice slither around her in the dark:
 
 <b>What have you found now begooo....</b>
 
-Something stirs in the dark, a four-dimensional lamprey bristling with
+Something huge a four-dimensional lamprey bristling with
 light and luminescent ruin.
 
 <b>Child, what should you like to do?</b>
