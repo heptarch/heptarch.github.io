@@ -537,14 +537,13 @@ vast space beneath Ashen House. A voice slithers around her in the dark:
 
 <div style="text-align: right">
 <b>What have you found now begooo....</b>
-</div><br>
+</div>
 
-Something huge a four-dimensional lamprey bristling with
-light and luminescent ruin.
+Something bristling with teeth and luminescent ruin.
 
 <div style="text-align: right">
 <b>Child, what should you like to do?</b>
-</div><br>
+</div>
 
 Tilleadh. I will see the stars again.
 
