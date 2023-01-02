@@ -515,7 +515,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  Stephenson, that commanding and self-willed presence, seems asleep.
  There is a bump, and a sound oddly muffled by the vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
- continues dreaming of rarebit and rum.
+ continues dreaming of Welsh rarebit and rum.
 
 In the tunnels beneath Euston Square, a small traversable wormhole winks out of existence.
 
@@ -536,7 +536,7 @@ Expanding through the network, she feels as if she is becoming her true self onc
 vast space beneath Ashen House. A voice slithers around her in the dark:
 
 <div style="text-align: right">
-<b>What have you found now begooo....</b>
+<b>What have you found now begooo...</b>
 </div>
 
 Something ancient, bristling with teeth and luminescent ruin.
