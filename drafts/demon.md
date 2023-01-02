@@ -495,7 +495,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  about the platforms in poses of drowse and languor---even the bronze
  likeness of George Stephenson seems asleep.
 
-There is a bump, and a great cry, from 
+But then a bump, and a hideous, low-pitched screech that seems 
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
