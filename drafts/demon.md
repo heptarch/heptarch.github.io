@@ -18,6 +18,15 @@ Whole avenues of universes...
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div><br>
 
+<span style="padding-left: 40px; display:block">
+Behold! Solomon's carriage, escorted by sixty warriors, the noblest of
+Isral, armed against
+the terrors of the night.
+</span>
+
+<div style="text-align: right"><i>Song of Songs</i>
+</div><br>
+
 <!--Thy Master's name is inscribed upon you!<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
 </div> <br>-->
 
