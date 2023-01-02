@@ -329,7 +329,7 @@ solid black; line-height:1.3;">
 </div>
 
 Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
-It must be---as Ellen had hoped---an artefact, hovering near
+It must be---as Ellen had hoped---an artifact, hovering near
 Chancery Lane in a direction that no lawyer, however advanced his
 legal sophistry, could point to.
 
