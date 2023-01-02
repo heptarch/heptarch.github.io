@@ -516,7 +516,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and hot rum.
 
-In the tunnels beneath Euston Square, a small traversable wormhole winks out of existence.
+In the tunnels beneath Euston Square, a wormhole winks out of existence.
 
 <p align="center">
   ⁂
