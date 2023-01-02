@@ -445,7 +445,7 @@ folds his hands in supplication. "Treasury, the GPO, have washed their
 hands of us. Our creditors have been disbursed. And your usually reliable stream of patents has,
 it seems, dried up." His eyes are kind. "Inspiration is fickler than luck. But
 perhaps—if only to satisfy my curiosity—you might explain what has
-occupied you these last six months. An interim report, if you will."
+occupied you these last six months. A final report, if you will."
 
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  does not." The Duke demurs. "As you did two years ago."
