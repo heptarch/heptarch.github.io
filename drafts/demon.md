@@ -514,7 +514,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ȣ. The currents are stilled, and the ocean a mirror of welcoming infinitude.
+Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
 Ellen leaves her friends by the breakwater to return to the tunnels beneath
 the House.
 
