@@ -494,8 +494,9 @@ He peeks out from behind the chair. "Ha! Are you Ellen Watson? Or a scone?"
 ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
 the chain whereon the ineffable Name of God had 
-been engraved. When Ashmedai entered the palace, he saw Solomon, and
-flew into the sky, making haste his escape.*
+been engraved.*
+<!-- When Ashmedai entered the palace, he saw Solomon, and
+flew into the sky, making haste his escape.-->
 
 <p align="center">
   ⁂
