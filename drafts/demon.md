@@ -65,7 +65,7 @@ found now?"
 
 *1874.* The General Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system of mile-long tunnels, threaded
+£200,000 to build a distribution system of <!--mile-long--> underground tunnels, threaded
 by narrow gauge rail, emptied by 20-foot wide iron turbines, and shooting capsules like bullets with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
@@ -505,9 +505,11 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  about the platforms in drowse and languor---newspapers
  wilting with damp---the lamps lit at midday---and even the bronze likeness of George
  Stephenson, that commanding and self-willed presence, seems asleep.
- There is a bump from beneath the station, and a sound oddly muffled by the vapour.
+ There is a bump, and a sound oddly muffled by the vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and rum.
+
+In the tunnels beneath Euston Square, a small wormhole has opened up, gulped its 
 
 <p align="center">
   ⁂
