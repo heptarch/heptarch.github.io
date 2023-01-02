@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Vigil of Ashen House"
+title:  "The King of Ashen House"
 categories:
 date:  2023-01-01
 ---
@@ -478,7 +478,7 @@ one molecule at a time, she teleports a demon out of otherspace.
 
 Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
  and mounts the back of the armchair like a lectern. "According to
- Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—with a chain and anklet graven with the
+ Rabbinic lore, Solomon bound Ashmedai—King of Demons—with a chain and anklet graven with the
  tetragrammaton, and bade him construct the great temple.
  Once complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
