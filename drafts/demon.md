@@ -463,7 +463,7 @@ Duke's mind, resolved into a single question that
 will haunt him the rest of his life: "What *is* it Ellen?" "I'm
 afraid we will never know."
 
-The Duke will go to India. Ellen will return to the tunnels, where,
+The Duke will go to India, win a famine and lose an uprising. Ellen will return to the tunnels, where,
 one molecule at a time, she teleports a demon from otherspace.
 
 <p align="center">
