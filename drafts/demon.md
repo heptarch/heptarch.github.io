@@ -533,7 +533,7 @@ across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
 Ȣ. The portal from Euston leads to a twisted, lightless and improbably
-vast space beneath Ashen House, where the kind readies his procession.
+vast space beneath Ashen House, where the king readies his procession.
 
 <div style="text-align: right">
 <b>Tilleadh.</b>
