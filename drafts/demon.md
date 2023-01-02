@@ -500,6 +500,12 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  The stationmaster opens his eyes briefly, then returns to his dream
  of rarebit and rum.
 
+<p align="center">
+  ⁂
+  </p>
+
+ʕ.
+
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
 the chain whereon the ineffable Name of God had 
