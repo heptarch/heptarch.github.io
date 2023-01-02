@@ -89,11 +89,7 @@ A young woman is rumored to wander about
 and attend to the machines.
 The network is abandoned, but a larger enterprise continues.
 
-<p align="center">
-  ⁂
-  </p>
-
-ʕ. *The darkness moves from system to system, a trail of dead stars in its wake.*
+<!--ʕ. The darkness moves from system to system, a trail of dead stars in its wake.-->
 
 <!-- ʕ. *The network threads the galaxy in lines of otherspace, bloodlight and
 dead stars, in webs of unentanglable complexity.
