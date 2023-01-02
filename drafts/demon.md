@@ -540,17 +540,13 @@ vast space beneath Ashen House. The voice slithers around her in the dark:
 </div>
 
 Something ancient, bristling with teeth and luminescent ruin.
-Other shapes begin to move; a king readying his procession.
+Other shapes swim in that gloom; a king readying his procession.
 
 <div style="text-align: right">
 <b>Tilleadh.</b>
 </div>
 
-<div style="text-align: right">
-<b>Child, what should you like to do?</b>
-</div>
-
-Will I see the stars again?
+She will the see the stars again, in all their welcoming infinitude.
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
