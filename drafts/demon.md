@@ -493,8 +493,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  brass, seem frozen. The stationmaster
  dozes---trains delayed by fog---a motley of passengers scattered
  about the platforms in poses of drowse and languor---newspapers
- wilting with damp---lamps lit at midday---even the bronze likeness of George
- Stephenson seems asleep.
+ wilting with damp---lamps lit at midday---and even the bronze likeness of George
+ Stephenson, Father of the Railways, that commanding and self-willed presence, seems asleep.
 
 But then a bump, and a hideous, low-pitched screech that seems 
 
