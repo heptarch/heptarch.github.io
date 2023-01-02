@@ -344,7 +344,7 @@ which bears them onwards.
 
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
-breakwater which reaches into the sky, hiding Aberdeen behind it.
+breakwater which reaches into the sky and hides Aberdeen behind it.
 On the island, a small rise surmounted by the outlines of a Chancery
 Lane shopfront: Ede & Ravenscroft, tailors by royal appointment of His
 Majesty.
