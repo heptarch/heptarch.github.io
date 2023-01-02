@@ -469,7 +469,7 @@ one molecule at a time, she teleports a demon out of otherspace.
  demonstration of the demon's powers. Ashmedai flung him a thousand
  miles away and usurped him as king! Curiosity is a right begoo. But
  the Rabbis recognized him from some impoverished token of his
- kingship, and restored him."
+ kingship, and restored him.
 
 "As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> that his
  spirit fless into the air on Solomon's return. But in Islamic
