@@ -474,7 +474,7 @@ one molecule at a time, she teleports a demon out of otherspace.
  tetragrammaton, and bade him construct the great temple.
  Once complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
- miles away and replaced him as king! Curiosity is a right begoo. But
+ miles away and usurped him as king! Curiosity is a right begoo. But
  the Rabbis recognized him from some impoverished token of his
  kingship, and restored him to the throne." He removes his spectacles
  and dismounts.
