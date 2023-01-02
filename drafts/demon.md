@@ -374,7 +374,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
- ʕ. *A pauper's bowl of bloodlight on some distal vein; and this was the portion of all my labour.*
+ ʕ. *A pauper's bowl of bloodlight in some distal vein; and this was the portion of all my labour.*
 
 <p align="center">
   ⁂
