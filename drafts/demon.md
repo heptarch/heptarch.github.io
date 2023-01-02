@@ -354,7 +354,7 @@ which bears them onwards.
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
 breakwater which reaches into the sky and hides Aberdeen behind it.
-The breakwater encloses an island, and at its crown, the outlines of a Chancery
+The breakwater encloses an island, and at its crown show the outlines of a Chancery
 Lane shopfront: Ede & Ravenscroft, tailors by royal appointment of His
 Majesty.
 She moves closer, and the store blooms into color, sweeping her view
@@ -520,7 +520,7 @@ the House.
 <i>What have you found now?</i>
 
 One of a thousand doors leads to Euston; each door leading
-to a thousand tunnels, stretched in webs of laser pulse, otherspace, and undisentanglable complexity
+to a thousand tunnels, stretched in webs of otherspace and undisentanglable complexity
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.
 
