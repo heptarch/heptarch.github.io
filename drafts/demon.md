@@ -506,7 +506,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  wilting with damp---lamps lit at midday---and even the bronze likeness of George
  Stephenson, that commanding and self-willed presence, seems asleep.
  There is a bump, and an odd sound muffled by the vapour.
- The stationmaster opens his eyes briefly, then returns to his dream
+ The stationmaster turns in his chair, mutters some imprecation, then returns to his dream
  of rarebit and rum.
 
 <p align="center">
