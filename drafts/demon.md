@@ -361,7 +361,7 @@ and up the stairs to a humble bedroom lit only by the embers of a dying fire.
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. She senses they have been talking for hours.
-There is a plate of crumbs beside them
+There is a plate of crumbs beside them.
 The little man clicks his
 fingers and the crumbs assemble into a scone.
 <!--The logs in the fire crackle and brightly unburn.--> "Ha! I may have borrowed a
@@ -387,7 +387,7 @@ solid black; line-height:1.3;">
 
 <i>Apr. 7.</i> Further disquisitions on scones. <br>
 
-<i>Apr. 14.</i> He in some other part of the Ashen House—hear
+<i>Apr. 14.</i> Creature in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>Apr. 15.</i> Back in bedroom with particuarly outrageous
