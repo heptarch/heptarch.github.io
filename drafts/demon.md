@@ -540,7 +540,7 @@ vast space beneath Ashen House. The voice slithers around her in the dark:
 </div>
 
 Something ancient, bristling with teeth and luminescent ruin.
-Other shapes swim in that gloom; a king readying his procession.
+Other shapes swim in that gloom; Solomon readies his procession.
 
 <div style="text-align: right">
 <b>Tilleadh.</b>
