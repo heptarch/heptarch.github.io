@@ -535,12 +535,16 @@ Expanding through the network, she feels as if she is becoming her true self onc
 Ȣ. The portal from Euston leads to a vast, twisted, and lightless space beneath Ashen
 House. A voice slither around her in the dark:
 
+<div style="text-align: right">
 <b>What have you found now begooo....</b>
+</div><br>
 
 Something huge a four-dimensional lamprey bristling with
 light and luminescent ruin.
 
+<div style="text-align: right">
 <b>Child, what should you like to do?</b>
+</div><br>
 
 Tilleadh. I will see the stars again.
 
