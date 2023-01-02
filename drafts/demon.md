@@ -524,9 +524,10 @@ welcoming infinitude.
 
 <i>Child, what should you like to do?</i>
 
-Ellen enters a culvert beside Ede & Ravenscroft, enters the lift, and
-as it begins its slow descent to the tunnels, she feels as if she is
-becoming her true self once more.
+She leaves her friends by the breakwater and ducks into the culvert
+behind Ede & Ravenscroft.
+As the lift begins its slow descent to the tunnels, she feels as if
+she is becoming her true self once more.
 
 <i>Child, what should you like to do?</i>
 
