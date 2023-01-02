@@ -543,6 +543,10 @@ Something ancient, bristling with teeth and luminescent ruin.
 Other shapes begin to move; a king readying his procession.
 
 <div style="text-align: right">
+<b>Tilleadh.</b>
+</div>
+
+<div style="text-align: right">
 <b>Child, what should you like to do?</b>
 </div>
 
