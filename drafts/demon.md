@@ -526,7 +526,7 @@ across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
 Ȣ. A door from Euston, one of the thousand thousand doors threading
-the bright whorl of the galaxy.
+the bright whorl of the galactic plane.
 
 <i>Child, what should you like to do?</i>
 
