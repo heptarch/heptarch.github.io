@@ -518,13 +518,15 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 Ȣ. The currents are stilled, and the ocean a mirror of welcoming infinitude.
 Ellen leaves her friends by the breakwater to enter the tunnels beneath
 the House.
-As she descends, she feels as if she is become her true self once more.
 
 <i>What have you found now?</i>
 
 One of a thousand doors leads to Euston; one of a thousand doors, stretching
 in webs of otherspace and undisentanglable complexity
-across the bright whorl of the galaxy. But the procession is almost ready.
+across the bright whorl of the galaxy. But the procession is almost
+ready.
+
+She feels as if she is becoming her true self.
 
 <i>Child, what should you like to do?</i>
 
