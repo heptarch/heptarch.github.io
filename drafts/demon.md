@@ -480,7 +480,7 @@ one molecule at a time, she teleports a demon out of otherspace.
  kingship, and restored him to the throne." He removes his spectacles
  and dismounts.
 
-"Art thou Ashmedai?"
+"Art thou Ashmedai? Or Solomon?"
 
 He peeks out from behind the chair. "Ha! Are you Ellen Watson? Or a scone?"
 
