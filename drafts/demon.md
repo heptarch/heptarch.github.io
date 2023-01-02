@@ -524,6 +524,12 @@ welcoming infinitude.
 
 <i>Child, what should you like to do?</i>
 
+Ellen enters a culvert beside Ede & Ravenscroft, enters the lift, and
+as it begins its slow descent to the tunnels, she feels as if she is
+becoming her true self once more.
+
+<i>Child, what should you like to do?</i>
+
 Tilleadh. I will see the stars again.
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
