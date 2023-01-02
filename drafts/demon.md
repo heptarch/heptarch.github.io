@@ -19,7 +19,7 @@ Whole avenues of universes...
 </div><br>
 
 <span style="padding-left: 40px; display:block">
-Behold! Solomon's carriage, escorted by sixty warriors, the noblest of
+Behold! Solomon's procession, accompanied by sixty warriors, the noblest of
 Israel, armed against
 the terrors of the night.
 </span>
@@ -521,14 +521,13 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 ʕ. The sky dances with unfamiliar suns; the ocean a mirror of
 welcoming infinitude.
-She leaves her friends by the breakwater to enter the House.
+She leaves her friends by the breakwater to enter the tunnels beneath
+the House.
 
 <i>What have you found now?</i>
 
-Descending to the tunnels, she feels as if
-she is becoming her true self once more: a self which expands through
-the network of otherspace generators, negentropy reservoirs, in webs of undisentanglable
-complexity. They are preparing the carriage.
+One of a thousand doors, stretching in webs of undisentanglable
+complexity across the galaxy. The procession is ready.
 
 <i>Child, what should you like to do?</i>
 
