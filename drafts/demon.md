@@ -437,9 +437,8 @@ solid black; line-height:1.3;">
  humour, and in whose service each of us is, from time to time, dragooned.
 
 A knock at the door. "Ah, Miss Watson. Come in." Ellen enters; the Duke
-continues to gaze at Hawksmoor's giants. "You know,
-I remember your talk at
-Aberdeen. I understood nothing, except that, like Atlas, with a little
+continues to gaze at Hawksmoor's giants. "I remember your talk at
+Aberdeen ten years ago. I understood nothing, except that, like Atlas, with a little
 leverage you could move the world." Ellen smiles. "No need for prevarication or
 sentiment, Chandos. There is no money. You must close the tubes." He turns and
 folds his hands in supplication. "Treasury, the GPO, have washed their
