@@ -510,8 +510,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and rum.
 
-In the tunnels beneath Euston Square, a small traversable wormhole gulps up
-the resident machinist, disgorges her at the Ashen House, and winks again out of existence.
+In the tunnels beneath Euston Square, a small traversable wormhole winks out of existence.
 
 <p align="center">
   ⁂
