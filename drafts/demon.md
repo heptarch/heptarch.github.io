@@ -30,7 +30,7 @@ infinitely beneath the notice of Ellen Watson, who, 200
 yards directly below the stationmaster's rum, gazes with rapture at the fragile and
 impossible shape before her.
 Induction coils hum, and a hundred electromagnets, scattered across
-London and girding their alembics, sing a great shadow into being.
+London and girding their halocarbon alembics, sing a great shadow into being.
 
 So, Ellen thinks, this is how you summon a demon.
 
@@ -489,26 +489,16 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1875.* 
+*1875.* Beneath the 
 
-<p align="center">
-  ⁂
-  </p>
-
-ʕ. *They brought back the king who had been deposed, and gave him
+<!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
 the chain whereon the ineffable Name of God had 
 been engraved.*
-<!-- When Ashmedai entered the palace, he saw Solomon, and
+When Ashmedai entered the palace, he saw Solomon, and
 flew into the sky, making haste his escape.-->
 
-<p align="center">
-  ⁂
-  </p>
-
-Ȣ. Ellen 
-
-<!-- The scene at Trinity Quay—the waters stilled—the island with its
+<!-- Ȣ. The scene at Trinity Quay—the waters stilled—the island with its
 vacant box of stone—a sky dancing with unfamiliar suns—is reflected by the
 mirror of ocean in its welcoming infinitude.
 <i>Child, what should you like to do?</i>
