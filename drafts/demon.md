@@ -523,10 +523,8 @@ the House.
 
 One of a thousand doors leads to Euston; one of a thousand doors, stretching
 in webs of otherspace and undisentanglable complexity
-across the bright whorl of the galaxy. But the procession is almost
-ready.
-
-She feels as if she is becoming her true self.
+across the bright whorl of the galaxy.
+She feels as if she is becoming her true self once more.
 
 <i>Child, what should you like to do?</i>
 
