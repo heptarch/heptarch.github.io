@@ -545,7 +545,11 @@ Something ancient, bristling with teeth and luminescent ruin.
 <b>Child, what should you like to do?</b>
 </div>
 
-Tilleadh. I will see the stars again.
+Tilleadh. Will I see the stars again?
+
+<div style="text-align: right">
+<b>Yes, child. Yes.</b>
+</div>
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
