@@ -519,13 +519,12 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ʕ. The sky dances with unfamiliar suns; the ocean a mirror of
+ʕ. The sky dances with unfamiliar suns, and the ocean a mirror of
 welcoming infinitude.
+She leaves her friends by the breakwater and enters the House.
 
 <i>Child, what should you like to do?</i>
 
-She leaves her friends by the breakwater and ducks into the culvert
-behind Ede & Ravenscroft.
 As the lift begins its slow descent to the tunnels, she feels as if
 she is becoming her true self once more.
 
