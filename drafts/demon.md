@@ -523,7 +523,7 @@ the House.
 One of a thousand doors leads to Euston; thousand doors, stretching
 in webs of otherspace and undisentanglable complexity
 across the bright whorl of the galaxy.
-She feels as if she is becoming her true self once more.
+Expanding through the network, she feels as if she is becoming her true self once more.
 
 <i>Child, what should you like to do?</i>
 
