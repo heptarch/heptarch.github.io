@@ -526,8 +526,9 @@ the House.
 
 <i>What have you found now?</i>
 
-One of a thousand doors, stretching in webs of undisentanglable
-complexity across the galaxy. The procession is ready.
+One of a thousand doors leads to Euston; one of a thousand doors, stretching
+in webs of otherspace and bloodlight,of  undisentanglable complexity,
+across the whorl of a galaxy seized by darkness. But the procession is almost ready.
 
 <i>Child, what should you like to do?</i>
 
