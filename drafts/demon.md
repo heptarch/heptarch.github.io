@@ -467,11 +467,12 @@ one molecule at a time, she teleports a demon out of otherspace.
  tetragrammaton, and bade him construct the great temple.
  Once complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
- miles away and usurped him as king! Curiosity is a right begoo. But
+ miles away and usurped him as king! Curiosity is a right begoo.
+
+"But
  the Rabbis recognized him from some impoverished token of his
  kingship, and restored him.
-
-"As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
+As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
  that his spirit flees into the air on Solomon's return. But in Islamic
  tradition, he was trapped in a chamber of rock, encircled with iron
  shackles and thrown in the sea." He removes his spectacles and
