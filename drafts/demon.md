@@ -476,7 +476,7 @@ one molecule at a time, she teleports a demon out of otherspace.
  demonstration of the demon's powers. Ashmedai flung him a thousand
  miles away and usurped him as king! Curiosity is a right begoo. But
  the Rabbis recognized him from some impoverished token of his
- kingship, and restored him to the throne." He removes his spectacles
+ kingship, and restored him." He removes his spectacles
  and dismounts.
 
 "Art thou Ashmedai? Or Solomon?"
