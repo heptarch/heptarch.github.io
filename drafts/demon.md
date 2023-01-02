@@ -512,14 +512,14 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  wilting with damp---lamps lit at midday---and even the bronze likeness of George
  Stephenson, that commanding and self-willed presence, seems asleep.
  There is a bump, and a low-pitched screech muffled by the vapour.
- The stationmaster mutters some imprecation, turns in his chair, and
+ The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and rum.
 
 <p align="center">
   ⁂
   </p>
 
-Ȣ. As Ellen descends to the tunnels, she feels as if she is becoming
+ʕ. As Ellen descends to the tunnels she feels as if she is becoming
 her true self once more.
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
