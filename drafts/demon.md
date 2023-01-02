@@ -494,7 +494,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  dozes---trains delayed by fog---a motley of passengers scattered
  about the platforms in poses of drowse and languor---newspapers
  wilt with damp---lamps on at midday---and even the bronze likeness of George
- Stephenson, that commanding and self-willed presence who shaped the railways, seems asleep.
+ Stephenson, that commanding and self-willed presence who built the railways, seems asleep.
  There is a bump, and an odd sound, muffled by the vapour.
  The stationmaster opens his eyes briefly, then returns to a dream
 
