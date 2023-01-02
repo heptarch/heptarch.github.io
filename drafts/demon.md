@@ -354,7 +354,7 @@ which bears them onwards.
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
 breakwater which reaches into the sky and hides Aberdeen behind it.
-The breakwater encloses an island, surmounted by the outlines of a Chancery
+The breakwater encloses an island, and at its crown, the outlines of a Chancery
 Lane shopfront: Ede & Ravenscroft, tailors by royal appointment of His
 Majesty.
 She moves closer, and the store blooms into color, sweeping her view
