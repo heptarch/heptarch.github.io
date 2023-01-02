@@ -501,22 +501,17 @@ flew into the sky, making haste his escape.*
   ⁂
   </p>
 
-Ȣ. The scene at Trinity Quay—the waters stilled—the island with its
+Ȣ. Ellen 
+
+<!-- The scene at Trinity Quay—the waters stilled—the island with its
 vacant box of stone—a sky dancing with unfamiliar suns—is reflected by the
 mirror of ocean in its welcoming infinitude.
-
 <i>Child, what should you like to do?</i>
-
 She expands through the old network, revived from its
 traces, for nothing suitably complex can be destroyed.
-
 <i>Child, what should you like to do?</i>
-
 She remembers the galaxy.
-
-*Tilleadh.*
-
-*I will see the stars again.*
+*Tilleadh. I will see the stars again.*-->
 
 <!-- Objects the size of planetoids keen over the sky, bristling with teeth and luminescent ruin.-->
 <!-- https://en.wikipedia.org/wiki/London_Pneumatic_Despatch_Company -->
