@@ -20,7 +20,7 @@ Whole avenues of universes...
 
 <span style="padding-left: 40px; display:block">
 Behold! Solomon's carriage, escorted by sixty warriors, the noblest of
-Isral, armed against
+Israel, armed against
 the terrors of the night.
 </span>
 
@@ -88,6 +88,12 @@ discouraged, and those who keep asking are let go.
 A young woman is rumored to wander about
 and attend to the machines.
 The network is abandoned, but a larger enterprise continues.
+
+<p align="center">
+  ⁂
+  </p>
+
+ʕ. *The darkness moves from system to system, a trail of dead stars in its wake.*
 
 <!-- ʕ. *The network threads the galaxy in lines of otherspace, bloodlight and
 dead stars, in webs of unentanglable complexity.
@@ -505,15 +511,15 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  about the platforms in drowse and languor---the newspapers
  wilting with damp---lamps lit at midday---and even the bronze likeness of George
  Stephenson, that commanding and self-willed presence, seems asleep.
- There is a bump, and an odd sound muffled by the vapour.
- The stationmaster turns in his chair, mutters some imprecation, then returns to his dream
- of rarebit and rum.
+ There is a bump, and a low-pitched screech muffled by the vapour.
+ The stationmaster mutters some imprecation, turns in his chair, and
+ continues dreaming of rarebit and rum.
 
 <p align="center">
   ⁂
   </p>
 
-Ȣ. As Ellen descends to the tunnels she feels as if she is becoming
+Ȣ. As Ellen descends to the tunnels, she feels as if she is becoming
 her true self once more.
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
