@@ -540,12 +540,13 @@ vast space beneath Ashen House. A voice slithers around her in the dark:
 </div>
 
 Something ancient, bristling with teeth and luminescent ruin.
+Other shapes begin to move; a king readying his procession.
 
 <div style="text-align: right">
 <b>Child, what should you like to do?</b>
 </div>
 
-Tilleadh. Will I see the stars again?
+Will I see the stars again?
 
 <div style="text-align: right">
 <b>Yes, child. Yes.</b>
