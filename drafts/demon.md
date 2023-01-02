@@ -519,10 +519,10 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ʕ. The waters are stilled, and the ocean a mirror of welcoming infinitude.
-She leaves her friends by the breakwater to enter the tunnels beneath
+ʕ. The currents are stilled, and the ocean a mirror of welcoming infinitude.
+Ellen leaves her friends by the breakwater to enter the tunnels beneath
 the House.
-As Ellen descends, she feels as if she is become her true self once more.
+As she descends, she feels as if she is become her true self once more.
 
 <i>What have you found now?</i>
 
