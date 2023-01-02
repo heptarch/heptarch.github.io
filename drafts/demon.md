@@ -504,7 +504,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ʕ.
+Ȣ. As Ellen descends to the tunnels she feels as if she is becoming
+her true self once more.
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
