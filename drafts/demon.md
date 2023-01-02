@@ -471,8 +471,8 @@ one molecule at a time, she teleports a demon out of otherspace.
  the Rabbis recognized him from some impoverished token of his
  kingship, and restored him.
 
-"As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> that his
- spirit fless into the air on Solomon's return. But in Islamic
+"As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
+ that his spirit fless into the air on Solomon's return. But in Islamic
  tradition, he was trapped in a chamber of rocks, encircled with iron
  shackles and thrown in the sea." He removes his spectacles and
  collapses melodramatically behind the chair.
