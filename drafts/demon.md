@@ -374,7 +374,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
- ʕ. *Whiffs of bloodlight from the mattered realm; and this was my
+ ʕ. *Whiffs of bloodlight from the mattered realm; and this was the
  portion of all my labour.*
 
 <p align="center">
