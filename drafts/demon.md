@@ -451,7 +451,7 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  to learn the shape of the artifact by Chancery Lane. I use 'instructions' figuratively."
 Westminster Abbey, GPO, the House of Lords, even Madras, fade from the
 Duke's mind, resolved into a single question that
-will haunt him the rest of his life: "What *is* it Ellen?" Her nose
+will haunt him until he dies: "What *is* it Ellen?" Her nose
  wrinkles again: "I'm afraid we will never know."
 
 The Duke will go to India, win a famine and lose an uprising. Ellen will return to the tunnels, where,
