@@ -510,7 +510,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  continues dreaming of rarebit and rum.
 
 In the tunnels beneath Euston Square, a small traversable wormhole has gulped up
-the resident machinist, and winked again out of existence.
+the resident machinist, disgorged her at the Ashen House, and winked again out of existence.
 
 <p align="center">
   ⁂
