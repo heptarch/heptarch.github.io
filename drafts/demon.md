@@ -519,7 +519,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ʕ. The sky dances with unfamiliar suns, the ocean a mirror of
+ʕ. The sky dances with unfamiliar suns; the ocean a mirror of
 welcoming infinitude.
 
 <i>Child, what should you like to do?</i>
