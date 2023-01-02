@@ -520,8 +520,8 @@ the House.
 
 <i>What have you found now?</i>
 
-One of a thousand doors leads to Euston; thousand doors, stretching
-in webs of otherspace and undisentanglable complexity
+One of a thousand doors leads to Euston; each door leading
+to a thousand tunnels, stretched in webs of laser pulse, otherspace, and undisentanglable complexity
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.
 
