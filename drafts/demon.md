@@ -526,7 +526,8 @@ across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
 Ȣ. The door from Euston, one of a thousand doors in the corridor, one of
-a thousand corridors benath Ashen House.
+a thousand corridors beneath Ashen House, threading the galaxy in webs
+of otherspace.
 
 <i>Child, what should you like to do?</i>
 
