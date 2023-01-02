@@ -517,7 +517,7 @@ the resident machinist, and winked again out of existence.
   </p>
 
 Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
-Ellen leaves her friends by the breakwater and returns to the tunnels beneath
+Ellen leaves her new friends by the breakwater and returns to the tunnels beneath
 the House.
 
 <i>What have you found now?</i>
