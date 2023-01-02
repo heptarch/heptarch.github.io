@@ -489,7 +489,13 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1875.* Beneath the 
+*1875.* The clock of the Great Hall, in its armature of polished
+ brass, seem frozen. The stationmaster
+ dozes---trains delayed by fog---a motley of passengers scattered
+ about the platforms in poses of drowse and languor---even the bronze
+ likeness of George Stephenson seems asleep.
+
+There is a bump, and a great cry, from 
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
