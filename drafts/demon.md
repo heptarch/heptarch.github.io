@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The Creature of Ashen House"
+title:  "The Concord of Ashen House"
 categories:
 date:  2023-01-01
 ---
@@ -14,6 +14,9 @@ In four-dimensioned space are lying, <br>
 Where playful fancy intersperses <br>
 Whole avenues of universes...
 </span>
+
+<div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
+</div><br>
 
 <!--Thy Master's name is inscribed upon you!<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
 </div> <br>-->
@@ -77,14 +80,10 @@ A young woman is rumored to wander about
 and attend to the machines.
 The network is abandoned, but a larger enterprise continues.
 
-<p align="center">
-  ⁂
-  </p>
-
-ʕ. *The network threads the galaxy in lines of otherspace, bloodlight and
+<!-- ʕ. *The network threads the galaxy in lines of otherspace, bloodlight and
 dead stars, in webs of unentanglable complexity.
 Yet no hammer, axe, or instrument of iron was to be heard while it was built.*
-<!--*Solomon's Temple was made of whole stone, drafted from the quarry, yet
+*Solomon's Temple was made of whole stone, drafted from the quarry, yet
 no hammer, axe, or instrument of iron was to be heard while it was built.*
 <!--darkness moves from system to system, a trail of dead stars in its wake.-->
 
@@ -235,13 +234,9 @@ Beethoven looks on with amusement. Foster stammers:
 Marleybone. "Perhaps you would like
 some tea?"
 
-<p align="center">
-  ⁂
-  </p>
-
-ʕ. *Remove the chain from me and give me your signet ring, whilst I
+<!-- ʕ. *Remove the chain from me and give me your signet ring, whilst I
 show you mine advantage; and fractures the bright whorl.*
-<!-- And fractures the bright whorl: lines of ruin, bloodlight, and
+And fractures the bright whorl: lines of ruin, bloodlight, and
 otherspace, tearing the computational fabric of the network like wet paper.-->
 
 <p align="center">
@@ -345,7 +340,7 @@ legal sophistry, could point to.
  flat in the rowlocks and skimming the water, she and the boat one breathless motion.
 Facing backwards, the frozen
 light of Aberdeen grows smaller; beneath, the mild swell of the wave
-which bears them towards an island ringed by darkness.
+which bears them onwards.
 
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
@@ -360,20 +355,18 @@ and up the stairs to a humble bedroom lit only by the embers of a dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
-dully on his forehead. She senses they have been talking for hours.
+dully on his forehead. She senses they have been talking for
+hours.
 There is a plate of crumbs beside them.
+"Why, what a thoughtless begoo I am! Ha!"
 The little man clicks his
 fingers and the crumbs assemble into a scone.
-<!--The logs in the fire crackle and brightly unburn.--> "Ha! I may have borrowed a
+<!--The logs in the fire crackle and brightly unburn.--> "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
 Another lurch. Ellen wakes with three white hairs.
 
-<p align="center">
-  ⁂
-  </p>
-
- ʕ. *A pauper's bowl of bloodlight in some distal vein; and this was the portion of all my labour.*
+<!-- ʕ. *A pauper's bowl of bloodlight in some distal vein; and this was the portion of all my labour.*-->
 
 <p align="center">
   ⁂
@@ -385,12 +378,12 @@ Another lurch. Ellen wakes with three white hairs.
 solid black; line-height:1.3;">
 <font size="-0.2">
 
-<i>Apr. 7.</i> Further disquisitions on scones. <br>
+<i>Apr. 7.</i> Third disquisition on scones. <br>
 
-<i>Apr. 14.</i> Creature in some other part of the Ashen House—hear
+<i>Apr. 14.</i> Rumpelstiltskin in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>Apr. 15.</i> Creature back in bedroom with particuarly outrageous
+<i>Apr. 15.</i> Rumpelstiltskin back in bedroom with particuarly outrageous
 peruke. Expounds—in archaic legal terms—on extradimensional
 scattering and "tunnelling" with light. <br>
 
@@ -416,7 +409,7 @@ The final entry:
 solid black; line-height:1.3;">
  <font size="-0.2">
 
-<i>Apr. 31.</i> Creature tells me how to free him from the Ashen House. <br>
+<i>Apr. 31.</i> Rumpelstiltskin tells me how to free him from the Ashen House. <br>
 </font>
 </div>
 
@@ -458,8 +451,8 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  to learn the shape of the artifact by Chancery Lane. I use 'instructions' figuratively."
 Westminster Abbey, GPO, the House of Lords, even Madras, fade from the
 Duke's mind, resolved into a single question that
-will haunt him the rest of his life: "What *is* it Ellen?" "I'm
-afraid we will never know."
+will haunt him the rest of his life: "What *is* it Ellen?" Her nose
+ wrinkles again: "I'm afraid we will never know."
 
 The Duke will go to India, win a famine and lose an uprising. Ellen will return to the tunnels, where,
 one molecule at a time, she teleports a demon out of otherspace.
