@@ -469,7 +469,9 @@ one molecule at a time, she teleports a demon out of otherspace.
  demonstration of the demon's powers. Ashmedai flung him a thousand
  miles away and usurped him as king! Curiosity is a right begoo. But
  the Rabbis recognized him from some impoverished token of his
- kingship, and restored him." He removes his spectacles
+ kingship, and restored him. As for Ashmedai, accounts differ. In Islamic
+ tradition, he was trapped in a chamber of rocks, encircled with iron
+ shackles and thrown in the sea." He removes his spectacles
  and dismounts.
 
 "Art thou Ashmedai?"
@@ -479,6 +481,12 @@ He peeks out from behind the chair. "Ha! Are you Ellen Watson? Or a scone?"
 <!-- In Islamic tradition, Ashmedai—Prince of
  Demons—was trapped in a chamber of rock, encircled by iron
  shackles and cast into the sea.-->
+
+<p align="center">
+  ⁂
+  </p>
+
+*1875.* 
 
 <p align="center">
   ⁂
