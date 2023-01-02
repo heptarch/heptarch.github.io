@@ -519,8 +519,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ʕ. The sky dances with unfamiliar suns; the ocean a mirror of
-welcoming infinitude.
+ʕ. The waters are stilled, and the ocean a mirror of welcoming infinitude.
 She leaves her friends by the breakwater to enter the tunnels beneath
 the House.
 As Ellen descends, she feels as if she is become her true self once more.
