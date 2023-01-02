@@ -367,7 +367,8 @@ devouring a scone. His eyes bulge, and beads of sweat glisten
 dully on his forehead. She senses they have been talking for
 hours.
 There is a plate of crumbs beside them.
-"Why, what a thoughtless begoo I am! Ha!"
+"Why, what a thoughtless begoo I am! Guests should not go hungry at
+the Ashen House. Ha!"
 The little man clicks his
 fingers and the crumbs assemble into a scone.
 <!--The logs in the fire crackle and brightly unburn.--> "I may have borrowed a
