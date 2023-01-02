@@ -448,7 +448,7 @@ perhaps—if only to satisfy my curiosity—you might explain what has
 occupied you these last six months. A final report, if you will."
 
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
- does not." The Duke demurs. "As you did two years ago."
+ does not." The Duke demurs. "As you did two years ago?"
  Ellen continues: "Indeed. Now, however, lost light is recorded into the
  ethylene. Reflected light contains instructions to 'correct' the lost
  light from previous flashes." The Duke: "How?" "From transmission
