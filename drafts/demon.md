@@ -356,26 +356,22 @@ which bears them towards an island ringed by darkness.
 
 The dream lurches.
 Ellen is moored on the other side of a craggy, rough-hewn
-breakwater which reaches into the sky.
-On the island, a small rise is surmounted by the outlines of a Chancery
+breakwater which reaches into the sky, hiding Aberdeen behind it.
+On the island, a small rise surmounted by the outlines of a Chancery
 Lane shopfront: Ede & Ravenscroft, tailors by royal appointment of His
 Majesty.
-The store blooms into color, and Ellen's view is
-pulled beneath its trefoiled architrave, past the juridical wigs and
+She moves closer, and the store blooms into color, sweeping her view
+beneath its trefoiled architrave, past the juridical wigs and
 robes and orders of chivalry,
-up the stairs to a humble bedroom lit only by the embers of a dying fire.
+and up the stairs to a humble bedroom lit only by the embers of a dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
 devouring a scone. His eyes bulge, and beads of sweat glisten
-dully on his forehead. He continues: "Thus, I had a few billion
-years to lick my wounds and dream up amusements. Ha! In this Ashen House." She senses they have been
-talking for hours.
+dully on his forehead. She senses they have been talking for hours.
+"A few tricks left. Begoo!"
 There is a plate of crumbs beside them; the little man clicks his
 fingers and the crumbs assemble into a scone.
-"I am much reduced. The confining potential keeps the
-surface area small---Bekenstein you know---and stops me from
-replenishing, but I still have a few tricks in me. Begoo!"
-The logs in the fire crackle and brightly unburn. "I may have borrowed a
+<!--The logs in the fire crackle and brightly unburn.--> "I may have borrowed a
 dollop of negentropy," he says with a sheepish grin.
 
 Another lurch. Ellen wakes with three white hairs.
