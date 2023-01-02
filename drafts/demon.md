@@ -15,15 +15,8 @@ Where playful fancy intersperses <br>
 Whole avenues of universes...
 </span>
 
-<div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
-</div> <br>
-
-<span style="padding-left: 40px; display:block">
-Thy Master's name is inscribed upon you!
-</span>
-
-<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
-</div> <br>
+<!--Thy Master's name is inscribed upon you!<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
+</div> <br>-->
 
 *1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
 gravecloth---rain imminent---the coach horses, champing and steaming
@@ -133,12 +126,12 @@ solid black; line-height:1.3;">
 
 Maxwell's treatise of 1864 sought to explain the mutual influence of
 charged or magnetised bodies at a distance by the
-hypothesis of an electromagnetic field. I will essay to develop a similar
-theory for Newton's theory of gravity, which not only provides a medium by
+hypothesis of an electromagnetic field. I will essay the method of
+fields for Newtonian gravity, which not only provides a medium by
 which massive objects may act reciprocally upon one another when separated,
-but by the supposition of an additional spatial dimension (see Möbius,
+but by the supposition of an additional spatial dimension (cf. Möbius,
 Riemann, Hamilton &c), furnishes a
-mechanism to combine gravity and electromagnetism...
+mechanism which interrelates gravity and electromagnetism...
 </font>
 </div>
 The talk is gibberish to the Duke. The play of symbols, the
@@ -376,6 +369,12 @@ fingers and the crumbs assemble into a scone.
 dollop of negentropy," he says with a sheepish grin.
 
 Another lurch. Ellen wakes with three white hairs.
+
+<p align="center">
+  ⁂
+  </p>
+
+ʕ. **
 
 <p align="center">
   ⁂
