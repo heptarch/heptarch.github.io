@@ -374,7 +374,8 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
-ʕ. **
+ ʕ. *Whiffs of bloodlight from the mattered realm; and this was my
+ portion of all my labour.*
 
 <p align="center">
   ⁂
@@ -475,12 +476,14 @@ one molecule at a time, she teleports a demon out of otherspace.
  tetragrammaton, and bade him construct the great temple.
  Once complete, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
- miles away and replaced him as king! Curiosity, a right begoo." He
- removes his spectacles and dismounts.
+ miles away and replaced him as king! Curiosity is a right begoo. But
+ the Rabbis recognized him from some impoverished token of his
+ kingship, and restored him to the throne." He removes his spectacles
+ and dismounts.
 
-"Art thou Ashmedai?"
+"Art thou Ashmedai? Solomon? Or the rabbis?"
 
-He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
+He peeks out from behind the chair. "Ha! Are you Ellen Watson? Or a scone?"
 
 <!-- In Islamic tradition, Ashmedai—Prince of
  Demons—was trapped in a chamber of rock, encircled by iron
@@ -490,7 +493,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-ʕ. *They brought back Solomon who had been deposed, and gave him
+ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
 the chain whereon the ineffable Name of God had 
 been engraved. When Ashmedai entered the palace, he saw Solomon, and
