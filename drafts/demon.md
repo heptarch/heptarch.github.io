@@ -521,12 +521,14 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 ʕ. The sky dances with unfamiliar suns; the ocean a mirror of
 welcoming infinitude.
-She leaves her friends by the breakwater and enters the House.
+She leaves her friends by the breakwater to enter the House.
 
 <i>What have you found now?</i>
 
-As the lift begins its slow descent to the tunnels, she feels as if
-she is becoming her true self once more.
+Descending to the tunnels, she feels as if
+she is becoming her true self once more: a self which expands through
+the network of otherspace generators, negentropy reservoirs, in webs of undisentanglable
+complexity. They are preparing the carriage.
 
 <i>Child, what should you like to do?</i>
 
