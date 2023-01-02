@@ -514,7 +514,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  Stephenson, that commanding and self-willed presence, seems asleep.
  There is a bump from below, and a sound muffled by the vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
- continues dreaming of Welsh rarebit and rum.
+ continues dreaming of rarebit and hot rum.
 
 In the tunnels beneath Euston Square, a small traversable wormhole winks out of existence.
 
