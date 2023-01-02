@@ -546,7 +546,7 @@ Other shapes swim in that gloom; Solomon readies his procession.
 <b>Tilleadh.</b>
 </div>
 
-She will the see the stars again, in all their welcoming infinitude.
+Ellen will the see the stars again and again, in all their welcoming infinitude.
 
 <!-- ʕ. *They brought back the king who had been deposed, and gave him
 the anklet whereon the ineffable Name of God had been engraved, and
