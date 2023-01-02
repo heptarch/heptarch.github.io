@@ -374,7 +374,7 @@ Another lurch. Ellen wakes with three white hairs.
   ⁂
   </p>
 
- ʕ. *A pauper's bowl of bloodlight; and this was the portion of all my labour.*
+ ʕ. *A pauper's bowl of bloodlight on some distal vein; and this was the portion of all my labour.*
 
 <p align="center">
   ⁂
@@ -444,7 +444,7 @@ folds his hands in supplication. "Treasury, the GPO, have washed their
 hands of us. Our creditors have been disbursed. And your usually reliable stream of patents has,
 it seems, dried up." His eyes are kind. "Inspiration is fickler than luck. But
 perhaps—if only to satisfy my curiosity—you might explain what has
-occupied you these last six months. Think of it as a final report."
+occupied you these last six months. A final report."
 
 Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  does not." The Duke demurs. "As you did two years ago?"
