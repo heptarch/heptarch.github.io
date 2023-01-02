@@ -525,9 +525,8 @@ to a thousand tunnels, stretched in webs of otherspace and undisentanglable comp
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
-Ȣ. The door from Euston, one of a thousand doors in the corridor, one of
-a thousand corridors beneath Ashen House, threading the galaxy in webs
-of otherspace.
+Ȣ. The portal from Euston, one of a thousand portals dotted along the tunnel, one of
+a thousand tunnels intertwining the vast space beneath Ashen House.
 
 <i>Child, what should you like to do?</i>
 
