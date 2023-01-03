@@ -137,14 +137,14 @@ solid black; line-height:1.3;">
  <font size="-0.2">
 <b>A Unified Dynamical Theory of Gravitational and Electromagnetic Fields</b> <br>
 
-Maxwell's treatise of 1864 sought to explain the mutual influence of
-charged or magnetised bodies at a distance by the
-hypothesis of an electromagnetic field. I will essay the method of
-fields for Newtonian gravity, which not only provides a medium by
-which massive objects may act reciprocally upon one another when separated,
-but by the supposition of an additional spatial dimension (cf. Möbius,
+Maxwell's treatise of 1864 explained the mutual influence of
+charged or magnetised bodies at a distance by
+hypothesising an electromagnetic field. I will use adapt this method
+to Newton's law of gravity, which not only provides a medium for
+massive objects tp act reciprocally upon one another without action at
+a distance, but by supposing an additional spatial dimension (cf. Möbius,
 Riemann, Hamilton &c), furnishes a
-mechanism which interrelates gravity and electromagnetism...
+mechanism to unify gravity and electromagnetism...
 </font>
 </div>
 The talk is gibberish to the Duke. The play of symbols, the
