@@ -510,8 +510,9 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 *1875.* The clock of the Great Hall, set proudly in its armature of polished
  brass, seems immobile. The stationmaster
  dozes---trains delayed by fog---the motley of passengers drowse or
- read, their newspapers wilting with damp---lamps lit at midday---and even the bronze likeness of George
- Stephenson, Father of the Railway, that commanding and self-willed presence, is asleep.
+ read, their newspapers wilting with damp---lamps lit at midday---and
+ even the commanding and self-willed bronze likeness of George
+ Stephenson, Father of the Railway, is asleep.
  There is a low-pitched boom, muffled by vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and hot rum.
