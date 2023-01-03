@@ -398,7 +398,7 @@ solid black; line-height:1.3;">
 <i>Apr. 14.</i> Rumpelstiltskin in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
 
-<i>Apr. 15.</i> Rumpelstiltskin back in bedroom with particuarly outrageous
+<i>Apr. 15.</i> Back in bedroom with particuarly outrageous
 peruke. Expounds—in archaic legal terms—on extradimensional
 "tunnelling" with light. <br>
 
