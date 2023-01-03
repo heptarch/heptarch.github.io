@@ -533,7 +533,7 @@ Expanding through the network, she feels as if she is becoming her true self onc
 
 Ȣ. The portal leads to a twisted, lightless, and improbably vast space
 beneath Ashen House. Ellen wonders if it was not curiosity that led
-her here, but some sort of structural inevitability in the nature of
+her here, but some sort of structural inevitability in the fabric of
 things, a potential well deep enough to counter the barrier in otherspace...
 
 <!--The portal from Euston leads to a twisted, lightless and improbably
