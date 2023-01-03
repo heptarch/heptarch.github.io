@@ -127,7 +127,7 @@ They share a corker: a lass, no more
  next morning, curiosity more powerful than the biting lowland cold.
  
 Auld "Davie" Thomson, an immense, stentorian don who must stoop to enter
- the classroom, introduces the young "Miss Watson" as an
+ the classroom, introduces "Miss Watson" as an
  "exceedingly sharp pupil of the modern developments". He folds himself into a
  chair in the front row and tenderly motions her to begin.
  Miss Watson coughs nervously, and after another paternal nod,
