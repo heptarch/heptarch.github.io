@@ -507,12 +507,12 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1875.* The clock of the Great Hall seem frozen in its armature of polished
- brass. The stationmaster
- dozes---trains delayed by fog---a motley of passengers drowse or
- read, newspapers wilting with damp---lamps lit at midday---and even the bronze likeness of George
- Stephenson, that commanding and self-willed presence, seems asleep.
- There is a bump from below, and a sound muffled by the vapour.
+*1875.* The clock of the Great Hall, set proudly in its armature of polished
+ brass, seems frozen. The stationmaster
+ dozes---trains delayed by fog---the motley of passengers drowse or
+ read, their newspapers wilting with damp---lamps lit at midday---and even the bronze likeness of George
+ Stephenson, Father of the Railway, that commanding and self-willed presence, is asleep.
+ There is a low-pitched boom, muffled by the vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and hot rum.
 
@@ -531,7 +531,8 @@ to a thousand tunnels, stretched in webs of otherspace and undisentanglable comp
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
-Ȣ.
+Ȣ. The portal leads to a twisted, lightless, and improbably vast space
+beneath Ashen House.
 
 <!--The portal from Euston leads to a twisted, lightless and improbably
 vast space beneath Ashen House, where the king readies his procession.
