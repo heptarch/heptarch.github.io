@@ -443,7 +443,7 @@ solid black; line-height:1.3;">
  profligate and wastrel Lord, who giveth or taketh depending on his
  humour, and in whose service each of us is, from time to time, dragooned.
 
-A knock at the door. "Ah, Miss Watson. Come in." Ellen enters; the Duke
+A knock at the door. "Ah, Miss Watson. Come in." Ellen enters briskly; the Duke
 continues to gaze at Hawksmoor's giants. "I remember your talk at
 Aberdeen ten years ago. I understood nothing, except that, like Atlas, with a little
 leverage you could move the world." Ellen smiles. "No need for prevarication or
@@ -532,8 +532,9 @@ across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
 Ȣ. The portal leads to a twisted, lightless, and improbably vast space
-beneath Ashen House.
-
+beneath Ashen House. Ellen wonders if it was not curiosity that led
+her here, but some sort of structural inevitability, a potential well
+to counter the barrier in otherspace...
 
 <!--The portal from Euston leads to a twisted, lightless and improbably
 vast space beneath Ashen House, where the king readies his procession.
