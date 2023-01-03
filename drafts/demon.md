@@ -528,11 +528,21 @@ below the tubes.
 Once-Ellen has no body.
 It is a programmable supply of connections to the rest of universe, an
 attentional locus which can choose to concentrate, or spread, at will.
-It imagines raising an arm.
-At the speed of thought, dirt, water
-and air congeal sloppily into a limb.
+It imagines raising an arm; dirt, water and air congeal muddily into
+a limb.
+It imagines a fire; oxygen sublimes and ignites itself, while the
+surface of the chamber grows uniformly cold.
 
-moves at the speed of thought towards a sky, full of unfamiliar
+The locus splits and asks itself:
+
+*Child, what would you like?*
+
+<div style="text-align: right">
+*Tilleadh. I will see the stars again.*
+</div>
+
+And at the speed of thought, once-Ellen moves through the earth and
+water, the ash of plenum, towards a sky full of unfamiliar
 suns and welcoming in its infinitude.
 
 <!--Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
