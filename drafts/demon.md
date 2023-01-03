@@ -532,7 +532,7 @@ with an
 attentional locus that can choose to spread, concentrate or divide.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
-It imagines fire; oxygen sublimes and ignites, while the
+It imagines fire; oxygen bubbles and ignites, while the
 surface of the chamber grows uniformly cooler.
  Will dynamically constituting matter.
 
