@@ -512,7 +512,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  dozes---trains delayed by fog---the motley of passengers drowse or
  read, their newspapers wilting with damp---lamps lit at midday---and even the bronze likeness of George
  Stephenson, Father of the Railway, that commanding and self-willed presence, is asleep.
- There is a low-pitched boom, muffled by the vapour.
+ There is a low-pitched boom, muffled by vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and hot rum.
 
@@ -533,6 +533,7 @@ Expanding through the network, she feels as if she is becoming her true self onc
 
 Ȣ. The portal leads to a twisted, lightless, and improbably vast space
 beneath Ashen House.
+
 
 <!--The portal from Euston leads to a twisted, lightless and improbably
 vast space beneath Ashen House, where the king readies his procession.
