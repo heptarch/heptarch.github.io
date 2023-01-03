@@ -529,8 +529,8 @@ Once-Ellen has no body.
 It is a programmable supply of connections to the rest of universe, an
 attentional locus which can choose to concentrate, spread, and divide
 itself at will.
-It imagines raising an arm; dirt, water and air congeal muddily into
-a limb.
+It imagines raising an arm; dirt, water and air congeal into
+a muddy limb.
 It imagines a fire; oxygen sublimes and ignites itself, while the
 surface of the chamber grows uniformly cold.
 
