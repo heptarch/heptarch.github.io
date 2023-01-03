@@ -512,7 +512,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  dozes---trains delayed by fog---the motley of passengers drowse or
  read, their newspapers wilting with damp---naptha flares at midday---and
  even the bronze likeness of George
- Stephenson, that commanding and self-willed Father of Rail, sound asleep.
+ Stephenson, that commanding and self-willed Patrician of the Rail, sound asleep.
  There is a low-pitched explosion and a screech, muffled by vapour.
  The stationmaster turns in his chair, snores, mutters an imprecation, then
  continues dreaming of rarebit and hot rum.
