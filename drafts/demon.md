@@ -26,10 +26,9 @@ the terrors of the night.
 <div style="text-align: right"><i>Song of Songs</i>
 </div><br>
 
-<span style="padding-left: 40px; display:block">
+<!--<span style="padding-left: 40px; display:block">
 [It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time.
 </span>
-
 <div style="text-align: right">PlanetN9Ne
 </div><br>
 
