@@ -508,7 +508,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 *1875.* The clock of the Great Hall, set proudly in its armature of polished
  brass, seems immobile. The stationmaster
  dozes---trains delayed by fog---the motley of passengers drowse or
- read, their newspapers wilting with damp---naptha flares lit at midday---and
+ read, their newspapers wilting with damp---naptha flares at midday---and
  even the bronze likeness of George
  Stephenson, that commanding and self-willed statesman of the Rail, sound asleep.
  There is a low-pitched explosion and a screech, muffled by vapour.
