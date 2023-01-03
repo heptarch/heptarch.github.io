@@ -139,7 +139,7 @@ solid black; line-height:1.3;">
 
 Maxwell's treatise of 1864 explained the mutual influence of
 charged or magnetised bodies at a distance by
-hypothesising an electromagnetic field. I will use adapt this method
+hypothesising an electromagnetic field. I will adapt this method
 to Newton's law of gravity, which not only provides a medium for
 massive objects to act reciprocally upon one another without action at
 a distance, but by supposing an additional spatial dimension (cf. Möbius,
