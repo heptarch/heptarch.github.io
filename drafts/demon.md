@@ -512,7 +512,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  read, their newspapers wilting with damp---lamps lit at midday---and
  even the bronze likeness of George
  Stephenson, that commanding and self-willed statesman of the Railway, is asleep.
- There is a low-pitched boom, muffled by vapour.
+ There is a low-pitched explosion and a screech, muffled by vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and hot rum.
 
