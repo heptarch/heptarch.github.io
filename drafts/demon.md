@@ -491,7 +491,7 @@ one molecule at a time, she teleports a demon out of otherspace.
 As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
  that his spirit fled into the air on Solomon's return. But in Islamic
  tradition, he was trapped in a chamber of rock, encircled with iron
- shackles and tossed into the sea. A worthier fate, perhaps." He removes his spectacles and
+ shackles and tossed into the sea." He removes his spectacles and
  collapses melodramatically behind the chair.
 
 "Art thou Ashmedai?"
