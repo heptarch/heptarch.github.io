@@ -141,7 +141,7 @@ Maxwell's treatise of 1864 explained the mutual influence of
 charged or magnetised bodies at a distance by
 hypothesising an electromagnetic field. I will use adapt this method
 to Newton's law of gravity, which not only provides a medium for
-massive objects tp act reciprocally upon one another without action at
+massive objects to act reciprocally upon one another without action at
 a distance, but by supposing an additional spatial dimension (cf. Möbius,
 Riemann, Hamilton &c), furnishes a
 mechanism to unify gravity and electromagnetism...
@@ -393,8 +393,7 @@ Another lurch. Ellen wakes with three white hairs.
 solid black; line-height:1.3;">
 <font size="-0.2">
 
-<i>Apr. 7.</i> Third disquisition on scones and the "bedevilment of a
-mealy dumpling". <br>
+<i>Apr. 7.</i> Third disquisition on scones. <br>
 
 <i>Apr. 14.</i> Rumpelstiltskin in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
@@ -463,8 +462,8 @@ Ellen pauses. "Flashing light along Holborn. Some bounces back, some
  calibrated magnetic pulses, though we've had to extend
  governor theory considerably to perform them."
  The Duke: "No, I mean, how do you receive instructions? From who? To what
- end?" Ellen wrinkles her nose. "I was using this scheme
- to learn the shape of the artifact by Chancery Lane. I use 'instructions' figuratively."
+ end?" Ellen wrinkles her nose. "I use 'instructions'
+ figuratively. The scheme 'tells me' the shape of the artifact by Chancery Lane."
 Westminster Abbey, GPO, the House of Lords, even Madras, fade from the
 Duke's mind, resolved into a single question that
 will haunt him until he dies: "What *is* it Ellen?" Her nose
@@ -542,7 +541,7 @@ The locus splits and asks:
 <i>Tilleadh. I will see the stars again.</i>
 </div>
 
-And at the speed of thought, once-Ellen moves through the earth and
+And at the speed of thought, once-Ellen moves through earth and
 water, the ash of plenum, towards a sky full of unfamiliar
 suns and welcoming in its infinitude.
 
