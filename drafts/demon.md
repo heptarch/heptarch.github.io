@@ -536,7 +536,7 @@ surface of the chamber grows uniformly cool.
 
 The locus splits and asks itself:
 
-*Child, what would you like?*
+*Child, what sould you like to do?*
 
 <div style="text-align: right">
 <i>Tilleadh. I will see the stars again.</i>
