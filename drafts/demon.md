@@ -525,7 +525,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 Ȣ. The-thing-that-was-once-Ellen wakes up in the twisted, lightless,
 and improbably vast space it has been growing, hundreds of miles
-below the tubes.
+below the tunnels.
 Once-Ellen has no body.
 It is a programmable supply of connections to the rest of universe,
 with an
