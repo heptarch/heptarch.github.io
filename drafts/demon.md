@@ -393,7 +393,8 @@ Another lurch. Ellen wakes with three white hairs.
 solid black; line-height:1.3;">
 <font size="-0.2">
 
-<i>Apr. 7.</i> Third disquisition on scones. <br>
+<i>Apr. 7.</i> Third disquisition on scones and the "bedevilment of a
+mealy dumpling". <br>
 
 <i>Apr. 14.</i> Rumpelstiltskin in some other part of the Ashen House—hear
 various "Ha!"s. Find him trying on legal wigs. <br>
@@ -521,7 +522,15 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ȣ. 
+Ȣ. The-thing-that-was-once-Ellen awakes in the twisted, lightless,
+and improbably vast space it has been growing, hundreds of miles
+below the tubes.
+Once-Ellen has no body.
+It is a programmable supply of connections to the rest of universe, an
+attentional locus which can choose to concentrate, or spread, at will.
+It imagines raising an arm.
+At the speed of thought, dirt, water
+and air congeal sloppily into a limb.
 
 moves at the speed of thought towards a sky, full of unfamiliar
 suns and welcoming in its infinitude.
