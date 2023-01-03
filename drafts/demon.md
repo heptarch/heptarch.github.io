@@ -544,8 +544,8 @@ The locus splits and asks itself:
 
 And at the speed of thought, once-Ellen moves through earth and
 water, the ash of plenum, past the warren of despatch tubes and the
-Great Hall itself in all its soporific grandeur, towards a sky full of unfamiliar
-suns and welcoming in its infinitude.
+Great Hall, in all its soporific grandeur, towards an endless sky, <!-- full of unfamiliar
+suns and--> welcoming in its infinitude.
 
 <!--Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
 Ellen leaves her new friends by the breakwater and returns to the tunnels beneath
