@@ -509,8 +509,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 
 *1876.* The hands of the Great Hall's chronometer, in its proud armature of polished
  brass, seem immobile. The stationmaster
- dozes---trains delayed by fog---the motley of passengers drowse or
- read, their newspapers wilting with damp---naptha flares at midday---and
+ dozing---trains delayed by fog---the motley of passengers adrowse or
+ reading, their newspapers wilting with damp---naptha flares at midday---and
  even the bronze likeness of George
  Stephenson, that commanding and self-willed Patrician of the Rail, sound asleep.
  A harrowing, low-pitched screech is muffled by the vapour.
