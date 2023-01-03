@@ -535,7 +535,7 @@ With practice, it will look however once-Ellen chooses.
 It imagines a fire; oxygen sublimes and ignites itself, while the
 surface of the chamber grows uniformly cold.
 
-The locus splits and asks itself:
+The locus splits and asks:
 
 *Child, what would you like?*
 
