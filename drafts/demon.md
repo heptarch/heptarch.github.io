@@ -527,7 +527,8 @@ and improbably vast space it has been growing, hundreds of miles
 below the tubes.
 Once-Ellen has no body.
 It is a programmable supply of connections to the rest of universe, an
-attentional locus which can choose to concentrate, or spread, at will.
+attentional locus which can choose to concentrate, spread, and divide
+itself at will.
 It imagines raising an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines a fire; oxygen sublimes and ignites itself, while the
