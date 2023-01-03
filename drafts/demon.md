@@ -530,7 +530,7 @@ attentional locus that can choose to concentrate, spread, and divide
 itself at will.
 It imagines raising an arm; dirt, water and air congeal muddily into
 a limb.
-It imagines a fire; oxygen sublimes and ignites itself, and the
+It imagines a fire; oxygen sublimes and ignites, while the
 surface of the chamber grows uniformly cool.
 
 The locus splits and asks:
