@@ -507,8 +507,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1876.* The clock of the Great Hall, in its proud armature of polished
- brass, seems immobile. The stationmaster
+*1876.* The hands on the Great Hall's clock, in its proud armature of polished
+ brass, seem immobile. The stationmaster
  dozes---trains delayed by fog---the motley of passengers drowse or
  read, their newspapers wilting with damp---naptha flares at midday---and
  even the bronze likeness of George
