@@ -508,10 +508,10 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 *1875.* The clock of the Great Hall, set proudly in its armature of polished
  brass, seems immobile. The stationmaster
  dozes---trains delayed by fog---the motley of passengers drowse or
- read, their newspapers wilting with damp---lamps lit at midday---and
+ read, their newspapers wilting with damp---naptha flares lit at midday---and
  even the bronze likeness of George
- Stephenson, that commanding and self-willed statesman of the Railway, is asleep.
- There is a low-pitched explosion and a screech, both muffled by vapour.
+ Stephenson, that commanding and self-willed statesman of the Rail, sound asleep.
+ There is a low-pitched explosion and a screech, muffled by vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and hot rum.
 
@@ -522,6 +522,9 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   </p>
 
 Ȣ. 
+
+moves at the speed of thought towards a sky, full of unfamiliar
+suns and welcoming in its infinitude.
 
 <!--Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
 Ellen leaves her new friends by the breakwater and returns to the tunnels beneath
