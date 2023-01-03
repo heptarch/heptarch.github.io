@@ -534,7 +534,7 @@ It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen sublimes and ignites, while the
 surface of the chamber grows uniformly cooler.
- Will dynamically constituting matter.
+Thought dynamically constituting matter.
 
 The locus splits and asks itself:
 
