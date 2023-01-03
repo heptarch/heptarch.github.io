@@ -212,7 +212,7 @@ of a teapot or a fireplace with which we are all familiar, and
 therefore strike us as too commonplace to merit discussion. Heat
 lives in the realm of measurable phenomena; its very sensibility is
 evidence of its effects. If measurable, it must admit of precise
-determination. In these lectures, we will learn the means by which these
+determination. In these lectures, we will learn how these
 determinations are made, and the physical basis on which they rest. We
 will cover thermometry, calorimetry, and the basic dynamical
 principles governing the evolution of a thermodynamic system---like our
@@ -377,7 +377,7 @@ the Ashen House. Ha!"
 The little man clicks his
 fingers and the crumbs assemble into a scone.
 <!--The logs in the fire crackle and brightly unburn.--> "I may have borrowed a
-dollop of negentropy," he says with a sheepish grin.
+dollop of negentropy," he says sheepishly.
 
 Another lurch. Ellen wakes with three white hairs.
 
@@ -412,7 +412,7 @@ discharge?)--> Stops to construct a "Brownian clock" from dust he has found bene
 
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". Describes how to record
-outgoing polarizations into ethylene colloid, and communicate
+outgoing polarizations into ethylene, and communicate
 using barrier itself: "Why, I just wobble and squeeze the breakwater, like
 an accordion. Ha!"
 </font>
