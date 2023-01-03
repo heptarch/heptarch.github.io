@@ -516,7 +516,6 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  A harrowing, low-pitched screech is muffled by the vapour.
  The stationmaster turns in his chair, mutters an imprecation upon cheese, and
  continues dreaming of rarebit and hot rum.
- Will dynamically constituting matter.
 
 <!--In the tunnels beneath Euston Square, a wormhole winks out of existence.-->
 
@@ -535,6 +534,7 @@ It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen sublimes and ignites, while the
 surface of the chamber grows uniformly cooler.
+ Will dynamically constituting matter.
 
 The locus splits and asks itself:
 
