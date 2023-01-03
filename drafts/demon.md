@@ -17,14 +17,13 @@ Whole avenues of universes...
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
 </div><br>-->
 
-<span style="padding-left: 40px; display:block">
+<!--<span style="padding-left: 40px; display:block">
 Behold! Solomon's procession, accompanied by sixty warriors, the noblest of
 Israel, armed against
 the terrors of the night.
 </span>
-
 <div style="text-align: right"><i>Song of Songs</i>
-</div><br>
+</div><br> -->
 
 <!--<span style="padding-left: 40px; display:block">
 [It] will be like herding cats, ferrets, badgers, spiders, zebras, slime molds, tapeworms, rotifers and cthulhus all at the same time.
@@ -512,7 +511,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  read, their newspapers wilting with damp---lamps lit at midday---and
  even the bronze likeness of George
  Stephenson, that commanding and self-willed statesman of the Railway, is asleep.
- There is a low-pitched explosion and a screech, muffled by vapour.
+ There is a low-pitched explosion and a screech, both muffled by vapour.
  The stationmaster turns in his chair, mutters some imprecation, and
  continues dreaming of rarebit and hot rum.
 
@@ -522,6 +521,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
+Ȣ. 
+
 <!--Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
 Ellen leaves her new friends by the breakwater and returns to the tunnels beneath
 the House.
@@ -530,8 +531,6 @@ One of a thousand doors leads to Euston; each door leading
 to a thousand tunnels, stretched in webs of otherspace and undisentanglable complexity
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
-
-Ȣ. 
 
 <!--Ellen wonders if it was not curiosity that led
 her here, but some sort of structural inevitability in the fabric of
