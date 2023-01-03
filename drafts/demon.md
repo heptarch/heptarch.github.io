@@ -70,8 +70,9 @@ found now?"
 
 *1874.* The General Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
-£200,000 to build a distribution system of <!--mile-long--> underground tunnels, threaded
-by narrow gauge rail, emptied by 20-foot wide iron turbines, and shooting capsules like bullets with inrushing air.
+£200,000 to build an underground distribution system: <!--mile-long-->
+tunnels of narrow gauge rail, emptied by 20-foot wide iron turbines,
+and shooting capsules like bullets with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office, a third of a mile hence.
 The tubes make it past Holborn, and as far as the General Post Office on St Martin's
