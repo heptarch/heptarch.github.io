@@ -492,7 +492,7 @@ As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
  that his spirit fled into the air on Solomon's return. Perhaps he
  tired of the game and longed for freedom... In the Islamic
  tradition, he was trapped in a chamber of rock, encircled with iron
- shackles and cast into the sea." He removes his spectacles and
+ shackles and cast into the sea. Like us!" He removes his spectacles and
  collapses melodramatically behind the chair.
 
 "Art thou Ashmedai?"
