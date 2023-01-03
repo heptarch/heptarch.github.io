@@ -525,15 +525,14 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 and improbably vast space it has been growing, hundreds of miles
 below the tubes.
 Once-Ellen has no body.
-It is a programmable supply of connections to the rest of universe, with an
-attentional locus that can choose to concentrate, spread, and divide
-itself at will.
+It is a programmable supply of connections to the rest of universe with an
+attentional locus that can choose to spread, concentrate or divide at will.
 It imagines raising an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines a fire; oxygen sublimes and ignites, while the
 surface of the chamber grows uniformly cool.
 
-The locus splits and asks:
+The locus splits and asks itself:
 
 *Child, what would you like?*
 
