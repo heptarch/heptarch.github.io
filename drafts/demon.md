@@ -489,8 +489,8 @@ one molecule at a time, she teleports a demon out of otherspace.
  the Rabbis recognized him from some impoverished token of his
  kingship.
 As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
- that his spirit fled into the air on Solomon's return. Perhaps he tired of his
- false crown and wanted to be free... In the Islamic
+ that his spirit fled into the air on Solomon's return. Perhaps he
+ tired of the game and longed for freedom... In the Islamic
  tradition, he was trapped in a chamber of rock, encircled with iron
  shackles and cast into the sea." He removes his spectacles and
  collapses melodramatically behind the chair.
