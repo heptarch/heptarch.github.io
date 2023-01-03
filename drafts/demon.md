@@ -531,8 +531,9 @@ to a thousand tunnels, stretched in webs of otherspace and undisentanglable comp
 across the bright whorl of the galaxy.
 Expanding through the network, she feels as if she is becoming her true self once more.-->
 
-Ȣ. The portal leads to a twisted, lightless, and improbably vast space
-beneath Ashen House. Ellen wonders if it was not curiosity that led
+Ȣ. 
+
+<!--Ellen wonders if it was not curiosity that led
 her here, but some sort of structural inevitability in the fabric of
 things, a potential well deep enough to counter the barrier in otherspace...
 
