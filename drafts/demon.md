@@ -516,6 +516,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  A harrowing, low-pitched screech is muffled by the vapour.
  The stationmaster turns in his chair, mutters an imprecation upon cheese, and
  continues dreaming of rarebit and hot rum.
+ Will dynamically constituting matter.
 
 <!--In the tunnels beneath Euston Square, a wormhole winks out of existence.-->
 
