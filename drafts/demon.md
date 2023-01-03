@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "The King of Ashen House"
+title:  "King of the Ashen House"
 categories:
 date:  2023-01-01
 ---
