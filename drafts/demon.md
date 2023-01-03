@@ -529,9 +529,9 @@ below the tubes.
 Once-Ellen has no body.
 It is a programmable supply of connections to the rest of universe, an
 attentional locus that can choose to spread, concentrate or divide at will.
-It imagines raising an arm; dirt, water and air congeal muddily into
+It imagines an arm; dirt, water and air congeal muddily into
 a limb.
-It imagines a fire; oxygen sublimes and ignites, while the
+It imagines fire; oxygen sublimes and ignites, while the
 surface of the chamber grows uniformly cooler.
 
 The locus splits and asks itself:
