@@ -507,14 +507,15 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1875.* The hands of the Great Hall's chronometer, in its proud armature of polished
- brass, seem immobile. The stationmaster
+*1875.* The hands of the Great Hall's chronometer, proud in its armature of polished
+ brass, are immobile. The stationmaster
  dozes---trains delayed by fog---the motley of passengers adrowse or
  reading, their newspapers wilted with damp---naptha flares at midday---and
  even the bronze likeness of George
- Stephenson, that commanding and self-willed Patrician of the Rail, sound asleep.
- A harrowing, low-pitched screech is muffled by the vapour.
- The stationmaster turns in his chair, mutters an imprecation upon cheese, and
+ Stephenson, that commanding and self-willed Patrician of the Rail, seems asleep.
+ <!--A harrowing, low-pitched screech is muffled by the vapour.Replace screech with description of flames vibrating, sense of a shadow passing-->
+A shadow passes through the Hall, tugging at the flames and stirring dust in the corners.
+The stationmaster turns in his chair, mutters an imprecation upon cheese, and
  continues dreaming of rarebit and hot rum.
 
 <!--In the tunnels beneath Euston Square, a wormhole winks out of existence.-->
@@ -533,10 +534,10 @@ attentional locus that can choose to spread, concentrate or divide.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen bubbles and ignites, while the
-surface of the chamber grows uniform and cool.
- Will dynamically constituting matter.
+surface of the chamber grows cooler uniformly.
+ Will dynamically constituting itself in matter.
 
-The locus splits and asks itself:
+The locus splits, with one past asking:
 
 *Child, what should you like to do?*
 
