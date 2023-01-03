@@ -533,7 +533,7 @@ attentional locus that can choose to spread, concentrate or divide.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen bubbles and ignites, while the
-surface of the chamber grows uniformly cooler.
+surface of the chamber grows uniform and cool.
  Will dynamically constituting matter.
 
 The locus splits and asks itself:
