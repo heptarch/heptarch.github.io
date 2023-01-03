@@ -540,7 +540,7 @@ The locus splits and asks:
 *Child, what would you like?*
 
 <div style="text-align: right">
-*Tilleadh. I will see the stars again.*
+<i>Tilleadh. I will see the stars again.</i>
 </div>
 
 And at the speed of thought, once-Ellen moves through the earth and
