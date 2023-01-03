@@ -522,7 +522,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-Ȣ. The-thing-that-was-once-Ellen awakes in the twisted, lightless,
+Ȣ. The-thing-that-was-once-Ellen waks up in the twisted, lightless,
 and improbably vast space it has been growing, hundreds of miles
 below the tubes.
 Once-Ellen has no body.
