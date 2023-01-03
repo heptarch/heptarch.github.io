@@ -402,7 +402,7 @@ various "Ha!"s. Find him trying on legal wigs. <br>
 
 <i>Apr. 15.</i> Rumpelstiltskin back in bedroom with particuarly outrageous
 peruke. Expounds—in archaic legal terms—on extradimensional
-scattering and "tunnelling" with light. <br>
+"tunnelling" with light. <br>
 
 <i>Apr. 17.</i> Shares a method to remember the future, but
 details elude me. <br>
