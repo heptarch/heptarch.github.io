@@ -413,7 +413,7 @@ discharge?)--> Stops to construct a "Brownian clock" from dust he has found bene
 <i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
 begoo". Describes how to record
 outgoing polarizations into ethylene, and communicate
-using barrier itself: "Why, I just wobble and squeeze the breakwater, like
+using barrier: "Why, I just wobble and squeeze the breakwater, like
 an accordion. Ha!"
 </font>
 </div>
