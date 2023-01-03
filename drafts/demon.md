@@ -513,7 +513,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  read, their newspapers wilting with damp---naptha flares at midday---and
  even the bronze likeness of George
  Stephenson, that commanding and self-willed Patrician of the Rail, sound asleep.
- There is a harrowing, low-pitched screech, but it is muffled by vapour.
+ A harrowing, low-pitched screech is muffled by the tvapour.
  The stationmaster turns in his chair, mutters an imprecation upon cheese, then
  continues dreaming of rarebit and hot rum.
 
