@@ -543,7 +543,8 @@ The locus splits and asks itself:
 </div>
 
 And at the speed of thought, once-Ellen moves through earth and
-water, the ash of plenum, towards a sky full of unfamiliar
+water, the ash of plenum, past the warren of despatch tubes and the
+Great Hall itself in all its soporific grandeur, towards a sky full of unfamiliar
 suns and welcoming in its infinitude.
 
 <!--Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
