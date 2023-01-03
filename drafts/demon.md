@@ -529,12 +529,12 @@ below the tunnels.
 Once-Ellen has no body.
 It is a programmable supply of connections to the rest of universe,
 with an
-attentional locus that can choose to spread, concentrate or divide at will.
+attentional locus that can choose to spread, concentrate or divide.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen sublimes and ignites, while the
 surface of the chamber grows uniformly cooler.
-Thought dynamically constituting matter.
+ Will dynamically constituting matter.
 
 The locus splits and asks itself:
 
