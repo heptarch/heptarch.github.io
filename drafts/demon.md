@@ -513,8 +513,8 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
  reading, their newspapers wilted with damp---naptha flares at midday---and
  even the bronze likeness of George
  Stephenson, that commanding and self-willed Patrician of the Rail, sound asleep.
- A harrowing, low-pitched screech is muffled by the vapour.
- The stationmaster turns in his chair, mutters an imprecation upon cheese, then
+ A low-pitched boom is muffled by the vapour.
+ The stationmaster turns in his chair, mutters an imprecation upon cheese, and
  continues dreaming of rarebit and hot rum.
 
 <!--In the tunnels beneath Euston Square, a wormhole winks out of existence.-->
