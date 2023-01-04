@@ -91,7 +91,7 @@ Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
 A young woman is rumored to wander about
 and attend to the machines.
-When the network is abandoned, a larger enterprise continues.
+When the network is abandoned, a larger enterprise will continue.
 
 <!--ʕ. The darkness moves from system to system, a trail of dead stars in its wake.-->
 
