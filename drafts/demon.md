@@ -289,13 +289,13 @@ She is about to start the vacuum cycle, but intuition---that
 melodious voice which, not hers, has yet always accompanied
 her---suggests to check the readings again.
 There is a small discrepancy from the Holborn interferometer.
-She does a quick calculation---guided by the voice---and finds the
+She does a quick calculation and finds the
 results are consistent with reversing one of the polarizations.
 
 She knows the arrangement of reflectors better than the
 veins in her hand; a stray reflection is impossible.
 She pauses for a moment.
-Parsimony suggests that it is not a stray reflection, but a mirror in
+Parsimony suggests that it is not a stray reflection, but a mirror, in
 some "otherspace" she cannot see.
 Ellen gathers her lamp, compass, and notepad, and tramps off into
 the tunnels to learn the precise bearings of the fourth dimension.
@@ -506,14 +506,15 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
   ⁂
   </p>
 
-*1875.* The hands of the Great Hall's chronometer, proud in its armature of polished
- brass, are immobile. The stationmaster
+*1875.* The hands of the Great Hall's chronometer
+<!--, proud in its armature of polished
+ brass,--> are immobile. The stationmaster
  dozes---trains delayed by fog---the motley of passengers adrowse or
  reading, their newspapers wilted with damp---naptha flares at midday---and
  even the bronze likeness of George
- Stephenson, that commanding and self-willed Patrician of the Rail, seems asleep.
+ Stephenson, that commanding and self-willed patriarch of the railway, seems asleep.
  <!--A harrowing, low-pitched screech is muffled by the vapour.Replace screech with description of flames vibrating, sense of a shadow passing-->
-A shadow passes through the Hall, tugging at the flames and stirring dust in the corners.
+A shadow passes through the Hall, tugging at flames and stirring dust in the corners.
 The stationmaster turns in his chair, mutters an imprecation upon cheese, and
  continues dreaming of rarebit and hot rum.
 
@@ -528,7 +529,7 @@ and improbably vast space it has been growing, hundreds of miles
 below the tunnels.
 Once-Ellen has no body.
 It is a programmable bundle of threads, interwoven with the rest of universe;
-from that bundle emerges an attentional locus that can choose to
+from that bundle emerges an attentional locus that can
 spread, concentrate or divide, like colours on a loom.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
