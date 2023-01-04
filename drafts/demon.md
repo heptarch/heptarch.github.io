@@ -528,9 +528,8 @@ The stationmaster turns in his chair, mutters an imprecation upon cheese, and
 and improbably vast space it has been growing, hundreds of miles
 below the tunnels.
 Once-Ellen has no body.
-It is a programmable supply of connections to the rest of universe,
-with an
-attentional locus that can choose to spread, concentrate or divide.
+It is a programmable bundle of threads, interwoven with the rest of universe;
+from that bundle emerges an attentional locus that can choose to spread, concentrate or divide.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen bubbles and ignites, while the
