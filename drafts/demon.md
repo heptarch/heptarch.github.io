@@ -74,7 +74,7 @@ Pneumatic Despatch Company the extravagant sum of
 tunnels of narrow gauge rail, emptied by 20-foot wide iron turbines,
 and shooting capsules like bullets with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
-West District Post Office, a third of a mile hence.
+West District Post Office. <!--, a third of a mile hence.-->
 The tubes make it past Holborn, and as far as the General Post Office on St Martin's
 le Grand, a few years later and miles southwest, before arriving at
 their ultimate terminus: a bear market. Although the Post
@@ -84,14 +84,14 @@ But a company ambitious enough to propose a subterranean network of
 pneumatic tubes cannot reasonably be expected to stop there.
 Visitors to the diggings are confused by seemingly unnecessary
 tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus unconnected to the turbines and the cacophonous
+pieces of apparatus unconnected to the turbines or the cacophonous
 engines which drive them.
 Engineers and builders are given only fragments of the blueprint.
 Questions about other sections are at first politely, then firmly,
 discouraged, and those who keep asking are let go.
 A young woman is rumored to wander about
 and attend to the machines.
-The network is abandoned, but a larger enterprise continues.
+When the network is abandoned, a larger enterprise continues.
 
 <!--ʕ. The darkness moves from system to system, a trail of dead stars in its wake.-->
 
@@ -138,13 +138,12 @@ solid black; line-height:1.3;">
  <font size="-0.2">
 <b>A Unified Dynamical Theory of Gravitational and Electromagnetic Fields</b> <br>
 
-Maxwell's treatise of 1864 explained the mutual influence of
-charged or magnetised bodies at a distance by the
-hypothesis of an electromagnetic field. I will adapt this method
-to Newton's law of gravity, which not only provides a medium for
-massive objects to act reciprocally upon one another, without action at
-a distance, but by supposing an additional spatial dimension (cf. Möbius,
-Riemann, Hamilton &c), furnishes a
+Maxwell's treatise of 1864 explains the mutual influence of
+charged or magnetised bodies by hypothesizing an electromagnetic field.
+I posit a gravitational field to explain Newton's law of gravity
+without action at a distance.
+By supposing an additional spatial dimension (cf. Möbius,
+Riemann, Hamilton &c), this also furnishes a
 mechanism to unify gravity and electromagnetism...
 </font>
 </div>
@@ -529,14 +528,15 @@ and improbably vast space it has been growing, hundreds of miles
 below the tunnels.
 Once-Ellen has no body.
 It is a programmable bundle of threads, interwoven with the rest of universe;
-from that bundle emerges an attentional locus that can choose to spread, concentrate or divide.
+from that bundle emerges an attentional locus that can choose to
+spread, concentrate or divide, like colours on a loom.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen bubbles and ignites, while the
-surface of the chamber grows cooler uniformly.
- Will dynamically constituting itself in matter.
+surface of the chamber grows cooler uniform.
+<!-- Will dynamically constituting itself in matter.-->
 
-The locus splits, with one part asking:
+The locus splits and asks itself:
 
 *Child, what should you like to do?*
 
