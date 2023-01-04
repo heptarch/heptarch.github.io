@@ -508,7 +508,7 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 <!--, proud in its armature of polished
  brass,--> are immobile. The stationmaster
  dozes---trains delayed by fog---the motley of passengers asleep or
- reading, newspapers wilted with damp---naptha flares at midday---and
+ reading, their newspapers wilted with damp---naptha flares at midday---and
  even the bronze likeness of George
  Stephenson, that commanding and self-willed patriarch of the Rail,
  seems drowsy.
