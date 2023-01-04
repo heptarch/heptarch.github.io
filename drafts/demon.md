@@ -479,18 +479,18 @@ one molecule at a time, she teleports a demon out of otherspace.
  and mounts the back of the armchair like a lectern. "According to
  Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—with a chain and anklet graven with the
  tetragrammaton, and bade him construct the great temple.
- Once complete, Solomon removed the bindings to see a further
+ Once it was finished, Solomon removed the bindings to see a further
  demonstration of the demon's powers. Ashmedai flung him a thousand
  miles away and usurped him as king! Curiosity is a right begoo.
 
 "But
- the Rabbis recognized him from some impoverished token of his
- kingship.
+ the Rabbis recognized Solomon from some impoverished token of his
+ kingship and restored him.
 As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
- that his spirit fled into the air on Solomon's return. Perhaps he
- tired of the caper and longed for adventure... In the Islamic
+ that his spirit fled into the air. Perhaps he
+ tired of the caper and longed for adventure... In Islamic
  tradition, he was trapped in a chamber of rock, encircled with iron
- shackles and cast into the sea." He removes his spectacles and
+ shackles and cast into the sea. A bit like the Ashen House!" He removes his spectacles and
  collapses melodramatically behind the chair.
 
 "Art thou Ashmedai?"
