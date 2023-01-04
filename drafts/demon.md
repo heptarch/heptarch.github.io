@@ -139,11 +139,10 @@ solid black; line-height:1.3;">
 <b>A Unified Dynamical Theory of Gravitational and Electromagnetic Fields</b> <br>
 
 Maxwell's treatise of 1864 explains the mutual influence of
-charged or magnetised bodies by hypothesizing an electromagnetic field.
-I posit a gravitational field to explain Newton's law of gravity
-without action at a distance.
-By supposing an additional spatial dimension (cf. Möbius,
-Riemann, Hamilton &c), this also furnishes a
+charged or magnetised bodies, without action at a distance, by hypothesizing an electromagnetic field.
+Analogously, I posit a gravitational field to explain Newton's law of gravity.
+In addition, by supposing an additional spatial dimension (cf. Möbius,
+Riemann, Hamilton &c), this furnishes a
 mechanism to unify gravity and electromagnetism...
 </font>
 </div>
