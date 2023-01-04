@@ -508,10 +508,11 @@ He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
 *1875.* The hands of the Great Hall's chronometer
 <!--, proud in its armature of polished
  brass,--> are immobile. The stationmaster
- dozes---trains delayed by fog---the motley of passengers adrowse or
+ dozes---trains delayed by fog---the motley of passengers asleep or
  reading, newspapers wilted with damp---naptha flares at midday---and
  even the bronze likeness of George
- Stephenson, that commanding and self-willed patriarch of the Rail, asleep.
+ Stephenson, that commanding and self-willed patriarch of the Rail,
+ seems drowsy.
  <!--A harrowing, low-pitched screech is muffled by the vapour.Replace screech with description of flames vibrating, sense of a shadow passing-->
 A shadow passes through the Hall, tugging at flames and stirring dust in the corners.
 The stationmaster turns in his chair, mutters an imprecation upon cheese, and
