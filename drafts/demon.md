@@ -71,7 +71,7 @@ found now?"
 *1874.* The General Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of
 £200,000 to build an underground distribution system: <!--mile-long-->
-tunnels of narrow gauge rail, emptied by 20-foot wide iron turbines,
+tunnels of narrow gauge rail, emptied by 20-foot wide iron turbines
 and shooting capsules like bullets with inrushing air.
 Construction commences in 1863 with a successful test run between Euston Square and the North
 West District Post Office. <!--, a third of a mile hence.-->
@@ -164,8 +164,8 @@ later describe as "inspired lunacy". Ellen accepts.
   ⁂
   </p>
 
-*1861.* The study overlooks the gentle slopes of Kilspindie glen. The
- reverend leans on his chestnut bureau: a hymnary, some notes in Gaelic,
+*1861.* The study overlooks the gentle slopes of Kilspindie
+ glen. Reverend Dewar leans on his chestnut bureau: a hymnary, some notes in Gaelic,
  a lump of amygdule sparkling with calcite. His eyes are kind.
  "Child, what should you like to do? The schoolmaster tells me he can
  teach you nothing."
