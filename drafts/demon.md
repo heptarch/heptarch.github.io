@@ -534,7 +534,7 @@ spread, concentrate or divide, like colours on a loom.
 It imagines an arm; dirt, water and air congeal muddily into
 a limb.
 It imagines fire; oxygen bubbles and ignites, while the
-surface of the chamber grows cooler uniform.
+surface of the chamber grows cooler uniformly.
 <!-- Will dynamically constituting itself in matter.-->
 
 The locus splits and asks itself:
