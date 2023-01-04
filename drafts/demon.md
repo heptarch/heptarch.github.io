@@ -537,7 +537,7 @@ It imagines fire; oxygen bubbles and ignites, while the
 surface of the chamber grows cooler uniformly.
  Will dynamically constituting itself in matter.
 
-The locus splits, with one past asking:
+The locus splits, with one part asking:
 
 *Child, what should you like to do?*
 
