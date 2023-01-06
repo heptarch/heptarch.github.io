@@ -5,9 +5,10 @@ permalink: /projects/
 ---
 
 This page is under construction.
-For research, see
+See
 [Inspire HEP](https://inspirehep.net/authors/1868975) or
-[Google Scholar](https://scholar.google.com/citations?user=WAgYEwYAAAAJ&hl=en).
+[Google Scholar](https://scholar.google.com/citations?user=WAgYEwYAAAAJ&hl=en)
+for research.
 
 <div class="wrap">
   <a href="#" class="tile tile-small">
