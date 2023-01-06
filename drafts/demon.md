@@ -486,7 +486,7 @@ one molecule at a time, she teleports a demon out of otherspace.
 
 "But
  the Rabbis recognized Solomon from some impoverished token of his
- kingship and restored him.
+ kingship.
 As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
  that his spirit fled into the air. In Islamic
  tradition, he was trapped in a chamber of rock, encircled with iron
