@@ -37,14 +37,10 @@ $$
 For a symmetric kernel $K(x, y) = K(y, x)$ and $\Omega_1 = \Omega_2
 = \Omega$, we have $T_1 = T_2 = T$, and our result simplifies to
 
-<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
-solid purple; line-height:1.5">
-<b>Symmetric kernel trick</b>
 $$
 \int_{\Omega} f(x) \cdot Tg(x)\, \text{d}x = \int_{\Omega} Tf(y) \cdot g(y)\,
-\text{d}y. \tag{1}
+\text{d}y.
 $$
-</div>
 
 From a pure math standpoint, we've basically just observed that the integral transforms
 $T_1$ and $T_2$ are dual,
@@ -125,8 +121,8 @@ I call this the
 the
 [related convolution in spectroscopy](https://en.wikipedia.org/wiki/Voigt_profile).
 
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid
-green; line-height:1.5">
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid
+purple; line-height:1.5">
 <b>Exercise 1.</b> The <i>Hankel transform</i>
 
 $$
@@ -144,7 +140,7 @@ the first kind</i> of order $\nu$.
 $$
 \int_0^\infty k \mathcal{H}^{(\nu)}\left[\frac{f(r)}{r}\right](k) g(k)
 \, \text{d}k = \int_0^\infty f(k)\mathcal{H}^{(\nu)}g (k)\,
-\text{d}k. \tag{2} \label{hankel}
+\text{d}k. \tag{1} \label{hankel}
 $$
 
 (b) Apply $(\ref{hankel})$ to a judicious choice of Hankel transform
@@ -200,13 +196,13 @@ h(z; \tau) & = \frac{\sqrt{\pi}}{\sqrt{-i\alpha}}\int_{-\infty}^\infty
 \frac{e^{-i\pi u^2/\tau+2\pi zu/\tau}}{\cosh(\pi u)} \, \text{d}u \\
 & = \frac{2\pi^{3/2}e^{i\pi z^2/\tau}}{\sqrt{-i\alpha}}
 h\left(-\frac{z}{\tau};
--\frac{1}{\tau}\right). \tag{3}\label{h}
+-\frac{1}{\tau}\right). \tag{2}\label{h}
 \end{align*}
 $$
 
 This seems like a neat result!
 
-<div style="background-color: #cfc ; padding: 10px; border: 1px solid green; line-height:1.5">
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px solid purple; line-height:1.5">
 <b>Exercise 2.</b> Ramanujan defined the related integral
 
 $$
@@ -229,7 +225,7 @@ related by
 
 $$
 F_{-i\tau}(2iz) =
-\frac{1}{2i\tau}\left[\varphi(z, t) - \varphi(-z, \tau)\right]. \tag{4} \label{varphi}
+\frac{1}{2i\tau}\left[\varphi(z, t) - \varphi(-z, \tau)\right]. \tag{3} \label{varphi}
 $$
 
 (b) Using equation $(\ref{h})$ and $(\ref{varphi})$ or otherwise, show that

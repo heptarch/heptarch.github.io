@@ -53,8 +53,8 @@ include a spread of high-risk, high-return and low-risk, low-return
 bets.
 What have we missed?
 
-<div style="background-color: #cfc ; padding: 10px; border: 1px
-solid green; line-height:1.5">
+<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
+solid purple; line-height:1.5">
 <b>Portfolio optimization.</b> <br>
 
 How do we assess the value of a portfolio so the optimum can
@@ -64,8 +64,8 @@ accomodate risk-aversion?
 ## Derisky business
 ---
 
-<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
-solid purple; line-height:1.5">
+<div style="background-color: #cfc ; padding: 10px; border: 1px
+solid green; line-height:1.5">
 <b>Derisked return.</b><br>
 
 We can maximize a convex combination of expected return and (negative)
@@ -112,8 +112,8 @@ completely.
 ## Distributing eggs
 ---
 
-<div style="background-color: #EAD1DC ; padding: 10px; border: 1px
-solid purple; line-height:1.5">
+<div style="background-color: #cfc ; padding: 10px; border: 1px
+solid green; line-height:1.5">
 <b>Derisking limits.</b><br>
 
 In the $\lambda \to 0$ derisked limit, optimal investments are proportional to
