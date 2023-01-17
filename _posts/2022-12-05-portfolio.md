@@ -40,7 +40,7 @@ $$
 $$
 
 This is linear and has no local maxima, so the maximal return must lie at the edge of the
-feasible region. In fact, it's clear that just invest all our money in
+feasible region. In fact, it's clear that we just invest all our money in
 the bet with maximum return:
 
 $$
@@ -185,3 +185,5 @@ $$
 
 Intermediate values of $\lambda$ interpolate between these two regimes, with a
 degeneracy at $\lambda = 0$ where only expected return matters.
+Thus, we have a whole one-parameter family of risk-sensitive ways to value a
+portfolio!
