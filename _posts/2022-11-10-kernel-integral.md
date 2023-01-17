@@ -35,12 +35,19 @@ g(y)\left[\int_\Omega f(x) K(x, y) \, \text{d}x\right] \text{d}y \\
 $$
 
 For a symmetric kernel $K(x, y) = K(y, x)$ and $\Omega_1 = \Omega_2
-= \Omega$, we have $T_1 = T_2 = T$, and our result simplifies to
+= \Omega$, we have $T_1 = T_2 = T$, and our result simplifies to:
+
+<div style="background-color: #cfc ; padding: 10px; border: 1px
+solid green; line-height:1.5">
+<b>The symmetric kernel trick.</b> <br>
+
+For an integral transform $T$ defined by a symmetric kernel,
 
 $$
 \int_{\Omega} f(x) \cdot Tg(x)\, \text{d}x = \int_{\Omega} Tf(y) \cdot g(y)\,
 \text{d}y.
 $$
+</div>
 
 From a pure math standpoint, we've basically just observed that the integral transforms
 $T_1$ and $T_2$ are dual,
@@ -53,7 +60,7 @@ with respect to a suitably defined inner product $\langle \cdot, \cdot\rangle$.
 But this turns out to be a useful trick for doing real-life integrals!
 
 *Full disclosure.* I didn't come up with this hack, but stole it
-(with a few personal customizations) from Ramanujan.
+(with some customizations) from Ramanujan.
 Also, I'm ignoring many mathematical subtleties! The joys of
 being a physicist.
 
