@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Machine creativity"
-categories: [AI, writing]
+categories: [AI, writing, art, philosophy]
 date:  2023-01-17
 ---
 
@@ -18,4 +18,4 @@ Last year, I
 in collaboration with GPT.
 In the wake of the wild viral success of
 [ChatGPT](https://openai.com/blog/chatgpt/qwe.sh/%2F../), I've been
-revisiting the topic and 
+thinking about the topic 
