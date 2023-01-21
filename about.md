@@ -13,7 +13,8 @@ evolve into ever more complex forms. It's a kind of pattern gravity, a
 holy greening power we call viriditas, and it is the driving force in
 the cosmos. Life, you see… <br>
 
-&nbsp &nbsp &nbsp &nbsp &nbsp And because we are alive, the universe
+<br>
+And because we are alive, the universe
 must be said to be alive. We are its consciousness as well as our
 own. We rise out of the cosmos and we see its mesh of patterns, and it
 strikes us as beautiful. And that feeling is the most important thing
