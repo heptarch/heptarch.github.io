@@ -11,7 +11,7 @@ permalink: /art/
 - <a href = "mailto:cursedhorses@gmail.com"><i>Cursed horses</i></a>
   (2022). Inquire here for cursed horses.
 
-#### Fiction/art
+#### Fiction
 
 - [*caedrix feuilleton*](https://caedrix.tumblr.com/)
 (2020--22). Tumblr with microfiction and pictures.
