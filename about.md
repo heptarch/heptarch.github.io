@@ -11,7 +11,9 @@ inward to infinity. That's the shape of the universe itself. There's a
 constant pressure, pushing toward pattern. A tendency in matter to
 evolve into ever more complex forms. It's a kind of pattern gravity, a
 holy greening power we call viriditas, and it is the driving force in
-the cosmos. Life, you see. … And because we are alive, the universe
+the cosmos. Life, you see. …
+
+And because we are alive, the universe
 must be said to be alive. We are its consciousness as well as our
 own. We rise out of the cosmos and we see its mesh of patterns, and it
 strikes us as beautiful. And that feeling is the most important thing
