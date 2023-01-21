@@ -10,7 +10,7 @@ Look at the pattern this seashell makes. The dappled whorl, curving
 inward to infinity. That's the shape of the universe itself. There's a
 constant pressure, pushing toward pattern. A tendency in matter to
 evolve into ever more complex forms. It's a kind of pattern gravity, a
-holy greening power we call viriditas, and it is the driving force in
+holy greening power we call <i>viriditas</i>, and it is the driving force in
 the cosmos. Life, you see… <br>
 
 <br>
