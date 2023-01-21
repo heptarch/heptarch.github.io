@@ -4,9 +4,9 @@ title: The Hacker's Guide to the Universe
 permalink: /hacker/
 ---
 
-I am slowly adding chapters; everything here is extremely drafty.
+An outline. Links to be added!
 
-- [*Introduction: Hacking the Universe*](/hacker/intro)
+- *Introduction: Hacking the Universe*
 
 #### Techniques
 
@@ -24,5 +24,5 @@ I am slowly adding chapters; everything here is extremely drafty.
 
 #### Appendices
 
-- *Mechanics*
-- *Gravity*
+- *Newton I: Mechanics*
+- *Newton II: Gravity*

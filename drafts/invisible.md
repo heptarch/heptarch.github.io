@@ -17,4 +17,9 @@ Last year, I wrote a [short book](https://blog.saxifrage.one/assets/invisible-au
 in collaboration with GPT.
 In the wake of
 [ChatGPT](https://openai.com/blog/chatgpt/qwe.sh/%2F../) and its
-roaring viral success, I've been reflecting on machines and creativity.
+roaring viral success, I've been reflecting again on machines and
+creativity.
+
+## Invisible Authors
+---
+
