@@ -26,6 +26,7 @@ this world is to do everything we can to foster it. <br>
 </div>
 </div>
 
+<br>
 "Saxifrage" means "stone breaker". These tiny, five-petalled
 flowers are the toughest and most northernmost growing plants on
 earth. By virtue of their pattern of growth, they split rocks and
