@@ -4,6 +4,9 @@ date:  2020-11-12
 layout: post
 ---
 
+## Introduction
+---
+
 If I ask you to imagine a scientist, one of two stock types is likely
 to pop into your head.
 The first is the industrious labrat, complete with white coat, safety
@@ -39,6 +42,9 @@ the prerequisites are. <!-- , what a scientist does and why they do it.-->
 Really, the main prerequisites are very simple.
 All you need is the courage to admit you don't know something, and the
 curiosity to wonder about the answer.
+
+## Falling to earth
+---
 
 Let me give an example.
 For two thousand years, we had it figured out. We knew why some things
@@ -150,6 +156,9 @@ snapping spaghetti; mathematician Jean Taylor spent years proving
 results about soap bubbles, and physicist Kenneth Libbrecht wrote a 500-page
 book about snowflakes. Everything is interesting.
 
+## Stories in the sky
+---
+
 Sometimes, people say that science reduces the world to a bunch of
 moving parts, to mere cause and effect, and thereby empties it of meaning.
 But I think the opposite is true: it makes it full.
@@ -214,6 +223,9 @@ own biases into things. But at the end of the day, we come back to what the worl
 trying to tell us. The process is self-correcting because we care about the underlying stories.
 Broadly put, science is the act of falling in love with reality,
 listening to its stories, and filling it with meaning.
+
+## Conclusion
+---
 
 So, to be a scientist, you don't need a labcoat. You can wear anything you like. Your skin can be any
 colour. You can be male, female, or non-binary. It doesn't matter. As long as you
