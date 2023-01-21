@@ -43,7 +43,7 @@ Really, the main prerequisites are very simple.
 All you need is the courage to admit you don't know something, and the
 curiosity to wonder about the answer.
 
-## Falling to earth
+## The apple
 ---
 
 Let me give an example.
@@ -107,6 +107,9 @@ as he put it---he answered them. And
 that's what science is, whether you're studying physics or
 oceanography or the social habits of lemurs, whether you approach
 questions big or small or somewhere in between, it's the same basic enterprise.
+
+## Fractal of wonder
+---
 
 Newton would later write. "I do not know what I may appear to the
 world, but to myself I seem to have been only like a boy playing on
