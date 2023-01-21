@@ -4,9 +4,11 @@ title: Hacks
 permalink: /hacks/
 ---
 
+This page is under construction.
+
 #### Projects
 
-- [*The Hacker's Guide to the Universe*](/hacker) (2021--). Ongoing project
+- *The Hacker's Guide to the Universe* (2021--). Ongoing project
 to hack the universe.
 - *The Scrubland wiki* (2022--). Ongoing project to make high school
 math fun again.
