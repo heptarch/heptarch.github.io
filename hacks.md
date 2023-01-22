@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hacks
-permalink: /hacks/
+title: Hackery
+permalink: /hackery/
 ---
 
 This page is under construction.
