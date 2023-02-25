@@ -60,7 +60,7 @@ dabblers and aesthetes who had no other occupation, it seemed, than to hang arou
 Via di San Niccolò and spread gossip.
 
 Eventually, I understood I was to organize and evaluate a small,
-unpublished portion of the diaries, kept in one of the locked rooms on
+unpublished portion of the Martyrlog, kept in one of the locked rooms on
 the fourth floor.
 After two weeks of 
 
