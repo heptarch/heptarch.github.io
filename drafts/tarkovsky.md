@@ -25,8 +25,8 @@ I. IN VIA DI SAN NICCOLÒ
   </p>
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
-drunken lover---at once
-intimate and disorienting---across the parchment of the Oltrarno
+drunken lover <!-- ---at once intimate and disorienting--- -->
+across the parchment of the Oltrarno
 quarter. It is a great favourite of locals; slyly regarding each other
 over their amari, they watch from neighbouring bars as the sun sets
 and shadows slink down the laneways and past the tower of San
