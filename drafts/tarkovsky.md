@@ -92,8 +92,7 @@ water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="s
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079120754509103175/hapax_grainy_polaroid_of_a_tall_thin_ungainly_Italian_women_pos_99ee7bb6-a0a9-49da-8589-255f86941fd2.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Chiara Pontieri, caretaker of
-    the Institute.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Chiara Pontieri.</i></font></figcaption>
 	</div>
 	</figure>
 
