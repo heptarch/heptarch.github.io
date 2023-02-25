@@ -12,9 +12,9 @@ date:  2023-02-24
 
 ---
 
-The Pact. <i>By Tun Casey.</i>
-
 <p align="center">
+THE PACT <br>
+<i>by Tun Casey</i>
 ⁂
 </p>
 
