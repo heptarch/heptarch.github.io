@@ -40,7 +40,7 @@ Come, let me show you one of them.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079133610386399303/hapax_grainy_polaroid_of_Via_di_San_Niccolo_at_night_16db7d3c-1575-4fb2-9887-9d5dc1af03a9.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Via di San Niccolò.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Via di San Niccolò at night.</i></font></figcaption>
 	</div>
 	</figure>
 
@@ -60,7 +60,7 @@ background and others take their place.</p>
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079125210076299284/hapax_Grainy_polaroid_of_interior_of_old_Italian_house_with_dri_63316a7c-a08a-4a47-bd2e-c3ee6678eaf0.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Interior, Andrei Tarkovsky International Institute.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Still life, Andrei Tarkovsky International Institute.</i></font></figcaption>
 	</div>
 	</figure>
 
@@ -105,7 +105,7 @@ lit a cigarette, and smiled: "Ne avrai bisogno."<label for="sn-1"
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079120754509103175/hapax_grainy_polaroid_of_a_tall_thin_ungainly_Italian_women_pos_99ee7bb6-a0a9-49da-8589-255f86941fd2.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Chiara Pontieri.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>A rare sighting of Chiara Pontieri.</i></font></figcaption>
 	</div>
 	</figure>
 
