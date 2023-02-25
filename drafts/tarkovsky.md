@@ -18,7 +18,7 @@ date:  2023-02-24
    <i>by Tun Casey</i> <br>
 
 <br>
-Tun Casey is a final-year graduate student at the Vernon Centre, with
+Tun is a final-year graduate student at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature.
  </div>
