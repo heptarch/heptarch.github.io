@@ -20,6 +20,7 @@ intimate and disorienting---across the parchment of Florence. It is a great favo
 of locals, who slyly regard each other over their amari, from
 neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
 of secrets.
+Let me show you one of them.
 
 I spent the summer of 2012 as a student archivist at the "Andrei
 Tarkovsky International Institute", a slightly anarchic repository of
