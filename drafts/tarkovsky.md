@@ -7,7 +7,7 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: The Vernon Centre Film and Literary Quarterly</b>
+<b>Patina: The Vernon Film and Literary Quarterly</b>
 [2013, vol. IV-2]
 
 ---
