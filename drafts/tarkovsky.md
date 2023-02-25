@@ -96,7 +96,7 @@ water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="s
 	</figure>
 
 She handed me two keys, a heavy, single-toothed barrel key for the
-room itself, and a Schlage, she curtly explained, for the filing cabinet I was to
+room itself, and a Schlage, she curtly explained, for the single filing cabinet I was to
 have access to.
 I signed and dated a slip while Chiara drained her sambuca, and she
 left as abruptly as she had arrived.
