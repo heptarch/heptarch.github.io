@@ -43,10 +43,12 @@ float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the background.
 
 The Institute itself was aclutter with
-the great director's last effects: dried chrysanthemums, etchings by
-Leonardo, letters to Antonioni and Bergman, his spectral polaroids.
-It's great treasure, however, were his voluminous diaries, also known
-as the "Martyrlog".
+the great director's last effects---dried chrysanthemums, etchings by
+Leonardo, letters to Antonioni and Bergman, his spectral
+polaroids---which could be found in odd places around the house, under
+cupboards or inside the breadbox.
+Its great treasure, however, was the "Martyrlog", Tarkovsky's diaries
+spanning from 1970 until his death in 1986.
 They were
 
 ---
