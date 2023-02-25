@@ -7,8 +7,9 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: Trinity College Film and Literary Quarterly</b>
-April 2013. <i>Dispatches from Florence, by Tun Casey</i>
+<b><i>Patina:</i> Trinity College Film and Literary Quarterly</b>
+
+ <i>Dispatches from Florence, by Tun Casey</i>
 
 <br>
 
@@ -18,5 +19,6 @@ drunken lover over the parchment of Florence. It is a great favourite
 of locals, who slyly regard each other over their amari, from
 neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
 of secrets.
+I spent the summer of 2012 as an archivist at 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
