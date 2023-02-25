@@ -61,7 +61,8 @@ Via di San Niccolò and spread gossip.
 
 Eventually, I understood I was to organize and evaluate a small,
 unpublished portion of the Martyrlog, kept in a locked room on
-the fourth floor.
+the fourth floor, and communicate my findings to a professor of Polish
+literature.
 After two weeks of 
 
 <p align="center">
