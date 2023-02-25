@@ -14,7 +14,7 @@ date:  2023-02-24
 
 <p align="center">
 THE PACT <br>
-<i>by Tun Casey</i>
+<i>by Tun Casey</i> <br>
 ⁂
 </p>
 
@@ -62,8 +62,7 @@ Via di San Niccolò and spread gossip.
 Eventually, I understood I was to organize and evaluate a small,
 unpublished portion of the diaries, kept in one of the locked rooms on
 the fourth floor.
-One of the assistants, a strange and brilliant Florentine called
-Chiara who claimed to have beaten Umberto Eco in chess,
+After two weeks of 
 
 <p align="center">
 II. THE LOCKED ROOM
