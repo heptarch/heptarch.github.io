@@ -148,7 +148,8 @@ III. HERR DOKTOR
     ="https://cdn.discordapp.com/attachments/1074533019450351667/1076224106267164803/hapax_grainy_film_still_from_a_lost_mysterious_Tarkovsky_film_a_ff21cd1d-831a-450c-884e-1d0df04d460f.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Zeitblom's framing narrative.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Serenus Zeitblom returning to
+	Kaisersaschern on the Saale.</i></font></figcaption>
 	</div>
 	</figure>
 
