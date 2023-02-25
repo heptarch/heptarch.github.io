@@ -35,7 +35,9 @@ Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room---more
 a closet---next to the archives, ate at I Bastioni, and drank *branca menta*
 once a week on my stipend. The Institute was opposite a perfumery.
-In the evenings, the scents from the maestro's cauldron would waft in
+In the evenings, the maestro attended his cauldron, and wafts of
+opoponax, frankincense, rose, and osmanthus would float into the
+closet and colour my dreams.
 
 The "Institute" is little more than a disorganized repository of
 the great director's last effects, managed by his son Andrei and the
@@ -45,3 +47,4 @@ duties
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
+<!-- www.silenocheloni.com -->
