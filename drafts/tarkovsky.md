@@ -23,14 +23,14 @@ Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like t
 drunken lover---at once
 intimate and disorienting---across the parchment of Florence. It is a great favourite
 of locals, who slyly regard each other over their amari, from
-neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
+neighbouring bars, as the sun sets and shadows slink down the Via and
+past the melancholy tower of San Niccolò, its guards asleep. It is a place
 of secrets.
-Come, let me show you one of them.
-
+Let me show you one of them.
 I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91, Via di San
-Niccolò. I stayed at the "Institute", sleeping in a small room---more
-of a closet---next to the archives, 
+Niccolò. I slept at the "Institute", in a small room---more
+of a closet---next to the archives, ate 
 
 The "Institute" is little more than a disorganized repository of
 the great director's last effects, managed by his son Andrei and the
