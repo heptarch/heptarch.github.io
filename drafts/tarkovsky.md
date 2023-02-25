@@ -51,7 +51,7 @@ year---anomalies---1097." I did not understand, nor did my supervisor,
 a Tarkovsky scholar at the Vernon Centre.
 At the Institute, the retired semiotician, the cinematographer, the three administrative assistants, the
 Portuguese graduate student in comparative literature and visual
-culture on an EU fellowship, all had strong and incompatible opinions.
+culture on an EU fellowship---all had strong and incompatible opinions.
 In the end, I decided on a simple formula: go through the material,
 organized by year; look for "anomalies"; pay special attention to any
 occurrences of "1097".
