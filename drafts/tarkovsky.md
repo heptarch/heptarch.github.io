@@ -66,10 +66,6 @@ One of the assistants, a strange and brilliant Florentine called
 Chiara who claimed to have beaten Umberto Eco in chess,
 
 <p align="center">
-⁂
-</p>
-
-<p align="center">
 II. THE LOCKED ROOM
   </p>
 
