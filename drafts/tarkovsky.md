@@ -18,16 +18,6 @@ date:  2023-02-24
  <i>by Tun Casey</i> <br>
  <br>
 
-<figure><img src
-    ="/img/lost/tarkovsky/tun.png" width="240"/>
-	</figure>
-
-<br>
-Tun is a final-year graduate student at the Vernon Centre, with
- interests in Russian and Italian cinema, historiography, and continental
- literature.
- </div>
-
 <br>
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
@@ -66,6 +56,18 @@ Portuguese graduate student on an EU fellowship---all had strong and incompatibl
 In the end, I decided on a simple formula: go through the material,
 organized by year; look for "anomalies"; and pay special attention to any
 mention of "1097".
+
+---
+
+<figure><img src
+    ="/img/lost/tarkovsky/tun.png" width="240"/>
+	</figure>
+
+<br>
+Tun is a final-year graduate student at the Vernon Centre, with
+ interests in Russian and Italian cinema, historiography, and continental
+ literature.
+ </div>
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
