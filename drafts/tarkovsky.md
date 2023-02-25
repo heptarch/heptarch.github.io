@@ -70,7 +70,7 @@ The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and seemed to have little to do with the Institute.
 She appeared in the kitchen one day, unannounced, and
 wordlessly poured us two glasses of sambuca, one leg up on the table as the
-water clouded white. After a pause: "Ne avrai bisogno."<label for="sn-1"
+water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
