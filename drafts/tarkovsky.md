@@ -43,6 +43,14 @@ float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the
 background as other colours took their place.</p>
 
+<figure>
+    <div style="text-align:center"><img src
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079125210076299284/hapax_Grainy_polaroid_of_interior_of_old_Italian_house_with_dri_63316a7c-a08a-4a47-bd2e-c3ee6678eaf0.png"
+    width="400"/> <br>
+	<figcaption> <font size="-0.2"><i>Clutter.</i></font></figcaption>
+	</div>
+	</figure>
+
 The Institute itself was aclutter with
 the great director's last effects---dried chrysanthemums, polyhedra in
 birch and argilite, etchings by
@@ -59,14 +67,6 @@ assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079125210076299284/hapax_Grainy_polaroid_of_interior_of_old_Italian_house_with_dri_63316a7c-a08a-4a47-bd2e-c3ee6678eaf0.png"
-    width="400"/> <br>
-	<figcaption> <font size="-0.2"><i>Clutter.</i></font></figcaption>
-	</div>
-	</figure>
 
 Eventually, I understood I was to organize and evaluate a small,
 unpublished portion of the Martyrlog, kept in a locked room on
