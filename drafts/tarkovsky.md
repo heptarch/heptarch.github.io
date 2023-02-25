@@ -19,7 +19,7 @@ date:  2023-02-24
  <br>
 
 <figure><img src
-    ="/img/lost/tarkovsky/tun.png" width="200"/>
+    ="/img/lost/tarkovsky/tun.png" width="240"/>
 	</figure>
 
 <br>
@@ -50,7 +50,7 @@ opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the background.
 
-The Institute itself was little more than a cluttered stockroom of
+The Institute itself was little more than a clutter of
 the great director's final effects: dried chrysanthemums, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral polaroids.
 The 
