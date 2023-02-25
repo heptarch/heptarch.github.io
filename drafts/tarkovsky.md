@@ -21,11 +21,11 @@ date:  2023-02-24
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
 drunken lover---at once
-intimate and disorienting---across the parchment of Florence. It is a great favourite
-of locals, who slyly regard each other over their amari, from
-neighbouring bars, as the sun sets and shadows slink down the Via and
-past the melancholy tower of San Niccolò and its somnolent guards. It is a place
-of secrets.
+intimate and disorienting---across the parchment of the Oltrarno
+quarter. It is a great favourite of locals, who slyly regard each other over their amari, from
+neighbouring bars, as the sun sets and shadows slink down the alleys and
+past the melancholy tower of San Niccolò, a somnolent giant emerging
+from the piazza of Giuseppe Poggi. It is a place of secrets.
 Let me show you one of them.
 
 I spent the summer of 2012 as a student archivist at the Andrei
@@ -41,3 +41,4 @@ Andrei was in Mykonos for the entirety of my stay, so my archival
 duties 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
+<!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
