@@ -26,15 +26,14 @@ of secrets.
 Come, let me show you one of them.
 
 I spent the summer of 2012 as a student archivist at the Andrei
-Tarkovsky International Institute. The "Institute" is, in point of fact,
-little more than a disorganized repository of
-the great director's final effects. His son, Andrei, who
-usualy holidays there in the summer, was in Mykonos, so my archival
-duties 
+Tarkovsky International Institute, situated at 91, Via di San
+Niccolò. I stayed at the "Institute", sleeping in a small room---more
+of a closet---next to the archives, 
 
-situated at 91, Via di San
-Niccolò. I slept in a small
-room---more of a closet---next to the opposite a master "profumiere",
-from whose workshop the most ex
+The "Institute" is little more than a disorganized repository of
+the great director's last effects, managed by his son Andrei and the
+ambiguous functionaries in his employ.
+Andrei was in Mykonos for the entirety of my stay, so my archival
+duties 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
