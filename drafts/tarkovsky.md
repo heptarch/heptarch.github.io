@@ -78,8 +78,9 @@ Dr. Seweryn Kuśmierczyk, a professor of Polish literature in Warsaw.
 The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and was never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon, unannounced, and
-wordlessly poured us two glasses of sambuca, one leg up on the table as the
-water clouded. After a pause, she smiled: "Ne avrai bisogno."<label for="sn-1"
+wordlessly poured us two glasses of sambuca.
+While the water clouded over, she put one leg up on the table, and
+smiled: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
