@@ -80,17 +80,19 @@ water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="s
 
 <figure>
     <div style="text-align:center"><img src
-    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079120754509103175/hapax_grainy_polaroid_of_a_tall_thin_ungainly_Italian_women_pos_99ee7bb6-a0a9-49da-8589-255f86941fd2.png" width="400"/>
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079120754509103175/hapax_grainy_polaroid_of_a_tall_thin_ungainly_Italian_women_pos_99ee7bb6-a0a9-49da-8589-255f86941fd2.png"
+    width="400"/> <br>
 	<figcaption> <font size="-0.2"><i>Chiara Pontieri, caretaker of
     the Institute.</i></font></figcaption>
 	</div>
 	</figure>
 
-She handed me two keys: a heavy, single-toothed barrel key for the room itself, and
+She handed me two keys, a heavy, single-toothed barrel key for the room itself, and
 as she curtly explained, a Schlage for the filing cabinet I was to
 have access to.
-I signed and dated a slip while Chiara drained her sambuca.
-She left as abruptly as she had arrived.
+I signed and dated a slip while Chiara drained her sambuca, and she
+left as abruptly as she had arrived.
+A
 
 <p align="center">
 ⁂</p>
