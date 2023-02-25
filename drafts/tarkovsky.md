@@ -71,7 +71,7 @@ The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and seemed to have little to do with the Institute.
 She arrived one day, unannounced, summoned me to the kitchen, and
 wordlessly poured us two glasses of sambuca, one leg up on the table as the
-water clouded.
+water clouded white.
 
 <p align="center">
 ⁂</p>
