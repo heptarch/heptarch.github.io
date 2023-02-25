@@ -12,10 +12,14 @@ date:  2023-02-24
 
 ---
 
-Despatches from Florence. <i>By Tun Casey.</i>
+The Pact. <i>By Tun Casey.</i>
 
 <p align="center">
 ⁂
+</p>
+
+<p align="center">
+I. VIA DI SAN NICCOLÒ
   </p>
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
