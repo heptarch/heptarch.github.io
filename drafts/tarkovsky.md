@@ -2,15 +2,13 @@
 Layout: post
 mathjax: true
 comments: true
-title:
+title: Despatches from Florence
 categories:
 date:  2023-02-24
 ---
 
 <b>Patina: The Vernon Film and Literary Quarterly</b>
 [2013, vol. IV-2]
-
-   Despatches from Florence
 
 ---
 
