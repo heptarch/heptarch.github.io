@@ -79,6 +79,7 @@ Ellen's black notebook:
 solid black; line-height:1.3;">
 <font size="-0.2">
 VI. Third disquisition on scones.
+</font>
 </div>
 
 <p align="center">
@@ -118,10 +119,11 @@ solid black; line-height:1.3;">
 VII. Lies in bed with a bad case of "scone-rot and
 begoo". Shares a method to remember the future, but
 details elude me.
+</font>
 </div>
 
 <p align="center">
-*1865*
+<i>1865</i>
   </p>
 
 Richard Plantagenet Campbell
@@ -147,7 +149,7 @@ lowland cold.
 
 Auld Dauvit Thomson, an immense, stentorian don
 who must stoop to
-enter the classroom, introduces ``Miss Watson'' as an ``exceedingly
+enter the classroom, introduces "Miss Watson'' as an "exceedingly
 sharp pupil of the modern developments''. He folds himself into a
 chair in the front row and tenderly motions her to begin. Miss Watson
 coughs nervously, and after another paternal nod, addresses the room
@@ -167,6 +169,7 @@ Maxwell's treatise of 1864 explains the mutual influence of
     mechanism by which to unify gravity and electromagnetism...
 </font>
 </div>
+
 The talk is gibberish to
     the Duke. The play of symbols, the twined threads of argument, its
     flashes of scientific wit, are lost on him; what is not lost,
@@ -179,7 +182,7 @@ The talk is gibberish to
 
 And so the Duke of Buckingham and Chandos—disappointed in politics,
 business,
-the whole backward scheme of his life—formulates the terms of an offer he will later describe as ``inspired lunacy''. Ellen accepts.
+the whole backward scheme of his life—formulates the terms of an offer he will later describe as "inspired lunacy''. Ellen accepts.
 
 <p align="center">
   ■
@@ -188,11 +191,13 @@ the whole backward scheme of his life—formulates the terms of an offer he will
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
 <font size="-0.2">
-IIX. He is in some other part of Ashen House—hear various ``Ha!''s. Find him trying on legal wigs.
+IIX. He is in some other part of Ashen House—hear various
+"Ha!''s. Find him trying on legal wigs.
+</font>
 </div>
 
 <p align="center">
-*1861*
+<i>1861</i>
   </p>
 
 The study overlooks the gentle slopes of Kilspindie glen. Reverend
@@ -229,7 +234,7 @@ Professor Thomson?"
 "Yes, child. Yes."
 
 <p align="center">
-*1869*
+<i>1869</i>
   </p>
 
 In the Beethoven Rooms of 76 Harley Street, Professor Carey
@@ -285,13 +290,15 @@ solid black; line-height:1.3;">
 <font size="-0.2">
 IX. Wearing particularly outrageous
       peruke, strikes gavel upon walls with gusto.
-      With each strike, cries nonsense words such as ``Breeglage!'',
-      ``Flade!'', ``Understump!'', and so forth.
-      Stops to construct a ``Brownian clock'' from dust he has found beneath the wigs.
+      With each strike, cries nonsense words such as "Breeglage!'',
+      "Flade!'', "Understump!'', and so forth.
+      Stops to construct a "Brownian clock'' from dust he has found
+	  beneath the wigs.
+	  </font>
 </div>
 
 <p align="center">
-*1873*
+<i>1873</i>
   </p>
 
 Passengers waft like autumn leaves through the doubled cube of the Hall. A doctor from Boxmoor talks about the Factory Act and ladies studying medicine—a mother of three chases little William, who shrieks with delight—beneath the allegorical statuary, where nobody watches, a boy in shabby clothes curls up and sleeps. All this commotion, the comings and goings, chaos and heartbreak and tobacco smoke, blur into a kind of stillness, modulated only by the rhythm of the timetable. Humans on average.
@@ -318,7 +325,7 @@ lamp, compass, and notepad, and tramps off into the tunnels to learn
 the precise bearings of the fourth dimension.
 
 <p align="center">
-*1873*
+<i>1873</i>
   </p>
 
 An envelope, ironically delivered by coach, arrives on the chairman’s
@@ -387,7 +394,7 @@ borrowed a dollop of negentropy,” he says sheepishly.
 Another lurch. Ellen wakes with three white hairs.
 
 <p align="center">
-*1875*
+<i>1875</i>
   </p>
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can see the twin giants of Westminster towering over Dean’s Yard. He has that air of abstraction and regret that so often hovers about men of station; he has just learned from Disraeli that he will govern Madras. Luck never seemed to him personified by a Lady, but rather a profligate and wastrel Lord, who giveth or taketh depending on his humour, and in whose service each of us is, from time to time, dragooned.
@@ -462,10 +469,11 @@ He peeks out. “Ha! Are you Ellen Watson? Or a scone?”
 solid black; line-height:1.3;">
 <font size="-0.2">
 X. Reveals how to free him from Ashen House.
+</font>
 </div>
 
 <p align="center">
-*1875*
+<i>1875</i>
   </p>
 
 The hands of the Great Hall’s chronometer are immobile. The
