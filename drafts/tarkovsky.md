@@ -22,7 +22,8 @@ neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
 of secrets.
 
 I spent the summer of 2012 as a student archivist at the "Andrei
-Tarkovsky International Institute", a somewhat shambolic storehouse for situated at 91, Via di San
+Tarkovsky International Institute", a slightly anarchic repository of
+the great director's effects, situated at 91, Via di San
 Niccolò. I slept in a small
 room---more of a closet---next to the opposite a master "profumiere",
 from whose workshop the most ex
