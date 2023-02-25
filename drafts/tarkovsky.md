@@ -7,7 +7,7 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: Film and Literary Quarterly</b> [vol. IV]
+<b>Patina: Film and Literary Quarterly</b> [vol. IV-2]
 
 Despatches from Florence
 <i>By Tun Casey, Apr 2013</i>
