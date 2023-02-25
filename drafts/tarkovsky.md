@@ -139,7 +139,7 @@ I set to work the next morning.
 ⁂</p>
 
 <p align="center">
-III. DOKTOR
+III. HERR DOKTOR
 </p>
 
 <figure>
