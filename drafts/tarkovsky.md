@@ -8,7 +8,6 @@ date:  2023-02-24
 ---
 
  Despatches from Florence <br>
- 
 <i>by Tun Casey</i> <br>
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px;
