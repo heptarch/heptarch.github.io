@@ -14,6 +14,10 @@ date:  2023-02-24
 
 Despatches from Florence. <i>By Tun Casey.</i>
 
+<p align="center">
+⁂
+  </p>
+
 <br>
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
