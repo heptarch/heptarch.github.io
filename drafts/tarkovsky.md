@@ -19,7 +19,7 @@ THE PACT <br>
 ⁂</p>
 
 <p align="center">
-I. VIA DI SAN NICCOLÒ
+I. IN VIA DI SAN NICCOLÒ
   </p>
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
