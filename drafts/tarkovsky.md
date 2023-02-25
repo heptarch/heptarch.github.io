@@ -8,7 +8,7 @@ date:  2023-02-24
 ---
 
 <b>Patina: The Vernon Film and Literary Quarterly</b>
-[2013, vol. IV-2]
+[vol. IV-2, 2013]
 
 ---
 THE PACT <br>
