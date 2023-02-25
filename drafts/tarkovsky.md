@@ -52,7 +52,8 @@ Its great treasure, however, was the "Martyrlog", diaries spanning the
 period from 1970 until Tarkovsky's death in 1986.
 These were carefully administered by his son, Andrei, but he was away
 in Mykonos for the summer and had relayed instructions to me through
-a sequence of intermediaries: two administrative assistants, a
+a sequence of intermediaries. I spoke with two administrative
+assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had nothing better to do than hang around
 Via di San Niccolò and spread gossip.
