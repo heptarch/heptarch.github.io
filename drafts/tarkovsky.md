@@ -77,7 +77,6 @@ assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
-
 Eventually, I understood I was to organize, evaluate, and possibly digitize an
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
