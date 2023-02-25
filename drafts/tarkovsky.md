@@ -48,8 +48,7 @@ period from 1970 until Tarkovsky's death in 1986.
 
 ---
 
-<br>
- <font size="-0.2">
+ <font size="-0.1">
 Tun is a final-year graduate student at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature.
