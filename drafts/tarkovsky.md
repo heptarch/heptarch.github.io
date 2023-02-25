@@ -27,7 +27,7 @@ over their amari, they watch from neighbouring bars as the sun sets
 and shadows slink down the alleys and past the melancholy tower of San
 Niccolò, that somnolent giant emerging
 from the piazza Giuseppe Poggi. It is a place of secrets.
-Come, let me show you one of them.
+Let me show you one of them.
 
 I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
