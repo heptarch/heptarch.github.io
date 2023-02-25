@@ -11,11 +11,11 @@ date:  2023-02-24
 [vol. IV-2, 2013]
 
 ---
-THE PACT <br>
-<i>word and polaroids by Tun Casey</i> <br>
+<!-- <br> <i>word and polaroids by Tun Casey</i> <br>-->
 
 
 <p align="center">
+<i>THE PACT</i>
 ⁂</p>
 
 <p align="center">
@@ -122,7 +122,7 @@ II. THE LOCKED ROOM
 </p>
 
 After two aimless weeks in Via di San Niccolò, two weeks of perfume,
-*branca menta*, and sunset rambles through Florence, a door would open
+*branca menta*, and sunset rambles through Florence, a door would open.
 I set to work the next morning.
 
 <figure>
