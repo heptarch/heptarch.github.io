@@ -39,24 +39,20 @@ richly. But the riches of Florence would soon recede into the background.
 The Institute itself was aclutter with
 the great director's last effects---dried chrysanthemums, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral
-polaroids---which could be found in odd places around the house, under
-cupboards or inside the breadbox.
-Its great treasure, however, was the "Martyrlog", Tarkovsky's diaries
-spanning from 1970 until his death in 1986.
-They were
+polaroids---and could be found in odd places around the house, in
+little stacks under the cupboards, or inside the fuse box, as if they
+were alive and exploring.
+Its great treasure, however, was the "Martyrlog", diaries spanning the
+period from 1970 until Tarkovsky's death in 1986.
 
 ---
 
 <br>
-
-<figure><img src
-    ="/img/lost/tarkovsky/tun.png" float="left" width="200"/>
-	</figure>
-
-<br>
+ <font size="-0.2">
 Tun is a final-year graduate student at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature.
+ </font>
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
