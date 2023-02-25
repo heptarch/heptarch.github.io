@@ -98,7 +98,7 @@ smiled: "Ne avrai bisogno."<label for="sn-1"
 	</figure>
 
 She handed me two keys, a heavy, single-toothed barrel key for the
-room itself, and a Schlage, she curtly explained, for the single filing cabinet I was to
+room itself, and a Schlage for the single filing cabinet I was to
 have access to.
 Chiara watched intently as I signed and dated a slip, then drained her
 sambuca and left as abruptly as she had arrived.
