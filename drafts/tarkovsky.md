@@ -114,6 +114,7 @@ have access to.
 She left as abruptly as she had arrived.
 I found myself alone with the smell of anise and a feeling that the
 moon was laughing invisibly, far above.
+
 After two aimless weeks in Via di San Niccolò, that signature would change my life.
 
 <p align="center">
