@@ -100,10 +100,10 @@ smiled: "Ne avrai bisogno."<label for="sn-1"
 She handed me two keys, a heavy, single-toothed barrel key for the
 room itself, and a Schlage, she curtly explained, for the single filing cabinet I was to
 have access to.
-I signed and dated a slip while Chiara drained her sambuca.
-She left as abruptly as she had arrived, and I found myself alone once
-more, an untouched sambuca in front of me, and the moon, I sensed,
-laughing invisibly above me.
+Chiara watched intently as I signed and dated a slip, then drained her
+sambuca and left as abruptly as she had arrived.
+I found myself alone once more, an untouched glass in front of me, the moon, I sensed,
+laughing invisibly above.
 After two aimless weeks in Via di San Niccolò, 
 
 <p align="center">
