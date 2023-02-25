@@ -124,14 +124,14 @@ After two aimless weeks in Via di San Niccolò, that signature would change my l
 II. THE LOCKED ROOM
 </p>
 
-I woke the next morning and set to work.
+I set to work the next morning,
 
 <figure>
     <div style="text-align:center"><img src
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>The forbidded Martyrlogs.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>The forbidden Martyrlogs.</i></font></figcaption>
 	</div>
 	</figure>
 
