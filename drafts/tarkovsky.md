@@ -46,8 +46,10 @@ employ.
 Andrei was in Mykonos for the summer, and his instructions were so
 garbled by intermediaries that, by the time they reached me, no one
 could make sense of them.
-One of the caretakers, Chiara, re
-"Adorno himself," she once remarked, "would balk at these 
+One of the caretakers, Chiara, was a retired film theorist and student
+of Umberto Eco.
+"Adorno himself," she once remarked (in rapidfire Florentine), "would
+find these uninterpretable."
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
