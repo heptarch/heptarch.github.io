@@ -68,7 +68,7 @@ summer, I would communicate my findings in the form of a report to
 Dr. Seweryn Kuśmierczyk, a professor of Polish literature in Warsaw.
 The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and seemed to have little to do with the Institute.
-She arrived one day, unannounced, summoned me to the kitchen, and
+She appeared in the kitchen one day, unannounced, and
 wordlessly poured us two glasses of sambuca, one leg up on the table as the
 water clouded white. After a pause: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
@@ -79,6 +79,8 @@ water clouded white. After a pause: "Ne avrai bisogno."<label for="sn-1"
 	   <span class="sidenote">You'll need it.</span>
 She handed me two keys: a heavy, single-toothed barrel key for the room itself, and
 a Schlage for the filing cabinet I was to have access to.
+
+She drained her sambuca, and left as abruptly as she had arrived.
 
 <p align="center">
 ⁂</p>
