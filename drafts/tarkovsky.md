@@ -7,12 +7,6 @@ categories:
 date:  2023-02-24
 ---
 
-<style>
-        p {
-            text-index: 40px;
-        }
-    </style>
-
 <b>Patina: The Vernon Film and Literary Quarterly</b>
 [2013, vol. IV-2]
 
@@ -34,7 +28,7 @@ Niccolò, a lonely and somnolent giant emerging
 from the piazza Giuseppe Poggi. It is a place of secrets.
 Let me show you one of them.
 
-<p>I spent the summer of 2012 as a student archivist at the Andrei
+<pt>I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room---more
 a closet---on the second floor, ate at I Bastioni, and drank *branca menta*
@@ -42,7 +36,7 @@ once a week on my stipend. The Institute was opposite a perfumery.
 In the evenings, the maestro stirred his cauldron, and wafts of
 opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
-richly. But the riches of Florence would soon recede into the background.</p>
+richly. But the riches of Florence would soon recede into the background.</pt>
 
 The Institute itself was aclutter with
 the great director's last effects---dried chrysanthemums, polyhedra in
