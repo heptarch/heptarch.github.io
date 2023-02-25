@@ -10,5 +10,5 @@ date:  2023-02-24
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 
-Andrei Tarkovsky, giant of world cinema, poet of silence and
+Russian director Andrei Tarkovsky (1932--86), poet of silence and
 decay, sculptor of memory, 
