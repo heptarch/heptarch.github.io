@@ -20,6 +20,8 @@ date:  2023-02-24
 
 <br>
 
+</div>
+
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
 drunken lover---at once
 intimate and disorienting---across the parchment of the Oltrarno
@@ -57,7 +59,6 @@ They were
 Tun is a final-year graduate student at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature.
- </div>
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
