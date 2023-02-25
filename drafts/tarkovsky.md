@@ -55,7 +55,7 @@ in Mykonos for the summer and had relayed instructions to me through
 a sequence of intermediaries. I spoke with two administrative
 assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
-dabblers and aesthetes who had nothing better to do than hang around
+dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
 
 ---
