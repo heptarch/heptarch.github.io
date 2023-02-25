@@ -66,8 +66,8 @@ The caretaker would provide the necessary keys, and at the end of the
 summer, I would communicate my findings in the form of a report to
 Dr. Seweryn Kuśmierczyk, a professor of Polish literature at Warsaw
 University.
-The caretaker was a thin, ungainly woman called Chiara, who smoked
-constantly and seemed to care very little for the Institute.
+The "caretaker" was a thin, ungainly woman called Chiara, who smoked
+constantly and seemed to have little if anything to do with the Institute.
 After two weeks of perfume and *branca menta*,
 
 <p align="center">
