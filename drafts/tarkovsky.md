@@ -57,7 +57,7 @@ background and others take their place.</p>
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079125210076299284/hapax_Grainy_polaroid_of_interior_of_old_Italian_house_with_dri_63316a7c-a08a-4a47-bd2e-c3ee6678eaf0.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Clutter.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Interior, Andrei Tarkovsky International Institute.</i></font></figcaption>
 	</div>
 	</figure>
 
