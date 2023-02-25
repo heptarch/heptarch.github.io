@@ -77,7 +77,8 @@ a professor of Polish literature in Warsaw.
 
 The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and was never to be found at the Institute.
-She appeared in the kitchen on the evening of a full moon, unannounced, and
+She appeared in the kitchen on the evening of a full moon,
+unannounced, two weeks into my stay, and
 wordlessly poured us two glasses of sambuca.
 While the water clouded over, she put one leg up on the table, and
 smiled: "Ne avrai bisogno."<label for="sn-1"
