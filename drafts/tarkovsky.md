@@ -11,10 +11,10 @@ date:  2023-02-24
 [2013, vol. IV-2]
 
 ---
-
-<p align="center">
 THE PACT <br>
 <i>by Tun Casey</i> <br>
+
+<p align="center">
 ⁂
 </p>
 
