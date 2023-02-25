@@ -7,11 +7,11 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: Film and Literary Quarterly</b>
+## <b>Patina: Film and Literary Quarterly</b>
 
 Dispatches from Florence. <i>By Tun Casey, Apr 2013.</i>
 
-<br>
+---
 
 Via di San Niccolò is a crabbed network of alleys, which wanders like the handwriting of a
 drunken lover---at once
