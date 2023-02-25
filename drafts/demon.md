@@ -75,9 +75,12 @@ found now?"
 
 Ellen's black notebook: <br>
 
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
  <font size="-0.2">
  VI. Third disquisition on scones.
  </font>
+ </div>
 
 <p align="center">
 ⁂
@@ -110,11 +113,14 @@ the network is abandoned, a larger enterprise continues.
   ■
   </p>
 
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
  <font size="-0.2">
 VII. Lies in bed with a bad case of "scone-rot and
 begoo". Shares a method to remember the future, but
 details elude me.
 </font>
+</div>
 
 <p align="center">
 ⁂
@@ -182,10 +188,13 @@ the whole backward scheme of his life—formulates the terms of an offer he will
   ■
   </p>
 
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
  <font size="-0.2">
 IIX. He is in some other part of Ashen House—hear various
 "Ha!''s. Find him trying on legal wigs.
 </font>
+</div>
 
 <p align="center">
 ⁂
@@ -276,6 +285,8 @@ from Marleybone. “Perhaps you would like some tea?”
   ■
   </p>
 
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
   <font size="-0.2">
 IX. Wearing particularly outrageous
       peruke, strikes gavel upon walls with gusto.
@@ -284,6 +295,7 @@ IX. Wearing particularly outrageous
       Stops to construct a "Brownian clock'' from dust he has found
 	  beneath the wigs.
 	  </font>
+	  </div>
 
 <p align="center">
 ⁂
@@ -453,9 +465,12 @@ He peeks out. “Ha! Are you Ellen Watson? Or a scone?”
   ■
   </p>
 
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
  <font size="-0.2">
  X. Reveals how to free him from Ashen House.
  </font>
+ </div>
 
 <p align="center">
 ⁂
