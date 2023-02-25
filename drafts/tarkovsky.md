@@ -17,9 +17,8 @@ date:  2023-02-24
 <i>by Tun Casey</i> <br>
  </div>
 
----
-
 <br>
+---
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
 drunken lover---at once
@@ -32,11 +31,11 @@ from the piazza Giuseppe Poggi. It is a place of secrets.
 Come, let me show you one of them.
 
 I spent the summer of 2012 as a student archivist at the Andrei
-Tarkovsky International Institute, situated at 91, Via di San
+Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room---more
-a closet---next to the archives, ate at I Bastioni and drank *branca menta*
-once a week on my stipend. The Institute was opposite a perfumery,
-whose 
+a closet---next to the archives, ate at I Bastioni, and drank *branca menta*
+once a week on my stipend. The Institute was opposite a perfumery.
+In the evenings, the scents from the maestro's cauldron would waft in
 
 The "Institute" is little more than a disorganized repository of
 the great director's last effects, managed by his son Andrei and the
