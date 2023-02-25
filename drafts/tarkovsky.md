@@ -14,7 +14,7 @@ date:  2023-02-24
  solid black; line-height:1.3;">
  Despatches from Florence <br>
  
-<i>by Tun Callaviamus</i> <br>
+<i>by Tun Casey</i> <br>
  </div>
 
 <br>
