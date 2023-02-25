@@ -55,7 +55,7 @@ They were
 ---
 
 <figure><img src
-    ="/img/lost/tarkovsky/tun.png" width="200"/>
+    ="/img/lost/tarkovsky/tun.png" float="left" width="200"/>
 	</figure>
 
 <br>
