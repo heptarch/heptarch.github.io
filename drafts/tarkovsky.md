@@ -53,7 +53,7 @@ At the Institute, the retired semiotician, the cinematographer, the three admini
 Portuguese graduate student in comparative literature and visual
 culture on an EU fellowship---all had strong and incompatible opinions.
 In the end, I decided on a simple formula: go through the material,
-organized by year; look for "anomalies"; pay special attention to any
+organized by year; look for "anomalies"; and pay special attention to
 occurrences of "1097".
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
