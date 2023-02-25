@@ -48,7 +48,7 @@ year---anomalies---1097." I did not understand, nor did my supervisor,
 a Tarkovsky scholar at the Vernon Centre.
 At the Institute, the retired semiotician, the cinematographer, the three administrative assistants, the
 Portuguese graduate student in comparative literature and visual
-culture on an EU fellowship---all had strong and incompatible opinions.
+culture on an EU fellowship, all had strong and incompatible opinions.
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
