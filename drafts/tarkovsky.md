@@ -12,16 +12,9 @@ date:  2023-02-24
 
 ---
 
-Despatches from Florence
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px;
- border: 0px
- solid black; line-height:1.3;">
- <i>by Tun Casey</i> <br>
- <br>
+Despatches from Florence. <i>By Tun Casey.</i>
 
 <br>
-
-</div>
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
 drunken lover---at once
