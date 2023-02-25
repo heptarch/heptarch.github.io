@@ -10,7 +10,7 @@ date:  2023-02-24
 
 <i></i>
 
-Via di San Niccolò is a crabbed, winding network of alleys, at once
+Via di San Niccolò is a crabbed, wandering network of alleys, at once
 intimate and disorienting, like the handwriting of a drunken nobleman
 over the parchment of Florence. It is a great favourite of locals.
 
