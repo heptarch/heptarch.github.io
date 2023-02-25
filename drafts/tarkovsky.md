@@ -89,7 +89,7 @@ constantly and was never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon,
 unannounced, two weeks into my stay, and
 wordlessly poured us two glasses of sambuca.
-While the water clouded over, she put one leg up on the table, and
+While the water clouded over, she stretched one leg onto the table and
 smiled: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
