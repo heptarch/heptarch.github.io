@@ -24,11 +24,12 @@ date:  2023-02-24
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
 drunken lover---at once
 intimate and disorienting---across the parchment of the Oltrarno
-quarter. It is a great favourite of locals, who slyly regard each other over their amari, from
-neighbouring bars, as the sun sets and shadows slink down the alleys and
-past the melancholy tower of San Niccolò, a somnolent giant emerging
-from the piazza of Giuseppe Poggi. It is a place of secrets.
-Let me show you one of them.
+quarter. It is a great favourite of locals; slyly regarding each other
+over their amari, they watch from neighbouring bars as the sun sets
+and shadows slink down the alleys and past the melancholy tower of San
+Niccolò, that somnolent giant emerging
+from the piazza Giuseppe Poggi. It is a place of secrets.
+Come, let me show you one of them.
 
 I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91, Via di San
