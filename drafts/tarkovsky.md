@@ -7,9 +7,9 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: Film and Literary Quarterly</b>, Apr 2013
+<b>Patina: The Vernon Film and Literary Quarterly</b>, Apr 2013
 
-Dispatches from Florence. </>By Tun Casey.</i>
+Dispatches from Florence. <i>By Tun Casey.</i>
 
 <br>
 
