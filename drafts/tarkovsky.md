@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title: Dispatches from Florence
+title: Despatches from Florence
 categories:
 date:  2023-02-24
 ---
 
-## <b>Patina: Film and Literary Quarterly</b>
+<b>Patina: Film and Literary Quarterly</b>
 
 <i>By Tun Casey, Apr 2013.</i>
 
