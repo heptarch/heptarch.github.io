@@ -7,9 +7,9 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: Trinity College Film and Literary Quarterly</b>
+<b>Patina: Film and Literary Quarterly</b>, Apr 2013
 
-Dispatches from Florence, </>by Tun Casey.</i>
+Dispatches from Florence. </>By Tun Casey.</i>
 
 <br>
 
