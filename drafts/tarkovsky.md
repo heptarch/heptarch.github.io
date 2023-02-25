@@ -40,22 +40,12 @@ opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the background.
 
-The Institute itself was little more than a clutter of
-the great director's final effects: dried chrysanthemums, etchings by
+The Institute itself was aclutter with
+the great director's last effects: dried chrysanthemums, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral polaroids.
-The 
-diaries, also known as the "Martyrlog".
-managed by his son Andrei and the ambiguous functionaries in his
-employ.
-Andrei was in Mykonos for the summer, and his instruction, when they
-arrived, were perhaps garbled by intermediaries: "Categorize by
-year---anomalies---1097." I did not understand, nor did my supervisor,
-a Tarkovsky scholar at the Vernon Centre.
-At the Institute, the retired semiotician, the cinematographer, the three administrative assistants, the
-Portuguese graduate student on an EU fellowship---all had strong and incompatible opinions.
-In the end, I decided on a simple formula: go through the material,
-organized by year; look for "anomalies"; and pay special attention to any
-mention of "1097".
+It's great treasure, however, were his voluminous diaries, also known
+as the "Martyrlog".
+They were
 
 ---
 
@@ -73,3 +63,15 @@ Tun is a final-year graduate student at the Vernon Centre, with
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
 <!-- www.silenocheloni.com -->
 <!-- http://nostalghia.com/TheTopics/MartyrologCmp.html -->
+
+managed by his son Andrei and the ambiguous functionaries in his
+employ.
+Andrei was in Mykonos for the summer, and his instruction, when they
+arrived, were perhaps garbled by intermediaries: "Categorize by
+year---anomalies---1097." I did not understand, nor did my supervisor,
+a Tarkovsky scholar at the Vernon Centre.
+At the Institute, the retired semiotician, the cinematographer, the three administrative assistants, the
+Portuguese graduate student on an EU fellowship---all had strong and incompatible opinions.
+In the end, I decided on a simple formula: go through the material,
+organized by year; look for "anomalies"; and pay special attention to any
+mention of "1097".
