@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title: Despatches from Florence
+title:
 categories:
 date:  2023-02-24
 ---
@@ -12,6 +12,7 @@ date:  2023-02-24
 
 ---
 
+Despatches from Florence
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px;
  border: 0px
  solid black; line-height:1.3;">
@@ -54,7 +55,7 @@ They were
 ---
 
 <figure><img src
-    ="/img/lost/tarkovsky/tun.png" width="240"/>
+    ="/img/lost/tarkovsky/tun.png" width="200"/>
 	</figure>
 
 <br>
