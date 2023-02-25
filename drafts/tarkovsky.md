@@ -18,7 +18,6 @@ date:  2023-02-24
  </div>
 
 <br>
----
 
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
 drunken lover---at once
