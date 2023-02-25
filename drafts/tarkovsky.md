@@ -12,13 +12,15 @@ date:  2023-02-24
 
 ---
 
-<br>
-
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px;
  border: 0px
  solid black; line-height:1.3;">
    Despatches from Florence <br>
-<i>by Tun Casey</i> <br>
+   <i>by Tun Casey</i> <br>
+
+Tun Casey is a final-year graduate student at the Vernon Centre, with
+ interests in Russian and Italian cinema, historiography, and continental
+ literature.
  </div>
 
 <br>
