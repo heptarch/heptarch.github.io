@@ -31,7 +31,7 @@ Let me show you one of them.
 I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room---more
-a closet---next to the archives, ate at I Bastioni, and drank *branca menta*
+a closet---next to the archives on the second floor, ate at I Bastioni, and drank *branca menta*
 once a week on my stipend. The Institute was opposite a perfumery.
 In the evenings, the maestro attended his cauldron, and wafts of
 opoponax, frankincense, rose, and osmanthus, of ambrette and musk, would
@@ -44,10 +44,10 @@ etc.---managed by his son Andrei and the ambiguous functionaries in his
 employ.
 Andrei was in Mykonos for the summer, and his instructions reached me,
 garbled, perhaps, by various intermediaries: "Categorize by
-year---anomalies---1097." The retired film theorist, the
+year---anomalies---1097." The retired semiotician, the
 cinematographer, the three administrative assistants, the
 Portuguese graduate student in comparative literature and visual
-culture, even the janitor, all offered different 
+culture, even the janitor, had different was
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
