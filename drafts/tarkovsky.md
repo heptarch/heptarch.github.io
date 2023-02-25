@@ -77,7 +77,15 @@ water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="s
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">You'll need it.</span>
-	   
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/lost/tarkovsky/chiara.png" width="400"/>
+	<figcaption> <font size="-0.2"><i>Chiara Pontieri, caretaker of
+    the Institute.</i></font></figcaption>
+	</div>
+	</figure>
+
 She handed me two keys: a heavy, single-toothed barrel key for the room itself, and
 as she curtly explained, a Schlage for the filing cabinet I was to
 have access to.
