@@ -522,7 +522,7 @@ At the speed of thought, patterns
 ripple through earth
 and water,
 past the warren of despatch tubes,
-the soporific grandeur of the Great Hall, % in all its soporific grandeur,
+the soporific grandeur of the Great Hall,
 and towards a dark
 sky, welcoming in its infinitude.
 
