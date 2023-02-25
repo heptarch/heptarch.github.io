@@ -8,14 +8,14 @@ date:  2023-01-01
 ---
 <br>
 
-<!--<span style="padding-left: 40px; display:block">
+<span style="padding-left: 40px; display:block">
 Since all the tools for my untying <br>
 In four-dimensioned space are lying, <br>
 Where playful fancy intersperses <br>
 Whole avenues of universes...
 </span>
 <div style="text-align: right">James Clerk Maxwell, <i>Paradoxical Ode</i>
-</div><br>-->
+</div><br>
 
 <!--<span style="padding-left: 40px; display:block">
 Behold! Solomon's procession, accompanied by sixty warriors, the noblest of
@@ -35,7 +35,7 @@ the terrors of the night.
 </div> <br>-->
 
 <p align="center">
-*1875*
+<i>1875</i>
 </p>
 
   All the prosaic details of that dreary afternoon—sky
@@ -53,10 +53,10 @@ the terrors of the night.
 So, Ellen thinks, this is how you summon a demon.
 
 <p align="center">
-*1859*
+<i>1859</i>
 </p>
 
-*1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
+A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
 changing shape of the waves. "Ciamar?"<label for="sn-4"
        class="margin-toggle sidenote-number">
 </label>
@@ -78,12 +78,11 @@ Ellen's black notebook:
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
 <font size="-0.2">
-
-VI. Third disquisition on scones. <br>
+VI. Third disquisition on scones.
 </div>
 
 <p align="center">
-*1875*
+<i>1875</i>
 </p>
 
 The General Post Office pays the London
