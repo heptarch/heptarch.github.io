@@ -45,10 +45,14 @@ the great director's last effects---dried chrysanthemums, polyhedra in
 birch and argilite, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral
 polaroids---and could be found in odd places around the house, in
-little stacks under the cupboards, or inside the fuse box, as if they
+little stacks under the cupboards, say, or inside the fuse box, as if they
 were alive and exploring.
 Its great treasure, however, was the "Martyrlog", diaries spanning the
 period from 1970 until Tarkovsky's death in 1986.
+These were carefully administered by his son, Andrei, but he was away
+in Mykonos for the summer and had relayed instructions to me through
+a sequence of intermediaries: two administrative assistants, a retired
+and bibulous semiotician, a student 
 
 ---
 
@@ -63,12 +67,6 @@ Tun is a final-year graduate student at the Vernon Centre, with
 <!-- www.silenocheloni.com -->
 <!-- http://nostalghia.com/TheTopics/MartyrologCmp.html -->
 
-managed by his son Andrei and the ambiguous functionaries in his
-employ.
-Andrei was in Mykonos for the summer, and his instruction, when they
-arrived, were perhaps garbled by intermediaries: "Categorize by
-year---anomalies---1097." I did not understand, nor did my supervisor,
-a Tarkovsky scholar at the Vernon Centre.
 At the Institute, the retired semiotician, the cinematographer, the three administrative assistants, the
 Portuguese graduate student on an EU fellowship---all had strong and incompatible opinions.
 In the end, I decided on a simple formula: go through the material,
