@@ -45,7 +45,9 @@ etc.---managed by his son Andrei and the ambiguous functionaries in his
 employ.
 Andrei was in Mykonos for the summer, and his instructions were so
 garbled by intermediaries that, by the time they reached me, no one
-could make sense of them.
+could make sense of them. The retired film theorist, the
+cinematographer, the two administrative assistants, the graduate
+student in visual culture, even the janitor---none of them could 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
