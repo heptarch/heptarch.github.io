@@ -35,10 +35,10 @@ the terrors of the night.
 </div> <br>-->
 
 <p align="center">
-<i>1875</i>
+⁂
 </p>
 
-  All the prosaic details of that dreary afternoon—sky
+  <i>1875.</i> All the prosaic details of that dreary afternoon—sky
   alternating between bruised peach and gravecloth—rain imminent—the
   coach horses, champing and steaming in their oiled leather beneath
   Euston Arch—and now the stationmaster, taking a quick swig and
@@ -53,10 +53,10 @@ the terrors of the night.
 So, Ellen thinks, this is how you summon a demon.
 
 <p align="center">
-<i>1859</i>
+⁂
 </p>
 
-A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
+<i>1859.</i> A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
 changing shape of the waves. "Ciamar?"<label for="sn-4"
        class="margin-toggle sidenote-number">
 </label>
@@ -70,7 +70,7 @@ breath. "Child," he cries, then cracks into a smile: "What have you
 found now?"
 
 <p align="center">
-  ■
+■
   </p>
 
 Ellen's black notebook:
@@ -83,10 +83,10 @@ VI. Third disquisition on scones.
 </div>
 
 <p align="center">
-<i>1875</i>
+⁂
 </p>
 
-The General Post Office pays the London
+<i>1875.</i> The General Post Office pays the London
 Pneumatic Despatch Company the extravagant sum of £200,000 to build an
 underground distribution system: tunnels of narrow gauge rail, emptied
 by 20-foot wide iron turbines and shooting capsules like bullets with
@@ -123,10 +123,10 @@ details elude me.
 </div>
 
 <p align="center">
-<i>1865</i>
+⁂
   </p>
 
-Richard Plantagenet Campbell
+<i>1865.</i> Richard Plantagenet Campbell
 Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
 Chandos, heir of as many debts as titles, weary, honest, but not
 without his moments of shrewdness, visits the University of Aberdeen
@@ -197,10 +197,10 @@ IIX. He is in some other part of Ashen House—hear various
 </div>
 
 <p align="center">
-<i>1861</i>
+⁂
   </p>
 
-The study overlooks the gentle slopes of Kilspindie glen. Reverend
+<i>1861.</i> The study overlooks the gentle slopes of Kilspindie glen. Reverend
 Dewar leans on his chestnut bureau: a hymnary, some notes in Gaelic, a
 lump of amygdule sparkling with calcite. His eyes are kind. “Child,
 what should you like to do? The schoolmaster tells me he can teach you
@@ -234,10 +234,10 @@ Professor Thomson?"
 "Yes, child. Yes."
 
 <p align="center">
-<i>1869</i>
+⁂
   </p>
 
-In the Beethoven Rooms of 76 Harley Street, Professor Carey
+<i>1869.</i> In the Beethoven Rooms of 76 Harley Street, Professor Carey
 Foster anxiously regards the bluestockings who have assembled to learn
 thermodynamics. Ludwig van glowers at him from the wall. “Heat”—he
 pauses, steadies himself, and tries to speak over the disapproval of
@@ -298,10 +298,10 @@ IX. Wearing particularly outrageous
 </div>
 
 <p align="center">
-<i>1873</i>
+⁂
   </p>
 
-Passengers waft like autumn leaves through the doubled cube of the Hall. A doctor from Boxmoor talks about the Factory Act and ladies studying medicine—a mother of three chases little William, who shrieks with delight—beneath the allegorical statuary, where nobody watches, a boy in shabby clothes curls up and sleeps. All this commotion, the comings and goings, chaos and heartbreak and tobacco smoke, blur into a kind of stillness, modulated only by the rhythm of the timetable. Humans on average.
+<i>1873.</i> Passengers waft like autumn leaves through the doubled cube of the Hall. A doctor from Boxmoor talks about the Factory Act and ladies studying medicine—a mother of three chases little William, who shrieks with delight—beneath the allegorical statuary, where nobody watches, a boy in shabby clothes curls up and sleeps. All this commotion, the comings and goings, chaos and heartbreak and tobacco smoke, blur into a kind of stillness, modulated only by the rhythm of the timetable. Humans on average.
 
 Ellen as usual does not enter the Great Hall. Instead, she has resolved a disagreement with Foster about the electromagnetic shadow of a sphere, and walks briskly from the student laboratory of University College to Eversholt Street. She ducks into a culvert, unlocks a small service door, and lights the moderator lamp kept on a hook by the entrance. The elevator, once summoned, clanks croakingly up like an oversized frog and gulps her into its wrought-iron mouth. As it begins the slow descent to the tunnels, the hum of coils and windings gets louder, and Ellen feels as if she is becoming her true self once more: a self which expands through the old network, which winds in arcs of jagged light through the despatch tubes, reflectors, and magnetized colloids.
 
@@ -325,10 +325,10 @@ lamp, compass, and notepad, and tramps off into the tunnels to learn
 the precise bearings of the fourth dimension.
 
 <p align="center">
-<i>1873</i>
+⁂
   </p>
 
-An envelope, ironically delivered by coach, arrives on the chairman’s
+<i>1873.</i> An envelope, ironically delivered by coach, arrives on the chairman’s
 desk; a welcome distraction from negotiations with the GPO. Inside:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
@@ -394,10 +394,10 @@ borrowed a dollop of negentropy,” he says sheepishly.
 Another lurch. Ellen wakes with three white hairs.
 
 <p align="center">
-<i>1875</i>
+⁂
   </p>
 
-Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can see the twin giants of Westminster towering over Dean’s Yard. He has that air of abstraction and regret that so often hovers about men of station; he has just learned from Disraeli that he will govern Madras. Luck never seemed to him personified by a Lady, but rather a profligate and wastrel Lord, who giveth or taketh depending on his humour, and in whose service each of us is, from time to time, dragooned.
+<i>1875.</i> Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can see the twin giants of Westminster towering over Dean’s Yard. He has that air of abstraction and regret that so often hovers about men of station; he has just learned from Disraeli that he will govern Madras. Luck never seemed to him personified by a Lady, but rather a profligate and wastrel Lord, who giveth or taketh depending on his humour, and in whose service each of us is, from time to time, dragooned.
 
 A knock at the door. “Ah, Miss Watson. Come in.” Ellen enters; the
 Duke continues to gaze at Hawksmoor’s giants. “I remember your talk at
@@ -473,10 +473,10 @@ X. Reveals how to free him from Ashen House.
 </div>
 
 <p align="center">
-<i>1875</i>
+⁂
   </p>
 
-The hands of the Great Hall’s chronometer are immobile. The
+<i>1875.</i> The hands of the Great Hall’s chronometer are immobile. The
 stationmaster dozes—trains delayed by fog—even the bronze likeness of
 George Stephenson
 drowsy in the vapour. A tremor
