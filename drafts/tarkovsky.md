@@ -21,6 +21,7 @@ neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
 of secrets.
 
 I spent the summer of 2012 as a student archivist at the <i>Andrei
-Tarkovsky International Institute</i>, 
+Tarkovsky International Institute</i>, opposite a master "profumiere",
+from whose 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
