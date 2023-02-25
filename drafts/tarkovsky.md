@@ -38,7 +38,7 @@ In the evenings, the maestro attended his cauldron, and wafts of
 opoponax, frankincense, rose, and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so richly.
 
-The archives are little more than a disorganized repository of
+The "Institute" is little more than a disorganized repository of
 the great director's final effects---books, journals, polaroids, and
 so on---managed by his son Andrei and the ambiguous functionaries in his employ.
 Andrei was in Mykonos for the summer, so my duties
