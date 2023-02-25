@@ -114,14 +114,23 @@ have access to.
 She left as abruptly as she had arrived.
 I found myself alone with the smell of anise and a feeling that the
 moon was laughing, invisibly, far above.
-After two aimless weeks in Via di San Niccolò, one signature would change my life.
+After two aimless weeks in Via di San Niccolò, that signature would change my life.
 
 <p align="center">
 ⁂</p>
 
 <p align="center">
 II. THE LOCKED ROOM
-  </p>
+</p>
+
+<figure>
+    <div style="text-align:center"><img src
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
+    width="400"/> <br>
+	
+	<figcaption> <font size="-0.2"><i>The forbidded Martyrlogs.</i></font></figcaption>
+	</div>
+	</figure>
 
 ---
 
