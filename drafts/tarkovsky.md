@@ -32,7 +32,7 @@ Niccolò, a lonely and somnolent giant emerging
 from the piazza Giuseppe Poggi. It is a place of secrets.
 Let me show you one of them.
 
-<p>I spent the summer of 2012 as a student archivist at the Andrei
+<p align="left">I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room—more
 a closet—on the second floor, ate at I Bastioni, and drank <i>branca menta</i>
@@ -63,7 +63,15 @@ Eventually, I understood I was to organize and evaluate a small,
 unpublished portion of the diaries, kept in one of the locked rooms on
 the fourth floor.
 One of the assistants, a strange and brilliant Florentine called
-Chiara who claimed to have beaten Umberto Eco in chess, 
+Chiara who claimed to have beaten Umberto Eco in chess,
+
+<p align="center">
+⁂
+</p>
+
+<p align="center">
+I. VIA DI SAN NICCOLÒ
+  </p>
 
 ---
 
