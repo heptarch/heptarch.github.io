@@ -68,13 +68,13 @@ assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
-
 Eventually, I understood I was to organize and evaluate a small,
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would provide the necessary keys, and at the end of the
 summer, I would communicate my findings in the form of a report to
 a professor of Polish literature in Warsaw.
+
 The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and was never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon, unannounced, and
