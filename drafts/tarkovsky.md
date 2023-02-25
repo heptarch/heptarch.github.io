@@ -31,7 +31,8 @@ Let me show you one of them.
 I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91, Via di San
 Niccolò. I slept at the "Institute", in a small room---more
-of a closet---next to the archives, ate 
+a closet---next to the archives, ate at I Bastioni and drank amari
+once a week on my stipend, and walked Florence on the weekends.
 
 The "Institute" is little more than a disorganized repository of
 the great director's last effects, managed by his son Andrei and the
