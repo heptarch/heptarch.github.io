@@ -41,7 +41,7 @@ In the evenings, the maestro stirred his cauldron, and wafts of
 opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the
-background as other colours took their place.</p>
+background and others take their place.</p>
 
 <figure>
     <div style="text-align:center"><img src
@@ -104,7 +104,7 @@ Chiara watched intently as I signed and dated a slip, then drained her
 sambuca and left as abruptly as she had arrived.
 I found myself alone once more, an untouched glass in front of me, the moon, I sensed,
 laughing invisibly above.
-After two aimless weeks in Via di San Niccolò, 
+After two aimless weeks in Via di San Niccolò, one signature would 
 
 <p align="center">
 ⁂</p>
