@@ -48,7 +48,7 @@ garbled by intermediaries that, by the time they reached me, no one
 could make sense of them.
 One of the caretakers, Chiara, was a retired film theorist and student
 of Umberto Eco.
-"Eco himself," she once remarked, in rapidfire Florentine, "would
+"Umberto himself," she once remarked, in rapidfire Florentine, "would
 find these uninterpretable."
 In essence,
 
