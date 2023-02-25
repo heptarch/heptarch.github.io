@@ -124,7 +124,7 @@ After two aimless weeks in Via di San Niccolò, that signature would change my l
 II. THE LOCKED ROOM
 </p>
 
-I set to work the next morning,
+The next morning, after three *espressi* I set to work.
 
 <figure>
     <div style="text-align:center"><img src
