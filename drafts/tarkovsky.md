@@ -10,7 +10,12 @@ date:  2023-02-24
 <b>Patina: Film and Literary Quarterly</b> [2013, vol. IV-2]
 
 Despatches from Florence <br>
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+ <font size="-0.2">
 <i>by Tun Casey</i>
+ </font>
+ </div>
 
 ---
 
