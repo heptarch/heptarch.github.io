@@ -114,8 +114,8 @@ have access to.
 She left as abruptly as she had arrived, and I found myself alone once
 more, an untouched glass in front of me, and the moon, I sensed,
 laughing invisibly above.
-After two aimless weeks in Via di San Niccolò, two weeks of perfume
-and *branca menta*, one signature would change my life.
+After two weeks in Via di San Niccolò, two weeks of *branca menta* and
+rich but aimless dreaming, one signature would change my life.
 
 <p align="center">
 ⁂</p>
