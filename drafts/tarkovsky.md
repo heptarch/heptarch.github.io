@@ -44,7 +44,8 @@ etc.---managed by his son Andrei and the ambiguous functionaries in his
 employ.
 Andrei was in Mykonos for the summer, and his instructions reached me,
 garbled, perhaps, by various intermediaries: "Categorize by
-year---anomalies---1097." My supervisor in Vernon was unhelpful.
+year---anomalies---1097." I did not understand, nor did my supervisor,
+a Tarkovsky scholar at the Vernon Centre.
 The retired semiotician, the cinematographer, the three administrative assistants, the
 Portuguese graduate student in comparative literature and visual
 culture, even the janitor, had different was
