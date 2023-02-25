@@ -116,7 +116,7 @@ I found myself alone with the smell of anise and a feeling that the
 moon was laughing invisibly, far above.
 
 After two aimless weeks in Via di San Niccolò, two weeks of perfume,
-*branca menta*, and sunset rambles, one signature would change my life.
+*branca menta*, and sunset rambles through Florence, a door would open
 
 <p align="center">
 ⁂</p>
