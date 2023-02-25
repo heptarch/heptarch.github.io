@@ -15,9 +15,7 @@ date:  2023-02-24
 
 
 <p align="center">
-<font size="+0.2">
 <i>THE PACT</i>
-</font>
 </p>
 
 <p align="center">
@@ -126,9 +124,8 @@ moon was laughing invisibly, far above.
 II. THE LOCKED ROOM
 </p>
 
-After two aimless weeks in Via di San Niccolò, two weeks of perfume,
-*branca menta*, and sunset rambles through Florence, a door would open.
-I set to work the next morning.
+After two aimless weeks in Via di San Niccolò, the shrine had opened,
+and my 
 
 <figure>
     <div style="text-align:center"><img src
