@@ -30,8 +30,8 @@ drunken lover---at once
 intimate and disorienting---across the parchment of the Oltrarno
 quarter. It is a great favourite of locals; slyly regarding each other
 over their amari, they watch from neighbouring bars as the sun sets
-and shadows slink down the alleys and past the tower of San
-Niccolò, that lonely and somnolent giant emerging
+and shadows slink down the laneways and past the tower of San
+Niccolò, a lonely and somnolent giant emerging
 from the piazza Giuseppe Poggi. It is a place of secrets.
 Let me show you one of them.
 
