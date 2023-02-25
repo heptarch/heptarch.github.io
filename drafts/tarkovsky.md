@@ -32,6 +32,15 @@ Niccolò, that lonely and somnolent giant emerging
 from the piazza Giuseppe Poggi. It is a place of secrets.
 Let me show you one of them.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079133610386399303/hapax_grainy_polaroid_of_Via_di_San_Niccolo_at_night_16db7d3c-1575-4fb2-9887-9d5dc1af03a9.png"
+    width="400"/> <br>
+	
+	<figcaption> <font size="-0.2"><i>Via di San Niccolò.</i></font></figcaption>
+	</div>
+	</figure>
+
 <p align="left">I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room—more
