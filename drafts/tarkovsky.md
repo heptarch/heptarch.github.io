@@ -100,7 +100,7 @@ smiled: "Ne avrai bisogno."<label for="sn-1"
 
 Chiara watched intently as I signed and dated a slip, then drained her
 sambuca and handed me two keys; a heavy, single-toothed barrel key for the
-room itself, and a Schlage for the single filing cabinet I was to
+room itself, and a Schlage for the filing cabinet I was to
 have access to.
 She left as abruptly as she had arrived, and I found myself alone once
 more, an untouched glass in front of me, and the moon, I sensed,
