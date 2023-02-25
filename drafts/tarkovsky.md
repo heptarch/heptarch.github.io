@@ -69,7 +69,9 @@ Dr. Seweryn Kuśmierczyk, a professor of Polish literature at Warsaw
 University.
 The "caretaker", a thin, ungainly woman called Chiara, smoked
 constantly and seemed to have little to do with the Institute.
-After two weeks of perfume and *branca menta*,
+She arrived one day, unannounced, summoned me to the kitchen, and
+wordlessly poured us shots of sambuca, one leg up on the table as the
+water clouded.
 
 <p align="center">
 ⁂</p>
