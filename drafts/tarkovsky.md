@@ -36,8 +36,7 @@ Niccolò. I slept at the Institute, in a small room---more
 a closet---next to the archives, ate at I Bastioni, and drank *branca menta*
 once a week on my stipend. The Institute was opposite a perfumery.
 In the evenings, the maestro attended his cauldron, and wafts of
-opoponax, frankincense, rose, and osmanthus, of ambrette, lavender,
-and musk, those multifarious odours would float into the closet and colour my dreams.
+opoponax, frankincense, rose, and osmanthus, or ambrette and musk, would float into the closet and colour my dreams.
 
 The "Institute" is little more than a disorganized repository of
 the great director's last effects, managed by his son Andrei and the
