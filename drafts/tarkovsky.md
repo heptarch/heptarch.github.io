@@ -76,7 +76,9 @@ water clouded white. After a pause: "Ne avrai bisogno."<label for="sn-1"
 <input type="checkbox"
        id="sn-1"
        class="margin-toggle"/>
-<span class="sidenote">You'll need it.</span>
+	   <span class="sidenote">You'll need it.</span>
+She handed me two keys: a heavy, single-toothed barrel key for the room itself, and
+a Schlage for the filing cabinet I was to have access to.
 
 <p align="center">
 ⁂</p>
