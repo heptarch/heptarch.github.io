@@ -90,8 +90,8 @@ The "caretaker" was a gaunt woman called Chiara Pontieri who smoked
 constantly and was almost never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon,
 unannounced, two weeks into my stay, and
-wordlessly poured us two glasses of sambuca.
-While the water clouded over, she stretched one leg onto the table,
+wordlessly poured us two glasses of sambuca on ice.
+While the liquid clouded over, she stretched one leg onto the table,
 lit a cigarette, and smiled: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
