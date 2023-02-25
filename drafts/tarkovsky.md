@@ -135,6 +135,13 @@ The next morning, after three *espressi* I set to work.
 	</div>
 	</figure>
 
+<p align="center">
+⁂</p>
+
+<p align="center">
+III. DOKTOR
+</p>
+
 ---
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
