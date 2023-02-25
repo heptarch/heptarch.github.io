@@ -7,14 +7,14 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: Film and Literary Quarterly</b> [2013, vol. IV-2]
+ Despatches from Florence <br>
+ 
+<i>by Tun Casey</i> <br>
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px;
  border: 0px
  solid black; line-height:1.3;">
- Despatches from Florence <br>
- 
-<i>by Tun Casey</i> <br>
+<b>Patina: Film and Literary Quarterly</b> [2013, vol. IV-2]
  </div>
 
 <br>
@@ -44,10 +44,10 @@ the great director's final effects---books, journals, polaroids,
 etc.---managed by his son Andrei and the ambiguous functionaries in his
 employ.
 Andrei was in Mykonos for the summer, and his instructions were so
-garbled by intermediaries that, by the time they reached me, no one
+garbled and  by intermediaries that, by the time they reached me, no one
 could make sense of them. The retired film theorist, the
 cinematographer, the administrative assistants, the janitor, the
-Portuguese graduate student in visual culture---all the 
+Portuguese graduate student in comparative literature and visual culture---all the 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
