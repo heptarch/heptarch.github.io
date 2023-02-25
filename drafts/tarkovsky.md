@@ -115,7 +115,8 @@ She left as abruptly as she had arrived.
 I found myself alone with the smell of anise and a feeling that the
 moon was laughing invisibly, far above.
 
-After two aimless weeks in Via di San Niccolò, that signature would change my life.
+After two aimless weeks in Via di San Niccolò, two weeks of perfume,
+*branca menta*, and sunset rambles, one signature would change my life.
 
 <p align="center">
 ⁂</p>
