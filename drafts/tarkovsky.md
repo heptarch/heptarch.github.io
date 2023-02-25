@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Twenty-four years"
+title: 
 categories:
 date:  2023-02-24
 ---
