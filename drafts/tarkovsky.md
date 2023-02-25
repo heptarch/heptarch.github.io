@@ -49,6 +49,7 @@ Andrei was in Mykonos for the summer, and his instructions were so
 garbled by intermediaries that, by the time they reached me, no one
 could make sense of them.
 One of the caretakers, Chiara, was a retired film theorist.
+"Adorno himself," she once remarked, "would balk at these 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
