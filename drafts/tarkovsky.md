@@ -40,7 +40,7 @@ Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room---more
 a closet---next to the archives on the second floor, ate at I Bastioni, and drank *branca menta*
 once a week on my stipend. The Institute was opposite a perfumery.
-In the evenings, the maestro attended his cauldron, and wafts of
+In the evenings, the maestro stirred his cauldron, and wafts of
 opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the background.
