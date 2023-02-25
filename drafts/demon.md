@@ -445,10 +445,9 @@ removed the bindings to see further (one would think superfluous) proof of the d
 powers. Ashmedai booted him all the way to Baghdad and usurped him as
 king!
 
-Ha.
+"Ha.
 Enslave a free creature, make it dance, and you'll reap a begoo for your troubles.
-
-“But blood shows; Solomon was discovered from some
+But blood shows; Solomon was discovered from some
 impoverished token of his kingship and restored. As for Ashmedai,
 accounts differ... In one version, his spirit flees into the air on
 Solomon's return, like
