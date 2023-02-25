@@ -12,9 +12,7 @@ date:  2023-02-24
 Despatches from Florence <br>
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
- <font size="-0.2">
 <i>by Tun Casey</i>
- </font>
  </div>
 
 ---
@@ -27,9 +25,14 @@ neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
 of secrets.
 Come, let me show you one of them.
 
-I spent the summer of 2012 as a student archivist at the "Andrei
-Tarkovsky International Institute", a slightly anarchic repository of
-the great director's effects, situated at 91, Via di San
+I spent the summer of 2012 as a student archivist at the Andrei
+Tarkovsky International Institute. The "Institute" is, in point of fact,
+little more than a disorganized repository of
+the great director's final effects. His son, Andrei, who
+usualy holidays there in the summer, was in Mykonos, so my archival
+duties 
+
+situated at 91, Via di San
 Niccolò. I slept in a small
 room---more of a closet---next to the opposite a master "profumiere",
 from whose workshop the most ex
