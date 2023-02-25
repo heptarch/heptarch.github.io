@@ -83,7 +83,7 @@ Eventually, I understood I was to organize, evaluate, and possibly digitize an
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
-summer, I would report to a professor of Polish literature in Warsaw.
+summer, report to a professor of Polish literature in Warsaw.
 
 The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and was never to be found at the Institute.
@@ -91,7 +91,7 @@ She appeared in the kitchen on the evening of a full moon,
 unannounced, two weeks into my stay, and
 wordlessly poured us two glasses of sambuca.
 While the water clouded over, she stretched one leg onto the table,
-lit cigatrette, and smiled: "Ne avrai bisogno."<label for="sn-1"
+lit a cigarette, and smiled: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
