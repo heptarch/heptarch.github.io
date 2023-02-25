@@ -12,7 +12,10 @@ date:  2023-02-24
 
 ---
 
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
 Despatches from Florence. <i>By Tun Casey.</i>
+ </div>
 
 <p align="center">
 ⁂
@@ -66,9 +69,3 @@ Tun is a final-year graduate student at the Vernon Centre, with
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
 <!-- www.silenocheloni.com -->
 <!-- http://nostalghia.com/TheTopics/MartyrologCmp.html -->
-
-At the Institute, the retired semiotician, the cinematographer, the three administrative assistants, the
-Portuguese graduate student on an EU fellowship---all had strong and incompatible opinions.
-In the end, I decided on a simple formula: go through the material,
-organized by year; look for "anomalies"; and pay special attention to any
-mention of "1097".
