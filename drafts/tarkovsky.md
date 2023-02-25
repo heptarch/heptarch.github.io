@@ -79,7 +79,7 @@ water clouded white. After a pause: "Ne avrai bisogno."<label for="sn-1"
 	   <span class="sidenote">You'll need it.</span>
 	   
 She handed me two keys: a heavy, single-toothed barrel key for the room itself, and
-a Schlage for the filing cabinet I was to have access to.
+as she curtly explained, a Schlage for the filing cabinet I was to have access to.
 She drained her sambuca, and left as abruptly as she had arrived.
 
 <p align="center">
