@@ -31,7 +31,7 @@ Let me show you one of them.
 I spent the summer of 2012 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room---more
-a closet---next to a study on the second floor, ate at I Bastioni, and drank *branca menta*
+a closet---on the second floor, ate at I Bastioni, and drank *branca menta*
 once a week on my stipend. The Institute was opposite a perfumery.
 In the evenings, the maestro stirred his cauldron, and wafts of
 opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
