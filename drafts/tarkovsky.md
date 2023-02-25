@@ -77,9 +77,9 @@ summer, I would communicate my findings in the form of a report to
 Dr. Seweryn Kuśmierczyk, a professor of Polish literature in Warsaw.
 The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and seemed to have little to do with the Institute.
-She appeared in the kitchen one evening, unannounced, and
+She appeared in the kitchen one evening, on the night of a full moon, unannounced, and
 wordlessly poured us two glasses of sambuca, one leg up on the table as the
-water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="sn-1"
+water clouded. After a pause, she smiled: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
