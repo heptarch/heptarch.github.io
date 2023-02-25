@@ -50,7 +50,7 @@ polaroids---and could be found in odd places around the house, in
 little stacks under the cupboards, say, or inside the fuse box, as if they
 were alive and exploring.
 Its crowning treasure, however, was the "Martyrlog", diaries spanning the
-period from 1970 until Tarkovsky's death in 1986.
+period from *Solaris* in 1970 until Tarkovsky's death in 1986.
 These were carefully administered by his son, Andrei, but he was away
 in Mykonos for the summer and had relayed instructions to me through
 a sequence of intermediaries. I spoke with two administrative
