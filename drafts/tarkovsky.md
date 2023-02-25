@@ -98,14 +98,15 @@ smiled: "Ne avrai bisogno."<label for="sn-1"
 	</div>
 	</figure>
 
-She handed me two keys, a heavy, single-toothed barrel key for the
+Chiara watched intently as I signed and dated a slip, then drained her
+sambuca and handed me two keys; a heavy, single-toothed barrel key for the
 room itself, and a Schlage for the single filing cabinet I was to
 have access to.
-Chiara watched intently as I signed and dated a slip, then drained her
-sambuca and left as abruptly as she had arrived.
-I found myself alone once more, an untouched glass in front of me, the moon, I sensed,
+She left as abruptly as she had arrived, and I found myself alone once
+more, an untouched glass in front of me, and the moon, I sensed,
 laughing invisibly above.
-After two aimless weeks in Via di San Niccolò, one signature would 
+After two aimless weeks in Via di San Niccolò, two weeks of perfume
+and *branca menta*, one signature would change my life.
 
 <p align="center">
 ⁂</p>
