@@ -40,7 +40,8 @@ once a week on my stipend. The Institute was opposite a perfumery.
 In the evenings, the maestro stirred his cauldron, and wafts of
 opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
-richly. But the riches of Florence would soon recede into the background.</p>
+richly. But the riches of Florence would soon recede into the
+background as other colours took their place.</p>
 
 The Institute itself was aclutter with
 the great director's last effects---dried chrysanthemums, polyhedra in
