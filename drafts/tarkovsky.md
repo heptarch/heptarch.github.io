@@ -7,7 +7,7 @@ categories:
 date:  2023-02-24
 ---
 
-
+<b>Patina: Trinity College Film and Literary Quarterly</b>
 <i>Tun Casey</i>
 
 <br>
