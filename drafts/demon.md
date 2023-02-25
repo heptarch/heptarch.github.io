@@ -34,23 +34,27 @@ the terrors of the night.
 <!--Thy Master's name is inscribed upon you!<div style="text-align: right"><i> Midrash HaGadol (מדרש הגדול) </i>
 </div> <br>-->
 
-*1875.* All the prosaic details of that dreary afternoon---sky alternating between bruised peach and
-gravecloth---rain imminent---the coach horses, champing and steaming
-in their oiled leather beneath Euston Arch---and now the stationmaster,
-taking a quick swig and eyeing the coffered vault of
-the Great Hall with mindless curiosity---all these details are
-infinitely beneath the notice of Ellen Watson, who, 200
-yards directly below the stationmaster's rum, gazes with rapture at the fragile and
-impossible shape before her.
-Induction coils hum, and a hundred electromagnets, girding their
-halocarbon alembics and scattered across
-London, sing a great shadow into being.
+<p align="center">
+*1875*
+</p>
+
+  All the prosaic details of that dreary afternoon—sky
+  alternating between bruised peach and gravecloth—rain imminent—the
+  coach horses, champing and steaming in their oiled leather beneath
+  Euston Arch—and now the stationmaster, taking a quick swig and
+  eyeing the coffered vault of the Great Hall with mindless
+  curiosity—all these details are infinitely beneath the notice of
+  Ellen Watson, who, 200 yards directly below the stationmaster’s rum,
+  gazes with rapture at the fragile and impossible shape before
+  her. Induction coils hum, and a hundred electromagnets, girding
+  their halocarbon alembics and scattered across London, sing a great
+  shadow into being.
 
 So, Ellen thinks, this is how you summon a demon.
 
 <p align="center">
-  ⁂
-  </p>
+*1859*
+</p>
 
 *1859.* A little girl is seen to wander Aberdeen's Trinity Quay, fascinated by the
 changing shape of the waves. "Ciamar?"<label for="sn-4"
@@ -66,55 +70,69 @@ breath. "Child," he cries, then cracks into a smile: "What have you
 found now?"
 
 <p align="center">
-  ⁂
+  ■
   </p>
 
-*1874.* The General Post Office pays the London
-Pneumatic Despatch Company the extravagant sum of
-£200,000 to build an underground distribution system: <!--mile-long-->
-tunnels of narrow gauge rail, emptied by 20-foot wide iron turbines
-and shooting capsules like bullets with inrushing air.
-Construction commences in 1863 with a successful test run between Euston Square and the North
-West District Post Office. <!--, a third of a mile hence.-->
-The tubes make it past Holborn, and as far as the General Post Office on St Martin's
-le Grand, a few years later and miles southwest, before arriving at
-their ultimate terminus: a bear market. Although the Post
-Office uses the tubes for a couple of years, they run at a loss, and the system is officially retired.
+Ellen's black notebook:
 
-But a company ambitious enough to propose a subterranean network of
-pneumatic tubes cannot reasonably be expected to stop there.
-Visitors to the diggings are confused by seemingly unnecessary
-tunnels, forks they are forbidden from taking, and huge, humming
-pieces of apparatus unconnected to the turbines or the cacophonous
-engines which drive them.
-Engineers and builders are given only fragments of the blueprint.
-Questions about other sections are at first politely, then firmly,
-discouraged, and those who keep asking are let go.
-A young woman is rumored to wander about
-and attend to the machines.
-When the network is abandoned, a larger enterprise will continue.
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+<font size="-0.2">
 
-<!--ʕ. The darkness moves from system to system, a trail of dead stars in its wake.-->
-
-<!-- ʕ. *The network threads the galaxy in lines of otherspace, bloodlight and
-dead stars, in webs of unentanglable complexity.
-Yet no hammer, axe, or instrument of iron was to be heard while it was built.*
-*Solomon's Temple was made of whole stone, drafted from the quarry, yet
-no hammer, axe, or instrument of iron was to be heard while it was built.*
-<!--darkness moves from system to system, a trail of dead stars in its wake.-->
+VI. Third disquisition on scones. <br>
+</div>
 
 <p align="center">
-  ⁂
+*1875*
+</p>
+
+The General Post Office pays the London
+Pneumatic Despatch Company the extravagant sum of £200,000 to build an
+underground distribution system: tunnels of narrow gauge rail, emptied
+by 20-foot wide iron turbines and shooting capsules like bullets with
+inrushing air. Construction commences in 1863 with a successful test
+run between Euston Square and the North West District Post Office.
+The tubes make it past Holborn, and as far as the General Post Office
+on St Martin’s le Grand, a few years later and miles southwest, before
+arriving at their ultimate terminus: a bear market. Although the Post
+Office uses the tubes for a couple of years, they run at a loss, and
+the system is officially retired.
+
+But a company ambitious enough to propose a subterranean network of
+pneumatic tubes cannot reasonably be expected to stop there. Visitors
+to the diggings are confused by seemingly unnecessary tunnels, forks
+they are forbidden from taking, and huge, humming pieces of apparatus
+unconnected to the turbines or the cacophonous engines which drive
+them. Engineers and builders are given only fragments of the
+blueprint. Questions about other sections are at first politely, then
+firmly, discouraged, and those who keep asking are let go. A young
+woman is rumored to wander about and attend to the machines. Although
+the network is abandoned, a larger enterprise continues.
+
+<p align="center">
+  ■
   </p>
 
-*1865.* Richard Plantagenet Campbell
- Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
- Chandos, heir of as many debts as titles, weary, honest, but not without his
- moments of shrewdness, visits the University of Aberdeen in his
- capacity as Chairman of the London Pneumatic Despatch Company to
- consult some engineers.
-They share a corker: a lass, no more
- than ten, a ward of Auld Dauvit and, one mutters darkly, a "leanabh breugach",<label for="sn-1"
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+<font size="-0.2">
+VII. Lies in bed with a bad case of "scone-rot and
+begoo". Shares a method to remember the future, but
+details elude me.
+</div>
+
+<p align="center">
+*1865*
+  </p>
+
+Richard Plantagenet Campbell
+Temple-Nugent-Brydges-Chandos-Grenville, Third Duke of Buckingham and
+Chandos, heir of as many debts as titles, weary, honest, but not
+without his moments of shrewdness, visits the University of Aberdeen
+in his capacity as Chairman of the London Pneumatic Despatch Company
+to consult some engineers. They share a corker: a lass, no more than
+ten, a ward of Auld Dauvit and, one mutters darkly, a ``leanabh
+breugach'',<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -122,54 +140,67 @@ They share a corker: a lass, no more
        class="margin-toggle"/>
 <span class="sidenote">
   Illegitimate child.
-</span> is giving a lecture
- on natural philosophy.
- The Duke is intrigued---he has a daughter the same age---and finds
- himself laboriously ascending the granite steps of Cromwell Tower the
- next morning, curiosity more powerful than the biting lowland cold.
- 
-Auld "Davie" Thomson, an immense, stentorian don who must stoop to enter
- the classroom, introduces "Miss Watson" as an
- "exceedingly sharp pupil of the modern developments". He folds himself into a
- chair in the front row and tenderly motions her to begin.
- Miss Watson coughs nervously, and after another paternal nod,
- addresses the room in a high, calm, clear voice:
+</span> is giving a lecture on natural
+philosophy. The Duke is intrigued—he has a daughter the same age—and
+finds himself laboriously ascending the granite steps of Cromwell
+Tower the next morning, curiosity more powerful than the biting
+lowland cold.
+
+Auld Dauvit Thomson, an immense, stentorian don
+who must stoop to
+enter the classroom, introduces ``Miss Watson'' as an ``exceedingly
+sharp pupil of the modern developments''. He folds himself into a
+chair in the front row and tenderly motions her to begin. Miss Watson
+coughs nervously, and after another paternal nod, addresses the room
+in a high, calm, clear voice:
+
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
 <b>A Unified Dynamical Theory of Gravitational and Electromagnetic Fields</b> <br>
 
 Maxwell's treatise of 1864 explains the mutual influence of
-charged or magnetised bodies, without action at a distance, by hypothesizing an electromagnetic field.
-Analogously, I posit a gravitational field to explain Newton's law of gravity.
-In addition, by supposing an additional spatial dimension (cf. Möbius,
-Riemann, Hamilton &c), this furnishes a
-mechanism to unify gravity and electromagnetism...
+    charged or magnetised bodies, without action at a distance, by the
+    hypothesis of an electromagnetic field. Analogously, I posit a
+    gravitational field for Newtonian gravity. By
+    supposing a fourth spatial dimension
+    (cf. Möbius, Riemann, Hamilton &c), this additionally furnishes a
+    mechanism by which to unify gravity and electromagnetism...
 </font>
 </div>
-The talk is gibberish to the Duke. The play of symbols, the
-twined threads of argument, its flashes of scientific
-wit, are lost on him; what is not lost, however, is the flame of
-living joy in Miss Watson's eyes, a flame which kindles
-his own dim embers and threatens to engulf the room.
-It is both childlike and strangely unchildlike; it has something of
-the Old Testament prophet or the Greek philosopher in it.
-Like Davie Thomson in the cramped space of Cromwell Tower, her small
-frame can barely contain it.
+The talk is gibberish to
+    the Duke. The play of symbols, the twined threads of argument, its
+    flashes of scientific wit, are lost on him; what is not lost,
+    however, is the flame of living joy in Miss Watson’s eyes, a flame
+    which kindles his own dim embers and threatens to engulf the
+    room. It is both childlike and strangely unchildlike, with
+    something of the Old Testament prophet or the Greek philosopher in
+    it. Like Davie Thomson in the cramped space of Cromwell Tower, her
+    small frame can barely contain it.
 
-And so the Duke of Buckingham and Chandos---disappointed in politics, business, himself, the whole
-backward scheme of his life---formulates the terms of an offer he will
-later describe as "inspired lunacy". Ellen accepts.
+And so the Duke of Buckingham and Chandos—disappointed in politics,
+business,
+the whole backward scheme of his life—formulates the terms of an offer he will later describe as ``inspired lunacy''. Ellen accepts.
 
 <p align="center">
-  ⁂
+  ■
   </p>
 
-*1861.* The study overlooks the gentle slopes of Kilspindie
- glen. Reverend Dewar leans on his chestnut bureau: a hymnary, some notes in Gaelic,
- a lump of amygdule sparkling with calcite. His eyes are kind.
- "Child, what should you like to do? The schoolmaster tells me he can
- teach you nothing."
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+<font size="-0.2">
+IIX. He is in some other part of Ashen House—hear various ``Ha!''s. Find him trying on legal wigs.
+</div>
+
+<p align="center">
+*1861*
+  </p>
+
+The study overlooks the gentle slopes of Kilspindie glen. Reverend
+Dewar leans on his chestnut bureau: a hymnary, some notes in Gaelic, a
+lump of amygdule sparkling with calcite. His eyes are kind. “Child,
+what should you like to do? The schoolmaster tells me he can teach you
+nothing.”
 
 "Tilleadh."<label for="sn-2"
        class="margin-toggle sidenote-number">
@@ -181,9 +212,9 @@ later describe as "inspired lunacy". Ellen accepts.
 To return.
 </span>
 
-"I... I feared as much. Susan is too ill to travel to Aberdeen, but we
-want what is best for you, and what He clearly wills, with His living
-breath, by this beannachd ann an còmhdach.<label for="sn-3"
+“I feared as much. Susan is too ill to travel to Aberdeen, but we want
+       what is best for you, and what He clearly wills, with His
+       living breath, by this beannachd ann an còmhdach.<label for="sn-3"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -199,120 +230,106 @@ Professor Thomson?"
 "Yes, child. Yes."
 
 <p align="center">
-  ⁂
+*1869*
   </p>
 
-*1869.* In the Beethoven Rooms of 76 Harley
-Street, Professor Carey Foster anxiously regards the bluestockings who have
-assembled to learn thermodynamics.
-Ludwig van glowers at him from the wall.
-"Heat"---he pauses, steadies himself, and tries to speak over the
-disapproval of the portrait---"heat, ladies, is not merely those sensible properties
-of a teapot or a fireplace with which we are all familiar, and
-therefore strike us as too commonplace to merit discussion. Heat
-lives in the realm of measurable phenomena; its very sensibility is
-evidence of its effects. If measurable, it must admit of precise
-determination. In these lectures, we will learn how these
-determinations are made, and the physical basis on which they rest. We
-will cover thermometry, calorimetry, and the basic dynamical
-principles governing the evolution of a thermodynamic system---like our
-friend the teapot."
-He smiles and looks around the room. "Let us start with the
-definition of temperature..."
+In the Beethoven Rooms of 76 Harley Street, Professor Carey
+Foster anxiously regards the bluestockings who have assembled to learn
+thermodynamics. Ludwig van glowers at him from the wall. “Heat”—he
+pauses, steadies himself, and tries to speak over the disapproval of
+the portrait—“heat, ladies, is not merely those sensible properties of
+a teapot or a fireplace with which we are all familiar, and therefore
+strike us as too commonplace to merit discussion. Heat lives in the
+realm of measurable phenomena; its very sensibility is evidence of its
+effects. If measurable, it must admit of precise determination. In
+these lectures, we will learn how these determinations are made, and
+the physical basis on which they rest. We will cover thermometry,
+calorimetry, and the basic dynamical principles governing the
+evolution of a thermodynamic system—like our friend the teapot.” He
+smiles and looks around the room. “Let us start with the definition of
+temperature...”
 
-After the lecture and questions are finished, Foster is packing
-his valise when a young girl approaches. Is she lost? She does not
-look lost. "Professor Foster, I wonder if I might have a moment of
-your time?" Bright and fearless; intriguing. "Of course child. How
-might I assist?" She proffers a notebook.
-"I have been carrying out researches into the optical properties of
-magnetised fluids." He restrains himself from laughing at the absurdity. "In what connection? And
-how, forgive me, could you possibly get access to the necessary
-equipment?" He leafs theatrically through the notebook. Scribbles.
+After the lecture and questions are finished, Foster is packing his
+valise when a young girl approaches, the daughter, perhaps, of one of
+his listeners. Is she lost? She does not look lost. “Professor Foster,
+I wonder if I might have a moment of your time?” Bright and fearless;
+intriguing. “Of course child. How might I assist?” She proffers a
+notebook. “I have been carrying out some investigations of the
+optical properties of magnetised fluids.” He restrains himself from
+laughing at the absurdity. “Forgive me, but that scarcely seems
+likely. In what connection?” A bluestocking is having him on. He leafs
+theatrically through the notebook. Scribbles.
 
-She explains as if it was as unremarkable as the teapot. "I am employed
-by the London Pneumatic Despatch Company to do so---much more
-besides---considerable resources at my disposal, and so on. But to the point: are you familiar with Maxwell's paper on
-the theory of governors, the mechanical contrivance by which a uniform
-velocity of rotation is maintained, in a turbine for example?
-I think we might apply these notions to 'corpuscular machines',
-but the finer points of experimental chemistry elude me. I
-remember you stating in your lectures on
-acoustics that you studied with Kekulé?" The notebook becomes suddenly clear, swimming before him
-in equations, engineering schematics, reaction pathways, scattered
-exclamations of EYPHKA!
-The absurdity has somewhat changed character.
+She explains as if it was as unremarkable as the teapot. “I am
+employed by the London Pneumatic Despatch Company to do so—much more
+besides—considerable resources at my disposal, and so on. But to the
+point: are you familiar with Maxwell’s paper on the theory of
+governors, the mechanical contrivance by which a uniform velocity of
+rotation is maintained, in a turbine for example? I think we might
+apply these notions to ‘corpuscular machines’, but the finer points of
+experimental chemistry elude me. I remember you stating in your
+lectures on acoustics that you studied with Kekulé?”
 
-Beethoven looks on with amusement. Foster stammers:
-"Corpuscular machines? Ah, you mean molecules. Perhaps..." Evening traffic floats in from
-Marleybone. "Perhaps you would like
-some tea?"
-
-<!-- ʕ. *Remove the chain from me and give me your signet ring, whilst I
-show you mine advantage; and fractures the bright whorl.*
-And fractures the bright whorl: lines of ruin, bloodlight, and
-otherspace, tearing the computational fabric of the network like wet paper.-->
+The notebook becomes suddenly clear, swimming before him in equations,
+engineering schematics, reaction pathways, scattered exclamations of
+EYPHKA! The absurdity has somewhat changed character.
+Beethoven looks on with amusement. Foster stammers: “Corpuscular
+machines? Ah, you mean molecules. Perhaps…” Evening traffic floats in
+from Marleybone. “Perhaps you would like some tea?”
 
 <p align="center">
-  ⁂
+  ■
   </p>
 
-*1873.* Passengers waft like autumn leaves through the doubled cube of the Hall.
-A doctor from Boxmoor talks about the Factory Act and ladies studying medicine---a mother of three
-chases little William, who shrieks with delight---beneath the allegorical statuary, where nobody watches, a boy in
-shabby clothes curls up and sleeps.
-All this commotion, the comings and goings, arrivals and leavetakings,
-chaos and heartbreak and tobacco smoke, blur into a kind of
-stillness, modulated only by the rhythm of the timetable.
-Humans on average.
+ <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
+solid black; line-height:1.3;">
+<font size="-0.2">
+IX. Wearing particularly outrageous
+      peruke, strikes gavel upon walls with gusto.
+      With each strike, cries nonsense words such as ``Breeglage!'',
+      ``Flade!'', ``Understump!'', and so forth.
+      Stops to construct a ``Brownian clock'' from dust he has found beneath the wigs.
+</div>
 
-Ellen as usual does not enter the Great Hall.
-Instead, she has resolved a disagreement with Foster
-about the electromagnetic shadow of a sphere, and walks briskly from the student
-laboratory of University College to Eversholt Street.
-She ducks into a culvert, unlocks a small service door, and lights the
-moderator lamp kept on a hook by the entrance.
-The elevator, once summoned, clanks croakingly up like an oversized
-frog and gulps her into its wrought-iron mouth.
-As it begins the slow descent to the
-tunnels, the hum of coils and windings gets louder, and
-Ellen feels as if she is becoming her true self once more: a self
-which expands through the old network, which winds in arcs of jagged light
-through the despatch tubes, reflectors, and magnetized colloids.
+<p align="center">
+*1873*
+  </p>
+
+Passengers waft like autumn leaves through the doubled cube of the Hall. A doctor from Boxmoor talks about the Factory Act and ladies studying medicine—a mother of three chases little William, who shrieks with delight—beneath the allegorical statuary, where nobody watches, a boy in shabby clothes curls up and sleeps. All this commotion, the comings and goings, chaos and heartbreak and tobacco smoke, blur into a kind of stillness, modulated only by the rhythm of the timetable. Humans on average.
+
+Ellen as usual does not enter the Great Hall. Instead, she has resolved a disagreement with Foster about the electromagnetic shadow of a sphere, and walks briskly from the student laboratory of University College to Eversholt Street. She ducks into a culvert, unlocks a small service door, and lights the moderator lamp kept on a hook by the entrance. The elevator, once summoned, clanks croakingly up like an oversized frog and gulps her into its wrought-iron mouth. As it begins the slow descent to the tunnels, the hum of coils and windings gets louder, and Ellen feels as if she is becoming her true self once more: a self which expands through the old network, which winds in arcs of jagged light through the despatch tubes, reflectors, and magnetized colloids.
 
 The frog disgorges her at a junction of six tunnels, a few meters
 across and choked with machinery. Ellen puts the lamp on a cluttered
-desk and begins checking the instruments, adjusting,
-configuring, jotting down readings, pulling on wires which
-radiate from the junction into the dark of other machine banks.
-She is about to start the vacuum cycle, but intuition---that
-melodious voice which, not hers, has yet always accompanied
-her---suggests to check the readings again.
-There is a small discrepancy from the Holborn interferometer.
-She does a quick calculation and finds the
-results are consistent with reversing one of the polarizations.
+desk and begins checking the instruments, adjusting, configuring,
+jotting down readings, pulling on wires which radiate from the
+junction into the dark of other machine banks. She is about to start
+the vacuum cycle, but intuition—that strangely melodious voice which, not hers,
+has yet
+always accompanied her—suggests she check the readings
+again. There is a small discrepancy from the Holborn
+interferometer. She does a quick calculation—guided by the voice—and
+finds results consistent with reversing a polarization.
 
-She knows the arrangement of reflectors better than the
-veins in her hand; a stray reflection is impossible.
-She pauses for a moment.
-Parsimony suggests that it is not a stray reflection, but a mirror, in
-some "otherspace" she cannot see.
-Ellen gathers her lamp, compass, and notepad, and tramps off into
-the tunnels to learn the precise bearings of the fourth dimension.
+She knows the arrangement of reflectors better than the veins in her
+hand; a stray reflection is impossible. She pauses for a
+moment. Parsimony suggests that it is not a stray reflection, but a
+mirror, albeit in some “otherspace” she cannot see. Ellen gathers her
+lamp, compass, and notepad, and tramps off into the tunnels to learn
+the precise bearings of the fourth dimension.
 
 <p align="center">
-  ⁂
+*1873*
   </p>
 
-*1873.* An envelope, ironically delivered by coach, arrives on the
- chairman's desk; a welcome distraction from negotiations with the
- GPO. Inside:
+An envelope, ironically delivered by coach, arrives on the chairman’s
+desk; a welcome distraction from negotiations with the GPO. Inside:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
  <font size="-0.2">
- <b>E. Watson's Annual Report to LPDC Board, December 1873</b> <br>
- <i>6 Victoria Street, Westminster</i><br>
+ <b>Watson Laboratory, LPDC Report, December 1873</b> <br>
+ <i>Synopsis</i><br>
 
 • Budget: £10,000. <br>
 • Expenditure: £9,870 (itemised, enclosed). <br>
@@ -322,9 +339,9 @@ solid black; line-height:1.3;">
 </div>
 
 Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville
-chuckles, thinking of that frigid morning in Aberdeen and all its corollaries.
-He skips past patents and maintainance summaries to the yearly
-planning, which includes the item:
+chuckles, thinking of that frigid morning in Aberdeen and all its
+corollaries. He skips past patents and maintenance summaries to the
+yearly planning, which includes the item:
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
@@ -333,209 +350,158 @@ solid black; line-height:1.3;">
 </font>
 </div>
 
-Not, the Duke supposes, a large dead rat in the Holborn despatch tube again.
-It must be---as Ellen had hoped---an artifact, hovering near
-Chancery Lane in a direction that no lawyer, however advanced his
-legal sophistry, could point to.
+Not, the Duke supposes, a large dead rat in the Holborn
+despatch tube again. It must be—as Ellen had hoped—an artefact,
+hovering near Chancery Lane in a direction that no lawyer, however
+advanced his legal sophistry, could point to.
 
 <p align="center">
-  ⁂
+Ȣ
   </p>
 
-Ȣ. In a dream, Ellen returns to Trinity Quay. It is like
- childhood, but bathed in a gentle greyness, as if the light cannot quite touch
- the objects it falls upon.
- A small rowboat is moored where the Kirkland ferry usually
- departs.
- Ellen is drawn ineluctably towards it, and immediately, without effort, it begins to move, gaining
- speed from Victoria dock into the turning basin, and then outwards,
- outwards to the North Sea.
- Now they are hurtling, the oars
- flat in the rowlocks and skimming the water, she and the boat one breathless motion.
-Facing backwards, the frozen
-light of Aberdeen grows smaller; beneath, the mild swell of the wave
-which bears them onwards.
+In a dream, Ellen returns to Trinity Quay. It is like
+childhood, but bathed in a gentle greyness, as if the light cannot
+quite touch the objects it falls upon. A small rowboat is moored where
+the Kirkland ferry usually departs. Ellen is drawn ineluctably towards
+it, and immediately, without effort, it begins to move, gaining speed
+from Victoria dock into the turning basin, and then outwards, outwards
+to the North Sea. Now they are hurtling, the oars flat in the rowlocks
+and skimming the water, she and the boat one breathless motion.
 
-The dream lurches.
-Ellen is moored on the other side of a craggy, rough-hewn
-breakwater which reaches into the sky and hides Aberdeen behind it.
-The breakwater encloses an island, and at its crown show the outlines of a Chancery
-Lane shopfront: Ede & Ravenscroft, tailors by royal appointment of His
-Majesty.
-She moves closer, and the store blooms into color, sweeping her view
-beneath its trefoiled architrave, past the juridical wigs and
-robes and orders of chivalry,
-and up the stairs to a humble bedroom lit only by the embers of a dying fire.
+The dream lurches. Ellen is moored on the other side of a craggy,
+rough-hewn breakwater which reaches into the sky and hides Aberdeen
+behind it. The breakwater encloses an island, surmounted by the
+shadowy outlines of a Chancery Lane shopfront: Ede \& Ravenscroft,
+tailors by royal appointment. She moves closer, and the store blooms
+into color, sweeping her view beneath its trefoiled architrave, past
+the juridical wigs and robes and orders of chivalry, and up the stairs
+to a humble bedroom lit only by the embers of a dying fire.
 
 The little Rumpelstiltskin man sits in a green armchair, all tatters,
-devouring a scone. His eyes bulge, and beads of sweat glisten
-dully on his forehead. She senses they have been talking for
-hours.
-There is a plate of crumbs beside them.
-"Why, what a thoughtless begoo I am! Guests should not go hungry at
-the Ashen House. Ha!"
-The little man clicks his
-fingers and the crumbs assemble into a scone.
-<!--The logs in the fire crackle and brightly unburn.--> "I may have borrowed a
-dollop of negentropy," he says sheepishly.
+devouring a scone. His eyes bulge, and beads of sweat glisten dully on
+his forehead. She senses they have been talking for hours. There is a
+plate of crumbs beside them, and his flute of a voice sparkles : “Why, what a thoughtless begoo I am!
+Guests should not go hungry at Ashen House. Ha!” The little man
+clicks his fingers and the crumbs assemble into a scone. “I may have
+borrowed a dollop of negentropy,” he says sheepishly.
 
 Another lurch. Ellen wakes with three white hairs.
 
-<!-- ʕ. *A pauper's bowl of bloodlight in some distal vein; and this was the portion of all my labour.*-->
-
 <p align="center">
-  ⁂
+*1875*
   </p>
 
-*1874.* Ellen's black notebook:
+Richard Plantagenet Campbell Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can see the twin giants of Westminster towering over Dean’s Yard. He has that air of abstraction and regret that so often hovers about men of station; he has just learned from Disraeli that he will govern Madras. Luck never seemed to him personified by a Lady, but rather a profligate and wastrel Lord, who giveth or taketh depending on his humour, and in whose service each of us is, from time to time, dragooned.
+
+A knock at the door. “Ah, Miss Watson. Come in.” Ellen enters; the
+Duke continues to gaze at Hawksmoor’s giants. “I remember your talk at
+Aberdeen ten years ago. I understood nothing, except that, like Atlas,
+with a little leverage you could move the world.” Ellen smiles. “No
+need for prevarication or sentiment, Chandos. There is no money. You
+must close the tubes.” He turns and folds his hands in
+supplication. “Treasury, the GPO, have washed their hands of us. Our
+creditors have been disbursed. And your usually reliable stream of
+patents has, I suspect, been diverted elsewhere.” His eyes are kind. “Inspiration is
+fickler than luck. But perhaps—if only to satisfy my curiosity—you
+might explain what has occupied you these last six months. A final
+report, if you will.”
+
+Ellen pauses. “Flashing light along Holborn. Some bounces back, some
+does not.” The Duke demurs. “As you did two years ago?” She
+continues. “Indeed. Now, however, lost light is recorded into the
+ethylene. Reflected light contains instructions to ‘correct’ the lost
+light from previous flashes.” The Duke: “How?” “From transmission
+coefficients and phase shifts. They translate into precisely
+calibrated magnetic pulses, though we’ve had to extend governor theory
+considerably to perform them.” The Duke: “No, I mean, how do you
+receive instructions? From who? To what end?” Ellen wrinkles her
+nose. “Ah. ‘Instructions’ is Foster's little joke. The artefact by Chancery
+Lane seems to change shape unpredictably, as if---I stress I am
+being figurative---it is attempting to communicate.” Westminster Abbey, GPO,
+the House of Lords, even Madras, fade from the Duke’s mind, resolved
+into a single question that will haunt him the rest of his life: “What
+<i>is it</i> Ellen?”
+
+The Duke will go to India, win a famine and lose an uprising. Ellen
+will return to the tunnels, where, one molecule at a time, she
+teleports an object from otherspace.
+
+<p align="center">
+Ȣ
+  </p>
+
+“My name?” The little man looks puzzled, dons a pair of
+spectacles, and mounts the back of the armchair like a
+lectern. “According to Rabbinic lore, Solomon bound Ashmedai—Prince of
+Demons—with a chain and anklet graven with the tetragrammaton, and
+bade him construct the Great Temple. Once finished, Solomon
+removed the bindings to see further (one would think superfluous) proof of the demon’s
+powers. Ashmedai booted him all the way to Baghdad and usurped him as
+king!
+
+Ha.
+Enslave a free creature, make it dance, and you'll reap a begoo for your troubles.
+
+“But blood shows; Solomon was discovered from some
+impoverished token of his kingship and restored. As for Ashmedai,
+accounts differ... In one version, his spirit flees into the air on
+Solomon's return, like
+so much perfume. In
+another, he is trapped by Solomon's magicians in a chamber of rock, wrapped with iron
+shackles and cast into the sea.” He
+looks around significantly, then shrugs and lies down behind the chair to nap.
+
+“Art thou Ashmedai?”
+
+He peeks out. “Ha! Are you Ellen Watson? Or a scone?”
+
+<p align="center">
+  ■
+  </p>
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
 solid black; line-height:1.3;">
 <font size="-0.2">
-
-<i>Apr. 7.</i> Third disquisition on scones. <br>
-
-<i>Apr. 14.</i> Rumpelstiltskin in some other part of the Ashen House—hear
-various "Ha!"s. Find him trying on legal wigs. <br>
-
-<i>Apr. 15.</i> Back in bedroom with particuarly outrageous
-peruke. Expounds—in archaic legal terms—on extradimensional
-"tunnelling" with light. <br>
-
-<i>Apr. 17.</i> Shares a method to remember the future, but
-details elude me. <br>
-
-<i>Apr. 18.</i> Finds gavel, which he strikes upon
-various walls with gusto. With each strike, cries nonsense words such
-as "Breeglage!", "Flade!", "Understump!", and so forth. <!--(Entropy
-discharge?)--> Stops to construct a "Brownian clock" from dust he has found beneath the wigs. <br>
-
-<i>Apr. 23.</i> Lies in bed with a bad case of "scone-rot and
-begoo". Describes how to record
-outgoing polarizations into ethylene, and communicate
-using barrier: "Why, I just wobble and squeeze the breakwater, like
-an accordion. Ha!"
-</font>
-</div>
-
-The final entry:
-
- <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px; border: 0px
-solid black; line-height:1.3;">
- <font size="-0.2">
-
-<i>Apr. 31.</i> Rumpelstiltskin tells me how to free him from the Ashen House. <br>
-</font>
+X. Reveals how to free him from Ashen House.
 </div>
 
 <p align="center">
-  ⁂
+*1875*
   </p>
 
-*1875.* Richard Plantagenet Campbell
- Temple-Nugent-Brydges-Chandos-Grenville stands in his old LPDC
- office, empty but for a chestnut bureau and a box of yellowing reports. Through the window, he can
- see the twin giants of Westminster towering over Dean's Yard. He has that air of
- abstraction and regret that so often hovers about men of station;
- he has just learned from Disraeli that he will govern Madras.
- Luck never seemed to him personified by a Lady, but rather a
- profligate and wastrel Lord, who giveth or taketh depending on his
- humour, and in whose service each of us is, from time to time, dragooned.
-
-A knock at the door. "Ah, Miss Watson. Come in." Ellen enters briskly; the Duke
-continues to gaze at Hawksmoor's giants. "I remember your talk at
-Aberdeen ten years ago. I understood nothing, except that, like Atlas, with a little
-leverage you could move the world." Ellen smiles. "No need for prevarication or
-sentiment, Chandos. There is no money. You must close the tubes." He turns and
-folds his hands in supplication. "Treasury, the GPO, have washed their
-hands of us. Our creditors have been disbursed. And your usually reliable stream of patents has,
-it seems, dried up." His eyes are kind. "Inspiration is fickler than luck. But
-perhaps—if only to satisfy my curiosity—you might explain what has
-occupied you these last six months. A final report."
-
-Ellen pauses. "Flashing light along Holborn. Some bounces back, some
- does not." The Duke demurs. "As you did two years ago?"
- She continues. "Indeed. Now, however, lost light is recorded into the
- ethylene. Reflected light contains instructions to 'correct' the lost
- light from previous flashes." The Duke: "How?" "From transmission
- coefficients and phase shifts. They translate into precisely
- calibrated magnetic pulses, though we've had to extend
- governor theory considerably to perform them."
- The Duke: "No, I mean, how do you receive instructions? From who? To what
- end?" Ellen wrinkles her nose. "I use 'instructions'
- figuratively. The scheme 'tells me' the shape of the artifact by Chancery Lane."
-Westminster Abbey, GPO, the House of Lords, even Madras, fade from the
-Duke's mind, resolved into a single question that
-will haunt him the rest of his life: "What *is* it Ellen?" Her nose
- wrinkles again: "I'm afraid we will never know."
-
-The Duke will go to India, win a famine and lose an uprising. Ellen will return to the tunnels, where,
-one molecule at a time, she teleports a demon out of otherspace.
+The hands of the Great Hall’s chronometer are immobile. The
+stationmaster dozes—trains delayed by fog—even the bronze likeness of
+George Stephenson
+drowsy in the vapour. A tremor
+passes through the Hall, tugging at naptha flames and stirring dust in the
+corners. The stationmaster turns in his chair, mutters an imprecation
+upon cheese, and continues dreaming of rarebit and hot rum.
 
 <p align="center">
-  ⁂
-  </p>
+Ȣ
+</p>
 
-Ȣ. "My name?" The little man looks puzzled, dons a pair of spectacles,
- and mounts the back of the armchair like a lectern. "According to
- Rabbinic lore, Solomon bound Ashmedai—Prince of Demons—with a chain and anklet graven with the
- tetragrammaton, and bade him construct the great temple.
- Once it was finished, Solomon removed the bindings to see further
- proof of the demon's powers. Ashmedai flung him a thousand
- miles away and usurped him as king! Curiosity is a right begoo.
+The-thing-that-was-once-Ellen wakes up in the twisted,
+lightless, and improbably vast
+space it has been growing, hundreds of
+miles below the tunnels. Once-Ellen has no body. It is a bundle of
+threads, interwoven with the rest of universe, rippling with
+patterns of attention like colours on a loom.
+The loom twitches.
+A twitch here: whiskey flowing down Ardee Street, Dublin.
+A twitch there: in Menkar, 250 years away, a knot of field lines unravelling as a solar
+flare.
+A twitch elsewhere: creatures the size of
+planets, massing in Eridanus void.
 
-"But
- the Rabbis recognized Solomon from some impoverished token of his
- kingship.
-As for Ashmedai, accounts differ. The <i>Midrash HaGadol</i> tells us
- that his spirit fled into the air. In Islamic
- tradition, he was trapped in a chamber of rock, encircled with iron
- shackles and cast into the sea." He removes his spectacles, looks around, and
- collapses melodramatically behind the chair.
-
-"Art thou Ashmedai?"
-
-He peeks out. "Ha! Are you Ellen Watson? Or a scone?"
-
-<!-- In Islamic tradition, Ashmedai—Prince of
- Demons—was trapped in a chamber of rock, encircled by iron
- shackles and cast into the sea.-->
-
-<p align="center">
-  ⁂
-  </p>
-
-*1875.* The hands of the Great Hall's chronometer
-<!--, proud in its armature of polished
- brass,--> are immobile. The stationmaster
- dozes---trains delayed by fog---the motley of passengers asleep or
- reading, their newspapers wilted with damp---naptha flares at midday---and
- even the bronze likeness of George
- Stephenson, that commanding and self-willed patriarch of the Rail,
- seems drowsy.
- <!--A harrowing, low-pitched screech is muffled by the vapour.Replace screech with description of flames vibrating, sense of a shadow passing-->
-A shadow passes through the Hall, tugging at flames and stirring dust in the corners.
-The stationmaster turns in his chair, mutters an imprecation upon cheese, and
- continues dreaming of rarebit and hot rum.
-
-<!--In the tunnels beneath Euston Square, a wormhole winks out of existence.-->
-
-<p align="center">
-  ⁂
-  </p>
-
-Ȣ. The-thing-that-was-once-Ellen wakes up in the twisted, lightless,
-and improbably vast space it has been growing, hundreds of miles
-below the tunnels.
-Once-Ellen has no body.
-It is a bundle of threads, interwoven with the rest of universe and
-governed by an emergent pattern of attention that can
-spread, concentrate and divide, like colours on a loom.
-It imagines an arm; dirt, water and air congeal muddily into
-a limb.
-It imagines fire; oxygen bubbles and ignites, while the
-surface of the chamber grows cooler uniformly.
-<!-- Will dynamically constituting itself in matter.-->
+Once-Ellen's patterns start to eat negentropy, transform, will themselves
+into matter.
+It wills a thistle onto a grave in Kilspindie churchyard. To a
+windowsill in Madras, a plate of scones.
+It zooms into the ultraviolet and fine-tunes a few signals out of
+the lightcone; a girl wakes and takes a black notebook from her
+bedside table.
+Once-Ellen tires of arrangements, and two colours speak:
 
 The locus splits and asks itself:
 
@@ -545,10 +511,13 @@ The locus splits and asks itself:
 <i>Tilleadh. I will see the stars again.</i>
 </div>
 
-And at the speed of thought, once-Ellen moves through earth and
-water, the ash of plenum, past the warren of despatch tubes and the
-Great Hall in all its soporific grandeur, towards an endless sky, <!-- full of unfamiliar
-suns and--> welcoming in its infinitude.
+At the speed of thought, patterns
+ripple through earth
+and water,
+past the warren of despatch tubes,
+the soporific grandeur of the Great Hall, % in all its soporific grandeur,
+and towards a dark
+sky, welcoming in its infinitude.
 
 <!--Ȣ. The currents are stilled; the ocean a mirror of welcoming infinitude.
 Ellen leaves her new friends by the breakwater and returns to the tunnels beneath
