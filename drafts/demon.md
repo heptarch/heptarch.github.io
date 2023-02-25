@@ -75,7 +75,9 @@ found now?"
 
 Ellen's black notebook: <br>
 
-VI. Third disquisition on scones.
+ <font size="-0.2">
+ VI. Third disquisition on scones.
+ </font>
 
 <p align="center">
 ⁂
@@ -108,9 +110,11 @@ the network is abandoned, a larger enterprise continues.
   ■
   </p>
 
+ <font size="-0.2">
 VII. Lies in bed with a bad case of "scone-rot and
 begoo". Shares a method to remember the future, but
 details elude me.
+</font>
 
 <p align="center">
 ⁂
@@ -178,8 +182,10 @@ the whole backward scheme of his life—formulates the terms of an offer he will
   ■
   </p>
 
+ <font size="-0.2">
 IIX. He is in some other part of Ashen House—hear various
 "Ha!''s. Find him trying on legal wigs.
+</font>
 
 <p align="center">
 ⁂
@@ -270,13 +276,14 @@ from Marleybone. “Perhaps you would like some tea?”
   ■
   </p>
 
- 
+  <font size="-0.2">
 IX. Wearing particularly outrageous
       peruke, strikes gavel upon walls with gusto.
       With each strike, cries nonsense words such as "Breeglage!'',
       "Flade!'', "Understump!'', and so forth.
       Stops to construct a "Brownian clock'' from dust he has found
 	  beneath the wigs.
+	  </font>
 
 <p align="center">
 ⁂
@@ -446,7 +453,9 @@ He peeks out. “Ha! Are you Ellen Watson? Or a scone?”
   ■
   </p>
 
-X. Reveals how to free him from Ashen House.
+ <font size="-0.2">
+ X. Reveals how to free him from Ashen House.
+ </font>
 
 <p align="center">
 ⁂
