@@ -72,10 +72,10 @@ little stacks under the cupboards, say, or inside the fuse box, as if they
 were alive and exploring.
 The Institute's crowning treasure, however, was the "Martyrlog", diaries spanning the
 period from the making of *Solaris* in 1970 until Tarkovsky's death in 1986.
-These were carefully administered by his son, Andrei, but he was away
+These were carefully guarded by his son, Andrei, but he was away
 in Mykonos for the summer and had relayed instructions to me through
 a sequence of intermediaries. I spoke with two
-assistants in rapidfire Florentine, a
+administrative assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
