@@ -101,11 +101,10 @@ She handed me two keys, a heavy, single-toothed barrel key for the
 room itself, and a Schlage, she curtly explained, for the single filing cabinet I was to
 have access to.
 I signed and dated a slip while Chiara drained her sambuca.
-She left as abruptly as she had arrived.
-Alone once more at 91 Via di San Niccolò, an untouched sambuca in
-front of me, and the moon, I sensed, laughing invisibly above me.
-After two weeks of perfume, *branca menta*, and aimless jaunts around
-Florence, 
+She left as abruptly as she had arrived, and I found myself alone once
+more, an untouched sambuca in front of me, and the moon, I sensed,
+laughing invisibly above me.
+After two aimless weeks in Via di San Niccolò, 
 
 <p align="center">
 ⁂</p>
