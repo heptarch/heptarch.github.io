@@ -92,7 +92,8 @@ as she curtly explained, a Schlage for the filing cabinet I was to
 have access to.
 I signed and dated a slip while Chiara drained her sambuca, and she
 left as abruptly as she had arrived.
-A
+After two weeks of perfume, *branca menta*, and aimless jaunts around
+Florence, 
 
 <p align="center">
 ⁂</p>
