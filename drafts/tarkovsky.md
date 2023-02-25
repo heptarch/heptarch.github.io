@@ -78,7 +78,7 @@ bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
 
-Eventually, I understood I was to organize and evaluate a small,
+Eventually, I understood I was to organize, evaluate, and possibly digitize an
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would provide the necessary keys, and at the end of the
@@ -122,6 +122,8 @@ After two aimless weeks in Via di San Niccolò, that signature would change my l
 <p align="center">
 II. THE LOCKED ROOM
 </p>
+
+I woke the next morning and set to work.
 
 <figure>
     <div style="text-align:center"><img src
