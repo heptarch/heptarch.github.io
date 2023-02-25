@@ -90,8 +90,8 @@ constantly and was never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon,
 unannounced, two weeks into my stay, and
 wordlessly poured us two glasses of sambuca.
-While the water clouded over, she stretched one leg onto the table and
-smiled: "Ne avrai bisogno."<label for="sn-1"
+While the water clouded over, she stretched one leg onto the table,
+lit cigatrette, and smiled: "Ne avrai bisogno."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -108,8 +108,8 @@ smiled: "Ne avrai bisogno."<label for="sn-1"
 	</div>
 	</figure>
 
-Chiara watched intently as I signed and dated a slip, then drained her
-sambuca and handed me two keys: a heavy, single-toothed barrel key for the
+Chiara watched intently as I signed and dated a slip, then stubbed
+out, drained her sambuca and handed me two keys: a heavy, single-toothed barrel key for the
 room itself, and a Schlage for the filing cabinet I was to
 have access to.
 She left as abruptly as she had arrived.
