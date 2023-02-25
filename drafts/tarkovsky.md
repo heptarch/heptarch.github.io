@@ -86,7 +86,7 @@ the fourth floor.
 The caretaker would give me the keys, and at the end of the
 summer, report to a professor of Polish literature in Warsaw.
 
-The "caretaker" was a gaunt woman called Chiara who smoked
+The "caretaker" was a gaunt woman called Chiara Pontieri who smoked
 constantly and was almost never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon,
 unannounced, two weeks into my stay, and
