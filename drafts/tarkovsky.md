@@ -116,9 +116,6 @@ She left as abruptly as she had arrived.
 I found myself alone with the smell of anise and a feeling that the
 moon was laughing invisibly, far above.
 
-After two aimless weeks in Via di San Niccolò, two weeks of perfume,
-*branca menta*, and sunset rambles through Florence, a door would open
-
 <p align="center">
 ⁂</p>
 
@@ -126,6 +123,8 @@ After two aimless weeks in Via di San Niccolò, two weeks of perfume,
 II. THE LOCKED ROOM
 </p>
 
+After two aimless weeks in Via di San Niccolò, two weeks of perfume,
+*branca menta*, and sunset rambles through Florence, a door would open
 I set to work the next morning.
 
 <figure>
