@@ -37,7 +37,8 @@ float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the background.
 
 The Institute itself was aclutter with
-the great director's last effects---dried chrysanthemums, wooden polyhedra, etchings by
+the great director's last effects---dried chrysanthemums, polyhedra in
+birch and argilite, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral
 polaroids---and could be found in odd places around the house, in
 little stacks under the cupboards, or inside the fuse box, as if they
