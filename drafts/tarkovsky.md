@@ -99,9 +99,10 @@ water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="s
 She handed me two keys, a heavy, single-toothed barrel key for the
 room itself, and a Schlage, she curtly explained, for the single filing cabinet I was to
 have access to.
-I signed and dated a slip while Chiara drained her sambuca, and she
-left as abruptly as she had arrived.
-
+I signed and dated a slip while Chiara drained her sambuca.
+She left as abruptly as she had arrived, and I was again by myself,
+drinking sambuca in the kitchen of 91 Via di San Niccolò, wondering
+why on earth my 
 After two weeks of perfume, *branca menta*, and aimless jaunts around
 Florence, 
 
