@@ -10,13 +10,12 @@ date:  2023-02-24
 <b>Patina: The Vernon Centre Film and Literary Quarterly</b>
 [2013, vol. IV-2]
 
-  Despatches from Florence
-
 ---
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 30px;
  border: 0px
  solid black; line-height:1.3;">
+   Despatches from Florence <br>
 <i>by Tun Casey</i> <br>
  </div>
 
