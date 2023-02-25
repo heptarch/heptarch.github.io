@@ -41,7 +41,7 @@ opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence soon receded into the background.
 
-The Institute itself was a disorganized repository of
+The Institute itself was little more than a disorganized repository of
 the great director's final effects---books, journals, polaroids,
 etc.---managed by his son Andrei and the ambiguous functionaries in his
 employ.
