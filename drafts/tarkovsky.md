@@ -47,6 +47,7 @@ background as other colours took their place.</p>
     <div style="text-align:center"><img src
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079125210076299284/hapax_Grainy_polaroid_of_interior_of_old_Italian_house_with_dri_63316a7c-a08a-4a47-bd2e-c3ee6678eaf0.png"
     width="400"/> <br>
+	
 	<figcaption> <font size="-0.2"><i>Clutter.</i></font></figcaption>
 	</div>
 	</figure>
@@ -90,6 +91,7 @@ water clouded white. After a pause, she smiled: "Ne avrai bisogno."<label for="s
     <div style="text-align:center"><img src
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079120754509103175/hapax_grainy_polaroid_of_a_tall_thin_ungainly_Italian_women_pos_99ee7bb6-a0a9-49da-8589-255f86941fd2.png"
     width="400"/> <br>
+	
 	<figcaption> <font size="-0.2"><i>Chiara Pontieri, caretaker of
     the Institute.</i></font></figcaption>
 	</div>
