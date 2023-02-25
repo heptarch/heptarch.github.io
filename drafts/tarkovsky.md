@@ -18,6 +18,9 @@ date:  2023-02-24
 <font size="+0.2">
 <i>THE PACT</i>
 </font>
+</p>
+
+<p align="center">
 ⁂</p>
 
 <p align="center">
@@ -32,7 +35,7 @@ over their amari, they watch from neighbouring bars as the sun sets
 and shadows slink down the laneways and past the tower of San
 Niccolò, that lonely and somnolent giant emerging
 from the piazza Giuseppe Poggi. It is a place of secrets.
-Let me show you one of them.
+Come, let me show you one of them.
 
 <figure>
     <div style="text-align:center"><img src
