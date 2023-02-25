@@ -13,9 +13,9 @@ Dispatches from Florence. <i>By Tun Casey.</i>
 
 <br>
 
-Via di San Niccolò is a crabbed network of alleys, at once
-intimate and disorienting, which wanders like the handwriting of a
-drunken lover over the parchment of Florence. It is a great favourite
+Via di San Niccolò is a crabbed network of alleys, which wanders like the handwriting of a
+drunken lover---at once
+intimate and disorienting---over the parchment of Florence. It is a great favourite
 of locals, who slyly regard each other over their amari, from
 neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
 of secrets.
