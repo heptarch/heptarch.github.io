@@ -38,15 +38,15 @@ opoponax, frankincense, rose, and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
 richly.
 
-The Institute itself was little more than a disorganized repository of
+The Institute itself was a disorganized repository of
 the great director's final effects---books, journals, polaroids,
 etc.---managed by his son Andrei and the ambiguous functionaries in his
 employ.
-Andrei was in Mykonos for the summer, and his instructions were so
-garbled and  by intermediaries that, by the time they reached me, no one
-could make sense of them. The retired film theorist, the
-cinematographer, the administrative assistants, the janitor, the
-Portuguese graduate student in comparative literature and visual culture---all the 
+Andrei was in Mykonos for the summer, so his instructions reached me
+through various intermediaries: "Categorize by year---anomalies---1097." The retired film theorist, the
+cinematographer, the three administrative assistants, the
+Portuguese graduate student in comparative literature and visual
+culture, even the janitor, all offered different 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
