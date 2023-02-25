@@ -2,14 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title: 
+title: Dispatches from Florence
 categories:
 date:  2023-02-24
 ---
 
 ## <b>Patina: Film and Literary Quarterly</b>
 
-Dispatches from Florence. <i>By Tun Casey, Apr 2013.</i>
+<i>By Tun Casey, Apr 2013.</i>
 
 ---
 
@@ -20,8 +20,8 @@ of locals, who slyly regard each other over their amari, from
 neighbouring bars, as the sun sets and shadows slink down the Via. It is a place
 of secrets.
 
-I spent the summer of 2012 as a student archivist at the <i>Andrei
-Tarkovsky International Institute</i>, opposite a master "profumiere",
-from whose 
+I spent the summer of 2012 as a student archivist at the "Andrei
+Tarkovsky International Institute", situated at Via 91, in a small opposite a master "profumiere",
+from whose workshop the most ex
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
