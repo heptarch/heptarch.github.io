@@ -112,8 +112,8 @@ sambuca and handed me two keys: a heavy, single-toothed barrel key for the
 room itself, and a Schlage for the filing cabinet I was to
 have access to.
 She left as abruptly as she had arrived.
-I found myself alone once more, with the smell of anise and the moon, I sensed,
-laughing invisibly above.
+I found myself alone with the smell of anise and a feeling that the
+moon was laughing, invisibly, far above.
 After two aimless weeks in Via di San Niccolò, one signature would change my life.
 
 <p align="center">
