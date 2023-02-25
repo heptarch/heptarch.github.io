@@ -84,6 +84,7 @@ the fourth floor.
 The caretaker would provide the necessary keys, and at the end of the
 summer, I would communicate my findings in the form of a report to
 a professor of Polish literature in Warsaw.
+
 The "caretaker" was a thin, ungainly woman called Chiara who smoked
 constantly and was never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon,
