@@ -70,7 +70,7 @@ Chiara who claimed to have beaten Umberto Eco in chess,
 </p>
 
 <p align="center">
-I. VIA DI SAN NICCOLÒ
+II. THE LOCKED ROOM
   </p>
 
 ---
