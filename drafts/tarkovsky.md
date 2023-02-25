@@ -8,6 +8,7 @@ date:  2023-02-24
 ---
 <br>
 
-Russian director Andrei Tarkovsky (1932--86) may have 
+Russian director Andrei Tarkovsky (1932--86), a poet of silence,
+decay, and ultimately theodicy, 
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
