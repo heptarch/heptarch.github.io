@@ -53,7 +53,7 @@ Its crowning treasure, however, was the "Martyrlog", diaries spanning the
 period from *Solaris* in 1970 until Tarkovsky's death in 1986.
 These were carefully administered by his son, Andrei, but he was away
 in Mykonos for the summer and had relayed instructions to me through
-a sequence of intermediaries. I spoke with two administrative
+a sequence of intermediaries. I spoke with two
 assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
@@ -61,8 +61,10 @@ Via di San Niccolò and spread gossip.
 
 Eventually, I understood I was to organize and evaluate a small,
 unpublished portion of the Martyrlog, kept in a locked room on
-the fourth floor, and communicate my findings to a professor of Polish
-literature.
+the fourth floor.
+The caretaker would provide the necessary keys, and at the end of the
+summer, I would communicate my findings in the form of a report to
+Dr. Seweryn Kuśmierczyk, a professor of Polish literature at Warsaw University.
 After two weeks of 
 
 <p align="center">
