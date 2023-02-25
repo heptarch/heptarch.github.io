@@ -39,7 +39,7 @@ once a week on my stipend. The Institute was opposite a perfumery.
 In the evenings, the maestro attended his cauldron, and wafts of
 opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
-richly. But the riches of Florence soon receded into the background.
+richly. But the riches of Florence would soon recede into the background.
 
 The Institute itself was little more than a disorganized stockroom of
 the great director's final effects---books, journals, polaroids,
