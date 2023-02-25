@@ -49,7 +49,7 @@ period from 1970 until Tarkovsky's death in 1986.
 These were carefully administered by his son, Andrei, but he was away
 in Mykonos for the summer and had relayed instructions to me through
 a sequence of intermediaries: two administrative assistants, a retired
-and bibulous semiotician, a student 
+and bibulous semiotician, a colleague of Sewery Kuśmierczyk.
 
 ---
 
