@@ -17,6 +17,10 @@ date:  2023-02-24
  solid black; line-height:1.3;">
    <i>by Tun Casey</i> <br>
 
+<figure><img src
+    ="/img/lost/tarkovsky/tun.png" width="300"/>
+	</figure>
+
 <br>
 Tun is a final-year graduate student at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
