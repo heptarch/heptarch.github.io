@@ -19,8 +19,6 @@ date:  2023-02-24
 
 ---
 
-<br>
-
 Via di San Niccolò is a crabbed, serpentine network of alleys, wandering like the handwriting of a
 drunken lover---at once
 intimate and disorienting---across the parchment of the Oltrarno
