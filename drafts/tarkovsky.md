@@ -124,7 +124,7 @@ moon was laughing at me, invisibly, far above.
 ⁂</p>
 
 <p align="center">
-II. THE ARK OPENS
+II. ROOM 3
 </p>
 
 I set to work enthusiastically the next morning, and after several
@@ -153,7 +153,7 @@ This was a *fonds* and not a shrine.
 	</div>
 	</figure>
 
-I unlocked 
+I unlocked room 3
 
 <p align="center">
 ⁂</p>
