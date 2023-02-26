@@ -16,7 +16,7 @@ THE PACT <br>
 <i>word and polaroids by Tun Casey</i> <br>
 
 
-<span style="padding-left: 40px; display:block">
+<!-- <span style="padding-left: 40px; display:block">
 My discovery of Tarkovsky's first film was like a miracle. Suddenly, I
 found myself standing at the door of a room the keys of which had
 until then, never been given to me. It was a room I had always wanted
@@ -27,7 +27,7 @@ the one who invented a new language, true to the nature of film, as it
 captures life as a reflection, life as a dream.
 </span>
 <div style="text-align: right"><i>Ingmar Bergman</i>
-</div>
+</div>-->
 
 
 <p align="center">
@@ -162,12 +162,13 @@ This was a *fonds* and not a shrine.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Camera 3.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Working late in Camera 3.</i></font></figcaption>
 	</div>
 	</figure>
 
 I unlocked "Camera 3" to find a state of picturesque chaos, not
-atypical of the place. At the back, a row of filing cabinets.
+atypical of the place. At the back of the room, a row of filing
+cabinets. I 
 
 <p align="center">
 ⁂</p>
