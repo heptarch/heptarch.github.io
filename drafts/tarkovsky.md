@@ -142,7 +142,7 @@ II. THE ARK OPENS
 </p>
 
 I set to work enthusiastically the next morning, and after several
-espressi, bounded up the staircase to the door marked "Camera 3 - мартирология".<label for="sn-3"
+espressi, bounded up the staircase to the door marked "Camera No. 3 - мартирология".<label for="sn-3"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -168,16 +168,19 @@ This was a *fonds* and not a shrine.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Camera 3.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Camera No. 3.</i></font></figcaption>
 	</div>
 	</figure>
 
-I unlocked Camera 3 to find a state of picturesque chaos. At the back
-were boxes stuffed with loose sheets of foolscap, a pair of cupboards filled
+I unlocked Camera No. 3 to find a state of picturesque chaos. At the
+front of the room, a desk covered in postcards, sketches, letters,
+newspaper clippings, and binders filled with official
+documents and tax reports.
+At the back, boxes stuffed with loose sheets of foolscap, a pair of cupboards filled
 with rubbish, and row upon row of filing cabinets labelled by month---the
-reliquaries of the Martyrolog.
-I found "May 79", inserted the Schlage, and after wrestling with
-the lock, turned and pulled the drawer open.
+reliquaries of the Martyrolog itself.
+But after the moment of sobriety on the threshold, my expectations
+were not high.
 May 1979 is a fallow month in the English edition of Tarkovsky's
 diaries,<label for="sn-4"
        class="margin-toggle sidenote-number">
@@ -189,7 +192,9 @@ diaries,<label for="sn-4"
 with only two entries (May 12 and 22), mostly concerned with the
 promotion of *Stalker* and his plans to
 leave for Italy.
-I expected, perhaps, some Italian correspondence, the logistics of
+
+I speculated that while the diary entries would probably be in a
+journal elsewhere, the May 79 cabinet might house some Italian correspondence, the logistics of
 which might bore the average reader but provide the scholar some biographical
 insight.
 I would dutifully draw some diagrams, create accession numbers and EAD
@@ -206,6 +211,9 @@ recommendations, for Andre(i/a).
 	<figcaption> <font size="-0.2"><i>Reliquaries of the <i>Martyrolog</i>.</i></font></figcaption>
 	</div>
 	</figure>
+
+I found "May 79", inserted the Schlage, and after wrestling with
+the lock, turned and pulled the drawer open.
 
 <p align="center">
 ⁂</p>
