@@ -132,7 +132,7 @@ espressi, bounded up the staircase to the fourth floor.
 I paused before the door marked "журнал - Il Diario - 3".
 After two aimless weeks in Via di San Niccolò, it felt as if the
 curtains of the ark had parted to offer a glimpse of the sacred
-text.
+text. What truths would it reveal? What wonders?
 
 <figure>
     <div style="text-align:center"><img src
