@@ -180,6 +180,15 @@ At the back, boxes stuffed with loose sheets of foolscap, a pair of
 empty cupboards, and row upon row of filing cabinets labelled by month---the
 reliquaries of the martyr.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079261956109762611/hapax_grainy_polaroid_of_many_locked_filing_cabinets_at_the_bac_e0dab5d8-dd7a-4a82-a7c1-e5fea2818370.png"
+    width="400"/> <br>
+	
+	<figcaption> <font size="-0.2"><i>Reliquaries of the <i>Martyrolog</i>.</i></font></figcaption>
+	</div>
+	</figure>
+
 But after the moment of sobriety on the threshold, my expectations
 were not high.
 May 1979 is a fallow month in the English edition of Tarkovsky's
@@ -202,15 +211,6 @@ biographer and cultural materialist.
 In all probability, I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers and EADs, and finish my
 summer by changing hats and penning an editorial recommendation.
 This, at least, was my surmise.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079261956109762611/hapax_grainy_polaroid_of_many_locked_filing_cabinets_at_the_bac_e0dab5d8-dd7a-4a82-a7c1-e5fea2818370.png"
-    width="400"/> <br>
-	
-	<figcaption> <font size="-0.2"><i>Reliquaries of the <i>Martyrolog</i>.</i></font></figcaption>
-	</div>
-	</figure>
 
 I found "May 79", inserted the Schlage, and after wrestling with
 the lock, turned and pulled the drawer open.
