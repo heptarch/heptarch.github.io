@@ -198,17 +198,20 @@ diaries,<label for="sn-4"
        id="sn-4"
        class="margin-toggle"/>
 	   <span class="sidenote"><i>Time within time</i> (1991).</span>
-with only two entries (May 12 and 22), mostly concerned with the
+	   with only two entries (May 12 and 22).
+They are mostly concerned with the
 promotion of *Stalker* and his plans to
-leave for Italy.
+leave for Italy,
+<!--
 In my first two weeks, I had browsed the Institute's archival
 notes---a confusion of Russian,
 Polish, Italian and French---which suggested that, while the diary
-entries were elsewhere, the May 79 cabinet might house correspondence with the Italian
-authorities, or negotiations with the Soviet film authorities.
-They would bore the average reader, but prove invaluable to the
+entries were elsewhere,-->
+and I thought that, at best, the May 79 cabinet might house correspondence with the Italian
+authorities or the Soviet film board.
+These would bore the average reader, but prove invaluable to the
 biographer and cultural materialist.
-In all probability, I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers and EADs, and finish my
+I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers and EADs, and finish my
 summer by changing hats and penning an editorial recommendation.
 This, at least, was my surmise.
 
