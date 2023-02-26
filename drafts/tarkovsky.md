@@ -149,7 +149,7 @@ I found the door marked "Camera 3 - мартирология",<label for="sn-3"
 <input type="checkbox"
        id="sn-3"
        class="margin-toggle"/>
-	   <span class="sidenote">"Martyrology". (<i>Rus.</i>)</span> and paused in awe
+	   <span class="sidenote">"Martyrology" (<i>Rus.</i>) </span> and paused in awe
 at the threshold;
 after two aimless weeks in Via di San Niccolò, it felt like the
 curtains of the ark had parted to offer a glimpse of the sacred.
