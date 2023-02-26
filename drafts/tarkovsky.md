@@ -128,13 +128,12 @@ II. THE ARK OPENS
 </p>
 
 I set to work enthusiastically the next morning, and after several
-espressi, bounded up the staircase to the fourth floor.
+espressi, bounded up the staircase.
 I found the door marked "журнал - Il Diario - 3", and paused in awe
 at the threshold.
-After two aimless weeks in Via di San Niccolò, it felt as if the
+After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
-text.
-I must
+text; what 
 
 <figure>
     <div style="text-align:center"><img src
