@@ -122,7 +122,7 @@ moon was laughing invisibly, far above.
 ⁂</p>
 
 <p align="center">
-II. THE ARK
+II. THE ARK OPENS
 </p>
 
 After two aimless weeks in Via di San Niccolò, it felt as if the
