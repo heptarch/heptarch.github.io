@@ -117,8 +117,8 @@ satchel: a heavy, single-toothed barrel key acid-etched with the
 numeral "3", and a
 Schlage for the filing cabinet I was to have access to.
 She left as abruptly as she had arrived.
-I found myself alone with the smell of anise and a feeling that the
-moon was laughing invisibly, far above.
+I found myself alone with the smell of anise and an odd feeling that the
+moon was laughing at me, invisibly, far above.
 
 <p align="center">
 ⁂</p>
