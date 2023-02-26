@@ -130,7 +130,7 @@ II. THE ARK OPENS
 After two aimless weeks in Via di San Niccolò, it felt as if the
 curtains of the ark had parted to offer a glimpse of the sacred
 text.
-I set to work enthusiastically the next morning, and after three
+I set to work enthusiastically the next morning, and after several
 espressi, bounded up the staircase to the fourth floor.
 A door marked "журнал - Il Diario - 3".
 
