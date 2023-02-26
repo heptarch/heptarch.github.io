@@ -206,7 +206,7 @@ notes---a confusion of Russian,
 Polish, Italian and French---which suggested that, while the diary
 entries were elsewhere, the May 79 cabinet might house correspondence with the Italian
 authorities, or negotiations with the Soviet film authorities.
-They would bore the average reader, but offer insights to the
+They would bore the average reader, but prove invaluable to the
 biographer and cultural materialist.
 In all probability, I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers and EADs, and finish my
 summer by changing hats and penning an editorial recommendation.
