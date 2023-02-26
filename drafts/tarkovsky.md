@@ -216,8 +216,8 @@ summer by changing hats and penning an editorial recommendation.
 
 In other words, that moment of archival sobriety at the threshold had dulled my
 expectations.
-I scanned the cabinets for "May 79", inserted the Schlage, and after wrestling with
-the lock, turned and pulled the drawer open in a zephyr of dust.
+I scanned the cabinets for "May 79", inserted the Schlage,
+turned---click!---and pulled the drawer open in a zephyr of dust.
 Here is what I found.
 
 <p align="center">
