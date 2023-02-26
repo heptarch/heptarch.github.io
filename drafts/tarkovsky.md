@@ -199,8 +199,8 @@ In my first two weeks, I had browsed the Institute's archival
 notes---a confusion of Russian,
 Polish, Italian and French---which suggested that, while the diary
 entries were elsewhere,-->
-I thought that, at best, the May 79 cabinet might house correspondence with the Italian
-authorities or Mosfilm; they would bore the average reader, but prove invaluable to the
+I thought that, at best, the May 79 cabinet would house correspondence with the Italian
+authorities or Mosfilm; they might bore the average reader, but prove invaluable to the
 biographer, the film critic, and the cultural materialist.
 I would ask Chiara for more keys, draw provenance diagrams,
 create accession numbers and EADs, and finish my
