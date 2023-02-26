@@ -201,9 +201,9 @@ diaries,<label for="sn-4"
 with only two entries (May 12 and 22), mostly concerned with the
 promotion of *Stalker* and his plans to
 leave for Italy.
-I had studied the Institute's various archival notes---in Russian,
-Polish, Italian and French---during my first two weeks. They
-suggested that, while the diary entries themselves were elsewhere, the
+In my first two weeks, I had browsed the Institute's archival
+notes---a confusion of Russian,
+Polish, Italian and French---which suggested that, while the May diary was elsewhere, the
 May 79 cabinet might house correspondence with the Italian
 authorities, or negotiations with the Soviet film authorities.
 They might bore the average reader, but offer insights to the
