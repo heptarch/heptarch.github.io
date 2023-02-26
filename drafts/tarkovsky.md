@@ -80,8 +80,8 @@ assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
-Eventually, I understood I was to organize, provide accession numbers, and possibly digitize an
-unpublished portion of the Martyrlog, kept in a locked room on
+Eventually, I understood I was to catalogue and provide accession
+numbers to an unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
 summer, I would report my findings to Andrei and/or Andrea, at least
@@ -136,6 +136,7 @@ After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
 text; but, as Jacob von Rammingen, without a proper registry, "not
 even the highest rule of divine nature can exist."
+I was an archivist, and this was my *fonds*.
 "<label for="sn-2"
        class="margin-toggle sidenote-number">
 </label>
@@ -184,3 +185,4 @@ Tun is a final-year graduate student at the Vernon Centre, with
 <!-- www.silenocheloni.com -->
 <!-- http://nostalghia.com/TheTopics/MartyrologCmp.html -->
 <!-- https://germanhistory-intersections.org/en/knowledge-and-education/ghis:document-12 -->
+<!-- https://en.wikipedia.org/wiki/Fonds-->
