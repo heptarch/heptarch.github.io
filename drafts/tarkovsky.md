@@ -234,7 +234,9 @@ it with a dull click.
 III. THE CABINET OF MAY 79
 </p>
 
-The drawer could be re
+The drawer opened to reveal a few scraps of paper and a pile of ash. I
+removed it and carefully placed it on the floor to get a better sense
+of its arrangement.
 
 <figure>
     <div style="text-align:center"><img src
