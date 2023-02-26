@@ -205,12 +205,10 @@ biographer, the film critic, and the cultural materialist.
 I would ask Chiara for more keys, draw provenance diagrams,
 create accession numbers and EADs, and finish my
 summer by changing hats and penning an editorial recommendation.
-
 That moment of archival sobriety at the threshold had, in other words,
 dulled my expectations.
 I scanned the cabinets for "May 79", inserted the Schlage, and turned
 it with a dull click.
-Here is what I found.
 
 <p align="center">
 ⁂</p>
