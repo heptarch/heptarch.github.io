@@ -87,6 +87,15 @@ The caretaker would give me the keys, and at the end of the
 summer, I would share my findings with Andrei and/or Andrea, at least
 one of whom would be back in Florence.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079120754509103175/hapax_grainy_polaroid_of_a_tall_thin_ungainly_Italian_women_pos_99ee7bb6-a0a9-49da-8589-255f86941fd2.png"
+    width="400"/> <br>
+	
+	<figcaption> <font size="-0.2"><i>A rare sighting of Chiara Pontieri.</i></font></figcaption>
+	</div>
+	</figure>
+
 The "caretaker" turned out to be a gaunt woman called Chiara Pontieri who smoked
 incessantly and was never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon,
@@ -102,16 +111,6 @@ lit a cigarette, and smiled: "Ne avrai bisogno."<label for="sn-1"
 	   <span class="sidenote">You'll need it.</span>
 From a leather satchel, she produced a slip of paper printed with the
 Institute's letterhead and some serial numbers.
-
-<figure>
-    <div style="text-align:center"><img src
-    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079120754509103175/hapax_grainy_polaroid_of_a_tall_thin_ungainly_Italian_women_pos_99ee7bb6-a0a9-49da-8589-255f86941fd2.png"
-    width="400"/> <br>
-	
-	<figcaption> <font size="-0.2"><i>A rare sighting of Chiara Pontieri.</i></font></figcaption>
-	</div>
-	</figure>
-
 Chiara watched intently as I signed and dated the slip, then stubbed
 out her cigarette, drained her sambuca and withdrew two keys from the
 satchel: a heavy, single-toothed barrel key acid etched with the
