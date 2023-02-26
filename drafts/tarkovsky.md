@@ -178,6 +178,16 @@ reliquaries of the Martyrolog---and a pair of cupboards filled
 with rubbish.
 I found "May 79", inserted the Schlage, and after some wrestling with
 the lock, turned and pulled the drawer open.
+May 1979 is a fallow month in the English edition of Tarkovsky's
+diaries,<label for="sn-4"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-4"
+       class="margin-toggle"/>
+	   <span class="sidenote"><i>Time within time</i> (1991).</span>
+with only two entries (May 12 and 22).
+I expected 
 
 <figure>
     <div style="text-align:center"><img src
@@ -187,9 +197,6 @@ the lock, turned and pulled the drawer open.
 	<figcaption> <font size="-0.2"><i>Reliquaries of the <i>Martyrolog</i>.</i></font></figcaption>
 	</div>
 	</figure>
-
-May 1979 is a fallow month in the English edition of Tarkovsky's diaries,
-*Time within time* (1991), with only two entries (May 12 and 22).
 
 <p align="center">
 ⁂</p>
