@@ -80,11 +80,11 @@ assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
-Eventually, I understood I was to catalogue and provide accession
-numbers to an unpublished portion of the Martyrlog, kept in a locked room on
+Eventually, I understood I was to catalogue, digitize and assess the
+scholarly interest of an unpublished portion of the Martyrlog, kept in a filing cabinet in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
-summer, I would report my findings to Andrei and/or Andrea, at least
+summer, I would share my findings with Andrei and/or Andrea, at least
 one of whom would be back in Florence.
 
 The "caretaker" turned out to be a gaunt woman called Chiara Pontieri who smoked
@@ -131,10 +131,11 @@ II. THE ARK OPENS
 I set to work enthusiastically the next morning, and after several
 espressi, bounded up the staircase.
 I found the door marked "журнал - Il Diario - 3", and paused in awe
-at the threshold.
-After two aimless weeks in Via di San Niccolò, the
+at the threshold;
+after two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
-text; but, as Jacob von Rammingen reminds us, without a proper registry, "not
+text.
+But there is no place  as Jacob von Rammingen reminds us, without a proper registry, "not
 even the highest rule of divine nature can exist."<label for="sn-2"
        class="margin-toggle sidenote-number">
 </label>
