@@ -176,8 +176,8 @@ I unlocked Camera No. 3 to find a state of picturesque chaos. At the
 front of the room, a desk covered in postcards, sketches, letters,
 newspaper clippings, and binders filled with official
 documents and tax reports.
-At the back, boxes stuffed with loose sheets of foolscap, a pair of cupboards filled
-with rubbish, and row upon row of filing cabinets labelled by month---the
+At the back, boxes stuffed with loose sheets of foolscap, a pair of
+empty cupboards, and row upon row of filing cabinets labelled by month---the
 reliquaries of the martyr.
 But after the moment of sobriety on the threshold, my expectations
 were not high.
