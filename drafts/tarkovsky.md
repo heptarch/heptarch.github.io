@@ -166,9 +166,10 @@ This was a *fonds* and not a shrine.
 	</div>
 	</figure>
 
-I unlocked "Camera 3" to find a state of picturesque chaos, not
-atypical of the place. At the back of the room, a row of filing
-cabinets. I 
+I unlocked Camera 3 to find a state of picturesque chaos, not
+atypical of the place. At the back was row upon row of squat, grey
+filing cabinets; the homely reliquaries of the martyer.
+Ah, here: April 79.
 
 <p align="center">
 ⁂</p>
