@@ -212,10 +212,9 @@ authorities or the Soviet film board; they would bore the average reader, but pr
 biographer, the film critic, or the cultural materialist.
 I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers, and finish my
 summer by changing hats and penning an editorial recommendation.
-This, at least, was my surmise.
 
-I found "May 79", inserted the Schlage, and after wrestling with
-the lock, turned and pulled the drawer open.
+With these dulled expectations, I scanned the cabinets for "May 79", inserted the Schlage, and after wrestling with
+the lock, turned and pulled the drawer open in a zephyr of dust.
 
 <p align="center">
 ⁂</p>
