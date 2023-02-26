@@ -174,8 +174,8 @@ This was a *fonds* and not a shrine.
 
 I unlocked Camera 3 to find a state of picturesque chaos, not
 atypical of the place. At the back was row upon row of squat, grey
-filing cabinets; the homely reliquaries of the martyer.
-Ah, here: April 79.
+filing cabinets; the reliquaries of the martyer.
+Here: April 79.
 
 <p align="center">
 ⁂</p>
