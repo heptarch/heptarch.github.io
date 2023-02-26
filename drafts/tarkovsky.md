@@ -134,7 +134,7 @@ I found the door marked "журнал - Il Diario - 3", and paused in awe
 at the threshold.
 After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
-text; but, as Jacob von Rammingen, without a proper registry, "not
+text; but, as Jacob von Rammingen reminds us, without a proper registry, "not
 even the highest rule of divine nature can exist."
 I was an archivist, and this was my *fonds*.
 "<label for="sn-2"
