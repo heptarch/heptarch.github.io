@@ -72,7 +72,8 @@ were alive and exploring.
 The Institute's crowning treasure, however, was the "Martyrlog", diaries spanning the
 period from the making of *Solaris* in 1970 until Tarkovsky's death in 1986.
 These were carefully guarded by his son, Andrei, but he was away
-in Mykonos for the summer and had relayed instructions to me through
+in Mykonos for the summer with the Institute's director, Andrea Ulivi,
+and they had relayed instructions through
 a sequence of intermediaries. I spoke with two
 administrative assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
@@ -82,8 +83,7 @@ Eventually, I understood I was to organize, evaluate, and possibly digitize an
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
-summer, I would report my findings to the official director of the
-Institute, Andrea Ulivi.
+summer, I would report my findings to Andrea.
 
 The "caretaker" was a gaunt woman called Chiara Pontieri who smoked
 constantly and was almost never to be found at the Institute.
