@@ -11,7 +11,7 @@ date:  2023-02-24
 [vol. IV-2, 2013]
 
 ---
-THE PACT <br>
+𝕿𝖍𝖊 𝕻𝖆𝖈𝖙 <br>
 <i>word and polaroids by Tun Casey</i>
 <br>
 
