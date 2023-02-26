@@ -122,7 +122,8 @@ moon was laughing invisibly, far above.
 II. THE LOCKED ROOM
 </p>
 
-After two aimless weeks in Via di San Niccolò, it seemed as if 
+After two aimless weeks in Via di San Niccolò, it felt as if the
+curtains of the ark were parting to reveal a glimpse of the sacred book.
 
 <figure>
     <div style="text-align:center"><img src
