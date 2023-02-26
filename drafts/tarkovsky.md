@@ -7,14 +7,10 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: The Vernon Film and Literary Quarterly</b>
-[vol. IV-2, 2006]
-<br>
-
----
 THE PACT <br>
 <i>word and polaroids by Tun Casey</i> <br>
 
+---
 
 <!-- <span style="padding-left: 40px; display:block">
 My discovery of Tarkovsky's first film was like a miracle. Suddenly, I
