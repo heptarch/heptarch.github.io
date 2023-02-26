@@ -142,14 +142,14 @@ II. THE ARK OPENS
 </p>
 
 I set to work enthusiastically the next morning, and after several
-espressi, bounded up the staircase.
-I found the door marked "Camera 3 - мартирология",<label for="sn-3"
+espressi, bounded up the staircase to the door marked "Camera 3 - мартирология".<label for="sn-3"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-3"
        class="margin-toggle"/>
-	   <span class="sidenote">"Martyrology" (<i>Rus.</i>) </span> and paused in awe
+	   <span class="sidenote">"Martyrology" (<i>Rus.</i>) </span>
+I paused in awe
 at the threshold;
 after two aimless weeks in Via di San Niccolò, it felt like the
 curtains of the ark had parted to offer a glimpse of the sacred.
