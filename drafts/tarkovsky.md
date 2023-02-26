@@ -201,16 +201,15 @@ diaries,<label for="sn-4"
 	   with only two entries (May 12 and 22).
 They are mostly concerned with the
 promotion of *Stalker* and his plans to
-leave for Italy,
+leave for Italy.
 <!--
 In my first two weeks, I had browsed the Institute's archival
 notes---a confusion of Russian,
 Polish, Italian and French---which suggested that, while the diary
 entries were elsewhere,-->
-and I thought that, at best, the May 79 cabinet might house correspondence with the Italian
-authorities or the Soviet film board.
-These would bore the average reader, but prove invaluable to the
-biographer and cultural materialist.
+I thought that, at best, the May 79 cabinet might house correspondence with the Italian
+authorities or the Soviet film board which would bore the average reader, but prove invaluable to the
+biographer, the film critic, the cultural materialist.
 I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers and EADs, and finish my
 summer by changing hats and penning an editorial recommendation.
 This, at least, was my surmise.
