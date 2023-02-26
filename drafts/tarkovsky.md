@@ -29,7 +29,7 @@ I spent the summer of 1999 as a student archivist in Florence, at the Andrei
 Tarkovsky International Institute. What follows is an account of my
 time there which, for reasons both legal and moral, I was prevented from disclosing
 until now.
-M, wherever you are, consider the arrangement dissolved.
+𝔐., wherever you are, consider the arrangement dissolved.
 
 <p align="center">
 ⁂</p>
