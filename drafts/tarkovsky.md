@@ -11,12 +11,10 @@ date:  2023-02-24
 [vol. IV-2, 2013]
 
 ---
-<!-- <br> <i>word and polaroids by Tun Casey</i> <br>-->
+THE PACT <br>
+<i>word and polaroids by Tun Casey</i>
+<br>
 
-
-<p align="center">
-THE PACT
-</p>
 
 <p align="center">
 ⁂</p>
