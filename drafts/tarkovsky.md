@@ -189,8 +189,7 @@ reliquaries of the martyr.
 	</div>
 	</figure>
 
-But after the moment of sobriety on the threshold, my expectations
-were not high.
+The moment of sobriety on the threshold had dulled my expectations.
 May 1979 is a fallow month in the English edition of Tarkovsky's
 diaries,<label for="sn-4"
        class="margin-toggle sidenote-number">
