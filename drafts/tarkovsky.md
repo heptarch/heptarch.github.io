@@ -8,7 +8,7 @@ date:  2023-02-24
 ---
 
 <b>Patina: The Vernon Film and Literary Quarterly</b>
-[vol. IV-2, 2013]
+[vol. IV-2, 2006]
 
 ---
 THE PACT <br>
@@ -42,7 +42,7 @@ Come, let me show you one of them.
 	</div>
 	</figure>
 
-<p align="left">I spent the summer of 2012 as a student archivist at the Andrei
+<p align="left">I spent the summer of 2005 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room—more
 a closet—on the second floor, ate at I Bastioni, and drank <i>branca menta</i>
@@ -82,7 +82,8 @@ Eventually, I understood I was to organize, evaluate, and possibly digitize an
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
-summer, report to a professor of Polish literature in Warsaw.
+summer, I would report my findings to the official director of the
+Institute, Andrea Ulivi.
 
 The "caretaker" was a gaunt woman called Chiara Pontieri who smoked
 constantly and was almost never to be found at the Institute.
@@ -119,7 +120,7 @@ moon was laughing invisibly, far above.
 ⁂</p>
 
 <p align="center">
-II. THE LOCKED ROOM
+II. THE ARK
 </p>
 
 After two aimless weeks in Via di San Niccolò, it felt as if the
