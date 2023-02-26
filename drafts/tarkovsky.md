@@ -153,7 +153,7 @@ I paused in awe
 at the threshold;
 after two aimless weeks in Via di San Niccolò, it felt like the
 curtains of the ark had parted to offer a glimpse of the sacred.
-But religious feeling is not proper to archival science, and as Jacob von Rammingen reminds us, without a proper registry "not
+But religious feeling is not proper to archival science, and as Jacob von Rammingen reminds us, without a registry "not
 even the highest rule of divine nature can exist."<label for="sn-2"
        class="margin-toggle sidenote-number">
 </label>
