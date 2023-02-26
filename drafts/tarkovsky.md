@@ -135,7 +135,7 @@ at the threshold;
 after two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
 text.
-But there is no place  as Jacob von Rammingen reminds us, without a proper registry, "not
+But religious feeling is not proper to archival science, and as Jacob von Rammingen reminds us, without a proper registry "not
 even the highest rule of divine nature can exist."<label for="sn-2"
        class="margin-toggle sidenote-number">
 </label>
@@ -143,7 +143,7 @@ even the highest rule of divine nature can exist."<label for="sn-2"
        id="sn-2"
        class="margin-toggle"/>
 	   <span class="sidenote"><i>Von der Registratur</i> (1571).</span>
-I was an archivist, and this was my *fonds*.
+This was a *fonds* and not a shrine.
 
 <figure>
     <div style="text-align:center"><img src
