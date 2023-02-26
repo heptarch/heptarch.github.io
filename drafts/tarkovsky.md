@@ -69,6 +69,7 @@ Leonardo, letters to Antonioni and Bergman, his spectral
 polaroids---and which could be found in odd places around the house, in
 little stacks under the cupboards, say, or inside the fuse box, as if they
 were alive and exploring.
+
 The Institute's crowning treasure, however, was the "Martyrlog", diaries spanning the
 period from the making of *Solaris* in 1970 until Tarkovsky's death in 1986.
 These were carefully guarded by his son, Andrei, but he was away
