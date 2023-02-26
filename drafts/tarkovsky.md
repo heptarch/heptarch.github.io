@@ -173,10 +173,10 @@ This was a *fonds* and not a shrine.
 	</figure>
 
 I unlocked Camera 3 to find a state of picturesque chaos. At the back
-was row upon row of filing cabinets labelled by month; the reliquaries of the Martyrolog.
-May 1979 is a fallow month in the English edition of his diaries,
+was row upon row of filing cabinets labelled by month---the
+reliquaries of the Martyrolog---and ingress to a cubicle filled with rubbish.
+I scanned the cabinets; May 1979 is a fallow month in the English edition of his diaries,
 *Time within time* (1991), with only two entries (May 12 and 22).
-I opened the cabinet to find 
 
 <figure>
     <div style="text-align:center"><img src
@@ -211,7 +211,8 @@ III. HERR DOKTOR
  <p align="center">
 <i>Tun is a postdoctoral scholar at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
- literature.</i>
+ literature. They worked on the complete edition of the Martyrolog
+ published by Edizioni della Meridiana in 2001.</i>
  </p>
  </div>
 
