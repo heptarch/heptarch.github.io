@@ -237,8 +237,7 @@ III. THE CABINET OF MAY 79
 The drawer opened to reveal---not continental travel arrangements
 or negotiations for Cannes---but a few scraps of paper, some weathered
 keys, and a pile of ash.
-I removed it and carefully placed it on the floor to get a better sense
-of its arrangement.
+I removed the drawer and carefully laid it on the floor.
 
 <figure>
     <div style="text-align:center"><img src
