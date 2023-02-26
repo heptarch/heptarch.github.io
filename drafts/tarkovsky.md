@@ -15,7 +15,7 @@ date:  2023-02-24
 
 
 <p align="center">
-<i>THE PACT</i>
+THE PACT
 </p>
 
 <p align="center">
