@@ -7,7 +7,7 @@ categories:
 date:  2023-02-24
 ---
 
-<b>THE PACT</b> <br>
+<b>THE SECRET PACT</b> <br>
 <i>word and polaroids by Tun Casey</i> <br>
 
 ---
