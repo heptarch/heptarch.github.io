@@ -210,7 +210,8 @@ entries were elsewhere,-->
 I thought that, at best, the May 79 cabinet might house correspondence with the Italian
 authorities or the Soviet film board; they would bore the average reader, but prove invaluable to the
 biographer, the film critic, or the cultural materialist.
-I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers, and finish my
+I would ask Chiara for more keys, draw some provenance diagrams,
+create accession numbers and EADs, and finish my
 summer by changing hats and penning an editorial recommendation.
 
 With these dulled expectations, I scanned the cabinets for "May 79", inserted the Schlage, and after wrestling with
