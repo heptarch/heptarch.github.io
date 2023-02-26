@@ -222,7 +222,7 @@ revelation that does not yet occur".<label for="sn-5"
 	   Borges (1961).</span>
 Despite my archival sobriety, that moment---before the cabinet opened,
 in that forbidden room, with its aura of genius, of mystery, of
-possible forms transmuted into history---is one of
+possible forms transmuted by contact with history---is one of
 the great aesthetic experiences of my life.
 I scanned the cabinets for "May 79", inserted the Schlage, and turned
 it with a dull click.
@@ -234,7 +234,7 @@ it with a dull click.
 III. THE CABINET OF MAY 79
 </p>
 
-
+The drawer could be re
 
 <figure>
     <div style="text-align:center"><img src
