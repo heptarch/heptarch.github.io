@@ -113,7 +113,7 @@ Institute's letterhead and some serial numbers.
 
 Chiara watched intently as I signed and dated the slip, then stubbed
 out her cigarette, drained her sambuca and withdrew two keys from the
-satchel: a heavy, single-toothed barrel key acid etched with the
+satchel: a heavy, single-toothed barrel key acid-etched with the
 numeral "3", and a
 Schlage for the filing cabinet I was to have access to.
 She left as abruptly as she had arrived.
