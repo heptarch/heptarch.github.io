@@ -235,10 +235,11 @@ III. THE CABINET OF MAY 79
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 50px; border: 0px
  solid black; line-height:1.3;">
  <p align="center">
-<i>Tun is a postdoctoral scholar at the Vernon Centre, with
+ <i>This is a work of fiction. Images were generated using Midjourney.</i>
+<!-- <i>Tun is a postdoctoral scholar at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature. They worked on the first complete edition of the</i> Martyrolog,
- <i>published by Edizioni della Meridiana in 2001.</i>
+ <i>published by Edizioni della Meridiana in 2001.</i> -->
  </p>
  </div>
 
