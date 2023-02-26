@@ -134,7 +134,15 @@ I found the door marked "журнал - Il Diario - 3", and paused in awe
 at the threshold.
 After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
-text; I reminded myself
+text; but, as Jacob von Rammingen, without a proper registry, "not
+even the highest rule of divine nature can exist."
+"<label for="sn-2"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-2"
+       class="margin-toggle"/>
+	   <span class="sidenote"><i>V on der Registratur(/i) (1571).</span>
 
 <figure>
     <div style="text-align:center"><img src
@@ -175,3 +183,4 @@ Tun is a final-year graduate student at the Vernon Centre, with
 <!-- https://en.wikipedia.org/wiki/Tower_of_San_Niccol%C3%B2,_Florence-->
 <!-- www.silenocheloni.com -->
 <!-- http://nostalghia.com/TheTopics/MartyrologCmp.html -->
+<!-- https://germanhistory-intersections.org/en/knowledge-and-education/ghis:document-12 -->
