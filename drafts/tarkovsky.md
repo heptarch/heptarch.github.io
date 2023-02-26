@@ -26,7 +26,7 @@ wanted to say without knowing how. Tarkovsky is for me the greatest,
 the one who invented a new language, true to the nature of film, as it
 captures life as a reflection, life as a dream.
 </span>
-<div style="text-align: right">Ingmar Bergman
+<div style="text-align: right"><i>Ingmar Bergman</i>
 </div>
 
 
