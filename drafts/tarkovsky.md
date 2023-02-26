@@ -72,15 +72,15 @@ were alive and exploring.
 
 The Institute's crowning treasure, however, was the "Martyrlog", diaries spanning the
 period from the making of *Solaris* in 1970 until Tarkovsky's death in 1986.
-These were carefully guarded by his son, Andrei, but he was away
+These were carefully administered by his son, Andrei, but he was away
 in Mykonos for the summer with the Institute's director, Andrea Ulivi,
 and they had relayed instructions through
 a sequence of intermediaries. I spoke with two
-administrative assistants in rapidfire Florentine, a
+assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
-Eventually, I understood I was to organize, evaluate, and possibly digitize an
+Eventually, I understood I was to organize, provide accession numbers, and possibly digitize an
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
@@ -134,7 +134,7 @@ I found the door marked "журнал - Il Diario - 3", and paused in awe
 at the threshold.
 After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
-text; 
+text; I reminded myself
 
 <figure>
     <div style="text-align:center"><img src
