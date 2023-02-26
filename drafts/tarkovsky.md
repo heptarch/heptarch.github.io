@@ -224,7 +224,7 @@ I was not prepared for what I found.
 ⁂</p>
 
 <p align="center">
-III. MAY 79
+III. THE CABINET OF MAY 79
 </p>
 
 <figure>
