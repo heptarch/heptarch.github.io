@@ -87,7 +87,7 @@ summer, I would report my findings to Andrei and/or Andrea, at least
 one of whom would be back in Florence.
 
 The "caretaker" turned out to be a gaunt woman called Chiara Pontieri who smoked
-constantly and was almost never to be found at the Institute.
+incessantly and was never to be found at the Institute.
 She appeared in the kitchen on the evening of a full moon,
 unannounced, two weeks into my stay, and
 wordlessly poured us two glasses of sambuca on ice.
