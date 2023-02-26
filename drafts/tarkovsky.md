@@ -174,7 +174,7 @@ This was a *fonds* and not a shrine.
 
 I unlocked Camera No. 3 to find a state of picturesque chaos. At the
 front of the room, a desk covered in postcards, sketches, letters,
-newspaper clippings, and binders filled with official
+newspaper clippings, and binders of official
 documents and tax reports.
 At the back, boxes stuffed with loose sheets of foolscap, a pair of
 empty cupboards, and row upon row of filing cabinets labelled by month---the
