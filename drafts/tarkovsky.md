@@ -127,7 +127,7 @@ curtains of the ark had parted to reveal a glimpse of the sacred
 text.
 I set to work enthusiastically the next morning, drinking three
 espressi, scaling the stairs to the fourth floor, and triumphantly
-unlocking the marked "журнал - 2".
+unlocking the marked "журнал - Il Diario".
 
 <figure>
     <div style="text-align:center"><img src
