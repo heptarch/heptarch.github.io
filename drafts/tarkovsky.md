@@ -235,7 +235,7 @@ III. THE CABINET OF MAY 79
 </p>
 
 The drawer opened to reveal---not continental travel arrangements
-or the snares of the apparatchiks---but a few scraps of paper, some weathered
+or droning apparatchiks---but a few scraps of paper, some weathered
 keys, and a pile of ash.
 I removed the drawer and carefully laid it on the floor.
 What was I looking at?
