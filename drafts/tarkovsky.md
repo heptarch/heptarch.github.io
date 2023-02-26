@@ -29,6 +29,7 @@ I spent the summer of 1999 as a student archivist in Florence, at the Andrei
 Tarkovsky International Institute. What follows is an account of my
 time there which, for legal reasons, I was prevented from disclosing
 until now.
+CP, forgive me.
 
 <p align="center">
 ⁂</p>
@@ -82,7 +83,7 @@ birch and argilite, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral
 polaroids---and which could be found in odd places around the house, in
 little stacks under the cupboards, say, or inside the fuse box, as if they
-were alive and exploring.
+were alive and exploring the house.
 
 The Institute's crowning treasure, however, was the "Martyrolog", diaries spanning the
 period from the making of *Solaris* in 1970 until Tarkovsky's death in 1986.
