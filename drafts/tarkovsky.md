@@ -29,7 +29,7 @@ I spent the summer of 1999 as a student archivist in Florence, at the Andrei
 Tarkovsky International Institute. What follows is an account of my
 time there which, for reasons both legal and moral, I was prevented from disclosing
 until now.
-CP, forgive me.
+M, wherever you are, consider the arrangement dissolved.
 
 <p align="center">
 ⁂</p>
@@ -235,7 +235,7 @@ III. THE CABINET OF MAY 79
 </p>
 
 The drawer opened to reveal---not continental travel arrangements
-or negotiations for Cannes---but a few scraps of paper, some weathered
+or the snares of the apparatchiks---but a few scraps of paper, some weathered
 keys, and a pile of ash.
 I removed the drawer and carefully laid it on the floor.
 What was I looking at?
