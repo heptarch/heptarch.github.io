@@ -129,7 +129,7 @@ Institute's letterhead and some serial numbers.
 Chiara watched intently as I signed and dated the slip, then stubbed
 out her cigarette, drained her sambuca and withdrew two keys from the
 satchel: a heavy, single-toothed barrel key, acid etched "C3", and a
-Schlage marked "Apr 79" for the filing cabinet.
+Schlage marked "May 79" for the filing cabinet.
 She left as abruptly as she had arrived.
 I found myself alone with the smell of anise and an odd feeling that the
 moon was laughing at me, invisibly, far above.
@@ -175,7 +175,8 @@ This was a *fonds* and not a shrine.
 I unlocked Camera 3 to find a state of picturesque chaos, not
 atypical of the place. At the back was row upon row of squat, grey
 filing cabinets; the reliquaries of the martyer.
-Here: April 79.
+There, nestled amongs them, was May 1979.
+In the 
 
 <p align="center">
 ⁂</p>
