@@ -127,8 +127,8 @@ After two aimless weeks in Via di San Niccolò, it felt as if the
 curtains of the ark had parted to reveal a glimpse of the sacred
 text.
 I set to work enthusiastically the next morning, drinking three
-espressi, scaling the stairs to the fourth floor, and triumphantly
-unlocking the door marked "журнал - Il Diario - 3".
+espressi and bounding up the stairs to the fourth floor.
+Triumphantly unlocking the door marked "журнал - Il Diario - 3".
 
 <figure>
     <div style="text-align:center"><img src
