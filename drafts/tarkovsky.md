@@ -112,7 +112,7 @@ Institute's letterhead and some serial numbers.
 	</figure>
 
 Chiara watched intently as I signed and dated the slip, then stubbed
-out her cigarette, drained her sambuca and withdrew two keys from a satchel: a heavy, single-toothed barrel key for the room itself, and a
+out her cigarette, drained her sambuca and withdrew two keys from the satchel: a heavy, single-toothed barrel key for the room itself, and a
 Schlage for the filing cabinet I was to have access to.
 She left as abruptly as she had arrived.
 I found myself alone with the smell of anise and a feeling that the
