@@ -127,12 +127,12 @@ moon was laughing at me, invisibly, far above.
 II. THE ARK OPENS
 </p>
 
-After two aimless weeks in Via di San Niccolò, it felt as if the
-curtains of the ark had parted to offer a glimpse of the sacred
-text.
 I set to work enthusiastically the next morning, and after several
 espressi, bounded up the staircase to the fourth floor.
 A door marked "журнал - Il Diario - 3".
+After two aimless weeks in Via di San Niccolò, it felt as if the
+curtains of the ark had parted to offer a glimpse of the sacred
+text.
 
 <figure>
     <div style="text-align:center"><img src
