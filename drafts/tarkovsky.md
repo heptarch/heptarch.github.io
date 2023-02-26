@@ -128,9 +128,9 @@ II. THE ARK
 After two aimless weeks in Via di San Niccolò, it felt as if the
 curtains of the ark had parted to offer a glimpse of the sacred
 text.
-I set to work enthusiastically the next morning, gulping down three
-espressi and bounding up the stairs to the fourth floor.
-Triumphantly unlocking the door marked "журнал - Il Diario - 3".
+I set to work enthusiastically the next morning, and after three
+espressi, bounded up the staircase to the fourth floor.
+A door marked "журнал - Il Diario - 3".
 
 <figure>
     <div style="text-align:center"><img src
