@@ -58,7 +58,7 @@ background and others take their place.</p>
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079125210076299284/hapax_Grainy_polaroid_of_interior_of_old_Italian_house_with_dri_63316a7c-a08a-4a47-bd2e-c3ee6678eaf0.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Still life, Andrei Tarkovsky International Institute.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Still life at the Andrei Tarkovsky International Institute.</i></font></figcaption>
 	</div>
 	</figure>
 
@@ -133,7 +133,7 @@ I found the door marked "журнал - Il Diario - 3", and paused in awe
 at the threshold.
 After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
-text; what 
+text; 
 
 <figure>
     <div style="text-align:center"><img src
