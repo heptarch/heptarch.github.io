@@ -252,7 +252,9 @@ of its arrangement.
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 50px; border: 0px
  solid black; line-height:1.3;">
  <p align="center">
- <i>This is a work of nerdy metafiction by David Wakeham. Images were generated using Midjourney.</i>
+ <i>This is a work of nerdy metafiction by David Wakeham. Images were
+ generated using Midjourney. Any resemblance to persons living or dead
+ is either obviously intended or coincidental.</i>
 <!-- <i>Tun is a postdoctoral scholar at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature. They worked on the first complete edition of the</i> Martyrolog,
