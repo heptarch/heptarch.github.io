@@ -218,7 +218,7 @@ revelation that does not yet occur".<label for="sn-5"
 <input type="checkbox"
        id="sn-5"
        class="margin-toggle"/>
-	   <span class="sidenote">“The Wall and the Books”, Jorge Luis
+	   <span class="sidenote">“La Muralla y los Libros”, Jorge Luis
 	   Borges (1961).</span>
 Despite my archival sobriety, that moment---before the cabinet opened,
 in that forbidden room, with its aura of genius, of mystery, of
