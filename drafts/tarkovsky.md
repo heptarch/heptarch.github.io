@@ -192,9 +192,11 @@ leave for Italy.
 I expected, perhaps, some Italian correspondence, the logistics of
 which might bore the average reader but provide the scholar some biographical
 insight.
-I would dutifully create accession numbers, draw some diagrams, ask Chiara (if I could
-find her) for keys to the other relevant cabinets, switch modes, finish my
-summer with a short report on the significance of the 
+I would dutifully draw some diagrams, create accession numbers and EAD
+entries, ask Chiara (if I could
+find her) for keys to the other relevant cabinets, and finish my
+summer by changing hats and penning a short analysis, with editorial
+recommendations, for Andre(i/a).
 
 <figure>
     <div style="text-align:center"><img src
