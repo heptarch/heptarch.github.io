@@ -143,7 +143,7 @@ II. THE ARK OPENS
 
 I set to work enthusiastically the next morning, and after several
 espressi, bounded up the staircase.
-I found the door marked "журнал - Il Diario - Camera 3", and paused in awe
+I found the door marked "Camera 3 - мартирология", and paused in awe
 at the threshold;
 after two aimless weeks in Via di San Niccolò, it felt like the
 curtains of the ark had parted to offer a glimpse of the sacred.
