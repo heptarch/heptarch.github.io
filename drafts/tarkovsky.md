@@ -178,7 +178,7 @@ newspaper clippings, and binders filled with official
 documents and tax reports.
 At the back, boxes stuffed with loose sheets of foolscap, a pair of cupboards filled
 with rubbish, and row upon row of filing cabinets labelled by month---the
-reliquaries of the Martyrolog itself.
+reliquaries of the martyr.
 But after the moment of sobriety on the threshold, my expectations
 were not high.
 May 1979 is a fallow month in the English edition of Tarkovsky's
@@ -193,15 +193,15 @@ with only two entries (May 12 and 22), mostly concerned with the
 promotion of *Stalker* and his plans to
 leave for Italy.
 
-I speculated that while the diary entries would probably be in a
-journal elsewhere, the May 79 cabinet might house some Italian correspondence, the logistics of
-which might bore the average reader but provide the scholar some biographical
-insight.
-I would dutifully draw some diagrams, create accession numbers and EAD
-entries, ask Chiara (if I could
-find her) for keys to the other relevant cabinets, and finish my
-summer by changing hats and penning a short analysis, with editorial
-recommendations, for Andre(i/a).
+I had studied the existing archival notes in my first two weeks. They
+suggested that, while the diary entries themselves were elsewhere, the
+May 79 cabinet might house correspondence with the Italian
+authorities, or negotiations with the Soviet film authorities.
+They might bore the average reader, but offer insights to the
+biographer and cultural materialist.
+In all probability, I would ask Chiara for more keys, draw some provenance diagrams, create accession numbers and EADs, and finish my
+summer by changing hats and penning an editorial recommendation.
+This, at least, was my surmise.
 
 <figure>
     <div style="text-align:center"><img src
