@@ -224,16 +224,15 @@ Here is what I found.
 ⁂</p>
 
 <p align="center">
-III. HERR DOKTOR
+III. MAY 79
 </p>
 
 <figure>
     <div style="text-align:center"><img src
-    ="https://cdn.discordapp.com/attachments/1074533019450351667/1076224106267164803/hapax_grainy_film_still_from_a_lost_mysterious_Tarkovsky_film_a_ff21cd1d-831a-450c-884e-1d0df04d460f.png"
+    ="https://cdn.discordapp.com/attachments/1074533019450351667/1076309175770026024/hapax_grainy_film_still_from_a_lost_mysterious_Tarkovsky_film_w_3efcce81-c97e-4a95-974e-7c640e33beac.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Serenus Zeitblom returning to
-	Kaisersaschern on the Saale.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>A fragment.</i></font></figcaption>
 	</div>
 	</figure>
 
