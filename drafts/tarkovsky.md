@@ -136,14 +136,14 @@ After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
 text; but, as Jacob von Rammingen reminds us, without a proper registry, "not
 even the highest rule of divine nature can exist."
-I was an archivist, and this was my *fonds*.
-"<label for="sn-2"
+<label for="sn-2"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-2"
        class="margin-toggle"/>
-	   <span class="sidenote"><i>V on der Registratur(/i) (1571).</span>
+	   <span class="sidenote"><i>Von der Registratur</i> (1571).</span>
+I was an archivist, and this was my *fonds*.
 
 <figure>
     <div style="text-align:center"><img src
