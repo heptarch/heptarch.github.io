@@ -176,10 +176,12 @@ III. HERR DOKTOR
 ---
 
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 50px; border: 0px
-solid black; line-height:1.3;">
+ solid black; line-height:1.3;">
+ <p align="center">
 <i>Tun is a final-year graduate student at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature.</i>
+ </p>
  </div>
 
 <!--https://www.theflorentine.net/2017/09/08/andrei-tarkovsky-famous-expats/-->
