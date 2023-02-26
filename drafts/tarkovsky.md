@@ -113,7 +113,7 @@ Institute's letterhead and some serial numbers.
 
 Chiara watched intently as I signed and dated the slip, then stubbed
 out her cigarette, drained her sambuca and withdrew two keys from the
-satchel: a heavy, single-toothed barrel key acid-etched with the
+satchel: a heavy, single-toothed barrel key acid etched with the
 numeral "3", and a
 Schlage for the filing cabinet I was to have access to.
 She left as abruptly as she had arrived.
@@ -129,10 +129,12 @@ II. THE ARK OPENS
 
 I set to work enthusiastically the next morning, and after several
 espressi, bounded up the staircase to the fourth floor.
-I paused in awe before the portal marked "журнал - Il Diario - 3".
+I found the door marked "журнал - Il Diario - 3", and paused in awe
+at the threshold.
 After two aimless weeks in Via di San Niccolò, it felt as if the
 curtains of the ark had parted to offer a glimpse of the sacred
 text.
+I must
 
 <figure>
     <div style="text-align:center"><img src
