@@ -220,6 +220,9 @@ revelation that does not yet occur".<label for="sn-5"
        class="margin-toggle"/>
 	   <span class="sidenote">“The Wall and the Books”, Jorge Luis
 	   Borges (1961).</span>
+Despite my archival sobriety, that moment---before the cabinet opened,
+in that forbidden room with its aura of genius, of mystery---is one of
+the great aesthetic experiences of my life.
 I scanned the cabinets for "May 79", inserted the Schlage, and turned
 it with a dull click.
 
@@ -246,7 +249,7 @@ III. THE CABINET OF MAY 79
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 50px; border: 0px
  solid black; line-height:1.3;">
  <p align="center">
- <i>This is a work of fiction by David Wakeham. Images were generated using Midjourney.</i>
+ <i>This is a work of nerdy metafiction by David Wakeham. Images were generated using Midjourney.</i>
 <!-- <i>Tun is a postdoctoral scholar at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature. They worked on the first complete edition of the</i> Martyrolog,
