@@ -176,7 +176,7 @@ I unlocked Camera 3 to find a state of picturesque chaos, not
 atypical of the place. At the back was row upon row of squat, grey
 filing cabinets; the reliquaries of the martyer.
 In the middle I found "May 1979".
-This was a fallow month in the English edition *Time with time* (1991), with only two entries on
+This was a fallow month in the English edition *Time within time* (1991), with only two entries on
 May 12th and 22nd.
 But the cabinet was overflowing:
 
