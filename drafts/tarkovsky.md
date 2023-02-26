@@ -174,9 +174,10 @@ This was a *fonds* and not a shrine.
 
 I unlocked Camera 3 to find a state of picturesque chaos. At the back
 was row upon row of filing cabinets labelled by month---the
-reliquaries of the Martyrolog---and a portal to small chamber filled with rubbish.
-I scanned the cabinets; May 1979 is a fallow month in the English edition of Tarkovsky's diaries,
-*Time within time* (1991), with only two entries (May 12 and 22).
+reliquaries of the Martyrolog---and a portal to small chamber filled
+with rubbish.
+With some scanning, I found "May 79", inserted the Schlage, and pulled
+open with drawer with a satisfying click.
 
 <figure>
     <div style="text-align:center"><img src
@@ -186,6 +187,9 @@ I scanned the cabinets; May 1979 is a fallow month in the English edition of Tar
 	<figcaption> <font size="-0.2"><i>Reliquaries of the <i>Martyrolog</i>.</i></font></figcaption>
 	</div>
 	</figure>
+
+May 1979 is a fallow month in the English edition of Tarkovsky's diaries,
+*Time within time* (1991), with only two entries (May 12 and 22).
 
 <p align="center">
 ⁂</p>
