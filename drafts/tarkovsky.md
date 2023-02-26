@@ -27,7 +27,7 @@ captures life as a reflection, life as a dream.
 
 I spent the summer of 1999 as a student archivist in Florence, at the Andrei
 Tarkovsky International Institute. What follows is an account of my
-time there which, from both legal and moral considerations, I was prevented from disclosing
+time there which, for reasons both legal and moral, I was prevented from disclosing
 until now.
 CP, forgive me.
 
