@@ -124,12 +124,12 @@ moon was laughing at me, invisibly, far above.
 ⁂</p>
 
 <p align="center">
-II. ROOM 3
+II. CAMERA 3
 </p>
 
 I set to work enthusiastically the next morning, and after several
 espressi, bounded up the staircase.
-I found the door marked "журнал - Il Diario - 3", and paused in awe
+I found the door marked "журнал - Il Diario - Camera 3", and paused in awe
 at the threshold;
 after two aimless weeks in Via di San Niccolò, it felt like the
 curtains of the ark had parted to offer a glimpse of the sacred
@@ -153,7 +153,7 @@ This was a *fonds* and not a shrine.
 	</div>
 	</figure>
 
-I unlocked room 3
+I unlocked "Camera 3"
 
 <p align="center">
 ⁂</p>
