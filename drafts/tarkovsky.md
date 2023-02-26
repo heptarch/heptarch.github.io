@@ -168,7 +168,7 @@ This was a *fonds* and not a shrine.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Camera No. 3.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Camera No. 3: front.</i></font></figcaption>
 	</div>
 	</figure>
 
@@ -185,7 +185,7 @@ reliquaries of the martyr.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079261956109762611/hapax_grainy_polaroid_of_many_locked_filing_cabinets_at_the_bac_e0dab5d8-dd7a-4a82-a7c1-e5fea2818370.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Reliquaries of the <i>Martyrolog</i>.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Camera No. 3: back.</i></font></figcaption>
 	</div>
 	</figure>
 
