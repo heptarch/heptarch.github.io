@@ -37,7 +37,7 @@ Come, let me show you one of them.
 
 <figure>
     <div style="text-align:center"><img src
-    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079133610386399303/hapax_grainy_polaroid_of_Via_di_San_Niccolo_at_night_16db7d3c-1575-4fb2-9887-9d5dc1af03a9.png"
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079220055289643018/hapax_grainy_polaroid_of_Via_di_San_Niccolo_at_sunset_narrow_wi_3e1bfef4-c970-4611-80fa-3e54bd1ebab1.png"
     width="400"/> <br>
 	
 	<figcaption> <font size="-0.2"><i>Via di San Niccolò at night.</i></font></figcaption>
@@ -124,8 +124,7 @@ moon was laughing invisibly, far above.
 II. THE LOCKED ROOM
 </p>
 
-After two aimless weeks in Via di San Niccolò, the shrine had opened,
-and my 
+After two aimless weeks in Via di San Niccolò, it seemed as if 
 
 <figure>
     <div style="text-align:center"><img src
