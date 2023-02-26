@@ -176,8 +176,8 @@ I unlocked Camera 3 to find a state of picturesque chaos. At the back
 was row upon row of filing cabinets labelled by month---the
 reliquaries of the Martyrolog---and a portal to small chamber filled
 with rubbish.
-With some scanning, I found "May 79", inserted the Schlage, and pulled
-open with drawer with a satisfying click.
+With some scanning, I found "May 79", inserted the Schlage, and after
+some negotation with lock, turned and pulled open the drawer.
 
 <figure>
     <div style="text-align:center"><img src
