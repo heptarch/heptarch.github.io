@@ -94,7 +94,7 @@ assistants in rapidfire Florentine, a
 bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
-Eventually, I understood I was to catalogue, digitize and assess the
+Eventually, I understood I was to catalogue and assess the
 scholarly interest of an unpublished portion of the Martyrolog, kept in a filing cabinet in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
@@ -168,23 +168,22 @@ This was a *fonds* and not a shrine.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Working late in Camera 3.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Camera 3.</i></font></figcaption>
 	</div>
 	</figure>
 
 I unlocked Camera 3 to find a state of picturesque chaos. At the back
-was row upon row of filing cabinets labelled by month; the reliquaries of the martyr.
-In the middle of which was "May 1979".
-This was a fallow month in the English edition *Time within time* (1991), with only two entries on
-May 12th and 22nd.
-But the cabinet was overflowing.
+was row upon row of filing cabinets labelled by month; the reliquaries of the Martyrolog.
+May 1979 is a fallow month in the English edition of his diaries,
+*Time within time* (1991), with only two entries (May 12 and 22).
+I opened the cabinet to find 
 
 <figure>
     <div style="text-align:center"><img src
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079261956109762611/hapax_grainy_polaroid_of_many_locked_filing_cabinets_at_the_bac_e0dab5d8-dd7a-4a82-a7c1-e5fea2818370.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Filing cabinets.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Reliquaries of the <i>Martyrolog</i>.</i></font></figcaption>
 	</div>
 	</figure>
 
