@@ -153,7 +153,8 @@ This was a *fonds* and not a shrine.
 	</div>
 	</figure>
 
-I unlocked "Camera 3"
+I unlocked "Camera 3" to find a state of picturesque chaos, not
+atypical of the Institute.
 
 <p align="center">
 ⁂</p>
