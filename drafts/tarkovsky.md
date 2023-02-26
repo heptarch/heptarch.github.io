@@ -126,9 +126,9 @@ II. THE ARK
 </p>
 
 After two aimless weeks in Via di San Niccolò, it felt as if the
-curtains of the ark had parted to reveal a glimpse of the sacred
+curtains of the ark had parted to offer a glimpse of the sacred
 text.
-I set to work enthusiastically the next morning, drinking three
+I set to work enthusiastically the next morning, gulping down three
 espressi and bounding up the stairs to the fourth floor.
 Triumphantly unlocking the door marked "журнал - Il Diario - 3".
 
