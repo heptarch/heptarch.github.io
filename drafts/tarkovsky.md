@@ -26,7 +26,9 @@ captures life as a reflection, life as a dream.
 </div>-->
 
 I spent the summer of 1999 as a student archivist in Florence, at the Andrei
-Tarkovsky International Institute. What follows is 
+Tarkovsky International Institute. What follows is an account of my
+time there which, for legal reasons, I was prevented from disclosing
+until now.
 
 <p align="center">
 ⁂</p>
