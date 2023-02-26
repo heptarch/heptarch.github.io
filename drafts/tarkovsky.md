@@ -56,7 +56,7 @@ Come, let me show you one of them.
 	</div>
 	</figure>
 
-<p align="left">I spent the summer of 2005 as a student archivist at the Andrei
+<p align="left">I spent the summer of 1999 as a student archivist at the Andrei
 Tarkovsky International Institute, situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room—more
 a closet—on the second floor, ate at I Bastioni, and drank <i>branca menta</i>
@@ -176,7 +176,7 @@ I unlocked Camera 3 to find a state of picturesque chaos, not
 atypical of the place. At the back was row upon row of squat, grey
 filing cabinets; the reliquaries of the martyer.
 In the middle I found "May 1979".
-This was a fallow month in the English edition *Time with time* (2001), with only two entries on
+This was a fallow month in the English edition *Time with time* (1991), with only two entries on
 May 12th and 22nd.
 But the cabinet was overflowing:
 
@@ -202,7 +202,7 @@ III. HERR DOKTOR
  <div style="width=75%; background-color: #fffff8 ; padding: 0px 50px; border: 0px
  solid black; line-height:1.3;">
  <p align="center">
-<i>Tun is a final-year graduate student at the Vernon Centre, with
+<i>Tun is a postdoctoral scholar at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
  literature.</i>
  </p>
