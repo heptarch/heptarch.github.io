@@ -221,7 +221,8 @@ revelation that does not yet occur".<label for="sn-5"
 	   <span class="sidenote">“The Wall and the Books”, Jorge Luis
 	   Borges (1961).</span>
 Despite my archival sobriety, that moment---before the cabinet opened,
-in that forbidden room with its aura of genius, of mystery---is one of
+in that forbidden room, with its aura of genius, of mystery, of
+possible forms transmuted into history---is one of
 the great aesthetic experiences of my life.
 I scanned the cabinets for "May 79", inserted the Schlage, and turned
 it with a dull click.
