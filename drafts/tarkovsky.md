@@ -135,8 +135,7 @@ at the threshold.
 After two aimless weeks in Via di San Niccolò, the
 curtains of the ark had parted to offer a glimpse of the sacred
 text; but, as Jacob von Rammingen reminds us, without a proper registry, "not
-even the highest rule of divine nature can exist."
-<label for="sn-2"
+even the highest rule of divine nature can exist."<label for="sn-2"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
