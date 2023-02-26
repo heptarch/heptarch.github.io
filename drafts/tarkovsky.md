@@ -84,7 +84,7 @@ polaroids---and which could be found in odd places around the house, in
 little stacks under the cupboards, say, or inside the fuse box, as if they
 were alive and exploring.
 
-The Institute's crowning treasure, however, was the "Martyrlog", diaries spanning the
+The Institute's crowning treasure, however, was the "Martyrolog", diaries spanning the
 period from the making of *Solaris* in 1970 until Tarkovsky's death in 1986.
 These were carefully administered by his son, Andrei, but he was away
 in Mykonos for the summer with the Institute's director, Andrea Ulivi,
@@ -95,7 +95,7 @@ bibulous semiotician, Sven Nykvist's son, and various
 dabblers and aesthetes who had no other occupation, it seemed, than to hang around
 Via di San Niccolò and spread gossip.
 Eventually, I understood I was to catalogue, digitize and assess the
-scholarly interest of an unpublished portion of the Martyrlog, kept in a filing cabinet in a locked room on
+scholarly interest of an unpublished portion of the Martyrolog, kept in a filing cabinet in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
 summer, I would share my findings with Andrei and/or Andrea, at least
@@ -175,8 +175,10 @@ This was a *fonds* and not a shrine.
 I unlocked Camera 3 to find a state of picturesque chaos, not
 atypical of the place. At the back was row upon row of squat, grey
 filing cabinets; the reliquaries of the martyer.
-There, nestled amongs them, was May 1979.
-In the 
+In the middle I found "May 1979".
+This was a fallow month in the English edition *Time with time* (2001), with only two entries on
+May 12th and 22nd.
+But the cabinet was overflowing:
 
 <p align="center">
 ⁂</p>
