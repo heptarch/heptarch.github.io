@@ -177,7 +177,7 @@ was row upon row of filing cabinets labelled by month---the
 reliquaries of the Martyrolog---and a portal to small chamber filled
 with rubbish.
 With some scanning, I found "May 79", inserted the Schlage, and after
-some negotation with lock, turned and pulled open the drawer.
+some wrestling with the lock, turned and pulled open the drawer.
 
 <figure>
     <div style="text-align:center"><img src
