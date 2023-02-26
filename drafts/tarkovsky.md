@@ -13,7 +13,7 @@ date:  2023-02-24
 
 ---
 THE PACT <br>
-<i>word and polaroids by Tun Casey</i>
+<i>word and polaroids by Tun Casey</i> <br>
 
 
 <span style="padding-left: 40px; display:block">
@@ -27,7 +27,7 @@ the one who invented a new language, true to the nature of film, as it
 captures life as a reflection, life as a dream.
 </span>
 <div style="text-align: right">Ingmar Bergman
-</div><br>
+</div>
 
 
 <p align="center">
