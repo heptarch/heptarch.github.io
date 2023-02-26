@@ -147,8 +147,9 @@ espressi, bounded up the staircase to the door marked "Camera No. 3 - марти
 	   <span class="sidenote">"Martyrology" (<i>Rus.</i>) </span>
 I paused in awe
 at the threshold;
-after two aimless weeks in Via di San Niccolò, it felt like the
-curtains of the ark had parted to offer a glimpse of the sacred.
+after two aimless weeks in Via di San Niccolò, the
+curtains of the ark had parted to offer a glimpse of something
+forbidden, something sacred.
 But religious feeling is not proper to archival science, and as Jacob von Rammingen reminds us, without a registry "not
 even the highest rule of divine nature can exist."<label for="sn-2"
        class="margin-toggle sidenote-number">
