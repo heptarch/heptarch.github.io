@@ -132,7 +132,7 @@ I set to work enthusiastically the next morning, and after several
 espressi, bounded up the staircase.
 I found the door marked "журнал - Il Diario - 3", and paused in awe
 at the threshold;
-after two aimless weeks in Via di San Niccolò, the
+after two aimless weeks in Via di San Niccolò, it felt like the
 curtains of the ark had parted to offer a glimpse of the sacred
 text.
 But religious feeling is not proper to archival science, and as Jacob von Rammingen reminds us, without a proper registry "not
@@ -150,9 +150,11 @@ This was a *fonds* and not a shrine.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>The ark of the Martyrlog.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>The fonds.</i></font></figcaption>
 	</div>
 	</figure>
+
+I unlocked 
 
 <p align="center">
 ⁂</p>
