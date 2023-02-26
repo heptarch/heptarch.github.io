@@ -83,7 +83,8 @@ Eventually, I understood I was to organize, evaluate, and possibly digitize an
 unpublished portion of the Martyrlog, kept in a locked room on
 the fourth floor.
 The caretaker would give me the keys, and at the end of the
-summer, I would report my findings to Andrea, who would be back in Florence.
+summer, I would report my findings to Andrei and/or Andrea, at least
+one of whom would be back in Florence.
 
 The "caretaker" was a gaunt woman called Chiara Pontieri who smoked
 constantly and was almost never to be found at the Institute.
