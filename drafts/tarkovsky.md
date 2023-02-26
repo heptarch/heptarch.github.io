@@ -243,7 +243,7 @@ III. THE CABINET OF MAY 79
  <p align="center">
 <i>Tun is a postdoctoral scholar at the Vernon Centre, with
  interests in Russian and Italian cinema, historiography, and continental
- literature. They worked on the complete edition of the</i> Martyrolog,
+ literature. They worked on the first complete edition of the</i> Martyrolog,
  <i>published by Edizioni della Meridiana in 2001.</i>
  </p>
  </div>
