@@ -15,6 +15,19 @@ THE PACT <br>
 [vol. IV-2, 2006]
 <br>
 
+<span style="padding-left: 40px; display:block">
+My discovery of Tarkovsky's first film was like a miracle. Suddenly, I
+found myself standing at the door of a room the keys of which had
+until then, never been given to me. It was a room I had always wanted
+to enter and where he was moving freely and fully at ease. I felt
+encountered and stimulated: someone was expressing what I had always
+wanted to say without knowing how. Tarkovsky is for me the greatest,
+the one who invented a new language, true to the nature of film, as it
+captures life as a reflection, life as a dream.
+</span>
+<div style="text-align: right">Ingmar Bergman
+</div><br>
+
 
 <p align="center">
 ⁂</p>
