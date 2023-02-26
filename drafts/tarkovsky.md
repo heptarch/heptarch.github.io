@@ -186,7 +186,8 @@ diaries,<label for="sn-4"
        id="sn-4"
        class="margin-toggle"/>
 	   <span class="sidenote"><i>Time within time</i> (1991).</span>
-with only two entries (May 12 and 22).
+with only two entries (May 12 and 22), mostly concerne with the
+distribution of *Stalker*.
 I expected 
 
 <figure>
