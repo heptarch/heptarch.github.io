@@ -179,6 +179,7 @@ documents and tax reports.
 At the back, boxes stuffed with loose sheets of foolscap, a pair of
 empty cupboards, and row upon row of filing cabinets labelled by month---the
 reliquaries of the martyr.
+
 But after the moment of sobriety on the threshold, my expectations
 were not high.
 May 1979 is a fallow month in the English edition of Tarkovsky's
@@ -192,8 +193,7 @@ diaries,<label for="sn-4"
 with only two entries (May 12 and 22), mostly concerned with the
 promotion of *Stalker* and his plans to
 leave for Italy.
-
-I had studied the existing archival notes in my first two weeks. They
+I had studied the extant archival notes in my first two weeks. They
 suggested that, while the diary entries themselves were elsewhere, the
 May 79 cabinet might house correspondence with the Italian
 authorities, or negotiations with the Soviet film authorities.
