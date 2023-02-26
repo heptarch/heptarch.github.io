@@ -173,11 +173,11 @@ This was a *fonds* and not a shrine.
 	</figure>
 
 I unlocked Camera 3 to find a state of picturesque chaos. At the back
-was row upon row of filing cabinets labelled by month---the
+were boxes, row upon row of filing cabinets labelled by month---the
 reliquaries of the Martyrolog---and a portal to small chamber filled
 with rubbish.
-With some scanning, I found "May 79", inserted the Schlage, and after
-wrestling with the lock, turned and pulled the drawer open.
+I found "May 79", inserted the Schlage, and after some wrestling with
+the lock, turned and pulled the drawer open.
 
 <figure>
     <div style="text-align:center"><img src
