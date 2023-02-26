@@ -232,7 +232,7 @@ III. MAY 79
     ="https://cdn.discordapp.com/attachments/1074533019450351667/1076309175770026024/hapax_grainy_film_still_from_a_lost_mysterious_Tarkovsky_film_w_3efcce81-c97e-4a95-974e-7c640e33beac.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>A fragment.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Veiled fragments.</i></font></figcaption>
 	</div>
 	</figure>
 
