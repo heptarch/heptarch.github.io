@@ -7,12 +7,12 @@ categories:
 date:  2023-02-24
 ---
 
-<b>Patina: The Vernon Film and Literary Quarterly</b>
-[vol. IV-2, 2006]
-
----
 THE PACT <br>
 <i>word and polaroids by Tun Casey</i>
+
+---
+<b>Patina: The Vernon Film and Literary Quarterly</b>
+[vol. IV-2, 2006]
 <br>
 
 
