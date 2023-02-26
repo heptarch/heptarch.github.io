@@ -189,7 +189,12 @@ diaries,<label for="sn-4"
 with only two entries (May 12 and 22), mostly concerned with the
 promotion of *Stalker* and his plans to
 leave for Italy.
-I expected, perhaps, some Italian correspondence, 
+I expected, perhaps, some Italian correspondence, the logistics of
+which might bore the average reader but provide the scholar some biographical
+insight.
+I would dutifully create accession numbers, draw some diagrams, ask Chiara (if I could
+find her) for keys to the other relevant cabinets, switch modes, finish my
+summer with a short report on the significance of the 
 
 <figure>
     <div style="text-align:center"><img src
