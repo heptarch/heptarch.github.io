@@ -38,7 +38,7 @@ Come, let me show you one of them.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079220055289643018/hapax_grainy_polaroid_of_Via_di_San_Niccolo_at_sunset_narrow_wi_3e1bfef4-c970-4611-80fa-3e54bd1ebab1.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Via di San Niccolò at night.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Via di San Niccolò.</i></font></figcaption>
 	</div>
 	</figure>
 
