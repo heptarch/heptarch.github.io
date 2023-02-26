@@ -172,13 +172,21 @@ This was a *fonds* and not a shrine.
 	</div>
 	</figure>
 
-I unlocked Camera 3 to find a state of picturesque chaos, not
-atypical of the place. At the back was row upon row of squat, grey
-filing cabinets; the reliquaries of the martyer.
-In the middle I found "May 1979".
+I unlocked Camera 3 to find a state of picturesque chaos. At the back
+was row upon row of filing cabinets labelled by month; the reliquaries of the martyr.
+In the middle of which was "May 1979".
 This was a fallow month in the English edition *Time within time* (1991), with only two entries on
 May 12th and 22nd.
-But the cabinet was overflowing:
+But the cabinet was overflowing.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079261956109762611/hapax_grainy_polaroid_of_many_locked_filing_cabinets_at_the_bac_e0dab5d8-dd7a-4a82-a7c1-e5fea2818370.png"
+    width="400"/> <br>
+	
+	<figcaption> <font size="-0.2"><i>Filing cabinets.</i></font></figcaption>
+	</div>
+	</figure>
 
 <p align="center">
 ⁂</p>
