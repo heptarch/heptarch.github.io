@@ -98,6 +98,8 @@ lit a cigarette, and smiled: "Ne avrai bisogno."<label for="sn-1"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">You'll need it.</span>
+From a leather satchel, she produced a slip of paper printed with the
+Institute's letterhead and some serial numbers.
 
 <figure>
     <div style="text-align:center"><img src
@@ -108,10 +110,9 @@ lit a cigarette, and smiled: "Ne avrai bisogno."<label for="sn-1"
 	</div>
 	</figure>
 
-Chiara watched intently as I signed and dated a slip, then stubbed
-out, drained her sambuca and handed me two keys: a heavy, single-toothed barrel key for the
-room itself, and a Schlage for the filing cabinet I was to
-have access to.
+Chiara watched intently as I signed and dated the slip, then stubbed
+out her cigarette, drained her sambuca and withdrew two keys from a satchel: a heavy, single-toothed barrel key for the room itself, and a
+Schlage for the filing cabinet I was to have access to.
 She left as abruptly as she had arrived.
 I found myself alone with the smell of anise and a feeling that the
 moon was laughing invisibly, far above.
