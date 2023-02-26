@@ -211,8 +211,15 @@ I would ask Chiara for more keys, draw provenance diagrams,
 create accession numbers and EADs, and finish my
 summer by changing hats and penning an editorial recommendation.
 
-That moment of archival sobriety at the threshold had, in other words,
-dulled my expectations.
+Borges states that the aesthetic phenomenon is "the imminence of a
+revelation that does not yet occur".<label for="sn-5"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-5"
+       class="margin-toggle"/>
+	   <span class="sidenote">“The Wall and the Books”, Jorge Luis
+	   Borges (1961).</span>
 I scanned the cabinets for "May 79", inserted the Schlage, and turned
 it with a dull click.
 
@@ -223,12 +230,14 @@ it with a dull click.
 III. THE CABINET OF MAY 79
 </p>
 
+
+
 <figure>
     <div style="text-align:center"><img src
-    ="https://cdn.discordapp.com/attachments/1074533019450351667/1076309175770026024/hapax_grainy_film_still_from_a_lost_mysterious_Tarkovsky_film_w_3efcce81-c97e-4a95-974e-7c640e33beac.png"
+    ="https://cdn.discordapp.com/attachments/1076306489561587723/1079435309563002990/hapax_grainy_close-up_polaroid_of_a_drawer_filled_with_ash_05133b4a-b836-4c87-8490-a0025496a7c5.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>Veiled fragments.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>A puzzle.</i></font></figcaption>
 	</div>
 	</figure>
 
