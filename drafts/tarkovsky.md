@@ -25,6 +25,8 @@ captures life as a reflection, life as a dream.
 <div style="text-align: right"><i>Ingmar Bergman</i>
 </div>-->
 
+I spent the summer of 1999 as a student archivist in Florence, at the Andrei
+Tarkovsky International Institute. What follows is 
 
 <p align="center">
 ⁂</p>
@@ -52,8 +54,8 @@ Come, let me show you one of them.
 	</div>
 	</figure>
 
-<p align="left">I spent the summer of 1999 as a student archivist at the Andrei
-Tarkovsky International Institute, situated at 91 Via di San
+The Andrei
+Tarkovsky International Institute was situated at 91 Via di San
 Niccolò. I slept at the Institute, in a small room—more
 a closet—on the second floor, ate at I Bastioni, and drank <i>branca menta</i>
 once a week on my stipend. The Institute was opposite a perfumery.
@@ -61,7 +63,7 @@ In the evenings, the maestro stirred his cauldron, and wafts of
 opoponax, frankincense, rose and osmanthus, of ambrette and musk, would
 float into the closet and colour my dreams. I have never slept so
 richly. But the riches of Florence would soon recede into the
-background and others take their place.</p>
+background and others take their place.
 
 <figure>
     <div style="text-align:center"><img src
