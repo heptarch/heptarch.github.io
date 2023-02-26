@@ -62,8 +62,8 @@ background and others take their place.</p>
 	</div>
 	</figure>
 
-The Institute was like a scene from one of Tarkovsky's films, aclutter
-with his last effects---dried chrysanthemums, polyhedra in
+The Institute was like a scene from one of Tarkovsky's films,
+cluttered as it was with his last effects---dried chrysanthemums, polyhedra in
 birch and argilite, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral
 polaroids---and could be found in odd places around the house, in
