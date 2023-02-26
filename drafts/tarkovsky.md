@@ -190,7 +190,7 @@ reliquaries of the martyr.
 	</figure>
 
 But the moment of sobriety on the threshold had dulled any hope of a revelation.
-May 1979 is a fallow month in the English edition of Tarkovsky's
+May 1979 is a fallow month in the English version of Tarkovsky's
 diaries,<label for="sn-4"
        class="margin-toggle sidenote-number">
 </label>
