@@ -124,7 +124,7 @@ moon was laughing at me, invisibly, far above.
 ⁂</p>
 
 <p align="center">
-II. CAMERA 3
+II. THE ARK OPENS
 </p>
 
 I set to work enthusiastically the next morning, and after several
@@ -149,7 +149,7 @@ This was a *fonds* and not a shrine.
     ="https://cdn.discordapp.com/attachments/1076306489561587723/1079100530988699759/hapax_grainy_polaroid_of_the_interior_of_the_Andrei_Tarkovsky_I_bd3d2735-d654-4460-a219-db483490fd15.png"
     width="400"/> <br>
 	
-	<figcaption> <font size="-0.2"><i>The fonds.</i></font></figcaption>
+	<figcaption> <font size="-0.2"><i>Camera 3.</i></font></figcaption>
 	</div>
 	</figure>
 
