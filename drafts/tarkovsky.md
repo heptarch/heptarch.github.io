@@ -123,9 +123,11 @@ II. THE LOCKED ROOM
 </p>
 
 After two aimless weeks in Via di San Niccolò, it felt as if the
-curtains of the ark were parting to reveal a glimpse of the sacred
-book.
-I set to work enthusiastically the next morning,
+curtains of the ark had parted to reveal a glimpse of the sacred
+text.
+I set to work enthusiastically the next morning, drinking three
+espressi, scaling the stairs to the fourth floor, and triumphantly
+unlocking the marked "журнал - 2".
 
 <figure>
     <div style="text-align:center"><img src
