@@ -66,7 +66,7 @@ The Institute was like a scene from one of Tarkovsky's films,
 cluttered as it was with his last effects---dried chrysanthemums, polyhedra in
 birch and argilite, etchings by
 Leonardo, letters to Antonioni and Bergman, his spectral
-polaroids---and could be found in odd places around the house, in
+polaroids---and which could be found in odd places around the house, in
 little stacks under the cupboards, say, or inside the fuse box, as if they
 were alive and exploring.
 The Institute's crowning treasure, however, was the "Martyrlog", diaries spanning the
