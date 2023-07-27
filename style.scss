@@ -72,9 +72,9 @@ body {
     margin-right: auto;
     padding-left: 10%;*/
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    background-color: #fffff8;
+    background-color: #111;
     font-size: 20px;
-    color: #111;
+    color: #fff;
     max-width: 1400px;
     counter-reset: sidenote-counter;
 }
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     /*  font-family: $georgia;*/
     font-family: $poppins;
   /*font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-  color: $darkerGray;
+  color: #ea9999;
   font-weight: bold;
 
   line-height: 1.7;
