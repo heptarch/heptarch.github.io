@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: SAXIFRAGE
+name: heptarch
 
 # Short bio or description (displayed in the header)
 #description: don't be boring.
 #description: breaking stones.
 #description: vita est forma gravitatis.
 #description: viriditas est forma gravitatis.
-description: living patterns.
+#description: living patterns.
 
 # Change default theme
 #theme: jekyll-theme-cayman
@@ -54,7 +54,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://blog.saxifrage.one
+url: https://heptarch.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
