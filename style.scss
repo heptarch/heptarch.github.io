@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     /*  font-family: $georgia;*/
     font-family: $poppins;
   /*font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-  color: #b0b1b4;
+  color: #fff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -291,7 +291,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $poppins;/*$helveticaNeue;*/
+  /*font-family: $poppins;/*$helveticaNeue;*/
   font-size: 18px;
 
   @include mobile {
