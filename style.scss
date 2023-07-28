@@ -299,7 +299,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 25px; // @TODO: Vertically middle align
+  margin-top: -25px; // @TODO: Vertically middle align
   font-family: $poppins; /*$helveticaNeue;*/
   font-size: 18px;
 
