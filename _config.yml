@@ -6,7 +6,7 @@
 name: 𝔪𝔞𝔤𝔦𝔰𝔱𝔢𝔯 𝔩𝔲𝔡𝔦
 
 # Short bio or description (displayed in the header)
-description:
+description: interdimensional wizard
 #description: don't be boring.
 #description: breaking stones.
 #description: vita est forma gravitatis.
@@ -17,10 +17,10 @@ description:
 #theme: jekyll-theme-cayman
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://blog.saxifrage.one/img/logos/wizard-logo.png
+avatar: https://heptarch.github.io/img/logos/wizard-logo.png
 
 # url
-url: https://blog.saxifrage.one
+url: https://heptarch.github.io
 
 # author
 author: David Wakeham
