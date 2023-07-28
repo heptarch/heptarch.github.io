@@ -242,7 +242,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #d3d6db;
 
   @include mobile {
     text-align: center;
@@ -262,7 +262,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 10px;
   }
 }
 
