@@ -72,9 +72,9 @@ body {
     margin-right: auto;
     padding-left: 10%;*/
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    background-color: #142d4c;
+    background-color: #111;
     font-size: 20px;
-    color: #ececec;
+    color: #fff;
     max-width: 1400px;
     counter-reset: sidenote-counter;
 }
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     /*  font-family: $georgia;*/
     font-family: $poppins;
   /*font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-    color: #9fd3c7;
+  color: #fff;
   font-weight: bold;
 
   line-height: 1.7;
@@ -139,7 +139,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #9fd3c7;
+  color: $gray;
 }
 
 p {
@@ -270,7 +270,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #385170;
+  color: $darkGray;
   cursor: pointer;
   font-family: $poppins;/*$helveticaNeue;*/
   font-weight: 300;
@@ -280,7 +280,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #385170;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -303,7 +303,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #385170;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
