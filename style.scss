@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     /*  font-family: $georgia;*/
     font-family: $poppins;
   /*font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-  color: #41515f;
+  color: #d5a6bd;
   font-weight: bold;
 
   line-height: 1.7;
@@ -159,7 +159,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #0b5394;
+    color: #a64d79;
   }
 }
 
@@ -278,7 +278,7 @@ img {
 
 .site-name {
   margin-top: 17px;
-  color: #0b5394;
+  color: #a64d79;
   cursor: pointer;
   /*font-family: $poppins;/*$helveticaNeue;*/
   font-weight: 300;
