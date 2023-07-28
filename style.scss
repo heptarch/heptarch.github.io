@@ -72,7 +72,7 @@ body {
     margin-right: auto;
     padding-left: 10%;*/
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    background-color: #1d242b;
+    background-color: #25161b;
     font-size: 20px;
     color: #d3d6db;
     max-width: 1400px;
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     /*  font-family: $georgia;*/
     font-family: $poppins;
   /*font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;*/
-  color: #988888;
+  color: #975a5e;
   font-weight: bold;
 
   line-height: 1.7;
@@ -159,7 +159,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #be3144;
+    color: #453953;
   }
 }
 
@@ -278,7 +278,7 @@ img {
 
 .site-name {
   margin-top: 17px;
-  color: #be3144;
+  color: #453953;
   cursor: pointer;
   /*font-family: $poppins;/*$helveticaNeue;*/
   font-weight: 300;
@@ -362,7 +362,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #d3d6db;
   border-bottom: 1px solid #333333;
-  background-color: #1d242b; /*$lightGray;*/
+  background-color: #25161b; /*$lightGray;*/
 }
 
 footer {
