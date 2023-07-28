@@ -334,7 +334,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #385170;
+    color: $gray;
     font-size: 22px;
     font-style: italic;
   }
@@ -353,7 +353,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #385170; /*$lightGray;*/
+  background-color: #fffff8; /*$lightGray;*/
 }
 
 footer {
