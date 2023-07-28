@@ -287,9 +287,9 @@ img {
 }
 
 .site-description {
-  margin: -3px 0 0 0;
+  margin: -0px 0 0 0;
   color: #a78a8a;
-  font-size: 18px;
+  font-size: 17px;
 
   @include mobile {
     margin: 3px 0;
@@ -298,7 +298,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 15px; // @TODO: Vertically middle align
+  margin-top: 17px; // @TODO: Vertically middle align
   font-family: $poppins; /*$helveticaNeue;*/
   font-size: 18px;
 
