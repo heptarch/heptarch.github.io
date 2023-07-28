@@ -278,12 +278,12 @@ img {
 
 .site-name {
   margin-top: -20px;
-  color: #77628c;
+  color: #71a0a5;
   cursor: pointer;
   /*font-family: $poppins;/*$helveticaNeue;*/
   font-weight: 300;
   font-size: 38px;
-  letter-spacing: 0px;
+  letter-spacing: -1px;
   text-align: center;
 }
 
@@ -299,7 +299,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 80px; // @TODO: Vertically middle align
+  margin-top: 60px; // @TODO: Vertically middle align
   font-family: $poppins; /*$helveticaNeue;*/
   font-size: 18px;
 
