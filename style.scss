@@ -142,6 +142,14 @@ h4 {
 /*  color: $gray;*/
 }
 
+hr { display: block;
+     height: 1px;
+     width: 55%;
+     border: 0;
+     border-top: 1px solid #d3d6db;
+     margin: 1em 0;
+     padding: 0; }
+
 p {
   margin: 15px 0;
 }
