@@ -291,7 +291,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  /*font-family: $poppins;/*$helveticaNeue;*/
+  font-family: $poppins;/*$helveticaNeue;*/
   font-size: 18px;
 
   @include mobile {
