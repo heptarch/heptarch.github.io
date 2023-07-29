@@ -4,17 +4,6 @@ title: bio
 permalink: /about/
 ---
 
-<div style="background-color: #57385c; color= #febe7e ; padding: 20px; border: 1px solid
-black; line-height:1.5; border-radius: 15px;">
-<center><br>
-Today, like every other day, we wake up empty
-and frightened.<br>
-Don’t open the door to the study and begin reading. <br>
-Take down a musical instrument.<br>
-<br>
-</center>
-</div>
-
 Interdimensional wizard.
 
 ---
