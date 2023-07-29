@@ -4,8 +4,8 @@ title: bio
 permalink: /about/
 ---
 
-<div style="background-color: #57385c; color= #febe7e ; padding: 20px; border: 1px solid
-black; line-height:1.5">
+<div style="background-color: #57385c; color= #febe7e ; padding: 10px; border: 1px solid
+black; line-height:1; border-radius: 15px;">
 <center><br>
 Today, like every other day, we wake up empty
 and frightened.<br>
