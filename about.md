@@ -15,6 +15,8 @@ Take down a musical instrument.<br>
 </center>
 </div>
 
+Interdimensional wizard.
+
 ---
 
 <a rel="license"
@@ -23,7 +25,7 @@ alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br
 /><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC
-A-NC-SA 4.0 International License</a>, David Wakeham. Old website
+A-NC-SA 4.0 International License</a>. Old website
 [here](https://hapax.github.io/).
 
 <!--<div>
