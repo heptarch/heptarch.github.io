@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="background-color: #57385c; color= #febe7e ; padding: 20px; border: 1px solid
-green; line-height:1.5">
+black; line-height:1.5">
 Look at the pattern this seashell makes. The dappled whorl, curving
 inward to infinity. That's the shape of the universe itself. There's a
 constant pressure, pushing toward pattern. A tendency in matter to
