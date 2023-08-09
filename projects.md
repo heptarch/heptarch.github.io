@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 𝔭𝔯𝔧
-permalink: /projects/
+permalink: /prj/
 ---
 
 This page is under construction.

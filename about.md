@@ -1,7 +1,7 @@
 ---
 layout: page
-title: bio
-permalink: /about/
+title: 𝔟𝔦𝔬
+permalink: /bio/
 ---
 
 Interdimensional wizard.
