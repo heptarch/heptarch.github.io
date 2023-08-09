@@ -6,7 +6,7 @@ permalink: /art/antiquine
 
 <center>
 <h2>
-antiquine
-Ϙ
+antiquine <br>
+ϙ
 </h2>
 </center>
