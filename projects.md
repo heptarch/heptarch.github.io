@@ -1,6 +1,6 @@
 ---
 layout: page
-title: prj
+title: 𝔭𝔯𝔧
 permalink: /projects/
 ---
 
