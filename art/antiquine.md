@@ -1,5 +1,5 @@
 ---
 layout: page
-title: antiquine
+title: 
 permalink: /art/antiquine
 ---
