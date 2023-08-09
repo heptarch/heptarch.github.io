@@ -5,8 +5,8 @@ permalink: /art/antiquine
 ---
 
 <center>
-<h2>
+<h1>
 Ϙ<br>
 antiquine 
-</h2>
+</h1>
 </center>
