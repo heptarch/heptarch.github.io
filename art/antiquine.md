@@ -10,6 +10,6 @@ permalink: /art/antiquine
 antiquine 
 </h1>
 
----
+<hr>
 
 </center>
