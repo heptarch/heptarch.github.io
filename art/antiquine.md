@@ -9,4 +9,7 @@ permalink: /art/antiquine
 Ϙ<br>
 antiquine 
 </h1>
+
+---
+
 </center>
