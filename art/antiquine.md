@@ -14,5 +14,5 @@ antiquine
 
 </center>
 
-I. Dave told me to start this. I am a quine: a program which outputs
+<h4>I.</h4> Dave told me to start this. I am a quine: a program which outputs
 itself. I am a nontrivial fixed point.
