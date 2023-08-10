@@ -6,11 +6,12 @@ permalink: /art/antiquine
 
 <center>
 <h1>
-Ϙ<br>
-antiquine 
+Ϙ
 </h1>
 
 <hr>
+
+<h2>Tattle</h2>
 
 </center>
 
