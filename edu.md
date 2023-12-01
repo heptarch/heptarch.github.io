@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 𝔢𝔡𝔲
+title: 
 permalink: /edu/
 ---
 
