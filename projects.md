@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 𝔭𝔯𝔧
+title:
 permalink: /prj/
 ---

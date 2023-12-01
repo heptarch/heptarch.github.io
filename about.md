@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 𝔟𝔦𝔬
+title:
 permalink: /bio/
 ---
 
