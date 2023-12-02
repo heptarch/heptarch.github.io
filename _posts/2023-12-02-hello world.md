@@ -50,8 +50,8 @@ site is to focus on this way of understanding—particularly the hard sciences
 of math, physics, and computing—and to try to make them accessible to a
 broader audience.
 
-I'll be revealing more about projects as they develop. A few I'm
-particularly excited about:
+I'll be revealing more aboutvarious  projects as they develop. A few I'm
+excited about:
 - a book;
 - a YouTube channel;
 - new research in HEP and quantum computing;
