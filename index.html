@@ -12,8 +12,10 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.subtitle
-        }}</a> <div class="entry">{{ post.excerpt }}</div>
+      <span><h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.subtitle
+        }}</a></h3> <div class="entry">
+        {{ post.excerpt }}
+      </div> </span>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
