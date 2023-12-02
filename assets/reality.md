@@ -4,8 +4,8 @@ date:  2020-11-12
 layout: post
 ---
 
-*A talk given at Quantum Leaps 2020, a STEAM-oriented conference
- for high school students in Vancouver.*
+*A talk given at Quantum Leaps 2020, a conference
+ for Vancouver high school students interested in STEAM.*
 
 ## Counternarratives for young scientists
 ---
