@@ -223,6 +223,7 @@ And in a universe so much older, larger, and stranger than anything
 the ancient myths prepared us for, we need new stories to orient
 us, preferably those told by the objects themselves and woven into the
 world. <!-- Science provides them.; it makes the universe full.-->
+
 The job of the scientist is to listen and interpret.
 Of course we make errors, we mishear, we misunderstand, and read our
 own biases into things. But at the end of the day, we come back to what the world is
