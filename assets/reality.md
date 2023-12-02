@@ -114,7 +114,7 @@ that's what science is, whether you're studying physics or
 oceanography or the social habits of lemurs, whether you approach
 questions big or small or somewhere in between, it's the same basic enterprise.
 
-Newton would later write. "I do not know what I may appear to the
+Newton would later write: "I do not know what I may appear to the
 world, but to myself I seem to have been only like a boy playing on
 the seashore, and diverting myself in now and then finding a smoother
 pebble or a prettier shell than ordinary, whilst the great ocean of
