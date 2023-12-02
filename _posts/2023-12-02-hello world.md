@@ -47,8 +47,8 @@ KSR articulates, more clearly than I ever could,<label for="sn-1"
 how patterns connect us, by use, mention, and that pun from one to the
 other that is science, to the rest of the universe.
 I think *viriditas* extends well beyond science, but the goal of this
-site is to focus on this way of understanding—particularly the hard sciences
-of math, physics, and computing—and to try to make them accessible to a
+site is to focus on scientific ways of understanding—particularly the hard sciences
+of math, physics, and computerology—and to try to make them accessible to a
 broader audience.
 
 I'll be revealing more about various projects as they develop. A few I'm
