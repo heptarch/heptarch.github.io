@@ -1,10 +1,10 @@
 ---
-title:  "Counternarratives for young scientists"
+title: 
 date:  2020-11-12
 layout: post
 ---
 
-## Introduction
+## Counternarratives for young scientists
 ---
 
 If I ask you to imagine a scientist, one of two stock types is likely
