@@ -65,5 +65,5 @@ excited about:
 
 I offer no timelines because I am busy, lazy, and a perfectionist, in
 no particular order. Meanwhile, I hope to resume blogging about the
-marvels I find as I wander the hills and meadows of pattern
+gewgaws I find littering the hills and meadows of pattern
 space. Hope you can join me!
