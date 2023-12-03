@@ -8,7 +8,7 @@ categories: []
 date:  2023-12-02
 ---
 
-**December 2, 2023.** *Novelties and diversions.*
+**December 2, 2023.** *Introduction to the site.*
 
 <h1>Hello world</h1>
 
