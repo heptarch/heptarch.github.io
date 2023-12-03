@@ -10,7 +10,9 @@ date:  2023-12-02
 
 **December 2, 2023.** *Novelties and diversions.*
 
-<h2>Hello world</h2>
+<h1>Hello world</h1>
+
+---
 
 <div style="background-color: #212433 ; padding: 20px; border: 0px solid
 grey; line-height:1.5">
