@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="124.40136mm"
+   height="69.235382mm"
+   viewBox="0 0 124.40136 69.235382"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="guards1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="3"
+     fit-margin-left="3"
+     fit-margin-right="3"
+     fit-margin-bottom="3"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="105.46915"
+     inkscape:cy="140.5013"
+     inkscape:window-width="1312"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.157238,-67.442024)">
+    <path
+       id="path868"
+       style="fill:none;stroke:#acacac;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="1.0966699e-06"
+       inkscape:transform-center-y="10.152069"
+       d="M 240.30664 17.191406 L 212.5957 132.30273 L 184.88672 247.41211 L 240.30664 247.41211 L 295.72656 247.41211 L 345.88477 247.41211 L 425.41992 247.41211 L 456.72656 247.41211 L 429.01562 132.30273 L 401.30469 17.191406 L 373.5957 132.30273 L 364.1875 171.38477 L 277.42578 171.38477 L 268.01758 132.30273 L 240.30664 17.191406 z "
+       transform="matrix(0.26458333,0,0,0.26458333,39.157238,67.442024)" />
+    <path
+       id="path1548"
+       style="fill:none;stroke:#acacac;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="1.0966699e-06"
+       inkscape:transform-center-y="10.152069"
+       d="M 68.873047 17.191406 L 41.162109 132.30273 L 13.451172 247.41211 L 68.873047 247.41211 L 124.29297 247.41211 L 96.583984 132.30273 L 68.873047 17.191406 z "
+       transform="matrix(0.26458333,0,0,0.26458333,39.157238,67.442024)" />
+  </g>
+</svg>
