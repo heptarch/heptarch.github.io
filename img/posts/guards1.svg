@@ -27,15 +27,16 @@
      fit-margin-left="3"
      fit-margin-right="3"
      fit-margin-bottom="3"
-     inkscape:zoom="0.47433592"
-     inkscape:cx="399.5059"
-     inkscape:cy="93.815371"
+     inkscape:zoom="0.94867184"
+     inkscape:cx="181.83316"
+     inkscape:cy="242.97127"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false" />
   <defs
      id="defs2" />
   <g
@@ -52,7 +53,7 @@
        transform="matrix(0.26458333,0,0,0.26458333,39.157238,67.442024)" />
     <path
        id="path1548"
-       style="fill:none;stroke:#acacac;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#2a5d28;stroke:#acacac;stroke-width:3.77953;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.16150442"
        inkscape:transform-center-x="1.0966699e-06"
        inkscape:transform-center-y="10.152069"
        d="M 68.873047 17.191406 L 41.162109 132.30273 L 13.451172 247.41211 L 68.873047 247.41211 L 124.29297 247.41211 L 96.583984 132.30273 L 68.873047 17.191406 z "
@@ -108,5 +109,17 @@
        inkscape:transform-center-y="10.152069"
        d="M 569.1875 17.191406 L 541.47656 132.30273 L 513.76758 247.41211 L 569.1875 247.41211 L 624.60742 247.41211 L 624.48438 246.89844 L 674.88867 246.89844 L 674.76562 247.41211 L 730.18555 247.41211 L 785.60742 247.41211 L 785.48438 246.89844 L 834.39648 246.89844 L 834.27344 247.41211 L 889.69531 247.41211 L 945.11523 247.41211 L 917.4043 132.30273 L 889.69531 17.191406 L 861.98438 132.30273 L 852.45312 171.89648 L 767.42773 171.89648 L 757.89648 132.30273 L 730.18555 17.191406 L 702.47656 132.30273 L 692.94531 171.89648 L 606.42969 171.89648 L 596.89844 132.30273 L 569.1875 17.191406 z "
        transform="matrix(0.26458333,0,0,0.26458333,39.157238,67.442024)" />
+    <circle
+       style="fill:#42933f;fill-opacity:1;stroke:#acacac;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1826"
+       cx="42.782921"
+       cy="132.14651"
+       r="2.2311895" />
+    <circle
+       style="fill:#42933f;fill-opacity:1;stroke:#acacac;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle1926"
+       cx="88.522308"
+       cy="132.14651"
+       r="2.2311895" />
   </g>
 </svg>
