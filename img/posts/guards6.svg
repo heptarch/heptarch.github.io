@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="168.32564mm"
-   height="74.354027mm"
-   viewBox="0 0 168.32564 74.354027"
+   width="80.843002mm"
+   height="71.675865mm"
+   viewBox="0 0 80.843003 71.675865"
    version="1.1"
    id="svg5"
    sodipodi:docname="guards6.svg"
@@ -29,7 +29,7 @@
      fit-margin-bottom="3"
      inkscape:zoom="0.94867185"
      inkscape:cx="293.56832"
-     inkscape:cy="163.91337"
+     inkscape:cy="157.58874"
      inkscape:window-width="1516"
      inkscape:window-height="997"
      inkscape:window-x="31"
@@ -86,7 +86,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-215.47699,-148.09544)">
+     transform="translate(-215.47699,-149.81936)">
     <path
        id="path21814"
        style="fill:#255d25;fill-opacity:0.160784;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -291,7 +291,7 @@
        r="2.2311895" />
     <path
        id="path1298"
-       style="fill:#255d25;fill-opacity:0.48230088;stroke:#acacac;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#255d25;fill-opacity:0.482301;stroke:#acacac;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:transform-center-x="1.6646863e-06"
        inkscape:transform-center-y="10.335135"
        d="m 345.29625,154.58264 -16.15354,31.00534 -16.15353,31.00534 h 32.30707 32.30759 L 361.4503,185.58798 Z m -8.49664,26.18445 8.98757,17.08888 0.077,-0.0584 8.7881,-17.03048 3.07268,12.76408 3.07268,12.76407 h -3.47162 -8.8191 -5.56194 -3.9672 -2.17816 -6.14484 l 3.07216,-12.76407 z" />
