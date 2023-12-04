@@ -160,8 +160,8 @@
        cy="125.82071"
        r="29.766825" />
     <path
-       style="fill:#78797b;stroke:#78797b;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:;fill-opacity:1"
-       d="M 85.984063,129.76494 H 110.83267"
+       style="fill:#78797b;fill-opacity:1;stroke:#78797b;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.984063,126.06075 H 110.83267"
        id="path11291" />
     <path
        sodipodi:type="star"
@@ -178,7 +178,7 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 277.62569,48.058787 241.71195,27.32398 205.79821,6.5891715 l 35.91374,-20.7348035 35.91374,-20.734805 0,41.4696107 z"
-       transform="matrix(-0.09479798,0,0,0.05693735,133.09625,129.4436)"
+       transform="matrix(-0.09479798,0,0,0.05693735,133.09625,125.73941)"
        inkscape:transform-center-x="-1.1348512"
        inkscape:transform-center-y="1.4498754e-05" />
   </g>
