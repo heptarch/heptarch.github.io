@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.37948592"
-     inkscape:cx="280.64283"
-     inkscape:cy="246.38595"
+     inkscape:zoom="0.60705638"
+     inkscape:cx="391.23219"
+     inkscape:cy="226.50285"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -159,7 +159,7 @@
        cy="125.82071"
        r="29.766825" />
     <path
-       style="fill:none;stroke:#78797b;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       style="fill:#78797b;stroke:#78797b;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend);fill-opacity:1"
        d="M 85.984063,129.76494 H 110.83267"
        id="path11291" />
   </g>
