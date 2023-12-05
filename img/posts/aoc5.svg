@@ -806,10 +806,6 @@
        transform="matrix(-0.09479798,0,0,0.05693735,200.65244,196.65828)"
        inkscape:transform-center-x="-1.1348512"
        inkscape:transform-center-y="1.4498754e-05" />
-    <path
-       style="fill:none;stroke:#78797b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 126.38084,194.99534 V 199.31"
-       id="path31150" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:14.3844px;line-height:1.25;font-family:sans-serif;opacity:0;fill:#78797b;fill-opacity:1;stroke:none;stroke-width:0.359609"
@@ -948,5 +944,9 @@
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#78797b;fill-opacity:1;stroke-width:0.359609"
          x="143.79218"
          y="215.69086">t'</tspan></text>
+    <path
+       style="fill:none;stroke:#78797b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 126.38084,194.99534 V 199.31"
+       id="path31150" />
   </g>
 </svg>
