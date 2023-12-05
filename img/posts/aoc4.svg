@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.7170147"
-     inkscape:cx="343.32844"
-     inkscape:cy="159.8705"
+     inkscape:zoom="1.2141128"
+     inkscape:cx="343.04886"
+     inkscape:cy="160.19929"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -1066,14 +1066,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.53272px;line-height:1.25;font-family:sans-serif;fill:#4e4932;fill-opacity:1;stroke:none;stroke-width:0.238318"
-       x="124.94408"
+       x="123.88574"
        y="187.64928"
        id="text37801"><tspan
          sodipodi:role="line"
          id="tspan37799"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#4e4932;fill-opacity:1;stroke-width:0.238318"
-         x="124.94408"
-         y="187.64928">F</tspan></text>
+         x="123.88574"
+         y="187.64928">H</tspan></text>
     <circle
        style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:url(#linearGradient37811);stroke-width:0.814915;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle37805"
@@ -1100,13 +1100,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:9.53272px;line-height:1.25;font-family:sans-serif;fill:#4e4932;fill-opacity:1;stroke:none;stroke-width:0.238318"
-       x="156.69411"
+       x="155.63579"
        y="187.64928"
        id="text37817"><tspan
          sodipodi:role="line"
          id="tspan37815"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#4e4932;fill-opacity:1;stroke-width:0.238318"
-         x="156.69411"
-         y="187.64928">F</tspan></text>
+         x="155.63579"
+         y="187.64928">H</tspan></text>
   </g>
 </svg>
