@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.7170147"
-     inkscape:cx="239.66014"
-     inkscape:cy="197.14449"
+     inkscape:zoom="0.85850737"
+     inkscape:cx="260.33556"
+     inkscape:cy="157.83208"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -736,6 +736,15 @@
        d="M 33.246649,196.97962 H 178.38886"
        id="path31138"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:#4b120f;fill-opacity:1;stroke:none;stroke-width:0.403986;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect55385"
+       width="21.268314"
+       height="3.3526998"
+       x="-147.24547"
+       y="195.39058"
+       ry="0.18965693"
+       transform="scale(-1,1)" />
     <path
        sodipodi:type="star"
        style="fill:#78797b;fill-opacity:1;stroke:#78797b;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1017,5 +1026,20 @@
        x="51.789944"
        y="195.39058"
        ry="0.18965693" />
+    <path
+       style="fill:none;stroke:#78797b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 147.02957,194.99534 V 199.31"
+       id="path54450" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.3844px;line-height:1.25;font-family:sans-serif;fill:#78797b;fill-opacity:1;stroke:none;stroke-width:0.359609"
+       x="143.79218"
+       y="215.69086"
+       id="text54454"><tspan
+         sodipodi:role="line"
+         id="tspan54452"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#78797b;fill-opacity:1;stroke-width:0.359609"
+         x="143.79218"
+         y="215.69086">t'</tspan></text>
   </g>
 </svg>
