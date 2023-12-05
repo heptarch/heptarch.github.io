@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.85850737"
-     inkscape:cx="260.33556"
-     inkscape:cy="157.83208"
+     inkscape:zoom="1.2141128"
+     inkscape:cx="226.09103"
+     inkscape:cy="147.84459"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -948,5 +948,41 @@
        style="fill:none;stroke:#78797b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 126.38084,194.99534 V 199.31"
        id="path31150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.93px;line-height:1.25;font-family:sans-serif;fill:#78797b;fill-opacity:1;stroke:none;stroke-width:0.323248"
+       x="75.328621"
+       y="189.17384"
+       id="text56903"><tspan
+         sodipodi:role="line"
+         id="tspan56901"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#78797b;fill-opacity:1;stroke-width:0.323248"
+         x="75.328621"
+         y="189.17384">f</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.93px;line-height:1.25;font-family:sans-serif;fill:#78797b;fill-opacity:1;stroke:none;stroke-width:0.323248"
+       x="134.06584"
+       y="189.17384"
+       id="text57528"><tspan
+         sodipodi:role="line"
+         id="tspan57526"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#78797b;fill-opacity:1;stroke-width:0.323248"
+         x="134.06584"
+         y="189.17384">f<tspan
+   style="font-size:8.40448px;baseline-shift:sub;stroke-width:0.323248"
+   id="tspan57676">t</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.34998px;line-height:1.25;font-family:sans-serif;fill:#78797b;fill-opacity:1;stroke:none;stroke-width:0.158748"
+       x="176.46864"
+       y="-138.41364"
+       id="text58150"
+       transform="matrix(0,1.0033353,-0.99667578,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan58148"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'.Al Bayan PUA';-inkscape-font-specification:'.Al Bayan PUA Bold';fill:#78797b;fill-opacity:1;stroke-width:0.158748"
+         x="176.46864"
+         y="-138.41364">&lt;</tspan></text>
   </g>
 </svg>
