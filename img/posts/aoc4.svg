@@ -11,6 +11,7 @@
    sodipodi:docname="aoc4.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -23,9 +24,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.60705638"
-     inkscape:cx="239.6812"
-     inkscape:cy="98.01396"
+     inkscape:zoom="1.7170147"
+     inkscape:cx="426.03012"
+     inkscape:cy="140.06869"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -36,9 +37,22 @@
      fit-margin-left="3"
      fit-margin-bottom="3"
      fit-margin-right="3"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     showguides="false" />
   <defs
      id="defs10078">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient37650">
+      <stop
+         style="stop-color:#d0c488;stop-opacity:1;"
+         offset="0"
+         id="stop37646" />
+      <stop
+         style="stop-color:#d0c488;stop-opacity:0;"
+         offset="1"
+         id="stop37648" />
+    </linearGradient>
     <marker
        style="overflow:visible"
        id="Arrow1Mend"
@@ -81,6 +95,55 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path11296" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37650"
+       id="linearGradient37652"
+       x1="90.725603"
+       y1="184.28638"
+       x2="102.23962"
+       y2="184.28638"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37650"
+       id="linearGradient37795"
+       gradientUnits="userSpaceOnUse"
+       x1="90.725603"
+       y1="184.28638"
+       x2="102.23962"
+       y2="184.28638"
+       gradientTransform="translate(15.875)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37650"
+       id="linearGradient37803"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(31.750001)"
+       x1="90.725603"
+       y1="184.28638"
+       x2="102.23962"
+       y2="184.28638" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37650"
+       id="linearGradient37811"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(47.625002)"
+       x1="90.725603"
+       y1="184.28638"
+       x2="102.23962"
+       y2="184.28638" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37650"
+       id="linearGradient37819"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(63.500003)"
+       x1="90.725603"
+       y1="184.28638"
+       x2="102.23962"
+       y2="184.28638" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -949,90 +1012,22 @@
        cy="184.81554"
        r="3.9226174" />
     <circle
-       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:#d0c488;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:url(#linearGradient37652);stroke-width:0.814915;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle31214"
        cx="96.482613"
        cy="184.28638"
-       r="6.5645485" />
-    <circle
-       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:#d0c488;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle32888"
-       cx="112.3576"
-       cy="184.28638"
-       r="6.5645485" />
-    <circle
-       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:#d0c488;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle32890"
-       cx="128.2326"
-       cy="184.28638"
-       r="6.5645485" />
-    <circle
-       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:#d0c488;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle32892"
-       cx="144.10762"
-       cy="184.28638"
-       r="6.5645485" />
-    <circle
-       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:#d0c488;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle32894"
-       cx="159.98264"
-       cy="184.28638"
-       r="6.5645485" />
+       r="5.3495517" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.6978px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.292445"
-       x="92.447189"
-       y="188.41307"
+       style="font-style:normal;font-weight:normal;font-size:9.53272px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.238318"
+       x="92.664917"
+       y="187.64928"
        id="text33028"><tspan
          sodipodi:role="line"
          id="tspan33026"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#897f58;fill-opacity:1;stroke-width:0.292445"
-         x="92.447189"
-         y="188.41307">T</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.6978px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.292445"
-       x="108.32218"
-       y="188.41307"
-       id="text35270"><tspan
-         sodipodi:role="line"
-         id="tspan35268"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#897f58;fill-opacity:1;stroke-width:0.292445"
-         x="108.32218"
-         y="188.41307">T</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.6978px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.292445"
-       x="140.07219"
-       y="188.41307"
-       id="text35274"><tspan
-         sodipodi:role="line"
-         id="tspan35272"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#897f58;fill-opacity:1;stroke-width:0.292445"
-         x="140.07219"
-         y="188.41307">T</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.6978px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.292445"
-       x="124.19718"
-       y="188.41307"
-       id="text35278"><tspan
-         sodipodi:role="line"
-         id="tspan35276"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#897f58;fill-opacity:1;stroke-width:0.292445"
-         x="124.19718"
-         y="188.41307">F</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.6978px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.292445"
-       x="155.9472"
-       y="188.41307"
-       id="text35596"><tspan
-         sodipodi:role="line"
-         id="tspan35594"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#897f58;fill-opacity:1;stroke-width:0.292445"
-         x="155.9472"
-         y="188.41307">F</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#897f58;fill-opacity:1;stroke-width:0.238318"
+         x="92.664917"
+         y="187.64928">T</tspan></text>
     <path
        style="fill:none;stroke:#78797b;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1"
        d="M 89.573756,45.006618 V 144.81545"
@@ -1045,5 +1040,73 @@
        style="fill:#ad4646;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 82.833772,182.14088 2.927805,-3.39009 -2.311424,5.54742 z"
        id="path36206" />
+    <circle
+       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:url(#linearGradient37795);stroke-width:0.814915;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle37789"
+       cx="112.3576"
+       cy="184.28638"
+       r="5.3495517" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.53272px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.238318"
+       x="108.53992"
+       y="187.64928"
+       id="text37793"><tspan
+         sodipodi:role="line"
+         id="tspan37791"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#897f58;fill-opacity:1;stroke-width:0.238318"
+         x="108.53992"
+         y="187.64928">T</tspan></text>
+    <circle
+       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:url(#linearGradient37803);stroke-width:0.814915;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle37797"
+       cx="128.2326"
+       cy="184.28638"
+       r="5.3495517" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.53272px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.238318"
+       x="124.94408"
+       y="187.64928"
+       id="text37801"><tspan
+         sodipodi:role="line"
+         id="tspan37799"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#897f58;fill-opacity:1;stroke-width:0.238318"
+         x="124.94408"
+         y="187.64928">F</tspan></text>
+    <circle
+       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:url(#linearGradient37811);stroke-width:0.814915;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle37805"
+       cx="144.10762"
+       cy="184.28638"
+       r="5.3495517" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.53272px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.238318"
+       x="140.28993"
+       y="187.64928"
+       id="text37809"><tspan
+         sodipodi:role="line"
+         id="tspan37807"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#897f58;fill-opacity:1;stroke-width:0.238318"
+         x="140.28993"
+         y="187.64928">T</tspan></text>
+    <circle
+       style="opacity:1;fill:#b4a87a;fill-opacity:1;stroke:url(#linearGradient37819);stroke-width:0.814915;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle37813"
+       cx="159.98264"
+       cy="184.28638"
+       r="5.3495517" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.53272px;line-height:1.25;font-family:sans-serif;fill:#897f58;fill-opacity:1;stroke:none;stroke-width:0.238318"
+       x="156.69411"
+       y="187.64928"
+       id="text37817"><tspan
+         sodipodi:role="line"
+         id="tspan37815"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#897f58;fill-opacity:1;stroke-width:0.238318"
+         x="156.69411"
+         y="187.64928">F</tspan></text>
   </g>
 </svg>
