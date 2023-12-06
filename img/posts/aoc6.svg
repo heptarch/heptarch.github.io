@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.6070564"
-     inkscape:cx="305.57293"
-     inkscape:cy="-17.296581"
+     inkscape:zoom="1.7170148"
+     inkscape:cx="215.78148"
+     inkscape:cy="-21.257825"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -969,6 +969,12 @@
        style="opacity:1;fill:#4fa48b;fill-opacity:1;stroke:none;stroke-width:0.392387;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10863"
        cx="128.08148"
+       cy="197.07626"
+       r="2.5758424" />
+    <circle
+       style="opacity:1;fill:#78797b;fill-opacity:1;stroke:none;stroke-width:0.392387;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle14258"
+       cx="70.440567"
        cy="197.07626"
        r="2.5758424" />
   </g>
