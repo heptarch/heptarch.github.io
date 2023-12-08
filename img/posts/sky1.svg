@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="39.920319mm"
-   height="58.202225mm"
-   viewBox="0 0 39.920319 58.202225"
+   width="38.681774mm"
+   height="54.202225mm"
+   viewBox="0 0 38.681775 54.202225"
    version="1.1"
    id="svg1919"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
@@ -24,19 +24,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.3664982"
-     inkscape:cx="82.642345"
-     inkscape:cy="167.8003"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="85.119003"
+     inkscape:cy="160.48753"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
-     fit-margin-top="3"
-     fit-margin-left="3"
-     fit-margin-right="3"
-     fit-margin-bottom="3"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
      inkscape:snap-global="false" />
   <defs
      id="defs1916">
@@ -65,17 +65,17 @@
          id="stop8969" />
     </linearGradient>
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Mend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Mend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.4) rotate(180) translate(10,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path6926" />
     </marker>
     <linearGradient
@@ -103,15 +103,6 @@
          stdDeviation="1.7283542"
          id="feGaussianBlur6573" />
     </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6579"
-       id="linearGradient6581"
-       x1="93.383476"
-       y1="100.01941"
-       x2="93.383476"
-       y2="63.140926"
-       gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6579"
@@ -217,14 +208,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-74.212158,-58.691208)">
-    <rect
-       style="fill:url(#linearGradient6581);fill-opacity:1;stroke:none;stroke-width:0.55812;stroke-opacity:1"
-       id="rect3906"
-       width="33.920319"
-       height="52.202225"
-       x="77.212158"
-       y="61.691208" />
+     transform="translate(-73.450702,-60.691208)">
     <circle
        style="fill:#e8dec4;fill-opacity:1;stroke:#dbcca3;stroke-width:0.499999;stroke-opacity:1"
        id="circle4144"
