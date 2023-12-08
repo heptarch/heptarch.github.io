@@ -111,8 +111,7 @@
        y1="100.01941"
        x2="93.383476"
        y2="63.140926"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,56.337536)" />
+       gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6579"
@@ -213,6 +212,16 @@
        r="3.0290644"
        gradientTransform="matrix(1.4255177,-0.5377639,0.74872335,1.9847342,30.754491,157.9487)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6579"
+       id="linearGradient13010"
+       gradientUnits="userSpaceOnUse"
+       x1="93.383476"
+       y1="100.01941"
+       x2="93.383476"
+       y2="63.140926"
+       gradientTransform="translate(0,64.425598)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -220,12 +229,12 @@
      id="layer1"
      transform="translate(-73.450702,-60.691208)">
     <rect
-       style="fill:url(#linearGradient6581);fill-opacity:1;stroke:none;stroke-width:0.55812;stroke-opacity:1"
+       style="fill:url(#linearGradient6581);fill-opacity:1;stroke:none;stroke-width:0.55812;stroke-opacity:1;opacity:0.49902913"
        id="rect3906"
        width="33.920319"
        height="52.202225"
        x="77.212158"
-       y="118.02875" />
+       y="61.691208" />
     <circle
        style="fill:#e8dec4;fill-opacity:1;stroke:#dbcca3;stroke-width:0.499999;stroke-opacity:1"
        id="circle4144"
@@ -621,5 +630,12 @@
        cx="104.57014"
        cy="74.908112"
        r="0.5886423" />
+    <rect
+       style="fill:url(#linearGradient13010);fill-opacity:1;stroke:none;stroke-width:0.55812;stroke-opacity:1"
+       id="rect13008"
+       width="33.920319"
+       height="52.202225"
+       x="77.212158"
+       y="126.11681" />
   </g>
 </svg>
