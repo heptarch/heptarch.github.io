@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="5.3664982"
-     inkscape:cx="128.29595"
-     inkscape:cy="83.201369"
+     inkscape:cx="82.642345"
+     inkscape:cy="167.8003"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -40,6 +40,18 @@
      inkscape:snap-global="false" />
   <defs
      id="defs1916">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11644">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop11640" />
+      <stop
+         style="stop-color:#d5cbbc;stop-opacity:1"
+         offset="1"
+         id="stop11642" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient8971">
@@ -189,6 +201,17 @@
        fx="105.23964"
        fy="79.817787"
        r="0.97614539" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11644"
+       id="radialGradient11648"
+       cx="107.04813"
+       cy="-101.91396"
+       fx="107.04813"
+       fy="-101.91396"
+       r="3.0290644"
+       gradientTransform="matrix(1.4255177,-0.5377639,0.74872335,1.9847342,30.754491,157.9487)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -554,13 +577,13 @@
        rx="1.0806942"
        ry="3.5150678" />
     <ellipse
-       style="fill:#fcfaf7;fill-opacity:1;stroke:#dbcca3;stroke-width:0.10483;stroke-opacity:1"
+       style="fill:url(#radialGradient11648);fill-opacity:1;stroke:#dbcca3;stroke-width:0.0996036;stroke-opacity:1"
        id="path9694"
        cx="107.63976"
        cy="-102.33376"
        transform="rotate(90)"
-       rx="2.9766493"
-       ry="3.4943287" />
+       rx="2.9792626"
+       ry="3.1518223" />
     <ellipse
        style="fill:#795b2e;fill-opacity:1;stroke:none;stroke-width:0.392049;stroke-opacity:1"
        id="ellipse9696"
