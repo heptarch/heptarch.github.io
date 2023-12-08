@@ -103,6 +103,16 @@
          stdDeviation="1.7283542"
          id="feGaussianBlur6573" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6579"
+       id="linearGradient6581"
+       x1="93.383476"
+       y1="100.01941"
+       x2="93.383476"
+       y2="63.140926"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,56.337536)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6579"
@@ -209,6 +219,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-73.450702,-60.691208)">
+    <rect
+       style="fill:url(#linearGradient6581);fill-opacity:1;stroke:none;stroke-width:0.55812;stroke-opacity:1"
+       id="rect3906"
+       width="33.920319"
+       height="52.202225"
+       x="77.212158"
+       y="118.02875" />
     <circle
        style="fill:#e8dec4;fill-opacity:1;stroke:#dbcca3;stroke-width:0.499999;stroke-opacity:1"
        id="circle4144"
