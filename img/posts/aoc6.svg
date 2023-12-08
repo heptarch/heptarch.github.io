@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.7170148"
-     inkscape:cx="397.49221"
-     inkscape:cy="2.0384216"
+     inkscape:cx="371.86633"
+     inkscape:cy="13.686545"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -738,7 +738,7 @@
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:type="star"
-       style="fill:#589a87;fill-opacity:1;stroke:#589a87;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#4fa1a4;fill-opacity:1;stroke:#589a87;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path31140"
        inkscape:flatsided="false"
        sodipodi:sides="3"
@@ -933,21 +933,21 @@
    id="tspan2232">)</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.346px;line-height:1.25;font-family:sans-serif;fill:#4fa48b;fill-opacity:1;stroke:none;stroke-width:0.33365"
+       style="font-style:normal;font-weight:normal;font-size:13.346px;line-height:1.25;font-family:sans-serif;fill:#4fa1a4;fill-opacity:1;stroke:none;stroke-width:0.33365"
        x="111.98502"
        y="214.00099"
        id="text3507"><tspan
          sodipodi:role="line"
          id="tspan3505"
-         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#4fa48b;fill-opacity:1;stroke-width:0.33365"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#4fa1a4;fill-opacity:1;stroke-width:0.33365"
          x="111.98502"
          y="214.00099"> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';stroke-width:0.33365"
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';stroke-width:0.33365;fill:#4fa1a4;fill-opacity:1"
    id="tspan10525">min</tspan>U<tspan
-   style="font-size:8.67492px;baseline-shift:sub;stroke-width:0.33365"
+   style="font-size:8.67492px;baseline-shift:sub;stroke-width:0.33365;fill:#4fa1a4;fill-opacity:1"
    id="tspan3611" /></tspan></text>
     <path
-       style="fill:#78797b;fill-opacity:1;stroke:#4fa48b;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.776471"
+       style="fill:#4fa1a4;fill-opacity:1;stroke:#4fa1a4;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 69.921251,196.97962 H 178.38886"
        id="path3871"
        sodipodi:nodetypes="cc" />
@@ -966,7 +966,7 @@
        cy="197.07626"
        r="2.5758424" />
     <circle
-       style="opacity:1;fill:#4fa48b;fill-opacity:1;stroke:none;stroke-width:0.392387;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#4fa1a4;fill-opacity:1;stroke:none;stroke-width:0.392387;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10863"
        cx="128.08148"
        cy="197.07626"
@@ -979,13 +979,13 @@
        r="2.5758424" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.07px;line-height:1.25;font-family:sans-serif;fill:#4fa48b;fill-opacity:1;stroke:none;stroke-width:0.25175"
+       style="font-style:normal;font-weight:normal;font-size:10.07px;line-height:1.25;font-family:sans-serif;fill:#4fa1a4;fill-opacity:1;stroke:none;stroke-width:0.25175"
        x="148.34077"
        y="215.88692"
        id="text1556"><tspan
          sodipodi:role="line"
          id="tspan1554"
-         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#4fa48b;fill-opacity:1;stroke-width:0.25175"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#4fa1a4;fill-opacity:1;stroke-width:0.25175"
          x="148.34077"
          y="215.88692">t</tspan></text>
   </g>
