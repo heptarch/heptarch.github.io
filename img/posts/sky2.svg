@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.6832492"
-     inkscape:cx="79.940395"
-     inkscape:cy="53.479938"
+     inkscape:cx="88.139409"
+     inkscape:cy="93.729647"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -414,117 +414,6 @@
          in="result6"
          operator="over"
          id="feComposite12789" />
-    </filter>
-    <filter
-       inkscape:label="Cracked Lava"
-       inkscape:menu="Materials"
-       inkscape:menu-tooltip="A volcanic texture, a little like leather"
-       style="color-interpolation-filters:sRGB;"
-       id="filter13825"
-       x="-4.0827812"
-       y="-3.4270681"
-       width="9.565835"
-       height="8.1901233">
-      <feGaussianBlur
-         result="result0"
-         in="SourceGraphic"
-         stdDeviation="0.5"
-         id="feGaussianBlur13793" />
-      <feTurbulence
-         baseFrequency="0.042"
-         seed="488"
-         numOctaves="7"
-         result="result1"
-         id="feTurbulence13795" />
-      <feDisplacementMap
-         result="result5"
-         xChannelSelector="R"
-         scale="0"
-         in2="result1"
-         in="result1"
-         yChannelSelector="G"
-         id="feDisplacementMap13797" />
-      <feComposite
-         result="result2"
-         operator="in"
-         in2="result5"
-         in="result0"
-         id="feComposite13799" />
-      <feSpecularLighting
-         lighting-color="rgb(255,230,136)"
-         surfaceScale="2"
-         result="result4"
-         specularConstant="2"
-         specularExponent="65"
-         in="result2"
-         id="feSpecularLighting13803">
-        <feDistantLight
-           elevation="62"
-           azimuth="225"
-           id="feDistantLight13801" />
-      </feSpecularLighting>
-      <feComposite
-         k1="2.5"
-         k3="1"
-         k2="-0.5"
-         in2="result2"
-         in="result4"
-         operator="arithmetic"
-         result="result91"
-         id="feComposite13805" />
-      <feBlend
-         result="fbSourceGraphic"
-         mode="multiply"
-         in2="result91"
-         id="feBlend13807" />
-      <feColorMatrix
-         values="1 0 0 -1 0 1 0 1 -1 0 1 0 0 -1 0 -2 -0.5 0 5 -2"
-         in="fbSourceGraphic"
-         result="fbSourceGraphicAlpha"
-         id="feColorMatrix13809" />
-      <feGaussianBlur
-         stdDeviation="8"
-         in="fbSourceGraphicAlpha"
-         result="result0"
-         id="feGaussianBlur13811" />
-      <feOffset
-         dx="2"
-         dy="2"
-         in="result0"
-         result="result3"
-         id="feOffset13813" />
-      <feSpecularLighting
-         in="result0"
-         result="result1"
-         lighting-color="rgb(255,255,255)"
-         surfaceScale="4"
-         specularConstant="0.8"
-         specularExponent="15"
-         id="feSpecularLighting13817">
-        <fePointLight
-           x="-5000"
-           y="-10000"
-           z="20000"
-           id="fePointLight13815" />
-      </feSpecularLighting>
-      <feComposite
-         in2="fbSourceGraphicAlpha"
-         in="result1"
-         result="result2"
-         operator="in"
-         id="feComposite13819" />
-      <feComposite
-         in="fbSourceGraphic"
-         result="result4"
-         operator="arithmetic"
-         k2="2"
-         k3="2"
-         in2="result2"
-         id="feComposite13821" />
-      <feBlend
-         mode="darken"
-         in2="result4"
-         id="feBlend13823" />
     </filter>
   </defs>
   <g
@@ -1110,5 +999,9 @@
        height="7.4352922"
        x="26.731495"
        y="178.9718" />
+    <path
+       id="path13274"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.0649163;stroke-opacity:0.670588"
+       d="m 50.233257,140.74542 a 1.9523395,1.9523395 0 0 1 0.296948,1.57808 1.9523395,1.9523395 0 0 1 -2.357574,1.43723 1.9523395,1.9523395 0 0 1 -0.374236,-0.13358 1.9523395,1.9523395 0 0 0 1.139386,0.78031 1.9523395,1.9523395 0 0 0 2.357573,-1.43722 1.9523395,1.9523395 0 0 0 -1.062096,-2.22482 z" />
   </g>
 </svg>
