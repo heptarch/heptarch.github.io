@@ -1260,20 +1260,5 @@
          rx="0.37625626"
          ry="0.4867439" />
     </g>
-    <path
-       style="fill:none;stroke:#25face;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.670588;marker-end:url(#Arrow1Mend)"
-       d="m 32.223402,97.592293 2.903979,0.02426 1.934591,1.282925"
-       id="path9301"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#25face;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.670588;marker-end:url(#Arrow1Mend)"
-       d="m 32.223402,96.162938 2.903979,0.02426 1.934591,0.481091"
-       id="path9887"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#25face;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.670588;marker-end:url(#Arrow1Mend)"
-       d="m 32.223402,94.809775 2.903979,-0.02426 1.934591,-0.481091"
-       id="path9988"
-       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
