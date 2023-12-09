@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.3664982"
-     inkscape:cx="168.91835"
-     inkscape:cy="15.000471"
+     inkscape:zoom="3.7946873"
+     inkscape:cx="124.51619"
+     inkscape:cy="30.173765"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -472,7 +472,7 @@
        xlink:href="#linearGradient6184"
        id="radialGradient7779"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.60302729,0,0,0.60302729,-28.832996,45.939632)"
+       gradientTransform="matrix(0.60302729,0,0,0.60302729,-28.303829,45.939632)"
        cx="105.23964"
        cy="79.817787"
        fx="105.23964"
@@ -493,7 +493,7 @@
     <circle
        style="opacity:0.704854;mix-blend-mode:normal;fill:#88fbb5;fill-opacity:1;stroke:none;stroke-width:0.499999;filter:url(#filter6571)"
        id="circle2165"
-       cx="33.696259"
+       cx="34.225426"
        cy="96.627739"
        r="5.12749" />
     <rect
@@ -1220,7 +1220,7 @@
     </g>
     <g
        id="g7763"
-       transform="translate(13.60757,24.059762)">
+       transform="translate(14.136737,24.059762)">
       <circle
          style="fill:url(#radialGradient13398);fill-opacity:1;stroke:none;stroke-width:0.159802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle13258"
@@ -1354,7 +1354,7 @@
     </g>
     <g
        id="g7771"
-       transform="translate(14.100598,26.820718)">
+       transform="translate(14.629765,26.820718)">
       <circle
          style="fill:url(#radialGradient7773);fill-opacity:1;stroke:none;stroke-width:0.159802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle7765"
@@ -1371,7 +1371,7 @@
     <circle
        style="fill:url(#radialGradient7779);fill-opacity:1;stroke:none;stroke-width:0.159802;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle7777"
-       cx="34.629395"
+       cx="35.158562"
        cy="94.071938"
        r="0.5886423" />
   </g>
