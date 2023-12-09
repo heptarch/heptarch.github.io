@@ -365,19 +365,6 @@
        y1="111.91018"
        x2="93.383476"
        y2="63.140926" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1465"
-       x="-0.64305701"
-       y="-0.64305701"
-       width="2.286114"
-       height="2.286114">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.2906246"
-         id="feGaussianBlur1467" />
-    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -962,52 +949,5 @@
        height="7.4352922"
        x="26.731495"
        y="178.9718" />
-    <g
-       id="g1655">
-      <circle
-         style="fill:#fbfcf9;stroke:none;stroke-width:0.499999;fill-opacity:1;filter:url(#filter1465)"
-         id="circle1463"
-         cx="36.627411"
-         cy="158.49721"
-         r="0.54233062" />
-      <circle
-         style="fill:#fbfcf9;fill-opacity:1;stroke:none;stroke-width:0.210729"
-         id="path1112"
-         cx="36.627411"
-         cy="158.49721"
-         r="0.2285696" />
-    </g>
-    <g
-       id="g2036"
-       transform="matrix(0.60234223,0,0,0.60234223,16.142864,62.337407)">
-      <circle
-         style="fill:#fbfcf9;fill-opacity:1;stroke:none;stroke-width:0.499999;filter:url(#filter1465)"
-         id="circle2032"
-         cx="36.627411"
-         cy="158.49721"
-         r="0.54233062" />
-      <circle
-         style="fill:#fbfcf9;fill-opacity:1;stroke:none;stroke-width:0.210729"
-         id="circle2034"
-         cx="36.627411"
-         cy="158.49721"
-         r="0.2285696" />
-    </g>
-    <g
-       id="g2231"
-       transform="matrix(0.60234223,0,0,0.60234223,10.325135,55.1392)">
-      <circle
-         style="fill:#fbfcf9;fill-opacity:1;stroke:none;stroke-width:0.499999;filter:url(#filter1465)"
-         id="circle2227"
-         cx="36.627411"
-         cy="158.49721"
-         r="0.54233062" />
-      <circle
-         style="fill:#fbfcf9;fill-opacity:1;stroke:none;stroke-width:0.210729"
-         id="circle2229"
-         cx="36.627411"
-         cy="158.49721"
-         r="0.2285696" />
-    </g>
   </g>
 </svg>
