@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.7946873"
-     inkscape:cx="34.653712"
-     inkscape:cy="4.8752371"
+     inkscape:cx="47.302976"
+     inkscape:cy="3.8211318"
      inkscape:window-width="1312"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -1410,5 +1410,41 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#ffffff;fill-opacity:1;stroke-width:0.104927"
          x="48.112675"
          y="138.85576">475</tspan></text>
+    <rect
+       style="opacity:1;fill:#0099ff;fill-opacity:1;stroke:#6ef8ce;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11843"
+       width="10.667874"
+       height="10.667874"
+       x="29.905113"
+       y="150.84752" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.19706px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.104927"
+       x="32.285175"
+       y="157.33279"
+       id="text11847"><tspan
+         sodipodi:role="line"
+         id="tspan11845"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#ffffff;fill-opacity:1;stroke-width:0.104927"
+         x="32.285175"
+         y="157.33279">470</tspan></text>
+    <rect
+       style="opacity:1;fill:#00b3ff;fill-opacity:1;stroke:#6ef8ce;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11849"
+       width="10.667874"
+       height="10.667874"
+       x="45.732613"
+       y="150.84752" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.19706px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.104927"
+       x="48.112675"
+       y="157.33279"
+       id="text11853"><tspan
+         sodipodi:role="line"
+         id="tspan11851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#ffffff;fill-opacity:1;stroke-width:0.104927"
+         x="48.112675"
+         y="157.33279">475</tspan></text>
   </g>
 </svg>
