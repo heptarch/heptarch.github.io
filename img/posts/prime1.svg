@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.5953125"
-     inkscape:cx="382.15223"
-     inkscape:cy="162.09974"
+     inkscape:zoom="2.38125"
+     inkscape:cx="730.91864"
+     inkscape:cy="165.66929"
      inkscape:window-width="1680"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -903,38 +903,38 @@
   </g>
   <g
      id="patch_95"
-     style="stroke:#636363;stroke-opacity:1"
+     style="stroke:#a9a9a9;stroke-opacity:1"
      transform="translate(-29.125,14.907573)">
     <path
        d="M 608.065,116.52187 V 10.8"
-       style="fill:none;stroke:#636363;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a9a9a9;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        id="path1747" />
   </g>
   <g
      id="patch_96"
-     style="stroke:#636363;stroke-opacity:1"
+     style="stroke:#a9a9a9;stroke-opacity:1"
      transform="translate(-29.125,14.907573)">
     <path
        d="M 709.2,116.52187 V 10.8"
-       style="fill:none;stroke:#636363;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a9a9a9;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        id="path1750" />
   </g>
   <g
      id="patch_97"
-     style="fill:#ececec;fill-opacity:1;stroke:#636363;stroke-opacity:1"
+     style="fill:#ececec;fill-opacity:1;stroke:#a9a9a9;stroke-opacity:1"
      transform="translate(-29.125,14.907573)">
     <path
        d="M 608.065,116.52187 H 709.2"
-       style="fill:#ececec;fill-opacity:1;stroke:#636363;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ececec;fill-opacity:1;stroke:#a9a9a9;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        id="path1753" />
   </g>
   <g
      id="patch_98"
-     style="stroke:#636363;stroke-opacity:1"
+     style="stroke:#a9a9a9;stroke-opacity:1"
      transform="translate(-29.125,14.907573)">
     <path
        d="M 608.065,10.8 H 709.2"
-       style="fill:none;stroke:#636363;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#a9a9a9;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1"
        id="path1756" />
   </g>
   <defs
