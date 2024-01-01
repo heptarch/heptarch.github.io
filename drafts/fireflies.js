@@ -1,3 +1,4 @@
+<script>
 class Firefly {
     constructor() {
         this.position = createVector(random(width), random(height));
@@ -46,3 +47,4 @@ function draw() {
         firefly.display();
     }
 }
+</script>
