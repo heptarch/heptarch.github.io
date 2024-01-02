@@ -103,13 +103,13 @@ function draw() {
     let roundPC = round(100 * coherence) / 100.0;
     text("Coherence: " + roundPC, 10, 50);
 
-    if ((keyIsReleased == true) && (key == 'w'))  {
+    if ((keyIsPressed == true) && (key == 'w'))  {
         numFireflies = constrain(numFireflies + 10, 0, 1000);
-    } else if ((keyIsReleased == true) && (key == 's')) {
+    } else if ((keyIsPressed == true) && (key == 's')) {
         numFireflies = constrain(numFireflies - 10, 0, 1000);
-    } else if ((keyIsReleased == true) && (key == 'a')) {
+    } else if ((keyIsPressed == true) && (key == 'a')) {
         K = constrain(K - 0.001, 0, 0.05);
-    } else if ((keyIsReleased == true) && (key == 'd')) {
+    } else if ((keyIsPressed == true) && (key == 'd')) {
 	K = constrain(K + 0.001, 0, 0.05);
     }
 }
