@@ -60,8 +60,7 @@ function setup() {
     bgImage = loadImage('/assets/fireflies_data/bg1.png');
     const cnv = createCanvas(600, 400);
     cnv.parent('sketch-holder');
-    cnv.style('margin-left', '200px');
-    cnv.style('margin-top', '-75px');
+    //cnv.style('margin-top', '-75px');
     for (let i = 0; i < 100; i++) {
         fireflies.push(new Firefly());
     }
