@@ -57,7 +57,7 @@ class Firefly {
 let bgImage;
 
 function setup() {
-	bgImage = loadImage('/drafts/fireflies_data/bg1.png');
+	bgImage = loadImage('/assets/fireflies_data/bg1.png');
     cnv = createCanvas(600, 400);
 	cnv.style('margin-left', '200px');
 	cnv.style('margin-top', '-75px');
