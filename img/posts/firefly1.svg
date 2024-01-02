@@ -151,21 +151,21 @@
    id="tspan4960">= 0.5</tspan></tspan></text>
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 172.84229,162.49081 6.43008,-11.16567"
+       d="m 165.90169,162.49081 6.43008,-11.16567"
        id="path7194"
        sodipodi:nodetypes="cc" />
     <circle
        style="fill:#42b773;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle7196"
-       cx="165.92491"
-       cy="170.14091"
+       cx="158.98894"
+       cy="169.88744"
        r="2.0243428"
        transform="rotate(-2.0930251)" />
     <circle
        style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle7200"
-       cx="174.07347"
-       cy="156.60841"
+       cx="167.1375"
+       cy="156.35493"
        r="2.0243428"
        transform="rotate(-2.0930251)" />
     <circle
@@ -189,19 +189,19 @@
    id="tspan7210">= 0</tspan></tspan></text>
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 180.52328,151.77856 6.45472,11.15146"
+       d="m 173.58268,151.77856 6.45472,11.15146"
        id="path7251"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 173.8612,163.9218 12.8848,-0.0142"
+       d="m 166.9206,163.9218 12.8848,-0.0142"
        id="path7253"
        sodipodi:nodetypes="cc" />
     <circle
        style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle7202"
-       cx="181.27037"
-       cy="170.48679"
+       cx="174.3344"
+       cy="170.23331"
        r="2.0243428"
        transform="rotate(-2.0930251)" />
   </g>
