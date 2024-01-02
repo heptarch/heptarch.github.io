@@ -114,4 +114,5 @@ function keyPressed() {
     } else if (keyCode == 'd') {
 	K = constrain(K + 0.001, 0, 0.05);
     }
+    return false;
 }
