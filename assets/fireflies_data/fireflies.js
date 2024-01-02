@@ -8,12 +8,12 @@ var firefly1 = function(p) {
 
     class Firefly {
 	constructor() {
-            this.position = p.createVector(random(width), random(height));
+            this.position = p.createVector(p.random(width), p.random(height));
             this.velocity = p5.Vector.random2D().mult(0.2);
             this.initPhase = p.random(TWO_PI); // Start at a random phase
             this.pulsePhase = this.initPhase;
             this.natural = p.random(0.01, 0.03);
-            this.rad = p.round(random(1, 2));
+            this.rad = p.round(p.random(1, 2));
             this.brightness = this.rad * p.random(0.8, 1);
 	}
 
@@ -99,7 +99,7 @@ var firefly1 = function(p) {
 	p.textSize(13);
 	p.text("Fireflies: " + numFireflies, 10, 20);
 	let roundK = p.round(1000 * K);
-	p.text("k*N: " + p.roundK + " (1 e-3)", 10, 35);
+	p.text("k*N: " + roundK + " (1 e-3)", 10, 35);
 	let roundPC = p.round(100 * coherence) / 100.0;
 	p.text("Coherence: " + roundPC, 10, 50);
     }
