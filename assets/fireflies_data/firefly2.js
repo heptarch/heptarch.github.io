@@ -1,7 +1,7 @@
 let maxNum = 1000;
 let numFireflies = 100;
 let normK = 0.0;
-let K = 0.0;
+let K = 0.011;
 let fireflies = [];
 let sum = new Array(maxNum);
 
