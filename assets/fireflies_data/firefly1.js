@@ -109,9 +109,9 @@ function keyPressed() {
         let numFireflies = constrain(numFireflies + 10, 0, 1000);
     } else if (keyCode === 's') {
         let numFireflies = constrain(numFireflies - 10, 0, 1000);
-    } else if (key === 'a') {
+    } else if (keyCode === 'a') {
         let K = constrain(K - 0.001, 0, 0.05);
-    } else if (key === 'd') {
+    } else if (keyCode === 'd') {
 	let K = constrain(K + 0.001, 0, 0.05);
     }
 }
