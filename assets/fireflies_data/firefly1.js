@@ -102,14 +102,16 @@ function draw() {
     text("K: " + roundK + " (1 e-3)", 10, 35);
     let roundPC = round(100 * coherence) / 100.0;
     text("Coherence: " + roundPC, 10, 50);
+}
 
-    if ((keyIsPressed == true) && (key == 'w'))  {
+function keyReleased() {
+    if (keyCode == 'w')  {
         numFireflies = constrain(numFireflies + 10, 0, 1000);
-    } else if ((keyIsPressed == true) && (key == 's')) {
+    } else if (keyCode == 's') {
         numFireflies = constrain(numFireflies - 10, 0, 1000);
-    } else if ((keyIsPressed == true) && (key == 'a')) {
+    } else if (keyCode == 'a') {
         K = constrain(K - 0.001, 0, 0.05);
-    } else if ((keyIsPressed == true) && (key == 'd')) {
+    } else if (keyCode == 'd') {
 	K = constrain(K + 0.001, 0, 0.05);
     }
 }
