@@ -99,7 +99,7 @@ function draw() {
     textSize(13);
     text("Fireflies: " + numFireflies, 10, 20);
     let roundK = round(1000 * K);
-    text("k*N: " + roundK + " (1 e-3)", 10, 35);
+    text("K: " + roundK + " (1 e-3)", 10, 35);
     let roundPC = round(100 * coherence) / 100.0;
     text("Coherence: " + roundPC, 10, 50);
 
