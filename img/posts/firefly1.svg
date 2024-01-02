@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="149.79417mm"
+   width="181.5442mm"
    height="65.914192mm"
-   viewBox="0 0 149.79417 65.914192"
+   viewBox="0 0 181.5442 65.914192"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.457453"
-     inkscape:cx="490.7608"
-     inkscape:cy="81.975634"
+     inkscape:cx="503.8769"
+     inkscape:cy="95.091736"
      inkscape:window-width="1353"
      inkscape:window-height="997"
      inkscape:window-x="0"
@@ -94,78 +94,78 @@
        r="2.0243428" />
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 109.02532,162.23661 6.83358,-10.92338"
+       d="m 124.90033,162.23661 6.83358,-10.92338"
        id="path4688"
        sodipodi:nodetypes="cc" />
     <circle
        style="fill:#42b773;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle4692"
-       cx="108.15775"
+       cx="124.03271"
        cy="163.68257"
        r="2.0243428" />
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 115.99247,149.88485 11.98594,-4.72814"
+       d="m 131.86748,149.88485 11.98594,-4.72814"
        id="path4694"
        sodipodi:nodetypes="cc" />
     <circle
        style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle4690"
-       cx="116.00351"
+       cx="131.87851"
        cy="150.03668"
        r="2.0243428" />
     <circle
        style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle4696"
-       cx="129.74013"
+       cx="145.61514"
        cy="144.39745"
        r="2.0243428" />
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 128.08285,143.3675 -11.61643,-5.57466"
+       d="m 143.95786,143.3675 -11.61643,-5.57466"
        id="path4698"
        sodipodi:nodetypes="cc" />
     <circle
        style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle4700"
-       cx="114.70214"
+       cx="130.57716"
        cy="137.16765"
        r="2.0243428" />
     <path
        style="fill:none;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 108.20091,162.81136 5.14434,-24.04366"
+       d="m 124.07592,162.81136 5.14434,-24.04366"
        id="path4936"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:13.5241px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
-       x="95.041672"
+       x="110.91667"
        y="183.77641"
        id="text4964"><tspan
          sodipodi:role="line"
          id="tspan4962"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
-         x="95.041672"
+         x="110.91667"
          y="183.77641">r <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
    id="tspan4960">= 0.5</tspan></tspan></text>
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 165.90169,162.49081 6.43008,-11.16567"
+       d="m 197.65171,162.49081 6.43008,-11.16567"
        id="path7194"
        sodipodi:nodetypes="cc" />
     <circle
        style="fill:#42b773;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle7196"
-       cx="158.98894"
-       cy="169.88744"
+       cx="190.71773"
+       cy="171.04704"
        r="2.0243428"
        transform="rotate(-2.0930251)" />
     <circle
        style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle7200"
-       cx="167.1375"
-       cy="156.35493"
+       cx="198.86629"
+       cy="157.51454"
        r="2.0243428"
        transform="rotate(-2.0930251)" />
     <circle
@@ -177,31 +177,31 @@
     <text
        xml:space="preserve"
        style="font-style:italic;font-size:13.5241px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
-       x="158.66388"
+       x="190.41391"
        y="183.77641"
        id="text7214"><tspan
          sodipodi:role="line"
          id="tspan7212"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
-         x="158.66388"
+         x="190.41391"
          y="183.77641">r <tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
    id="tspan7210">= 0</tspan></tspan></text>
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 173.58268,151.77856 6.45472,11.15146"
+       d="m 205.3327,151.77856 6.45472,11.15146"
        id="path7251"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 166.9206,163.9218 12.8848,-0.0142"
+       d="m 198.67062,163.9218 12.8848,-0.0142"
        id="path7253"
        sodipodi:nodetypes="cc" />
     <circle
        style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="circle7202"
-       cx="174.3344"
-       cy="170.23331"
+       cx="206.06319"
+       cy="171.39291"
        r="2.0243428"
        transform="rotate(-2.0930251)" />
   </g>
