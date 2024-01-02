@@ -104,14 +104,7 @@ function draw() {
     text("Coherence: " + roundPC, 10, 50);
 }
 
-function keyReleased() {
-    if (keyCode == 'w')  {
+function mousePressed() {
+//    if (keyCode == 'w')  {
         numFireflies = constrain(numFireflies + 10, 0, 1000);
-    } else if (keyCode == 's') {
-        numFireflies = constrain(numFireflies - 10, 0, 1000);
-    } else if (keyCode == 'a') {
-        K = constrain(K - 0.001, 0, 0.05);
-    } else if (keyCode == 'd') {
-	K = constrain(K + 0.001, 0, 0.05);
-    }
 }
