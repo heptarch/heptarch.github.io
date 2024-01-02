@@ -105,13 +105,13 @@ function draw() {
 }
 
 function keyPressed() {
-    if (keyCode === UP_ARROW) {
+    if (keyCode === 'w') {
         let numFireflies = constrain(numFireflies + 10, 0, 1000);
-    } else if (keyCode === DOWN_ARROW) {
+    } else if (keyCode === 's') {
         let numFireflies = constrain(numFireflies - 10, 0, 1000);
-    } else if (key === LEFT_ARROW) {
+    } else if (key === 'a') {
         let K = constrain(K - 0.001, 0, 0.05);
-    } else if (key === RIGHT_ARROW) {
+    } else if (key === 'd') {
 	let K = constrain(K + 0.001, 0, 0.05);
     }
 }
