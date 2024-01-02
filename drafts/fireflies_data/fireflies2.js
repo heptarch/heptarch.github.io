@@ -1,7 +1,7 @@
 let maxNum = 1000;
 let numFireflies = 100;
 let normK = 0.0;
-let K = 0.0;
+let K = 13.0;
 let fireflies = [];
 let sum = new Array(maxNum);
 
@@ -57,7 +57,7 @@ class Firefly {
 let bgImage;
 
 function setup() {
-	bgImage = loadImage('/drafts/fireflies_data/bg1.png');
+	bgImage = loadImage('/drafts/fireflies_data/bg2.png');
     cnv = createCanvas(600, 400);
 	cnv.style('margin-left', '200px');
 	cnv.style('margin-top', '-75px');
