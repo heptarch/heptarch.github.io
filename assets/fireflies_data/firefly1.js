@@ -105,7 +105,6 @@ function draw() {
 
     if (mouseIsPressed == true) {
 //        numFireflies = round(1000*mouseY/height);
-	//       K = 0.05*mouseX/width;
-	K = 0.04;
+        K = 0.05*mouseX/width;
     }
 }
