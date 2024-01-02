@@ -113,4 +113,5 @@ function keyPressed() {
         let K = constrain(K - 0.001, 0, 0.05);
     } else if (key === RIGHT_ARROW) {
 	let K = constrain(K + 0.001, 0, 0.05);
+    }
 }
