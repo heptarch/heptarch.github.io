@@ -109,19 +109,19 @@ function draw() {
 }
 
 function keyPressed() {
-    if (keyCode == UP_ARROW) {
+    if (keyCode == 'w') {
         numFireflies = constrain(numFireflies + 10, 0, maxNum); // Increase by 10
         // Add new fireflies if necessary
         while (fireflies.length < numFireflies) {
             fireflies.push(new Firefly());
         }
-    } else if (keyCode == DOWN_ARROW) {
+    } else if (keyCode == 's') {
         numFireflies = constrain(numFireflies - 10, 0, maxNum); // Decrease by 10
         // Remove excess fireflies if necessary
         fireflies.splice(numFireflies, fireflies.length - numFireflies);
-    } else if (keyCode == LEFT_ARROW) {
-	K = K - 0.001;
-    } else if (keyCode == RIGHT_ARROW) {
-	K = K + 0.001;
+    } else if (keyCode == 'a') {
+	K = constrain(K - 0.001, 0, 0.1);
+    } else if (keyCode == 'd') {
+	K = constrain(K + 0.001, 0, 0.1);
     }
 }
