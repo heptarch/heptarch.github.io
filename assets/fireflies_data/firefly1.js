@@ -112,3 +112,4 @@ function keyPressed() {
   if (keyCode == UP_ARROW) {
     numFireflies = constrain(numFireflies + 10, 0, 1000); // Increase by 5
   }
+}
