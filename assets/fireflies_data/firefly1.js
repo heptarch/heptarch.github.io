@@ -102,10 +102,6 @@ function draw() {
     text("K: " + roundK + " (1 e-3)", 10, 35);
     let roundPC = round(100 * coherence) / 100.0;
     text("r: " + roundPC, 10, 50);
-
-    if (mouseIsPressed == true) {
-        K = 0.05*mouseX/width;
-    }
 }
 
 function keyPressed() {
