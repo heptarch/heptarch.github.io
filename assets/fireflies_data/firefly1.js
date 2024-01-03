@@ -108,7 +108,7 @@ function draw() {
     }
 
     if (keyIsPressed == true) {
-	if (key == UP_ARROW) {
+	if (key == 'w') {
 	    numFireflies = constrain(numFireflies + 10, 0, 1000);
 	}
     }
