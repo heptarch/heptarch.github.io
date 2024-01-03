@@ -11,7 +11,7 @@ class Firefly {
         this.velocity = p5.Vector.random2D().mult(0.2);
         this.initPhase = random(TWO_PI); // Start at a random phase
         this.pulsePhase = this.initPhase;
-        this.natural = random(0.01, 0.03);
+        this.natural = random(-0.01, 0.01);
         this.rad = round(random(1, 2));
         this.brightness = this.rad * random(0.8, 1);
     }
