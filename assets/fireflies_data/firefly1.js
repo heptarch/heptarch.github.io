@@ -102,22 +102,22 @@ function draw() {
     text("K: " + roundK + " (1 e-3)", 10, 35);
     let roundPC = round(100 * coherence) / 100.0;
     text("r: " + roundPC, 10, 50);
+
+    if (mouseIsPressed == true) {
+        K = 0.05*mouseX/width;
+    }
 }
 
 function keyPressed() {
-    if (keyCode == 'w') {
+    if (keyCode == LEFT_ARROW) {
         numFireflies = constrain(numFireflies + 10, 0, maxNum); // Increase by 10
         // Add new fireflies if necessary
         while (fireflies.length < numFireflies) {
             fireflies.push(new Firefly());
         }
-    } else if (keyCode == 's') {
+    } else if (keyCode == RIGHT_ARROW) {
         numFireflies = constrain(numFireflies - 10, 0, maxNum); // Decrease by 10
         // Remove excess fireflies if necessary
         fireflies.splice(numFireflies, fireflies.length - numFireflies);
-    } else if (keyCode == 'a') {
-	K = constrain(K - 0.001, 0, 0.1);
-    } else if (keyCode == 'd') {
-	K = constrain(K + 0.001, 0, 0.1);
     }
 }
