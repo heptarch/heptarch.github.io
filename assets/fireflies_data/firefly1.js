@@ -104,7 +104,12 @@ function draw() {
     text("r: " + roundPC, 10, 50);
 
     if (mouseIsPressed == true) {
-	numFireflies = constrain(numFireflies + 10, 0, 1000);
         K = 0.05*mouseX/width;
+    }
+
+    if (keyIsPressed == true) {
+	if (key == UP_ARROW) {
+	    numFireflies = constrain(numFireflies + 10, 0, 1000);
+	}
     }
 }
