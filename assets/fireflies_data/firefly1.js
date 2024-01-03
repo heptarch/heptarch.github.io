@@ -114,15 +114,3 @@ function draw() {
         }
     }
 }
-
-function keyPressed() {
-    if (keyCode == UP_ARROW) {
-        numFireflies = constrain(numFireflies + 10, 0, maxNum); // Increase by 10
-        // Add new fireflies if necessary
-
-    } else if (keyCode == DOWN_ARROW) {
-        numFireflies = constrain(numFireflies - 10, 0, maxNum); // Decrease by 10
-        // Remove excess fireflies if necessary
-        
-    }
-}
