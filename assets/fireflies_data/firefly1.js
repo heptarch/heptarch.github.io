@@ -109,13 +109,13 @@ function draw() {
 }
 
 function keyPressed() {
-    if (keyCode == LEFT_ARROW) {
+    if (keyCode == RIGHT_ARROW) {
         numFireflies = constrain(numFireflies + 10, 0, maxNum); // Increase by 10
         // Add new fireflies if necessary
         while (fireflies.length < numFireflies) {
             fireflies.push(new Firefly());
         }
-    } else if (keyCode == RIGHT_ARROW) {
+    } else if (keyCode == LEFT_ARROW) {
         numFireflies = constrain(numFireflies - 10, 0, maxNum); // Decrease by 10
         // Remove excess fireflies if necessary
         fireflies.splice(numFireflies, fireflies.length - numFireflies);
