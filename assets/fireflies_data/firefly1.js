@@ -101,7 +101,7 @@ function draw() {
     let roundK = round(1000 * K);
     text("K: " + roundK + " (1 e-3)", 10, 35);
     let roundPC = round(100 * coherence) / 100.0;
-    text("Coherence: " + roundPC, 10, 50);
+    text("r: " + roundPC, 10, 50);
 
     if (mouseIsPressed == true) {
         numFireflies = constrain(numFireflies + 10, 0, 1000);
