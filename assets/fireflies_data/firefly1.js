@@ -106,10 +106,9 @@ function draw() {
     if (mouseIsPressed == true) {
         K = 0.05*mouseX/width;
     }
-
-    if (keyIsPressed == true) {
-	if (key == 'w') {
-	    numFireflies = constrain(numFireflies + 10, 0, 1000);
-	}
-    }
 }
+
+function keyPressed() {
+  if (keyCode == UP_ARROW) {
+    numFireflies = constrain(numFireflies + 10, 0, 1000); // Increase by 5
+  }
