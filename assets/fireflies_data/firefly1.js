@@ -104,7 +104,7 @@ function draw() {
     text("Coherence: " + roundPC, 10, 50);
 
     if (mouseIsPressed == true) {
-        numFireflies = 1 + mouseY;
+        numFireflies = 1 + mouseX;
         K = 0.05*mouseX/width;
     }
 }
