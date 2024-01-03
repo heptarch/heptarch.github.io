@@ -105,12 +105,23 @@ function draw() {
 
     if (mouseIsPressed == true) {
         K = 0.05*mouseX/width;
-	numFireflies = height-2*mouseY;
+    }
+}
+
+function keyPressed() {
+    if (keyCode == UP_ARROW) {
+        numFireflies = constrain(numFireflies + 10, 0, maxNum); // Increase by 10
+        // Add new fireflies if necessary
         while (fireflies.length < numFireflies) {
             fireflies.push(new Firefly());
         }
-        while (fireflies.length > numFireflies) {
-            fireflies.splice(numFireflies, fireflies.length - numFireflies);
-        }
+    } else if (keyCode == DOWN_ARROW) {
+        numFireflies = constrain(numFireflies - 10, 0, maxNum); // Decrease by 10
+        // Remove excess fireflies if necessary
+        fireflies.splice(numFireflies, fireflies.length - numFireflies);
+    } else if (keyCode == LEFT_ARROW) {
+	K = K - 0.001;
+    } else if (keyCode == RIGHT_ARROW) {
+	K = K + 0.001;
     }
 }
