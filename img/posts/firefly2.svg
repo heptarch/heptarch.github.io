@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="141.16054mm"
+   height="80.367821mm"
+   viewBox="0 0 141.16053 80.36782"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="firefly2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.914906"
+     inkscape:cx="213.13665"
+     inkscape:cy="-47.545868"
+     inkscape:window-width="1353"
+     inkscape:window-height="997"
+     inkscape:window-x="-1"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.253372,-260.96926)">
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 45.403116,162.23661 52.2367,151.31323"
+       id="path253"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="path987"
+       cx="53.248875"
+       cy="149.7475"
+       r="2.0243428" />
+    <circle
+       style="fill:#42b773;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle3715"
+       cx="44.535542"
+       cy="163.68257"
+       r="2.0243428" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:13.5241px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+       x="39.516842"
+       y="183.77641"
+       id="text4516"><tspan
+         sodipodi:role="line"
+         id="tspan4514"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+         x="39.516842"
+         y="183.77641">r <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+   id="tspan4568">= 1</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.223467,147.63242 6.833584,-10.92338"
+       id="path4680"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4682"
+       cx="62.069225"
+       cy="135.14331"
+       r="2.0243428" />
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.188413,133.17283 6.833584,-10.92338"
+       id="path4684"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4686"
+       cx="71.034172"
+       cy="120.68372"
+       r="2.0243428" />
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 124.90033,162.23661 6.83358,-10.92338"
+       id="path4688"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#42b773;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4692"
+       cx="124.03271"
+       cy="163.68257"
+       r="2.0243428" />
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 131.86748,149.88485 11.98594,-4.72814"
+       id="path4694"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4690"
+       cx="131.87851"
+       cy="150.03668"
+       r="2.0243428" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4696"
+       cx="145.61514"
+       cy="144.39745"
+       r="2.0243428" />
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 143.95786,143.3675 -11.61643,-5.57466"
+       id="path4698"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4700"
+       cx="130.57716"
+       cy="137.16765"
+       r="2.0243428" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 124.07592,162.81136 5.14434,-24.04366"
+       id="path4936"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:13.5241px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+       x="110.91667"
+       y="183.77641"
+       id="text4964"><tspan
+         sodipodi:role="line"
+         id="tspan4962"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+         x="110.91667"
+         y="183.77641">r <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+   id="tspan4960">= 0.5</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 197.65171,162.49081 6.43008,-11.16567"
+       id="path7194"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#42b773;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle7196"
+       cx="190.71773"
+       cy="171.04704"
+       r="2.0243428"
+       transform="rotate(-2.0930251)" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle7200"
+       cx="198.86629"
+       cy="157.51454"
+       r="2.0243428"
+       transform="rotate(-2.0930251)" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle7206"
+       cx="172.49638"
+       cy="106.39198"
+       r="2.0243428" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:13.5241px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+       x="190.41391"
+       y="183.77641"
+       id="text7214"><tspan
+         sodipodi:role="line"
+         id="tspan7212"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+         x="190.41391"
+         y="183.77641">r <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+   id="tspan7210">= 0</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 205.3327,151.77856 6.45472,11.15146"
+       id="path7251"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 198.67062,163.9218 12.8848,-0.0142"
+       id="path7253"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="circle7202"
+       cx="206.06319"
+       cy="171.39291"
+       r="2.0243428"
+       transform="rotate(-2.0930251)" />
+    <rect
+       style="fill:#ceeed2;fill-opacity:1;stroke:#42b773;stroke-width:1;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect17576"
+       width="139.39046"
+       height="15.037975"
+       x="85.753372"
+       y="325.7991" />
+    <rect
+       style="fill:#eee0ce;fill-opacity:1;stroke:#b78242;stroke-width:1;stroke-dasharray:4, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect17578"
+       width="3.4703014"
+       height="69.984383"
+       x="178.87314"
+       y="270.85266" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:13.5241px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+       x="90.384056"
+       y="315.35867"
+       id="text18363"><tspan
+         sodipodi:role="line"
+         id="tspan18361"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Italic';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+         x="90.384056"
+         y="315.35867"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#42b773;fill-opacity:1;stroke-width:0.338104"
+           id="tspan18359"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif Italic'"
+   id="tspan19091">ρ</tspan><tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan19931">wand</tspan>(<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Charter;-inkscape-font-specification:'Charter Italic'"
+   id="tspan19825">θ</tspan>)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:13.5241px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';fill:#b78342;fill-opacity:1;stroke-width:0.338104"
+       x="186.97412"
+       y="271.11234"
+       id="text19986"><tspan
+         sodipodi:role="line"
+         id="tspan19984"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Italic';fill:#b78342;fill-opacity:1;stroke-width:0.338104"
+         x="186.97412"
+         y="271.11234"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#b78342;fill-opacity:1;stroke-width:0.338104"
+           id="tspan19982"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif Italic';fill:#b78342;fill-opacity:1"
+   id="tspan19976">ρ</tspan><tspan
+   style="font-size:65%;baseline-shift:sub;fill:#b78342;fill-opacity:1"
+   id="tspan19978">sync</tspan>(<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Charter;-inkscape-font-specification:'Charter Italic';fill:#b78342;fill-opacity:1"
+   id="tspan19980">θ</tspan>)</tspan></tspan></text>
+  </g>
+</svg>
