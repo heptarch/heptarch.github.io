@@ -104,7 +104,7 @@ function draw() {
     text("r: " + roundPC, 10, 50);
 
     if (mouseIsPressed == true) {
-	let numFireflies = constrain(numFireflies + 10, 0, 1000);
+	numFireflies = constrain(numFireflies + 10, 0, 1000);
         K = 0.05*mouseX/width;
     }
 }
