@@ -1,4 +1,4 @@
-let maxNum = 10000;
+let maxNum = 1000;
 let numFireflies = 100;
 let normK = 0.0;
 let K = 0.0;
@@ -110,13 +110,13 @@ function draw() {
 
 function keyPressed() {
     if (keyCode == RIGHT_ARROW) {
-        numFireflies = constrain(numFireflies + 50, 0, maxNum); // Increase by 10
+        numFireflies = constrain(numFireflies + 10, 0, maxNum); // Increase by 10
         // Add new fireflies if necessary
         while (fireflies.length < numFireflies) {
             fireflies.push(new Firefly());
         }
     } else if (keyCode == LEFT_ARROW) {
-        numFireflies = constrain(numFireflies - 50, 0, maxNum); // Decrease by 10
+        numFireflies = constrain(numFireflies - 10, 0, maxNum); // Decrease by 10
         // Remove excess fireflies if necessary
         fireflies.splice(numFireflies, fireflies.length - numFireflies);
     }
