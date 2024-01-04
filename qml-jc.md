@@ -14,4 +14,7 @@ This the informal home page for Xanadu's quantum machine learning
 journal club.
 Here is the upcoming schedule:
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
