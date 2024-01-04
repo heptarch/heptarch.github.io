@@ -19,9 +19,5 @@ ML, we can see what, if anything, transfers to quantum ML.
 Here is the upcoming schedule:
 
 $$
-\begin{tabular}{ c c c }
- cell1 & cell2 & cell3 \\ 
- cell4 & cell5 & cell6 \\  
- cell7 & cell8 & cell9    
-\end{tabular}
+bla
 $$
