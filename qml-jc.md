@@ -19,5 +19,7 @@ ML, we can see what, if anything, transfers to quantum ML.
 Here is the upcoming schedule:
 
 $$
-bla
+\begin{align}
+\emph{Thursday, Jan 10, 2024} & \quad 
+\end{align}
 $$
