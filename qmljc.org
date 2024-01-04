@@ -11,3 +11,16 @@ $$
 \emph{Thursday, Jan 10, 2024} & \quad 
 \end{align}
 $$
+* COMMENT html export
+#+CREATOR: 
+#+AUTHOR: 
+#+TITLE:
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" ><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> <h1><b>QML journal club</b></h1>
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+INFOJS_OPT:
+#+LATEX_HEADER:
+#+OPTIONS: html-postamble:nil
