@@ -12,3 +12,6 @@ date:  2024-01-05
 
 This the informal home page for Xanadu's quantum machine learning
 journal club.
+Here is the upcoming schedule:
+
+
