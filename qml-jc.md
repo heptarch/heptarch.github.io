@@ -18,8 +18,6 @@ The hope is that, by grokking a physics-informed approach to classical
 ML, we can see what, if anything, transfers to quantum ML.
 Here is the upcoming schedule:
 
-$$
 \begin{align}
 \emph{Thursday, Jan 10, 2024} & \quad 
 \end{align}
-$$
