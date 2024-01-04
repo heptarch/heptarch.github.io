@@ -1,4 +1,12 @@
-
+---
+Layout: qmljc
+mathjax: true
+comments: true
+subtitle: "Xanadu QML journal club"
+title: ""
+categories: 
+date:  2024-01-05
+---
 
 <h1>QML journal club</h1>
 
