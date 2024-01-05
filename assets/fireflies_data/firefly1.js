@@ -104,7 +104,9 @@ function draw() {
     text("r: " + roundPC, 10, 50);
 
     if (mouseIsPressed == true) {
-        K = 0.05*(height - mouseY)/width;
+	if (mouseX > 0 && mouseX < height) {
+            K = 0.05*(height - mouseY)/width;
+	}
     }
 }
 
