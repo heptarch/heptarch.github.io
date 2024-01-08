@@ -18,8 +18,8 @@ The hope is that, by grokking a physics-informed approach to classical
 ML, we can see what, if anything, transfers to quantum ML.
 Here is the upcoming schedule:
 
-| Date         | Material            | Host          | Scribe        |
-|--------------+---------------------+---------------+---------------|
+| Date              | Material            | Host                 | Scribe        |
+|-----------|-------------|--------------|-----------|
 | Jan 11, 2024 | Admin               | David Wakeham | David Wakeham |
 | Jan 18, 2024 | [§0](https://arxiv.org/pdf/2106.10165.pdf) | TBA           | TBA           |
 
