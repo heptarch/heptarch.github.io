@@ -21,7 +21,7 @@ Here is the upcoming schedule:
 | Date         | Material            | Host          | Scribe        |
 |--------------+---------------------+---------------+---------------|
 | Jan 11, 2024 | Admin               | David Wakeham | David Wakeham |
-| Jan 18, 2024 | Initialization ([[https://arxiv.org/pdf/2106.10165.pdf][§0]]) | TBA           | TBA           |
+| Jan 18, 2024 | [§0](https://arxiv.org/pdf/2106.10165.pdf) | TBA           | TBA           |
 
 
 Notes on past meetings can be found in chronological order
