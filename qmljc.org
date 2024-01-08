@@ -2,8 +2,7 @@ This is the informal home page for Xanadu's quantum machine learning
 journal club (QMLJC). We will be working through Dan Roberts and Sho
 Yaida's textbook, [[https://deeplearningtheory.com/][/The Principles of Deep Learning Theory/]].
 The hope is that a physics-informed approach to classical
-deep learning will be most suitable for thinking in a rigorus way
-about quantum deep learning.
+deep learning may teach us things about quantum machine learning.
 Here is the upcoming schedule:
 
 | Date         | Material            | Host          | Scribe        |
