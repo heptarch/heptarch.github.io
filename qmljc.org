@@ -1,0 +1,35 @@
+This is the informal home page for Xanadu's quantum machine learning
+journal club (QMLJC). We will be working through Dan Roberts and Sho
+Yaida's textbook, [[https://deeplearningtheory.com/][/The Principles of Deep Learning Theory/]].
+The hope is that a physics-informed approach to classical
+deep learning will be most suitable for thinking in a rigorus way
+about quantum deep learning.
+Here is the upcoming schedule:
+
+| Date         | Material            | Host          | Scribe        |
+|--------------+---------------------+---------------+---------------|
+| Jan 11, 2024 | Admin               | David Wakeham | David Wakeham |
+| Jan 18, 2024 | Initialization ([[https://arxiv.org/pdf/2106.10165.pdf][§0]]) | TBA           | TBA           |
+
+
+Notes on past meetings can be found in chronological order
+below.
+
+* Admin
+Bla bla bla
+* References
+1. [[https://deeplearningtheory.com/][/The Principles of Deep Learning Theory/]] (2021), Daniel Roberts and
+   Sho Yaida.
+* COMMENT html export
+#+CREATOR: 
+#+AUTHOR: 
+#+TITLE:
+#+HTML_CONTAINER: div
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style2.css" ><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> <h1><b>QML journal club</b></h1>
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+INFOJS_OPT:
+#+LATEX_HEADER:
+#+OPTIONS: html-postamble:nil
