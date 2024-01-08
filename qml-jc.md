@@ -1,5 +1,5 @@
 ---
-Layout: qmljc
+Layout: default
 mathjax: true
 comments: true
 subtitle: "Xanadu QML journal club"
@@ -7,6 +7,8 @@ title: ""
 categories: 
 date:  2024-01-05
 ---
+
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style2.css" />
 
 # QML journal club
 
