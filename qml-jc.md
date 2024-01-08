@@ -1,5 +1,5 @@
 ---
-Layout: default
+Layout: 
 mathjax: true
 comments: true
 subtitle: "Xanadu QML journal club"
