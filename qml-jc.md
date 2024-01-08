@@ -8,7 +8,7 @@ categories:
 date:  2024-01-05
 ---
 
-<h1>QML journal club</h1>
+# QML journal club
 
 This is the informal home page for Xanadu's quantum machine learning
 journal club (QMLJC).
