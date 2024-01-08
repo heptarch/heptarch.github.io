@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="70.492172mm"
-   height="33.043736mm"
-   viewBox="0 0 70.492165 33.043735"
+   width="70.504028mm"
+   height="33.023815mm"
+   viewBox="0 0 70.504021 33.023815"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4748046"
-     inkscape:cx="-2.7122237"
-     inkscape:cy="-95.944915"
+     inkscape:cx="8.1366712"
+     inkscape:cy="-110.86215"
      inkscape:window-width="1946"
      inkscape:window-height="1327"
      inkscape:window-x="0"
@@ -624,8 +624,30 @@
          y="555.66846"
          id="tspan3369">butterfly</tspan></text><path
        style="fill:#255c62;fill-opacity:1;stroke:#489cc9;stroke-width:0.427026;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 68.441928,540.63156 c 2.124897,-0.86858 5.474489,1.48421 3.723728,3.72716 -1.311864,2.0257 -5.540098,1.23435 -5.19856,-1.4256 0.195821,-0.91829 0.880263,-1.61752 1.474832,-2.30156 z"
+       d="m 68.441928,540.99036 c 2.124897,-0.86858 5.474489,1.48421 3.723728,3.72716 -1.311864,2.0257 -5.540098,1.23435 -5.19856,-1.4256 0.195821,-0.91829 0.880263,-1.61752 1.474832,-2.30156 z"
        id="path8462" /><path
        style="fill:#255c62;fill-opacity:1;stroke:#489cc9;stroke-width:0.436927;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 136.25386,544.48162 c -0.25259,3.34124 1.61178,6.76252 0.25406,10.02735 -1.61114,2.39247 -4.99535,2.97834 -7.83935,3.78157 -2.26211,1.29221 -4.78506,3.07497 -7.63199,1.50954 -3.41617,-1.63655 -7.01842,-3.36091 -9.05773,-6.32924 -0.92575,-3.24741 -4.47463,-5.38705 -5.69661,-8.49255 -0.34493,-2.59772 3.67492,-3.42375 4.56559,-5.70088 1.05081,-1.99026 0.93234,-5.46643 4.55898,-5.37161 2.82467,0.58251 5.90736,-0.68892 8.53029,0.77551 2.77927,1.32608 4.43011,3.63546 7.70567,4.15184 1.88375,1.16047 6.09447,3.5356 4.61109,5.64847 z"
-       id="path8464" /></g></svg>
+       d="m 136.25386,544.48162 c -0.37741,3.67531 2.47559,8.36508 -0.90243,11.24173 -2.83436,2.10073 -6.60106,2.02817 -9.47072,4.0813 -2.7135,1.52025 -5.39759,-0.25434 -7.79924,-1.46788 -2.86335,-1.43675 -5.6997,-3.45082 -6.848,-6.57011 -1.26983,-2.78518 -6.01909,-5.08325 -4.46,-8.5107 2.10879,-1.90865 4.69836,-3.52575 5.05855,-6.66764 0.84721,-3.47101 4.72006,-2.47055 7.3401,-2.55664 2.59116,-0.46053 5.13691,0.48865 7.14015,2.11336 1.86471,1.73357 4.36234,2.27653 6.49078,3.43395 1.62417,0.98796 4.43186,2.61304 3.45081,4.90263 z"
+       id="path8464" /><text
+       xml:space="preserve"
+       style="font-style:italic;font-size:10.2014px;line-height:0.85;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';text-align:center;text-anchor:middle;fill:#489cc9;fill-opacity:1;stroke-width:0.255037"
+       x="117.97196"
+       y="575.01385"
+       id="text13324"
+       transform="scale(1.045568,0.95641795)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-align:center;text-anchor:middle;fill:#489cc9;fill-opacity:1;stroke-width:0.255037"
+         x="117.97196"
+         y="575.01385"
+         id="tspan13322">BIG</tspan></text><text
+       xml:space="preserve"
+       style="font-style:italic;font-size:1.6882px;line-height:0.85;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET Italic';text-align:center;text-anchor:middle;fill:#489cc9;fill-opacity:1;stroke-width:0.0422053"
+       x="67.030342"
+       y="567.98151"
+       id="text15506"
+       transform="scale(1.045568,0.95641795)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-align:center;text-anchor:middle;fill:#489cc9;fill-opacity:1;stroke-width:0.0422053"
+         x="67.030342"
+         y="567.98151"
+         id="tspan15504">little</tspan></text></g></svg>
