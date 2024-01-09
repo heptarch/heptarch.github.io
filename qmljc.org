@@ -1,3 +1,5 @@
+--------
+
 This is the home page for Xanadu's quantum machine learning
 journal club (QMLJC). We will be working through a textbook (or
 textbooks) on classical ML in the hopes it will enhance our expertise
