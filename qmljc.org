@@ -1,24 +1,20 @@
-This is the informal home page for Xanadu's quantum machine learning
-journal club (QMLJC). We will be working through Dan Roberts and Sho
-Yaida's textbook, [[https://deeplearningtheory.com/][/The Principles of Deep Learning Theory/]].
-The hope is that a physics-informed approach to classical
-deep learning may offer new perspectives on quantum machine learning.
-Here is the schedule:
+This is the home page for Xanadu's quantum machine learning
+journal club (QMLJC). We will be working through (a subset of) a
+textbook on classical ML in the hopes it will enhance our expertise in
+QML, and offer new insights.
 
-| Date         | Material            | Host          | Scribe        |
-|--------------+---------------------+---------------+---------------|
-| Jan 11, 2024 | [[Admin][Admin]]    | David Wakeham | David Wakeham |
-| Jan 18, 2024 | [[https://arxiv.org/pdf/2106.10165.pdf][§0]] (Initialization) | TBA           | TBA           |
+#+ATTR_HTML: :alt ML image :align center :width 400px :style display:inline;margin:-20px;
+[[./img/qml/ML.png]]
 
+Here is the schedule (to be populated):
 
-Notes on past meetings can be found in chronological order
+| Date        | Material | Host | Scribe |
+|-------------+----------+------+--------|
+| Jan 9, 2024 | Admin?   | N/A  | N/A    |
+
+Notes on past meetings will be recorded chronological order
 below.
 
-* <<Admin>> Admin
-Bla bla bla
-* References
-1. [[https://deeplearningtheory.com/][/The Principles of Deep Learning Theory/]] (2021), Daniel Roberts and
-   Sho Yaida.
 * COMMENT html export
 #+CREATOR: 
 #+AUTHOR: 
