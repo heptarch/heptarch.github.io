@@ -2,8 +2,9 @@
 
 This is the home page for Xanadu's quantum machine learning
 journal club (QMLJC). We will be working through a textbook (or
-textbooks) on classical ML in the hopes it will enhance our expertise
-in QML, and offer new insights.
+textbooks) on classical ML in the hopes it will contribute to our
+expertise in QML, offer new insights, and generally enhance our
+quality of life.
 
 #+ATTR_HTML: :alt ML image :align center :width 400px :style display:inline;margin:-20px;
 [[./img/qml/ML.png]]
