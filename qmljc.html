@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-01-12 Fri 09:49 -->
+<!-- 2024-01-12 Fri 10:39 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -143,7 +143,8 @@ for the JavaScript code in this tag.
 <div id="text-table-of-contents">
 <ul>
 <li><a href="#sec-1">1. Admin</a></li>
-<li><a href="#sec-2">2. References</a></li>
+<li><a href="#sec-2">2. Overview of supervised learning</a></li>
+<li><a href="#sec-3">3. References</a></li>
 </ul>
 </div>
 </div>
@@ -183,21 +184,21 @@ Here is the schedule (to be populated):
 <tr>
 <th scope="col" class="left">Date</th>
 <th scope="col" class="left">Material</th>
-<th scope="col" class="left">Host</th>
+<th scope="col" class="left">Guide</th>
 <th scope="col" class="left">Scribe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td class="left">Jan 9, 2024</td>
-<td class="left"><a href="#Admin">Admin</a></td>
+<td class="left"><a href="#week0">Jan 9</a>, 2024</td>
+<td class="left">Admin, SVM: week1§1.1-2</td>
 <td class="left">David Wakeham</td>
 <td class="left">David Wakeham</td>
 </tr>
 
 <tr>
-<td class="left">Jan 16, 2024</td>
-<td class="left"><a href="#ESL">ESL</a>, §2.1-2.4</td>
+<td class="left"><a href="#week1">Jan 16</a>, 2024</td>
+<td class="left">ESL: §2.1-2.4</td>
 <td class="left">TBA</td>
 <td class="left">TBA</td>
 </tr>
@@ -205,30 +206,78 @@ Here is the schedule (to be populated):
 </table>
 
 <p>
-Notes on past meetings will be recorded chronological order
-below.
+Notes on past meetings are in chronological order below.
 </p>
 
 <div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1"><span class="section-number-2">1</span> <a id="Admin" name="Admin"></a> Admin</h2>
+<h2 id="sec-1"><span class="section-number-2">1</span> <a id="week0" name="week0"></a> Admin</h2>
+<div class="outline-text-2" id="text-1">
+<hr  />
+
+<p>
+<b>Reading</b>: None.
+</p>
+
+<p>
+Based on popular accord, we'll be focusing on the classical
+statistical approach to ML embodied in <a href="https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf"><i>Elements of Statistical Learning</i></a>, and the
+effective field theory paradigm of <a href="https://arxiv.org/pdf/2106.10165.pdf"><i>The Principles of Deep
+Learning</i></a>. These are like the out-of-field examiner and the scary
+departmental theorist at your viva. These foci will not stop us from being
+eclectic, and dipping into resources on <a href="https://arxiv.org/pdf/2104.13478.pdf"><i>Geometric Deep Learning</i></a>,
+<a href="https://pzs.dstu.dp.ua/DataMining/svm/bibl/Support_Vector.pdf"><i>Support Vector Machines</i></a> or <a href="https://www.deeplearningbook.org/"><i>Deep Learning</i></a> proper, as time, interest, and chunking limits permit.
+</p>
+
+<p>
+Each week we will have designated reading, optional readings (in
+parentheses in the schedule), and a guide or guides who have agreed (or been
+voluntold) to talk us through the readings. There will
+also be a scribe to take notes
+(<a href="https://orgmode.org/worg/org-syntax.html"><code>org mode</code></a> preferred, but anything <a href="https://pandoc.org/"><code>Pandoc</code></a> can handle is
+acceptable).
+</p>
+
+<p>
+Finally, to ensure it is not only the machines learning, we will try
+to do a healthy number of homework problems. The precise number and
+assignment mechanism will be determined collaboratively.
+</p>
 </div>
+</div>
+
 <div id="outline-container-sec-2" class="outline-2">
-<h2 id="sec-2"><span class="section-number-2">2</span> References</h2>
+<h2 id="sec-2"><span class="section-number-2">2</span> <a id="week1" name="week1"></a> Overview of supervised learning</h2>
 <div class="outline-text-2" id="text-2">
+<hr  />
+
+<p>
+<b>Reading</b>: <a href="#SVM">SVM</a>: §1.1-2; <a href="#ESL">ESL</a>: §2.1-2.4.
+</p>
+
+<p>
+This page is intentionally left blank.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> References</h2>
+<div class="outline-text-2" id="text-3">
+<hr  />
 <ol class="org-ol">
-<li><a id="PDL" name="PDL"></a> <a href="https://arxiv.org/pdf/2106.10165.pdf"><i>The Principles of Deep Learning</i></a> (2021), Roberts and 
-Yaida. [PDL]
-</li>
-<li><a id="DLB" name="DLB"></a> <a href="https://www.deeplearningbook.org/"><i>Deep Learning</i></a> (2015), Aaron Courville, Ian Goodfellow,
-and Yoshua Bengio. [DLB]
-</li>
-<li><a id="SVM" name="SVM"></a> <a href="https://pzs.dstu.dp.ua/DataMining/svm/bibl/Support_Vector.pdf"><i>Support Vector Machines</i></a> (2008), Steinwart and Christmann. [SVM]
-</li>
 <li><a id="ESL" name="ESL"></a> <a href="https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf"><i>Elements of Statistical Learning</i></a> (2008), Hastie, 
 Tibshirani and Friedman. [ESL]
 </li>
+<li><a id="PDL" name="PDL"></a> <a href="https://arxiv.org/pdf/2106.10165.pdf"><i>The Principles of Deep Learning</i></a> (2021), Roberts and 
+Yaida. [PDL]
+</li>
 <li><a id="GDL" name="GDL"></a> <a href="https://arxiv.org/pdf/2104.13478.pdf"><i>Geometric Deep Learning</i></a> (2021), Bronstein, Bruna,
 Cohen, and Veličković. [GDL]
+</li>
+<li><a id="SVM" name="SVM"></a> <a href="https://pzs.dstu.dp.ua/DataMining/svm/bibl/Support_Vector.pdf"><i>Support Vector Machines</i></a> (2008), Steinwart and Christmann. [SVM]
+</li>
+<li><a id="DLB" name="DLB"></a> <a href="https://www.deeplearningbook.org/"><i>Deep Learning</i></a> (2015), Aaron Courville, Ian Goodfellow,
+and Yoshua Bengio. [DLB]
 </li>
 </ol>
 </div>
