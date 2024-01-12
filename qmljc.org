@@ -14,7 +14,7 @@ Here is the schedule (to be populated):
 | Date         | Material | Host          | Scribe        |
 |--------------+----------+---------------+---------------|
 | Jan 9, 2024  | [[Admin][Admin]]    | David Wakeham | David Wakeham |
-| Jan 16, 2024 | [[PDL][PDL]], §0 | TBA           | TBA           |
+| Jan 16, 2024 | [[ESL][ESL]], §2.1-2.4 | TBA           | TBA           |
 
 Notes on past meetings will be recorded chronological order
 below.
@@ -23,10 +23,12 @@ below.
 * References
 1. <<PDL>> [[https://arxiv.org/pdf/2106.10165.pdf][/The Principles of Deep Learning/]] (2021), Roberts and 
    Yaida. [PDL]
-2. <<SVM>> [[https://pzs.dstu.dp.ua/DataMining/svm/bibl/Support_Vector.pdf][/Support Vector Machines/]] (2008), Steinwart and Christmann. [SVM]
-3. <<ESL>> [[https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf][/Elements of Statistical Learning/]] (2008), Hastie, 
+2. <<DLB>> [[https://www.deeplearningbook.org/][/Deep Learning/]] (2015), Aaron Courville, Ian Goodfellow,
+   and Yoshua Bengio. [DLB]
+3. <<SVM>> [[https://pzs.dstu.dp.ua/DataMining/svm/bibl/Support_Vector.pdf][/Support Vector Machines/]] (2008), Steinwart and Christmann. [SVM]
+4. <<ESL>> [[https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf][/Elements of Statistical Learning/]] (2008), Hastie, 
    Tibshirani and Friedman. [ESL]
-4. <<GDL>> [[https://arxiv.org/pdf/2104.13478.pdf][/Geometric Deep Learning/]] (2021), Bronstein, Bruna,
+5. <<GDL>> [[https://arxiv.org/pdf/2104.13478.pdf][/Geometric Deep Learning/]] (2021), Bronstein, Bruna,
    Cohen, and Veličković. [GDL]
 * COMMENT html export
 #+CREATOR: 
