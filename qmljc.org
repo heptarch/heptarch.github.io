@@ -13,7 +13,7 @@ Here is the schedule (to be populated):
 
 | Date         | Material                | Guide         | Scribe        |
 |--------------+-------------------------+---------------+---------------|
-| [[week0][Jan 9]], 2024  | Admin, SVM: week1§1.1-2 | David Wakeham | David Wakeham |
+| [[week0][Jan 9]], 2024  | Admin, SVM: §1.1-2      | David Wakeham | David Wakeham |
 | [[week1][Jan 16]], 2024 | ESL: §2.1-2.4           | TBA           | TBA           |
 |--------------+-------------------------+---------------+---------------|
 
