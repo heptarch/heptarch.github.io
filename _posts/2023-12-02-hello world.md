@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-subtitle: "Hello world."
+short: "hello"
 title: "Hello world"
 categories: []
 date:  2023-12-02
