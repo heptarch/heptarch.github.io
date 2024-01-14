@@ -3,7 +3,7 @@ Layout: post
 mathjax: true
 comments: true
 subtitle: "Hello world."
-title: "Hello world."
+title: "Hello world"
 categories: []
 date:  2023-12-02
 ---
