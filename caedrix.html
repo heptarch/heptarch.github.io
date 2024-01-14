@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>caedrix</title>
+    <style>
+        body {
+            background-color: #17171cff; /* Dark grey background */
+            font-family: 'Overpass', sans-serif;
+            color: #D1D1D1; /* Muted white text color for contrast */
+            font-size: 11pt;
+}
+
+        body a {
+            color: #6a667cff; /* Muted white text color for contrast */
+}
+
+        body a:hover {
+            color: #9d9aacff; /* Muted white text color for contrast */
+         }
+
+        header {
+            background-color: #17171cff; /* Slightly darker grey for the header */
+            text-align: center;
+            padding: 40px 0 15px 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+           font-family: 'Forum', serif;
+        }
+
+        header .logo {
+            font-size: 28px;
+            font-weight: bold;
+            display: inline-block;
+            vertical-align: bottom;
+            margin-left: 0;
+            }
+
+        header .logo a {
+            text-decoration: none;
+            color: #D1D1D1;
+          }
+
+        nav {
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 420px;
+            font-family: 'Overpass', sans-serif;
+            font-variant: small-caps;
+            font-size: 14pt;
+           }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #D1D1D1;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #FFFFFF;
+        }
+
+       h1, h2, h3, h4, h5, h6 {
+          font-family: 'Forum', serif;
+       }
+
+        .main-artwork {
+            display: flex;
+            justify-content: center;
+            padding: 80px 0 -0px; /* Increased top padding to account
+for fixed header */
+            filter: grayscale(40%);
+border-radius: 5px;
+            transition: filter 1s;
+}
+
+        .main-artwork:hover {
+             filter: grayscale(0%);
+            transition: filter 0.5s;
+         }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            background-color: #18171cff; /* Slightly darker grey for the header */
+         }
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(162px, 1fr)); /* This creates a responsive grid with columns that are at least 200px wide */
+    gap: 20px; /* Space between grid items */
+    padding: 40px 0; /* Space above and below the grid */
+    margin: 0 auto; /* Center the grid horizontally */
+    max-width: 890px; /* Maximum width of the grid */
+}
+
+.project img {
+    width: 100%; /* Make images fill the width of the .project div */
+    height: auto; /* Maintain the original aspect ratio */
+    border-radius: 3px; /* Optional: Add rounded corners to the
+thumbnails */
+filter: grayscale(80%);
+            transition: filter 1s;
+}
+
+.project img:hover {
+            filter: grayscale(10%);
+            transition: filter 0.5s;
+}
+
+.project-title {
+text-align: right;
+            font-variant: small-caps;
+    margin-bottom: 10px; /* Space above the project title */
+    font-size: 21px;
+    font-family: 'Overpass', sans-serif;
+}
+
+.project-description {
+text-align: left;
+    margin-top: 10px; /* Space above the project title */
+    font-size: 15px;
+font-family: 'Rubik', sans-serif;
+}
+
+p {
+    margin-left: 16.65rem;
+    margin-bottom: 2.0rem;
+    margin-top: -0.9rem;
+vertical-align: baseline;
+font-size: 15px;
+    color:#41414fff;
+    font-family: 'Rubik', sans-serif;
+    width: 62%;
+}
+
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Forum&family=Nunito:ital,wght@0,400;0,700;1,400;1,700&family=Overpass:ital,wght@0,200;0,400;0,700;1,400;1,700&family=Rubik:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <div class="logo"><a href="caedrix.html">caedrix.ai</a></div>
+        <nav>
+            <a href="blog.html">blog</a>
+	<a href="#writing">writing</a>
+            <a href="#art">art</a>
+	<a href="#videos">videos</a>
+	<a href="#about">about</a>
+	</nav>
+	</header>
+
+    <div id="home" class="main-artwork">
+        <img src="pics/cryptid1.png" alt="Main AI Artwork" width= "890px">
+    </div>
+    
+<div class="projects-grid">
+    
+    <!-- Project 2 -->
+    <div class="project">
+        <div class="project-title">invisible authors</div>
+	<img src="pics/thumbnail-authors.png" alt="Project 2">
+          <div class="project-description">How to automate Italo
+    Calvino. <a href="#authors">Read more.</a></div>
+    </div>
+    
+    <!-- Project 3 -->
+    <div class="project">
+        <div class="project-title">weirdspace</div>
+	<img src="pics/thumbnail-feuilleton.png" alt="Project 3">
+          <div class="project-description">neiric workspace. <a
+    href="#hymns">Read more.</a></div>
+    </div>
+
+<div class="project">
+          <div class="project-title">tranceformer</div>
+	  <img src="pics/thumbnail-trance1.jpeg" alt="Project 1">
+          <div class="project-description">What if an AI could dream? <a
+          href="#trance">Read more.</a></div>
+	  </div>
+	  
+	  </div>
+	  
+</body>
+</html>

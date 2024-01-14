@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>caedrix.blog</title>
+    <style>
+        body {
+            background-color: #17171cff; /* Dark grey background */
+font-family: 'Overpass', sans-serif;
+            color: #D1D1D1; /* Muted white text color for contrast */
+            font-size: 11pt;
+}
+
+        body a {
+            color: #6a667cff; /* Muted white text color for contrast */
+}
+
+        body a:hover {
+            color: #9d9aacff; /* Muted white text color for contrast */
+         }
+
+        header {
+            background-color: #17171cff; /* Slightly darker grey for the header */
+            text-align: center;
+            padding: 40px 0 15px 0;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+           font-family: 'Forum', serif;
+        }
+
+        header .logo {
+            font-size: 28px;
+            font-weight: bold;
+            display: inline-block;
+            vertical-align: bottom;
+            margin-left: -398pt;
+            }
+
+        header .logo a {
+            text-decoration: none;
+            color: #D1D1D1;
+          }
+
+        nav {
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 420px;
+            font-family: 'Overpass', sans-serif;
+            font-variant: small-caps;
+            font-size: 14pt;
+           }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #D1D1D1;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #FFFFFF;
+        }
+
+       h1, h2, h3, h4, h5, h6 {
+          font-family: 'Forum', serif;
+       }
+
+        .main-artwork {
+            display: flex;
+            justify-content: center;
+            padding: 80px 0 -0px; /* Increased top padding to account
+for fixed header */
+            filter: grayscale(80%);
+        }
+
+        .main-artwork:hover {
+            filter: grayscale(0%);
+            transition: filter 1s;
+         }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+            background-color: #18171cff; /* Slightly darker grey for the header */
+         }
+
+
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(162px, 1fr)); /* This creates a responsive grid with columns that are at least 200px wide */
+    gap: 20px; /* Space between grid items */
+    padding: 100px 0; /* Space above and below the grid */
+    margin: 0 38px; /* Center the grid horizontally */
+    max-width: 890px; /* Maximum width of the grid */
+}
+
+.blog img {
+    width: 100%; /* Make images fill the width of the .project div */
+    height: auto; /* Maintain the original aspect ratio */
+    border-radius: 3px; /* Optional: Add rounded corners to the
+thumbnails */
+filter: grayscale(80%);
+            transition: filter 1s;
+}
+
+.blog img:hover {
+            filter: grayscale(10%);
+            transition: filter 0.5s;
+}
+
+.blog-title {
+text-align: right;
+            font-variant: small-caps;
+    margin-bottom: 10px; /* Space above the project title */
+    font-size: 21px;
+    font-family: 'Overpass', sans-serif;
+}
+
+.blog-description {
+text-align: left;
+    margin-top: 10px; /* Space above the project title */
+    font-size: 15px;
+font-family: 'Rubik', sans-serif;
+}
+
+p {
+    margin-top: 1.4rem;
+    margin-bottom: 1.4rem;
+    padding-right: 0;
+    vertical-align: baseline;
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+}
+</style>
+<link rel="stylesheet" href="blog-style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Forum&family=Nunito:ital,wght@0,400;0,700;1,400;1,700&family=Overpass:ital,wght@0,200;0,400;0,700;1,400;1,700&family=Rubik:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
+
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+</script>
+
+</head>
+<body>
+
+    <header>
+        <div class="logo"><a href="caedrix.html">caedrix.ai</a></div>
+        <nav>
+            <a href="blog.html">blog</a>
+	<a href="#writing">writing</a>
+            <a href="#art">art</a>
+	<a href="#videos">videos</a>
+	<a href="#about">about</a>
+	</nav>
+    </header>
+	
+<div class="blog-grid">
+    
+    <!-- Project 2 -->
+    <div class="blog">
+        <div class="blog-title">hello world</div>
+	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
+          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
+	  </div>
+
+    <!-- Project 2 -->
+    <div class="blog">
+        <div class="blog-title">hello world</div>
+	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
+          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
+	  </div>
+
+    <!-- Project 2 -->
+    <div class="blog">
+        <div class="blog-title">hello world</div>
+	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
+          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
+	  </div>
+
+    <!-- Project 2 -->
+    <div class="blog">
+        <div class="blog-title">hello world</div>
+	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
+          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
+	  </div>
+
+    <!-- Project 2 -->
+    <div class="blog">
+        <div class="blog-title">hello world</div>
+	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
+          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
+    </div>
+	  
+	  </div>
+	
+</body>
+</html>
