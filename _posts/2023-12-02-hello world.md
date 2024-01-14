@@ -35,15 +35,7 @@ this world is to do everything we can to foster it. <br>
 I'm David. My [old site](https://hapax.github.io/) got a bit
 cluttered, so I decided to pick up stumps and move to a new one.
 I like patterns.
-KSR articulates, more clearly than I ever could,<label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
-	   <span class="sidenote">
-	   That is not for lack of <a href="https://heptarch.github.io/assets/reality/">trying</a>.
-	   </span>
+KSR articulates, more clearly than I ever could,
 how patterns connect us, by use, mention, and that pun from one to the
 other that is science, to the rest of the universe.
 I think *viriditas* extends well beyond science, but the goal of this
