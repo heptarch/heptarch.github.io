@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 𝔞𝔯𝔱
+title: "Art"
 permalink: /art/
 ---
 
