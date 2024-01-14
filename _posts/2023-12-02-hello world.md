@@ -43,7 +43,7 @@ site is to focus on scientific ways of understanding—particularly the hard sci
 of math, physics, and computerology—and to try to make them accessible to a
 broader audience.
 
-I'll be revealing more about various projects as they develop. A few I'm
+I'll reveal more about various projects as they develop, but a few I'm
 excited about:
 - a book;
 - a YouTube channel;
@@ -54,4 +54,4 @@ excited about:
 I offer no timelines because I am busy, lazy, and a perfectionist, in
 no particular order. Meanwhile, I hope to resume blogging about the
 gewgaws I find littering the hills and meadows of pattern
-space. Hope you can join me!
+space. Feel free to join me!
