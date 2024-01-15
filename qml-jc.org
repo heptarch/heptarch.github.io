@@ -10,18 +10,19 @@ offer new insights or research approaches, and generally enhance our quality of 
 
 Here is the schedule (to be populated):
 
-| Date         | Material                | Guide         | Scribe        |
-|--------------+-------------------------+---------------+---------------|
-| [[week0][Jan 9]], 2024  | Admin, SVM: §1.1-2      | David Wakeham | David Wakeham |
-| [[week1][Jan 16]], 2024 | ESL: §2.1-2.4           | TBA           | TBA           |
-|--------------+-------------------------+---------------+---------------|
+| Date         | Material      | Guide         | Scribe        |
+|--------------+---------------+---------------+---------------|
+| [[week0][Jan 9]], 2024  | Admin         | David Wakeham | David Wakeham |
+| [[week1][Jan 16]], 2024 | ESL: §2.1-2.4 | TBA           | TBA           |
+|              | (SVM: §1.1-2) |               |               |
+|--------------+---------------+---------------+---------------|
 
 Notes on past meetings are in chronological order below.
 
 * <<week0>> Admin
 -----
 
-*Reading*: None.
+*Reading*: None. *Homework*: None.
 
 Based on popular accord, we'll be focusing on the classical
 statistical approach to ML embodied in [[https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf][/Elements of Statistical Learning/]], and the
@@ -34,9 +35,7 @@ eclectic, and dipping into resources on [[https://arxiv.org/pdf/2104.13478.pdf][
 Each week we will have designated reading, optional readings (in
 parentheses in the schedule), and a guide or guides who have agreed (or been
 voluntold) to talk us through the readings. There will
-also be a scribe to take notes
-([[https://orgmode.org/worg/org-syntax.html][~org mode~]] preferred, but anything [[https://pandoc.org/][~Pandoc~]] can handle is
-acceptable).
+also be a scribe to take notes (in [[https://orgmode.org/worg/org-syntax.html][~org mode~]] or anything else [[https://pandoc.org/][~Pandoc~]] can handle).
 
 Finally, to ensure it is not only the machines learning, we will try
 to do a healthy number of homework problems. The precise number and
@@ -45,9 +44,7 @@ assignment mechanism will be determined collaboratively.
 * <<week1>> Overview of supervised learning
 -----
 
-*Reading*: [[SVM][SVM]]: §1.1-2; [[ESL][ESL]]: §2.1-2.4.
-
-This page is intentionally left blank.
+*Reading*: [[SVM][SVM]]: §1.1-2; [[ESL][ESL]]: §2.1-2.4. *Homework*: TBA.
 
 * References
 -----
