@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.4832755"
-     inkscape:cx="466.92362"
-     inkscape:cy="169.13145"
+     inkscape:cx="230.54228"
+     inkscape:cy="124.83512"
      inkscape:window-width="1312"
      inkscape:window-height="828"
      inkscape:window-x="758"
@@ -298,5 +298,37 @@
          inkscape:transform-center-x="-0.21179178"
          inkscape:transform-center-y="-0.031099501" />
     </g>
+    <path
+       style="opacity:1;fill:#b68bc3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 81.696689,91.095422 -6.290842,2.044017 v 6.614586 l 6.290842,-2.04402 z"
+       id="path39510" />
+    <path
+       style="opacity:1;fill:#b68bc3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 81.696689,91.095422 -6.290842,2.044017 -3.887954,-5.351309 6.290842,-2.04402 z"
+       id="path39512" />
+    <path
+       style="opacity:1;fill:#b68bc3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 85.584643,85.74411 -3.887954,5.351312 6.290842,2.044017 3.887954,-5.351309 z"
+       id="path39514" />
+    <path
+       style="opacity:1;fill:#8b9ec3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 85.584643,85.74411 6.290842,2.04402 -3.887954,-5.351309 -6.290842,-2.04402 z"
+       id="path39518" />
+    <path
+       style="opacity:1;fill:#b68bc3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 81.696689,91.095422 v 6.614583 l 6.290842,2.04402 v -6.614586 l -6.290842,-2.044017 v 0"
+       id="path39589" />
+    <path
+       style="opacity:1;fill:#8b9ec3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 81.696689,80.392801 -3.887954,5.351309 -6.290842,2.04402 3.887954,-5.351309 z"
+       id="path39861" />
+    <path
+       style="opacity:1;fill:#8b9ec3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.875485,87.78813 -3.887954,5.351309 v 6.614586 l 3.887954,-5.351311 V 87.78813"
+       id="path39863" />
+    <path
+       style="opacity:1;fill:#8b9ec3;fill-opacity:1;stroke:#71437d;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 71.517893,87.78813 v 6.614584 l 3.887954,5.351311 V 93.139439 L 71.517893,87.78813"
+       id="path39865" />
   </g>
 </svg>
