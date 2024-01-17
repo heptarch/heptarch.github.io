@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.2416378"
-     inkscape:cx="162.28566"
-     inkscape:cy="66.041806"
+     inkscape:zoom="1.755941"
+     inkscape:cx="107.91935"
+     inkscape:cy="66.061447"
      inkscape:window-width="1312"
      inkscape:window-height="828"
      inkscape:window-x="758"
@@ -41,14 +41,14 @@
      id="layer1"
      transform="translate(-46.221268,-61.492823)">
     <rect
-       style="opacity:1;fill:#cfcfcf;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#a6bba0;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="rect49362"
        width="23.807274"
        height="12.054316"
        x="46.421268"
        y="67.382957" />
     <rect
-       style="opacity:1;fill:#cfcfcf;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#a6bba0;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="rect49374"
        width="23.807274"
        height="12.054316"
@@ -77,7 +77,7 @@
          x="53.596207"
          y="76.033081">H<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.04979px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';baseline-shift:sub;fill:#437d78;fill-opacity:1;stroke-width:0.194223"
-   id="tspan49398">0</tspan></tspan></text>
+   id="tspan49398" /></tspan></text>
     <path
        style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
        d="M 70.392083,73.746512 H 93.619134"
@@ -111,14 +111,14 @@
          x="76.261177"
          y="67.869972">U</tspan></text>
     <rect
-       style="opacity:1;fill:#cfcfcf;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#a6bba0;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="rect50400"
        width="23.807274"
        height="12.054316"
        x="46.421268"
        y="103.82172" />
     <rect
-       style="opacity:1;fill:#cfcfcf;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#a6bba0;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="rect50402"
        width="23.807274"
        height="12.054316"
@@ -262,5 +262,16 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
          x="111.42139"
          y="94.080315">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.30155px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.132539"
+       x="60.56472"
+       y="77.26619"
+       id="text52059"><tspan
+         sodipodi:role="line"
+         id="tspan52057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#437d78;fill-opacity:1;stroke-width:0.132539"
+         x="60.56472"
+         y="77.26619">0</tspan></text>
   </g>
 </svg>
