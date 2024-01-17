@@ -5,9 +5,9 @@
    sodipodi:docname="qecc2.svg"
    id="svg5"
    version="1.1"
-   viewBox="0 0 86.27416 26.164392"
-   height="26.164392mm"
-   width="86.274162mm"
+   viewBox="0 0 83.968557 56.376361"
+   height="56.376362mm"
+   width="83.968559mm"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.87797048"
-     inkscape:cx="210.14374"
-     inkscape:cy="70.617408"
+     inkscape:zoom="1.755941"
+     inkscape:cx="177.39776"
+     inkscape:cy="108.20409"
      inkscape:window-width="1312"
      inkscape:window-height="828"
      inkscape:window-x="758"
-     inkscape:window-y="360"
+     inkscape:window-y="332"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -39,7 +39,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-46.221268,-60.32792)">
+     transform="translate(-45.814656,-60.32792)">
     <rect
        style="opacity:1;fill:#819e78;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="rect49362"
@@ -52,7 +52,7 @@
        id="rect55101"
        width="43.520561"
        height="25.764393"
-       x="88.774872"
+       x="86.062653"
        y="60.52792" />
     <rect
        style="opacity:1;fill:#819e78;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
@@ -134,14 +134,166 @@
          y="77.26619">0</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
-       x="120.65196"
-       y="76.60675"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.68601px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.192151"
+       x="120.57423"
+       y="75.827538"
        id="text55105"><tspan
          sodipodi:role="line"
          id="tspan55103"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.192151"
+         x="120.57423"
+         y="75.827538">H</tspan></text>
+    <rect
+       style="opacity:1;fill:#819e78;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect60245"
+       width="23.807274"
+       height="12.054316"
+       x="46.421268"
+       y="104.44997" />
+    <rect
+       style="opacity:1;fill:#819e78;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect60247"
+       width="23.807274"
+       height="12.054316"
+       x="94.939888"
+       y="104.44997" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="103.32388"
+       y="113.67377"
+       id="text60251"><tspan
+         sodipodi:role="line"
+         id="tspan60249"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
-         x="120.65196"
-         y="76.60675">H</tspan></text>
+         x="103.32388"
+         y="113.67377">C</tspan></text>
+    <path
+       style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.392083,110.81353 H 93.619134"
+       id="path60259" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+       id="path60261"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="174.76917"
+       sodipodi:cy="90.203445"
+       sodipodi:r1="23.78282"
+       sodipodi:r2="11.891409"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 195.36569,102.09486 -41.19305,0 20.59653,-35.674234 z"
+       transform="matrix(0,0.08667255,-0.14636154,0,104.79707,95.656052)"
+       inkscape:transform-center-x="-0.87022221" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="76.562531"
+       y="107.64922"
+       id="text60265"><tspan
+         sodipodi:role="line"
+         id="tspan60263"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+         x="76.562531"
+         y="107.64922">E</tspan></text>
+    <path
+       style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.392083,110.81353 H 93.619134"
+       id="path60267" />
+    <g
+       id="g60282"
+       transform="rotate(90,81.82979,90.914121)">
+      <path
+         style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+         d="M 70.392083,115.3339 H 93.619134"
+         id="path60273" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+         id="path60275"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="174.76917"
+         sodipodi:cy="90.203445"
+         sodipodi:r1="23.78282"
+         sodipodi:r2="11.891409"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 195.36569,102.09486 -41.19305,0 20.59653,-35.674234 z"
+         transform="matrix(0,0.08667255,-0.14636154,0,104.79707,100.17642)"
+         inkscape:transform-center-x="-0.87022221" />
+      <path
+         style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+         d="M 70.392083,115.3339 H 93.619134"
+         id="path60277" />
+    </g>
+    <g
+       id="g60290"
+       transform="matrix(0,-1,-1,0,222.76933,174.65451)">
+      <path
+         style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+         d="M 70.392083,115.3339 H 93.619134"
+         id="path60284" />
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+         id="path60286"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="174.76917"
+         sodipodi:cy="90.203445"
+         sodipodi:r1="23.78282"
+         sodipodi:r2="11.891409"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.5707963"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 195.36569,102.09486 -41.19305,0 20.59653,-35.674234 z"
+         transform="matrix(0,0.08667255,-0.14636154,0,104.79707,100.17642)"
+         inkscape:transform-center-x="-0.87022221" />
+      <path
+         style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+         d="M 70.392083,115.3339 H 93.619134"
+         id="path60288" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="54.202545"
+       y="113.67377"
+       id="text60294"><tspan
+         sodipodi:role="line"
+         id="tspan60292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+         x="54.202545"
+         y="113.67377">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="45.37199"
+       y="94.992195"
+       id="text60338"><tspan
+         sodipodi:role="line"
+         id="tspan60336"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+         x="45.37199"
+         y="94.992195">U</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="110.91733"
+       y="98.156448"
+       id="text60342"><tspan
+         sodipodi:role="line"
+         id="tspan60340"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+         x="110.91733"
+         y="98.156448">R</tspan></text>
   </g>
 </svg>
