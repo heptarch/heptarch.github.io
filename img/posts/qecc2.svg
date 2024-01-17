@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="qecc2.svg"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 86.27416 26.164392"
+   height="26.164392mm"
+   width="86.274162mm"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.87797048"
+     inkscape:cx="210.14374"
+     inkscape:cy="70.617408"
+     inkscape:window-width="1312"
+     inkscape:window-height="828"
+     inkscape:window-x="758"
+     inkscape:window-y="360"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.221268,-60.32792)">
+    <rect
+       style="opacity:1;fill:#a6bba0;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect49362"
+       width="23.807274"
+       height="12.054316"
+       x="46.421268"
+       y="67.382957" />
+    <rect
+       style="opacity:1;fill:#a0b6bb;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect55101"
+       width="43.520561"
+       height="25.764393"
+       x="88.774872"
+       y="60.52792" />
+    <rect
+       style="opacity:1;fill:#a6bba0;fill-opacity:1;stroke:#437d78;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect49374"
+       width="23.807274"
+       height="12.054316"
+       x="94.939888"
+       y="67.382957" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="103.32388"
+       y="76.60675"
+       id="text49380"><tspan
+         sodipodi:role="line"
+         id="tspan49378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+         x="103.32388"
+         y="76.60675">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76891px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.194223"
+       x="53.596207"
+       y="76.033081"
+       id="text49396"><tspan
+         sodipodi:role="line"
+         id="tspan49394"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.194223"
+         x="53.596207"
+         y="76.033081">H<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.04979px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';baseline-shift:sub;fill:#437d78;fill-opacity:1;stroke-width:0.194223"
+   id="tspan49398" /></tspan></text>
+    <path
+       style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.392083,73.746512 H 93.619134"
+       id="path49578" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.7;stroke-dasharray:none;stroke-opacity:1"
+       id="path49632"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="174.76917"
+       sodipodi:cy="90.203445"
+       sodipodi:r1="23.78282"
+       sodipodi:r2="11.891409"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 195.36569,102.09486 -41.19305,0 20.59653,-35.674234 z"
+       transform="matrix(0,0.08667255,-0.14636154,0,104.79707,58.589026)"
+       inkscape:transform-center-x="-0.87022221" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="74.000992"
+       y="70.280838"
+       id="text49649"><tspan
+         sodipodi:role="line"
+         id="tspan49647"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+         x="74.000992"
+         y="70.280838">U</tspan></text>
+    <path
+       style="opacity:1;fill:#437d78;fill-opacity:1;stroke:#437d78;stroke-width:0.684477;stroke-dasharray:none;stroke-opacity:1"
+       d="M 70.392083,73.746512 H 93.619134"
+       id="path50422" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.30155px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.132539"
+       x="60.56472"
+       y="77.26619"
+       id="text52059"><tspan
+         sodipodi:role="line"
+         id="tspan52057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#437d78;fill-opacity:1;stroke-width:0.132539"
+         x="60.56472"
+         y="77.26619">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.44353px;line-height:1.25;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+       x="120.65196"
+       y="76.60675"
+       id="text55105"><tspan
+         sodipodi:role="line"
+         id="tspan55103"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple Chancery';-inkscape-font-specification:'Apple Chancery';fill:#437d78;fill-opacity:1;stroke-width:0.236089"
+         x="120.65196"
+         y="76.60675">H</tspan></text>
+  </g>
+</svg>
