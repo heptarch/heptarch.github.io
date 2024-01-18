@@ -12,11 +12,14 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+      <div class="entry" style="margin: 10px 0px 0px 0px">
+      </div>
+  
       <!-- <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title }}</a></h3> -->
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{post.title }}</a>
 
-      <div class="entry" style="margin: 10px 0px -30px 0px">
+      <div class="entry" style="margin: 10px 0px -35px 0px">
         {{ post.excerpt }}
       </div>
     </article>
