@@ -22,7 +22,7 @@ Notes on past meetings are in chronological order below.
 * <<week0>> Admin
 -----
 
-*Reading*: None. *Homework*: None.
+*Reading*: None.
 
 Based on popular accord, we'll be focusing on the classical
 statistical approach to ML embodied in [[https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf][/Elements of Statistical Learning/]], and the
@@ -35,14 +35,8 @@ eclectic, and dipping into resources on [[https://arxiv.org/pdf/2104.13478.pdf][
 Each week we will have designated reading, optional readings (in
 parentheses in the schedule), and a guide or guides who have agreed (or been
 voluntold) to talk us through the readings. There will
-also be a scribe to take notes (in [[https://orgmode.org/worg/org-syntax.html][~org mode~]] or anything else
-[[https://pandoc.org/][~Pandoc~]] can handle). Notes will be hosted here at
-[[https://heptar.ch/qml-jc][~heptar.ch/qml-jc~]], and maintained by David Wakeham. For any
+also be a scribe to take notes. Notes will be uploaded here. For any
 corrections, email [[mailto:7@heptar.ch][~<7@heptar.ch>~]].
-
-Finally, to ensure it is not only the machines learning, we will try
-to do a healthy number of homework problems. The precise number and
-assignment mechanism will be determined collaboratively.
 
 * COMMENT <<week1>> Overview of supervised learning
 -----
