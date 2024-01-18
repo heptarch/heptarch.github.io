@@ -10,15 +10,15 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <!--<article class="post">-->
 
       <!-- <h3><a href="{{ site.baseurl }}{{ post.url }}">{{post.title }}</a></h3> -->
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{post.title }}</a>
 
-      <div>
+      <div class="entry">
         {{ post.excerpt }}
       </div>
-    </article>
+    <!-- </article> -->
   {% endfor %}
       </div>
