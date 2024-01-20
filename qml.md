@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "qml"
+title:
 permalink: /qml/
 ---
