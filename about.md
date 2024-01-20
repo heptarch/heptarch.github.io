@@ -6,8 +6,6 @@ permalink: /bio/
 
 Interdimensional wizard.
 
-Invoke me at ```7@heptar.ch```.
-
 ---
 
 <a rel="license"
