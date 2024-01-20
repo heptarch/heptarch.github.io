@@ -4,7 +4,9 @@ title:
 permalink: /bio/
 ---
 
-Interdimensional wizard. Contact me at: [7@heptar.ch](mailto:7@heptar.ch).
+Interdimensional wizard.
+
+Contact me at: [```7@heptar.ch```](mailto:7@heptar.ch).
 
 ---
 
