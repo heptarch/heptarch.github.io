@@ -6,7 +6,7 @@ permalink: /bio/
 
 Interdimensional wizard.
 
-Contact me at: [```7@heptar.ch```](mailto:7@heptar.ch).
+Invoke me at: [```7@heptar.ch```](mailto:7@heptar.ch).
 
 ---
 
