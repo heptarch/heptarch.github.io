@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.2416378"
-     inkscape:cx="83.760339"
-     inkscape:cy="76.511848"
+     inkscape:cx="83.760337"
+     inkscape:cy="76.511846"
      inkscape:window-width="1312"
      inkscape:window-height="828"
      inkscape:window-x="758"
-     inkscape:window-y="332"
+     inkscape:window-y="304"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -411,13 +411,13 @@
        cy="-6.8748894"
        r="1.0547526" />
     <circle
-       style="fill:#fcfcfc;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
        id="circle74709"
        cx="86.42263"
        cy="16.405008"
        r="1.0547526" />
     <circle
-       style="fill:#fcfcfc;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
        id="circle74711"
        cx="63.293411"
        cy="16.405008"
@@ -435,25 +435,25 @@
        cy="4.65205"
        r="1.0547526" />
     <circle
-       style="fill:#000000;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
        id="circle74719"
        cx="74.66967"
        cy="27.931948"
        r="1.0547526" />
     <circle
-       style="fill:#fcfcfc;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
        id="circle74721"
        cx="51.540455"
        cy="27.931948"
        r="1.0547526" />
     <circle
-       style="fill:#fcfcfc;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
        id="circle74795"
        cx="60.279835"
        cy="6.0081606"
        r="1.0547526" />
     <circle
-       style="fill:#fcfcfc;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#71437d;stroke-width:0.600001;stroke-dasharray:none;stroke-opacity:1"
        id="circle74797"
        cx="66.382332"
        cy="-0.094336733"
