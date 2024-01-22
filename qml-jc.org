@@ -38,7 +38,7 @@ voluntold) to talk us through the readings. There will
 also be a scribe to take notes. Notes will be uploaded here. For any
 corrections, email [[mailto:7@heptar.ch][~<7@heptar.ch>~]].
 
-* <<week1>> Overview of supervised learning
+* <<week1>> Introduction
 -----
 
 ** Statistical learning theory in brief
@@ -79,13 +79,15 @@ to $y$.
 The /expected loss/ or /risk/ for a given $f: X\to Y$, over the joint
 distribution $P(x, y)$, is
 \[
-\mathcal{R}(f) = \int_{X\times Y} L(x, y, f(x))\, \mathrm{d}P(x, y).
+\mathcal{R}(f) = \int_{X\times Y} L(x, y, f(x))\, \mathrm{d}P(x,
+y). 
 \]
 This is the average loss when we select an infinite number of pairs
-according to $P(x, y)$. The *empirical risk* is the empirical
+according to $P(x, y)$. The /empirical risk/ is the empirical
 approximation using our training pairs,
 \[
-\mathcal{R}_{\mathcal{D}}(f) = \frac{1}{n}\sum_{i=1}^n L(x_{(i)}, y_{(i)}, f(x_{(i)})).
+\mathcal{R}_{\mathcal{D}}(f) = \frac{1}{n}\sum_{i=1}^n L(x_{(i)},
+y_{(i)}, f(x_{(i)})). \tag{2.1} \label{risk}
 \]
 As $n \to \infty$, the law of large numbers implies that
 $\mathcal{R}_{\mathcal{D}} \to \mathcal{R}$, i.e. the empirical risk
@@ -100,8 +102,8 @@ The minimal risk for a given loss function and distribution is
 $\mathcal{D} \mapsto f_{\mathcal{D}}$. The hope is that they
 approximate the minimal risk, $\mathcal{R}(f_{\mathcal{D}}) \approx
 \mathcal{R}^*$, at least as our training set gets asymptotically
-large. More formally, we say a learning method is *universally
-consistent* if
+large. More formally, we say a learning method is /universally
+consistent/ if
 \[
 \lim_{n\to \infty} \mathcal{R}(f_{\mathcal{D}_n}) = \mathcal{R}^*,
 \]
@@ -117,9 +119,9 @@ given speed of convergence (specified by a decreasing sequence), and
 any universally consistent learning method, there is some probability
 distribution which cannot be learned that quickly.
 
-** Linear regression
+** Linear and nonlinear regression
 
-*Reading*: [[ESL][ESL]]: §2.3.1.
+*Reading*: [[ESL][ESL]]: §2.3.
 
 This is quite high concept, so let's dive into some specific methods
 for prediction, which also give us a sense of how statisticians think.
@@ -130,6 +132,7 @@ we have reason to the inputs and outputs are linearly related, we can
 write
 \[
 f(x) = \hat{\beta}_0 + \sum_{j=1}^p x_j\hat{\beta}_j = x^T \hat{\beta}
+\tag{2.2} \label{linmod}
 \]
 where $x_j$ is the $j$-th component of the vector $x$, and in the
 second equation, we have padded out $x$ with a $1$ in the zeroth
@@ -149,11 +152,11 @@ L(x, y, f(x)) = |y - f(x)|^2 = |y - x^T \beta|^2.
 Let $\mathbf{y} = (y_{(i)})^T$ be a column vector of $n$ training
 outputs, and $\mathbf{X} = (x_{(i)}^T)$ an $n\times p$ matrix of
 training inputs.
-The empirical risk can then be written
+The empirical risk $(\ref{risk})$ can then be written
 \[
 \mathcal{R}_{\mathcal{D}}(\beta) = \frac{1}{n}\sum_{i=1}|y_{(i)} -
 x_{(i)}^T\beta|^2 = \frac{1}{n}(\mathbf{y} - \mathbf{X}\beta)^T
-(\mathbf{y} - \mathbf{X}\beta).
+(\mathbf{y} - \mathbf{X}\beta). \tag{2.3} \label{RSS}
 \]
 We can solve this for the optimal $\beta$, simply by differentiating
 with respect to $\beta$:
@@ -172,9 +175,91 @@ solve for $\beta$:
 \mathbf{X}^T\left(\mathbf{X}\beta -\mathbf{y}\right) =
 \mathbf{X}^T\mathbf{X}\beta -\mathbf{X}^T\mathbf{y} = 0 \quad
 \Longrightarrow \quad \hat{\beta} =
-(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T\mathbf{y}.
+(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T\mathbf{y}. \tag{2.4} \label{beta-hat}
 \]
 Again, the hat tells us we will use this as our estimate.
+
+Let's look at an example.
+Below, we have a scatterplot of $100$ simulated data points on a pair
+of inputs, $x = (x_1, x_2)$. The output is a categorical
+binary variable, i.e. $0$ and $1$, indicated by
+$\textcolor{blue}{\texttt{o}}$ and $\textcolor{orange}{\texttt{o}}$ in
+the scatterplot.
+We can fit a linear regression model to the data, with a real variable
+$y$ which gets coded as $0$ when $y \leq 0.5$ and $1$ otherwise. In
+other words, we have a linear decision boundary at $y = x^T\hat{\beta}
+= 0.5$, where $\hat{\beta}$ is given by $(\ref{beta-hat})$.
+#+ATTR_HTML: :alt Linear classifier for random data. image :align center :width 300px :style display:inline;margin:-30px;
+[[./img/qml/esl-intro1.png]]
+
+There are misclassifications, but whether our model is good or bad
+depends strongly on our assumptions about the data. Consider two
+possibilities:
+- The data comes from two independent bivariate Gaussian and different
+  means.
+- The data comes from a mixture of $10$ low-variance Gaussians, with
+  means distributed in a Gaussian fashion.
+
+In the first case, the data is, in fact, optimally described by a
+linear decision boundary (bisecting the means of the component
+Gaussians) but inevitably noisy. In the second case, we have clusters,
+so a linear decision boundary will do poorly on future data.
+Let's turn to a nonlinear method that does better in this second scenario.
+
+/Nearest neighbours/ is a very different approach. The idea is that is
+simply to approximate the value of response variables for a new data
+point by averaging the values of its nearest neighbours in the training data
+$\mathcal{D}$. Let $N_k(x)$ denote the $k$ nearest neighbours of
+$x$. Then our /$k$-nearest-neighbour regressor/ is
+\[
+f(x) = \frac{1}{k}\sum_{x_{(i)} \in N_k(x)} y_{(i)}.
+\tag{2.5} \label{kNN}
+\]
+Closeness will mean in Euclidean distance, but could of course be
+generalized to an arbitrary metric space.
+This is a much less rigid method than linear regression, so when we
+fit our binary-coded data, we get a much wobblier decision boundary
+$f(x) = 0.5$.
+Below, we show $k = 15$:
+#+ATTR_HTML: :alt Nearest neighbors for random data. image :align center :width 300px :style display:inline;margin:-30px;
+[[./img/qml/esl-intro2.png]]
+
+We have fewer misclassifications, but of course, we can easily
+overfit with nearest neighbours. For instance, with $k=1$ there are
+/no/ misclassifications, by definition! So to
+determine the appropriate choice of $k$, we need a test set and a
+method besides minimizing empirical risk.
+Note that to count parameters, we should use $n/k$ (where $n
+= |\mathcal{D}|$) rather than $k$, since this is the number of
+clusters it gloms our data into.
+
+To get test data, we need to open up the data-generating black box.
+The data is generated hierarchically as follows: we have two Gaussian
+distributions of Gaussians, with ten means drawn from
+one distribution (centred at $(1, 0)^T$) and ten from another (centred
+at $(0, 1)^T$), forming our two different classes
+($\textcolor{blue}{\texttt{o}}$ and
+$\textcolor{orange}{\texttt{o}}$). Each mean had a small
+Gaussian centered on it, and from the two classes, Gaussians were chosen at
+random to draw observations from.
+We can see how methods perform on a test set:
+
+#+ATTR_HTML: :alt Misclassification curves. image :align center :width 400px :style display:inline;margin:-30px;
+[[./img/qml/esl-intro3.png]]
+
+The purple line is the optimal Bayes error (to be discussed below).
+The two large squares are the results of linear regression, which has
+three degrees of freedom.
+The curves are results for nearest neighbours, with $n/k$ increasing
+to the right.
+Interestingly, it performs as well as linear regression for the same
+number of parameters, with lower training error.
+
+** COMMENT Statistical learning with square loss
+
+*Reading*: [[ESL][ESL]]: §2.4.
+
+In order to get a better
 
 * References
 -----
