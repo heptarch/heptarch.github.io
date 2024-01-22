@@ -19,7 +19,8 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">Symmetry.</span> Description.
 </div>
-  </summary>
+</summary>
+<p>
  To do.
   </p>
 </details>
