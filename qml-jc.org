@@ -38,10 +38,6 @@ voluntold) to talk us through the readings. There will
 also be a scribe to take notes. Notes will be uploaded here. For any
 corrections, email [[mailto:7@heptar.ch][~<7@heptar.ch>~]].
 
-Finally, please be aware that notation will change as we look at
-different resources. It seems easier to be clear about this changes,
-and locally consistent, than to try and make everything uniform.
-
 * <<week1>> Overview of supervised learning
 -----
 
