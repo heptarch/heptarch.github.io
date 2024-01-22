@@ -1,7 +1,7 @@
 --------
 
 This is the home page for Xanadu's quantum machine learning
-journal club. We will be working through an idiosyncratic syllbaus on
+journal club. We will be working through an idiosyncratic syllabus on
 classical ML, in the hopes it will contribute to our expertise in QML,
 offer new insights or research approaches, and generally enhance our quality of life.
 
