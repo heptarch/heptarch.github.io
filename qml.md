@@ -11,7 +11,7 @@ symmetry. I also run our [QML journal club](https://heptar.ch/qml-jc).
 
 Here's a rundown of various QML-flavored projects I'm working on:
 
-<div style="background-color: #16171c ; padding: 20px 20px 20px 20px; border: 0px solid
+<div style="background-color: #16171c ; padding: 0px; border: 0px solid
 grey; line-height:1.5">
 <details>
   <summary>
