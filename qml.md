@@ -15,7 +15,7 @@ Here's a rundown of various QML-flavored projects I'm working on:
 grey; line-height:1.5">
 <details>
   <summary>
-<div style="background-color: #202229 ; padding: 5px; border: 0px solid
+<div style="background-color: #202229 ; padding: 10px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">Inference from Interference.</span> Turning Shor's
 algorithm into a practical QML architecture.
