@@ -10,3 +10,5 @@ interplay between quantum algorithms, statistical learning theory, and
 symmetry. I also run our [QML journal club](https://heptar.ch/qml-jc).
 
 ## QML research
+
+To do.
