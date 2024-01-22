@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-01-22 Mon 11:45 -->
+<!-- 2024-01-22 Mon 13:04 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -189,6 +189,7 @@ for the JavaScript code in this tag.
 <ul>
 <li><a href="#sec-2-1">2.1. Statistical learning theory in brief</a></li>
 <li><a href="#sec-2-2">2.2. Linear and nonlinear regression</a></li>
+<li><a href="#sec-2-3">2.3. Regression and statistical learning</a></li>
 </ul>
 </li>
 <li><a href="#sec-3">3. References</a></li>
@@ -341,15 +342,15 @@ to \(y\).
 The <i>expected loss</i> or <i>risk</i> for a given \(f: X\to Y\), over the joint
 distribution \(P(x, y)\), is
 \[
-\mathcal{R}(f) = \int_{X\times Y} L(x, y, f(x))\, \mathrm{d}P(x,
-y). 
+\mathcal{R}(f) = \mathbb{E}[L(x, y, f(x))] = \int_{X\times Y} L(x, y, f(x))\, \mathrm{d}P(x,
+y). \tag{2.1} \label{risk}
 \]
 This is the average loss when we select an infinite number of pairs
 according to \(P(x, y)\). The <i>empirical risk</i> is the empirical
 approximation using our training pairs,
 \[
 \mathcal{R}_{\mathcal{D}}(f) = \frac{1}{n}\sum_{i=1}^n L(x_{(i)},
-y_{(i)}, f(x_{(i)})). \tag{2.1} \label{risk}
+y_{(i)}, f(x_{(i)})). \tag{2.2} \label{emp-risk}
 \]
 As \(n \to \infty\), the law of large numbers implies that
 \(\mathcal{R}_{\mathcal{D}} \to \mathcal{R}\), i.e. the empirical risk
@@ -403,13 +404,13 @@ we have reason to the inputs and outputs are linearly related, we can
 write
 \[
 f(x) = \hat{\beta}_0 + \sum_{j=1}^p x_j\hat{\beta}_j = x^T \hat{\beta}
-\tag{2.2} \label{linmod}
+\tag{2.3} \label{linmod}
 \]
 where \(x_j\) is the \(j\)-th component of the vector \(x\), and in the
 second equation, we have padded out \(x\) with a \(1\) in the zeroth
 component.
 The coefficients \(\hat{\beta}\) form a vector of \(p+1\) parameters (with
-the hat reminding us they are to be estimated), but we
+the hat reminding us they are to be estimated from data), but we
 can extend this to a matrix for \(Y = \mathbb{R}^k\).
 For the moment, let's keep \(k=1\), and absorb the padding into \(p\).
 </p>
@@ -425,11 +426,11 @@ L(x, y, f(x)) = |y - f(x)|^2 = |y - x^T \beta|^2.
 Let \(\mathbf{y} = (y_{(i)})^T\) be a column vector of \(n\) training
 outputs, and \(\mathbf{X} = (x_{(i)}^T)\) an \(n\times p\) matrix of
 training inputs.
-The empirical risk \((\ref{risk})\) can then be written
+The empirical risk \((\ref{emp-risk})\) can then be written
 \[
 \mathcal{R}_{\mathcal{D}}(\beta) = \frac{1}{n}\sum_{i=1}|y_{(i)} -
 x_{(i)}^T\beta|^2 = \frac{1}{n}(\mathbf{y} - \mathbf{X}\beta)^T
-(\mathbf{y} - \mathbf{X}\beta). \tag{2.3} \label{RSS}
+(\mathbf{y} - \mathbf{X}\beta). \tag{2.4} \label{RSS}
 \]
 We can solve this for the optimal \(\beta\), simply by differentiating
 with respect to \(\beta\):
@@ -448,9 +449,9 @@ solve for \(\beta\):
 \mathbf{X}^T\left(\mathbf{X}\beta -\mathbf{y}\right) =
 \mathbf{X}^T\mathbf{X}\beta -\mathbf{X}^T\mathbf{y} = 0 \quad
 \Longrightarrow \quad \hat{\beta} =
-(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T\mathbf{y}. \tag{2.4} \label{beta-hat}
+(\mathbf{X}^T\mathbf{X})^{-1}\mathbf{X}^T\mathbf{y}. \tag{2.5} \label{beta-hat}
 \]
-Again, the hat tells us we will use this as our estimate.
+Again, the hat tells us that we estimate this from data.
 </p>
 
 <p>
@@ -501,10 +502,10 @@ point by averaging the values of its nearest neighbours in the training data
 \(x\). Then our <i>\(k\)-nearest-neighbour regressor</i> is
 \[
 f(x) = \frac{1}{k}\sum_{x_{(i)} \in N_k(x)} y_{(i)}.
-\tag{2.5} \label{kNN}
 \]
 Closeness will mean in Euclidean distance, but could of course be
 generalized to an arbitrary metric space.
+In our binary case, this boils down to a majority vote.
 This is a much less rigid method than linear regression, so when we
 fit our binary-coded data, we get a much wobblier decision boundary
 \(f(x) = 0.5\).
@@ -554,6 +555,63 @@ The curves are results for nearest neighbours, with \(n/k\) increasing
 to the right.
 Interestingly, it performs as well as linear regression for the same
 number of parameters, with lower training error.
+How can we get a handle on these two methods?
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-2-3" class="outline-3">
+<h3 id="sec-2-3"><span class="section-number-3">2.3</span> Regression and statistical learning</h3>
+<div class="outline-text-3" id="text-2-3">
+<p>
+<b>Reading</b>: <a href="#ESL">ESL</a>: §2.4.
+</p>
+
+<p>
+Let's return to the statistical learning theory we began
+to explore above, but with our two examples in mind.
+We will focus on squared error loss in the risk \((\ref{risk})\). If we
+condition on \(x\), using the definition of conditional probability \(P(x, y) = P(y|x)P(x)\), then
+\[
+\mathcal{R}(f) = \mathbb{E}[L_2(x, y, f(x))] = \mathbb{E}[(x - f(y))^2] = \mathbb{E}_x\big[
+\mathbb{E}_{y|x} [(y - f(x))^2 | x]\big].
+\]
+To minimize the expectation of a function over \(x\), it suffices to
+minimize it <i>pointwise</i>, i.e. for each \(x\), we want to choose
+\[
+f(x) = \mbox{argmin}_c \mathbb{E}_{y|x} [(y - c)^2 | x].
+\]
+To minimize this, note that
+\[
+\partial_c\mathbb{E}_{y|x} [(y - c)^2 | x] = \partial_c\int_{y\in Y}
+(y-c)^2 \,\mathrm{d}P(y|x) = 2\int_{y\in Y}(c-y) \,\mathrm{d}P(y|x) =
+2c - 2\mathbb{E}_y[y|x].
+\]
+Setting this to zero, we should take
+\[
+f(x) = \mathbb{E}_y[y|x]. \tag{2.6} \label{regress-f}
+\]
+This is called the <i>regression function</i>, and it tells us that to
+minimize expected squared loss, we should choose the conditional
+mean.
+Of course, we could use a different loss function, say absolute value
+\[
+L_1(x, y, f(y)) = |y - f(x)|
+\]
+instead, and the same argument would give the <i>conditional median</i>
+\[
+f(x) = \mbox{argmin}_c \mathbb{E}_{y|x}[|y - c|\, | x].
+\]
+However, we'll focus on squared loss for now.
+</p>
+
+<p>
+In a sense, both linear regression and nearest-neighbours try to
+approximate this recipe.
+Nearest-neighbours does it directly, using neighbours as a proxy for
+the distribution.
+At each point \(x\), the goal is to average over all \(y\) with input \(x\). With a finite
+amount of data, we usually have at most one such data point!
 </p>
 </div>
 </div>
