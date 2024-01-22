@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-01-22 Mon 13:04 -->
+<!-- 2024-01-22 Mon 13:40 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -602,16 +602,23 @@ instead, and the same argument would give the <i>conditional median</i>
 \[
 f(x) = \mbox{argmin}_c \mathbb{E}_{y|x}[|y - c|\, | x].
 \]
-However, we'll focus on squared loss for now.
+However, we'll continue focusing on squared loss.
 </p>
 
 <p>
 In a sense, both linear regression and nearest-neighbours try to
-approximate this recipe.
-Nearest-neighbours does it directly, using neighbours as a proxy for
-the distribution.
-At each point \(x\), the goal is to average over all \(y\) with input \(x\). With a finite
-amount of data, we usually have at most one such data point!
+approximate the conditional mean.
+Nearest neighbours approximates this mean in two ways. First, it uses empirical
+probabilities rather than the underlying distribution, since it only
+has access to the latter:
+\[
+\mathbb{E}_y[y|x] \approx \sum_{(x, y) \in \mathcal{D}} y.
+\]
+Second, since data is usually sparse, we need to replace conditioning
+on \(x\) for conditioning on some neighbourhood \(N(x)\) of \(x\):
+\[
+\sum_{(x, y) \in \mathcal{D}} y \approx \sum_{(x', y) \in \mathcal{D}, x' \in N(x)} y.
+\]
 </p>
 </div>
 </div>
