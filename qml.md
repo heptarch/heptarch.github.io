@@ -9,6 +9,8 @@ group at [Xanadu](https://www.xanadu.ai/). I'm interested in the
 interplay between quantum algorithms, statistical learning theory, and
 symmetry. I also run our [QML journal club](https://heptar.ch/qml-jc).
 
+## QML
+
 Here's a rundown of various QML-flavored projects I'm working on:
 
 <div style="background-color: #16171c ; padding: 0px; border: 0px solid
