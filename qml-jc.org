@@ -305,9 +305,9 @@ has access to the latter:
 \mathbb{E}_y[y|x] \approx \sum_{(x, y) \in \mathcal{D}} y.
 \]
 Second, since data is usually sparse, we need to replace conditioning
-on $x$ for conditioning on a neighbourhood of $x$:
+on $x$ for conditioning on some neighbourhood $N(x)$ of $x$:
 \[
-\mathbb{E}_y[y|x] \approx \sum_{(x, y) \in \mathcal{D}} y.
+\sum_{(x, y) \in \mathcal{D}} y \approx \sum_{(x', y) \in \mathcal{D}, x' \in N(x)} y.
 \]
 
 * References
