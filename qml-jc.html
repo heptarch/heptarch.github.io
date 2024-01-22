@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-01-22 Mon 13:40 -->
+<!-- 2024-01-22 Mon 14:15 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -606,19 +606,53 @@ However, we'll continue focusing on squared loss.
 </p>
 
 <p>
-In a sense, both linear regression and nearest-neighbours try to
-approximate the conditional mean.
-Nearest neighbours approximates this mean in two ways. First, it uses empirical
+Nearest neighbours approximates the conditional mean directly. First, it uses empirical
 probabilities rather than the underlying distribution, since it only
-has access to the latter:
+has access to the latter, which we can write as
 \[
-\mathbb{E}_y[y|x] \approx \sum_{(x, y) \in \mathcal{D}} y.
+\mathbb{E}_y[y|x] \approx \mbox{Ave}\{y | (x, y) \in \mathcal{D}\},
 \]
+where \(\text{Ave}\) is a sum divided by the number of summands.
 Second, since data is usually sparse, we need to replace conditioning
 on \(x\) for conditioning on some neighbourhood \(N(x)\) of \(x\):
 \[
-\sum_{(x, y) \in \mathcal{D}} y \approx \sum_{(x', y) \in \mathcal{D}, x' \in N(x)} y.
+\mbox{Ave}\{y | (x, y) \in \mathcal{D}\} \approx \mbox{Ave}\{y|(x', y) \in
+\mathcal{D}, x' \in N(x)\} \, y = \hat{f}(x),
 \]
+where the last expression is the nearest neighbours regressor.
+It turns out that, provided the distribution approximately locally
+constant
+as \(n/k \to \infty\) these approximations are good, and
+\[
+\lim_{n/k \to \infty} \hat{f}(x)  = \mathbb{E}_y[y|x].
+\]
+So we have a universal approximator! The problem is, as we might
+expect from the NFL theorem, the method can be unstable, inapplicable
+because \(n\) is too small, or extremely slow for e.g. dimensional
+reasons, as we'll discuss soon.
+</p>
+
+<p>
+Linear regression is a more explicit <i>model-based approach</i>, where we
+assume our data is approximately linear:
+\[
+f(x) \approx x^T\beta.
+\]
+If we plug this into our risk function, and differentiate with respect
+to \(\beta\), we find
+\[
+\partial_\beta\mathcal{R}(\beta) = \partial_\beta\mathbb{E}[(y -
+x^T\beta)^2] = 2 \mathbb{E}[xx^T]\beta - 2 \mathbb{E}[xy].
+\]
+Hence, we get
+\[
+\beta = \mathbb{E}[xx^T]^{-1}\mathbb{E}[xy],
+\]
+which we approximate using training data in \((\ref{beta-hat})\).
+So, in contrast to nearest neighbours which works well for locally
+constant functions, linear regression works well for globally linear
+functions. Both approximate the conditional mean, but in different
+ways.
 </p>
 </div>
 </div>
