@@ -10,12 +10,13 @@ offer new insights or research approaches, and generally enhance our quality of 
 
 Here is the schedule (to be populated):
 
-| Date         | Material      | Guide              | Scribe |
-|--------------+---------------+--------------------+--------|
-| [[week0][Jan 9]], 2024  | Admin         | David Wakeham (DW) | DW     |
-| [[week1][Jan 16]], 2024 | ESL: §2.1-2.4 | DW                 | DW     |
-|              | (SVM: §1.1)   |                    |        |
-|--------------+---------------+--------------------+--------|
+| Date         | Material      | Guide              |
+|--------------+---------------+--------------------+
+| [[week0][Jan 9]], 2024  | Admin         | David Wakeham (DW) |
+| [[week1][Jan 23]], 2024 | ESL: §2.1-2.4 | DW                 |
+|              | (SVM: §1.1)   |                    |
+| Feb 6, 2024  | ESL: §2.5-2.9 | Richard East (RE)  |
+|--------------+---------------+--------------------+
 
 Notes on past meetings are in chronological order below.
 
@@ -34,8 +35,7 @@ eclectic, and dipping into resources on [[https://arxiv.org/pdf/2104.13478.pdf][
 
 Each week we will have designated reading, optional readings (in
 parentheses in the schedule), and a guide or guides who have agreed (or been
-voluntold) to talk us through the readings. There will
-also be a scribe to take notes. Notes will be uploaded here. For any
+voluntold) to talk us through the readings. Notes will be uploaded here. For any
 corrections, email [[mailto:7@heptar.ch][~<7@heptar.ch>~]].
 
 * <<week1>> Introduction
@@ -293,7 +293,7 @@ Second, since data is usually sparse, we replace conditioning
 on $x$ for conditioning on a neighbourhood $N(x)$ of $x$:
 \[
 \mbox{Ave}\{y | (x, y) \in \mathcal{D}\} \approx \mbox{Ave}\{y|(x', y) \in
-\mathcal{D}, x' \in N(x)\} \, y = \hat{f}(x),
+\mathcal{D}, x' \in N(x)\} = \hat{f}(x),
 \]
 where the last expression is the nearest neighbours regressor.
 Provided the distribution is approximately locally constant,
@@ -348,7 +348,8 @@ pointwise minimization:
 \]
 With the $0$-$1$ loss, this becomes
 \[
-\hat{c}(x) = \mbox{argmin}_{c \in C} \left[1 - P(c_k |x)\right].
+\hat{c}(x) = \mbox{argmin}_{c \in C} \left[1 - P(c |x)\right] =
+\mbox{argmax}_{c \in C} P(c |x).
 \tag{2.7}\label{bayes-class}
 \]
 This is called the /Bayes classifier/, and it instructs us to classify
