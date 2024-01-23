@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-01-22 Mon 14:21 -->
+<!-- 2024-01-23 Tue 07:46 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -188,8 +188,19 @@ for the JavaScript code in this tag.
 <li><a href="#sec-2">2. Introduction</a>
 <ul>
 <li><a href="#sec-2-1">2.1. Statistical learning theory in brief</a></li>
-<li><a href="#sec-2-2">2.2. Linear and nonlinear regression</a></li>
-<li><a href="#sec-2-3">2.3. Regression and statistical learning</a></li>
+<li><a href="#sec-2-2">2.2. Linear and nonlinear regression</a>
+<ul>
+<li><a href="#sec-2-2-1">2.2.1. Linear regression</a></li>
+<li><a href="#sec-2-2-2">2.2.2. Nearest neighbours</a></li>
+</ul>
+</li>
+<li><a href="#sec-2-3">2.3. Regression and statistical learning</a>
+<ul>
+<li><a href="#sec-2-3-1">2.3.1. Conditional mean</a></li>
+<li><a href="#sec-2-3-2">2.3.2. Revisiting methods</a></li>
+<li><a href="#sec-2-3-3">2.3.3. Bayes classifier</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="#sec-3">3. References</a></li>
@@ -393,7 +404,11 @@ distribution which cannot be learned that quickly.
 <p>
 <b>Reading</b>: <a href="#ESL">ESL</a>: §2.3.
 </p>
+</div>
 
+<div id="outline-container-sec-2-2-1" class="outline-4">
+<h4 id="sec-2-2-1"><span class="section-number-4">2.2.1</span> Linear regression</h4>
+<div class="outline-text-4" id="text-2-2-1">
 <p>
 This is quite high concept, so let's dive into some specific methods
 for prediction, which also give us a sense of how statisticians think.
@@ -493,7 +508,12 @@ Gaussians) but inevitably noisy. In the second case, we have clusters,
 so a linear decision boundary will do poorly on future data.
 Let's turn to a nonlinear method that does better in this second scenario.
 </p>
+</div>
+</div>
 
+<div id="outline-container-sec-2-2-2" class="outline-4">
+<h4 id="sec-2-2-2"><span class="section-number-4">2.2.2</span> Nearest neighbours</h4>
+<div class="outline-text-4" id="text-2-2-2">
 <p>
 <i>Nearest neighbours</i> is a very different approach. The idea is that is
 simply to approximate the value of response variables for a new data
@@ -559,6 +579,7 @@ How can we get a handle on these two methods?
 </p>
 </div>
 </div>
+</div>
 
 <div id="outline-container-sec-2-3" class="outline-3">
 <h3 id="sec-2-3"><span class="section-number-3">2.3</span> Regression and statistical learning</h3>
@@ -566,7 +587,11 @@ How can we get a handle on these two methods?
 <p>
 <b>Reading</b>: <a href="#ESL">ESL</a>: §2.4.
 </p>
+</div>
 
+<div id="outline-container-sec-2-3-1" class="outline-4">
+<h4 id="sec-2-3-1"><span class="section-number-4">2.3.1</span> Conditional mean</h4>
+<div class="outline-text-4" id="text-2-3-1">
 <p>
 Let's return to the statistical learning theory we began
 to explore above, but with our two examples in mind.
@@ -604,7 +629,12 @@ f(x) = \mbox{argmin}_c \mathbb{E}_{y|x}[|y - c|\, | x].
 \]
 However, we'll continue focusing on squared loss.
 </p>
+</div>
+</div>
 
+<div id="outline-container-sec-2-3-2" class="outline-4">
+<h4 id="sec-2-3-2"><span class="section-number-4">2.3.2</span> Revisiting methods</h4>
+<div class="outline-text-4" id="text-2-3-2">
 <p>
 Nearest neighbours approximates the conditional mean directly. First, it uses empirical
 probabilities rather than the underlying distribution, since it only
@@ -613,15 +643,14 @@ has access to the latter, which we can write as
 \mathbb{E}_y[y|x] \approx \mbox{Ave}\{y | (x, y) \in \mathcal{D}\},
 \]
 where \(\text{Ave}\) is a sum divided by the number of summands.
-Second, since data is usually sparse, we need to replace conditioning
-on \(x\) for conditioning on some neighbourhood \(N(x)\) of \(x\):
+Second, since data is usually sparse, we replace conditioning
+on \(x\) for conditioning on a neighbourhood \(N(x)\) of \(x\):
 \[
 \mbox{Ave}\{y | (x, y) \in \mathcal{D}\} \approx \mbox{Ave}\{y|(x', y) \in
 \mathcal{D}, x' \in N(x)\} \, y = \hat{f}(x),
 \]
 where the last expression is the nearest neighbours regressor.
-It turns out that, provided the distribution approximately locally
-constant
+Provided the distribution is approximately locally constant,
 as \(n/k \to \infty\) these approximations are good, and
 \[
 \lim_{n/k \to \infty} \hat{f}(x)  = \mathbb{E}_y[y|x].
@@ -656,8 +685,60 @@ ways.
 </p>
 </div>
 </div>
+
+<div id="outline-container-sec-2-3-3" class="outline-4">
+<h4 id="sec-2-3-3"><span class="section-number-4">2.3.3</span> Bayes classifier</h4>
+<div class="outline-text-4" id="text-2-3-3">
+<p>
+We have coding categorical variables using a regressor, but we can
+introduce a risk function explicitly adapted for classification. If
+our categorical variables take values in some set \(c_i \in C\), we can
+store the penalties for
+classifying an observation in class \(c_i\) as \(c_j\) in a matrix
+\(L(c_i, c_j)\).
+An example is the \(0\)-\(1\) <i>loss</i> \(L(c_i, c_j) = 1 -\delta_{ij}\), where
+misclassifications cost one unit of loss.
+The risk is
+\[
+\mathcal{R}(f) = \mathbb{E}[L(c, f(x))],
+\]
+where expectation is with respect to \(P(c, x)\).
+Again, by conditioning on \(x\), minimizing risk becomes
+pointwise minimization:
+\[
+\hat{c}(x) = \mbox{argmin}_{c \in C} \sum_{k=1}^{|C|} L(c_k, c) P(c_k | x).
+\]
+With the \(0\)-\(1\) loss, this becomes
+\[
+\hat{c}(x) = \mbox{argmin}_{c \in C} \left[1 - P(c_k |x)\right].
+\tag{2.7}\label{bayes-class}
+\]
+This is called the <i>Bayes classifier</i>, and it instructs us to classify
+to the most probable class given the conditional distribution over
+\(x\).
+</p>
+
+<div class="figure">
+<p><img src="./img/qml/esl-intro4.png" alt="Bayes classifier. image" align="center" width="300px" style="display:inline;margin:-30px;" />
+</p>
 </div>
 
+<p>
+Above, we show the Bayes optimal decision boundary, i.e. the crossover
+point
+\[
+\{x : P(\textcolor{blue}{\texttt{o}}|x) =
+P(\textcolor{orange}{\texttt{o}}|x)\} = 0.5
+\]
+in the conditional distribution.
+Nearest neighbours gives a local estimate of this conditional
+distribution from the neighbourhood majority vote, so we have yet
+another way to think about what nearest neighbours does.
+</p>
+</div>
+</div>
+</div>
+</div>
 <div id="outline-container-sec-3" class="outline-2">
 <h2 id="sec-3"><span class="section-number-2">3</span> References</h2>
 <div class="outline-text-2" id="text-3">

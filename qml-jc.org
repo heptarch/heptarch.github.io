@@ -123,6 +123,8 @@ distribution which cannot be learned that quickly.
 
 *Reading*: [[ESL][ESL]]: §2.3.
 
+*** Linear regression
+
 This is quite high concept, so let's dive into some specific methods
 for prediction, which also give us a sense of how statisticians think.
 One of the important tools in statistics is /linear models/ aka
@@ -206,6 +208,8 @@ Gaussians) but inevitably noisy. In the second case, we have clusters,
 so a linear decision boundary will do poorly on future data.
 Let's turn to a nonlinear method that does better in this second scenario.
 
+*** Nearest neighbours
+
 /Nearest neighbours/ is a very different approach. The idea is that is
 simply to approximate the value of response variables for a new data
 point by averaging the values of its nearest neighbours in the training data
@@ -260,6 +264,8 @@ How can we get a handle on these two methods?
 
 *Reading*: [[ESL][ESL]]: §2.4.
 
+*** Conditional mean
+
 Let's return to the statistical learning theory we began
 to explore above, but with our two examples in mind.
 We will focus on squared error loss in the risk $(\ref{risk})$. If we
@@ -296,6 +302,8 @@ f(x) = \mbox{argmin}_c \mathbb{E}_{y|x}[|y - c|\, | x].
 \]
 However, we'll continue focusing on squared loss.
 
+*** Revisiting methods
+
 Nearest neighbours approximates the conditional mean directly. First, it uses empirical
 probabilities rather than the underlying distribution, since it only
 has access to the latter, which we can write as
@@ -303,15 +311,14 @@ has access to the latter, which we can write as
 \mathbb{E}_y[y|x] \approx \mbox{Ave}\{y | (x, y) \in \mathcal{D}\},
 \]
 where $\text{Ave}$ is a sum divided by the number of summands.
-Second, since data is usually sparse, we need to replace conditioning
-on $x$ for conditioning on some neighbourhood $N(x)$ of $x$:
+Second, since data is usually sparse, we replace conditioning
+on $x$ for conditioning on a neighbourhood $N(x)$ of $x$:
 \[
 \mbox{Ave}\{y | (x, y) \in \mathcal{D}\} \approx \mbox{Ave}\{y|(x', y) \in
 \mathcal{D}, x' \in N(x)\} \, y = \hat{f}(x),
 \]
 where the last expression is the nearest neighbours regressor.
-It turns out that, provided the distribution approximately locally
-constant
+Provided the distribution is approximately locally constant,
 as $n/k \to \infty$ these approximations are good, and
 \[
 \lim_{n/k \to \infty} \hat{f}(x)  = \mathbb{E}_y[y|x].
@@ -342,6 +349,46 @@ constant functions, linear regression works on globally linear
 functions. Both approximate the conditional mean, but in different
 ways.
 
+*** Bayes classifier
+We have coding categorical variables using a regressor, but we can
+introduce a risk function explicitly adapted for classification. If
+our categorical variables take values in some set $c_i \in C$, we can
+store the penalties for
+classifying an observation in class $c_i$ as $c_j$ in a matrix
+$L(c_i, c_j)$.
+An example is the $0$-$1$ /loss/ $L(c_i, c_j) = 1 -\delta_{ij}$, where
+misclassifications cost one unit of loss.
+The risk is
+\[
+\mathcal{R}(f) = \mathbb{E}[L(c, f(x))],
+\]
+where expectation is with respect to $P(c, x)$.
+Again, by conditioning on $x$, minimizing risk becomes
+pointwise minimization:
+\[
+\hat{c}(x) = \mbox{argmin}_{c \in C} \sum_{k=1}^{|C|} L(c_k, c) P(c_k | x).
+\]
+With the $0$-$1$ loss, this becomes
+\[
+\hat{c}(x) = \mbox{argmin}_{c \in C} \left[1 - P(c_k |x)\right].
+\tag{2.7}\label{bayes-class}
+\]
+This is called the /Bayes classifier/, and it instructs us to classify
+to the most probable class given the conditional distribution over
+$x$.
+#+ATTR_HTML: :alt Bayes classifier. image :align center :width 300px :style display:inline;margin:-30px;
+[[./img/qml/esl-intro4.png]]
+
+Above, we show the Bayes optimal decision boundary, i.e. the crossover
+point
+\[
+\{x : P(\textcolor{blue}{\texttt{o}}|x) =
+P(\textcolor{orange}{\texttt{o}}|x)\} = 0.5
+\]
+in the conditional distribution.
+Nearest neighbours gives a local estimate of this conditional
+distribution from the neighbourhood majority vote, so we have yet
+another way to think about what nearest neighbours does.
 * References
 -----
 1. <<ESL>> [[https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf][/Elements of Statistical Learning/]] (2008), Hastie, 
