@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-01-23 Tue 07:46 -->
+<!-- 2024-01-23 Tue 07:54 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -322,31 +322,7 @@ function \(X \to Y\) using a <i>training set</i> of input-output samples,
 \[
 \mathcal{D} = \{(x_{(1)}, y_{(1)}), \ldots, (x_{(n)}, y_{(n)})\}.
 \]
-We assume, further, that these are independently generated according to
-\[
-P(x, y) = P_X(x) P(y|x),
-\]
-in other words, we choose \(x\) via the marginal distribution
-\(\mathbb{P}_X(\cdot)\) and \(y\) via the conditional distribution
-\(\mathbb{P}(\cdot|x)\).
-This latter distribution accomodates noise and stochasticity in the
-function \(f\).
-We assume both distributions are unknown.
-<label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
-	   <span class="sidenote">
-In particular, we're not doing <i>parameteric</i> estimation.
-	   </span>
-
-</p>
-
-<p>
-For simplicity, suppose \(Y \subseteq \mathbb{R}\).
-A <i>loss function</i> is a map \(L: X \times Y \times \mathbb{R} \to
+A <i>loss function</i> is a map \(L: X \times Y \times Y \to
 [0, \infty)\) which measures how well \(f\) interpolates the data point
 \((x, y)\), with smaller values of \(L(x, y, f(x))\) as \(f(x)\) gets closer
 to \(y\).
