@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-01-23 Tue 07:55 -->
+<!-- 2024-01-23 Tue 08:58 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -235,15 +235,12 @@ Here is the schedule (to be populated):
 <col  class="left" />
 
 <col  class="left" />
-
-<col  class="left" />
 </colgroup>
 <thead>
 <tr>
 <th scope="col" class="left">Date</th>
 <th scope="col" class="left">Material</th>
 <th scope="col" class="left">Guide</th>
-<th scope="col" class="left">Scribe</th>
 </tr>
 </thead>
 <tbody>
@@ -251,13 +248,11 @@ Here is the schedule (to be populated):
 <td class="left"><a href="#week0">Jan 9</a>, 2024</td>
 <td class="left">Admin</td>
 <td class="left">David Wakeham (DW)</td>
-<td class="left">DW</td>
 </tr>
 
 <tr>
-<td class="left"><a href="#week1">Jan 16</a>, 2024</td>
+<td class="left"><a href="#week1">Jan 23</a>, 2024</td>
 <td class="left">ESL: §2.1-2.4</td>
-<td class="left">DW</td>
 <td class="left">DW</td>
 </tr>
 
@@ -265,7 +260,12 @@ Here is the schedule (to be populated):
 <td class="left">&#xa0;</td>
 <td class="left">(SVM: §1.1)</td>
 <td class="left">&#xa0;</td>
-<td class="left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="left">Feb 6, 2024</td>
+<td class="left">ESL: §2.5-2.9</td>
+<td class="left">Richard East (RE)</td>
 </tr>
 </tbody>
 </table>
@@ -296,8 +296,7 @@ eclectic, and dipping into resources on <a href="https://arxiv.org/pdf/2104.1347
 <p>
 Each week we will have designated reading, optional readings (in
 parentheses in the schedule), and a guide or guides who have agreed (or been
-voluntold) to talk us through the readings. There will
-also be a scribe to take notes. Notes will be uploaded here. For any
+voluntold) to talk us through the readings. Notes will be uploaded here. For any
 corrections, email <a href="mailto:7@heptar.ch"><code>&lt;7@heptar.ch&gt;</code></a>.
 </p>
 </div>
@@ -623,7 +622,7 @@ Second, since data is usually sparse, we replace conditioning
 on \(x\) for conditioning on a neighbourhood \(N(x)\) of \(x\):
 \[
 \mbox{Ave}\{y | (x, y) \in \mathcal{D}\} \approx \mbox{Ave}\{y|(x', y) \in
-\mathcal{D}, x' \in N(x)\} \, y = \hat{f}(x),
+\mathcal{D}, x' \in N(x)\} = \hat{f}(x),
 \]
 where the last expression is the nearest neighbours regressor.
 Provided the distribution is approximately locally constant,
@@ -686,7 +685,8 @@ pointwise minimization:
 \]
 With the \(0\)-\(1\) loss, this becomes
 \[
-\hat{c}(x) = \mbox{argmin}_{c \in C} \left[1 - P(c_k |x)\right].
+\hat{c}(x) = \mbox{argmin}_{c \in C} \left[1 - P(c |x)\right] =
+\mbox{argmax}_{c \in C} P(c |x).
 \tag{2.7}\label{bayes-class}
 \]
 This is called the <i>Bayes classifier</i>, and it instructs us to classify
