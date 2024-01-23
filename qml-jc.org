@@ -79,7 +79,7 @@ The minimal risk for a given loss function and distribution is
 /Learning methods/ uniquely associate functions to training data,
 $\mathcal{D} \mapsto f_{\mathcal{D}}$. The hope is that they
 approximate the minimal risk, $\mathcal{R}(f_{\mathcal{D}}) \approx
-\mathcal{R}^*$, at least as our training set gets asymptotically
+\mathcal{R}^*$, at least as our training set gets
 large. More formally, we say a learning method is /universally
 consistent/ if
 \[
