@@ -50,29 +50,7 @@ function $X \to Y$ using a /training set/ of input-output samples,
 \[
 \mathcal{D} = \{(x_{(1)}, y_{(1)}), \ldots, (x_{(n)}, y_{(n)})\}.
 \]
-We assume, further, that these are independently generated according to
-\[
-P(x, y) = P_X(x) P(y|x),
-\]
-in other words, we choose $x$ via the marginal distribution
-$\mathbb{P}_X(\cdot)$ and $y$ via the conditional distribution
-$\mathbb{P}(\cdot|x)$.
-This latter distribution accomodates noise and stochasticity in the
-function $f$.
-We assume both distributions are unknown.@@html:
-<label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
-	   <span class="sidenote">
-In particular, we're not doing <i>parameteric</i> estimation.
-	   </span>
-@@
-
-For simplicity, suppose $Y \subseteq \mathbb{R}$.
-A /loss function/ is a map $L: X \times Y \times \mathbb{R} \to
+A /loss function/ is a map $L: X \times Y \times Y \to
 [0, \infty)$ which measures how well $f$ interpolates the data point
 $(x, y)$, with smaller values of $L(x, y, f(x))$ as $f(x)$ gets closer
 to $y$.
