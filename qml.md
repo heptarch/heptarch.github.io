@@ -15,7 +15,7 @@ I did a PhD in [high energy physics](https://inspirehep.net/authors/1868975).
 
 ## Quantum computing
 
-Here's a longlist of quantum computing questions I'd like to answer:
+Here's a longlist of quantum computing questions I'm trying to answer:
 
 - Using simple noise models and complexity-theoretic tools, can we
   characterize the limitations of NISQ devices for tasks like Hamiltonian
