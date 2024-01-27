@@ -27,10 +27,9 @@ inductive bias?
 - Can we use stabilizer states for distributed protocols?
 - What common syntax connects quantum circuits and
 measurement-based computation?
-- Is monosemanticity naturally understood as quantum post-processing
-  of an LLM?
+- Can monosemanticity/sparse autoencoding be formulated as a quantum algorithm?
 
-## Other
+## 
 
 Some other questions of interest:
 
