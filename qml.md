@@ -33,5 +33,7 @@ Some other questions of interest:
 
 - Is it possible to extract the arrow of time from a Euclidean path
 integral?
-- Are higher-moment versions of Eigenstate Thermalization related to
-  pseudomrandom states, quantum money, and error correction?
+- Are there quantum versions of algorithmic conservation of
+  randomness?
+- Do higher-moment versions of Eigenstate Thermalization relate eto
+  pseudomrandom states, quantum money, or error correction?
