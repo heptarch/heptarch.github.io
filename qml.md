@@ -20,7 +20,7 @@ A few quantum computing questions I'm thinking about right now:
 - How can we leverage the Shor's algorithm (and the Hidden Subgroup
 Problem more generally) for deep learning?
 - Can we use stabilizer states for distributed protocols?
-- What is the common language connecting quantum circuits and
+- What common syntax connects quantum circuits and
 measurement-based computation?
 - Is monosemanticity naturally understood as quantum post-processing
   for an LLM?
