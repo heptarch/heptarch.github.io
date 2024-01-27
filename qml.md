@@ -24,4 +24,4 @@ Problem more generally) for deep learning?
 - Can we use stabilizer states for distributed protocols?
 - Is there a parlance connecting quantum circuits and
 measurement-based quantum computation?
-- Is monosemanticity of LLMs naturally formulated in quantum terms?
+- Is monosemanticity naturally formulated in quantum terms?
