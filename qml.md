@@ -23,6 +23,6 @@ A few questions I'm thinking about right now:
 Problem more generally) for deep learning?
 - Can we use stabilizer states for distributed protocols?
 - Is there a common language for quantum circuits and
-measurement-based quantum computation?
+measurement-based computation?
 - Is monosemanticity naturally understood as quantum post-processing
   to an LLM?
