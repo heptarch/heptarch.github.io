@@ -23,4 +23,4 @@ Problem more generally) for deep learning?
 - What is the common language connecting quantum circuits and
 measurement-based computation?
 - Is monosemanticity naturally understood as quantum post-processing
-  to an LLM?
+  for an LLM?
