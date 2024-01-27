@@ -9,8 +9,6 @@ group at [Xanadu](https://www.xanadu.ai/). I'm interested in the
 interplay between quantum algorithms, statistical learning theory, and
 symmetry. I also run our [QML journal club](https://heptar.ch/qml-jc).
 
-## Quantum computing
-
 A few questions I'm thinking about right now:
 
 - Using simple noise models and complexity-theoretic tools, can we
