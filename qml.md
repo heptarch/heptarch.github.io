@@ -38,9 +38,10 @@ Some other research problems I'm thinking about:
 
 - Is it possible to extract the arrow of time from a Euclidean path
 integral?
-- Are there quantum versions of algorithmic conservation of
-  randomness?
 - Can we recast higher-moment versions of the Eigenstate Thermalization
   Hypothesis (ETH) in terms of pseudorandom states, quantum money, and/or
   error correction?
 - What is the computational complexity of forming soap bubbles?
+- Are there quantum versions of algorithmic conservation of
+  randomness, and how are they connected to thermodynamics and quantum
+  control?
