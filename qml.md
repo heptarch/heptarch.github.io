@@ -32,9 +32,9 @@ measurement-based computation?
 - Can monosemanticity/sparse autoencoding of LLM be usefully formulated as a
   quantum post-processing layer?
 
-## Other problems
+## Miscellaneous
 
-A few other random things I'm thinking about:
+Some other problems I'm thinking about:
 
 - Is it possible to extract the arrow of time from a Euclidean path
 integral?
