@@ -18,7 +18,7 @@ A few questions I'm thinking about right now:
   simulation?
 - What is the link between Grover search and the quantum limit?
 - Are there ways to parametrize signal-processing and metrological
-  techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
+  techniques to optimize, e.g. energy estimation protocols, on ISQ/EFT devices?
 - How can we leverage the Shor's algorithm (and the Hidden Subgroup
 Problem more generally) for deep learning?
 - Can we use stabilizer states for distributed protocols?
