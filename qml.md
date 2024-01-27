@@ -14,7 +14,7 @@ A few questions I'm thinking about right now:
 - Using simple noise models and complexity-theoretic tools, can we
   characterize the limitations of NISQ devices for Hamiltonian
   simulation?
-- What is the link between Grover search and the quantum limit?
+- What is the link between Grover search and the Heisenberg limit?
 - Are there ways to parametrize signal-processing and metrological
   techniques to optimize, e.g. energy estimation protocols, on ISQ/EFT devices?
 - How can we leverage the Shor's algorithm (and the Hidden Subgroup
