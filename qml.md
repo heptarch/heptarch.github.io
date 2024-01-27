@@ -11,7 +11,7 @@ symmetry. I also run our [QML journal club](https://heptar.ch/qml-jc).
 
 ## Quantum computing
 
-Some quantum computing questions I'm thinking about right now:
+Some quantum computing problems I'm thinking about right now:
 
 - Using simple noise models and complexity-theoretic tools, can we
   characterize the limitations of NISQ devices for Hamiltonian
