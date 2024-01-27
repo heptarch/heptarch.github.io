@@ -39,7 +39,7 @@ Some other questions of interest:
 integral?
 - Are there quantum versions of algorithmic conservation of
   randomness?
-- Do higher-moment versions of the Eigenstate Thermalization
-  Hypothesis (ETH) relate to pseudorandom states, quantum money, and/or
+- Can we recast higher-moment versions of the Eigenstate Thermalization
+  Hypothesis (ETH) in terms of pseudorandom states, quantum money, and/or
   error correction?
 - What is the computational complexity of forming soap bubbles?
