@@ -15,7 +15,7 @@ I did a PhD in [high energy physics](https://inspirehep.net/authors/1868975).
 
 ## Quantum computing
 
-Some quantum computing projects I'm working on:
+Some quantum computing questions I'm working on:
 
 - Using simple noise models and complexity-theoretic tools, can we
   characterize the limitations of NISQ devices for tasks like Hamiltonian
