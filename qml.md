@@ -36,5 +36,5 @@ integral?
 - Are there quantum versions of algorithmic conservation of
   randomness?
 - Do higher-moment versions of the Eigenstate Thermalization
-  Hypothesis (ETH) relate to pseudomrandom states, quantum money, or
+  Hypothesis (ETH) relate to pseudorandom states, quantum money, and/or
   error correction?
