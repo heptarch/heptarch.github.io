@@ -9,7 +9,7 @@ group at [Xanadu](https://www.xanadu.ai/). I'm interested in the
 interplay between quantum algorithms, statistical learning theory, and
 symmetry. I also run our [QML journal club](https://heptar.ch/qml-jc).
 
-# Quantum computing
+## Quantum computing
 
 A few quantum computing questions I'm thinking about right now:
 
@@ -27,7 +27,7 @@ measurement-based computation?
 - Is monosemanticity naturally understood as quantum post-processing
   of an LLM?
 
-# Other
+## Other
 
 A few other questions of interest:
 
