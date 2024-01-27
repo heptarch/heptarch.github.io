@@ -21,5 +21,5 @@ A few questions I'm thinking about right now:
   techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
 - How can we leverage the Shor's algorithm (and the Hidden Subgroup
 Problem more generally) for deep learning?
-- How can we use stabilizer states for distributed protocols?
+- Can we use stabilizer states for distributed protocols?
 - 
