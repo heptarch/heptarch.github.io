@@ -18,7 +18,7 @@ I did a PhD in [high energy physics](https://inspirehep.net/authors/1868975).
 Some quantum computing problems I'm thinking about right now:
 
 - Using simple noise models and complexity-theoretic tools, can we
-  characterize the limitations of NISQ devices for Hamiltonian
+  characterize the limitations of NISQ devices for tasks like Hamiltonian
   simulation?
 - What is the link between Grover search and the Heisenberg limit?
 - Are there ways to parametrize signal-processing and metrological
