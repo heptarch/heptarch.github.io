@@ -29,6 +29,8 @@ measurement-based computation?
 
 ## Other
 
-A few other questions of interest:
+Some other questions of interest:
 
+- Is it possible to extract the arrow of time from a Euclidean path
+integral?
 - 
