@@ -15,7 +15,7 @@ I did a PhD in [high energy physics](https://inspirehep.net/authors/1868975).
 
 ## Quantum computing
 
-Some quantum computing problems I'm thinking about right now:
+Some quantum computing projects I'm working on:
 
 - Using simple noise models and complexity-theoretic tools, can we
   characterize the limitations of NISQ devices for tasks like Hamiltonian
@@ -34,7 +34,7 @@ measurement-based computation?
 
 ## Miscellaneous
 
-Some other problems I'm thinking about:
+Some other research problems I'm thinking about:
 
 - Is it possible to extract the arrow of time from a Euclidean path
 integral?
