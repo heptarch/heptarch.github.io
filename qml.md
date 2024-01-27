@@ -22,6 +22,6 @@ A few questions I'm thinking about right now:
 - How can we leverage the Shor's algorithm (and the Hidden Subgroup
 Problem more generally) for deep learning?
 - Can we use stabilizer states for distributed protocols?
-- Is there a parlance which connects quantum circuits and
+- Is there a parlance connecting quantum circuits and
 measurement-based quantum computation?
-- Is monosemanticity of LLMsho naturally formulated in quantum terms?
+- Is monosemanticity of LLMs naturally formulated in quantum terms?
