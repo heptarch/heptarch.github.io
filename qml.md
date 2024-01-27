@@ -32,9 +32,9 @@ inductive bias?
 measurement-based computation?
 - Can monosemanticity/sparse autoencoding be formulated as a quantum algorithm?
 
-## Other 
+## Other problems
 
-Some other questions of interest:
+A few other random things I'm thinking about:
 
 - Is it possible to extract the arrow of time from a Euclidean path
 integral?
