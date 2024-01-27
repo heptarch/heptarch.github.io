@@ -39,3 +39,4 @@ integral?
 - Do higher-moment versions of the Eigenstate Thermalization
   Hypothesis (ETH) relate to pseudorandom states, quantum money, and/or
   error correction?
+- What is the computational complexity of forming soap bubbles?
