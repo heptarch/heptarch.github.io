@@ -21,7 +21,7 @@ Some quantum computing problems I'm thinking about right now:
   characterize the limitations of NISQ devices for tasks like Hamiltonian
   simulation?
 - What is the link between Grover search and the Heisenberg limit?
-- Are there ways to parametrize signal-processing and metrological
+- Are there ways to parametrize signal-processing and quantum metrology
   techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
 - How can we leverage Shor's algorithm (and the Hidden Subgroup
 Problem more generally) to design learning algorithms? What is the corresponding
