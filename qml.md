@@ -13,7 +13,7 @@ symmetry. I also run our [QML journal club](https://heptar.ch/qml-jc).
 
 A few questions I'm thinking about right now:
 
-- Use simple noise models and complexity-theoretic tools, can we
+- Using simple noise models and complexity-theoretic tools, can we
   characterize the limitations of NISQ devices for Hamiltonian
   simulation?
 - What is the link between Grover search and the quantum limit?
@@ -22,3 +22,4 @@ A few questions I'm thinking about right now:
 - How can we leverage the Shor's algorithm (and the Hidden Subgroup
 Problem more generally) for deep learning?
 - How can we use stabilizer states for distributed protocols?
+- 
