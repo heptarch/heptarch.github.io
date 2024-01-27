@@ -26,11 +26,11 @@ Some quantum computing problems I'm thinking about right now:
 - How can we leverage Shor's algorithm (and the Hidden Subgroup
 Problem more generally) to design learning algorithms? What is the corresponding
 inductive bias?
-- Can we use stabilizer states for distributed computing protocols,
-  which generalize teleportation?
+- Can we use stabilizer states for distributed computing protocols?
 - What common syntax connects quantum circuits and
 measurement-based computation?
-- Can monosemanticity/sparse autoencoding be formulated as a quantum algorithm?
+- Can monosemanticity/sparse autoencoding of LLM be usefully formulated as a
+  quantum post-processing layer?
 
 ## Other problems
 
