@@ -35,5 +35,6 @@ Some other questions of interest:
 integral?
 - Are there quantum versions of algorithmic conservation of
   randomness?
-- Do higher-moment versions of Eigenstate Thermalization relate eto
-  pseudomrandom states, quantum money, or error correction?
+- Do higher-moment versions of the Eigenstate Thermalization
+  Hypothesis (ETH) relate to pseudomrandom states, quantum money, or
+  error correction?
