@@ -24,7 +24,7 @@ Some quantum computing problems I'm thinking about right now:
 - Are there ways to parametrize signal-processing and metrological
   techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
 - How can we leverage Shor's algorithm (and the Hidden Subgroup
-Problem more generally) for deep learning? What is the corresponding
+Problem more generally) to design learning algorithms? What is the corresponding
 inductive bias?
 - Can we use stabilizer states for distributed protocols?
 - What common syntax connects quantum circuits and
