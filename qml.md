@@ -43,5 +43,4 @@ integral?
   error correction?
 - What is the computational complexity of forming soap bubbles?
 - Are there quantum versions of algorithmic conservation of
-  randomness, and how are they connected to thermodynamics and quantum
-  control?
+  randomness, and how are they connected to thermodynamics and black holes?
