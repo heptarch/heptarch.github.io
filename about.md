@@ -4,7 +4,7 @@ title:
 permalink: /bio/
 ---
 
-Interdimensional wizard.
+QML researcher, physics hacker, cyborg, and interdimensional wizard.
 
 ---
 
