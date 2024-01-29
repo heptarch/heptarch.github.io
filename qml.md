@@ -44,5 +44,3 @@ inductive bias?
   Monosemanticity" (2023)</a>.
 	   </span>
 - Can we use stabilizer states for distributed computing protocols?
-- What common syntax connects quantum circuits and
-measurement-based computation?
