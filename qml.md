@@ -50,8 +50,7 @@ Using simple noise models and complexity-theoretic tools, can we
   exponentially hard in the number of qubits. This same argument can
   be extended to Hamiltonian simulation and other types of QML,
   besides shadows. It would neat to understand and characterize these
-  limitations since my intuition is that <a
-  href="https://arxiv.org/abs/1801.00862">NISQ</a> is provably unable
+  limitations since my intuition is that <a href="https://arxiv.org/abs/1801.00862">NISQ</a> is provably unable
   to do most of the things we hoped it would do.
   </p>
   </details></li>
@@ -100,7 +99,7 @@ Can the "monosemantic" sparse autoencoding of LLMs be usefully formulated as a
   </ul>
 
 If you have ideas or want to chat about any of these, feel free to get
-in touch!
+in touch at <a href="mailto:7@heptar.ch"><code>7@heptar.ch</code></a>.
 
 ## Miscellaneous
 
