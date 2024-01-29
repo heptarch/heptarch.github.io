@@ -30,7 +30,16 @@ inductive bias?
 	   See <a href="https://arxiv.org/abs/2210.07234">"The Complexity
   of NISQ" (2022)</a>.
 	   </span>
-- What is the link between Grover search and the Heisenberg limit?
+	   - What is the link between Grover search and the Heisenberg
+       limit?<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   Presumably, it has something to do with <a
+       href="https://arxiv.org/abs/1904.12704">discrete Cramér-Rao bounds</a>.
 - Can the "monosemantic" sparse autoencoding of LLMs be usefully formulated as a
   quantum post-processing layer?<label for="sn-1"
        class="margin-toggle sidenote-number">
