@@ -97,7 +97,10 @@ Can the "monosemantic" sparse autoencoding of LLMs be usefully formulated as a
    TODO
   </p>
   </details></li>
-</ul>
+  </ul>
+
+If you have ideas or want to chat about any of these, feel free to get
+in touch!
 
 ## Miscellaneous
 
