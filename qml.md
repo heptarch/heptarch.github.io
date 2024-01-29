@@ -11,7 +11,7 @@ interested in the interplay between quantum algorithms, statistical learning the
 symmetry. I also run our
 [QML journal club](https://heptar.ch/qml-jc).
 
-Some question I'm thinking about:
+Some questions I'm thinking about:
 
 - How can we leverage Shor's algorithm (and the Hidden Subgroup
 Problem more generally) to design learning algorithms? What is the corresponding
