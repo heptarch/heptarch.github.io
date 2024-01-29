@@ -16,6 +16,12 @@ Some quantum computing questions I'm thinking about:
 - How can we leverage Shor's algorithm (and the Hidden Subgroup
 Problem more generally) to design learning algorithms? What is the corresponding
 inductive bias?
+	<div style="background-color: #16171c ; padding: 20px 20px 20px 20px; border: 0px solid
+	grey; line-height:1.5">
+	I've been working on this for a while, and Maria <a
+	href="https://www.youtube.com/watch?v=VVY8xcps3N4">has talked</a>
+	a bit about it. It should be coming out soon!
+	</div>
 - Are there ways to parametrize signal-processing and quantum metrology
   techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
 - Using simple noise models and complexity-theoretic tools, can we
