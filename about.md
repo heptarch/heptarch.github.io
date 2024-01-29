@@ -6,6 +6,10 @@ permalink: /bio/
 
 Physics hacker, cyborg, and interdimensional wizard.
 
+<div id="sketch-holder"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+<script src="/assets/fireflies_data/firefly1.js"></script>
+
 ---
 
 <a rel="license"
