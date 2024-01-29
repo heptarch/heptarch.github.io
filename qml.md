@@ -21,26 +21,82 @@ Some quantum computing questions I'd like to answer:
 <li><details>
   <summary>
 Using simple noise models and complexity-theoretic tools, can we
-  characterize the limitations of NISQ devices for tasks like Hamiltonian
-  simulation?
+  characterize the limitations of NISQ devices for tasks like QML and
+  Hamiltonian simulation?
   </summary>
   <p>
-  Bla
+  In Appendix F of <a href="https://arxiv.org/abs/2210.07234">Cheng, Cotler, Huang and
+  Li (2022)</a>, they present a nice information-theoretic argument that, in
+  the presence of depolarizing noise, shadow tomography is
+  exponentially hard in the number of qubits. This same argument can
+  be extended to Hamiltonian simulation and other types of QML,
+  besides shadows. It would neat to understand and characterize these
+  limitations since my intuition is that <a
+  href="https://arxiv.org/abs/1801.00862">NISQ</a> is provably unable
+  to do most of the things we hoped it would do.
+  </p>
+  </details></li>
+  <li><details>
+  <summary>
+  What is the link between Grover search and the Heisenberg limit?
+  </summary>
+  <p>
+  <a href="https://arxiv.org/abs/quant-ph/9605043">Grover search</a>
+  can find a needle in an unstructured haystack of $N$ items in
+  $O(\sqrt{N})$ steps. In fact, this is optimal by the <a
+  href="https://arxiv.org/abs/quant-ph/9701001">BBBV lower
+  bound</a>. There is similar quadratic speedup for <a
+  href="https://arxiv.org/abs/quant-ph/0412078">quantum
+  metrology</a>, which by Heisenberg's principle is also
+  optimal. These two are probably the same.
+  </p>
+  </details></li>
+  <li><details>
+  <summary>
+  Are there ways to parametrize signal-processing and quantum metrology
+  techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
+  </summary>
+  <p>
+  Grover search can 
+  </p>
+  </details></li>
+  <li><details>
+  <summary>
+  How can we leverage Shor's algorithm (and the Hidden Subgroup
+  Problem more generally) to design learning algorithms? What is the corresponding
+  inductive bias?
+  </summary>
+  <p>
+   TODO
+  </p>
+  </details></li>
+  <li><details>
+  <summary>
+Can we use stabilizer states for distributed computing protocols?
+  </summary>
+  <p>
+   TODO
+  </p>
+  </details></li>
+    <li><details>
+  <summary>
+  What common syntax connects quantum circuits and
+  measurement-based computation?
+  </summary>
+  <p>
+   TODO
+  </p>
+  </details></li>
+    <li><details>
+  <summary>
+Can the "monosemantic" sparse autoencoding of LLMs be usefully formulated as a
+  quantum post-processing layer?
+  </summary>
+  <p>
+   TODO
   </p>
   </details></li>
 </ul>
-
-- What is the link between Grover search and the Heisenberg limit?
-- Are there ways to parametrize signal-processing and quantum metrology
-  techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
-- How can we leverage Shor's algorithm (and the Hidden Subgroup
-Problem more generally) to design learning algorithms? What is the corresponding
-inductive bias?
-- Can we use stabilizer states for distributed computing protocols?
-- What common syntax connects quantum circuits and
-measurement-based computation?
-- Can the "monosemantic" sparse autoencoding of LLMs be usefully formulated as a
-  quantum post-processing layer?
 
 ## Miscellaneous
 
