@@ -58,7 +58,7 @@ Using simple noise models and complexity-theoretic tools, can we
   techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
   </summary>
   <p>
-  Grover search can 
+  TODO
   </p>
   </details></li>
   <li><details>
