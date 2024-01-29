@@ -10,7 +10,6 @@ group at [Xanadu](https://www.xanadu.ai/). Prior to that, I worked in
 interested in the interplay between quantum algorithms, statistical learning theory, and
 symmetry. I also run our
 [QML journal club](https://heptar.ch/qml-jc).
-Prior to joining Xanadu,
 
 Some quantum computing questions I'd like to answer:
 
