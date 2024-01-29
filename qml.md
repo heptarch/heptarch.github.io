@@ -15,11 +15,21 @@ I did a PhD in [high energy physics](https://inspirehep.net/authors/1868975).
 
 ## Quantum computing
 
-Some quantum computing questions I'm trying to answer:
+Some quantum computing questions I'd like to answer:
 
-- Using simple noise models and complexity-theoretic tools, can we
+<ul>
+<li><details>
+  <summary>
+Using simple noise models and complexity-theoretic tools, can we
   characterize the limitations of NISQ devices for tasks like Hamiltonian
   simulation?
+  </summary>
+  <p>
+  Bla
+  </p>
+  </details></li>
+</ul>
+
 - What is the link between Grover search and the Heisenberg limit?
 - Are there ways to parametrize signal-processing and quantum metrology
   techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
