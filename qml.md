@@ -18,6 +18,25 @@ I did a PhD in [high energy physics](https://inspirehep.net/authors/1868975).
 Some quantum computing questions I'd like to answer:
 
 <ul>
+  <li><details>
+  <summary>
+  How can we leverage Shor's algorithm (and the Hidden Subgroup
+  Problem more generally) to design learning algorithms? What is the corresponding
+  inductive bias?
+  </summary>
+  <p>
+   TODO
+  </p>
+  </details></li>
+    <li><details>
+  <summary>
+  Are there ways to parametrize signal-processing and quantum metrology
+  techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
+  </summary>
+  <p>
+  TODO
+  </p>
+  </details></li>
 <li><details>
   <summary>
 Using simple noise models and complexity-theoretic tools, can we
@@ -50,25 +69,6 @@ Using simple noise models and complexity-theoretic tools, can we
   metrology</a>, which by Heisenberg's principle is also
   optimal. These two are probably the same; search is a discretized
   form of metrology.
-  </p>
-  </details></li>
-  <li><details>
-  <summary>
-  Are there ways to parametrize signal-processing and quantum metrology
-  techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
-  </summary>
-  <p>
-  TODO
-  </p>
-  </details></li>
-  <li><details>
-  <summary>
-  How can we leverage Shor's algorithm (and the Hidden Subgroup
-  Problem more generally) to design learning algorithms? What is the corresponding
-  inductive bias?
-  </summary>
-  <p>
-   TODO
   </p>
   </details></li>
   <li><details>
