@@ -48,7 +48,8 @@ Using simple noise models and complexity-theoretic tools, can we
   bound</a>. There is similar quadratic speedup for <a
   href="https://arxiv.org/abs/quant-ph/0412078">quantum
   metrology</a>, which by Heisenberg's principle is also
-  optimal. These two are probably the same.
+  optimal. These two are probably the same; search is a discretized
+  form of metrology.
   </p>
   </details></li>
   <li><details>
