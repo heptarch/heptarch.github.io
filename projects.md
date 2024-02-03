@@ -45,23 +45,27 @@ its clear that money does not buy Bell-level success.
 I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
 
-To illustrate, consider Mervin Kelly, director of research from 1936
-to 1943 and president of Bell Labs from 1951 to 1959. Kelly played a pivotal (though not
-Nobel-worthy) role in the invention of the transistor, and as
+To illustrate, consider Mervin Kelly, director of research at Bell Labs from 1936
+to 1943, and later president. A physicist by trade, Kelly played a
+pivotal (though not quite Nobel-worthy) role in the invention of the transistor, and as
 president, helped develop the laser and the solar cell.
-He was a scientist-manager par excellence, but his views on managing
-scientists would seem heretical now. Research was a "non-scheduled
+He was the scientist-manager par excellence, to paraphrase Falstaff,
+not only the cause of research in himself, but the cause that
+research is in others.
+At the same time, his views on scientific management would terrify a
+modern CEO. Research was a "non-scheduled
 area of work", so the scientists did not have to jump through the
 corporate hoops of OKRs, deadlines, or progress reports.
-
 No hustle, no crunch; just research.
+
 The buildings were designed to facilitate disciplinary cross-talk,
 stimulation, and focus. Kelly oversaw that alchemy as well. As he
 put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
 research." An ill-framed objective or a quarterly review might
-distract from their real job.
+distract from their real job. But, as the transistor shows, the
+management was not invisible;
 
 But this sort of freedom can become airless and
 feeble if not grounded in the world. And what could be more real,
