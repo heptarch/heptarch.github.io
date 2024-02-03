@@ -86,8 +86,6 @@ at the Institute itself. As Feynman memorably put it: "Nothing happens because t
 not enough real activity and challenge: You're not in contact with the
 experimental guys. You don't have to think how to answer questions
 from the students. Nothing!"
-At Bell Labs, Kelly made sure the theorists were in contact with the
-experimentalists by literally building their offices next to each other.
 
 On the other end of the spectrum, we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
@@ -112,3 +110,6 @@ years I would bet on seeing more MAMAA employees in the honour rolls.
 But I wouldn't bet on too many more. The simple reason is that
 although you net a cool million dollars, Turing awards are not a good
 investment, and these companies are superb at making money.
+
+At Bell Labs, Kelly made sure the theorists were in contact with the
+experimentalists by literally building their offices next to each other.
