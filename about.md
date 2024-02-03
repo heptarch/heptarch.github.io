@@ -4,7 +4,7 @@ title:
 permalink: /bio/
 ---
 
-Physics hacker, cyborg, and interdimensional wizard.
+Physics hacker, cyborg, interdimensional wizard.
 
 ---
 
