@@ -18,7 +18,7 @@ There are hundreds of ways to kneel and kiss the ground.
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 </div>
 
-# QML
+# RBL
 
 I'm a quantum machine learning (QML) researcher in Maria Schuld's
 group at [Xanadu](https://www.xanadu.ai/). Prior to that, I worked in
