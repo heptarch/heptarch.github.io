@@ -10,21 +10,15 @@ Physics hacker, cyborg, interdimensional wizard.
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const formulas = [
-        "c = \\sqrt{a^2 + b^2}",
-        "\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}",
-        "e^{i\\pi} + 1 = 0",
-        "\\sum_{n=1}^{\\infty} \\frac{1}{n^2} = \\frac{\\pi^2}{6}"
+    var quotes = [
+        "\[ bla \]",
+        "$$ x^2 $$",
+        "$ya$",
+        // Add more quotes here
     ];
 
-    function displayRandomFormula() {
-        const index = Math.floor(Math.random() * formulas.length);
-        const formula = formulas[index];
-        const container = document.getElementById('formula-container');
-        katex.render(formula, container);
-    }
-
-    displayRandomFormula();
+    var quoteElement = document.getElementById('quote');
+    quoteElement.innerHTML = quotes[Math.floor(Math.random() * quotes.length)];
 });
 </script>
 
