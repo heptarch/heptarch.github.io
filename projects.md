@@ -93,7 +93,7 @@ These companies have patents, papers and products aplenty, and a track
 record we can read off of their annual revenues and stock prices.
 But despite the billions of dollars being poured into applied computer
 science at these places, they share only seven Turing Awards between them, five of
-which are at Microsoft.<label for="sn-1"
+those at Microsoft.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -103,13 +103,17 @@ which are at Microsoft.<label for="sn-1"
 	   And Yann LeCun's most highly cited non-review papers come from
 	   his time at Bell Labs.
 	   </span>
-Arguably this a problem of timescale; like the Nobel,
-Turing Awards tend to arrive long after the fact. In twenty
-years I would bet on seeing more MAMAA employees in the honour rolls.
+Arguably, this a problem of timescale. Like the Nobel,
+Turing Awards tend to arrive long after the fact; in twenty
+years, I would bet on seeing more MAMAA employees on the honour rolls.
 
 But I wouldn't bet on too many more.
 The simple reason is that Turing awards are not a good investment, and
-these companies excel at making money.
+these companies excel at making money. Research is good, but only
+if it furthers that aim, and for better or worse, Big Tech knows
+there's money in fundamental algorithms research, but more money in
+strategic deployment, marketing, and product integration, which is why
+we're seeing massive cuts to places like Alphabet's `X`.
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each other.
