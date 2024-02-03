@@ -69,7 +69,7 @@ more literally grounded, than the ever-shifting requirements of a
 telecommunications giant during the most technologically explosive
 century in human history?
 Each innovation by Bell Labs, every patent, paper and prize, arose
-from a concrete problem: a lack in the system, or the possibility of
+from a concrete problem: a lack in the system, or the possibility of its
 extension or improvement.
 This is what makes Bell Labs different from, say, the Institute for
 Advanced Study, whose intellectual freedom exists on a floor of the
