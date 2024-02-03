@@ -10,15 +10,21 @@ Physics hacker, cyborg, interdimensional wizard.
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    var quotes = [
-        "The best way to predict the future is to invent it.",
-        "Life is what happens when you're busy making other plans.",
-        "You only live once, but if you do it right, once is enough.",
-        // Add more quotes here
+    const formulas = [
+        "c = \\sqrt{a^2 + b^2}",
+        "\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}",
+        "e^{i\\pi} + 1 = 0",
+        "\\sum_{n=1}^{\\infty} \\frac{1}{n^2} = \\frac{\\pi^2}{6}"
     ];
 
-    var quoteElement = document.getElementById('quote');
-    quoteElement.innerHTML = quotes[Math.floor(Math.random() * quotes.length)];
+    function displayRandomFormula() {
+        const index = Math.floor(Math.random() * formulas.length);
+        const formula = formulas[index];
+        const container = document.getElementById('formula-container');
+        katex.render(formula, container);
+    }
+
+    displayRandomFormula();
 });
 </script>
 
