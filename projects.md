@@ -87,6 +87,13 @@ not enough real activity and challenge: you're not in contact with the
 experimental guys. You don't have to think how to answer questions
 from the students. Nothing!"
 
+At Bell Labs, Kelly made sure the theorists were in contact with the
+experimentalists by literally building their offices next to each
+other.
+People would talk, share problems, and create groups across
+disciplinary lines. Claude Elwood Shannon would ride his unicycle down
+the hallway to talk to John Tukey.
+
 On the other end of the spectrum, we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
 These companies have patents, papers and products aplenty, and a track
@@ -115,6 +122,3 @@ strategic deployment, marketing, and product integration. To pick (a
 little unfairly) on Alphabet, this capitalist realpolitik explains the
 massive cuts to `X`, its "moonshot factory".
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
-
-At Bell Labs, Kelly made sure the theorists were in contact with the
-experimentalists by literally building their offices next to each other.
