@@ -83,7 +83,7 @@ security, more on-paper ivory tower-freedom, than one could poke a
 tenured chair at.
 But its successes are postselected; not much happens one people arrive
 at the Institute itself. As Feynman memorably put it: "Nothing happens because there's
-not enough real activity and challenge: You're not in contact with the
+not enough real activity and challenge: you're not in contact with the
 experimental guys. You don't have to think how to answer questions
 from the students. Nothing!"
 
