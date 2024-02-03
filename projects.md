@@ -46,7 +46,7 @@ I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
 
 To illustrate, consider Mervin Kelly, director of research from 1936
-to 1943 and presidence from 1951 to 1959. Kelly played a pivotal (though not
+to 1943 and president of Bell Labs from 1951 to 1959. Kelly played a pivotal (though not
 Nobel-worthy) role in the invention of the transistor, and as
 president, helped develop the laser and the solar cell.
 He was a scientist-manager par excellence, but his views on managing
@@ -63,4 +63,8 @@ research interest. It is most important to limit their work to that of
 research." An ill-framed objective or a quarterly review might
 constitute a distraction.
 
-But this sort of academic freedom can become an airless 
+But this sort of freedom can become airless and
+feeble if not grounded in something real. And what could be more real,
+more literally grounded, than the ever-shifting requirements of a
+telecommunications giant during the most technologically explosive
+century in human history?
