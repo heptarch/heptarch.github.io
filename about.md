@@ -9,6 +9,8 @@ Physics hacker, cyborg, interdimensional wizard.
 Also a quantum machine learning (QML) researcher in Maria Schuld's
 group at [Xanadu](https://www.xanadu.ai/).
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <div id="formula-container"></div> <br>
 
