@@ -94,11 +94,12 @@ People would talk, share problems, and create interest groups across
 disciplinary lines. Claude Elwood Shannon would ride his unicycle down
 the hallway to talk to Tukey, Bardeen or Richard Hamming. Magic would
 happen.
-But it wasn't just this atmosphere of cross-fertilizing expertise.
-More importantly, the research
-was ultimately grounded in the physical reality and ever-shifting
+But it wasn't just a critical mass of talent and cross-fertilizing expertise.
+Research was ultimately grounded in the physical reality and ever-shifting
 operational requirements of the world's largest telecommunications
 enterprise.
+
+This address Feynman's 
 
 On the other end of the spectrum, we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
