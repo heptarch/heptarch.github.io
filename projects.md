@@ -113,7 +113,7 @@ These companies excel at making money, and for better or worse, Big Tech knows
 that while there's money in fundamental algorithms research, there's far more in
 strategic deployment, marketing, and product integration. To pick (a
 little unfairly) on Alphabet, this capitalist realpolitik explains the
-massive cuts to `X`, its moonshot factory.
+massive cuts to `X`, its "moonshot factory".
 This is another reason Bell's monopoly helped; the company 
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
