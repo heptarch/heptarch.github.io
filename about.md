@@ -6,28 +6,27 @@ permalink: /bio/
 
 Physics hacker, cyborg, interdimensional wizard.
 
-<div id="formula-container"></div>
-
-<script
-src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
+<div id="formula-container"></div> <br>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const formulas = [
-        "c = \\sqrt{a^2 + b^2}",
-        "\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}",
-        "e^{i\\pi} + 1 = 0",
-        "\\sum_{n=1}^{\\infty} \\frac{1}{n^2} = \\frac{\\pi^2}{6}"
+    var formulas = [
+        '\\(x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}\\)',
+        '\\(e^{i\\pi} + 1 = 0\\)',
+        '\\(a^2 + b^2 = c^2\\)',
+        '\\(\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\)'
     ];
 
+    var formulaContainer = document.getElementById('formula-container');
+
     function displayRandomFormula() {
-        const index = Math.floor(Math.random() * formulas.length);
-        const formula = formulas[index];
-        const container = document.getElementById('formula-container');
-        katex.render(formula, container);
+        var randomIndex = Math.floor(Math.random() * formulas.length);
+        var formula = formulas[randomIndex];
+        formulaContainer.innerHTML = formula;
+        MathJax.typesetPromise(); // This line tells MathJax to process and render the new formula
     }
 
-    displayRandomFormula();
+    displayRandomFormula(); // Display a random formula when the page loads
 });
 </script>
 
