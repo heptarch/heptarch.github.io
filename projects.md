@@ -61,7 +61,7 @@ put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
 research." An ill-framed objective or a quarterly review might
-constitute a distraction.
+distract from their real job.
 
 But this sort of freedom can become airless and
 feeble if not grounded in something real. And what could be more real,
