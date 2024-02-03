@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 
 Physics hacker, cyborg, interdimensional wizard.
-Also a quantum machine learning (QML) researcher in Maria Schuld's
+Also a quantum machine learning researcher in Maria Schuld's
 group at [Xanadu](https://www.xanadu.ai/) and ex-[high energy theorist](https://inspirehep.net/authors/1868975).
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
