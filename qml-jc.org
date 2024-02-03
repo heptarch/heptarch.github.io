@@ -11,12 +11,12 @@ offer new insights or research approaches, and generally enhance our quality of 
 Here is the schedule (to be populated):
 
 | Date         | Material      | Guide              |
-|--------------+---------------+--------------------+
+|--------------+---------------+--------------------|
 | [[week0][Jan 9]], 2024  | Admin         | David Wakeham (DW) |
 | [[week1][Jan 23]], 2024 | ESL: §2.1-2.4 | DW                 |
 |              | (SVM: §1.1)   |                    |
-| Feb 6, 2024  | ESL: §2.5-2.9 | Richard East (RE)  |
-|--------------+---------------+--------------------+
+| [[week2][Feb 6]], 2024 | ESL: §2.5-2.9 | DW                 |
+|--------------+---------------+--------------------|
 
 Notes on past meetings are in chronological order below.
 
@@ -38,10 +38,10 @@ parentheses in the schedule), and a guide or guides who have agreed (or been
 voluntold) to talk us through the readings. Notes will be uploaded here. For any
 corrections, email [[mailto:7@heptar.ch][~<7@heptar.ch>~]].
 
-* <<week1>> Introduction
+* Introduction
 -----
 
-** Statistical learning theory in brief
+** <<week1>> Statistical learning theory in brief
 
 *Reading*: [[SVM][SVM]]: §1.1.
 
@@ -368,6 +368,12 @@ in the conditional distribution.
 Nearest neighbours gives a local estimate of this conditional
 distribution from the neighbourhood majority vote, so we have yet
 another way to think about what nearest neighbours does.
+** <<week2>> Dimensionality and prediction
+
+*Reading*: [[ESL][ESL]]: §2.5--6.
+** Regression, restriction and selection
+
+*Reading*: [[ESL][ESL]]: §2.7--9.
 * References
 -----
 1. <<ESL>> [[https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf][/Elements of Statistical Learning/]] (2008), Hastie, 
