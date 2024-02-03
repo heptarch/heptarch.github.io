@@ -38,9 +38,10 @@ But plenty of researchers
 have security of funding and don't win a Nobel Prize or a Turing Award. Money is only something you worry about when there isn't
 enough!
 Of course, good industrial research is expensive, and more money
-means more talent, equipment, and time. But from a
-quick survey of well-heeled Ivies and moonshot factories of Big Tech,
-its clear that money is not enough to explain Bell Labs' success.
+means more talent, more equipment, and more time. But outcomes are not
+linear in these, and from a quick survey of labs in the well-heeled
+Ivies or the moonshot factories of Big Tech,
+its clear that money does not buy Bell-level success.
 I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
 
