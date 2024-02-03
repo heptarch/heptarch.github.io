@@ -16,7 +16,7 @@ group at [Xanadu](https://www.xanadu.ai/).
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var formulas = [
-        '$$\int_{\mathcal{M}} \mathrm{d}\omega = \int_{\partial \mathcal{M}} \omega \tag{1}$$',
+        '$$\int\_{\mathcal{M}} \mathrm{d}\omega = \int\_{\partial \mathcal{M}} \omega \tag{1}$$',
         '$$e^{i\\pi} + 1 = 0$$',
         '\\[a^2 + b^2 = c^2\\]',
         '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
