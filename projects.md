@@ -108,14 +108,13 @@ Turing Awards tend to arrive long after the fact; in twenty
 years, I would bet on seeing more MAMAA employees on the honour rolls.
 
 But I wouldn't bet on too many more.
-The simple reason is that Turing awards are not a good investment, and
-these companies excel at making money. Research is good, but only
-if it furthers that aim, and for better or worse, Big Tech knows
-there's money in fundamental algorithms research, but more money in
+The simple reason is that Turing awards are not a good investment.
+These companies excel at making money, and for better or worse, Big Tech knows
+that while there's money in fundamental algorithms research, there's far more in
 strategic deployment, marketing, and product integration. That's why
-Alphabet is making massive cuts to places like `X` but not Google's cloud
-support team.
-
+Alphabet is making massive cuts to places like `X`, and DeepMind is
+turning from a place for fundamental research to a generative AI
+pipeline.
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each other.
