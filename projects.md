@@ -29,7 +29,7 @@ Bell Labs was a cool place. Over the course of a century, its researchers invent
 lasers, the transistor, information theory, modern cryptography,
 error-correcting codes, the Cosmic Microwave Background, electron diffraction, photovoltaic cells,
 MOSFET, charge-coupled devices, optical fibres, `UNIX`, `C`, Grover search,
-Shor's algorithm, and other innovations too numerous to name.
+Shor's algorithm, among other innovations too numerous to name.
 What made it special? Money, to begin with. Bell Labs operated
 under the auspices of a state telecommunications monopoly, so no one had to hustle for
 grants, venture capital, or quarterly revenue.
