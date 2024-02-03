@@ -17,7 +17,7 @@ group at [Xanadu](https://www.xanadu.ai/) ,and ex-[high energy theorist](https:/
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var formulas = [
-        '$$e^{i\\pi} + 1 = 0$$',
+        '$$e^{i\\pi} + 1 = 0$$ (90)',
         '\\[a^2 + b^2 = c^2\\]',
         '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
     ];
