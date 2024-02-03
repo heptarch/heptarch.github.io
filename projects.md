@@ -4,7 +4,7 @@ title:
 permalink: /rbl/
 ---
 
-<div style="background-color: #212433 ; padding: 20px; border: 0px solid
+<div style="background-color: #212433 ; padding: 40px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
 Today, like every other day, we wake up empty
 and frightened.<br>
@@ -17,6 +17,8 @@ There are hundreds of ways to kneel and kiss the ground.
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 </div>
+
+# QML
 
 I'm a quantum machine learning (QML) researcher in Maria Schuld's
 group at [Xanadu](https://www.xanadu.ai/). Prior to that, I worked in
