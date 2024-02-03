@@ -99,7 +99,11 @@ Research was ultimately grounded in the physical reality and ever-shifting
 operational requirements of the world's largest telecommunications
 enterprise.
 
-This address Feynman's 
+There was freedom, but it was connected  in something real; it was very
+different from the thin, enfeebled freedom to think that Feynman
+criticized. Think about what? In the middle of the air, you have no
+purchase or orientation; but set your feet on the ground, and the
+freedom to move in any direction starts to count for something.
 
 On the other end of the spectrum, we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
@@ -125,7 +129,6 @@ But I wouldn't bet on too many more.
 The simple reason is that Turing awards are not a good investment.
 These companies excel at making money, and for better or worse, Big Tech knows
 that while there's money in fundamental algorithms research, there's far more in
-strategic deployment, marketing, and product integration. To pick (a
-little unfairly) on Alphabet, this capitalist realpolitik explains the
-massive cuts to `X`, its "moonshot factory".
+strategic deployment, marketing, and product integration. To pick on
+Alphabet, this capitalist realpolitik explains the massive cuts to its "moonshot factory" `X`.
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
