@@ -62,3 +62,5 @@ freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
 research." An ill-framed objective or a quarterly review might
 constitute a distraction.
+
+But this sort of academic freedom can become an airless 
