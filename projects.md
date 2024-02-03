@@ -57,4 +57,8 @@ corporate hoops of OKRs, deadlines, or progress reports.
 They did not crunch; they did not hustle.
 In fact, their only goal was research.
 The buildings were designed to facilitate disciplinary cross-talk,
-stimulation, and focus; Kelly oversaw that alchemy as well.
+stimulation, and focus; Kelly oversaw that alchemy as well. As Kelly
+put it, "We give much attention to the maintenance of an atmosphere of
+freedom and an environment stimulating to scholarship and scientific
+research interest. It is most important to limit their work to that of
+research."
