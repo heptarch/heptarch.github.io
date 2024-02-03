@@ -46,6 +46,13 @@ I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
 
 To illustrate, consider Mervin Kelly, director of research from 1936
-to 1943 and presidence from 1951 to 1959. Kelly was pivotal
-to the invention of the transistor, and as president, helped develop
-the laser and the solar cell.
+to 1943 and presidence from 1951 to 1959. Kelly played a pivotal (though not
+Nobel-worthy) role in the invention of the transistor, and as
+president, helped develop the laser and the solar cell.
+He was a scientist-manager par excellence, but his views on managing
+scientists would seem heretical now. Research was a "non-scheduled
+area of work", so the scientists did not have to jump through the
+corporate hoops of OKRs, deadlines, or progress reports. They did not
+crunch.
+
+In fact, their only goal was 
