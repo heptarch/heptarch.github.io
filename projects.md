@@ -36,7 +36,7 @@ MOSFET, charge-coupled devices, optical fibres, `UNIX`, `C`, support
 vector machines, the Fast Fourier Transform, Grover search,
 and Shor's algorithm, and other innovations too numerous to name.
 What made it special? Money, to begin with. Bell Labs operated
-under the auspices of a state telecommunications monopoly, so no one had to hustle for
+under the auspices of a state monopoly, so no one had to hustle for
 grants, venture capital, or quarterly revenue.
 
 But plenty of researchers
@@ -63,7 +63,7 @@ area of work", so the scientists did not have to jump through the
 corporate hoops of OKRs, deadlines, or progress reports.
 No hustle, no crunch; just research.
 
-The buildings were designed to facilitate disciplinary cross-talk,
+The buildings were designed to facilitate disciplinary cross-talk, intellectual
 stimulation, and focus. Kelly oversaw that alchemy as well. As he
 put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
