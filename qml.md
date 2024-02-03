@@ -10,19 +10,3 @@ group at [Xanadu](https://www.xanadu.ai/). Prior to that, I worked in
 interested in the interplay between quantum algorithms, statistical learning theory, and
 symmetry. I also run our
 [QML journal club](https://heptar.ch/qml-jc).
-
-Some questions I'm thinking about:
-
-- How can we leverage Shor's algorithm (and the Hidden Subgroup
-Problem more generally) to design learning algorithms? What is the corresponding
-inductive bias?
-- Are there ways to parametrize signal-processing and quantum metrology
-  techniques to optimize, e.g. energy estimation protocols on ISQ/EFT devices?
-- Using simple noise models and complexity-theoretic tools, can we
-  characterize the limitations of NISQ devices for tasks like QML and
-  Hamiltonian simulation?
-- What is the link between Grover search and the Heisenberg
-       limit?
-- Can the "monosemantic" sparse autoencoding of LLMs be usefully formulated as a
-  quantum post-processing layer?
-- Can we use stabilizer states for distributed computing protocols?
