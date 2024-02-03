@@ -37,8 +37,8 @@ grants, venture capital, or quarterly revenue.
 But lots of researchers
 have security of funding and don't win a Nobel Prize or an IEEE
 Medal. Money is only something you worry about when there isn't
-enough.
-Then again, good industrial research is expensive, and more money
+enough!
+Of course, good industrial research is expensive, and more money
 means more talent, equipment, and time. But from a
 quick survey of well-heeled Ivies and moonshot factories of Big Tech,
 its clear that money is not enough to explain Bell Labs' success.
