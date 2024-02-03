@@ -34,7 +34,7 @@ What made it special? Money, to begin with. Bell Labs operated
 under the auspices of a state telecommunications monopoly, so no one had to hustle for
 grants, venture capital, or quarterly revenue.
 
-But lots of researchers
+But plenty of researchers
 have security of funding and don't win a Nobel Prize or an IEEE
 Medal. Money is only something you worry about when there isn't
 enough!
