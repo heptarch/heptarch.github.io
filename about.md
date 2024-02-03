@@ -5,7 +5,6 @@ permalink: /bio/
 ---
 
 Physics hacker, cyborg, interdimensional wizard.
-
 Also a quantum machine learning researcher in Maria Schuld's
 group at [Xanadu](https://www.xanadu.ai/) ,and ex-[high energy theorist](https://inspirehep.net/authors/1868975).
 
@@ -17,7 +16,7 @@ group at [Xanadu](https://www.xanadu.ai/) ,and ex-[high energy theorist](https:/
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var formulas = [
-        '$$e^{i\\pi} + 1 = 0$$ (90)',
+        '$$e^{i\\pi} + 1 = 0$$',
         '\\[a^2 + b^2 = c^2\\]',
         '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
     ];
