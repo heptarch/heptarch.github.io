@@ -6,6 +6,22 @@ permalink: /bio/
 
 Physics hacker, cyborg, interdimensional wizard.
 
+<div id="quote"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var quotes = [
+        "The best way to predict the future is to invent it.",
+        "Life is what happens when you're busy making other plans.",
+        "You only live once, but if you do it right, once is enough.",
+        // Add more quotes here
+    ];
+
+    var quoteElement = document.getElementById('quote');
+    quoteElement.innerHTML = quotes[Math.floor(Math.random() * quotes.length)];
+});
+</script>
+
 ---
 
 <a rel="license"
