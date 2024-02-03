@@ -109,4 +109,6 @@ Arguably this a problem of timescale. Like the Nobel Prize,
 Turing Awards tend to arrive long after the fact, so in twenty
 years I would bet on seeing more MAMAA employees in the honour rolls.
 
-But I wouldn't bet on too many.
+But I wouldn't bet on too many more. The simple reason is that
+although you net a cool million dollars, Turing awards are not a good
+investment, and these companies are superb at making money.
