@@ -68,3 +68,5 @@ feeble if not grounded in something real. And what could be more real,
 more literally grounded, than the ever-shifting requirements of a
 telecommunications giant during the most technologically explosive
 century in human history?
+Each innovation by Bell Labs, every patent, paper and prize, arose
+from some concrete need of the system.
