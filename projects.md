@@ -32,8 +32,14 @@ grants, venture capital, or quarterly revenue.
 
 But lots of researchers
 have security of funding and don't win a Nobel Prize or a Turing
-Award; money is something you worry about when there isn't
+Award. Money is only something you worry about when there isn't
 enough.
-So what else? Another distinguishing feature was focus. Bell Labs was
-first *Bell Telephone Laboratories*, the R&D division of Alexander
-Graham Bell's telephone company, and later *AT&T Bell Laboratories*.
+Then again, good industrial research is expensive, and more money
+means more talent, equipment, and time. But from a
+quick survey of well-heeled Ivies and moonshot factories of Big Tech,
+its that money is not sufficient to explain Bell Labs' success.
+
+I think the special sauce was not material, but philosophical.
+Mervin Kelly, who directed research 1936 to 1943, was a pivotal force
+in the invention of the transistor, and after being elected president
+of Bell Labs, helped develop the laser and the solar cell.
