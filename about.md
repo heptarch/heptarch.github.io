@@ -19,10 +19,10 @@ symmetry. I also run our
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var formulas = [
-        '\\(x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}\\)',
-        '\\(e^{i\\pi} + 1 = 0\\)',
-        '\\(a^2 + b^2 = c^2\\)',
-        '\\(\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\)'
+        '$$x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}$$',
+        '$$e^{i\\pi} + 1 = 0$$',
+        '\\[a^2 + b^2 = c^2\\]',
+        '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
     ];
 
     var formulaContainer = document.getElementById('formula-container');
