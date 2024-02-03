@@ -52,9 +52,9 @@ president, helped develop the laser and the solar cell.
 He was a scientist-manager par excellence, but his views on managing
 scientists would seem heretical now. Research was a "non-scheduled
 area of work", so the scientists did not have to jump through the
-corporate hoops of OKRs, deadlines, or progress reports. They did not
-crunch and they did not hustle.
+corporate hoops of OKRs, deadlines, or progress reports.
 
-In fact, their only goal was research, and the buildings were designed
-to ensure they were engaged, stimulated by cross-disciplinary
-interactions, and focused.
+They did not crunch; they did not hustle.
+In fact, their only goal was research.
+The buildings were designed to facilitate disciplinary cross-talk,
+stimulation, and focus; Kelly oversaw that alchemy as well.
