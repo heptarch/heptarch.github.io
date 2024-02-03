@@ -99,11 +99,11 @@ Research was ultimately grounded in the physical reality and ever-shifting
 operational requirements of the world's largest telecommunications
 enterprise.
 
-There was freedom, but it was connected  in something real; it was very
-different from the thin, enfeebled freedom to think that Feynman
-criticized. Think about what? In the middle of the air, you have no
-purchase or orientation; but set your feet on the ground, and the
-freedom to move in any direction starts to count for something.
+This is very different from the thin, enfeebled freedom that Feynman
+criticized. Freedom to think, but about what? In mid-air, you have no
+purchase or orientation; set your feet on the earth, and the freedom
+to move can guide you towards that landmark in the distance.
+The
 
 On the other end of the spectrum, we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
