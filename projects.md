@@ -60,4 +60,5 @@ stimulation, and focus. Kelly oversaw that alchemy as well. As he
 put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
-research."
+research." An ill-framed objective or a quarterly review might
+constitute a distraction.
