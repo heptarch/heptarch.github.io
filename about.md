@@ -16,10 +16,9 @@ group at [Xanadu](https://www.xanadu.ai/) and ex-[high energy theorist](https://
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var formulas = [
-        '$$\int\_{\mathcal{M}} \mathrm{d}\omega = \int\_{\partial \mathcal{M}} \omega \tag{1}$$',
-        '$$e^{i\\pi} + 1 = 0$$',
-        '\\[a^2 + b^2 = c^2\\]',
-        '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
+        '$$e^{i\\pi} + 1 = 0 \tag{12}$$',
+        '\\[a^2 + b^2 = c^2 \tag{80}\\]',
+        '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi} \tag{497}\\]'
     ];
 
     var formulaContainer = document.getElementById('formula-container');
