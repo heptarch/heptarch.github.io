@@ -113,7 +113,7 @@ these companies excel at making money. Research is good, but only
 if it furthers that aim, and for better or worse, Big Tech knows
 there's money in fundamental algorithms research, but more money in
 strategic deployment, marketing, and product integration. That's why
-Alphabet is making massive cuts to places like `X` but not its cloud
+Alphabet is making massive cuts to places like `X` but not Google's cloud
 support team.
 
 
