@@ -40,6 +40,7 @@ quick survey of well-heeled Ivies and moonshot factories of Big Tech,
 its that money is not sufficient to explain Bell Labs' success.
 
 I think the special sauce was not material, but philosophical.
-Mervin Kelly, who directed research 1936 to 1943, was a pivotal force
-in the invention of the transistor, and after being elected president
-of Bell Labs, helped develop the laser and the solar cell.
+To illustrate, consider Mervin Kelly, director of research from 1936
+to 1943 and presidence from 1951 to 1959. Kelly was pivotal
+to the invention of the transistor, and as president, helped develop
+the laser and the solar cell.
