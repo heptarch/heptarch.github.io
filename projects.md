@@ -90,9 +90,15 @@ from the students. Nothing!"
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each
 other.
-People would talk, share problems, and create groups across
+People would talk, share problems, and create interest groups across
 disciplinary lines. Claude Elwood Shannon would ride his unicycle down
-the hallway to talk to John Tukey.
+the hallway to talk to Tukey, Bardeen or Richard Hamming. Magic would
+happen.
+But it wasn't just this atmosphere of cross-fertilizing expertise.
+More importantly, the research
+was ultimately grounded in the physical reality and ever-shifting
+operational requirements of the world's largest telecommunications
+enterprise.
 
 On the other end of the spectrum, we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
