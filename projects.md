@@ -72,5 +72,5 @@ Each innovation by Bell Labs, every patent, paper and prize, arose
 from a concrete problem: a lack in the system, or the possibility of its
 extension or improvement.
 This is what makes Bell Labs different from, say, the Institute for
-Advanced Study, whose intellectual freedom exists on a floor of the
+Advanced Study, whose infinite freedoms exists on a floor of the
 ivory tower the cardinal numbers cannot reach.
