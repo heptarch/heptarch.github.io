@@ -22,7 +22,7 @@ There are hundreds of ways to kneel and kiss the ground.
 ## Contents <a id="tbc" name="tbc"></a>
 
 1. <a href="#sec-1"><i>The Kelly gang</i></a>
-1. <a href="#sec-2"><i>Freedom and focus</i></a>
+1. <a href="#sec-2"><i>Grounded freedom</i></a>
 
 ## 1. <a href="#tbc">The Kelly gang</a><a id="sec-1" name="sec-1"></a>
 
@@ -71,7 +71,7 @@ invisible; as the transistor shows, he saw his researchers as
 collaborators rather than underlings, and directed their efforts with
 superb managerial and technical insight *from the inside*.
 
-## 2. <a href="#tbc">Freedom and focus</a><a id="sec-2" name="sec-2"></a>
+## 2. <a href="#tbc">Grounded freedom</a><a id="sec-2" name="sec-2"></a>
 
 Kelly directed Bell Labs for less than $10$ years. There were many Kellys. The only way to
 sustain that sort of success for a century, I would argue, is to marry material
@@ -112,8 +112,9 @@ The simple reason is that Turing awards are not a good investment.
 These companies excel at making money, and for better or worse, Big Tech knows
 that while there's money in fundamental algorithms research, there's far more in
 strategic deployment, marketing, and product integration. To pick (a
-little unfairly) on Alphabet, this capitalist realpolitik is why it's
-making massive cuts to its moonshot factory, `X`.
+little unfairly) on Alphabet, this capitalist realpolitik explains the
+massive cuts to `X`, its moonshot factory.
+This is another reason Bell's monopoly helped; the company 
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each other.
