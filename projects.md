@@ -53,6 +53,8 @@ He was a scientist-manager par excellence, but his views on managing
 scientists would seem heretical now. Research was a "non-scheduled
 area of work", so the scientists did not have to jump through the
 corporate hoops of OKRs, deadlines, or progress reports. They did not
-crunch.
+crunch and they did not hustle.
 
-In fact, their only goal was 
+In fact, their only goal was research, and the buildings were designed
+to ensure they were engaged, stimulated by cross-disciplinary
+interactions, and focused.
