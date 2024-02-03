@@ -69,4 +69,7 @@ more literally grounded, than the ever-shifting requirements of a
 telecommunications giant during the most technologically explosive
 century in human history?
 Each innovation by Bell Labs, every patent, paper and prize, arose
-from some concrete need of the system.
+from a concrete problem: a lack in the system, or the possibility of
+extension or improvement.
+This is what makes Bell Labs different from, say, the Institute for
+Advanced Study, which despite the infinite freedom
