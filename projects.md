@@ -112,8 +112,10 @@ The simple reason is that Turing awards are not a good investment, and
 these companies excel at making money. Research is good, but only
 if it furthers that aim, and for better or worse, Big Tech knows
 there's money in fundamental algorithms research, but more money in
-strategic deployment, marketing, and product integration, which is why
-we're seeing massive cuts to places like Alphabet's `X`.
+strategic deployment, marketing, and product integration. That's why
+Alphabet is making massive cuts to places like `X` but not its cloud
+support team.
+
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each other.
