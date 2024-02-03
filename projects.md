@@ -21,11 +21,11 @@ There are hundreds of ways to kneel and kiss the ground.
 
 ## Contents <a id="tbc" name="tbc"></a>
 
-1.  <a href="#sec-2"><i>An essay</i></a>
+1.  <a href="#sec-2"><i>La vita è Bell</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Grounded freedom</i></a>
 
-## 2. <a href="#tbc">An essay</a><a id="sec-2" name="sec-2"></a>
+## 2. <a href="#tbc">La vita è Bell</a><a id="sec-2" name="sec-2"></a>
 
 ### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
