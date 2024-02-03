@@ -5,7 +5,6 @@ permalink: /bio/
 ---
 
 Physics hacker, cyborg, interdimensional wizard.
-
 Also a quantum machine learning (QML) researcher in Maria Schuld's
 group at [Xanadu](https://www.xanadu.ai/).
 
@@ -17,7 +16,7 @@ group at [Xanadu](https://www.xanadu.ai/).
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var formulas = [
-        '$$x = {-b \\pm \\sqrt{b^2-4ac} \\over 2a}$$',
+        '$$\int_{\mathcal{M}} \mathrm{d}\omega = \int_{\partial \mathcal{M}} \omega \tag{1}$$',
         '$$e^{i\\pi} + 1 = 0$$',
         '\\[a^2 + b^2 = c^2\\]',
         '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
