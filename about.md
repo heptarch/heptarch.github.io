@@ -5,9 +5,9 @@ permalink: /bio/
 ---
 
 Physics hacker, cyborg, interdimensional wizard.
-Also a quantum machine learning researcher at [Xanadu](https://www.xanadu.ai/), and
+Also a quantum machine learning researcher at [Xanadu](https://www.xanadu.ai/) and
 ex-[high energy theorist](https://inspirehep.net/authors/1868975).
-Thanks for visiting.
+Thanks for visiting!
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
