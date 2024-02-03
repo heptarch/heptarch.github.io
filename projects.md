@@ -64,7 +64,7 @@ research." An ill-framed objective or a quarterly review might
 distract from their real job.
 
 But this sort of freedom can become airless and
-feeble if not grounded in something real. And what could be more real,
+feeble if not grounded in the world. And what could be more real,
 more literally grounded, than the ever-shifting requirements of a
 telecommunications giant during the most technologically explosive
 century in human history?
