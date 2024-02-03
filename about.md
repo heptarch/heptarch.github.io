@@ -6,19 +6,28 @@ permalink: /bio/
 
 Physics hacker, cyborg, interdimensional wizard.
 
-<div id="quote"></div>
+<div id="formula-container"></div>
+
+<script
+src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    var quotes = [
-        "\[ bla \]",
-        "$$ x^2 $$",
-        "$ya$",
-        // Add more quotes here
+    const formulas = [
+        "c = \\sqrt{a^2 + b^2}",
+        "\\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}",
+        "e^{i\\pi} + 1 = 0",
+        "\\sum_{n=1}^{\\infty} \\frac{1}{n^2} = \\frac{\\pi^2}{6}"
     ];
 
-    var quoteElement = document.getElementById('quote');
-    quoteElement.innerHTML = quotes[Math.floor(Math.random() * quotes.length)];
+    function displayRandomFormula() {
+        const index = Math.floor(Math.random() * formulas.length);
+        const formula = formulas[index];
+        const container = document.getElementById('formula-container');
+        katex.render(formula, container);
+    }
+
+    displayRandomFormula();
 });
 </script>
 
