@@ -41,9 +41,10 @@ enough.
 Then again, good industrial research is expensive, and more money
 means more talent, equipment, and time. But from a
 quick survey of well-heeled Ivies and moonshot factories of Big Tech,
-its that money is not sufficient to explain Bell Labs' success.
+its clear that money is not enough to explain Bell Labs' success.
+I think the special sauce was not material—the cash flow or the
+personnel or the supply of oscilloscopes—but philosophical.
 
-I think the special sauce was not material, but philosophical.
 To illustrate, consider Mervin Kelly, director of research from 1936
 to 1943 and presidence from 1951 to 1959. Kelly was pivotal
 to the invention of the transistor, and as president, helped develop
