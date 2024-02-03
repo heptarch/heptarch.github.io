@@ -92,8 +92,8 @@ MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
 These companies have patents, papers and products aplenty, and a track
 record we can read off of their annual revenues and stock prices.
 But despite the billions of dollars being poured into applied computer
-science at these places, they share only seven Turing Awards between them, and five of
-those are at Microsoft.<label for="sn-1"
+science at these places, they share only seven Turing Awards between them, five of
+which are at Microsoft.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -103,13 +103,13 @@ those are at Microsoft.<label for="sn-1"
 	   And Yann LeCun's most highly cited non-review papers come from
 	   his time at Bell Labs.
 	   </span>
-Arguably this a problem of timescale. Like the Nobel Prize,
-Turing Awards tend to arrive long after the fact, so in twenty
+Arguably this a problem of timescale; like the Nobel,
+Turing Awards tend to arrive long after the fact. In twenty
 years I would bet on seeing more MAMAA employees in the honour rolls.
+But I wouldn't bet on too many more.
 
-But I wouldn't bet on too many more. The simple reason is that
-although you net a cool million dollars, Turing awards are not a good
-investment, and these companies are superb at making money.
+The simple reason is that Turing awards are not a good investment, and
+these companies excel at making money.
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each other.
