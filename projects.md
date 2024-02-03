@@ -112,7 +112,7 @@ The simple reason is that Turing awards are not a good investment.
 These companies excel at making money, and for better or worse, Big Tech knows
 that while there's money in fundamental algorithms research, there's far more in
 strategic deployment, marketing, and product integration. To pick (a
-little unfairly) on Alphabet, this capitalist realpolitic is why it's
+little unfairly) on Alphabet, this capitalist realpolitik is why it's
 making massive cuts to its moonshot factory, `X`.
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
