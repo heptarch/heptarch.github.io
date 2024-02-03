@@ -35,8 +35,7 @@ under the auspices of a state telecommunications monopoly, so no one had to hust
 grants, venture capital, or quarterly revenue.
 
 But plenty of researchers
-have security of funding and don't win a Nobel Prize or an IEEE
-Medal. Money is only something you worry about when there isn't
+have security of funding and don't win a Nobel Prize or a Turing Award. Money is only something you worry about when there isn't
 enough!
 Of course, good industrial research is expensive, and more money
 means more talent, equipment, and time. But from a
