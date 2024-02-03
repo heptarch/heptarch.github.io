@@ -90,7 +90,7 @@ from the students. Nothing!"
 On the other end of the spectrum, we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
 These companies have patents, papers and products aplenty, and a track
-record we can read off of their annual revenues and stock prices.
+record we can read off of their stock prices.
 But despite the billions of dollars being poured into applied computer
 science at these places, they share only seven Turing Awards between them, five of
 those at Microsoft.<label for="sn-1"
@@ -114,7 +114,7 @@ that while there's money in fundamental algorithms research, there's far more in
 strategic deployment, marketing, and product integration. To pick (a
 little unfairly) on Alphabet, this capitalist realpolitik explains the
 massive cuts to `X`, its "moonshot factory".
-This is another reason Bell's monopoly helped; the company 
+With a state-backed monopoly, this realpolitik just didn't apply to Bell.
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each other.
