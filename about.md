@@ -4,10 +4,9 @@ title:
 permalink: /bio/
 ---
 
-Physics hacker, cyborg, interdimensional wizard.
-Also a quantum machine learning researcher at [Xanadu](https://www.xanadu.ai/) and
-ex-[high energy theorist](https://inspirehep.net/authors/1868975).
-You can find my old site [here](hapax.github.io).
+<div id="formula" style="padding: 20px; border: 1px solid #000;
+margin: 20px 0; text-align: center">Physics hacker, cyborg,
+interdimensional wizard.</div>
 
 ---
 
