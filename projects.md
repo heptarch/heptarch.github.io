@@ -4,6 +4,8 @@ title:
 permalink: /rbl/
 ---
 
+# Rebel Labs
+
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
 Today, like every other day, we wake up empty
@@ -21,9 +23,12 @@ There are hundreds of ways to kneel and kiss the ground.
 
 ## Contents <a id="tbc" name="tbc"></a>
 
-1.  <a href="#sec-2"><i>La vita è Bell</i></a>
+1. <a href="#sec-1"><i>Open sesame</i></a>
+2.  <a href="#sec-2"><i>La vita è Bell</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Grounded freedom</i></a>
+
+## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
 
 ## 2. <a href="#tbc">La vita è Bell</a><a id="sec-2" name="sec-2"></a>
 
