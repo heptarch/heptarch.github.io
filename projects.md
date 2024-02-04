@@ -139,7 +139,16 @@ operational requirements of the world's largest telecommunications
 enterprise.
 
 It was the job of directors like Kelly to understand those operational
-gaps or possibilities for improvement, and pipe them into the lab.
+gaps or possibilities for improvement, and pipe them into the lab.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	  See <a href="#sect-2-3">§2.3</a> for more on the institutional
+	  mechanics here.
+	   </span>
 If done properly, it meant there was never any shortage of hard and
 important problems to work on.
 This is very different from the enfeebled freedom that Feynman
@@ -205,4 +214,8 @@ We might cautiously conclude that the recipe for success is equal
 parts good science, good management, and good institutional practice,
 with considerable overlap between ingredients.
 
-Is there more to it than the alchemy of this ill-specified mixture?
+I suspect there is both more and less to the success of Bell Labs than
+the alchemy of this ill-specified mixture. More because, as we learn
+from Kelly's lecture, Bell Labs had a rigid and highly systematic
+division of labour, of which fundamental research was only one
+part. This 
