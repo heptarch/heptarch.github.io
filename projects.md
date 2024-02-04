@@ -42,7 +42,7 @@ under the auspices of a state monopoly, so no one had to hustle for
 grants, venture capital, or quarterly revenue.
 
 But most steadily funded researchers don't win a Nobel Prize or a
-Turing Award. Money is only something you worry about when there isn't
+Turing Award. By itself money doesn't make good research; it's something you worry about when there isn't
 enough!
 Of course, good industrial research is expensive, and more money
 means more talent, more equipment, and more time. But outcomes are not
