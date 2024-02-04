@@ -22,14 +22,14 @@ There are hundreds of ways to kneel and kiss the ground.
 ## Contents <a id="tbc" name="tbc"></a>
 
 1. <a href="#sec-1"><i>Open sesame</i></a>
-2.  <a href="#sec-2"><i>Creative technology</i></a>
+2.  <a href="#sec-2"><i>How to do creative fundamental research</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Between the tower and the boardroom</i></a>
 	2. <a href="#sec-2-3"><i>Tower and boardroom</i></a>
 
 ## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
 
-## 2. <a href="#tbc">Creative technology</a><a id="sec-2" name="sec-2"></a>
+## 2. <a href="#tbc">How to do creative fundamental research</a><a id="sec-2" name="sec-2"></a>
 
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
@@ -189,3 +189,5 @@ the laser does; they don't need to exist.
 This is, I suspect, the Big Tech analogue of the IAS, where (again in
 Feynman's words) "These poor bastards could now sit and think clearly
 all by themselves, OK?"
+
+Be
