@@ -122,10 +122,10 @@ One might be inclined to view this "institute of creative technology"
 as a lucky and unrepeatable confluence of factors.
 But Kelly directed Bell Labs for less than 10 years; there were many Kellys. The only way to
 sustain success at that level for a century, I would argue, is to
-marry secure funding and good structural policy with a philosophy of
+marry material stability and good structure with a philosophy of
 creative applied research that works.
 Kelly gives us hints about this philosophy, but to help fill out the
-negative space, we can look at some institutions which do
+negative space, we can look at institutions which do
 *not* give rise to exceptional applied research.
 
 ### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
@@ -161,16 +161,20 @@ metallurgists taught the chemists a cool trick that raised a weird
 question about polymer synthesis, and later that day, a chemist
 nerdsniped a materials physicist. Magic would happen.
 But it wasn't just a critical mass of talent and cross-fertilizing
-expertise: the research was ultimately grounded in the physical reality and ever-shifting
+expertise: the research was ultimately grounded in the ever-shifting
 operational requirements of the world's largest telecommunications
 enterprise.
 
-It was the job of directors like Kelly to understand those operational
-gaps or possibilities for improvement, and pipe them into the lab.
-If done properly, it meant there was never any shortage of hard and
-important problems to work on.
-This is very different from the enfeebled freedom at the IAS that Feynman
-criticized; the freedom to think, but about what? In mid-air, you have no
+This did not literally mean solving Bell's operational conundra;
+rather, through good management and institutional structure,
+researchers would use their freedom to obey Paul Graham's dictum: “live in the future, then build what's
+missing".
+Or, as Kelly put it, the idea was to provide "the coupling between the
+ever-advancing forefront of pure science and the forward march of our
+communications technology. The closer the coupling, the more
+completely will we keep in step with the progress of science."
+This is worlds away from the enfeebled freedom at the IAS that Feynman
+lampooned; the freedom to think, but about what? In mid-air, you have no
 purchase or sense of direction. Set your feet on the earth, however,
 and the freedom to move can guide you towards the glittering landmarks
 in the distance.
