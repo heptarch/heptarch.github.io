@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title></title>
-<!-- 2024-02-02 Fri 10:13 -->
+<!-- 2024-02-04 Sun 10:36 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <style type="text/css">
@@ -721,6 +721,31 @@ another way to think about what nearest neighbours does.
 <div class="outline-text-3" id="text-2-4">
 <p>
 <b>Reading</b>: <a href="#ESL">ESL</a>: §2.5&#x2013;6.
+</p>
+
+<p>
+It may seem like, whenever we have a good amount of data, we should
+use nearest neighbours since it provides a universal approximation
+method. Just use all that data to average, and we should get a good
+approximation to the conditional mean. Unfortunately, this naive
+expectation breaks down when our data lives in a high-dimensional
+space, due to the <i>curse of dimensionality</i>. The basic problem is
+that, in order to reliably approximate the value of a function at a
+point by averaging, we need the neighbours to be well-distributed
+throughout this neighbourhood. But the volume of the neighbourhood
+grows very quick with dimension!
+</p>
+
+<div class="figure">
+<p><img src="./img/qml/esl-intro5.png" alt="Curse of dimensionality. image" align="center" width="400px" style="display:inline;margin:-30px;" />
+</p>
+</div>
+
+<p>
+As an example, consider nearest neighbours for points distributed
+uniformly in a \(p\)-dimensional unit hypercube \([0, 1]^p\),
+above left. If we want to approximate for a target point in the bottom
+left, we might send out a little hypercubical neighbourhood. The variance
 </p>
 </div>
 </div>
