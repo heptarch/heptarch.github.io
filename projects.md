@@ -155,9 +155,11 @@ At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each
 other.
 People would talk, share problems, and create interest groups across
-disciplinary lines. Claude Elwood Shannon would ride his unicycle down
-the hallway to talk to Tukey, Bardeen or Richard Hamming. Magic would
-happen.
+disciplinary lines. Claude Elwood Shannon might ride his unicycle down
+the hallway to talk to Tukey, Bardeen or Richard Hamming; the
+metallurgists taught the chemists a cool trick that raised a weird
+question about polymer synthesis, and later that day, a chemist
+nerdsniped a materials physicist. Magic would happen.
 But it wasn't just a critical mass of talent and cross-fertilizing
 expertise: the research was ultimately grounded in the physical reality and ever-shifting
 operational requirements of the world's largest telecommunications
