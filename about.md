@@ -35,7 +35,7 @@ const items = [
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
-</script>
+</script> <br>
 
 <div style="text-align:center"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
