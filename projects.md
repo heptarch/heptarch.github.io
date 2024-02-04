@@ -131,10 +131,10 @@ Turing Awards tend to arrive long after the fact; in twenty
 years, I bet we will see more MAMAA employees on the honour
 rolls.
 
-But I wouldn't bet on too many more.
-The simple reason is that Turing awards are not a good investment.
-These companies excel at making money, and for better or worse, Big Tech knows
-that while there's money in fundamental algorithms research, there's far more in
-strategic deployment, marketing, and product integration. To pick on
-Alphabet, this capitalist realpolitik explains the massive cuts to its "moonshot factory" `X`.
+But I wouldn't bet on too many more, for the simple reason is that
+Turing awards are not a good investment. These companies truly
+shine not at research, but at making money; for better or worse, they
+know there is more ROI in strategic deployment, marketing, and product
+integration than a new algorithm. This capitalist realpolitik explains
+the massive cuts to Alphabet's "moonshot factory" `X`.
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
