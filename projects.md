@@ -137,12 +137,13 @@ years, I bet we will see more MAMAA employees on the honour
 rolls.
 
 But I wouldn't bet on too many more. The simple reason is that
-Turing awards are not a good investment, and these companies truly
-shine at making money. For better or worse, Big Tech knows there is
-more ROI in strategic deployment, marketing, and product integration
-than fundamental algorithms research. This capitalist realpolitik explains
-the massive cuts to Alphabet's "moonshot factory" `X`, or the one-track
-focus on generative AI in research groups throughout MAMAA and
-beyond. Transformers 
+Turing awards are not a good investment, and these companies' true
+forte is making money. For better or worse, Big Tech knows the ROI is
+better for strategic deployment, marketing, and product integration than fundamental algorithms research. This capitalist realpolitik explains
+why Alphabet's has made massive cuts to its "moonshot factory" `X`,
+and why research groups across MAMAA and beyond have aggressively
+pivoted into generative AI.
+Transformers are interesting, but a solved problem from a fundamental
+science perspective; everything else is engineering.
 
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
