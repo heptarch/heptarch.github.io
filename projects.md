@@ -129,12 +129,14 @@ negative space, we can look at apparently similar institutions which do
 
 ### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
-A place like the Institute for Advanced Study has more material
+The Institute for Advanced Study has more material
 security, more on-paper ivory tower-freedom, than one could poke a
 tenured chair at.
-But its successful faculty and promising postdocs are there due to
-postselection; not much happens because of the Institute itself. As Feynman memorably put it: "Nothing happens because there's
-not enough real activity and challenge: you're not in contact with the
+But its successful faculty and bright young postdocs are there
+postselection (what they did before they arrived) and preselection
+(what they will do after they leave); not much happens because of the
+Institute itself. As Feynman memorably put it: "Nothing happens
+because there's not enough real activity and challenge: you're not in contact with the
 experimental guys. You don't have to think how to answer questions
 from the students. Nothing!"<label for="sn-1"
        class="margin-toggle sidenote-number">
