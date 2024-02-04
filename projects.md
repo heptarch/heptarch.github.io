@@ -212,29 +212,24 @@ pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
 science perspective; the rest is engineering, but very lucrative
 engineering.
+
+With a state-backed monopoly, this realpolitik didn't apply to Bell.
+The product ensured a healthy supply of capital and research problems,
+but the research was decoupled from the profitability of
+the system it served.
+Bell Lab employees could afford to fail, could afford to dream; the
+product didn't govern the outcome.
+In Big Tech, the product *is* the outcome.
+
+### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
+
 So, to state it crudely, the IAS is all freedom and no domain of
 application, and Big Tech is all domain of application and no freedom.
 Creative applied research needs both.
 
-### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
-
-With a state-backed monopoly, the realpolitik of Big Tech just didn't apply to Bell.
-The product ensured a healthy supply of capital and research problems,
-but didn't govern the outcome.
-In Big Tech, the product *is* the outcome.
-And when it isn't connected to the product, we get the quirky
-moonshots that sound like they were stolen from Randall Munroe's
-latest book. Weather balloons that deliver internet to remote
-locations are cool, but don't feel inevitable and important in the way
-the laser does; they don't need to exist.
-This is, I suspect, the Big Tech analogue of the IAS, where (again in
-Feynman's words) "These poor bastards could now sit and think clearly
-all by themselves, OK?"
-
 Bell Labs did not pour excess capital into whimsical
 moonshots. Everything they did was motivated; it was important; it was
-focused. But because the research was decoupled from the profitability of
-the system it served, they could afford to fail. They could afford to
+focused. But because the. They could afford to
 let researchers be themselves, rather than corporate peons, and good
 management directed the idiosyncratic energies---the physicists and
 engineers, the foxes and hedgehogs, the goofballs, geniuses and
