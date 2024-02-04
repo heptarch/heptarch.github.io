@@ -239,4 +239,5 @@ far, we can list some ways that Bell made it happen:
 - Enforced cross-disciplinary interaction
 - Collaborative management
 
-There's clearly overlap between some of these factors, 
+There's clearly overlap between some of these factors, but between
+them, I think we cover a large part of Bell's recipe for success.
