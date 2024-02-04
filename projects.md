@@ -25,7 +25,7 @@ There are hundreds of ways to kneel and kiss the ground.
 2.  <a href="#sec-2"><i>How to do creative fundamental research</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Between the tower and the boardroom</i></a>
-	2. <a href="#sec-2-3"><i>Tower and boardroom</i></a>
+	2. <a href="#sec-2-3"><i>The recipe</i></a>
 
 ## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
 
@@ -175,7 +175,7 @@ pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
 science perspective; the rest is engineering.
 
-### 2.3 <a href="#tbc">A philo</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
 The product ensured a healthy supply of capital and research problems,
