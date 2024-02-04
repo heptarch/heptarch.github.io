@@ -117,7 +117,7 @@ and directed their efforts with superb managerial and technical
 nous. He lead from the inside.
 
 One might be inclined to view this "institute of creative technology"
-as a lucky and historically unique confluence.
+as a lucky and unrepeatable confluence of factors.
 But Kelly directed Bell Labs for less than 10 years; there were many Kellys. The only way to
 sustain success at that level for a century, I would argue, is to marry material
 security with an institutional philosophy that works.
