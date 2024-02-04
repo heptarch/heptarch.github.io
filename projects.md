@@ -24,9 +24,9 @@ There are hundreds of ways to kneel and kiss the ground.
 1. <a href="#sec-1"><i>Open sesame</i></a>
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
-	2. <a href="#sec-2-2"><i>Between the tower and the boardroom</i></a>
+	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
 	3. <a href="#sec-2-3"><i>The recipe</i></a>
-	3. <a href="#sec-2-4"><i>The recipe</i></a>
+	4. <a href="#sec-2-4"><i>An experiment</i></a>
 
 ## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
 
@@ -129,7 +129,7 @@ Kelly gives us hints about this philosophy, but to help fill out the
 negative space, we can look at institutions which do
 *not* give rise to exceptional applied research.
 
-### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
+### 2.2 <a href="#tbc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
 The Institute for Advanced Study has more material
 security, more on-paper freedom, more vertiginously abstract ivory tower, than one could poke a
@@ -242,3 +242,5 @@ far, we can list some ways that Bell made it happen:
 
 There's clearly overlap between some of these factors, but between
 them, I think we cover a large part of Bell's recipe for success.
+
+### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
