@@ -193,8 +193,8 @@ science, the companies share only seven Turing Awards between them.<label for="s
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-	   A few of these recipients, e.g. Yann LeCun, did their most
-	   highly cited work at Bell Labs!
+	   And a few of these recipients, e.g. Yann LeCun, did their most
+	   highly cited work at Bell Labs.
 	   </span>
 Arguably, this a problem of timescale. Like the Nobel,
 Turing Awards tend to arrive long after the fact; in twenty
