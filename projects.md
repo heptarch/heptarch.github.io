@@ -104,7 +104,9 @@ from helping to develop their research, lest they "lose contact with the
 forefront of their field of scientific interest".
 
 The research-development division of labour was only one of a number of concentric layers of
-deployment, including systems engineering, facilities development, and operations, which you can read more about in Kelly's lecture.
+deployment, including systems engineering, facilities development, and
+operations, which you can read more about in Kelly's lecture.
+It's clear that Bell put a tremendous amount of effort int 
 But Bell's structural policies really only imposed boundary conditions;
 inside, research evolved according to a differential equation set by
 the director.
