@@ -174,10 +174,12 @@ ever-advancing forefront of pure science and the forward march of our
 communications technology. The closer the coupling, the more
 completely will we keep in step with the progress of science."
 This is worlds away from the enfeebled freedom at the IAS that Feynman
-lampooned; the freedom to think, but about what? In mid-air, you have no
-purchase or sense of direction. Set your feet on the earth, however,
-and the freedom to move can guide you towards the glittering landmarks
-in the distance.
+lampooned; the freedom to think, but about what?
+But if you're put on a team with a telephony-relevant domain of
+inquiry, told to get darn good at it, talk to your colleagues, think
+big, ask stupid questions, and go test things out in the lab down the
+hall, you end up with an institute of creative technology and not of
+advanced study.
 
 By the metric of domain complexity, Big Tech should be the new Bell Labs. Epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
