@@ -14,26 +14,14 @@ You can find my old site [here](hapax.github.io).
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div id="content"></div>
+<div id="content" style="text-align:center"></div>
 
 <script>
 const items = [
             {
-                formula: '\\(x^2 + y^2 = z^2\\)', // Pythagorean theorem
+                formula: '$$e^{\\pi i} + 1 = 0$$', // Euler's identity
                 imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
             },
-            {
-                formula: '\\(e^{\\pi i} + 1 = 0\\)', // Euler's identity
-                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
-            },
-            {
-                formula: '\\(\\frac{d}{dx}e^x = e^x\\)', // Derivative of e^x
-                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
-            },
-            {
-                formula: '\\(\\int_{0}^{\\infty} e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}\\)', // Gaussian integral
-                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
-            }
         ];
 
         window.onload = function() {
