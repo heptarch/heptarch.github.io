@@ -13,13 +13,13 @@ interdimensional wizard.</div>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div id="content" style="padding: 20px; text-align; center; border: 0px solid #000; margin: 20px 0;"></div>
+<div id="content"></div>
 
-    <script>
-        const items = [
+<script>
+const items = [
             {
-                formula: '\\(e^{\\pi i} + 1 = 0\\)', // Euler's identity
-                imageUrl: ' 'https://heptar.ch/img/bio/epi.svg' '
+                formula: '$$e^{\\pi i} + 1 = 0$$', // Euler's identity
+                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
             },
         ];
 
@@ -35,7 +35,7 @@ interdimensional wizard.</div>
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
-    </script>
+</script>
 
 <div style="text-align:center"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
