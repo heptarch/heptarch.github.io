@@ -181,7 +181,7 @@ big, ask stupid questions, and go test things out in the lab down the
 hall, you end up with an institute of creative technology and not of
 advanced study.
 
-By the metric of domain complexity, Big Tech should be the new Bell Labs. Epitomized by
+This sounds great and all, but by the metric of domain complexity, Big Tech should be the new Bell Labs. Epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
 indeed have patents, papers and products aplenty, with a track
 record we can read off Nasdaq.
