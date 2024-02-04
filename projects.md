@@ -243,11 +243,10 @@ far, we can list some ways that Bell made it happen:
 There's overlap between these factors, but between
 them, I think we have a reasonable approximation of Bell's recipe for
 success.
-
 But there are some key questions that Kelly does not touch on in his
 operational overview:
 - What motivates researchers?
-- How is the coupling between communications systems and pure science achieved so that research is decoupled from profit?
 - How did managers intervene in or guide research?
+- How is the coupling between communications systems and pure science achieved so that research is decoupled from profit?
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
