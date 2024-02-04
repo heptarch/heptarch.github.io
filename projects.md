@@ -123,7 +123,7 @@ But Kelly directed Bell Labs for less than 10 years; there were many Kellys. The
 sustain success at that level for a century, I would argue, is to
 marry secure funding and good structural policy with a philosophy of
 creative applied research that works.
-Kelly gives us hints about this philosophy, but to fill out the
+Kelly gives us hints about this philosophy, but to help fill out the
 negative space, we can look at some institutions which do
 *not* give rise to exceptional applied research.
 
