@@ -216,7 +216,7 @@ why, for instance, Alphabet is making massive cuts to its "moonshot factory" `X`
 It also explain why research groups in MAMAA and beyond have aggressively
 pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
-science perspective; the rest is engineering, but very lucrative
+science perspective; the rest is engineering, albeit very lucrative
 engineering.
 
 With a state-backed monopoly, this realpolitik didn't apply to Bell.
@@ -291,3 +291,4 @@ This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research outcomes from profit.
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
+
