@@ -198,3 +198,5 @@ let researchers be themselves, rather than corporate peons, and good
 management directed that idiosyncratic energy---the physicists and
 engineers, the foxes and hedgehogs, the goofballs, geniuses and
 jerks---into productive channels.
+The recipe that emerges seems to be about good science, good
+management, and good institutional practice.
