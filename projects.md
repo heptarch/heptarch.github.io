@@ -247,8 +247,7 @@ But, in my view, a few key questions remain unresolved:
 - How did managers intervene in or guide research?
 - How was research coupled to communications systems?
 
-I suspect the answers here are more subtle, and lie less in the
-operational realm than the mysteries of intuition and human
-behaviour. Evidence suggests that good leaders 
+I suspect the answers here are connected, and lie less in the
+operational realm than the mysteries of human behaviour.
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
