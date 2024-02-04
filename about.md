@@ -4,7 +4,7 @@ title:
 permalink: /bio/
 ---
 
-<div id="formula" style="padding: 20px; border: 1px solid #000;
+<div id="formula" style="padding: 20px; border: 0px solid #000;
 margin: 20px 0; text-align: center">Physics hacker, cyborg,
 interdimensional wizard.</div>
 
@@ -13,31 +13,25 @@ interdimensional wizard.</div>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div id="formula" style="padding: 20px; border: 1px solid #000; margin: 20px 0; text-align: center"></div>
-    <img id="formulaImage" src="" style="align: center; max-width: 100%; height: auto;"/>
+<div id="content" style="padding: 20px; text-align; center; border: 0px solid #000; margin: 20px 0;"></div>
 
     <script>
-        // Array of objects containing LaTeX formulas and SVG image URLs
-        const formulaData = [
+        const items = [
             {
-                formula: '\\(e^{\\pi i} + 1 = 0\\)',
-                imageUrl: 'https://heptar.ch/img/bio/epi.svg',
-                imageWidth: '100px'
+                formula: '\\(e^{\\pi i} + 1 = 0\\)', // Euler's identity
+                imageUrl: ' 'https://heptar.ch/img/bio/epi.svg' '
             },
-            // Add more objects as needed
         ];
 
         window.onload = function() {
-            generateRandomFormula();
+            generateRandomItem();
         };
 
-        function generateRandomFormula() {
-            const index = Math.floor(Math.random() * formulaData.length);
-            const data = formulaData[index];
-            document.getElementById('formula').innerHTML = data.formula;
-            const img = document.getElementById('formulaImage');
-            img.src = data.imageUrl;
-            img.style.width = data.imageWidth; // Adjust width here
+        function generateRandomItem() {
+            const itemIndex = Math.floor(Math.random() * items.length);
+            const item = items[itemIndex];
+            const contentDiv = document.getElementById('content');
+            contentDiv.innerHTML = `<p>${item.formula}</p><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;">`;
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
