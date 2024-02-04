@@ -263,9 +263,10 @@ The last two questions probably have the same answer.
 In order to couple the state of the art in
 communications systems to the state of the art in pure science, somebody had
 to know the former. That would be the director of research. The
-researchers, on the other, were the domain experts in the latter. So
-the coupling would be via collaborative managerial interaction.
-Incidentally, this is another division of labour that ensured focus,
+researchers, on the other hand, were tasked with being domain experts in the latter. So
+the coupling arose via interactions between the director, the lab
+heads, and the component scientists.
+This is, incidentally, another division of labour that ensured focus
 and divorced research from the profit motive.
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
