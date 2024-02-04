@@ -89,8 +89,11 @@ put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
 research." An ill-framed objective or a quarterly review might
-distract from their real job. But Kelly's management was not
-invisible; as the transistor shows, he saw his researchers as
+distract from their real job. On similar grounds, projects would be taken away
+from fundamental researchers once they'd reached a certain level of
+maturity, to ensure they do not "lose contact with the forefront of
+their field of scientific interest". But Kelly's management was not
+only in these invisible policies of focus; as the transistor shows, he saw his researchers as
 collaborators rather than underlings, and directed their efforts with
 superb managerial and technical insight *from the inside*.
 
@@ -101,7 +104,7 @@ sustain success at that level for a century, I would argue, is to marry material
 security with an institutional philosophy that works.
 Kelly gives us some clues about this philosophy, but to fill out the
 picture, let's look at some organizational arrangements that are
-superficially similar, but differ dramatically in output.
+superficially similar, but differ in outcome.
 
 ### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
