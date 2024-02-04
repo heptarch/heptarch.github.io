@@ -206,11 +206,13 @@ But I wouldn't bet on too many more. The simple reason is that
 Turing awards are not a good investment, and Big Tech's true
 forte is making money. For better or worse, it knows the ROI is
 in strategic deployment, marketing, and product integration, not fundamental algorithms research. This capitalist realpolitik explains
-why Alphabet's has made massive cuts to its "moonshot factory" `X`,
-and why research groups across MAMAA and beyond have aggressively
+why, for instance, Alphabet is making massive cuts to its "moonshot factory" `X`.
+It also explain why research groups in MAMAA and beyond have aggressively
 pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
-science perspective; the rest is engineering.
+science perspective; the rest is engineering, but very lucrative
+engineering.
+The point is that 
 
 ### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
