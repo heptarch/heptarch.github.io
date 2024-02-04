@@ -4,8 +4,6 @@ title:
 permalink: /rbl/
 ---
 
-# Rebel Labs
-
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
 Today, like every other day, we wake up empty
