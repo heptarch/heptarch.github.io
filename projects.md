@@ -24,7 +24,7 @@ There are hundreds of ways to kneel and kiss the ground.
 1. <a href="#sec-1"><i>Open sesame</i></a>
 2.  <a href="#sec-2"><i>La vita è Bell</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
-	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
+	2. <a href="#sec-2-2"><i>Between the tower and the boardroom</i></a>
 	2. <a href="#sec-2-3"><i>Tower and boardroom</i></a>
 
 ## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
@@ -61,7 +61,7 @@ He was the scientist-manager par excellence; to paraphrase Falstaff,
 he was not only the cause of research in himself, but the cause that
 research is in others.
 At the same time, his views on scientific management would terrify a
-modern CEO. Research was a "non-scheduled
+modern CEO. Fundamental research was a "non-scheduled
 area of work",<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -87,7 +87,10 @@ invisible; as the transistor shows, he saw his researchers as
 collaborators rather than underlings, and directed their efforts with
 superb managerial and technical insight *from the inside*.
 
-### 2.2 <a href="#tbc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
+For a concrete overview of how the labs operated under Kelly, I can't
+recommend his article highly enough.
+
+### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
 Kelly directed Bell Labs for less than 10 years. There were many Kellys. The only way to
 sustain that sort of success for a century, I would argue, is to marry material
@@ -110,8 +113,8 @@ People would talk, share problems, and create interest groups across
 disciplinary lines. Claude Elwood Shannon would ride his unicycle down
 the hallway to talk to Tukey, Bardeen or Richard Hamming. Magic would
 happen.
-But it wasn't just a critical mass of talent and cross-fertilizing expertise.
-Research was ultimately grounded in the physical reality and ever-shifting
+But it wasn't just a critical mass of talent and cross-fertilizing
+expertise: the research was ultimately grounded in the physical reality and ever-shifting
 operational requirements of the world's largest telecommunications
 enterprise.
 
