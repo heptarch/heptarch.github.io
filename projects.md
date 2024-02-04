@@ -104,7 +104,16 @@ But its successes are postselected; not much happens one people arrive
 at the Institute itself. As Feynman memorably put it: "Nothing happens because there's
 not enough real activity and challenge: you're not in contact with the
 experimental guys. You don't have to think how to answer questions
-from the students. Nothing!"
+from the students. Nothing!"<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   From <i>“Surely You’re Joking, Mr. Feynman!” Adventures of a
+	   Curious Character<> (1985), Richard Feynman.
+	   </span>
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each
