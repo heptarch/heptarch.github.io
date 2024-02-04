@@ -14,28 +14,41 @@ You can find my old site [here](hapax.github.io).
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div id="formula-container"></div>
+<div id="content"></div>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    var formulas = [
-        '$$e^{i\\pi} + 1 = 0$$',
-        '\\[a^2 + b^2 = c^2\\]',
-        '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
-    ];
+const items = [
+            {
+                formula: '\\(x^2 + y^2 = z^2\\)', // Pythagorean theorem
+                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
+            },
+            {
+                formula: '\\(e^{\\pi i} + 1 = 0\\)', // Euler's identity
+                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
+            },
+            {
+                formula: '\\(\\frac{d}{dx}e^x = e^x\\)', // Derivative of e^x
+                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
+            },
+            {
+                formula: '\\(\\int_{0}^{\\infty} e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}\\)', // Gaussian integral
+                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
+            }
+        ];
 
-    var formulaContainer = document.getElementById('formula-container');
+        window.onload = function() {
+            generateRandomItem();
+        };
 
-    function displayRandomFormula() {
-        var randomIndex = Math.floor(Math.random() * formulas.length);
-        var formula = formulas[randomIndex];
-        formulaContainer.innerHTML = formula;
-        MathJax.typesetPromise(); // This line tells MathJax to process and render the new formula
-    }
-
-    displayRandomFormula(); // Display a random formula when the page loads
-});
-</script> <br>
+        function generateRandomItem() {
+            const itemIndex = Math.floor(Math.random() * items.length);
+            const item = items[itemIndex];
+            const contentDiv = document.getElementById('content');
+            contentDiv.innerHTML = `<p>${item.formula}</p><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;">`;
+            // Trigger MathJax to process and render the new formula
+            MathJax.typesetPromise();
+        }
+</script>
 
 <div style="text-align:center"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
