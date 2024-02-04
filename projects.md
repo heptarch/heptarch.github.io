@@ -295,5 +295,5 @@ elsewhere? IBM and Microsoft have tried, with partial success. I
 argued that Kelly's management wasn't a lucky confluence. But maybe
 the lucky confluence was Bell Labs itself, in the technocapital
 infrastructure that made that balance of freedom and application
-possible for such a long period. You don't get a state-sponsored
+possible for such a long period. I mean, you don't get a state-sponsored
 mandate to a develop a whole new realm of technology every day!
