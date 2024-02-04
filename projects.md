@@ -93,16 +93,14 @@ distract from their real job.
 
 Of course, to meet the technical needs of a giant like Bel, someone
 had to keep track of what was going on, and do something with the
-research. Once a fundamental research project reached a certain
-level of maturity, it would be handed over to a development team. In
+research. Once a fundamental research project reached maturity, it would be handed over to a development team. In
 Kelly's words: "This pattern repeats itself again and again. A
 research programme is initiated. Then as new knowledge that gives
 promise of worthwhile application is obtained, a fundamental
 development team is activated. It builds a background of basic
 technology under the watchful eye and with the consultative aid of the
-men of research." But although researchers would provide oversight,
-they were strictly forbidden from involvement in the development
-itself. This would create distraction and lead them to "lose contact with the
+men of research." Researchers consulted, but were strictly forbidden
+from helping to develop their research, lest they "lose contact with the
 forefront of their field of scientific interest".
 
 This was only one of a number of concentric layers of
