@@ -116,7 +116,7 @@ purchase or sense of direction. Set your feet on the earth, however,
 and the freedom to move can guide you towards the glittering landmarks
 in the distance.
 
-By the logic of domain complexity and problem supply, Big Tech should be the new Bell Labs. Epitomized by
+By the metric of domain complexity, Big Tech should be the new Bell Labs. Epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
 indeed have patents, papers and products aplenty, and a track
 record we can read off of Nasdaq.
@@ -143,6 +143,6 @@ more ROI in strategic deployment, marketing, and product integration
 than fundamental algorithms research. This capitalist realpolitik explains
 the massive cuts to Alphabet's "moonshot factory" `X`, or the one-track
 focus on generative AI in research groups throughout MAMAA and
-beyond. It
+beyond. Transformers 
 
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
