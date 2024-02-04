@@ -254,7 +254,11 @@ work on, and your output will probably depend sensitively on *who you
 choose*. Like scouting and talent development in professional sports,
 this requires not only deep pockets, but good eyes and a good gut
 instinct for how the different parts of the team will gel.
+Different people will have different motivations---the joy of pure
+research, the promise of fame, stimulating interaction with
+colleagues, other positions down the line, etc---and that is as it
+should be.
 
-
+The second two questions 
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
