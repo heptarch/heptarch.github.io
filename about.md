@@ -4,7 +4,7 @@ title:
 permalink: /bio/
 ---
 
-<div id="formula" style="padding: 20px; border: 0px solid #000;
+<div style="padding: 20px; border: 0px solid #000;
 margin: 20px 0; text-align: center">Physics hacker, cyborg,
 interdimensional wizard.</div>
 
