@@ -156,16 +156,17 @@ At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each
 other.
 People would talk, share problems, and create interest groups across
-disciplinary lines. Claude Elwood Shannon might ride his unicycle down
-the hallway to talk to Tukey, Bardeen or Richard Hamming; the
-metallurgists taught the chemists a cool trick that raised a weird
-question about polymer synthesis, and later that day, a chemist
-nerdsniped a materials physicist... Magic would happen.
+disciplinary lines. The solid-state group that invented the transistor
+started as an informal study session lead by William Shockley.
+Claude Elwood Shannon might ride his unicycle down
+the hallway to talk to Tukey, Bardeen or Richard Hamming, before
+retreating into solitude; the metallurgists taught the chemists a cool
+trick about polymer synthesis, and later that day, a chemist nerdsniped a materials physicist. Magic would happen.
+
 But it wasn't just a critical mass of talent and cross-fertilizing
 expertise: the research was ultimately grounded in the ever-shifting
 operational requirements of the world's largest telecommunications
 enterprise.
-
 This did not literally mean solving Bell's operational conundra;
 rather, through good management and institutional structure,
 researchers would use their freedom to obey Paul Graham's dictum: “live in the future, then build what's
