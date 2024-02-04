@@ -103,15 +103,16 @@ enterprise.
 
 It was the job of directors like Kelly to understand those operational
 gaps or possibilities for improvement, and pipe them into the lab.
-The end result was that there was never any shortage of problems to
-work on, and the problems they worked on were important.
-This is very different from the thin, enfeebled freedom that Feynman
+If done properly, it meant there was never any shortage of hard and
+important problems to work on.
+This is very different from the enfeebled freedom that Feynman
 criticized; the freedom to think, but about what? In mid-air, you have no
 purchase or sense of direction. Set your feet on the earth, however,
 and the freedom to move can guide you towards the glittering landmarks
 in the distance.
 
-On the other end of the spectrum, we have Big Tech, epitomized by
+By this logic, the applications of 
+we have Big Tech, epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
 These companies have patents, papers and products aplenty, and a track
 record we can read off of their stock prices.
