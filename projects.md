@@ -21,16 +21,20 @@ There are hundreds of ways to kneel and kiss the ground.
 
 ## Contents <a id="tbc" name="tbc"></a>
 
-1. <a href="#sec-1"><i>Open sesame</i></a>
+1. <a href="#sec-1"><i>The Lab</i></a>
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
 	3. <a href="#sec-2-3"><i>Subtle factors</i></a>
 	4. <a href="#sec-2-4"><i>An experiment</i></a>
 
-## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#tbc">The Lab</a><a id="sec-1" name="sec-1"></a>
+
+---
 
 ## 2. <a href="#tbc">Creative applied research: lessons from Bell Labs</a><a id="sec-2" name="sec-2"></a>
+
+---
 
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
