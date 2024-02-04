@@ -111,26 +111,25 @@ purchase or sense of direction. Set your feet on the earth, however,
 and the freedom to move can guide you towards the glittering landmarks
 in the distance.
 
-By this logic, the applications of 
-we have Big Tech, epitomized by
-MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet).
-These companies have patents, papers and products aplenty, and a track
-record we can read off of their stock prices.
-But despite the billions of dollars being poured into applied computer
-science at these places, they share only seven Turing Awards between them, five of
-those at Microsoft.<label for="sn-1"
+By the logic of domain complexity and problem supply, Big Tech should be the new Bell Labs. Epitomized by
+MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
+indeed have patents, papers and products aplenty, and a track
+record we can read off of Nasdaq.
+But despite the billions of dollars they pour into applied computer
+science, the companies share only seven Turing Awards between them.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-	   And Yann LeCun's most highly cited non-review papers come from
-	   his time at Bell Labs.
+	   A few of these recipients, e.g. Yann LeCun, did their most
+	   highly cited work at Bell Labs!
 	   </span>
 Arguably, this a problem of timescale. Like the Nobel,
 Turing Awards tend to arrive long after the fact; in twenty
-years, I would bet on seeing more MAMAA employees on the honour rolls.
+years, I bet we will see more MAMAA employees on the honour
+rolls.
 
 But I wouldn't bet on too many more.
 The simple reason is that Turing awards are not a good investment.
