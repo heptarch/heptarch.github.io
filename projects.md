@@ -259,7 +259,7 @@ Different people will have different motivations---the joy of pure
 research, the promise of fame, stimulating interactions, etc---and that is as it
 should be.
 
-The second two questions probably have the same answer.
+The last two questions probably have the same answer.
 Again, let's take Kelly; in order to couple the state of the art in
 communications systems to the state of the art in science, someone had
 to know the former. That would be the director of research. The
