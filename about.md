@@ -7,7 +7,7 @@ permalink: /bio/
 Physics hacker, cyborg, interdimensional wizard.
 Also a quantum machine learning researcher at [Xanadu](https://www.xanadu.ai/) and
 ex-[high energy theorist](https://inspirehep.net/authors/1868975).
-Thanks for visiting!
+You can find my old site [here](hapax.github.io).
 
 ---
 
@@ -39,10 +39,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ---
 
-<a rel="license"
+<div style="text-align:center"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
 src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+</div>
 
 <!-- "Saxifrage" means "stone breaker". These tiny, five-petalled -->
 <!-- flowers are the toughest and most northernmost growing plants on -->
