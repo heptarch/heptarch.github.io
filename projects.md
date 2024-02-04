@@ -237,6 +237,6 @@ far, we can list some ways that Bell made it happen:
 - Robust division of labour
 - Enforced focus
 - Enforced cross-disciplinary interaction
-- Managerial excellence
+- Collaborative management
 
-We could keep going, but we've already 
+There's clearly overlap between some of these factors, 
