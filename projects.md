@@ -83,28 +83,35 @@ area of work",<label for="sn-1"
 corporate hoops of OKRs, deadlines, or progress reports.
 No hustle, no crunch; just research.
 
-The buildings were designed to facilitate disciplinary cross-talk, intellectual
-stimulation, and focus. Kelly oversaw that alchemy as well. As he
+The buildings were designed to facilitate cross-talk, stimulation, and
+focus. Kelly oversaw that alchemy as well. As he 
 put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
 research." An ill-framed objective or a quarterly review might
 distract from their real job.
 
-Of course, to meet the technical needs of Bell and later AT&T, someone
-had to keep track of what was going on; it just wasn't the
-researchers. Once a fundamental research project reached a certain
+Of course, to meet the technical needs of a giant like Bel, someone
+had to keep track of what was going on, and do something with the
+research. Once a fundamental research project reached a certain
 level of maturity, it would be handed over to a development team. In
 Kelly's words: "This pattern repeats itself again and again. A
 research programme is initiated. Then as new knowledge that gives
-promise of worth-while application is obtained, a fundamental
+promise of worthwhile application is obtained, a fundamental
 development team is activated. It builds a background of basic
 technology under the watchful eye and with the consultative aid of the
-men of research." There was a very clear division of labour between
-research and development, to ensure researchers didn't "lose contact with the
+men of research." But although researchers would provide oversight,
+they were strictly forbidden from involvement in the development
+itself. This would create distraction and lead them to "lose contact with the
 forefront of their field of scientific interest".
 
-Kelly did more than enforce focus and interdisciplinarity; as the
+Development was only one of a number of concentric layers of
+application, including systems engineering, facilities development,
+and operations, which you can learn more about from Kelly (1950).
+But these structural policies really only prescribed boundary
+conditions for research; the differential 
+
+
 transistor shows, he saw his researchers as collaborators rather than underlings,
 and directed their efforts with superb managerial and technical
 insight. He lead from the inside.
