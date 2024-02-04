@@ -28,6 +28,8 @@ There are hundreds of ways to kneel and kiss the ground.
 	3. <a href="#sec-2-3"><i>Subtle factors</i></a>
 	4. <a href="#sec-2-4"><i>An experiment</i></a>
 
+---
+
 ## 1. <a href="#tbc">The Lab</a><a id="sec-1" name="sec-1"></a>
 
 ## 2. <a href="#tbc">Creative applied research: lessons from Bell Labs</a><a id="sec-2" name="sec-2"></a>
