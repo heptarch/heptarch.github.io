@@ -130,7 +130,7 @@ negative space, we can look at some institutions which do
 ### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
 The Institute for Advanced Study has more material
-security, more on-paper ivory tower-freedom, than one could poke a
+security, more on-paper freedom, more soaring ivory tower, than one could poke a
 tenured chair at.
 But its successful faculty and bright young postdocs are there
 postselection (what they did before they arrived) and preselection
