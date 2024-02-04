@@ -217,7 +217,7 @@ application, and Big Tech is all domain of application and no freedom.
 
 ### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
-With a state-backed monopoly, this realpolitik just didn't apply to Bell.
+With a state-backed monopoly, the realpolitik of Big Tech just didn't apply to Bell.
 The product ensured a healthy supply of capital and research problems,
 but didn't govern the outcome.
 In Big Tech, the product *is* the outcome.
