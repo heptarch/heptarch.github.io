@@ -186,7 +186,7 @@ MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
 indeed have patents, papers and products aplenty, with a track
 record we can read off Nasdaq.
 But despite the billions of dollars they pour into applied computer
-science, these companies share only seven Turing Awards between them.<label for="sn-1"
+science, these companies share only seven Turing Award recipients between them.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
