@@ -157,16 +157,7 @@ operational requirements of the world's largest telecommunications
 enterprise.
 
 It was the job of directors like Kelly to understand those operational
-gaps or possibilities for improvement, and pipe them into the lab.<label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
-	   <span class="sidenote">
-	  See <a href="#sect-2-3">§2.3</a> for more on the institutional
-	  mechanics here.
-	   </span>
+gaps or possibilities for improvement, and pipe them into the lab.
 If done properly, it meant there was never any shortage of hard and
 important problems to work on.
 This is very different from the enfeebled freedom that Feynman
