@@ -233,7 +233,10 @@ far, we can list some ways that Bell made it happen:
 - Quality hires
 - Material security
 - Stimulating domain of application
+- Decoupling of product and research
 - Robust division of labour
 - Enforced focus
 - Enforced cross-disciplinary interaction
 - Managerial excellence
+
+We could keep going, but we've already 
