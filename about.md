@@ -14,29 +14,36 @@ You can find my old site [here](hapax.github.io).
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div id="content" style="text-align:center"></div> <br>
+<div id="formula" style="padding: 20px; border: 1px solid #000;
+    margin: 20px 0; text-align: center"></div>
+    <img id="formulaImage" src="" style="align: center; max-width: 100%; height: auto;"/>
 
-<script>
-const items = [
+    <script>
+        // Array of objects containing LaTeX formulas and SVG image URLs
+        const formulaData = [
             {
-                formula: '$$e^{\\pi i} + 1 = 0$$', // Euler's identity
-                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
+                formula: '\\(e^{\\pi i} + 1 = 0\\)',
+                imageUrl: 'https://heptar.ch/img/bio/epi.svg',
+                imageWidth: '100px'
             },
+            // Add more objects as needed
         ];
 
         window.onload = function() {
-            generateRandomItem();
+            generateRandomFormula();
         };
 
-        function generateRandomItem() {
-            const itemIndex = Math.floor(Math.random() * items.length);
-            const item = items[itemIndex];
-            const contentDiv = document.getElementById('content');
-            contentDiv.innerHTML = `<p>${item.formula}</p><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;">`;
+        function generateRandomFormula() {
+            const index = Math.floor(Math.random() * formulaData.length);
+            const data = formulaData[index];
+            document.getElementById('formula').innerHTML = data.formula;
+            const img = document.getElementById('formulaImage');
+            img.src = data.imageUrl;
+            img.style.width = data.imageWidth; // Adjust width here
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
-</script>
+    </script>
 
 <div style="text-align:center"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
