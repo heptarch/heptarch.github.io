@@ -87,16 +87,17 @@ invisible; as the transistor shows, he saw his researchers as
 collaborators rather than underlings, and directed their efforts with
 superb managerial and technical insight *from the inside*.
 
-For a concrete overview of how the labs operated under Kelly, I can't
-recommend his article highly enough.
+One might be inclined to view this "institute of creative technology"
+as a lucky and historically unique confluence.
+But Kelly directed Bell Labs for less than 10 years; there were many Kellys. The only way to
+sustain success at that level for a century, I would argue, is to marry material
+security with an institutional philosophy that works.
+Kelly gives us some clues about this philosophy, but to fill out the
+picture, let's look at some organizational arrangements that are
+superficially similar, but differ dramatically in output.
 
 ### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
-Kelly directed Bell Labs for less than 10 years. There were many Kellys. The only way to
-sustain that sort of success for a century, I would argue, is to marry material
-security with a philosophy that works.
-Kelly gives us some clues about this philosophy, but to fill out the
-picture, let's look at some alternative institutional arrangements.
 A place like the Institute for Advanced Study has more material
 security, more on-paper ivory tower-freedom, than one could poke a
 tenured chair at.
