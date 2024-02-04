@@ -290,7 +290,8 @@ proper focus and divorced research outcomes from profit.
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
 
-If Bell Labs made innovation systematic, why hasn't that innovation been reproduced
+If Bell Labs made innovation systematic, why hasn't that degree of innovation been reproduced
 elsewhere? IBM and Microsoft have tried, with partial success. Maybe
-it's simply about scale, and the technocapital circumstances that made
-innovation possible, at that scale, were historically unique. 
+the lucky confluence was Bell Labs itself, in the technocapital
+circumstances that made that balance of freedom and application
+possible for such a long period.
