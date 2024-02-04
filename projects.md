@@ -52,9 +52,12 @@ its clear that money does not buy Bell-level success.
 I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
 
+This short essay represents some loose, tendentious efforts to
+understand why Bell Labs was so success as an "institute of creative technology".
+
 ### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
-To illustrate, consider Mervin Kelly, director of research at Bell Labs from 1936
+I stole that last line from Mervin Kelly, director of research from 1936
 to 1943, and later president. A physicist by trade, Kelly played a
 pivotal (though not quite Nobel-worthy) role in the invention of the transistor, and as
 president, helped develop the laser and the solar cell.
