@@ -192,5 +192,8 @@ all by themselves, OK?"
 
 Bell Labs did not pour excess capital into whimsical
 moonshots. Everything they did was motivated; it was important; it was
-focused. But they could also afford to fail because the research was
-decoupled from the profitability of the system it served.
+focused. But because the research was decoupled from the profitability of
+the system it served, they could afford to fail. They could afford to
+let researchers be themselves, rather than corporate peons, and good
+management directed that energy---the foxes and the hedgehogs, the
+goofballs and the jerks---into productive channels.
