@@ -181,4 +181,5 @@ In modern Big Tech, the product *is* the outcome.
 And when it isn't connected to the product, we get the quirky
 moonshots that sound like they were stolen from Randall Munroe's
 latest book. Weather balloons that deliver internet to remote
-locations are cool, but don't feel inevitable in the way the laser does.
+locations are cool, but don't feel inevitable and important in the way
+the laser does; they don't need to exist.
