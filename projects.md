@@ -26,13 +26,12 @@ There are hundreds of ways to kneel and kiss the ground.
 1. <a href="#sec-1"><i>Open sesame</i></a>
 2.  <a href="#sec-2"><i>La vita è Bell</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
-	2. <a href="#sec-2-2"><i>Grounded freedom</i></a>
+	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
+	2. <a href="#sec-2-3"><i>Tower and boardroom</i></a>
 
 ## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
 
 ## 2. <a href="#tbc">La vita è Bell</a><a id="sec-2" name="sec-2"></a>
-
-### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
@@ -53,6 +52,8 @@ Ivies or the moonshot factories of Big Tech,
 its clear that money does not buy Bell-level success.
 I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
+
+### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
 To illustrate, consider Mervin Kelly, director of research at Bell Labs from 1936
 to 1943, and later president. A physicist by trade, Kelly played a
@@ -78,9 +79,9 @@ invisible; as the transistor shows, he saw his researchers as
 collaborators rather than underlings, and directed their efforts with
 superb managerial and technical insight *from the inside*.
 
-### 2.2 <a href="#tbc">Grounded freedom</a><a id="sec-2-2" name="sec-2-2"></a>
+### 2.2 <a href="#tbc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
-Kelly directed Bell Labs for less than $10$ years. There were many Kellys. The only way to
+Kelly directed Bell Labs for less than 10 years. There were many Kellys. The only way to
 sustain that sort of success for a century, I would argue, is to marry material
 security with a philosophy that works.
 Kelly gives us some clues about this philosophy, but to fill out the
@@ -144,6 +145,9 @@ why Alphabet's has made massive cuts to its "moonshot factory" `X`,
 and why research groups across MAMAA and beyond have aggressively
 pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
-science perspective; everything else is engineering.
+science perspective; the rest is engineering.
+
+### 2.3 <a href="#tbc">A philo</a><a id="sec-2-3" name="sec-2-3"></a>
 
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
+The product offered a healthy problem supply, 
