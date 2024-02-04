@@ -195,5 +195,5 @@ moonshots. Everything they did was motivated; it was important; it was
 focused. But because the research was decoupled from the profitability of
 the system it served, they could afford to fail. They could afford to
 let researchers be themselves, rather than corporate peons, and good
-management directed that energy---the foxes and the hedgehogs, the
-goofballs and the jerks---into productive channels.
+management directed that idiosyncratic energy---the foxes and the hedgehogs, the
+goofballs and geniuses and jerks---into productive channels.
