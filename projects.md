@@ -255,9 +255,11 @@ choose*. Like scouting and talent development in professional sports,
 building a winning team requires more than deep pockets; you need good
 eyes and a good gut instinct for how the different parts of the team
 will gel.
-Different people will have different motivations---the joy of pure
-research, the promise of fame, stimulating interactions, etc---and that is as it
-should be.
+As Brattain once said of the transistor research group, “It was
+probably one of the greatest research teams ever pulled together on a
+problem.”
+Different people will have different motivations, but getting those to
+mesh is part of the art of hiring and management.
 
 The last two questions probably have the same answer.
 In order to couple the state of the art in
@@ -268,5 +270,17 @@ the coupling arose via interactions between the director, the lab
 heads, and the component scientists.
 This is, incidentally, another division of labour that ensured focus
 and divorced research from the profit motive.
+
+Now, Kelly never went in and said
+<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   <i>The Idea Factory: Bell Labs and the Great Age of American
+	   Innovation</i> (2012), Jon Gertner.
+	   </span>
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
