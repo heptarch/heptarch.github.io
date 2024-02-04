@@ -169,7 +169,7 @@ It was the job of directors like Kelly to understand those operational
 gaps or possibilities for improvement, and pipe them into the lab.
 If done properly, it meant there was never any shortage of hard and
 important problems to work on.
-This is very different from the enfeebled freedom that Feynman
+This is very different from the enfeebled freedom at the IAS that Feynman
 criticized; the freedom to think, but about what? In mid-air, you have no
 purchase or sense of direction. Set your feet on the earth, however,
 and the freedom to move can guide you towards the glittering landmarks
