@@ -36,7 +36,7 @@ lasers, the transistor, information theory, modern cryptography,
 error-correcting codes, the Cosmic Microwave Background, electron diffraction, photovoltaic cells,
 MOSFET, CCDs, optical fibres, `UNIX`, `C`, support
 vector machines, the Fast Fourier Transform, Grover search,
-and Shor's algorithm, and other innovations too numerous to name.
+and Shor's algorithm, among other innovations too numerous to name.
 What made it special? Money, to begin with. Bell Labs operated
 under the auspices of a state monopoly, so no one had to hustle for
 grants, venture capital, or quarterly revenue.
