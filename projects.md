@@ -41,7 +41,8 @@ What made it special? Money, to begin with. Bell Labs operated
 under the auspices of a state monopoly, so no one had to hustle for
 grants, venture capital, or quarterly revenue.
 
-But most researchers with secure funding don't win a Nobel Prize or a Turing Award. Money is only something you worry about when there isn't
+But most steadily funded researchers don't win a Nobel Prize or a
+Turing Award. Money is only something you worry about when there isn't
 enough!
 Of course, good industrial research is expensive, and more money
 means more talent, more equipment, and more time. But outcomes are not
