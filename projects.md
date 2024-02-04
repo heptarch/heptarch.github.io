@@ -214,6 +214,7 @@ science perspective; the rest is engineering, but very lucrative
 engineering.
 So, to state it crudely, the IAS is all freedom and no domain of
 application, and Big Tech is all domain of application and no freedom.
+Creative applied research needs both.
 
 ### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
