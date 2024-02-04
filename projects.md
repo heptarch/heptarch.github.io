@@ -258,8 +258,8 @@ operational realm than the mysteries of human behaviour.
 Hire smart people, give them money, equipment, and fun problems to
 work on, and your output will probably depend sensitively on *who you
 choose*. Like scouting and talent development in professional sports,
-building a winning team requires more than deep pockets; you need good
-eyes and a good gut instinct for how the different parts of the team
+building a winning team requires more than deep pockets; you need sharp
+eyes and a gut instinct for how the different parts of the team
 will gel.
 As Brattain once said of the transistor research group, “It was
 probably one of the greatest research teams ever pulled together on a
