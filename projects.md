@@ -238,6 +238,3 @@ let researchers be themselves, rather than corporate peons, and good
 management directed the idiosyncratic energies---the physicists and
 engineers, the foxes and hedgehogs, the goofballs, geniuses and
 jerks---into collectively useful channels.
-We might cautiously conclude that the recipe for success is equal
-parts good science, good management, and good institutional practice,
-with considerable overlap between ingredients.
