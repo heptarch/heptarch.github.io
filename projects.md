@@ -260,7 +260,7 @@ research, the promise of fame, stimulating interactions, etc---and that is as it
 should be.
 
 The last two questions probably have the same answer.
-Again, let's take Kelly; in order to couple the state of the art in
+In order to couple the state of the art in
 communications systems to the state of the art in science, someone had
 to know the former. That would be the director of research. The
 researchers, on the other, were the domain experts in the latter. So
