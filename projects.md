@@ -261,7 +261,7 @@ should be.
 
 The last two questions probably have the same answer.
 In order to couple the state of the art in
-communications systems to the state of the art in science, someone had
+communications systems to the state of the art in pure science, someone had
 to know the former. That would be the director of research. The
 researchers, on the other, were the domain experts in the latter. So
 the coupling would be via collaborative managerial interaction.
