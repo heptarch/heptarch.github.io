@@ -141,7 +141,7 @@ from the students. Nothing!"<label for="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
 	   From <i>“Surely You’re Joking, Mr. Feynman!” Adventures of a
-	   Curious Character<> (1985), Richard Feynman.
+	   Curious Character</i> (1985), Richard Feynman.
 	   </span>
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
