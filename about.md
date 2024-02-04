@@ -19,11 +19,7 @@ Thanks for visiting!
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     var formulas = [
-        '$$e^{i\\pi} + 1 = 0$$ <figure>
-    <div style="text-align:center; padding: 15px"><img src
-    ="/img/bio/epi.svg" width="100"/>
-	</div>
-	</figure> ',
+        '$$e^{i\\pi} + 1 = 0$$',
         '\\[a^2 + b^2 = c^2\\]',
         '\\[\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}\\]'
     ];
