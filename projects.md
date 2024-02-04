@@ -124,7 +124,7 @@ sustain success at that level for a century, I would argue, is to
 marry secure funding and good structural policy with a philosophy of
 creative applied research that works.
 Kelly gives us hints about this philosophy, but to fill out the
-negative space, we can look at apparently similar institutions which do
+negative space, we can look at some institutions which do
 *not* give rise to exceptional applied research.
 
 ### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
