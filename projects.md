@@ -63,16 +63,8 @@ self-organized fashion.
 
 ### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
-I stole that last line from Mervin Kelly, director of research from 1936
-to 1943, and later president. A physicist by trade, Kelly played a
-pivotal (though not quite Nobel-worthy) role in the invention of the transistor, and as
-president, helped develop the laser and the solar cell.
-He was the scientist-manager par excellence; to paraphrase Falstaff,
-he was not only the cause of research in himself, but the cause that
-research is in others.
-At the same time, his views on scientific management would terrify a
-modern CEO. Fundamental research was a "non-scheduled
-area of work",<label for="sn-1"
+"Institute of creative technology" was a line used by Mervin Kelly, director of research from 1936
+to 1943, and later president.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -81,8 +73,16 @@ area of work",<label for="sn-1"
 	   <span class="sidenote">
    See <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1950.0140">"The Bell
    Telephone Laboratories-An Example of an Institute of Creative
-   Technology"</a> (1950), Mervin Kelly.
-	   </span> so the scientists did not have to jump through the
+   Technology"</a> (1950), Mervin Kelly. Quotes are from this source.
+	   </span> A physicist by trade, Kelly played a
+pivotal (though not quite Nobel-worthy) role in the invention of the transistor, and as
+president, helped develop the laser and the solar cell.
+He was the scientist-manager par excellence; to paraphrase Falstaff,
+he was not only the cause of research in himself, but the cause that
+research is in others.
+At the same time, his views on scientific management would terrify a
+modern CEO. Fundamental research was a "non-scheduled
+area of work", so the scientists did not have to jump through the
 corporate hoops of OKRs, deadlines, or progress reports.
 No hustle, no crunch; just research.
 
