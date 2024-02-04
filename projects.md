@@ -240,11 +240,9 @@ far, we can list some ways that Bell made it happen:
 - Enforced cross-disciplinary interaction
 - Collaborative management
 
-There's overlap between these factors, but between
-them, I think we have a reasonable approximation of Bell's recipe for
+Between these ingredients, I think we cover a reasonable portion of Bell's recipe for
 success.
-But there are some key questions that Kelly does not touch on in his
-operational overview:
+But, in my view, a few key questions remain unresolved:
 - What motivates researchers?
 - How did managers intervene in or guide research?
 - How was research coupled to communications systems?
