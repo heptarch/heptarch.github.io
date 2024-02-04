@@ -34,7 +34,7 @@ There are hundreds of ways to kneel and kiss the ground.
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
 error-correcting codes, the Cosmic Microwave Background, electron diffraction, photovoltaic cells,
-MOSFET, charge-coupled devices, optical fibres, `UNIX`, `C`, support
+MOSFET, CCDs, optical fibres, `UNIX`, `C`, support
 vector machines, the Fast Fourier Transform, Grover search,
 and Shor's algorithm, and other innovations too numerous to name.
 What made it special? Money, to begin with. Bell Labs operated
