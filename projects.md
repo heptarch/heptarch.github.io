@@ -243,7 +243,7 @@ far, we can list some ways that Bell made it happen:
 Between these ingredients, I think we cover a reasonable portion of Bell's recipe for
 success.
 But, in my view, a few key questions remain unresolved:
-- What motivates researchers?
+- What motivated researchers?
 - How did managers intervene in or guide research?
 - How was research coupled to communications systems?
 
