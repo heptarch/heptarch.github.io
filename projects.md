@@ -241,9 +241,3 @@ jerks---into collectively useful channels.
 We might cautiously conclude that the recipe for success is equal
 parts good science, good management, and good institutional practice,
 with considerable overlap between ingredients.
-
-I suspect there is both more and less to the success of Bell Labs than
-the alchemy of this ill-specified mixture. More because, as we learn
-from Kelly's lecture, Bell Labs had a rigid and highly systematic
-division of labour, of which fundamental research was only one
-part. This 
