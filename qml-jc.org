@@ -371,6 +371,22 @@ another way to think about what nearest neighbours does.
 ** <<week2>> Dimensionality and prediction
 
 *Reading*: [[ESL][ESL]]: §2.5--6.
+
+It may seem like, whenever we have a good amount of data, we should
+use nearest neighbours since it provides a universal approximation
+method. Just use all that data to average, and we should get a good
+approximation to the conditional mean. Unfortunately, this naive
+expectation breaks down when our data lives in a high-dimensional
+space, due to the /curse of dimensionality/. The basic problem is
+that, in order to reliably approximate the value of a function at a
+point by averaging, we need the neighbours to be well-distributed
+throughout this neighbourhood. But the volume of the neighbourhood
+grows very quickly with dimension!
+#+ATTR_HTML: :alt Curse of dimensionality. image :align center :width 400px :style display:inline;margin:-30px;
+[[./img/qml/esl-intro5.png]]
+
+To illustrate, suppose we have a uniform distribution over a
+$p$-dimensional unit hypercube $[0, 1]^p$, above left. The variance 
 ** Regression, restriction and selection
 
 *Reading*: [[ESL][ESL]]: §2.7--9.
