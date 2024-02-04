@@ -112,7 +112,8 @@ But these divisions really only imposed boundary conditions;
 what happened within a division would be governed by differential equations set by
 management.
 Kelly could have treated his researchers as boffins in need of
-coercive instruction.
+practical guidance, or drones requiring coercive instruction.
+It happens.
 Instead, as the transistor episode shows, he saw them as 
 collaborators, and directed their efforts with superb managerial and technical
 nous. He lead from the inside.
