@@ -103,16 +103,18 @@ men of research." Researchers consulted, but were strictly forbidden
 from helping to develop their research, lest they "lose contact with the
 forefront of their field of scientific interest".
 
-The research-development division of labour was only one of a number of concentric layers of
+Development was only one of a number of concentric layers of
 deployment, including systems engineering, facilities development, and
-operations, which you can read more about in Kelly's lecture.
-It's clear that Bell put a tremendous amount of effort int 
-But Bell's structural policies really only imposed boundary conditions;
-inside, research evolved according to a differential equation set by
-the director.
-As the transistor episode shows, Kelly saw his researchers as
-collaborators rather than underlings,
-and directed their efforts with superb managerial and technical
+operations.
+It's clear that Bell put a tremendous amount of effort into
+structural policy and effective divisions of labour.
+But these divisions really only imposed boundary conditions;
+what happened within a division would be governed by differential equations set by
+management.
+Kelly might have seen his researchers as underlings, drones, or
+boffins in need of coercive instruction.
+As the transistor episode shows, he saw them as 
+collaborators, and directed their efforts with superb managerial and technical
 nous. He lead from the inside.
 
 One might be inclined to view this "institute of creative technology"
