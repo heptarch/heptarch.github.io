@@ -225,14 +225,12 @@ In Big Tech, the product *is* the outcome, the process, and the metric.
 
 ### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
-So, to state it crudely, the IAS (at least in Feynman's view) is all freedom and no domain of
-application, and Big Tech is all domain of application and no freedom.
-Creative applied research needs both.
-
-Bell Labs did not pour excess capital into whimsical
-moonshots. Everything they did was motivated; it was important; it was
-focused. But because the. They could afford to
-let researchers be themselves, rather than corporate peons, and good
-management directed the idiosyncratic energies---the physicists and
-engineers, the foxes and hedgehogs, the goofballs, geniuses and
-jerks---into collectively useful channels.
+So, to state it crudely, the IAS is all freedom and no application,
+and Big Tech is all application and no freedom.
+Creative applied research needs both. We can tentatively list some
+ways that Bell made it happen:
+- Academic freedom
+- Clear and robust division of labour
+- Stimulating domain of application
+- Enforced focus
+- Enforced cross-disciplinar interaction
