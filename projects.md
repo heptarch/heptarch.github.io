@@ -111,20 +111,18 @@ structural policy and effective divisions of labour.
 But these divisions really only imposed boundary conditions;
 what happened within a division would be governed by differential equations set by
 management.
-Kelly might have seen his researchers as underlings, drones, or
-boffins in need of coercive instruction.
-As the transistor episode shows, he saw them as 
+Kelly could easily have treated his researchers as boffins in need of
+coercive instruction.
+As the transistor episode shows, he instead saw them as 
 collaborators, and directed their efforts with superb managerial and technical
 nous. He lead from the inside.
 
 One might be inclined to view this "institute of creative technology"
 as a lucky and unrepeatable confluence of factors.
 But Kelly directed Bell Labs for less than 10 years; there were many Kellys. The only way to
-sustain success at that level for a century, I would argue, is to marry material
-security with an institutional philosophy that works.
-Kelly gives us some clues about this philosophy, but to fill out the
-picture, let's look at some organizational arrangements that are
-superficially similar, but differ in outcome.
+sustain success at that level for a century, I would argue, is to
+marry secure funding and good structural policy a with philosophy that works.
+Kelly gives us hints about this philosophy, but 
 
 ### 2.2 <a href="#tbc">Between the tower and the boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
