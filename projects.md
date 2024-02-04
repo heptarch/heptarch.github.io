@@ -262,6 +262,10 @@ should be.
 The second two questions probably have the same answer.
 Again, let's take Kelly; in order to couple the state of the art in
 communications systems to the state of the art in science, someone had
-to know the former. That would be the director of research.
+to know the former. That would be the director of research. The
+researchers, on the other, were the domain experts in the latter. So
+the coupling would be via collaborative managerial interaction.
+Incidentally, this is another division of labour that ensured focus,
+and divorced research from the profit motive.
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
