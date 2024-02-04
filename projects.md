@@ -35,7 +35,7 @@ There are hundreds of ways to kneel and kiss the ground.
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
 error-correcting codes, the Cosmic Microwave Background, electron diffraction, photovoltaic cells,
-MOSFET, CCDs, optical fibres, `UNIX`, `C`, support
+quality control, CCDs, optical fibres, `UNIX`, `C`, support
 vector machines, the Fast Fourier Transform, Grover search,
 and Shor's algorithm, among other innovations too numerous to name.
 What made it special? Money, to begin with. Bell Labs operated
@@ -216,7 +216,8 @@ science perspective; the rest is engineering, but very lucrative
 engineering.
 
 With a state-backed monopoly, this realpolitik didn't apply to Bell.
-The product ensured a healthy supply of capital and research problems,
+The product ensured a healthy supply of capital and research
+questions, a “problem-rich environment” as one employee said.
 but the research was decoupled from the profitability of
 the system it served.
 Employees could afford to fail, could afford to dream, could afford
@@ -265,15 +266,8 @@ mesh is part of the art of hiring and management.
 The last two questions probably have the same answer.
 In order to couple the state of the art in
 communications systems to the state of the art in pure science, somebody had
-to know the former. That would be the director of research. The
-researchers, on the other hand, were tasked with being domain experts in the latter. So
-the coupling arose via interactions between the director, the lab
-heads, and the component scientists.
-This is, incidentally, another division of labour that ensured focus
-and divorced research from the profit motive.
-
-Now, Kelly never went in and said
-<label for="sn-1"
+to know the former. That would be the director of research.
+As Jon Gertner puts it in his wonderful book,<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -283,5 +277,13 @@ Now, Kelly never went in and said
 	   <i>The Idea Factory: Bell Labs and the Great Age of American
 	   Innovation</i> (2012), Jon Gertner.
 	   </span>
+“the managers themselves had to keep track of how the technology
+and politics and finances of their endeavour meshed together.”
+The
+researchers, on the other hand, were tasked with being domain experts in the latter. So
+the coupling arose via interactions between the director, the lab
+heads, and the component scientists.
+This is, incidentally, another division of labour that ensured focus
+and divorced research from the profit motive.
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
