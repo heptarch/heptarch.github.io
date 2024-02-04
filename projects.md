@@ -105,16 +105,16 @@ they were strictly forbidden from involvement in the development
 itself. This would create distraction and lead them to "lose contact with the
 forefront of their field of scientific interest".
 
-Development was only one of a number of concentric layers of
-application, including systems engineering, facilities development,
-and operations, which you can learn more about from Kelly (1950).
-But these structural policies really only prescribed boundary
-conditions for research; the differential 
-
-
-transistor shows, he saw his researchers as collaborators rather than underlings,
+This was only one of a number of concentric layers of
+progressive deployment, including systems engineering, facilities development,
+and operations, which you can read more about in Kelly's lecture.
+But Bell's structural policies really only imposed boundary conditions;
+inside, research evolved according to a differential equation set by
+the director.
+As the transistor episode shows, Kelly saw his researchers as
+collaborators rather than underlings,
 and directed their efforts with superb managerial and technical
-insight. He lead from the inside.
+nous. He lead from the inside.
 
 One might be inclined to view this "institute of creative technology"
 as a lucky and historically unique confluence.
