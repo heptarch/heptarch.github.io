@@ -132,7 +132,7 @@ negative space, we can look at some institutions which do
 The Institute for Advanced Study has more material
 security, more on-paper freedom, more soaring ivory tower, than one could poke a
 tenured chair at.
-But its eminent faculty and bright young postdocs are there
+But its eminent faculty and promising young postdocs are there by
 postselection (what they did before they arrived) and preselection
 (what they will do after they leave); not much happens because of the
 Institute itself. As Feynman memorably put it: "Nothing happens
