@@ -25,7 +25,7 @@ There are hundreds of ways to kneel and kiss the ground.
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
-	3. <a href="#sec-2-3"><i>The recipe</i></a>
+	3. <a href="#sec-2-3"><i>A subtle coupling</i></a>
 	4. <a href="#sec-2-4"><i>An experiment</i></a>
 
 ## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
@@ -224,7 +224,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3 <a href="#tbc">A subtle coupling</a><a id="sec-2-3" name="sec-2-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
@@ -243,5 +243,11 @@ far, we can list some ways that Bell made it happen:
 There's overlap between these factors, but between
 them, I think we have a reasonable approximation of Bell's recipe for
 success.
+
+But there are some key questions that Kelly does not touch on in his
+operational overview:
+- What motivates researchers?
+- How is the coupling between communications systems and pure science achieved so that research is decoupled from profit?
+- How did managers intervene in or guide research?
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
