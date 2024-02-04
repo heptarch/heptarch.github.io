@@ -30,11 +30,7 @@ There are hundreds of ways to kneel and kiss the ground.
 
 ## 1. <a href="#tbc">The Lab</a><a id="sec-1" name="sec-1"></a>
 
----
-
 ## 2. <a href="#tbc">Creative applied research: lessons from Bell Labs</a><a id="sec-2" name="sec-2"></a>
-
----
 
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
