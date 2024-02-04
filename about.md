@@ -37,8 +37,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
----
-
 <div style="text-align:center"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
