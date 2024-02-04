@@ -227,8 +227,8 @@ In Big Tech, the product *is* the outcome, the process, and the metric.
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
-Creative applied research needs both. We can tentatively list some
-ways that Bell made it happen:
+Creative applied research needs both. Collecting our observations so
+far, we can tentatively list some ways that Bell made it happen:
 - Academic freedom
 - Clear and robust division of labour
 - Stimulating domain of application
