@@ -148,6 +148,7 @@ from the students. Nothing!"<label for="sn-1"
 	   From <i>“Surely You’re Joking, Mr. Feynman!” Adventures of a
 	   Curious Character</i> (1985), Richard Feynman.
 	   </span>
+The IAS is too far removed to have an impact on reality.
 
 At Bell Labs, Kelly made sure the theorists were in contact with the
 experimentalists by literally building their offices next to each
