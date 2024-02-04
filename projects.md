@@ -148,4 +148,6 @@ science perspective; the rest is engineering.
 ### 2.3 <a href="#tbc">A philo</a><a id="sec-2-3" name="sec-2-3"></a>
 
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
-The product offered a healthy problem supply, 
+The product offered a healthy supply of money and research problems,
+but didn't govern the outcome.
+In Big Tech, the product is the outcome.
