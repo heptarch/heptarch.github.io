@@ -162,7 +162,7 @@ rolls.
 But I wouldn't bet on too many more. The simple reason is that
 Turing awards are not a good investment, and these companies' true
 forte is making money. For better or worse, Big Tech knows the ROI is
-better for strategic deployment, marketing, and product integration than fundamental algorithms research. This capitalist realpolitik explains
+in strategic deployment, marketing, and product integration, not fundamental algorithms research. This capitalist realpolitik explains
 why Alphabet's has made massive cuts to its "moonshot factory" `X`,
 and why research groups across MAMAA and beyond have aggressively
 pivoted into generative AI.
