@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /rbl/
+permalink: /lab/
 ---
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
@@ -25,7 +25,8 @@ There are hundreds of ways to kneel and kiss the ground.
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Between the tower and the boardroom</i></a>
-	2. <a href="#sec-2-3"><i>The recipe</i></a>
+	3. <a href="#sec-2-3"><i>The recipe</i></a>
+	3. <a href="#sec-2-4"><i>The recipe</i></a>
 
 ## 1. <a href="#tbc">Open sesame</a><a id="sec-1" name="sec-1"></a>
 
