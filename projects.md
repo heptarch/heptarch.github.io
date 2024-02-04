@@ -240,7 +240,8 @@ far, we can list some ways that Bell made it happen:
 - Enforced cross-disciplinary interaction
 - Collaborative management
 
-There's clearly overlap between some of these factors, but between
-them, I think we cover a large part of Bell's recipe for success.
+There's overlap between these factors, but between
+them, I think we have a reasonable approximation of Bell's recipe for
+success.
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
