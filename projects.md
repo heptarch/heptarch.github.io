@@ -147,8 +147,8 @@ in the distance.
 
 By the metric of domain complexity, Big Tech should be the new Bell Labs. Epitomized by
 MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
-indeed have patents, papers and products aplenty, and a track
-record we can read off of Nasdaq.
+indeed have patents, papers and products aplenty, with a track
+record we can read off Nasdaq.
 But despite the billions of dollars they pour into applied computer
 science, the companies share only seven Turing Awards between them.<label for="sn-1"
        class="margin-toggle sidenote-number">
@@ -190,4 +190,7 @@ This is, I suspect, the Big Tech analogue of the IAS, where (again in
 Feynman's words) "These poor bastards could now sit and think clearly
 all by themselves, OK?"
 
-Be
+Bell Labs did not pour excess capital into whimsical
+moonshots. Everything they did was motivated; it was important; it was
+focused. But they could also afford to fail because the research was
+decoupled from the product.
