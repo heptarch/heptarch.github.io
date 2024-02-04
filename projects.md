@@ -89,13 +89,25 @@ put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
 research." An ill-framed objective or a quarterly review might
-distract from their real job. On similar grounds, projects would be taken away
-from fundamental researchers once they'd reached a certain level of
-maturity, to ensure they do not "lose contact with the forefront of
-their field of scientific interest". But Kelly's management was not
-only in these invisible policies of focus; as the transistor shows, he saw his researchers as
-collaborators rather than underlings, and directed their efforts with
-superb managerial and technical insight *from the inside*.
+distract from their real job.
+
+Of course, to meet the technical needs of Bell and later AT&T, someone
+had to keep track of what was going on; it just wasn't the
+researchers. Once a fundamental research project reached a certain
+level of maturity, it would be handed over to a development team. In
+Kelly's words: "This pattern repeats itself again and again. A
+research programme is initiated. Then as new knowledge that gives
+promise of worth-while application is obtained, a fundamental
+development team is activated. It builds a background of basic
+technology under the watchful eye and with the consultative aid of the
+men of research." There was a very clear division of labour between
+research and development, to ensure researchers didn't "lose contact with the
+forefront of their field of scientific interest".
+
+Kelly did more than enforce focus and interdisciplinarity; as the
+transistor shows, he saw his researchers as collaborators rather than underlings,
+and directed their efforts with superb managerial and technical
+insight. He lead from the inside.
 
 One might be inclined to view this "institute of creative technology"
 as a lucky and historically unique confluence.
