@@ -212,7 +212,8 @@ pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
 science perspective; the rest is engineering, but very lucrative
 engineering.
-The point is that 
+So, to state it crudely, the IAS is all freedom and no domain of
+application, and Big Tech is all domain of application and no freedom.
 
 ### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
