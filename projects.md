@@ -183,4 +183,6 @@ moonshots that sound like they were stolen from Randall Munroe's
 latest book. Weather balloons that deliver internet to remote
 locations are cool, but don't feel inevitable and important in the way
 the laser does; they don't need to exist.
-This is, I suspect, the Big Tech analogue of the IAS.
+This is, I suspect, the Big Tech analogue of the IAS, where (again in
+Feynman's words) "These poor bastards could now sit and think clearly
+all by themselves, OK?"
