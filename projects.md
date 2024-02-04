@@ -217,13 +217,15 @@ With a state-backed monopoly, this realpolitik didn't apply to Bell.
 The product ensured a healthy supply of capital and research problems,
 but the research was decoupled from the profitability of
 the system it served.
-Bell Lab employees could afford to fail, could afford to dream; the
-product didn't govern the outcome.
-In Big Tech, the product *is* the outcome.
+Employees could afford to fail, could afford to dream, could afford
+to talk to people outside their comfort zone and explore low-entropy
+connections; the product didn't govern the outcome, dictate the
+process, or provide the yardstick for success and failure.
+In Big Tech, the product *is* the outcome, the process, and the metric.
 
 ### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
-So, to state it crudely, the IAS is all freedom and no domain of
+So, to state it crudely, the IAS (at least in Feynman's view) is all freedom and no domain of
 application, and Big Tech is all domain of application and no freedom.
 Creative applied research needs both.
 
