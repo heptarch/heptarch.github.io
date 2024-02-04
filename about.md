@@ -14,8 +14,7 @@ You can find my old site [here](hapax.github.io).
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div id="formula" style="padding: 20px; border: 1px solid #000;
-    margin: 20px 0; text-align: center"></div>
+<div id="formula" style="padding: 20px; border: 1px solid #000; margin: 20px 0; text-align: center"></div>
     <img id="formulaImage" src="" style="align: center; max-width: 100%; height: auto;"/>
 
     <script>
