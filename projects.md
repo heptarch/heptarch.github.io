@@ -230,6 +230,7 @@ and Big Tech is all application and no freedom.
 Creative applied research needs both. Collecting our observations so
 far, we can tentatively list some ways that Bell made it happen:
 - Academic freedom
+- Excellent personnel
 - Emphasis on focus
 - Material security
 - Clear and robust division of labour
