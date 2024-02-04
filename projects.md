@@ -52,8 +52,9 @@ its clear that money does not buy Bell-level success.
 I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
 
-This short essay represents some loose, tendentious efforts to
-understand why Bell Labs was so success as an "institute of creative technology".
+This little essay represents my half-formed thoughts on why Bell Labs
+was so successful as an "institute of creative technology", and why
+that success has been so hard to replicate.
 
 ### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
@@ -105,8 +106,9 @@ superficially similar, but differ dramatically in output.
 A place like the Institute for Advanced Study has more material
 security, more on-paper ivory tower-freedom, than one could poke a
 tenured chair at.
-But its successes are postselected; not much happens one people arrive
-at the Institute itself. As Feynman memorably put it: "Nothing happens because there's
+But its successes are postselected; apart from postdocs (who are often
+the promising early-career researchers in the world), not much happens
+one you arrive at the Institute itself. As Feynman memorably put it: "Nothing happens because there's
 not enough real activity and challenge: you're not in contact with the
 experimental guys. You don't have to think how to answer questions
 from the students. Nothing!"<label for="sn-1"
