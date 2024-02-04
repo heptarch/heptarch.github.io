@@ -247,7 +247,14 @@ But, in my view, a few key questions remain unresolved:
 - How did managers intervene in or guide research?
 - How was research coupled to communications systems?
 
-I suspect the answers here are connected, and lie less in the
+I suspect the answers here are connected, and lie somewhere between
 operational realm than the mysteries of human behaviour.
+Hire smart people, give them money, equipment, and fun problems to
+work on, and your output will probably depend sensitively on *who you
+choose*. Like scouting and talent development in professional sports,
+this requires not only deep pockets, but good eyes and a good gut
+instinct for how the different parts of the team will gel.
+
+
 
 ### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
