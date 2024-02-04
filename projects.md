@@ -294,4 +294,5 @@ If Bell Labs made innovation systematic, why hasn't that degree of innovation be
 elsewhere? IBM and Microsoft have tried, with partial success. Maybe
 the lucky confluence was Bell Labs itself, in the technocapital
 circumstances that made that balance of freedom and application
-possible for such a long period.
+possible for such a long period. You don't get to the state-sponsored
+opportunity to explore new realms of technology every day!
