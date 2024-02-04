@@ -62,7 +62,17 @@ he was not only the cause of research in himself, but the cause that
 research is in others.
 At the same time, his views on scientific management would terrify a
 modern CEO. Research was a "non-scheduled
-area of work", so the scientists did not have to jump through the
+area of work",<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+   See <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1950.0140">"The Bell
+   Telephone Laboratories-An Example of an Institute of Creative
+   Technology"</a> (1950), Mervin Kelly.
+	   </span> so the scientists did not have to jump through the
 corporate hoops of OKRs, deadlines, or progress reports.
 No hustle, no crunch; just research.
 
