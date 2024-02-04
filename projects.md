@@ -180,7 +180,7 @@ science perspective; the rest is engineering.
 With a state-backed monopoly, this realpolitik just didn't apply to Bell.
 The product ensured a healthy supply of capital and research problems,
 but didn't govern the outcome.
-In modern Big Tech, the product *is* the outcome.
+In Big Tech, the product *is* the outcome.
 And when it isn't connected to the product, we get the quirky
 moonshots that sound like they were stolen from Randall Munroe's
 latest book. Weather balloons that deliver internet to remote
