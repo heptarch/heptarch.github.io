@@ -186,7 +186,7 @@ MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
 indeed have patents, papers and products aplenty, with a track
 record we can read off Nasdaq.
 But despite the billions of dollars they pour into applied computer
-science, the companies share only seven Turing Awards between them.<label for="sn-1"
+science, these companies share only seven Turing Awards between them.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -196,8 +196,9 @@ science, the companies share only seven Turing Awards between them.<label for="s
 	   And a few of these recipients, e.g. Yann LeCun, did their most
 	   highly cited work at Bell Labs.
 	   </span>
-Arguably, this a problem of timescale. Like the Nobel,
-Turing Awards tend to arrive long after the fact; in twenty
+Bell Labs has nine.
+Arguably, this a problem of timescale; like the Nobel,
+Turing Awards tend to arrive long after the fact. In twenty
 years, I bet we will see more MAMAA employees on the honour
 rolls.
 
