@@ -275,6 +275,26 @@ probably one of the greatest research teams ever pulled together on a
 problem.”
 It's hard to overstate the importance of collaborative synergy in big science.
 
+Richard Hamming, a Bell Labs luminary, describes what he views as the
+right sort of personality type: "But I can say there is a pretty good correlation between those who
+work with the doors open and those who ultimately do important things,
+although people who work with doors closed often work harder. Somehow
+they seem to work on slightly the wrong thing---not much, but enough
+that they miss fame."<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+   See <a
+   href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">"You
+   and Your Research"</a> (1986), Richard Hamming.
+   </span>
+That openness is how collaboration happens. Some people, like the
+father of information theory Claude Elwood Shannon, were not
+collaborative; but they were intellectually receptive in a parallel way.
+
 The last two questions probably have the same answer.
 To couple the state of the art in
 communications systems to the state of the art in pure science, somebody had
@@ -445,19 +465,3 @@ try to hustle the outcome, but instead guide and nurture the process.
 our research, the environment that we provide, and the distance in their work that
 we ask them to penetrate beyond the forefront of creative technology are the most
 important factors in determining the closeness of coupling—the effectiveness."
-
-"But I can say there is a pretty good correlation between those who
-work with the doors open and those who ultimately do important things,
-although people who work with doors closed often work harder. Somehow
-they seem to work on slightly the wrong thing---not much, but enough
-that they miss fame."<label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
-	   <span class="sidenote">
-   See <a
-   href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">"You
-   and Your Research"</a> (1986), Richard Hamming.
-	   </span>
