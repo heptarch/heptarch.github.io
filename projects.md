@@ -329,8 +329,11 @@ chance is $O(1/n^2)$. I would wager that most universities live in
 $O(1/n^2)$ regime, and state labs in the $O(1/n)$ regime. The odds of
 finding those creating overlaps are not good.
 
-An interesting exception, in my view, is OpenAI, which seems to have a "culture of
-repeatable innovation" to unironically quote Sam Altman.
+An interesting exception, in my view, is OpenAI, which does seem to
+have a "culture of repeatable innovation" to unironically quote Sam
+Altman. I'm not sure how things work there, but I suspect that
+starting as a non-profit with a Lawful Good mission statement helped
+create an initial decoupling between product and research.
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
