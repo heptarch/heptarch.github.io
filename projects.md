@@ -366,10 +366,12 @@ non-profit, will these guidelines be applicable? I
 think so, and at smaller sizes than you might expect. Armed with the
 insights above, let's revisit our successipe and think about how to
 scale it down:
+
 1. *Freedom.* Academic freedom means that researchers and not
 managers initiate research. As in a university setting, this isn't a
 license to do anything; it's trust and permission within scope. This can be
 implemented even in a small team.
+
 2. *Security.* This one is trickier. As we've discussed above, in a tech
    setting stable funding is hard to come by, and in most universities,
    even tenure is no guarantee of money. But this is the first place
@@ -377,6 +379,7 @@ implemented even in a small team.
    should not be the ones hustling for money, developing, or selling
    the product. They should get paid to research. Professors tend to
    be miserable project managers, and the same is true in industry.
+   
 3. *Separation.* The benefits of a robust division of labour should,
    by this point, be clear. Don't saddle researchers with business
    problems, just pay them to think and give them what they need. For
@@ -386,6 +389,7 @@ implemented even in a small team.
    interfaces. This requires a large enough organization to separate
    concerns, and would be premature for an early-stage startup of,
    say, five people. But $100$ should be plenty.
+   
 6. *Focus.* The goal is clearly separating research from its
    application is focus. Researchers work best when their bellies (and
    wallets) are full, and they get to have fun with their
@@ -394,6 +398,7 @@ implemented even in a small team.
    distracted. This is a subtle business, because what looks like
    "distraction" to a manager can be lateral inspiration. This is
    where scope and domain become important.
+   
 4. *Domain.* A stimulating problem domain guarantees a supply of
 good research questions, and that coupling to the scientific
 state-of-the-art Kelly was so concerned with. In fact, most industrial
@@ -402,11 +407,15 @@ we think! In addition to stimulating scientific innovation, a good
 domain also helps draw the line between distraction and freedom
 judiciously employed. You think homotopy type theory might shed some
 light on this problem? In that case, by all means.
+
 5. *Mandate.* Of course, even when a domain is stimulating, if
    approached without urgency and a sense of mission, is unlikely to
    yield spectacular results from an applied perspective.
+
 7. *Interaction.*
+   
 8. *Collaboration.*
+   
 9. *Talent.*
 
 "But I can say there is a pretty good correlation between those who
