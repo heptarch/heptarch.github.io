@@ -179,8 +179,8 @@ communications technology. The closer the coupling, the more
 completely will we keep in step with the progress of science."
 
 This is worlds away from the enfeebled freedom that Feynman
-lampooned; the freedom to think, but about what?
-But if you're put on a team with a telephony-relevant domain of
+lampooned. The freedom to think, sure, but about what?
+In contrast, if you're put on a team with a problem-rich domain of
 inquiry, told to get darn good at it, talk to your colleagues, think
 big, ask stupid questions, and go test things out in the lab down the
 hall, you end up with an institute of creative technology and not of
