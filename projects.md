@@ -298,7 +298,7 @@ in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate with substance.
 
-Wee might conclude pessimistically that Bell's mandate, and the
+We might conclude pessimistically that Bell's mandate, and the
 freedom and money that came with it, are unrepeatable freaks of history.
 But I don't buy it
 <label for="sn-1"
