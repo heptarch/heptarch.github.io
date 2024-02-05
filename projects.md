@@ -287,9 +287,9 @@ proper focus and divorced research outcomes from profit.
 
 So, we have something of a recipe. Of course, this raises the
 question: if Bell Labs made innovation systematic, why haven't its
-results been systematically reproduced elsewhere? IBM and Microsoft have tried, with partial success. I
-explained that Kelly's management wasn't a lucky confluence, but maybe
-the lucky confluence was Bell Labs itself. I mean, you don't get a state-sponsored
+results been systematically reproduced elsewhere? IBM and Microsoft
+have tried, with partial success. I don't think Kelly's management was
+a lucky confluence, but maybe the lucky confluence was Bell Labs itself. I mean, you don't get a state-sponsored
 mandate to a develop a whole new realm of technology every century!
 Big Tech tries to develop new realms, but without mandate
 in a prohibitively competitive environment.
