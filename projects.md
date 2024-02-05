@@ -427,7 +427,12 @@ try to hustle the outcome, but instead guide and nurture the process.
    groups; although better than nothing, like university
    collaborations it tends to suffer from suboptimal scaling in $n$.
    
-8. *Collaboration.* 
+8. *Collaboration.* If researchers are encouraged to focus and become
+   domain experts, some of the cross-fertilization has to be
+   coordinated from above. In turns, this requires technical maturity
+   and visions, the scientist-managers like Kelly. But grumpy
+   professorial PIs show that not every scientist is cut out for this,
+   and should have to be.
    
 9. *Talent.*
 
