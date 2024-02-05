@@ -402,7 +402,9 @@ we think! In addition to stimulating scientific innovation, a good
 domain also helps draw the line between distraction and freedom
 judiciously employed. You think homotopy type theory might shed some
 light on this problem? In that case, by all means.
-5. *Mandate.* This one
+5. *Mandate.* Of course, even when a domain is stimulating, if
+   approached without urgency and a sense of mission, is unlikely to
+   yield spectacular results from an applied perspective.
 7. *Interaction.*
 8. *Collaboration.*
 9. *Talent.*
