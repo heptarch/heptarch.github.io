@@ -366,7 +366,6 @@ non-profit, will these guidelines be applicable? I
 think so, and at smaller sizes than you might expect. Armed with the
 insights above, let's revisit our successipe and think about how to
 scale it down:
-
 1. *Freedom.* Academic freedom means that researchers and not
 managers initiate research. As in a university setting, this isn't a
 license to do anything; it's trust and permission within scope. This can be
