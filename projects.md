@@ -289,8 +289,6 @@ proper focus and divorced research outcomes from profit.
 
 If Bell Labs made innovation systematic, why hasn't that degree of innovation been reproduced
 elsewhere? IBM and Microsoft have tried, with partial success. I
-argued that Kelly's management wasn't a lucky confluence. But maybe
-the lucky confluence was Bell Labs itself, in the technocapital
-infrastructure that made that balance of freedom and application
-possible for such a long period. I mean, you don't get a state-sponsored
-mandate to a develop a whole new realm of technology every day!
+argued that Kelly's management wasn't a lucky confluence, but maybe
+the lucky confluence was Bell Labs itsel. I mean, you don't get a state-sponsored
+mandate to a develop a whole new realm of technology every century!
