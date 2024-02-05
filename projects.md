@@ -399,11 +399,14 @@ implemented even in a small team.
    "distraction" to a manager can be lateral inspiration. This is
    where scope and domain become important.
 
-4. *Domain.* A stimulating problem domain only guarantees a supply of
-   good research questions; it also helps draw the line between
-   distraction and freedom judiciously employed. You think homotopy
-   type theory might shed some light on this problem? In that case, by
-   all means.
+4. *Domain.* A stimulating problem domain guarantees a supply of
+good research questions, and that coupling to the scientific
+state-of-the-art Kelly was so concerned with. In fact, most industrial
+domains harbour unsolved scientific problems; we know much less than
+we think! In addition to stimulating scientific innovation, a good
+domain also helps draw the line between distraction and freedom
+judiciously employed. You think homotopy type theory might shed some
+light on this problem? In that case, by all means.
 
 5. *Mandate.* This one
 7. *Interaction.*
