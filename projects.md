@@ -229,7 +229,8 @@ far, we can list a few key ingredients in Bell's recipe for successipe:
 - Enforced cross-disciplinary interaction
 - Collaborative management
 
-This covers most of it, but a few key questions remain, such as:
+This seems pretty good, but I'll admit, there are some major questions
+it doesn't answer:
 - What motivated researchers?
 - How did managers intervene in or guide research?
 - How was research coupled to the realities of the communications systems?
