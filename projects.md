@@ -419,8 +419,10 @@ try to hustle the outcome, but instead guide and nurture the process.
 
 7. *Interaction.* Speaking of other experts, perhaps the hardest ingredient
    to replicate at a small scale is the effect of cross-disciplinary
-   chatter and all-to-all interconnections. With six groups, you have
-   fifteen edges to explore; between two groups, only one.
+   chatter and all-to-all connections. With six groups, you have
+   fifteen edges to explore; between two groups, only one. In smaller
+   teams, I think the natural answer is in-house specialization, where
+   different 
    
 8. *Collaboration.*
    
