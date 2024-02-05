@@ -297,6 +297,6 @@ in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate with substance.
 
-A different model that 
+Another model 
 
 ### 2.5 <a href="#tbc">Skunk Works</a><a id="sec-2-5" name="sec-2-5"></a>
