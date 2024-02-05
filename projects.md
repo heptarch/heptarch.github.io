@@ -233,7 +233,7 @@ In Big Tech, the product *is* the outcome, the process, and the metric.
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
 Creative applied research needs both. Collecting our observations so
-far, we can list a few key factors in Bell's success:
+far, we can list a few key ingredients in Bell's recipe for successipe:
 - Academic freedom
 - Material security
 - Stimulating domain of application
