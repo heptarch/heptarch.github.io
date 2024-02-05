@@ -393,7 +393,7 @@ implemented even in a small team.
    problems. But, as Kelly realized, to keep up with the
    frontier you need to move fast; you can't afford to be
    distracted. This is a subtle business, because what looks like
-   "distraction" to a manager can be lateral inspiration. I think is
+   "distraction" to a manager can be lateral inspiration. This is
    where scope and domain become important.
 
 4. *Domain.* 
