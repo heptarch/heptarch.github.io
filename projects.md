@@ -220,7 +220,18 @@ why, for instance, Alphabet is making massive cuts to its "moonshot factory" `X`
 It also explain why research groups in MAMAA and beyond have aggressively
 pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
-science perspective; the rest is engineering, albeit lucrative and difficult.
+science perspective; the rest is engineering, albeit lucrative and
+difficult. <label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+I'm exaggerating a little, especially because much of the basic
+science <i>was</i> done in the Big Tech setting. See <a
+href="#sec-2-4">§2.4</a> for more discussion.
+	   </span>
 
 With a state-backed monopoly, this realpolitik didn't apply to Bell.
 The product ensured a healthy supply of capital and research
