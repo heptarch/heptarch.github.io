@@ -281,7 +281,7 @@ and politics and finances of their endeavour meshed together.”
 The
 researchers, on the other hand, were tasked with being domain experts in the latter. So
 the coupling arose via interactions between the director,
-sublaboratory managers, and the constituent scientists.
+lab heads, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research from profit.
 
@@ -301,7 +301,11 @@ Money and freedom aren't enough; you need a mandate with substance.
 
 We might conclude pessimistically that Bell's mandate, and the
 freedom and money that came with it, are unrepeatable.
-But I'm not sure I buy it
+But I'm not sure I buy it.
+Or rather: I'm not sure anyone else wants to.
+Big Tech doesn't like the ROI on Nobel Prizes, and for that matter,
+neither does Small Tech, which relies on venture capital
+
 <label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
