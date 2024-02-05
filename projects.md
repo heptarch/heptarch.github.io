@@ -288,8 +288,7 @@ Putting it all together, we have a crude recipe for creative applied research.
 
 ### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
 
-This raises the question: if Bell Labs made innovation systematic and simple enough to
-record in a few bullet points, why haven't its
+Of course, his raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
 have tried, with partial success. I don't think Kelly's management was
 a lucky confluence, but maybe the lucky confluence was Bell Labs itself; I mean, you don't get a state-sponsored
