@@ -369,7 +369,7 @@ scale it down:
 
 1. *Freedom.* Academic freedom means that researchers and not
 managers initiate research. As in a university setting, this isn't a
-license to do anything; it's freedom within scope. This can be
+license to do anything; it's trust and permission within scope. This can be
 implemented even in a small team.
 
 2. *Security.* This one is trickier. As we've discussed above, in a tech
@@ -380,7 +380,7 @@ implemented even in a small team.
    the product. They should get paid to research. Professors tend to
    be miserable project managers, and the same is true in industry.
 
-3. *Separation.*
+3. *Separation.* On that note, 
 
 4. *Domain.* This one
 
