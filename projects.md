@@ -345,8 +345,8 @@ finding those creating overlaps are not good.
 An interesting exception is OpenAI, which (in my view) does seem to
 have a "culture of repeatable innovation" to unironically quote Sam
 Altman. I'm not sure how things work there, but I suspect that
-starting as a non-profit created an initial decoupling between product
-and research. It also had a Lawful Good mandate in a superbly
+starting as a non-profit hardcoded the decoupling between product
+and research. It also had a Lawful Good mandate in a provocatively
 difficult problem domain.
 In a field like AI, the benefits of cross-fertilization
 between adjacents domains are probably pretty obvious, particularly as
@@ -399,9 +399,10 @@ implemented even in a small team.
    "distraction" to a manager can be lateral inspiration. This is
    where scope and domain become important.
 
-4. *Domain.* A stimulating, problem-rich domain of application not only
+4. *Domain.* A stimulating domain of application not only
    guarantees a supply of good research questions; it also
-   distinguishes between distraction and freedom judiciously employed.
+   draws the line between distraction and freedom judiciously
+   employed. Is freed
 
 5. *Mandate.* This one
 7. *Interaction.*
