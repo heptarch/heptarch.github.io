@@ -285,8 +285,9 @@ sublaboratory managers, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research outcomes from profit.
 
-If Bell Labs made innovation systematic, why hasn't that been
-systematically reproduced elsewhere? IBM and Microsoft have tried, with partial success. I
+So, we have something of a recipe. Of coursre this raises the
+question: if Bell Labs made innovation systematic, why hasn't its
+success been systematically reproduced elsewhere? IBM and Microsoft have tried, with partial success. I
 explained that Kelly's management wasn't a lucky confluence, but maybe
 the lucky confluence was Bell Labs itself. I mean, you don't get a state-sponsored
 mandate to a develop a whole new realm of technology every century!
@@ -297,10 +298,9 @@ Money and freedom aren't enough; you need a mandate with substance.
 
 ### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
 
-So, we might conclude pessimistically that the institutional
-forces that allowed Bell Labs to be great are unique and
-irreproducible.
-I don't buy it
+Wee might conclude pessimistically that Bell's mandate, and the
+freedom and money that came with it, are unrepeatable freaks of history.
+But I don't buy it
 <label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
