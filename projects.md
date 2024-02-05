@@ -234,9 +234,8 @@ In Big Tech, the product *is* the outcome, the process, and the metric.
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
 Creative applied research needs both. Collecting our observations so
-far, we can list some ways that Bell made it happen:
+far, we can list a few key factors in Bell's success:
 - Academic freedom
-- Quality hires
 - Material security
 - Stimulating domain of application
 - Decoupling of product and research
@@ -245,9 +244,7 @@ far, we can list some ways that Bell made it happen:
 - Enforced cross-disciplinary interaction
 - Collaborative management
 
-Between these ingredients, I think we cover a reasonable portion of Bell's recipe for
-success.
-But, in my view, a few key questions remain unresolved:
+This covers most of it, but a few key questions remain unresolved:
 - What motivated researchers?
 - How did managers intervene in or guide research?
 - How was research coupled to communications systems?
