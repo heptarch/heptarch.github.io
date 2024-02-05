@@ -385,7 +385,10 @@ implemented even in a small team.
    problems, just pay them to think and give them what they need. For
    that to feasible, you need to have good managers to couple science
    to commerce, and teams to perform development, integration, and so
-   on. Keep them separate, but with well-defined and performant interfaces.
+   on. Keep them separate, but with well-defined and performant
+   interfaces. This requires a large enough organization to separate
+   concerns, and would be premature for an early-stage startup of,
+   say, five people. But $100$ should be plenty.
 
 6. *Focus.* The goal is clearly separating research from its
    application is focus. Researchers work best when their bellies (and
