@@ -300,7 +300,7 @@ Money and freedom aren't enough; you need a mandate with substance.
 
 We might conclude pessimistically that Bell's mandate of
 substances---to build a nation-wide telecommunications infrastructure---and the
-freedom and money that came with it, are unrepeatable.
+freedom and money that came with it, are basically unrepeatable.
 But I'm not sure I buy it.
 Or rather: I'm not sure anyone else wants to.
 Big Tech doesn't like the ROI on Nobel Prizes, and for that matter,
