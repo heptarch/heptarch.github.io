@@ -25,7 +25,7 @@ There are hundreds of ways to kneel and kiss the ground.
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
-	3. <a href="#sec-2-3"><i>Subtle factors</i></a>
+	3. <a href="#sec-2-3"><i>The recipe</i></a>
 	4. <a href="#sec-2-4"><i>Skunk Works</i></a>
 
 ---
@@ -229,7 +229,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 2.3 <a href="#tbc">Subtle factors</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
@@ -285,8 +285,6 @@ sublaboratory managers, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research outcomes from profit.
 
-### 2.4 <a href="#tbc">Skunk Works</a><a id="sec-2-4" name="sec-2-4"></a>
-
 If Bell Labs made innovation systematic, why hasn't that been
 systematically reproduced elsewhere? IBM and Microsoft have tried, with partial success. I
 explained that Kelly's management wasn't a lucky confluence, but maybe
@@ -297,6 +295,4 @@ in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate with substance.
 
-Another model 
-
-### 2.5 <a href="#tbc">Skunk Works</a><a id="sec-2-5" name="sec-2-5"></a>
+### 2.4 <a href="#tbc">Skunk Works</a><a id="sec-2-4" name="sec-2-4"></a>
