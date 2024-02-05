@@ -289,7 +289,7 @@ Putting it all together, we have a crude recipe for creative applied research.
 
 Of course, his raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
-have tried, with partial luck. I don't think Kelly's management was
+have tried, with some luck. I don't think Kelly's management was
 a lucky confluence, but maybe there was a lucky confluence, namely
 Bell Labs itself; I mean, you don't get a state-sponsored mandate to a
 develop a whole new realm of technology every day!
