@@ -409,8 +409,12 @@ judiciously employed. You think homotopy type theory might shed some
 light on this problem? In that case, by all means.
 
 5. *Mandate.* Of course, even when a domain is stimulating, if
-   approached without urgency and a sense of mission, is unlikely to
-   yield spectacular results from an applied perspective.
+   approached without urgency and a sense of mission, is likely to
+   yield lacklustre results from an applied perspective. That is why
+   mandate is important. It gives you a problem to solve, and the
+   responsibility to solve it; a collective and personal stake in
+   something that will make a difference. This is different from the
+   splended isolation of the ivory tower.
 
 7. *Interaction.*
    
