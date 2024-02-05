@@ -260,8 +260,7 @@ will gel.
 As Brattain once said of the transistor research group, “It was
 probably one of the greatest research teams ever pulled together on a
 problem.”
-Different people will have different motivations, but getting those to
-mesh is part of the art of hiring and management.
+It's hard to overstate the importance of collaborative synergy in big science.
 
 The last two questions probably have the same answer.
 In order to couple the state of the art in
