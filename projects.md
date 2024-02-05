@@ -292,15 +292,15 @@ question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
 have tried, with partial success. I don't think Kelly's management was
 a lucky confluence, but maybe the lucky confluence was Bell Labs itself. I mean, you don't get a state-sponsored
-mandate to a develop a whole new realm of technology every century!
+mandate to a develop a whole new realm of technology every day!
 Big Tech tries to develop new realms, but without mandate
 in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate with substance.
 
 We might conclude pessimistically that Bell's mandate, and the
-freedom and money that came with it, are unrepeatable freaks of history.
-But I don't buy it
+freedom and money that came with it, are unrepeatable.
+But I'm not sure I buy it
 <label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
