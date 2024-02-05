@@ -29,7 +29,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
 	3. <a href="#sec-2-3"><i>Successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
-	5. <a href="#sec-2-5"><i>Entanglement</i></a>
+	5. <a href="#sec-2-5"><i>Scaling down</i></a>
 
 ---
 
@@ -360,7 +360,7 @@ makes it special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech rockstardom.
 
-### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
+### 2.5. <a href="#tbc">Scaling down</a><a id="sec-2-5" name="sec-2-5"></a>
 
 In lieu of a state monopoly or an idiosyncratic non-profit
 backed by Silicon Valley royalty, are these guidelines applicable? I
