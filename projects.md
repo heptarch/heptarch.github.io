@@ -334,7 +334,7 @@ chance is $O(1/n^2)$. I would wager that most universities live in
 $O(1/n^2)$ regime, and state labs in the $O(1/n)$ regime. The odds of
 finding those creating overlaps are not good.
 
-An interesting exception, in my view, is OpenAI, which does seem to
+An interesting exception is OpenAI, which (in my view) does seem to
 have a "culture of repeatable innovation" to unironically quote Sam
 Altman. I'm not sure how things work there, but I suspect that
 starting as a non-profit with a Lawful Good mission statement helped
@@ -344,7 +344,10 @@ research from development and systems engineering.
 Finally, in a field like AI, the benefits of cross-fertilization
 between adjacents domains are probably pretty obvious, particularly as
 multimodal AI comes into its own. So, I suspect OpenAI is in the
-$O(1)$ regime.
+$O(1)$ regime. I'm not sure if it uses the other ingredients in Bell's
+recipe for innovation --- these may be neither nor sufficient --- but
+it seems that the structural quirks are part of what makes it special.
+I guess we'll see how the culture of innovation holds up under 
 
 ### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
 
