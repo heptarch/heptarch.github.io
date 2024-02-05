@@ -250,8 +250,7 @@ Creative applied research needs both. Collecting our observations so
 far, we can list a few key ingredients in Bell's recipe for successipe:
 - Academic freedom
 - Material security
-- Stimulating domain of application
-- Decoupling of product and research
+- Problem-rich domain of application
 - Robust division of labour
 - Enforced focus
 - Enforced cross-disciplinary interaction
@@ -362,20 +361,20 @@ pressures of Big Tech rockstardom.
 
 ### 2.5. <a href="#tbc">Scaling down</a><a id="sec-2-5" name="sec-2-5"></a>
 
-Let's cobble together the various insights above, and frame them as
-imperatives:
+Let's cobble together the various insights above, and give our final recipe:
 - Academic freedom
 - Material security
-- Stimulating domain of application
-- Decoupling of product and research
+- Problem-rich domain of application
+- Mandate to develop
 - Robust division of labour
 - Enforced focus
 - Enforced cross-disciplinary interaction
+- Many groups with all-to-all couplings
 - Collaborative management
 
-In lieu of a state monopoly or an idiosyncratic non-profit
-backed by Silicon Valley royalty, are these guidelines applicable? I
-suspect so, and at smaller sizes than you might expect. Let's think
+In lieu of a state monopoly or an idiosyncratic Silicon Valley
+non-profit, will these guidelines be applicable? I
+think so, and at smaller sizes than you might expect. Let's think
 about how to scale the successipe down.
 
 #### Academic freedom
