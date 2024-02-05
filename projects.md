@@ -27,7 +27,7 @@ There are hundreds of ways to kneel and kiss the ground.
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
-	3. <a href="#sec-2-3"><i>Successipe</i></a>
+	3. <a href="#sec-2-3"><i>A rough successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
 	5. <a href="#sec-2-5"><i>Scaling down</i></a>
 
@@ -242,7 +242,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 2.3. <a href="#tbc">Successipe</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. <a href="#tbc">A rough successipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
