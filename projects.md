@@ -1,6 +1,7 @@
 ---
 layout: page
 title:
+mathjax: true
 permalink: /lab/
 date: 2024-02-5
 ---
@@ -19,9 +20,6 @@ There are hundreds of ways to kneel and kiss the ground.
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 </div>
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 ## Contents <a id="tbc" name="tbc"></a>
 
