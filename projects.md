@@ -424,10 +424,11 @@ try to hustle the outcome, but instead guide and nurture the process.
    teams, I think the natural answer is in-house specialization, where
    different researchers play the same role as different
    teams. Another solution is to build rapport with external research
-   groups, but although it is better, it tends to suffer from
-   suboptimal scaling in $n$.
+   groups; although better than nothing, it tends to suffer from
+   suboptimal scaling in $n$. I think a combination of the above is
+   probably best.
    
-8. *Collaboration.*
+8. *Collaboration.* The comm
    
 9. *Talent.*
 
