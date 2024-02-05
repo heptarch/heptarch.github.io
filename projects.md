@@ -327,8 +327,8 @@ or [Loon](https://en.wikipedia.org/wiki/Loon_LLC) that are cute,
 brilliant, and totally unnecessary. The perfect fodder for
 [`xkcd`](https://xkcd.com/)!
 
-Plenty of universities and state labs do Bell-level work, but in a
-disconnected fashion. Part of the magic of Bell was in the scale and
+Plenty of universities and state labs do creative applied research,
+but it's small and disconnected. Part of the magic of Bell was in the scale and
 connectivity. We can do a little back-of-the-envelope calculation to
 see why this is important. Suppose you have $n$ research groups, most
 of which to most of the others. Then the number of connections scales
@@ -338,7 +338,7 @@ edges, e.g. there is a chance that a good idea lies along an edge
 between two groups, then you have an $O(1)$ chance of finding it. If
 all groups speak to some $O(1)$ number of other groups, or some group
 speaks to most others, you have an $O(1/n)$ chance of finding
-it. Finally, if only a few groups speak to a few groups, then the
+it. Finally, if only a few groups speak to a few others, the
 chance is $O(1/n^2)$. I would wager that most universities live in
 $O(1/n^2)$ regime, and state labs in the $O(1/n)$ regime. The odds of
 finding those creating overlaps are not good.
