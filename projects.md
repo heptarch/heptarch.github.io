@@ -362,9 +362,25 @@ pressures of Big Tech rockstardom.
 
 ### 2.5. <a href="#tbc">Scaling down</a><a id="sec-2-5" name="sec-2-5"></a>
 
+Let's cobble together the various insights above, and frame them as
+imperatives:
+- Academic freedom
+- Material security
+- Stimulating domain of application
+- Decoupling of product and research
+- Robust division of labour
+- Enforced focus
+- Enforced cross-disciplinary interaction
+- Collaborative management
+
 In lieu of a state monopoly or an idiosyncratic non-profit
 backed by Silicon Valley royalty, are these guidelines applicable? I
-suspect so, and at relatively small scales.
+suspect so, and at smaller sizes than you might expect. Let's think
+about how to scale the successipe down.
+
+#### Academic freedom
+
+
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
