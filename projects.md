@@ -361,35 +361,33 @@ pressures of Big Tech rockstardom.
 
 ### 2.5. <a href="#tbc">Scaling down</a><a id="sec-2-5" name="sec-2-5"></a>
 
-Let's cobble together the various insights above, and give a putative recipe:
-1. Freedom
-2. Security
-3. Domain
-4. Mandate
-5. Robust division of labour
-6. Enforced focus
-7. Enforced cross-disciplinary interaction
-8. Many groups with all-to-all couplings
-9. Collaborative management
-10. Talent scouting
-
 In lieu of a state monopoly or an idiosyncratic Silicon Valley
 non-profit, will these guidelines be applicable? I
-think so, and at smaller sizes than you might expect. Let's think
-about how to scale the successipe down:
+think so, and at smaller sizes than you might expect. Armed with the
+insights above, let's revisit our successipe and think about how to
+scale it down:
 
 1. *Freedom.* Academic freedom means that researchers and not
 managers initiate research. As in a university setting, this isn't a
 license to do anything; it's freedom within scope. This can be
 implemented even in a small team.
 
-2. *Security.* This one is harder. As we've discussed above, in a tech
-   setting this is much harder to come by, and in most universities,
-   even tenure is no guarantee of funding. 
+2. *Security.* This one is trickier. As we've discussed above, in a tech
+   setting stable funding is hard to come by, and in most universities,
+   even tenure is no guarantee of money. But this is the first place
+   where separation of concerns becomes important; the researchers
+   should not be the ones hustling for money, developing the research,
+   or selling the product. They should get paid to research.
 
 3. *Domain.* This one
 
-4. *Mandate.* This one 
+4. *Mandate.* This one
+
+5. *Separation.*
+6. *Focus.*
+7. *Interaction.*
+8. *Collaboration.*
+9. *Talent.*
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
