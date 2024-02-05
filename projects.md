@@ -191,7 +191,7 @@ MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
 indeed have patents, papers and products aplenty, with a track
 record we can read off Nasdaq.
 But despite the billions of dollars they pour into applied computer
-science, these companies share only seven Turing Award recipients between them.<label for="sn-1"
+science, these companies share only seven Turing Award recipients between them,<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -201,22 +201,23 @@ science, these companies share only seven Turing Award recipients between them.<
 	   And a few of these recipients, e.g. Yann LeCun, did their most
 	   highly cited work at Bell Labs.
 	   </span>
-Bell Labs has nine.
+while Bell Labs had nine.
 Arguably, this a problem of timescale; like the Nobel,
 Turing Awards tend to arrive long after the fact. In twenty
 years, I bet we will see more MAMAA employees on the honour
 rolls.
 
 But I wouldn't bet on too many more. The simple reason is that
-Turing awards are not a good investment, and Big Tech's true
-forte is making money. For better or worse, it knows the ROI is
-in strategic deployment, marketing, and product integration, not fundamental algorithms research. This capitalist realpolitik explains
+Turing awards are not a good investment, and in the cutthroat
+landscape of technocapital disruption, you "move fast and break
+things" or you die. For better or worse, Big Tech knows the ROI is
+in strategic deployment, marketing, and product integration, not
+fundamental algorithms research. This capitalist realpolitik explains
 why, for instance, Alphabet is making massive cuts to its "moonshot factory" `X`.
 It also explain why research groups in MAMAA and beyond have aggressively
 pivoted into generative AI.
 Transformers are interesting, but a solved problem from a fundamental
-science perspective; the rest is engineering, albeit very lucrative
-engineering.
+science perspective; the rest is engineering, albeit lucrative and difficult.
 
 With a state-backed monopoly, this realpolitik didn't apply to Bell.
 The product ensured a healthy supply of capital and research
