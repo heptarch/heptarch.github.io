@@ -283,7 +283,7 @@ researchers, on the other hand, were tasked with being domain experts in the lat
 the coupling arose via interactions between the director,
 sublaboratory managers, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
-proper focus and divorced research outcomes from profit.
+proper focus and divorced research from profit.
 
 ### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
 
