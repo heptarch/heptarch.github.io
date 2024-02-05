@@ -305,7 +305,7 @@ But I'm not sure I buy it.
 Or rather: I'm not sure anyone else wants to.
 Big Tech doesn't like the ROI on Nobel Prizes, and for that matter,
 neither does Small Tech, whose heterogenous landscape of startups
-relies on venture capital and  to operate.
+relies on venture capital and ready revenue to operate.
 
 <label for="sn-1"
        class="margin-toggle sidenote-number">
