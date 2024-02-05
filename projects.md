@@ -290,5 +290,9 @@ proper focus and divorced research outcomes from profit.
 If Bell Labs made innovation systematic, why hasn't that degree of innovation been reproduced
 elsewhere? IBM and Microsoft have tried, with partial success. I
 argued that Kelly's management wasn't a lucky confluence, but maybe
-the lucky confluence was Bell Labs itsel. I mean, you don't get a state-sponsored
+the lucky confluence was Bell Labs itself. I mean, you don't get a state-sponsored
 mandate to a develop a whole new realm of technology every century!
+Big Tech tries to invent and develop new realms, but without mandate
+in a prohibitively competitive environment.
+The IAS gives a mandate, but an empty one.
+Money and freedom aren't enough; you need a mandate too.
