@@ -346,7 +346,7 @@ between adjacents domains are probably pretty obvious, particularly as
 multimodal AI comes into its own. So, I suspect OpenAI is in the
 $O(1)$ regime. I'm not sure about the other ingredients in Bell's
 successipe --- these may be neither nor sufficient --- but
-it seems that the structural quirks are part of what makes it special.
+it seems plausible that its structural quirks are part of what makes OpenAI special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech stardom.
 
