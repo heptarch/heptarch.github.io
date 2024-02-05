@@ -285,9 +285,9 @@ sublaboratory managers, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research outcomes from profit.
 
-So, we have something of a recipe. Of coursre this raises the
-question: if Bell Labs made innovation systematic, why hasn't its
-success been systematically reproduced elsewhere? IBM and Microsoft have tried, with partial success. I
+So, we have something of a recipe. Of course, this raises the
+question: if Bell Labs made innovation systematic, why haven't its
+results been systematically reproduced elsewhere? IBM and Microsoft have tried, with partial success. I
 explained that Kelly's management wasn't a lucky confluence, but maybe
 the lucky confluence was Bell Labs itself. I mean, you don't get a state-sponsored
 mandate to a develop a whole new realm of technology every century!
