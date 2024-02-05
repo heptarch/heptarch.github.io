@@ -57,9 +57,8 @@ personnel or the supply of oscilloscopes—but philosophical.
 
 This little essay represents some tentative thoughts on why Bell Labs
 was so successful as an "institute of creative technology", why
-that success has been so hard to replicate, and how one might go
-about replicating elements of that success in a distributed,
-self-organized fashion.
+that success has been so hard to replicate, and how one might approach
+replication in a distributed, self-organized, small-scale fashion.
 
 ### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
