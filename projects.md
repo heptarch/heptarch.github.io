@@ -405,7 +405,8 @@ domains harbour unsolved scientific problems; we know much less than
 we think! In addition to stimulating scientific innovation, a good
 domain also helps draw the line between distraction and freedom
 judiciously employed. You think homotopy type theory might shed some
-light on this problem? In that case, by all means.
+light on this problem? In that case, by all means. Managers shouldn't
+try to hustle the outcome, but instead guide and nurture the process.
 
 5. *Mandate.* Of course, even when a domain is stimulating, if
    approached without urgency and a sense of mission, is likely to
@@ -416,7 +417,7 @@ light on this problem? In that case, by all means.
    splendid isolation of the ivory tower, where (if you're lucky) your
    results matter to a handful of other experts.
 
-7. *Interaction.* 
+7. *Interaction.* Speaking of other experts, one of the 
    
 8. *Collaboration.*
    
