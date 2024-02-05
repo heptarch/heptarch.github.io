@@ -415,7 +415,7 @@ try to hustle the outcome, but instead guide and nurture the process.
    responsibility to solve it; a collective and personal stake in
    something that will make a difference. This is different from the
    splendid isolation of the ivory tower, where (if you're lucky) your
-   results matter to a handful of other experts.
+   results only matter to a handful of other experts.
 
 7. *Interaction.* Speaking of other experts, one of the 
    
