@@ -380,7 +380,8 @@ implemented even in a small team.
    the product. They should get paid to research. Professors tend to
    be miserable project managers, and the same is true in industry.
 
-3. *Separation.* On that note, 
+3. *Separation.* On that note, the benefits of a robust division of
+   labour should be clear.
 
 4. *Domain.* This one
 
