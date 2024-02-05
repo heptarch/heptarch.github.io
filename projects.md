@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:
 permalink: /lab/
 date: 2024-02-5
