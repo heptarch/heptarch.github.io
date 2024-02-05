@@ -417,7 +417,9 @@ try to hustle the outcome, but instead guide and nurture the process.
    splendid isolation of the ivory tower, where (if you're lucky) your
    results only matter to a handful of other experts.
 
-7. *Interaction.* Speaking of other experts, one of the 
+7. *Interaction.* Speaking of other experts, one of the hardest things
+   to replicate at a small scale is the effect of cross-disciplinary
+   chatter and all-to-all interconnections between groups.
    
 8. *Collaboration.*
    
