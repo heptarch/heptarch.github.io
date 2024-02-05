@@ -130,7 +130,7 @@ Kelly gives us hints about this philosophy, but to help fill out the
 negative space, we can look at institutions which do
 *not* give rise to exceptional applied research.
 
-### 2.2 <a href="#tbc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
+### 2.2. <a href="#tbc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
 The Institute for Advanced Study has more material
 security, more on-paper freedom, more vertiginously abstract ivory tower, than one could poke a
@@ -228,7 +228,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 2.3 <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
@@ -285,7 +285,7 @@ This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research from profit.
 Putting it all together, we have a crude recipe for creative applied research.
 
-### 2.4 <a href="#tbc">More cowbell</a><a id="sec-2-4" name="sec-2-4"></a>
+### 2.4. <a href="#tbc">More cowbell</a><a id="sec-2-4" name="sec-2-4"></a>
 
 Of course, his raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
@@ -309,8 +309,8 @@ relies on ready revenue and ROI-haunted venture capital to operate.
 The moonshot factories like `X` are perhaps too disconnected from
 domain of application, and you get quirky projects like the hyperloop
 or [Loon](https://en.wikipedia.org/wiki/Loon_LLC) that are cute,
-brilliant, and totally unnecessary, the perfect fodder for
-[`xkcd`](https://xkcd.com/).
+brilliant, and totally unnecessary. The perfect fodder for
+[`xkcd`](https://xkcd.com/)!
 
 Plenty of universities and state labs do Bell-level work, 
 
