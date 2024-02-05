@@ -26,7 +26,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
 	3. <a href="#sec-2-3"><i>The recipe</i></a>
-	4. <a href="#sec-2-4"><i>Skunk Works</i></a>
+	4. <a href="#sec-2-4"><i>Zooming in</i></a>
 
 ---
 
@@ -73,7 +73,7 @@ to 1943, and later president.<label for="sn-1"
 	   <span class="sidenote">
    See <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1950.0140">"The Bell
    Telephone Laboratories-An Example of an Institute of Creative
-   Technology"</a> (1950), Mervin Kelly. Quotes are from this source.
+   Technology"</a> (1950), Mervin Kelly. All quotes of Kelly are from this source.
 	   </span> A physicist by trade, Kelly played a
 pivotal (though not quite Nobel-worthy) role in the invention of the transistor, and as
 president, helped develop the laser and the solar cell.
@@ -295,6 +295,20 @@ in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate with substance.
 
-### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
+### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
 
-So,
+So, we might conclude pessimistically that the institutional
+forces that allowed Bell Labs to be great are unique and
+irreproducible.
+I don't buy it
+<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+   See <a
+   href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">"You
+   and Your Research"</a> (1986), Richard Hamming.
+	   </span>
