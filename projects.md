@@ -305,7 +305,10 @@ Or rather: I'm not sure anyone else wants to.
 Big Tech doesn't like the ROI on Nobel Prizes, and for that matter,
 neither does Small Tech, whose heterogenous landscape of startups
 relies on ready revenue and ROI-haunted venture capital to operate.
-Universities 
+The moonshot factories like `X` are perhaps too disconnected from
+domain of application, and you get quirky projects like the hyperloop
+or [Loon](https://en.wikipedia.org/wiki/Loon_LLC) that are cute,
+brilliant, and totally unnecessary, the perfect fodder for [`xkcd`](https://xkcd.com/).
 
 <label for="sn-1"
        class="margin-toggle sidenote-number">
