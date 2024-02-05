@@ -347,7 +347,8 @@ multimodal AI comes into its own. So, I suspect OpenAI is in the
 $O(1)$ regime. I'm not sure if it uses the other ingredients in Bell's
 recipe for innovation --- these may be neither nor sufficient --- but
 it seems that the structural quirks are part of what makes it special.
-I guess we'll see how the culture of innovation holds up under 
+I guess we'll see how that culture of innovation holds up under the
+pressures of Big Tech stardom.
 
 ### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
 
