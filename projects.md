@@ -344,8 +344,8 @@ research from development and systems engineering.
 Finally, in a field like AI, the benefits of cross-fertilization
 between adjacents domains are probably pretty obvious, particularly as
 multimodal AI comes into its own. So, I suspect OpenAI is in the
-$O(1)$ regime. I'm not sure if it uses the other ingredients in Bell's
-recipe for innovation --- these may be neither nor sufficient --- but
+$O(1)$ regime. I'm not sure about the other ingredients in Bell's
+successipe --- these may be neither nor sufficient --- but
 it seems that the structural quirks are part of what makes it special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech stardom.
