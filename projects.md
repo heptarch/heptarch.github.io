@@ -399,10 +399,9 @@ implemented even in a small team.
    "distraction" to a manager can be lateral inspiration. This is
    where scope and domain become important.
 
-4. *Domain.* A stimulating domain of application not only
-   guarantees a supply of good research questions; it also
-   draws the line between distraction and freedom judiciously
-   employed. Is freed
+4. *Domain.* A stimulating problem domain only guarantees a supply of
+   good research questions; it also helps draw the line between
+   distraction and freedom judiciously employed. When 
 
 5. *Mandate.* This one
 7. *Interaction.*
