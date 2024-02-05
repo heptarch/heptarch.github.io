@@ -353,9 +353,10 @@ In a field like AI, the benefits of cross-fertilization
 between adjacents domains are probably pretty obvious, particularly as
 multimodal AI comes into its own. So, I suspect that the different
 teams of OpenAI are in the $O(1)$ regime for probability of
-discovering something new. I'm not sure about the other ingredients in Bell's
-successipe---these may be neither nor sufficient---but
-it seems plausible that its structural quirks are part of what makes OpenAI special.
+discovering something new. I'm not sure about the other ingredients in our
+<a href="#sec-2-3">successipe</a>---these may be neither nor sufficient---but
+it seems plausible that OpenAI's structural quirks are part of what
+makes it special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech stardom.
 
