@@ -434,8 +434,9 @@ try to hustle the outcome, but instead guide and nurture the process.
    professorial PIs show that not every scientist is cut out for this;
    nor should they have to be. While professors in applied fields may not have a choice,
    industry has the luxury of choosing some people to be managers, and
-   some to be researchers. Ironically, there may be more "pure"
-   academic freedom in industrial R&D than the groves of academe!
+   some to be researchers. At places like Meta, there is even a dual
+   career ladder so people can get promoted while remaining engineers! Ironically, there may be more "pure"
+   academic freedom in industrial R&D than the groves of academe.
    
 9. *Talent.*
 
