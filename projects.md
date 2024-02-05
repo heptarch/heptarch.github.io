@@ -287,14 +287,16 @@ proper focus and divorced research outcomes from profit.
 
 ### 2.4 <a href="#tbc">Skunk Works</a><a id="sec-2-4" name="sec-2-4"></a>
 
-If Bell Labs made innovation systematic, why hasn't that degree of innovation been reproduced
-elsewhere? IBM and Microsoft have tried, with partial success. I
-argued that Kelly's management wasn't a lucky confluence, but maybe
+If Bell Labs made innovation systematic, why hasn't that been
+systematically reproduced elsewhere? IBM and Microsoft have tried, with partial success. I
+explained that Kelly's management wasn't a lucky confluence, but maybe
 the lucky confluence was Bell Labs itself. I mean, you don't get a state-sponsored
 mandate to a develop a whole new realm of technology every century!
-Big Tech tries to invent and develop new realms, but without mandate
+Big Tech tries to develop new realms, but without mandate
 in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
-Money and freedom aren't enough; you need a mandate too.
+Money and freedom aren't enough; you need a mandate with substance.
 
-Another 
+A different model that 
+
+### 2.5 <a href="#tbc">Skunk Works</a><a id="sec-2-5" name="sec-2-5"></a>
