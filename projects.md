@@ -11,8 +11,9 @@ date: 2024-02-5
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
-	3. <a href="#sec-2-3"><i>The recipe</i></a>
+	3. <a href="#sec-2-3"><i>Successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
+	5. <a href="#sec-2-5"><i>Entanglement</i></a>
 
 ---
 
@@ -214,7 +215,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 2.3. <a href="#tbc">The recipe</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. <a href="#tbc">Successipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
@@ -324,7 +325,10 @@ I suspect there are also concentric layers separating fundamental
 research from development and systems engineering.
 Finally, in a field like AI, the benefits of cross-fertilization
 between adjacents domains are probably pretty obvious, particularly as
-multimodal AI comes into its own. So, I suspect OpenAI is in the $O(1)$ regime.
+multimodal AI comes into its own. So, I suspect OpenAI is in the
+$O(1)$ regime.
+
+### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
