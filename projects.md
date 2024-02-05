@@ -358,7 +358,7 @@ discovering something new. I'm not sure about the other ingredients in our
 it seems plausible that OpenAI's structural quirks are part of what
 makes it special.
 I guess we'll see how that culture of innovation holds up under the
-pressures of Big Tech stardom.
+pressures of Big Tech rockstardom.
 
 ### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
 
