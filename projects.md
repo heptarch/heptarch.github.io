@@ -414,7 +414,8 @@ light on this problem? In that case, by all means.
    mandate is important. It gives you a problem to solve, and the
    responsibility to solve it; a collective and personal stake in
    something that will make a difference. This is different from the
-   splended isolation of the ivory tower.
+   splendid isolation of the ivory tower, where (if you're lucky) your
+   results matter to a handful of other experts.
 
 7. *Interaction.*
    
