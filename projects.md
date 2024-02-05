@@ -363,7 +363,8 @@ pressures of Big Tech rockstardom.
 ### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
 
 In lieu of a state monopoly or an idiosyncratic non-profit
-arrangement, 
+arrangement, are any of these guidelines for creative applied research
+possible in the industrial setting?
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
