@@ -386,9 +386,8 @@ implemented even in a small team.
    that to feasible, you need to have good managers to couple science
    to commerce, and teams to perform development, integration, and so
    on. Keep them separate, but with well-defined and performant
-   interfaces. This requires a large enough organization to separate
-   concerns, and would be premature for an early-stage startup of,
-   say, five people. But $100$ should be plenty.
+   interfaces. An early-stage startup of, say, five people is probably
+   too small to separate this way, but $100$ is plenty.
    
 6. *Focus.* The goal is clearly separating research from its
    application is focus. Researchers work best when their bellies (and
@@ -417,7 +416,7 @@ light on this problem? In that case, by all means.
    splendid isolation of the ivory tower, where (if you're lucky) your
    results matter to a handful of other experts.
 
-7. *Interaction.*
+7. *Interaction.* 
    
 8. *Collaboration.*
    
