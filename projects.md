@@ -291,8 +291,9 @@ Putting it all together, we have a crude recipe for creative applied research.
 Of course, his raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
 have tried, with partial success. I don't think Kelly's management was
-a lucky confluence, but maybe the lucky confluence was Bell Labs itself; I mean, you don't get a state-sponsored
-mandate to a develop a whole new realm of technology every day!
+a lucky confluence, but maybe there was a lucky confluence, namely
+Bell Labs itself; I mean, you don't get a state-sponsored mandate to a
+develop a whole new realm of technology every day!
 Big Tech tries to develop new realms, but without mandate
 in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
@@ -303,7 +304,8 @@ freedom and money that came with it, are unrepeatable.
 But I'm not sure I buy it.
 Or rather: I'm not sure anyone else wants to.
 Big Tech doesn't like the ROI on Nobel Prizes, and for that matter,
-neither does Small Tech, which relies on venture capital
+neither does Small Tech, whose heterogenous landscape of startups
+relies on venture capital and  to operate.
 
 <label for="sn-1"
        class="margin-toggle sidenote-number">
