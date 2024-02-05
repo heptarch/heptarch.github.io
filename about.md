@@ -13,7 +13,7 @@ interdimensional wizard.</div>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<div id="content" style="text-align:center; margin: 20 px"></div>
+<div id="content" style="text-align:center"></div>
 
 <script>
 const items = [
@@ -35,7 +35,7 @@ const items = [
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
-</script>
+</script> <br>
 
 <div style="text-align:center"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
