@@ -329,7 +329,7 @@ chance is $O(1/n^2)$.
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
 although people who work with doors closed often work harder. Somehow
-they seem to work on slightly the wrong thing - not much, but enough
+they seem to work on slightly the wrong thing---not much, but enough
 that they miss fame."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
