@@ -396,7 +396,9 @@ implemented even in a small team.
    "distraction" to a manager can be lateral inspiration. This is
    where scope and domain become important.
 
-4. *Domain.* 
+4. *Domain.* A stimulating, problem-rich domain of application not only
+   guarantees a supply of good research questions; it also
+   distinguishes between distraction and freedom judiciously employed.
 
 5. *Mandate.* This one
 7. *Interaction.*
