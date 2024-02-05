@@ -348,11 +348,10 @@ finding those creating overlaps are not good.
 An interesting exception is OpenAI, which (in my view) does seem to
 have a "culture of repeatable innovation" to unironically quote Sam
 Altman. I'm not sure how things work there, but I suspect that
-starting as a non-profit with a Lawful Good mission statement helped
-create an initial decoupling between product and research.
-I suspect there are also concentric layers separating fundamental
-research from development and systems engineering.
-Finally, in a field like AI, the benefits of cross-fertilization
+starting as a non-profit created an initial decoupling between product
+and research. It also had a Lawful Good mandate in a superbly
+difficult problem domain.
+In a field like AI, the benefits of cross-fertilization
 between adjacents domains are probably pretty obvious, particularly as
 multimodal AI comes into its own. So, I suspect OpenAI is in the
 $O(1)$ regime. I'm not sure about the other ingredients in Bell's
@@ -362,6 +361,8 @@ I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech stardom.
 
 ### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
+
+With
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
