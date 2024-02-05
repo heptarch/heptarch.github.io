@@ -209,7 +209,7 @@ rolls.
 
 But I wouldn't bet on too many more. The simple reason is that
 Turing awards are not a good investment, and in the cutthroat
-landscape of technocapital disruption, you "move fast and break
+landscape of technoprogressive disruption, you "move fast and break
 things" or you die. You don't have time to sit around doing
 fundamental algorithms research. This capitalist realpolitik explains
 why, for instance, Alphabet is making massive cuts to its "moonshot factory" `X`.
