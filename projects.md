@@ -387,7 +387,10 @@ implemented even in a small team.
    to commerce, and teams to perform development, integration, and so
    on. Keep them separate, but with well-defined and performant interfaces.
 
-6. *Focus.*
+6. *Focus.* The goal is clearly separating research from its
+   application is focus. Researchers work best when their bellies (and
+   wallets) are full, and they get to play around with things they are
+   curious about.
 
 4. *Domain.* This one
 
