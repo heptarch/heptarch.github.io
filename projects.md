@@ -5,21 +5,6 @@ permalink: /lab/
 date: 2024-02-5
 ---
 
-<div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
-grey; line-height:1.5; border-radius: 15px">
-Today, like every other day, we wake up empty
-and frightened.<br>
-Don’t open the door to the study and begin reading. <br>
-Take down a musical instrument.<br><br>
-
-Let the beauty we love be what we do.<br>
-There are hundreds of ways to kneel and kiss the ground.
-<br>
-<br>
-
-<div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
-</div>
-
 ## Contents <a id="tbc" name="tbc"></a>
 
 1. <a href="#sec-1"><i>The Lab</i></a>
@@ -334,6 +319,11 @@ have a "culture of repeatable innovation" to unironically quote Sam
 Altman. I'm not sure how things work there, but I suspect that
 starting as a non-profit with a Lawful Good mission statement helped
 create an initial decoupling between product and research.
+I suspect there are also concentric layers separating fundamental
+research from development and systems engineering.
+Finally, in a field like AI, the benefits of cross-fertilization
+between adjacents domains are probably pretty obvious, particularly as
+multimodal AI comes into its own. So, I suspect OpenAI is in the $O(1)$ regime.
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
