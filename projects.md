@@ -401,7 +401,9 @@ implemented even in a small team.
 
 4. *Domain.* A stimulating problem domain only guarantees a supply of
    good research questions; it also helps draw the line between
-   distraction and freedom judiciously employed. When 
+   distraction and freedom judiciously employed. You think homotopy
+   type theory might shed some light on this problem? In that case, by
+   all means.
 
 5. *Mandate.* This one
 7. *Interaction.*
