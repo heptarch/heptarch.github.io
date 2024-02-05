@@ -284,11 +284,11 @@ the coupling arose via interactions between the director,
 lab heads, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research from profit.
+Putting it all together, we have a crude recipe for creative applied research.
 
 ### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
 
-So, we have something of a recipe. This raises the
-question: if Bell Labs made innovation systematic and simple enough to
+This raises the question: if Bell Labs made innovation systematic and simple enough to
 record in a few bullet points, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
 have tried, with partial success. I don't think Kelly's management was
