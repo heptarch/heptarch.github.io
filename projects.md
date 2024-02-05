@@ -295,4 +295,6 @@ in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate with substance.
 
-### 2.4 <a href="#tbc">Skunk Works</a><a id="sec-2-4" name="sec-2-4"></a>
+### 2.4 <a href="#tbc">An experiment</a><a id="sec-2-4" name="sec-2-4"></a>
+
+So,
