@@ -351,8 +351,9 @@ and research. It also had a Lawful Good mandate in a superbly
 difficult problem domain.
 In a field like AI, the benefits of cross-fertilization
 between adjacents domains are probably pretty obvious, particularly as
-multimodal AI comes into its own. So, I suspect OpenAI is in the
-$O(1)$ regime. I'm not sure about the other ingredients in Bell's
+multimodal AI comes into its own. So, I suspect that the different
+teams of OpenAI are in the $O(1)$ regime for probability of
+discovering something new. I'm not sure about the other ingredients in Bell's
 successipe---these may be neither nor sufficient---but
 it seems plausible that its structural quirks are part of what makes OpenAI special.
 I guess we'll see how that culture of innovation holds up under the
@@ -360,7 +361,8 @@ pressures of Big Tech stardom.
 
 ### 2.5. <a href="#tbc">Entanglement</a><a id="sec-2-5" name="sec-2-5"></a>
 
-With
+In lieu of a state monopoly or an idiosyncratic non-profit
+arrangement, 
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
