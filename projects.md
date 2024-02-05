@@ -383,10 +383,11 @@ implemented even in a small team.
 3. *Separation.* On that note, the benefits of a robust division of
    labour should be clear.
 
+6. *Focus.*
+
 4. *Domain.* This one
 
 5. *Mandate.* This one
-6. *Focus.*
 7. *Interaction.*
 8. *Collaboration.*
 9. *Talent.*
