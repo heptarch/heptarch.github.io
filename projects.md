@@ -438,7 +438,13 @@ try to hustle the outcome, but instead guide and nurture the process.
    career ladder so people can get promoted while remaining engineers! Ironically, there may be more "pure"
    academic freedom in industrial R&D than the groves of academe.
    
-9. *Talent.*
+9. *Talent.* Although this its own area of managerial science,
+   Kelly emphasizes the importance of quality hires, of recruiting
+   scientists of "the same high quality as required for distinguished
+   pure research in our universities". This is determinative: "Years of experience have taught us that the type and quality of men selected for
+our research, the environment that we provide, and the distance in their work that
+we ask them to penetrate beyond the forefront of creative technology are the most
+important factors in determining the closeness of coupling—the effectiveness."
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
