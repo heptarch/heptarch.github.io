@@ -285,6 +285,8 @@ sublaboratory managers, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research outcomes from profit.
 
+### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
+
 So, we have something of a recipe. Of course, this raises the
 question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
@@ -295,8 +297,6 @@ Big Tech tries to develop new realms, but without mandate
 in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate with substance.
-
-### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
 
 Wee might conclude pessimistically that Bell's mandate, and the
 freedom and money that came with it, are unrepeatable freaks of history.
