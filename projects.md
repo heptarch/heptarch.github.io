@@ -177,6 +177,7 @@ Or, as Kelly put it, the idea was to provide "the coupling between the
 ever-advancing forefront of pure science and the forward march of our
 communications technology. The closer the coupling, the more
 completely will we keep in step with the progress of science."
+
 This is worlds away from the enfeebled freedom at the IAS that Feynman
 lampooned; the freedom to think, but about what?
 But if you're put on a team with a telephony-relevant domain of
