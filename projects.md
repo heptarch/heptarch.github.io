@@ -376,14 +376,15 @@ implemented even in a small team.
    setting stable funding is hard to come by, and in most universities,
    even tenure is no guarantee of money. But this is the first place
    where separation of concerns becomes important; the researchers
-   should not be the ones hustling for money, developing the research,
-   or selling the product. They should get paid to research.
+   should not be the ones hustling for money, developing, or selling
+   the product. They should get paid to research. Professors tend to
+   be miserable project managers, and the same is true in industry.
 
-3. *Domain.* This one
+3. *Separation.*
 
-4. *Mandate.* This one
+4. *Domain.* This one
 
-5. *Separation.*
+5. *Mandate.* This one
 6. *Focus.*
 7. *Interaction.*
 8. *Collaboration.*
