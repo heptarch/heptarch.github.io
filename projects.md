@@ -312,9 +312,18 @@ or [Loon](https://en.wikipedia.org/wiki/Loon_LLC) that are cute,
 brilliant, and totally unnecessary. The perfect fodder for
 [`xkcd`](https://xkcd.com/)!
 
-Plenty of universities and state labs do Bell-level work, 
+Plenty of universities and state labs do Bell-level work, but in a
+disconnected fashion. Part of the magic of Bell was in the scale and
+connectivity. We can do a little back-of-the-envelope calculation to
+see why this is important. Suppose you have $n$ research groups, most
+of which to most of the others. Then the number of connections scales
+as $n^2$.
 
-<label for="sn-1"
+"But I can say there is a pretty good correlation between those who
+work with the doors open and those who ultimately do important things,
+although people who work with doors closed often work harder. Somehow
+they seem to work on slightly the wrong thing - not much, but enough
+that they miss fame."<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
