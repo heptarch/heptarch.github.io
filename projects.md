@@ -26,7 +26,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
 	3. <a href="#sec-2-3"><i>The recipe</i></a>
-	4. <a href="#sec-2-4"><i>Zooming in</i></a>
+	4. <a href="#sec-2-4"><i>More cowbell</i></a>
 
 ---
 
@@ -285,7 +285,7 @@ This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research from profit.
 Putting it all together, we have a crude recipe for creative applied research.
 
-### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
+### 2.4 <a href="#tbc">More cowbell</a><a id="sec-2-4" name="sec-2-4"></a>
 
 Of course, his raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
