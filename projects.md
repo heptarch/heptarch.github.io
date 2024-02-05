@@ -247,7 +247,7 @@ far, we can list a few key factors in Bell's success:
 This covers most of it, but a few key questions remain, such as:
 - What motivated researchers?
 - How did managers intervene in or guide research?
-- How was research coupled to communications systems?
+- How was research coupled to the realities of the communications systems?
 
 I suspect the answers lie somewhere between the
 operational realm than the mysteries of human behaviour.
