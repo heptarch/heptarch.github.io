@@ -389,9 +389,11 @@ implemented even in a small team.
 
 6. *Focus.* The goal is clearly separating research from its
    application is focus. Researchers work best when their bellies (and
-   wallets) are full, and they get to play around with things they are
-   curious about. But, as Kelly realized, if you want to keep up with
-   the frontier, you need to move fast; you can't afford to be distracted
+   wallets) are full, and they get to have fun with their
+   problems. But, as Kelly realized, to keep up with the
+   frontier you need to move fast; you can't afford to be
+   distracted. This is a subtle business, because what looks like
+   "distraction" to a manager can be lateral inspiration.
 
 4. *Domain.* This one
 
