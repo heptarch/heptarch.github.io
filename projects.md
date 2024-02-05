@@ -2,6 +2,7 @@
 layout: post
 title:
 permalink: /lab/
+date: 2024-02-5
 ---
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
@@ -324,7 +325,12 @@ between two groups, then you have an $O(1)$ chance of finding it. If
 all groups speak to some $O(1)$ number of other groups, or some group
 speaks to most others, you have an $O(1/n)$ chance of finding
 it. Finally, if only a few groups speak to a few groups, then the
-chance is $O(1/n^2)$.
+chance is $O(1/n^2)$. I would wager that most universities live in
+$O(1/n^2)$ regime, and state labs in the $O(1/n)$ regime. The odds of
+finding those creating overlaps are not good.
+
+An interesting exception, in my view, is OpenAI, which seems to have a "culture of
+repeatable innovation" to unironically quote Sam Altman.
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
