@@ -417,7 +417,7 @@ try to hustle the outcome, but instead guide and nurture the process.
    splendid isolation of the ivory tower, where (if you're lucky) your
    results only matter to a handful of other experts.
 
-7. *Interaction.* Speaking of other experts, perhaps the hardest ingredient
+7. *Interaction.* Speaking of other experts, the hardest ingredient
    to replicate at a small scale is the effect of cross-disciplinary
    chatter and all-to-all connections. With six groups, you have
    fifteen edges to explore; between two groups, only one. In smaller
@@ -425,10 +425,9 @@ try to hustle the outcome, but instead guide and nurture the process.
    different researchers play the same role as different
    teams. Another solution is to build rapport with external research
    groups; although better than nothing, like university
-   collaborations it tends to suffer from suboptimal scaling in $n$. I
-   think a combination of the above is best.
+   collaborations it tends to suffer from suboptimal scaling in $n$.
    
-8. *Collaboration.* The comm
+8. *Collaboration.* 
    
 9. *Talent.*
 
