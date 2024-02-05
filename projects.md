@@ -178,7 +178,7 @@ ever-advancing forefront of pure science and the forward march of our
 communications technology. The closer the coupling, the more
 completely will we keep in step with the progress of science."
 
-This is worlds away from the enfeebled freedom at the IAS that Feynman
+This is worlds away from the enfeebled freedom that Feynman
 lampooned; the freedom to think, but about what?
 But if you're put on a team with a telephony-relevant domain of
 inquiry, told to get darn good at it, talk to your colleagues, think
