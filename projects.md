@@ -287,7 +287,7 @@ proper focus and divorced research from profit.
 
 ### 2.4 <a href="#tbc"></a><a id="sec-2-4" name="sec-2-4"></a>
 
-So, we have something of a recipe. Of course, this raises the
+So, we have something of a recipe. This raises the
 question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
 have tried, with partial success. I don't think Kelly's management was
