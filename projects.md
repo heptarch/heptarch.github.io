@@ -263,7 +263,7 @@ problem.”
 It's hard to overstate the importance of collaborative synergy in big science.
 
 The last two questions probably have the same answer.
-In order to couple the state of the art in
+To couple the state of the art in
 communications systems to the state of the art in pure science, somebody had
 to know the former. That would be the director of research.
 As Jon Gertner puts it in his wonderful book,<label for="sn-1"
