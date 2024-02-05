@@ -380,8 +380,12 @@ implemented even in a small team.
    the product. They should get paid to research. Professors tend to
    be miserable project managers, and the same is true in industry.
 
-3. *Separation.* On that note, the benefits of a robust division of
-   labour should be clear.
+3. *Separation.* The benefits of a robust division of labour should,
+   by this point, be clear. Don't saddle researchers with business
+   problems, just pay them to think and give them what they need. For
+   that to feasible, you need to have good managers to couple science
+   to commerce, and teams to perform development, integration, and so
+   on. Keep them separate, but with well-defined and performant interfaces.
 
 6. *Focus.*
 
