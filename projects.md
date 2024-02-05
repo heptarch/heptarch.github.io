@@ -430,9 +430,12 @@ try to hustle the outcome, but instead guide and nurture the process.
 8. *Management.* If researchers are encouraged to focus and become
    domain experts, some of the cross-fertilization has to be
    coordinated from above. In turns, this requires technical maturity
-   and visions, the scientist-managers like Kelly. But grumpy
-   professorial PIs show that not every scientist is cut out for this,
-   nor should they have to be. 
+   and vision, the insight of scientist-managers like Kelly. Grumpy
+   professorial PIs show that not every scientist is cut out for this;
+   nor should they have to be. While professors may not have a choice,
+   industry has the luxury of choosing some people to be managers, and
+   some to be researchers. Ironically, there may be more "pure"
+   academic freedom in industrial R&D than the groves of academe!
    
 9. *Talent.*
 
