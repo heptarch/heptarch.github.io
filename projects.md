@@ -228,7 +228,7 @@ difficult. <label for="sn-1"
 	   <span class="sidenote">
 I'm exaggerating a little, especially because much of the basic
 science <i>was</i> done in the Big Tech setting. See <a
-href="#sec-2-4">§2.4</a> for more discussion.
+href="#sec-2-4">§2.4</a> for more on this.
 	   </span>
 
 With a state-backed monopoly, this realpolitik didn't apply to Bell.
