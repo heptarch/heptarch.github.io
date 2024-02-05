@@ -26,7 +26,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
 	3. <a href="#sec-2-3"><i>Subtle factors</i></a>
-	4. <a href="#sec-2-4"><i>The mandate</i></a>
+	4. <a href="#sec-2-4"><i>Skunk Works</i></a>
 
 ---
 
@@ -285,7 +285,7 @@ sublaboratory managers, and the constituent scientists.
 This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research outcomes from profit.
 
-### 2.4 <a href="#tbc">The mandate</a><a id="sec-2-4" name="sec-2-4"></a>
+### 2.4 <a href="#tbc">Skunk Works</a><a id="sec-2-4" name="sec-2-4"></a>
 
 If Bell Labs made innovation systematic, why hasn't that degree of innovation been reproduced
 elsewhere? IBM and Microsoft have tried, with partial success. I
@@ -297,3 +297,4 @@ in a prohibitively competitive environment.
 The IAS gives a mandate, but an empty one.
 Money and freedom aren't enough; you need a mandate too.
 
+Another 
