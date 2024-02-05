@@ -249,7 +249,7 @@ This covers most of it, but a few key questions remain unresolved:
 - How did managers intervene in or guide research?
 - How was research coupled to communications systems?
 
-I suspect the answers lie somewhere between
+I suspect the answers lie somewhere between the
 operational realm than the mysteries of human behaviour.
 Hire smart people, give them money, equipment, and fun problems to
 work on, and your output will probably depend sensitively on *who you
