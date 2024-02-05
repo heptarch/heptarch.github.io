@@ -321,8 +321,8 @@ Big Tech doesn't like the ROI on Nobel Prizes, and for that matter,
 neither does Small Tech, whose heterogenous landscape of startups
 relies on ready revenue and ROI-haunted venture capital to operate.
 The moonshot factories like `X` are perhaps too disconnected from
-domain of application, and you get quirky projects like the hyperloop
-or [Loon](https://en.wikipedia.org/wiki/Loon_LLC) that are cute,
+domain of application; that's why you get quirky projects like the hyperloop
+or [Loon](https://en.wikipedia.org/wiki/Loon_LLC), cute,
 brilliant, and totally unnecessary. The perfect fodder for
 [`xkcd`](https://xkcd.com/)!
 
