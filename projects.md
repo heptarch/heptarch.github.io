@@ -317,7 +317,14 @@ disconnected fashion. Part of the magic of Bell was in the scale and
 connectivity. We can do a little back-of-the-envelope calculation to
 see why this is important. Suppose you have $n$ research groups, most
 of which to most of the others. Then the number of connections scales
-as $n^2$.
+as $O(n^2)$. There are $\binom{n}{2} = n(n-1)/2$ connections
+altogether. If profitable connections are distributed at random along
+edges, e.g. there is a chance that a good idea lies along an edge
+between two groups, then you have an $O(1)$ chance of finding it. If
+all groups speak to some $O(1)$ number of other groups, or some group
+speaks to most others, you have an $O(1/n)$ chance of finding
+it. Finally, if only a few groups speak to a few groups, then the
+chance is $O(1/n^2)$.
 
 "But I can say there is a pretty good correlation between those who
 work with the doors open and those who ultimately do important things,
