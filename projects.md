@@ -210,8 +210,7 @@ rolls.
 But I wouldn't bet on too many more. The simple reason is that
 Turing awards are not a good investment, and in the cutthroat
 landscape of technocapital disruption, you "move fast and break
-things" or you die. For better or worse, Big Tech knows the ROI is
-in strategic deployment, marketing, and product integration, not
+things" or you die. You don't have time to sit around doing
 fundamental algorithms research. This capitalist realpolitik explains
 why, for instance, Alphabet is making massive cuts to its "moonshot factory" `X`.
 It also explain why research groups in MAMAA and beyond have aggressively
