@@ -478,4 +478,5 @@ tuned by a ready hand on the equalizer of technical insight and
 human sympathy. Creative applied research is, after all, an art and
 not a science.
 
-All things considered, I see no reason why 
+All things considered, I see no reason why the recipe should not be
+*attempted* at a smaller scale and in other circumstances.
