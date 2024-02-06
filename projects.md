@@ -488,4 +488,4 @@ brains, than it is do with conventional wisdom and the fact you don't
 control the outcome. A laser is useful, but for your competitors as
 well!
 
-### 2.6. <a href="#tbc">Where is Uncle Sam?</a><a id="sec-2-6" name="sec-2-6"></a>
+### 2.6. <a href="#tbc">Uncle Sam</a><a id="sec-2-6" name="sec-2-6"></a>
