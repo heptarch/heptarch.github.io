@@ -459,7 +459,11 @@ try to hustle the outcome, but instead guide and nurture the process.
    
 9. *Talent.* Kelly emphasized the importance of quality hires, of recruiting
    scientists of "the same high quality as required for distinguished
-   pure research in our universities". 
+   pure research in our universities". But there is as much managerial
+   nous to scouting, building, and managing teams for scientific
+   research as there is for professional sports, though the
+   conventional ideas about genius, and conventional institutional
+   arrangements, obscure this.
 
 This is determinative: "Years of experience have taught us that the type and quality of men selected for
 our research, the environment that we provide, and the distance in their work that
