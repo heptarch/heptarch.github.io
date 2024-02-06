@@ -480,6 +480,6 @@ not a science.
 
 All things considered, I see no reason why the recipe should not be
 *attempted* at a smaller scale and in less propitious circumstances. Maybe it
-is or has been, in places I am not familiar with, with indifferent
-results and the experiment abandoned. But I get the feeling that there
-is something more than capital outlay that turns people off this system.
+is or has been, with indifferent
+results, and the experiment abandoned. But I get the feeling there is
+more to the resistance than ROI.
