@@ -384,8 +384,8 @@ pressures of Big Tech rockstardom.
 In lieu of a state monopoly or an idiosyncratic Silicon Valley
 non-profit, will these guidelines be applicable? I
 think so, and at smaller sizes than you might expect. Armed with the
-insights above, let's revisit our successipe and think about how to
-scale it down:
+insights above, let's revisit and update the ingredients in our
+successipe, and think about how to scale it down:
 
 1. *Freedom.* Academic freedom means that researchers and not
 managers initiate research. As in a university setting, this isn't a
@@ -458,10 +458,11 @@ try to hustle the outcome, but instead guide and nurture the process.
    career ladder so people can get promoted while remaining engineers! Ironically, there may be more "pure"
    academic freedom in industrial R&D than the groves of academe.
    
-9. *Talent.* Although this its own area of managerial science,
-   Kelly emphasizes the importance of quality hires, of recruiting
+9. *Talent.* Kelly emphasized the importance of quality hires, of recruiting
    scientists of "the same high quality as required for distinguished
-   pure research in our universities". This is determinative: "Years of experience have taught us that the type and quality of men selected for
+   pure research in our universities".
+
+This is determinative: "Years of experience have taught us that the type and quality of men selected for
 our research, the environment that we provide, and the distance in their work that
 we ask them to penetrate beyond the forefront of creative technology are the most
 important factors in determining the closeness of coupling—the effectiveness."
