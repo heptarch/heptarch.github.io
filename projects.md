@@ -291,9 +291,10 @@ that they miss fame."<label for="sn-1"
    href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">"You
    and Your Research"</a> (1986), Richard Hamming.
    </span>
-That openness is how collaboration happens. Some people, like the
+That openness is how collaboration and discovery happens. Some people, like the
 father of information theory Claude Elwood Shannon, were not
-collaborative; but they were intellectually receptive in a parallel way.
+collaborative, but intellectual lone wolves; even so, they were
+intellectually receptive in other ways.
 
 The last two questions probably have the same answer.
 To couple the state of the art in
