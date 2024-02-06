@@ -485,7 +485,7 @@ is or has been, with indifferent
 results, and the experiment abandoned. But I get the feeling the
 resistance is less to do with capital outlay or a subcritical mass of
 brains, than it is do with conventional wisdom and the fact you don't
-control the outcome. A laser is useful, but for your competitors as
-well!
+control the outcome. A laser beam is useful, but for your competitors
+as well!
 
 ### 2.6. <a href="#tbc">Uncle Sam</a><a id="sec-2-6" name="sec-2-6"></a>
