@@ -21,7 +21,7 @@ There are hundreds of ways to kneel and kiss the ground.
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 </div>
 
-## Contents <a id="tbc" name="tbc"></a>
+## Contents <a id="toc" name="toc"></a>
 
 1. <a href="#sec-1"><i>The Lab</i></a>
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
@@ -34,9 +34,9 @@ There are hundreds of ways to kneel and kiss the ground.
 
 ---
 
-## 1. <a href="#tbc">The Lab</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#toc">The Lab</a><a id="sec-1" name="sec-1"></a>
 
-## 2. <a href="#tbc">Creative applied research: lessons from Bell Labs</a><a id="sec-2" name="sec-2"></a>
+## 2. <a href="#toc">Creative applied research: lessons from Bell Labs</a><a id="sec-2" name="sec-2"></a>
 
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
@@ -64,7 +64,7 @@ was so successful as an "institute of creative technology", why
 that success has been so hard to replicate, and how one might approach
 replication in a distributed, self-organized, small-scale fashion.
 
-### 2.1. <a href="#tbc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
+### 2.1. <a href="#toc">The Kelly gang</a><a id="sec-2-1" name="sec-2-1"></a>
 
 "Institute of creative technology" was a line used by Mervin Kelly, director of research from 1936
 to 1943, and later president.<label for="sn-1"
@@ -134,7 +134,7 @@ Kelly gives us hints about this philosophy, but to help fill out the
 negative space, we can look at institutions which do
 *not* give rise to exceptional applied research.
 
-### 2.2. <a href="#tbc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
+### 2.2. <a href="#toc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
 
 The Institute for Advanced Study has more material
 security, more on-paper freedom, more vertiginously abstract ivory tower, than one could poke a
@@ -243,7 +243,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 2.3. <a href="#tbc">A rough successipe</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. <a href="#toc">A rough successipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
@@ -320,7 +320,7 @@ This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research from profit.
 Putting it all together, we have a crude recipe for creative applied research.
 
-### 2.4. <a href="#tbc">More cowbell</a><a id="sec-2-4" name="sec-2-4"></a>
+### 2.4. <a href="#toc">More cowbell</a><a id="sec-2-4" name="sec-2-4"></a>
 
 Of course, his raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
@@ -380,7 +380,7 @@ makes it special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech rockstardom.
 
-### 2.5. <a href="#tbc">Innovation redux</a><a id="sec-2-5" name="sec-2-5"></a>
+### 2.5. <a href="#toc">Innovation redux</a><a id="sec-2-5" name="sec-2-5"></a>
 
 In lieu of a state monopoly or an idiosyncratic Silicon Valley
 non-profit, will these guidelines be applicable? I
@@ -486,7 +486,7 @@ brains, than it is do with conventional wisdom and the fact you don't
 control the outcome. A laser beam is useful, but it's useful for everyone,
 including your competitors.
 
-### 2.6. <a href="#tbc">What next?</a><a id="sec-2-6" name="sec-2-6"></a>
+### 2.6. <a href="#toc">What next?</a><a id="sec-2-6" name="sec-2-6"></a>
 
 So, let's agree that this approach to research is due for a
 revival. It's based on simple principles, and done right, can generate
