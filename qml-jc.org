@@ -15,7 +15,7 @@ Here is the schedule (to be populated):
 | [[week0][Jan 9]], 2024  | Admin         | David Wakeham (DW) |
 | [[week1][Jan 23]], 2024 | ESL: §2.1-2.4 | DW                 |
 |              | (SVM: §1.1)   |                    |
-| [[week2][Feb 6]], 2024 | ESL: §2.5-2.9 | DW                 |
+| Feb 6, 2024     | ESL: §2.5-2.9 | Maria Schuld (MS)  |
 |--------------+---------------+--------------------|
 
 Notes on past meetings are in chronological order below.
@@ -368,7 +368,7 @@ in the conditional distribution.
 Nearest neighbours gives a local estimate of this conditional
 distribution from the neighbourhood majority vote, so we have yet
 another way to think about what nearest neighbours does.
-** <<week2>> Dimensionality and prediction
+** COMMENT <<week2>> Dimensionality and prediction
 
 *Reading*: [[ESL][ESL]]: §2.5--6.
 
@@ -387,7 +387,7 @@ grows very quickly with dimension!
 
 To illustrate, suppose we have a uniform distribution over a
 $p$-dimensional unit hypercube $[0, 1]^p$, above left. The variance 
-** Regression, restriction and selection
+** COMMENT Regression, restriction and selection
 
 *Reading*: [[ESL][ESL]]: §2.7--9.
 * References
