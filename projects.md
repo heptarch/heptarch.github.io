@@ -474,5 +474,6 @@ our research, the environment that we provide, and the distance in their work th
 we ask them to penetrate beyond the forefront of creative technology are the most
 important factors in determining the closeness of coupling—the
 effectiveness." The coupling cannot be controlled directly, but only
-delicately tuned using the equilizer of human sympathy, scientific
-insight, 
+tuned with a ready hand on the equalizer of technical insight and
+human sympathy. Creative applied research is, after all, an art and
+not a science.
