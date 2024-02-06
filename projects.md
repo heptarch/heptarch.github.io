@@ -482,16 +482,12 @@ All things considered, I see no reason why the recipe should not be
 is or has been, with indifferent
 results, and the experiment abandoned.
 But I wonder if it's simply unpopular to sink large capital outlays into
-unpredictable stuff like lasers that benefits everyone, including your competitors.
+unpredictable stuff like lasers that benefits everyone, including your
+competitors.
+I guess you pays your money and you takes your choice.
 
 ### 2.6. <a href="#toc">What next?</a><a id="sec-2-6" name="sec-2-6"></a>
 
 So, let's agree that this approach is due for a
 revival. It's based on simple principles, and done right, can generate
 spectacular results. It isn't popular 
-
-But I get the feeling the
-resistance is less to do with capital outlay or a subcritical yield,
-than it is do with conventional wisdom and the fact you don't automatically
-control the outcome. A laser beam is useful, but it's useful for everyone,
-including your competitors. I guess you pays your money and you takes your choice.
