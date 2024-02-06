@@ -30,6 +30,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	3. <a href="#sec-2-3"><i>A rough successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
 	5. <a href="#sec-2-5"><i>Innovation redux</i></a>
+	6. <a href="#sec-2-6"><i>Uncle Sam</i></a>
 
 ---
 
@@ -486,3 +487,5 @@ resistance is less to do with capital outlay or a subcritical mass of
 brains, than it is do with conventional wisdom and the fact you don't
 control the outcome. A laser is useful, but for your competitors as
 well!
+
+### 2.6. <a href="#tbc">Where is Uncle Sam?</a><a id="sec-2-6" name="sec-2-6"></a>
