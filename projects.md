@@ -473,6 +473,6 @@ put it better than Kelly: "Years of experience have taught us that the type and 
 our research, the environment that we provide, and the distance in their work that
 we ask them to penetrate beyond the forefront of creative technology are the most
 important factors in determining the closeness of coupling—the
-effectiveness." In other words, the coupling is not something a lab
-head or research director can control directly; they can only tune it
-with a ready hand on the equalizer 
+effectiveness." The coupling cannot be controlled directly, but only
+delicately tuned using the equilizer of human sympathy, scientific
+insight, 
