@@ -490,5 +490,4 @@ I guess you pays your money and you takes your choice.
 
 So, let's agree that this approach is due for a
 revival. It's based on simple principles, and done right, can generate
-spectacular results. It isn't popular for a few reasons, but that
-doesn't mean it's a bad idea.
+spectacular results. It isn't popular, but that doesn't mean it's a bad idea!
