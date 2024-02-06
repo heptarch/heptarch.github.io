@@ -482,7 +482,7 @@ All things considered, I see no reason why the recipe should not be
 is or has been, with indifferent
 results, and the experiment abandoned.
 But I wonder if it's simply unpopular to sink large capital outlays into
-unpredictable stuff like lasers that benefits everyone, including your
+unpredictable outcomes like lasers that benefit everyone, including your
 competitors.
 I guess you pays your money and you takes your choice.
 
@@ -490,4 +490,5 @@ I guess you pays your money and you takes your choice.
 
 So, let's agree that this approach is due for a
 revival. It's based on simple principles, and done right, can generate
-spectacular results. It isn't popular 
+spectacular results. It isn't popular for a few reasons, but that
+doesn't mean it's a bad idea.
