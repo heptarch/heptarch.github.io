@@ -29,7 +29,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
 	3. <a href="#sec-2-3"><i>A rough successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
-	5. <a href="#sec-2-5"><i>Scaling down</i></a>
+	5. <a href="#sec-2-5"><i>Innovation redux</i></a>
 
 ---
 
@@ -379,7 +379,7 @@ makes it special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech rockstardom.
 
-### 2.5. <a href="#tbc">Scaling down</a><a id="sec-2-5" name="sec-2-5"></a>
+### 2.5. <a href="#tbc">Innovation redux</a><a id="sec-2-5" name="sec-2-5"></a>
 
 In lieu of a state monopoly or an idiosyncratic Silicon Valley
 non-profit, will these guidelines be applicable? I
@@ -474,6 +474,8 @@ our research, the environment that we provide, and the distance in their work th
 we ask them to penetrate beyond the forefront of creative technology are the most
 important factors in determining the closeness of coupling—the
 effectiveness." The coupling cannot be controlled directly, but only
-tuned with a ready hand on the equalizer of technical insight and
+tuned by a ready hand on the equalizer of technical insight and
 human sympathy. Creative applied research is, after all, an art and
 not a science.
+
+All things considered, I see no reason why 
