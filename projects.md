@@ -461,9 +461,9 @@ try to hustle the outcome, but instead guide and nurture the process.
    scientists of "the same high quality as required for distinguished
    pure research in our universities". But there is as much managerial
    nous to scouting, building, and managing teams for scientific
-   research as there is for professional sports, though the
-   conventional ideas about genius, and conventional institutional
-   arrangements, obscure this.
+   research as there is for professional sports, though
+   conventional ideas about genius (and conventional institutional
+   arrangements) obscure this fact.
 
 This is determinative: "Years of experience have taught us that the type and quality of men selected for
 our research, the environment that we provide, and the distance in their work that
