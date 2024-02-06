@@ -479,8 +479,6 @@ tuned by a ready hand on the equalizer of technical insight and
 human sympathy. Creative applied research is, after all, an art and
 not a science.
 
-### 2.6. <a href="#tbc">Uncle Sam</a><a id="sec-2-6" name="sec-2-6"></a>
-
 All things considered, I see no reason why the recipe should not be
 *attempted* at a smaller scale and in less propitious circumstances. Maybe it
 is or has been, with indifferent
@@ -489,3 +487,5 @@ resistance is less to do with capital outlay or a subcritical mass of
 brains, than it is do with conventional wisdom and the fact you don't
 control the outcome. A laser beam is useful, but it's useful for everyone,
 including your competitors.
+
+### 2.6. <a href="#tbc">Uncle Sam</a><a id="sec-2-6" name="sec-2-6"></a>
