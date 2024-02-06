@@ -464,20 +464,18 @@ try to hustle the outcome, but instead guide and nurture the process.
    nous to scouting, building, and managing teams for scientific
    research as there is for professional sports, even if
    conventional ideas about genius (and conventional institutional
-   arrangements) obscure this fact. Team of any size are based on the
-   right people, with the right management for the right task.
+   arrangements) obscure this fact. Successful teams of any size are
+   based on having the  right people, with the right management, for the right task.
 
-10. *Coupling.* The impact and creativity of applied research is
+10. *Coupling.* The impact of applied research is
 related to how effectively coupled the research is to the problem
-domain. That, in turn, bubbles out of an alchemy of factors. I can't
+domain. That, in turn, bubbles out of an alchemy of multiple elements. I can't
 put it better than Kelly: "Years of experience have taught us that the type and quality of men selected for
 our research, the environment that we provide, and the distance in their work that
 we ask them to penetrate beyond the forefront of creative technology are the most
 important factors in determining the closeness of coupling—the
-effectiveness." The coupling cannot be controlled directly, but only
-tuned by a ready hand on the equalizer of technical insight and
-human sympathy. Creative applied research is, after all, an art and
-not a science.
+effectiveness." It evades mechanization because
+it seems that, after all, creative technology is an art and not a science.
 
 All things considered, I see no reason why the recipe should not be
 *attempted* at a smaller scale and in less propitious circumstances. Maybe it
@@ -489,3 +487,5 @@ control the outcome. A laser beam is useful, but it's useful for everyone,
 including your competitors.
 
 ### 2.6. <a href="#tbc">Uncle Sam</a><a id="sec-2-6" name="sec-2-6"></a>
+
+So, let's agree that this sort of research is due 
