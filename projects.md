@@ -493,5 +493,5 @@ revival. It's based on simple principles, and done right, can generate
 spectacular results. These results may not always profit the parent
 company; that probably requires some luck and a crack development
 team. But you pays your money and you takes your choice.
-And to continue parading my straw men, I'd rather bet on Bell than the IAS
-or Big Tech.
+And to continue parading my straw men, I'd rather bet on Bell than the
+philosophy of IAS or Big Tech.
