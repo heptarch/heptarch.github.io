@@ -89,7 +89,7 @@ corporate hoops of OKRs, deadlines, or progress reports.
 No hustle, no crunch; just research.
 
 The buildings were designed to facilitate cross-talk, stimulation, and
-focus. Kelly oversaw that alchemy as well. As he 
+focus. Kelly oversaw that geomancy as well. As he 
 put it: "We give much attention to the maintenance of an atmosphere of
 freedom and an environment stimulating to scholarship and scientific
 research interest. It is most important to limit their work to that of
@@ -461,11 +461,15 @@ try to hustle the outcome, but instead guide and nurture the process.
    scientists of "the same high quality as required for distinguished
    pure research in our universities". But there is as much managerial
    nous to scouting, building, and managing teams for scientific
-   research as there is for professional sports, though
+   research as there is for professional sports, even if
    conventional ideas about genius (and conventional institutional
-   arrangements) obscure this fact.
+   arrangements) obscure this fact. Team of any size are based on the
+   right people, with the right management for the right task.
 
-This is determinative: "Years of experience have taught us that the type and quality of men selected for
+10. *Coupling.* The impact and creativity of applied research is
+related to how effectively coupled the research is to the problem
+domain. That, in turn, bubbles out of an alchemy of factors. I can't
+put it better than Kelly: "Years of experience have taught us that the type and quality of men selected for
 our research, the environment that we provide, and the distance in their work that
 we ask them to penetrate beyond the forefront of creative technology are the most
 important factors in determining the closeness of coupling—the effectiveness."
