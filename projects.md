@@ -452,15 +452,14 @@ try to hustle the outcome, but instead guide and nurture the process.
    coordinated from above. In turns, this requires technical maturity
    and vision, the insight of scientist-managers like Kelly. Grumpy
    professorial PIs show that not every scientist is cut out for this;
-   nor should they have to be. While professors in applied fields may not have a choice,
-   industry has the luxury of choosing some people to be managers, and
-   some to be researchers. At places like Meta, there is even a dual
-   career ladder so people can get promoted while remaining engineers! Ironically, there may be more "pure"
-   academic freedom in industrial R&D than the groves of academe.
+   nor should they be. Some people are better at research, some at
+   management, and some in between, and industry has the unexpected
+   luxury of choosing people for the roles they are best at. Ironically, there may be more "pure"
+   academic freedom in industrial R&D than the groves of academe!
    
 9. *Talent.* Kelly emphasized the importance of quality hires, of recruiting
    scientists of "the same high quality as required for distinguished
-   pure research in our universities".
+   pure research in our universities". 
 
 This is determinative: "Years of experience have taught us that the type and quality of men selected for
 our research, the environment that we provide, and the distance in their work that
