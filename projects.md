@@ -484,4 +484,5 @@ is or has been, with indifferent
 results, and the experiment abandoned. But I get the feeling the
 resistance is less to do with capital outlay or a subcritical mass of
 brains, than it is do with conventional wisdom and the fact you don't
-control the outcome.
+control the outcome. A laser is useful, but for your comptetition as
+well!
