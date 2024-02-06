@@ -491,4 +491,5 @@ including your competitors.
 So, let's agree that this approach to research is due for a
 revival. It's based on simple principles, and done right, can generate
 spectacular results. These results may not always profit the parent
-company; that probably requires some luck and a crack development team.
+company; that probably requires some luck and a crack development
+team. You pays your money and you takes your choice.
