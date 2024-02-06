@@ -489,5 +489,6 @@ including your competitors.
 ### 2.6. <a href="#tbc">Uncle Sam</a><a id="sec-2-6" name="sec-2-6"></a>
 
 So, let's agree that this approach to research is due for a
-revival. It's based on simple principles. Done right, it can generate
-spectacular results; these result may not always profit the parent company.
+revival. It's based on simple principles, and done right, can generate
+spectacular results. These results may not always profit the parent
+company; that probably requires some luck and a crack development team.
