@@ -385,7 +385,7 @@ In lieu of a state monopoly or an idiosyncratic Silicon Valley
 non-profit, will these guidelines be applicable? I
 think so, and at smaller sizes than you might expect. Armed with the
 insights above, let's revisit and update the ingredients in our
-successipe, and think about how to scale it down:
+successipe, and think about how it scales down:
 
 1. *Freedom.* Academic freedom means that researchers and not
 managers initiate research. As in a university setting, this isn't a
