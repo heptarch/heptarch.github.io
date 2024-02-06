@@ -479,4 +479,6 @@ human sympathy. Creative applied research is, after all, an art and
 not a science.
 
 All things considered, I see no reason why the recipe should not be
-*attempted* at a smaller scale and in other circumstances.
+*attempted* at a smaller scale and in other circumstances. Maybe it
+is or has been, in places I am not familiar with, with indifferent
+results, and the experiment abandoned.
