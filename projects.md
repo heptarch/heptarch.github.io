@@ -30,7 +30,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	3. <a href="#sec-2-3"><i>A rough successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
 	5. <a href="#sec-2-5"><i>Innovation redux</i></a>
-	6. <a href="#sec-2-6"><i>Uncle Sam</i></a>
+	6. <a href="#sec-2-6"><i>What next?</i></a>
 
 ---
 
@@ -486,7 +486,7 @@ brains, than it is do with conventional wisdom and the fact you don't
 control the outcome. A laser beam is useful, but it's useful for everyone,
 including your competitors.
 
-### 2.6. <a href="#tbc">Uncle Sam</a><a id="sec-2-6" name="sec-2-6"></a>
+### 2.6. <a href="#tbc">What next?</a><a id="sec-2-6" name="sec-2-6"></a>
 
 So, let's agree that this approach to research is due for a
 revival. It's based on simple principles, and done right, can generate
