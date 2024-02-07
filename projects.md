@@ -75,8 +75,8 @@ grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">ETH.</span> The Eigenstate
 Thermalization Hypothesis (ETH) gives a recipe for quantum chaos in pure
 states. By extending to higher moments via free cumulants, one can
-rigorously connect the ETH pseudorandomness. Project to determine
-connection to causality, AdS/CFT, and possibly quantum money.
+rigorously connect the ETH to a different sort of quantum randomness
+called pseudorandomness. A project to determine connection to causality, AdS/CFT, and possibly quantum money.
 </div>
   </summary>
   <p>
