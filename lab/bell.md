@@ -504,20 +504,22 @@ mission<label for="sn-1"
 	   <span class="sidenote">
 	   Perhaps because the problem is urgent and unsolved. Or
 	   might lead to a cool startup. Or fame and glory. Or cookies. People are motivated by different things.
-	   </span> (*mandate*), and give them the permission (or perhaps
+	   </span> (*mandate*), and give them the permission (or perhaps the
 	   obligation!) to creatively explore the domain as their antennae
 	   dictate (*freedom*).
 Distribute the effort via the magic of the internet, with tools for
 collaboration, feedback, and a high but not prohibitive threshold of
-participation (*focus*); people need to stay engaged, but they also
-need to stay (*security*).<label for="sn-1"
+participation (*focus*); people need to stay engaged, but not so
+engaged that they can't afford the time (*security*).<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-This solves the problem of security because people stay without being paid!
-	   </span>
+Doing this solves the problem of security because people stay without being paid!
+</span>
+
+Finally, there's the thorny question of who runs the show.
 
 separation, coupling, management
