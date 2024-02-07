@@ -503,8 +503,8 @@ mission<label for="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
 	   Perhaps because the problem is urgent and unsolved.
-	   </span> (*mandate*), and finally permission (or perhaps the
-	   obligation!) to creatively explore as their research antennae
+	   </span> (*mandate*), and give them the permission (or perhaps
+	   obligation!) to creatively explore the domain as their antennae
 	   dictate (*freedom*).
 Maybe the effort is distributed or self-organized via the magic of the
 internet, so no one needs to worry about money, just about time (*security*).
