@@ -39,7 +39,7 @@ grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">Paχ.</span> Decentralized money
 is a cool idea but tends to be slow, expensive and effectively
 centralized in practice. A project to explore the scalability, security,
-and policy implication of untrusted centralization.
+and policy implications of untrusted centralization.
 </div>
   </summary>
   <p>
