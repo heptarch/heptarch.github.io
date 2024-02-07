@@ -530,6 +530,11 @@ with people, has a global sense of the domain so the research folks
 don't have to (*separation*), and finally, knows how to work the
 channel between the abstrusities of research and the real-world use
 case (*coupling*). Maybe the coupler and the convener could be
-different people, but ideally the same.
+different people, if the project gets large, but would probably
+initially both be whoever kickstarted the thing..
 
-It may sound quixotic, but this is more or less 
+Now, all this may seem quixotic and fanciful, but it's analogous to
+what happens with open-source software. The big difference would be
+degree of engagement, which is probably why "open source science" (in
+the sense I'm describing) isn't a thing. But I think it could and
+should be!
