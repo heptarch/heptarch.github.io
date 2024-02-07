@@ -56,7 +56,7 @@ replication in a distributed, self-organized, small-scale fashion.
 3. <a href="#sec-1-3"><i>Recipe for successipe</i></a>
 4. <a href="#sec-1-4"><i>More cowbell</i></a>
 5. <a href="#sec-1-5"><i>Scaling down</i></a>
-6. <a href="#sec-1-6"><i>Rebel Labs</i></a>
+6. <a href="#sec-1-6"><i>Rebel labs</i></a>
 
 ---
 
@@ -482,7 +482,7 @@ unpredictable outcomes like lasers that benefit everyone, including your
 competitors.
 I guess you pays your money and you takes your choice.
 
-## 6. <a href="#toc">Rebel Labs</a><a id="sec-1-6" name="sec-1-6"></a>
+## 6. <a href="#toc">Rebel labs</a><a id="sec-1-6" name="sec-1-6"></a>
 
 So, let's agree that this approach is due for a
 revival. How do we manufacture a monopoly, or conjure up a steady
@@ -526,5 +526,7 @@ doesn't make much sense. But somebody should take responsibility
 for coordinating different strands of research to ensure that, like an orchestra
 conductor, the different voices harmonize (*management*). Ideally, this
 individual---we'll use the non-hierarchical term "convener"---is good
-with people, has a big picture sense of the problem domain so the
-research folks don't have to (*separation*), and 
+with people, has a global sense of the domain so the research folks
+don't have to (*separation*), and finally, knows how to work the
+channel between the abstrusities of research and the practical of
+real-world use cases (*coupling*).
