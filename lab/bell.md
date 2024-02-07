@@ -559,4 +559,5 @@ Bell Labs model in an open-source setting, managed through
 I've put some example projects on the [lab](/lab) page; these are all
 things I am tentatively working on, and will add more details
 soon. But the point, the projects will be a lot better if smart folks
-take interest and get involved!
+take interest and get involved! I don't think we'll invent the laser,
+but 
