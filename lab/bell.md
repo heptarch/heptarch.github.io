@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creative applied research: lessons from Bell Labs
+title:
 mathjax: true
 permalink: /lab/bell
 date: 2024-02-5
@@ -20,6 +20,8 @@ There are hundreds of ways to kneel and kiss the ground.
 
 <div style="text-align: right">Rumi, <i>Quatrain 82</i></div>
 </div>
+
+# Creative applied research: lessons from Bell Labs
 
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
@@ -505,8 +507,16 @@ mission<label for="sn-1"
 	   obligation!) to creatively explore the domain as their antennae
 	   dictate (*freedom*).
 Distribute the effort via the magic of the internet, with tools for
-collaboration, feedback, and a high threshold of participation (*focus*)
-
-focus, security
+collaboration, feedback, and a high but not prohibitive threshold of
+participation (*focus*); people need to stay engaged, but they also
+need to stay (*security*).<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+This solves the problem of security
+	   </span>
 
 separation, coupling, management
