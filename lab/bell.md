@@ -524,6 +524,7 @@ having to pay them!
 In this small-scale, distributed setting, having a grand managerial hierarchy
 doesn't make much sense. But somebody should take responsibility
 for coordinating different strands of research to ensure that, like an orchestra
-conductor, the voices harmonize (*management*). Ideally, this
+conductor, the different voices harmonize (*management*). Ideally, this
 individual---we'll use the non-hierarchical term "convener"---is good
-with people, has a big picture sense of the problem domain (*separation*)
+with people, has a big picture sense of the problem domain so the
+research folks don't have to (*separation*), and 
