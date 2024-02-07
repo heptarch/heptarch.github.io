@@ -1,12 +1,10 @@
 ---
 layout: page
-title:
+title: Rebel labs
 mathjax: true
 permalink: /lab/
 date: 2024-02-5
 ---
-
-# Rebel labs
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
