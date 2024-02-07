@@ -495,4 +495,7 @@ Well, we just go through and follow the recipe.
 Get a bunch of smart people together (*talent*) who like to share
 ideas, and have a wide range of expertise (*interaction*). Give them a
 hard applied problem to work on (*domain*), and induce a sense of
-mission (*mandate*).
+mission (*mandate*), perhaps because the problem domain is important
+and unexplored.
+
+security, separation, focus, coupling, management
