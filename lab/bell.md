@@ -552,9 +552,10 @@ institutional blessing before thinking.
 </span>
 
 So, this essay has really been a lengthy preface to a sales pitch: let's try the
-Bell Labs model in an open-source setting, managed through, say,
-[`Mastodon`](https://mastodon.social/explore) and
-[`GitHub`](https://github.com/). I called this *Rebel Labs* for
-obvious reasons.
+Bell Labs model in an open-source setting, managed through
+[GitHub](https://github.com/) and maybe
+[Mastodon](https://mastodon.social/explore) or
+[Discord](https://discord.com/). I called this *Rebel Labs* for obvious reasons.
 I've put some example projects on the [lab](/lab) page; these are all
-things I am working on.
+things I am working on, and will add some more details soon. But it
+would be fun to try branching out!
