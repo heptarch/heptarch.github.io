@@ -30,7 +30,7 @@ There are hundreds of ways to kneel and kiss the ground.
 	3. <a href="#sec-2-3"><i>Recipe for successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
 	5. <a href="#sec-2-5"><i>Innovation redux</i></a>
-	6. <a href="#sec-2-6"><i>What next?</i></a>
+	6. <a href="#sec-2-6"><i>Going punk</i></a>
 
 ---
 
@@ -486,11 +486,10 @@ unpredictable outcomes like lasers that benefit everyone, including your
 competitors.
 I guess you pays your money and you takes your choice.
 
-### 2.6. <a href="#toc">What next?</a><a id="sec-2-6" name="sec-2-6"></a>
+### 2.6. <a href="#toc">Going punk</a><a id="sec-2-6" name="sec-2-6"></a>
 
 So, let's agree that this approach is due for a
 revival. How do we manufacture a monopoly, or conjure up a steady
 stream of coin? We can't. Maybe sprawling, shiny facilities for $O(n)$
-miscellaneous labs, with robust all-to-all chatter? Nope. Fine,
-I'll settle for poaching top-notch talent and convincing them to work
-on... what?
+miscellaneous labs, with robust all-to-all chatter? Nope. In lieu of
+all this, I will 
