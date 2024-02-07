@@ -517,7 +517,7 @@ need to stay (*security*).<label for="sn-1"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-This solves the problem of security
+This solves the problem of security because people stay without being paid!
 	   </span>
 
 separation, coupling, management
