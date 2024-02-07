@@ -55,7 +55,7 @@ replication in a distributed, self-organized, small-scale fashion.
 2. <a href="#sec-1-2"><i>Fine-tuned freedom</i></a>
 3. <a href="#sec-1-3"><i>Recipe for successipe</i></a>
 4. <a href="#sec-1-4"><i>More cowbell</i></a>
-5. <a href="#sec-1-5"><i>Innovation redux</i></a>
+5. <a href="#sec-1-5"><i>Scaling down</i></a>
 6. <a href="#sec-1-6"><i>Rebel Labs</i></a>
 
 ---
@@ -376,7 +376,7 @@ makes it special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech rockstardom.
 
-## 5. <a href="#toc">Innovation redux</a><a id="sec-1-5" name="sec-1-5"></a>
+## 5. <a href="#toc">Scaling down</a><a id="sec-1-5" name="sec-1-5"></a>
 
 In lieu of a state monopoly or an idiosyncratic Silicon Valley
 non-profit, will these guidelines be applicable? I
