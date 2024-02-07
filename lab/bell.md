@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:
 mathjax: true
 permalink: /lab/bell
