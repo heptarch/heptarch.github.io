@@ -18,7 +18,7 @@ interdimensional wizard.</div>
 <script>
 const items = [
             {
-                formula: '$$e^{\\pi i} + 1 = 0$$', // Euler's identity
+            formula: '$$\int_{\partial \mathcal{M}}\omega=\int_{\mathcal{M}} \mathrm{d}\omega$$', // Euler's identity
                 imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
             },
         ];
