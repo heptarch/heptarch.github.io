@@ -502,7 +502,8 @@ mission<label for="sn-1"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-	   Perhaps because the problem is urgent and unsolved.
+	   Perhaps because the problem is urgent and unsolved. Or
+	   might lead to a cool startup. Or fame and glory. Or cookies. People are motivated by different things.
 	   </span> (*mandate*), and give them the permission (or perhaps
 	   obligation!) to creatively explore the domain as their antennae
 	   dictate (*freedom*).
