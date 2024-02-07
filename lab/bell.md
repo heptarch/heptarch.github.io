@@ -521,12 +521,11 @@ Doing this solves the problem of security because people stay without
 having to pay them!
 </span>
 
-In this self-organized, downscale setting, having a grand managerial hierarchy
+In this self-organized, downscale setting, having a big managerial hierarchy
 doesn't make much sense. But somebody should take responsibility
 for coordinating different strands of research to ensure that, like an orchestra
 conductor, the different voices harmonize (*management*). Ideally, this
 individual---we'll use the non-hierarchical term "convener"---is good
 with people, has a global sense of the domain so the research folks
 don't have to (*separation*), and finally, knows how to work the
-channel between the abstrusities of research and the practical of
-real-world use cases (*coupling*).
+channel between the abstrusities of research and real-world use case (*coupling*).
