@@ -1,12 +1,10 @@
 ---
 layout: page
-title:
+title: Creative applied research: lessons from Bell Labs
 mathjax: true
 permalink: /lab/bell
 date: 2024-02-5
 ---
-
-# Creative applied research: lessons from Bell Labs
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
@@ -494,8 +492,20 @@ Well, we just go through and follow the recipe.
 
 Get a bunch of smart people together (*talent*) who like to share
 ideas, and have a wide range of expertise (*interaction*). Give them a
-hard applied problem to work on (*domain*), and induce a sense of
-mission (*mandate*), perhaps because the problem domain is important
-and unexplored.
+hard applied problem to work on (*domain*), induce a sense of
+mission <label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   Perhaps because the problem is urgent and unsolved.
+	   </span> (*mandate*), and finally permission (or perhaps the
+	   obligation!) to creatively explore as their research antennae
+	   dictate (*freedom*).
+Maybe the effort is distributed or self-organized via the magic of the
+internet, so no one needs to worry about their jobs, just their free
+time (*security*).
 
-security, separation, focus, coupling, management
+focus, security, separation, coupling, management
