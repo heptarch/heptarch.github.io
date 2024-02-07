@@ -490,4 +490,5 @@ I guess you pays your money and you takes your choice.
 
 So, let's agree that this approach is due for a
 revival. How do we manufacture a monopoly, or conjure up a steady
-money supply? We can't. 
+money supply? We can't. Sprawling, shiny facilities for $n$ assorted
+labs, with robust interchange between them? Nope.
