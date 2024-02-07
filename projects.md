@@ -74,7 +74,8 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">ETH.</span> The Eigenstate
 Thermalization Hypothesis gives a recipe for quantum chaos in pure
-states. By extending to 
+states. By extending to higher moments using free cumulants, one can
+rigorously connect it quantum pseudorandomness. This makes a 
 </div>
   </summary>
   <p>
