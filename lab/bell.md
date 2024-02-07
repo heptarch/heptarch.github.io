@@ -6,7 +6,7 @@ permalink: /lab/bell
 date: 2024-02-5
 ---
 
-### Contents <a id="toc" name="toc"></a>
+## Contents <a id="toc" name="toc"></a>
 
 1. <a href="#sec-1-1"><i>The Kelly gang</i></a>
 2. <a href="#sec-1-2"><i>Fine-tuned freedom</i></a>
@@ -43,7 +43,7 @@ was so successful as an "institute of creative technology", why
 that success has been so hard to replicate, and how one might approach
 replication in a distributed, self-organized, small-scale fashion.
 
-### 1. <a href="#toc">The Kelly gang</a><a id="sec-1-1" name="sec-1-1"></a>
+## 1. <a href="#toc">The Kelly gang</a><a id="sec-1-1" name="sec-1-1"></a>
 
 "Institute of creative technology" was a line used by Mervin Kelly, director of research from 1936
 to 1943, and later president.<label for="sn-1"
@@ -113,7 +113,7 @@ Kelly gives us hints about this philosophy, but to help fill out the
 negative space, we can look at institutions which do
 *not* give rise to exceptional applied research.
 
-### 2. <a href="#toc">Fine-tuned freedom</a><a id="sec-1-2" name="sec-1-2"></a>
+## 2. <a href="#toc">Fine-tuned freedom</a><a id="sec-1-2" name="sec-1-2"></a>
 
 The Institute for Advanced Study has more material
 security, more on-paper freedom, more vertiginously abstract ivory tower, than one could poke a
@@ -222,7 +222,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 3. <a href="#toc">Recipe for successipe</a><a id="sec-1-3" name="sec-1-3"></a>
+## 3. <a href="#toc">Recipe for successipe</a><a id="sec-1-3" name="sec-1-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
@@ -299,7 +299,7 @@ This was, incidentally, another set of concentric layers that ensured
 proper focus and divorced research from profit.
 Putting it all together, we have a crude recipe for creative applied research.
 
-### 4. <a href="#toc">More cowbell</a><a id="sec-1-4" name="sec-1-4"></a>
+## 4. <a href="#toc">More cowbell</a><a id="sec-1-4" name="sec-1-4"></a>
 
 Of course, this raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
@@ -359,7 +359,7 @@ makes it special.
 I guess we'll see how that culture of innovation holds up under the
 pressures of Big Tech rockstardom.
 
-### 5. <a href="#toc">Innovation redux</a><a id="sec-1-5" name="sec-1-5"></a>
+## 5. <a href="#toc">Innovation redux</a><a id="sec-1-5" name="sec-1-5"></a>
 
 In lieu of a state monopoly or an idiosyncratic Silicon Valley
 non-profit, will these guidelines be applicable? I
@@ -465,7 +465,7 @@ unpredictable outcomes like lasers that benefit everyone, including your
 competitors.
 I guess you pays your money and you takes your choice.
 
-### 6. <a href="#toc">Bottoms up</a><a id="sec-1-6" name="sec-1-6"></a>
+## 6. <a href="#toc">Bottoms up</a><a id="sec-1-6" name="sec-1-6"></a>
 
 So, let's agree that this approach is due for a
 revival. How do we manufacture a monopoly, or conjure up a steady
