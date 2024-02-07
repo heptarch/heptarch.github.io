@@ -19,7 +19,7 @@ interdimensional wizard.</div>
 <script>
 const items = [
             {
-            formula: '$$\\sum_{i=1}$$', // Euler's identity
+            formula: '$$\\frac{1}\\pi{=}\\sum_{i=1}$$', // Euler's identity
             imageUrl: 'https://heptar.ch/img/bio/epi.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series' 
             },
