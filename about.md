@@ -20,7 +20,8 @@ interdimensional wizard.</div>
 const items = [
             {
             formula: '$$\\sum_{i=1}$$', // Euler's identity
-                imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
+            imageUrl: 'https://heptar.ch/img/bio/epi.svg', // URL of the SVG image
+			link: 'https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series' 
             },
         ];
 
@@ -32,7 +33,7 @@ const items = [
             const itemIndex = Math.floor(Math.random() * items.length);
             const item = items[itemIndex];
             const contentDiv = document.getElementById('content');
-            contentDiv.innerHTML = `<p>${item.formula}</p><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;">`;
+            contentDiv.innerHTML = `<p><a href=${item.link}>${item.formula}</a></p><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;">`;
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
