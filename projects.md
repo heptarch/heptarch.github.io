@@ -34,11 +34,10 @@ grey; line-height:1.5">
   <summary>
 <div style="background-color: #202229 ; padding: 15px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<span style="font-variant: small-caps">Pax.</span> Total
-decentralization is a cool idea but cryptocurrencies tend to be slow
-and effectively centralizzed in reality. Project to design a scalable,
-secure, and partially centralized financial instrument, with a side
-helping of policy.
+<span style="font-variant: small-caps">Pax.</span> Decentralized money
+is a cool idea but tends to be slow, expensive and effectively
+centralized in practice. Project to explore the scalability, security,
+and policy implication of untrusted centralization.
 </div>
   </summary>
   <p>
