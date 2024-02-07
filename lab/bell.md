@@ -551,7 +551,8 @@ I think the modern scientist has an unfortunate habit of waiting for
 institutional blessing before thinking.
 </span>
 
-So, this essay has really been a lengthy preface to an idea: try the
+So, this essay has really been a lengthy preface to a sales pitch: let's try the
 Bell Labs model in an open-source setting, managed through, say,
 [`Mastodon`](https://mastodon.social/explore) and
-[`GitHub`](https://github.com/).
+[`GitHub`](https://github.com/). I called this *Rebel Labs* for
+obvious reasons.
