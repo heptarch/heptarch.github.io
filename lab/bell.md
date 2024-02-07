@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Creative applied research: lessons from Bell Labs
 mathjax: true
 permalink: /lab/bell
 date: 2024-02-5
