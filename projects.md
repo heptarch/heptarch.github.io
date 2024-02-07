@@ -492,5 +492,5 @@ So, let's agree that this approach is due for a
 revival. How do we manufacture a monopoly, or conjure up a steady
 stream of coin? We can't. Maybe sprawling, shiny facilities for $O(n)$
 labs, with robust all-to-all chatter? Nope. In lieu of top-down
-benefaction, I wonder if it is possible to implement a partial feature
-set from the bottom up.
+technocapital benefaction, I wonder if it's possible to implement a
+partial feature set from the bottom up.
