@@ -18,7 +18,7 @@ interdimensional wizard.</div>
 <script>
 const items = [
             {
-            formula: '$$\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{n=0}^\infty \frac{(4n)!(1103+26390n)}{n!^4 396^{4n}}$$', // Euler's identity
+            formula: '$$\frac{1}{\pi} = \frac{2\sqrt{2}}{9801}\sum_{n=0}^\infty \frac{(4n)!(1103+26390n)}{{n!}^4 396^{4n}}$$', // Euler's identity
                 imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
             },
         ];
