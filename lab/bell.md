@@ -505,7 +505,7 @@ mission <label for="sn-1"
 	   obligation!) to creatively explore as their research antennae
 	   dictate (*freedom*).
 Maybe the effort is distributed or self-organized via the magic of the
-internet, so no one needs to worry about their jobs, just their free
-time (*security*).
+internet, so no one needs to worry about money, just about time
+(*security*). 
 
 focus, security, separation, coupling, management
