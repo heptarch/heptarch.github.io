@@ -19,7 +19,7 @@ interdimensional wizard.</div>
 <script>
 const items = [
             {
-            formula: '$$\\pi$$', // Euler's identity
+            formula: '$$\pi$$', // Euler's identity
                 imageUrl: 'https://heptar.ch/img/bio/epi.svg' // URL of the SVG image
             },
         ];
