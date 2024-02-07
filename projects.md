@@ -36,10 +36,7 @@ There are hundreds of ways to kneel and kiss the ground.
 
 ## 1. <a href="#toc">The Lab</a><a id="sec-1" name="sec-1"></a>
 
-<details>
-  <summary>
 ## 2. <a href="#toc">Creative applied research: lessons from Bell Labs</a><a id="sec-2" name="sec-2"></a>
-  </summary>
 
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
@@ -494,4 +491,3 @@ I guess you pays your money and you takes your choice.
 So, let's agree that this approach is due for a
 revival. It's based on simple principles, and done right, can generate
 spectacular results. It isn't popular, but that doesn't mean it's a bad idea!
-</details>
