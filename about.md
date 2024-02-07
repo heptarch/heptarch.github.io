@@ -19,7 +19,7 @@ interdimensional wizard.</div>
 <script>
 const items = [
             {
-            formula: '$$\\frac{1}{\\pi}= \\frac{2\\sqrt{2}}{9801}\\sum_{n=0}^{\\infty} \\frac{(4k)!}{(k!)^4}$$', // Euler's identity
+            formula: '$$\\frac{9801}{2\\sqrt{2}\\pi}= \\sum_{n=0}^{\\infty} \\frac{(4k)!}{(k!)^4}$$', // Euler's identity
             imageUrl: 'https://heptar.ch/img/bio/epi.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series' 
             },
