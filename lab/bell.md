@@ -536,10 +536,10 @@ both be whoever kickstarted the thing.
 All this may seem quixotic, but it's analogous to a very common
 phenomenon: open-source software. Coders around the world come
 together to create beautiful things, for free, in a distributed,
-self-organized way. The biggest difference between open source
+self-organized way. The biggest difference between open-source
 software and the kind of science I'm describing is probably the
 sustained mental effort involved in the latter. I *hope* I'm being a
-chauvinist about this, because if I am, it means "open source science"
+chauvinist about this, because if I am, it means "open-source science"
 is even more feasible than I thought!<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -551,4 +551,6 @@ I think the modern scientist has an unfortunate habit of waiting for
 institutional blessing before they start thinking.
 </span>
 
-So, this essay has really been a lengthy preface to 
+So, this essay has really been a lengthy preface to an idea: try the
+Bell Labs model in an open-source setting, managed through, say,
+[`Mastodon`](https://mastodon.social/explore) and [`GitHub`](https://github.com/).
