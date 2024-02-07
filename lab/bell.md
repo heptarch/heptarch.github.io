@@ -533,8 +533,11 @@ case (*coupling*). Maybe the coupler and the convener could be
 different people, if the project gets large, but would probably
 initially both be whoever kickstarted the thing.
 
-Now, all this may seem quixotic, but it's analogous to
-what happens with open-source software. The big difference would be
-degree of engagement, which is probably why "open source science" (in
-the sense I'm describing) isn't a thing. But I think it could and
-should be!
+All this may seem quixotic, but it's analogous to a very common
+phenomenon: open-source software. Coders around the world come
+together to create beautiful things, for free, in a distributed,
+self-organized way. The biggest difference between open source
+software and the kind of science I'm describing is probably the
+sustained mental effort involved in the latter. I *hope* I'm being a
+chauvinist about this, because if I am, it means "open source science"
+is even more feasible than I thought!
