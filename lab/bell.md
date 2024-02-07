@@ -490,7 +490,7 @@ stream of coin? We can't. Maybe sprawling, shiny facilities for $O(n)$
 labs, with robust all-to-all chatter? Nope. In lieu of top-down
 technocapital benefaction, I wonder if it's possible to implement a
 partial feature set from the bottom up. What might this look like?
-Well, we just go through and follow the recipe.
+Well, let's try following the recipe we worked so hard to cook up.
 
 Get a bunch of smart people together (*talent*) who like to share
 ideas, and have a wide range of expertise (*interaction*). Give them a
