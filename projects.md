@@ -6,6 +6,7 @@ permalink: /lab/
 date: 2024-02-5
 ---
 
+# Rebel labs
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
@@ -30,29 +31,12 @@ grey; line-height:1.5">
   <summary>
 <div style="background-color: #202229 ; padding: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<span style="font-variant: small-caps">Obstructed Supervision Theorem.</span> For a polygonal layout of $n$ walls and $g$
-holes, a total of
-
-$$
-\left\lfloor \frac{n+2g}{3}\right\rfloor
-$$
-
-educators are sufficient to supervise the whole space.
+<span style="font-variant: small-caps">Statecraft.</span> A functional
+language for quantum programming.
 </div>
   </summary>
   <p>
-For each hole, draw an edge from one of its vertices to
-a vertex on the outer polygon.
-
-<figure>
-    <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/guards5.svg" width="400"/>
-	</div>
-	</figure>
-
-If each such edge is viewed as
-<i>two</i> walls, we now have a (non-convex) polygon of $n + 2g$ walls,
-and we can apply the original art gallery theorem.
+To do.
 $\blacksquare$
   </p>
 </details>
