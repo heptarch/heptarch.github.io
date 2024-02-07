@@ -490,7 +490,7 @@ I guess you pays your money and you takes your choice.
 
 So, let's agree that this approach is due for a
 revival. How do we manufacture a monopoly, or conjure up a steady
-money supply? We can't. Maybe sprawling, shiny facilities for $n$
-miscellaneous labs, with robust interchange between them? Nope. Fine,
+stream of coin? We can't. Maybe sprawling, shiny facilities for $O(n)$
+miscellaneous labs, with robust all-to-all chatter? Nope. Fine,
 I'll settle for poaching top-notch talent and convincing them to work
 on... what?
