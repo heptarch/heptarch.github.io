@@ -1,0 +1,477 @@
+---
+layout: page
+title:
+mathjax: true
+permalink: /lab/bell
+date: 2024-02-5
+---
+
+## Creative applied research: lessons from Bell Labs
+
+### Contents <a id="toc" name="toc"></a>
+
+1. <a href="#sec-1-1"><i>The Kelly gang</i></a>
+2. <a href="#sec-1-2"><i>Fine-tuned freedom</i></a>
+3. <a href="#sec-1-3"><i>Recipe for successipe</i></a>
+4. <a href="#sec-1-4"><i>More cowbell</i></a>
+5. <a href="#sec-1-5"><i>Innovation redux</i></a>
+6. <a href="#sec-1-6"><i>Bottoms up</i></a>
+
+---
+
+Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
+lasers, the transistor, information theory, modern cryptography,
+error-correcting codes, the Cosmic Microwave Background, electron diffraction, photovoltaic cells,
+quality control, CCDs, optical fibres, `UNIX`, `C`, support
+vector machines, the Fast Fourier Transform, Grover search,
+and Shor's algorithm, among other innovations too numerous to name.
+What made it special? Money, to begin with. Bell Labs operated
+under the auspices of a state monopoly, so no one had to hustle for
+grants, venture capital, or quarterly revenue.
+
+But most steadily funded researchers don't win a Nobel Prize or a
+Turing Award. By itself money doesn't make good research; it's something you worry about when there isn't
+enough!
+Of course, good industrial research is expensive, and more money
+means more talent, more equipment, and more time. But outcomes are not
+linear in these, and from a quick survey of well-heeled
+Ivies or the moonshot factories of Big Tech,
+its clear that money does not buy Bell-level success.
+I think the special sauce was not material—the cash flow or the
+personnel or the supply of oscilloscopes—but philosophical.
+
+This little essay represents some tentative thoughts on why Bell Labs
+was so successful as an "institute of creative technology", why
+that success has been so hard to replicate, and how one might approach
+replication in a distributed, self-organized, small-scale fashion.
+
+### 1. <a href="#toc">The Kelly gang</a><a id="sec-1-1" name="sec-1-1"></a>
+
+"Institute of creative technology" was a line used by Mervin Kelly, director of research from 1936
+to 1943, and later president.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+   See <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.1950.0140">"The Bell
+   Telephone Laboratories-An Example of an Institute of Creative
+   Technology"</a> (1950), Mervin Kelly. All quotes of Kelly are from this source.
+	   </span> A physicist by trade, Kelly played a
+pivotal (though not quite Nobel-worthy) role in the invention of the transistor, and as
+president, helped develop the laser and the solar cell.
+He was the scientist-manager par excellence; to paraphrase Falstaff,
+he was not only the cause of research in himself, but the cause that
+research is in others.
+At the same time, his views on scientific management would terrify a
+modern CEO. Fundamental research was a "non-scheduled
+area of work", so the scientists did not have to jump through the
+corporate hoops of OKRs, deadlines, or progress reports.
+No hustle, no crunch; just research.
+
+The buildings were designed to facilitate cross-talk, stimulation, and
+focus. Kelly oversaw that geomancy as well. As he 
+put it: "We give much attention to the maintenance of an atmosphere of
+freedom and an environment stimulating to scholarship and scientific
+research interest. It is most important to limit their work to that of
+research." An ill-framed objective or a quarterly review might
+distract from their real job.
+
+Of course, to meet the technical needs of a giant like Bel, someone
+had to keep track of what was going on, and do something with the
+research. Once a fundamental research project reached maturity, it would be handed over to a development team. In
+Kelly's words: "This pattern repeats itself again and again. A
+research programme is initiated. Then as new knowledge that gives
+promise of worthwhile application is obtained, a fundamental
+development team is activated. It builds a background of basic
+technology under the watchful eye and with the consultative aid of the
+men of research." Researchers consulted, but were strictly forbidden
+from helping to develop their research, lest they "lose contact with the
+forefront of their field of scientific interest".
+
+Development was only one of a number of concentric layers of
+deployment, including systems engineering, facilities development, and
+operations.
+It's clear that Bell put a tremendous amount of effort into
+structural policy and effective divisions of labour.
+But these divisions really only imposed boundary conditions;
+what happened within a division would be governed by differential equations set by
+management.
+Kelly could have treated his researchers as boffins in need of
+practical guidance, or drones requiring coercive instruction.
+It happens.
+Instead, as the transistor episode shows, he saw them as 
+collaborators, and directed their efforts with superb managerial and technical
+nous. He lead from the inside.
+
+One might be inclined to view this "institute of creative technology"
+as a lucky and unrepeatable confluence of factors.
+But Kelly directed Bell Labs for less than 10 years; there were many Kellys. The only way to
+sustain success at that level for a century, I would argue, is to
+marry material stability and good structure with a philosophy of
+creative applied research that works.
+Kelly gives us hints about this philosophy, but to help fill out the
+negative space, we can look at institutions which do
+*not* give rise to exceptional applied research.
+
+### 2. <a href="#toc">Fine-tuned freedom</a><a id="sec-1-2" name="sec-1-2"></a>
+
+The Institute for Advanced Study has more material
+security, more on-paper freedom, more vertiginously abstract ivory tower, than one could poke a
+tenured chair at.
+But its eminent faculty and promising young postdocs are there, respectively, by
+postselection (what they did before they arrived) and preselection
+(what they will likely do after they leave); not much happens at the
+Institute itself. As Feynman memorably put it: "Nothing happens
+because there's not enough real activity and challenge: you're not in contact with the
+experimental guys. You don't have to think how to answer questions
+from the students. Nothing!"<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   From <i>“Surely You’re Joking, Mr. Feynman!” Adventures of a
+	   Curious Character</i> (1985), Richard Feynman.
+	   </span>
+The IAS is too far removed to have an impact on reality.
+
+At Bell Labs, Kelly made sure the theorists were in contact with the
+experimentalists by literally building their offices next to each
+other.
+People would talk, share problems, and create interest groups across
+disciplinary lines. The solid-state group that invented the transistor
+started as an informal study session lead by William Shockley.
+Claude Elwood Shannon might ride his unicycle down
+the hallway to talk to Tukey, Bardeen or Richard Hamming, before
+retreating into solitude; the metallurgists taught the chemists a cool
+trick about polymer synthesis, and later that day, a chemist nerdsniped a materials physicist. Magic would happen.
+
+But it wasn't just a critical mass of talent and cross-fertilizing
+expertise: the research was ultimately grounded in the ever-shifting
+operational requirements of the world's largest telecommunications
+enterprise.
+This did not literally mean solving Bell's operational conundra;
+rather, through good management and institutional structure,
+researchers would use their freedom to obey Paul Graham's dictum: “live in the future, then build what's
+missing".
+Or, as Kelly put it, the idea was to provide "the coupling between the
+ever-advancing forefront of pure science and the forward march of our
+communications technology. The closer the coupling, the more
+completely will we keep in step with the progress of science."
+
+This is worlds away from the enfeebled freedom that Feynman
+lampooned. The freedom to think, sure, but about what?
+In contrast, if you're put on a team with a problem-rich domain of
+inquiry, told to get darn good at it, talk to your colleagues, think
+big, ask stupid questions, and go test things out in the lab down the
+hall, you end up with an institute of creative technology and not of
+advanced study.
+
+This sounds great and all, but by the metric of domain complexity, Big Tech should be the new Bell Labs. Epitomized by
+MAMAA (Meta, Amazon, Microsoft, Apple and Alphabet), Big Tech does
+indeed have patents, papers and products aplenty, with a track
+record we can read off Nasdaq.
+But despite the billions of dollars they pour into applied computer
+science, these companies share only seven Turing Award recipients between them,<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   And a few of these recipients, e.g. Yann LeCun, did their most
+	   highly cited work at Bell Labs.
+	   </span>
+while Bell Labs had nine.
+Arguably, this a problem of timescale; like the Nobel,
+Turing Awards tend to arrive long after the fact. In twenty
+years, I bet we will see more MAMAA employees on the honour
+rolls.
+
+But I wouldn't bet on too many more. The simple reason is that
+Turing awards are not a good investment, and in the cutthroat
+landscape of technoprogressive disruption, you "move fast and break
+things" or you die. You don't have time to sit around doing
+fundamental algorithms research. This capitalist realpolitik explains
+why, for instance, Alphabet is making massive cuts to its "moonshot factory" `X`.
+It also explain why research groups in MAMAA and beyond have aggressively
+pivoted into generative AI.
+Transformers are interesting, but a solved problem from a fundamental
+science perspective; the rest is engineering, albeit lucrative and
+difficult. <label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+I'm exaggerating a little, especially because much of the basic
+science <i>was</i> done in the Big Tech setting. See <a
+href="#sec-1-4">§2.4</a> for more on this.
+	   </span>
+
+With a state-backed monopoly, this realpolitik didn't apply to Bell.
+The product ensured a healthy supply of capital and research
+questions, a “problem-rich environment” as one employee said.
+but the research was decoupled from the profitability of
+the system it served.
+Employees could afford to fail, could afford to dream, could afford
+to talk to people outside their comfort zone and explore low-entropy
+connections; the product didn't govern the outcome, dictate the
+process, or provide the yardstick for success and failure.
+In Big Tech, the product *is* the outcome, the process, and the metric.
+
+### 3. <a href="#toc">Recipe for successipe</a><a id="sec-1-3" name="sec-1-3"></a>
+
+So, to state it crudely, the IAS is all freedom and no application,
+and Big Tech is all application and no freedom.
+Creative applied research needs both. Collecting our observations so
+far, we can list a few key ingredients in Bell's recipe for successipe:
+- Academic freedom
+- Material security
+- Problem-rich domain of application
+- Robust division of labour
+- Enforced focus
+- Enforced cross-disciplinary interaction
+- Collaborative management
+
+This seems pretty good, but I'll admit, there are some major questions
+it doesn't answer:
+- What motivated researchers?
+- How did managers intervene in or guide research?
+- How was research coupled to the realities of the communications systems?
+
+I suspect the answers lie somewhere between the
+operational realm than the mysteries of human behaviour.
+Hire smart people, give them money, equipment, and fun problems to
+work on, and your output will probably depend sensitively on *who you
+choose*. Like scouting and talent development in professional sports,
+building a winning team requires more than deep pockets; you need sharp
+eyes and a gut instinct for how the different parts of the team
+will gel.
+As Brattain once said of the transistor research group, “It was
+probably one of the greatest research teams ever pulled together on a
+problem.”
+It's hard to overstate the importance of collaborative synergy in big science.
+
+Richard Hamming, a Bell Labs luminary, describes what he views as the
+right sort of personality type: "But I can say there is a pretty good correlation between those who
+work with the doors open and those who ultimately do important things,
+although people who work with doors closed often work harder. Somehow
+they seem to work on slightly the wrong thing---not much, but enough
+that they miss fame."<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+   See <a
+   href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">"You
+   and Your Research"</a> (1986), Richard Hamming.
+   </span>
+That openness is how collaboration and discovery happens. Claude
+Elwood Shannon, the father of information theory, may have been a lone
+wolf, but he was modest, curious, and intellectually receptive in other ways.
+
+The last two questions probably have the same answer.
+To couple the state of the art in
+communications systems to the state of the art in pure science, somebody had
+to know the former. That would be the director of research.
+As Jon Gertner puts it in his wonderful book,<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   <i>The Idea Factory: Bell Labs and the Great Age of American
+	   Innovation</i> (2012), Jon Gertner.
+	   </span>
+“the managers themselves had to keep track of how the technology
+and politics and finances of their endeavour meshed together.”
+The
+researchers, on the other hand, were tasked with being domain experts in the latter. So
+the coupling arose via interactions between the director,
+lab heads, and the constituent scientists.
+This was, incidentally, another set of concentric layers that ensured
+proper focus and divorced research from profit.
+Putting it all together, we have a crude recipe for creative applied research.
+
+### 4. <a href="#toc">More cowbell</a><a id="sec-1-4" name="sec-1-4"></a>
+
+Of course, this raises the question: if Bell Labs made innovation systematic, why haven't its
+results been systematically reproduced elsewhere? IBM and Microsoft
+have tried, with some luck. I don't think Kelly's management was
+a lucky confluence, but maybe there was a lucky confluence, namely
+Bell Labs itself; I mean, you don't get a state-sponsored mandate to a
+develop a whole new realm of technology every day!
+Big Tech tries to develop new realms, but without mandate
+in a prohibitively competitive environment.
+The IAS gives a mandate, but an empty one.
+Money and freedom aren't enough; you need a mandate with substance.
+
+You might conclude pessimistically that Bell's mandate of
+substances---to build a nation-wide telecommunications infrastructure---and the
+freedom and money that came with it, are basically unrepeatable.
+But I'm not sure I buy it.
+Or rather: I'm not sure anyone else wants to.
+Big Tech doesn't like the ROI on Nobel Prizes, and for that matter,
+neither does Small Tech, whose heterogenous landscape of startups
+relies on ready revenue and ROI-haunted venture capital to operate.
+The moonshot factories like `X` are perhaps too disconnected from
+domain of application; that's why you get quirky projects like the hyperloop
+or [Loon](https://en.wikipedia.org/wiki/Loon_LLC), cute,
+brilliant, and totally unnecessary. The perfect fodder for
+[`xkcd`](https://xkcd.com/)!
+
+Plenty of universities and state labs do creative applied research,
+but it's small and disconnected. Part of the magic of Bell was in the scale and
+connectivity. We can do a little back-of-the-envelope calculation to
+see why this is important. Suppose you have $n$ research groups, most
+of which to most of the others. Then the number of connections scales
+as $O(n^2)$. There are $\binom{n}{2} = n(n-1)/2$ connections
+altogether. If profitable connections are distributed at random along
+edges, e.g. there is a chance that a good idea lies along an edge
+between two groups, then you have an $O(1)$ chance of finding it. If
+all groups speak to some $O(1)$ number of other groups, or some group
+speaks to most others, you have an $O(1/n)$ chance of finding
+it. Finally, if only a few groups speak to a few others, the
+chance is $O(1/n^2)$. I would wager that most universities live in
+$O(1/n^2)$ regime, and state labs in the $O(1/n)$ regime. The odds of
+finding those creating overlaps are not good.
+
+An interesting exception is OpenAI, which (in my view) does seem to
+have a "culture of repeatable innovation" to unironically quote Sam
+Altman. I'm not sure how things work there, but I suspect that
+starting as a non-profit hardcoded the decoupling between product
+and research. It also had a Lawful Good mandate in a provocatively
+difficult problem domain.
+In a field like AI, the benefits of cross-fertilization
+between adjacents domains are probably pretty obvious, particularly as
+multimodal AI comes into its own. So, I suspect that the different
+teams of OpenAI are in the $O(1)$ regime for probability of
+discovering something new. I'm not sure about the other ingredients in our
+<a href="#sec-1-3">successipe</a>---these may be neither nor sufficient---but
+it seems plausible that OpenAI's structural quirks are part of what
+makes it special.
+I guess we'll see how that culture of innovation holds up under the
+pressures of Big Tech rockstardom.
+
+### 5. <a href="#toc">Innovation redux</a><a id="sec-1-5" name="sec-1-5"></a>
+
+In lieu of a state monopoly or an idiosyncratic Silicon Valley
+non-profit, will these guidelines be applicable? I
+think so, and at smaller sizes than you might expect. Armed with the
+insights above, let's revisit the ingredients in our
+successipe, and see how it scales down:
+
+1. *Freedom.* Academic freedom means that researchers and not
+managers initiate research. As in a university setting, this isn't a
+license to do anything; it's trust and permission within scope. This can be
+implemented even in a small team.
+
+2. *Security.* This one is trickier. As we've discussed above, in a tech
+   setting stable funding is hard to come by, and in most universities,
+   even tenure is no guarantee of money. But this is the first place
+   where separation of concerns becomes important; the researchers
+   should not be the ones hustling for money, developing, or selling
+   the product. They should get paid to research. Professors tend to
+   be miserable project managers, and the same is true in industry.
+   
+3. *Separation.* The benefits of a robust division of labour should,
+   by this point, be clear. Don't saddle researchers with business
+   problems, just pay them to think and give them what they need. For
+   that to feasible, you need to have good managers to couple science
+   to commerce, and teams to perform development, integration, and so
+   on. Keep them separate, but with well-defined and performant
+   interfaces. An early-stage startup of, say, five people is probably
+   too small to separate this way, but $100$ is plenty.
+   
+6. *Focus.* The goal is clearly separating research from its
+   application is focus. Researchers work best when their bellies (and
+   wallets) are full, and they get to have fun with their
+   problems. But, as Kelly realized, to keep up with the
+   frontier you need to move fast; you can't afford to be
+   distracted. This is a subtle business, because what looks like
+   distraction to the manager can be unconscious insight for the scientist. This is
+   where scope and domain become important.
+   
+4. *Domain.* A stimulating problem domain guarantees a supply of
+good research questions, and that coupling to the scientific
+state-of-the-art Kelly was so concerned with. In fact, most industrial
+domains harbour unsolved scientific problems; we know much less than
+we think! In addition to stimulating scientific innovation, a good
+domain also helps draw the line between distraction and freedom
+judiciously employed. You think homotopy type theory might shed some
+light on this problem? In that case, by all means. Managers shouldn't
+try to hustle the outcome, but instead guide and nurture the process.
+
+5. *Mandate.* Of course, even when a domain is stimulating, if
+   approached without urgency and a sense of mission, is likely to
+   yield lacklustre results from an applied perspective. That is why
+   mandate is important. It gives you a problem to solve, and the
+   responsibility to solve it; a collective and personal stake in
+   something that will make a difference. This is different from the
+   splendid isolation of the ivory tower, where (if you're lucky) your
+   results only matter to a handful of other experts.
+
+7. *Interaction.* Speaking of other experts, the hardest ingredient
+   to replicate at a small scale is the effect of cross-disciplinary
+   chatter and all-to-all connections. With six groups, you have
+   fifteen edges to explore; between two groups, only one. In smaller
+   teams, I think the natural answer is in-house specialization, where
+   different researchers play the same role as different
+   teams. Another solution is to build rapport with external research
+   groups; although better than nothing, like university
+   collaborations it tends to suffer from suboptimal scaling in $n$.
+   
+8. *Management.* If researchers are encouraged to focus and become
+   domain experts, some of the cross-fertilization has to be
+   coordinated from above. In turns, this requires technical maturity
+   and vision, the insight of scientist-managers like Kelly. Grumpy
+   professorial PIs show that not every scientist is cut out for this;
+   nor should they be. Some people are better at research, some at
+   management, and some in between, and industry has the unexpected
+   luxury of choosing people for the roles they are best at. Ironically, there may be more "pure"
+   academic freedom in industrial R&D than the groves of academe!
+   
+9. *Talent.* Kelly emphasized the importance of quality hires, of recruiting
+   scientists of "the same high quality as required for distinguished
+   pure research in our universities". But there is as much managerial
+   nous to scouting, building, and managing teams for scientific
+   research as there is for professional sports, even if
+   conventional ideas about genius (and conventional institutional
+   arrangements) obscure this fact. Successful teams of any size are
+   based on having the  right people, with the right management, for the right task.
+
+10. *Coupling.* The impact of applied research is
+related to how effectively coupled the research is to the problem
+domain. That, in turn, bubbles out of an alchemy of multiple elements. I can't
+put it better than Kelly: "Years of experience have taught us that the type and quality of men selected for
+our research, the environment that we provide, and the distance in their work that
+we ask them to penetrate beyond the forefront of creative technology are the most
+important factors in determining the closeness of coupling—the
+effectiveness." It evades mechanization because
+it seems that, after all, creative technology is an art and not a science.
+
+All things considered, I see no reason why the recipe should not be
+*attempted* at a smaller scale and in less propitious circumstances. Maybe it
+is or has been, with indifferent
+results, and the experiment abandoned.
+But I wonder if it's simply unpopular to sink large capital outlays into
+unpredictable outcomes like lasers that benefit everyone, including your
+competitors.
+I guess you pays your money and you takes your choice.
+
+### 6. <a href="#toc">Bottoms up</a><a id="sec-1-6" name="sec-1-6"></a>
+
+So, let's agree that this approach is due for a
+revival. How do we manufacture a monopoly, or conjure up a steady
+stream of coin? We can't. Maybe sprawling, shiny facilities for $O(n)$
+labs, with robust all-to-all chatter? Nope. In lieu of top-down
+technocapital benefaction, I wonder if it's possible to implement a
+partial feature set from the bottom up. What might this look 
