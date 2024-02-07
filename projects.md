@@ -14,7 +14,7 @@ Below are open projects, links, and details. For more on `Rebel Labs`, [read the
 grey; line-height:1.5">
 <details>
   <summary>
-<div style="background-color: #202229 ; padding: 15px; margin:-10px; border: 0px solid
+<div style="background-color: #202229 ; padding: 15px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">Statecraft.</span> A functional
 language for quantum programming.
