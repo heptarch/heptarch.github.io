@@ -521,7 +521,7 @@ Doing this solves the problem of security because people stay without
 having to pay them!
 </span>
 
-In this self-organized, downscale setting, having a big managerial hierarchy
+In this self-organized, downscale setting, having a managerial hierarchy
 doesn't make much sense. But somebody should take responsibility
 for coordinating different strands of research to ensure that, like an orchestra
 conductor, the different voices harmonize (*management*). Ideally, this
