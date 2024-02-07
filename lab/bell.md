@@ -556,3 +556,5 @@ Bell Labs model in an open-source setting, managed through, say,
 [`Mastodon`](https://mastodon.social/explore) and
 [`GitHub`](https://github.com/). I called this *Rebel Labs* for
 obvious reasons.
+I've put some example projects on the [lab](/lab) page; these are all
+things I am working on.
