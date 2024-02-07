@@ -1,6 +1,6 @@
 ---
 layout: page
-title: `Rebel Labs`
+title: Rebel Labs
 mathjax: true
 permalink: /lab/
 date: 2024-02-5
