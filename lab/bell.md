@@ -540,6 +540,13 @@ self-organized way. The biggest difference between open source
 software and the kind of science I'm describing is probably the
 sustained mental effort involved in the latter. I *hope* I'm being a
 chauvinist about this, because if I am, it means "open source science"
-is even more feasible than I thought! But I also think scientists have
-a habit of waiting for an institutional blessing before they start
-work on something.
+is even more feasible than I thought!<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+I think the modern scientist has an unfortunate habit of waiting for
+institutional blessing before they start thinking.
+</span>
