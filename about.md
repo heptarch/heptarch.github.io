@@ -33,7 +33,7 @@ const items = [
             const itemIndex = Math.floor(Math.random() * items.length);
             const item = items[itemIndex];
             const contentDiv = document.getElementById('content');
-            contentDiv.innerHTML = `<p><a href=${item.link}>${item.formula}</a></p><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;">`;
+            contentDiv.innerHTML = `<p>${item.formula}</p><a href=${item.link}><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;"></a>`;
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
