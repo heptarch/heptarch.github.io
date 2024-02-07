@@ -530,8 +530,8 @@ with people, has a global sense of the domain so the research folks
 don't have to (*separation*), and finally, knows how to work the
 channel between the abstrusities of research and the real-world use
 case (*coupling*). Maybe the coupler and the convener could be
-different people, if the project gets large, but would probably
-initially both be whoever kickstarted the thing.
+different people, if the project gets large enough, but will probably
+both be whoever kickstarted the thing at first.
 
 All this may seem quixotic, but it's analogous to a very common
 phenomenon: open-source software. Coders around the world come
@@ -550,3 +550,5 @@ is even more feasible than I thought!<label for="sn-1"
 I think the modern scientist has an unfortunate habit of waiting for
 institutional blessing before they start thinking.
 </span>
+
+So, this essay has really been a lengthy preface to 
