@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Rebel labs
+title: `Rebel Labs`
 mathjax: true
 permalink: /lab/
 date: 2024-02-5
 ---
 
-Below are open projects, links, and details. For more on Rebel Labs, [read the essay](/bell).
+Below are open projects, links, and details. For more on `Rebel Labs`, [read the essay](/bell).
 
 ---
 
