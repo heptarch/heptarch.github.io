@@ -521,9 +521,9 @@ Doing this solves the problem of security because people stay without
 having to pay them!
 </span>
 
-In this small-scale, distributed setting, having a grand hierarchy
-doesn't make much sense. But somebody does need to take responsibility
-for coordinating different strands of research, like an orchestra
-conductor (*management*); somebody good at communicating, and with a
-big picture sense of the problem domain so the rest of the team can
-stick to the research question/s (*separation*). Finally, 
+In this small-scale, distributed setting, having a grand managerial hierarchy
+doesn't make much sense. But somebody should take responsibility
+for coordinating different strands of research to ensure that, like an orchestra
+conductor, the voices harmonize (*management*). Ideally, this
+individual---we'll use the non-hierarchical term "convener"---is good
+with people, has a big picture sense of the problem domain (*separation*)
