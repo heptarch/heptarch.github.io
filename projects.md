@@ -17,7 +17,9 @@ grey; line-height:1.5">
 <div style="background-color: #202229 ; padding: 15px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">Statecraft.</span> A functional
-language for quantum programming, focusing on hybrid
+language for quantum programming. Designed for high-level algorithmic
+reasoning, hybrid workflows for early fault-tolerance, and
+interoperability between different computational frameworks.
 </div>
   </summary>
   <p>
@@ -32,10 +34,8 @@ grey; line-height:1.5">
   <summary>
 <div style="background-color: #202229 ; padding: 15px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<span style="font-variant: small-caps">Statecraft.</span> A functional
-language for quantum programming. Designed for high-level algorithmic
-reasoning, hybrid workflows for early fault-tolerance, and
-interoperability between different computational frameworks.
+<span style="font-variant: small-caps">.</span> A functional
+language for quantum programming, focusing on hybrid
 </div>
   </summary>
   <p>
