@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Creative applied research: lessons from Bell Labs
+title:
 mathjax: true
 permalink: /lab/bell
 date: 2024-02-5
 ---
+
+# Creative applied research: lessons from Bell Labs
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
@@ -505,7 +507,6 @@ mission <label for="sn-1"
 	   obligation!) to creatively explore as their research antennae
 	   dictate (*freedom*).
 Maybe the effort is distributed or self-organized via the magic of the
-internet, so no one needs to worry about money, just about time
-(*security*). 
+internet, so no one needs to worry about money, just about time (*security*).
 
-focus, security, separation, coupling, management
+separation, coupling, management
