@@ -548,9 +548,10 @@ is even more feasible than I thought!<label for="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
 I think the modern scientist has an unfortunate habit of waiting for
-institutional blessing before they start thinking.
+institutional blessing before thinking.
 </span>
 
 So, this essay has really been a lengthy preface to an idea: try the
 Bell Labs model in an open-source setting, managed through, say,
-[`Mastodon`](https://mastodon.social/explore) and [`GitHub`](https://github.com/).
+[`Mastodon`](https://mastodon.social/explore) and
+[`GitHub`](https://github.com/).
