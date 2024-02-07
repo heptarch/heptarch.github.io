@@ -42,9 +42,9 @@ its clear that money does not buy Bell-level success.
 I think the special sauce was not material—the cash flow or the
 personnel or the supply of oscilloscopes—but philosophical.
 
-This little essay represents some tentative thoughts on why Bell Labs
-was so successful as an "institute of creative technology", why
-that success has been so hard to replicate, and how one might approach
+This little essay represents some tentative thoughts on the components
+of this philosophy, why it made Bell Labs so successful as an "institute of creative technology", why
+that success has been so hard to replicate, and how one might attempt
 replication in a distributed, self-organized, small-scale fashion.
 
 ## Contents <a id="toc" name="toc"></a>
