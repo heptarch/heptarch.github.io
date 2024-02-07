@@ -56,7 +56,7 @@ replication in a distributed, self-organized, small-scale fashion.
 3. <a href="#sec-1-3"><i>Recipe for successipe</i></a>
 4. <a href="#sec-1-4"><i>More cowbell</i></a>
 5. <a href="#sec-1-5"><i>Innovation redux</i></a>
-6. <a href="#sec-1-6"><i>Bottoms up</i></a>
+6. <a href="#sec-1-6"><i>Rebel Labs</i></a>
 
 ---
 
@@ -482,7 +482,7 @@ unpredictable outcomes like lasers that benefit everyone, including your
 competitors.
 I guess you pays your money and you takes your choice.
 
-## 6. <a href="#toc">Bottoms up</a><a id="sec-1-6" name="sec-1-6"></a>
+## 6. <a href="#toc">Rebel Labs</a><a id="sec-1-6" name="sec-1-6"></a>
 
 So, let's agree that this approach is due for a
 revival. How do we manufacture a monopoly, or conjure up a steady
@@ -510,16 +510,20 @@ mission<label for="sn-1"
 Distribute the effort via the magic of the internet, with tools for
 collaboration, feedback, and a high but not prohibitive threshold of
 participation (*focus*); people need to stay engaged, but not so
-engaged that they can't afford the time (*security*).<label for="sn-1"
+engaged that they can't afford to remain involved (*security*).<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-Doing this solves the problem of security because people stay without being paid!
+Doing this solves the problem of security because people stay without
+having to pay them!
 </span>
 
-Finally, there's the thorny question of who runs the show.
-
-separation, coupling, management
+In this small-scale, distributed setting, having a grand hierarchy
+doesn't make much sense. But somebody does need to take responsibility
+for coordinating different strands of research, like an orchestra
+conductor (*management*); somebody good at communicating, and with a
+big picture sense of the problem domain so the rest of the team can
+stick to the research question/s (*separation*). Finally, 
