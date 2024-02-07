@@ -531,7 +531,7 @@ don't have to (*separation*), and finally, knows how to work the
 channel between the abstrusities of research and the real-world use
 case (*coupling*). Maybe the coupler and the convener could be
 different people, if the project gets large, but would probably
-initially both be whoever kickstarted the thing..
+initially both be whoever kickstarted the thing.
 
 Now, all this may seem quixotic and fanciful, but it's analogous to
 what happens with open-source software. The big difference would be
