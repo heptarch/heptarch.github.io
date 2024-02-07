@@ -533,7 +533,7 @@ case (*coupling*). Maybe the coupler and the convener could be
 different people, if the project gets large, but would probably
 initially both be whoever kickstarted the thing.
 
-Now, all this may seem quixotic and fanciful, but it's analogous to
+Now, all this may seem quixotic, but it's analogous to
 what happens with open-source software. The big difference would be
 degree of engagement, which is probably why "open source science" (in
 the sense I'm describing) isn't a thing. But I think it could and
