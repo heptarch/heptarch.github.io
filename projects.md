@@ -26,8 +26,8 @@ There are hundreds of ways to kneel and kiss the ground.
 1. <a href="#sec-1"><i>The Lab</i></a>
 2.  <a href="#sec-2"><i>Creative applied research: lessons from Bell Labs</i></a>
 	1. <a href="#sec-2-1"><i>The Kelly gang</i></a>
-	2. <a href="#sec-2-2"><i>Tower and boardroom</i></a>
-	3. <a href="#sec-2-3"><i>A rough successipe</i></a>
+	2. <a href="#sec-2-2"><i>Fine-tuned freedom</i></a>
+	3. <a href="#sec-2-3"><i>Recipe for successipe</i></a>
 	4. <a href="#sec-2-4"><i>More cowbell</i></a>
 	5. <a href="#sec-2-5"><i>Innovation redux</i></a>
 	6. <a href="#sec-2-6"><i>What next?</i></a>
@@ -134,7 +134,7 @@ Kelly gives us hints about this philosophy, but to help fill out the
 negative space, we can look at institutions which do
 *not* give rise to exceptional applied research.
 
-### 2.2. <a href="#toc">Tower and boardroom</a><a id="sec-2-2" name="sec-2-2"></a>
+### 2.2. <a href="#toc">Fine-tuned freedom</a><a id="sec-2-2" name="sec-2-2"></a>
 
 The Institute for Advanced Study has more material
 security, more on-paper freedom, more vertiginously abstract ivory tower, than one could poke a
@@ -243,7 +243,7 @@ connections; the product didn't govern the outcome, dictate the
 process, or provide the yardstick for success and failure.
 In Big Tech, the product *is* the outcome, the process, and the metric.
 
-### 2.3. <a href="#toc">A rough successipe</a><a id="sec-2-3" name="sec-2-3"></a>
+### 2.3. <a href="#toc">Recipe for successipe</a><a id="sec-2-3" name="sec-2-3"></a>
 
 So, to state it crudely, the IAS is all freedom and no application,
 and Big Tech is all application and no freedom.
@@ -322,7 +322,7 @@ Putting it all together, we have a crude recipe for creative applied research.
 
 ### 2.4. <a href="#toc">More cowbell</a><a id="sec-2-4" name="sec-2-4"></a>
 
-Of course, his raises the question: if Bell Labs made innovation systematic, why haven't its
+Of course, this raises the question: if Bell Labs made innovation systematic, why haven't its
 results been systematically reproduced elsewhere? IBM and Microsoft
 have tried, with some luck. I don't think Kelly's management was
 a lucky confluence, but maybe there was a lucky confluence, namely
