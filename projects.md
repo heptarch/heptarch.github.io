@@ -57,7 +57,7 @@ grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">Invisible Ink.</span> Watermarking the
 output of large language models is a problem of applied
 cryptography. Investigation of techniques for “frontmarking” and
-“backmarking”, and development of pipelines for LLM and diffusion models.
+“backmarking”, along with development of marking pipelines for LLM and diffusion models.
 </div>
   </summary>
   <p>
