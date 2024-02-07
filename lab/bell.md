@@ -492,8 +492,8 @@ technocapital benefaction, I wonder if it's possible to implement a
 partial feature set from the bottom up. What might this look like?
 Well, let's try following the recipe we worked so hard to cook up.
 
-Get a bunch of smart people together (*talent*) who like to share
-ideas, and have a wide range of expertise (*interaction*). Give them a
+A good first step is to gather a bunch of smart people(*talent*) who
+work well together, like to share ideas, and have a wide range of expertise (*interaction*). Give them a
 hard applied problem to work on (*domain*), induce a sense of
 mission<label for="sn-1"
        class="margin-toggle sidenote-number">
