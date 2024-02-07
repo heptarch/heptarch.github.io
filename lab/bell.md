@@ -528,4 +528,4 @@ conductor, the different voices harmonize (*management*). Ideally, this
 individual---we'll use the non-hierarchical term "convener"---is good
 with people, has a global sense of the domain so the research folks
 don't have to (*separation*), and finally, knows how to work the
-channel between the abstrusities of research and real-world use case (*coupling*).
+channel between the abstrusities of research and the real-world use case (*coupling*).
