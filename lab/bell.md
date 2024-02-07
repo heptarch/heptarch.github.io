@@ -506,7 +506,6 @@ mission<label for="sn-1"
 	   </span> (*mandate*), and give them the permission (or perhaps
 	   obligation!) to creatively explore the domain as their antennae
 	   dictate (*freedom*).
-Maybe the effort is distributed or self-organized via the magic of the
-internet, so no one needs to worry about money, just about time (*security*).
+Distribute the effort via the magic of the internet, with tools
 
 separation, coupling, management
