@@ -489,5 +489,5 @@ I guess you pays your money and you takes your choice.
 ### 2.6. <a href="#toc">What next?</a><a id="sec-2-6" name="sec-2-6"></a>
 
 So, let's agree that this approach is due for a
-revival. It's based on simple principles, and done right, can generate
-spectacular results. It isn't popular, but that doesn't mean it's a bad idea!
+revival. How do we manufacture a monopoly, or conjure up a steady
+money supply? We can't. 
