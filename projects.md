@@ -16,9 +16,11 @@ grey; line-height:1.5">
   <summary>
 <div style="background-color: #202229 ; padding: 20px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<span style="font-variant: small-caps">Statecraft.</span> A functional
-language for quantum programming. Designed for high-level algorithmic
-reasoning, hybrid workflows for early fault-tolerance, and
+<span style="font-variant: small-caps">Statecraft.</span> Existing quantum
+programming languages do not use natural, high-level
+algorithmic representations and thus do not facilitate natural,
+high-level algorithmic reasoning. Mathematical exploration and
+language design, with hybrid workflows for early fault-tolerance and
 interoperability between different quantum computational frameworks.
 </div>
   </summary>
@@ -52,7 +54,10 @@ grey; line-height:1.5">
   <summary>
 <div style="background-color: #202229 ; padding: 20px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<span style="font-variant: small-caps">.</span>
+<span style="font-variant: small-caps">Invisible Ink.</span> Watermarking the
+output of large language models is a problem of applied
+cryptography. Investigation of techniques for “frontmarking” and
+“backmarking”, and development of pipelines for LLM and diffusion models.
 </div>
   </summary>
   <p>
