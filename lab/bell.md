@@ -1,12 +1,10 @@
 ---
 layout: page
-title:
+title: Creative applied research: lessons from Bell Labs
 mathjax: true
 permalink: /lab/bell
 date: 2024-02-5
 ---
-
-## Creative applied research: lessons from Bell Labs
 
 ### Contents <a id="toc" name="toc"></a>
 
