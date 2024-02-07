@@ -6,17 +6,6 @@ permalink: /lab/bell
 date: 2024-02-5
 ---
 
-## Contents <a id="toc" name="toc"></a>
-
-1. <a href="#sec-1-1"><i>The Kelly gang</i></a>
-2. <a href="#sec-1-2"><i>Fine-tuned freedom</i></a>
-3. <a href="#sec-1-3"><i>Recipe for successipe</i></a>
-4. <a href="#sec-1-4"><i>More cowbell</i></a>
-5. <a href="#sec-1-5"><i>Innovation redux</i></a>
-6. <a href="#sec-1-6"><i>Bottoms up</i></a>
-
----
-
 Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
 lasers, the transistor, information theory, modern cryptography,
 error-correcting codes, the Cosmic Microwave Background, electron diffraction, photovoltaic cells,
@@ -42,6 +31,17 @@ This little essay represents some tentative thoughts on why Bell Labs
 was so successful as an "institute of creative technology", why
 that success has been so hard to replicate, and how one might approach
 replication in a distributed, self-organized, small-scale fashion.
+
+## Contents <a id="toc" name="toc"></a>
+
+1. <a href="#sec-1-1"><i>The Kelly gang</i></a>
+2. <a href="#sec-1-2"><i>Fine-tuned freedom</i></a>
+3. <a href="#sec-1-3"><i>Recipe for successipe</i></a>
+4. <a href="#sec-1-4"><i>More cowbell</i></a>
+5. <a href="#sec-1-5"><i>Innovation redux</i></a>
+6. <a href="#sec-1-6"><i>Bottoms up</i></a>
+
+---
 
 ## 1. <a href="#toc">The Kelly gang</a><a id="sec-1-1" name="sec-1-1"></a>
 
@@ -472,4 +472,9 @@ revival. How do we manufacture a monopoly, or conjure up a steady
 stream of coin? We can't. Maybe sprawling, shiny facilities for $O(n)$
 labs, with robust all-to-all chatter? Nope. In lieu of top-down
 technocapital benefaction, I wonder if it's possible to implement a
-partial feature set from the bottom up. What might this look 
+partial feature set from the bottom up. What might this look like?
+Well, we just go through and follow the recipe.
+
+Get a bunch of smart people together (*talent*) who like to share
+ideas, and have a wide range of expertise (*interaction*). Give them a
+hard applied problem to work on (*domain*), 
