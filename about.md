@@ -31,7 +31,7 @@ const items = [
             {
             formula: '$$\\zeta(s) = \\prod_{p\\in\\mathbb{P}} \\frac{1}{1-p^{-s}}$$', // Functional equation eta
             imageUrl: 'https://heptar.ch/img/bio/zeta.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Riemann_zeta_function#Euler's_product_formula' 
+			link: 'https://en.wikipedia.org/wiki/Proof_of_the_Euler_product_formula_for_the_Riemann_zeta_function' 
             },
         ];
 
