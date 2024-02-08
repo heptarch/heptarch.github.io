@@ -29,9 +29,9 @@ const items = [
 			link: 'https://en.wikipedia.org/wiki/Generalized_Stokes_theorem' 
             },
             {
-            formula: '$$\\int_{\\partial\\mathcal{M}}\\omega=\\int_{\\mathcal{M}}\\mathrm{d}\\omega$$', // Euler's identity
-            imageUrl: 'https://heptar.ch/img/bio/stokes.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Generalized_Stokes_theorem' 
+            formula: '$$\\zeta(s) = \\prod_{p\\in\\mathbb{P}} \\frac{1}{1-p^{-s}}$$', // Functional equation eta
+            imageUrl: 'https://heptar.ch/img/bio/zeta.svg', // URL of the SVG image
+			link: 'https://en.wikipedia.org/wiki/Riemann_zeta_function#Euler's_product_formula' 
             },
         ];
 
