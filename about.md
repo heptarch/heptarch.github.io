@@ -6,7 +6,7 @@ permalink: /bio/
 ---
 
 <div style="padding: 0px; border: 0px solid #000;
-margin: 40px 0px 40px 0px; text-align: center">Cyborg, hacker,<label for="sn-1"
+margin: 20px 40px 0px 40px; text-align: center">Cyborg, hacker,<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
