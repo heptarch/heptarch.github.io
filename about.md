@@ -25,7 +25,7 @@ const items = [
             },
             {
             formula: '$$\\int_{\\partial\\mathcal{M}}\\omega=\\int_{\\mathcal{M}}\\mathrm{d}\\omega$$', // Euler's identity
-            imageUrl: 'https://heptar.ch/img/bio/sato.svg', // URL of the SVG image
+            imageUrl: 'https://heptar.ch/img/bio/stokes.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Generalized_Stokes_theorem' 
             },
         ];
