@@ -9,6 +9,12 @@ permalink: /bio/
 margin: 20px 0; text-align: center">Physics hacker, cyborg,
 interdimensional wizard.</div>
 
+<div style="text-align:center; padding:5px"><a rel="license"
+href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+</div>
+
 ---
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -43,12 +49,6 @@ const items = [
             MathJax.typesetPromise();
         }
 		</script>
-
-<div style="text-align:center; padding:15px"><a rel="license"
-href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
-alt="Creative Commons License" style="border-width:0"
-src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-</div>
 
 <!-- "Saxifrage" means "stone breaker". These tiny, five-petalled -->
 <!-- flowers are the toughest and most northernmost growing plants on -->
