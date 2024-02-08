@@ -6,7 +6,7 @@ permalink: /bio/
 ---
 
 <div style="padding: 0px; border: 0px solid #000;
-margin: 20px 0; text-align: center">Cyborg, wizard.</div>
+margin: 20px 0; text-align: center">Cyborg, hacker, interdimensional wizard.</div>
 
 ---
 
@@ -28,17 +28,17 @@ const items = [
 			link: 'https://en.wikipedia.org/wiki/Generalized_Stokes_theorem' 
             },
             {
-            formula: '$$\\zeta(s) = \\prod_{p\\in\\mathbb{P}} \\frac{1}{1-p^{-s}}$$', // Functional equation eta
+            formula: '$$\\zeta(s) = \\prod_{p\\in\\mathbb{P}} \\frac{1}{1-p^{-s}}$$', // Euler's product formula
             imageUrl: 'https://heptar.ch/img/bio/zeta.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Proof_of_the_Euler_product_formula_for_the_Riemann_zeta_function' 
             },
             {
-            formula: '$$D = \\frac{k_{\\text{B}}T}{6\\pi \\eta R}$$', // Functional equation eta
+            formula: '$$D = \\frac{k_{\\text{B}}T}{6\\pi \\eta R}$$', // Einstein-Stokes
             imageUrl: 'https://heptar.ch/img/bio/brownian.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)' 
             },
             {
-            formula: '$$n! \\sim \\sqrt{2\\pi n}\\left(\\frac{n}{e}\\right)^n$$', // Functional equation eta
+            formula: '$$n! \\sim \\sqrt{2\\pi n}\\left(\\frac{n}{e}\\right)^n$$', // Stirling's formula
             imageUrl: 'https://heptar.ch/img/bio/stirling.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Stirling%27s_approximation' 
             },
