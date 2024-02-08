@@ -38,6 +38,11 @@ const items = [
             imageUrl: 'https://heptar.ch/img/bio/brownian.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)' 
             },
+            {
+            formula: '$$n! \\sim \\sqrt{2\\pi n}\\left(\\frac{n}{e}\\right)^n$$', // Functional equation eta
+            imageUrl: 'https://heptar.ch/img/bio/stirling.svg', // URL of the SVG image
+			link: 'https://en.wikipedia.org/wiki/Stirling%27s_approximation' 
+            },
         ];
 
         window.onload = function() {
