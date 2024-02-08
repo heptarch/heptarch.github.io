@@ -16,7 +16,7 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/logos/statecraft.svg" width="30"/>
+    ="/img/logos/statecraft.svg" width="60"/>
 	</div>
 	</figure>
 	
