@@ -17,7 +17,7 @@ grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
     ="/img/logos/statecraft.svg" width="150px"/><br>
-<span style="font-variant: small-caps">Statecraft</span>
+<span style="font-variant: small-caps">StateCraft</span>
 	</div>
 	</figure>
 
