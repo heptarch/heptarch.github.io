@@ -39,8 +39,6 @@ const items = [
         }
 		</script>
 
----
-
 <div style="text-align:center; padding:15px"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
 alt="Creative Commons License" style="border-width:0"
