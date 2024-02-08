@@ -6,8 +6,7 @@ permalink: /bio/
 ---
 
 <div style="padding: 0px; border: 0px solid #000;
-margin: 20px 0; text-align: center">Physics hacker, cyborg,
-interdimensional wizard.</div>
+margin: 20px 0; text-align: center">Cyborg, wizard.</div>
 
 ---
 
