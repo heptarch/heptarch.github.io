@@ -23,6 +23,11 @@ const items = [
             imageUrl: 'https://heptar.ch/img/bio/sato.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series' 
             },
+            {
+            formula: '$$\\int_{\\partial\\mathcal{M}}\\omega=\\int_{\\mathcal{M}}\\mathrm{d}\\omega$$', // Euler's identity
+            imageUrl: 'https://heptar.ch/img/bio/sato.svg', // URL of the SVG image
+			link: 'https://en.wikipedia.org/wiki/Generalized_Stokes_theorem' 
+            },
         ];
 
         window.onload = function() {
