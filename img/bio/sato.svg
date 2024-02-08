@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   sodipodi:docname="epi.svg"
+   sodipodi:docname="sato.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.7527471"
-     inkscape:cx="116.79242"
-     inkscape:cy="61.938127"
+     inkscape:cx="94.08783"
+     inkscape:cy="28.880241"
      inkscape:window-width="1296"
      inkscape:window-height="923"
      inkscape:window-x="0"
@@ -76,37 +76,39 @@
        r="0.93625057" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681;font-weight:bold;font-stretch:normal;font-variant:normal"
+       style="font-style:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681;font-weight:500;font-stretch:normal;font-variant:normal"
        x="92.288429"
        y="136.07748"
        id="text16270"><tspan
          sodipodi:role="line"
          id="tspan16268"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
          x="92.288429"
          y="136.07748">1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif Extra';-inkscape-font-specification:'CMU Serif Extra Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681;font-weight:bold;font-stretch:normal;font-variant:normal"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif Extra';-inkscape-font-specification:'CMU Serif Extra Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
        x="107.00599"
        y="147.55717"
        id="text16324"><tspan
          sodipodi:role="line"
          id="tspan16322"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif Extra';-inkscape-font-specification:'CMU Serif Extra Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif Extra';-inkscape-font-specification:'CMU Serif Extra Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
          x="107.00599"
          y="147.55717">π</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-size:3.90535px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0976338;font-weight:bold;font-stretch:normal;font-variant:normal"
-       x="110.83257"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.90535px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0976338"
+       x="110.64034"
        y="145.34731"
        id="text17054"><tspan
          sodipodi:role="line"
          id="tspan17052"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0976338"
-         x="110.83257"
-         y="145.34731">–1</tspan></text>
+         x="110.64034"
+         y="145.34731">–<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'"
+   id="tspan22798">1</tspan></tspan></text>
     <circle
        style="fill:#888888;fill-opacity:1;stroke:#d6d6d6;stroke-width:0.189381;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        id="circle19264"
@@ -121,27 +123,27 @@
        r="0.35463449" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
-       x="119.61337"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
+       x="118.5561"
        y="152.72246"
        id="text19287"><tspan
          sodipodi:role="line"
          id="tspan19285"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
-         x="119.61337"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
+         x="118.5561"
          y="152.72246">a<tspan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold Italic'"
+   style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic'"
    id="tspan19289" /></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.94791px;line-height:1.25;font-family:'CMU Serif Extra';-inkscape-font-specification:'CMU Serif Extra Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0736978"
-       x="123.03898"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.94791px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0736978"
+       x="121.59724"
        y="153.53638"
        id="text19295"><tspan
          sodipodi:role="line"
          id="tspan19293"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0736978"
-         x="123.03898"
+         style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0736978"
+         x="121.59724"
          y="153.53638">n</tspan></text>
   </g>
 </svg>
