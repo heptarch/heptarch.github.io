@@ -24,13 +24,11 @@ language design, with hybrid workflows for early fault-tolerance and
 interoperability between different quantum computational frameworks.
 </div>
   </summary>
-  <details>
-  <summary>
-  <span style="font-variant: small-caps">Background</span>
-    </summary>
   <p>
+<span style="font-variant: small-caps">Background</span> 
+<hr style="width:50%; margin-left:0px;height:15px">
+To do.
   </p>
-  </details>
 </details>
 </div>
 
