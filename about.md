@@ -15,7 +15,8 @@ margin: 20px 0; text-align: center">Cyborg, hacker,<label for="sn-1"
 	   <span class="sidenote">
 Think <a href="https://en.wikipedia.org/wiki/Hacker_culture">hacker
 culture</a> and not <a href="https://en.wikipedia.org/wiki/Security_hacker">cracker</a>.
-</span> interdimensional wizard.</div>
+</span> interdimensional wizard. Making wonder cool again one dumb
+idea at a time.</div>
 
 ---
 
