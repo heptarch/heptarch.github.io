@@ -25,6 +25,8 @@ interoperability between different quantum computational frameworks.
 </div>
   </summary>
   <p>
+<span style="font-variant: small-caps">Background</span> 
+<hr>
 To do.
   </p>
 </details>
