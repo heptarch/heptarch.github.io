@@ -20,7 +20,7 @@ interdimensional wizard.</div>
 const items = [
             {
             formula: '$$\\frac{1}{\\pi}= \\frac{2\\sqrt{2}}{9801}\\sum_{n=0}^{\\infty} \\frac{(4n)!}{(n!)^4}\\frac{26390 n+1103}{396^{4n}}$$', // Euler's identity
-            imageUrl: 'https://heptar.ch/img/bio/epi.svg', // URL of the SVG image
+            imageUrl: 'https://heptar.ch/img/bio/sato.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series' 
             },
         ];
