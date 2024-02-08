@@ -76,37 +76,37 @@
        r="0.93625057" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681;font-weight:500;font-stretch:normal;font-variant:normal"
-       x="92.288429"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
+       x="91.759262"
        y="136.07748"
        id="text16270"><tspan
          sodipodi:role="line"
          id="tspan16268"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
-         x="92.288429"
+         x="91.759262"
          y="136.07748">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif Extra';-inkscape-font-specification:'CMU Serif Extra Bold Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
        x="107.00599"
-       y="147.55717"
+       y="147.02802"
        id="text16324"><tspan
          sodipodi:role="line"
          id="tspan16322"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif Extra';-inkscape-font-specification:'CMU Serif Extra Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
          x="107.00599"
-         y="147.55717">π</tspan></text>
+         y="147.02802">π</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.90535px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0976338"
        x="110.64034"
-       y="145.34731"
+       y="144.81815"
        id="text17054"><tspan
          sodipodi:role="line"
          id="tspan17052"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0976338"
          x="110.64034"
-         y="145.34731">–<tspan
+         y="144.81815">–<tspan
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium'"
    id="tspan22798">1</tspan></tspan></text>
     <circle
@@ -125,25 +125,25 @@
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.82724px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
        x="118.5561"
-       y="152.72246"
+       y="153.25162"
        id="text19287"><tspan
          sodipodi:role="line"
          id="tspan19285"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.145681"
          x="118.5561"
-         y="152.72246">a<tspan
+         y="153.25162">a<tspan
    style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic'"
    id="tspan19289" /></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.94791px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0736978"
        x="121.59724"
-       y="153.53638"
+       y="154.06554"
        id="text19295"><tspan
          sodipodi:role="line"
          id="tspan19293"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium Italic';fill:#dfdfdf;fill-opacity:1;stroke-width:0.0736978"
          x="121.59724"
-         y="153.53638">n</tspan></text>
+         y="154.06554">n</tspan></text>
   </g>
 </svg>
