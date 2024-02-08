@@ -33,6 +33,11 @@ const items = [
             imageUrl: 'https://heptar.ch/img/bio/zeta.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Proof_of_the_Euler_product_formula_for_the_Riemann_zeta_function' 
             },
+            {
+            formula: '$$D = \\frac{k_{\\text{B}}T}{6\\pi \\eta R}$$', // Functional equation eta
+            imageUrl: 'https://heptar.ch/img/bio/brownian.svg', // URL of the SVG image
+			link: 'https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)' 
+            },
         ];
 
         window.onload = function() {
