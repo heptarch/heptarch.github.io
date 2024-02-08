@@ -19,9 +19,14 @@ interdimensional wizard.</div>
 <script>
 const items = [
             {
-            formula: '$$\\frac{1}{\\pi}= \\frac{2\\sqrt{2}}{9801}\\sum_{n=0}^{\\infty} \\frac{(4n)!}{(n!)^4}\\frac{26390 n+1103}{396^{4n}}$$', // Euler's identity
+            formula: '$$\\frac{1}{\\pi}= \\frac{2\\sqrt{2}}{9801}\\sum_{n=0}^{\\infty} \\frac{(4n)!}{(n!)^4}\\frac{26390 n+1103}{396^{4n}}$$', // Ramanujan-Sato
             imageUrl: 'https://heptar.ch/img/bio/sato.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series' 
+            },
+            {
+            formula: '$$\\int_{\\partial\\mathcal{M}}\\omega=\\int_{\\mathcal{M}}\\mathrm{d}\\omega$$', // Stokes theorem
+            imageUrl: 'https://heptar.ch/img/bio/stokes.svg', // URL of the SVG image
+			link: 'https://en.wikipedia.org/wiki/Generalized_Stokes_theorem' 
             },
             {
             formula: '$$\\int_{\\partial\\mathcal{M}}\\omega=\\int_{\\mathcal{M}}\\mathrm{d}\\omega$$', // Euler's identity
