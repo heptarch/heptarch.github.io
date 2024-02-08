@@ -6,7 +6,16 @@ permalink: /bio/
 ---
 
 <div style="padding: 0px; border: 0px solid #000;
-margin: 20px 0; text-align: center">Cyborg, hacker, interdimensional wizard.</div>
+margin: 20px 0; text-align: center">Cyborg, hacker,<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+Think <a href="https://en.wikipedia.org/wiki/Hacker_culture">hacker
+culture</a> and not <a href="https://en.wikipedia.org/wiki/Security_hacker">cracker</a>.
+</span> interdimensional wizard.</div>
 
 ---
 
