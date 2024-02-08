@@ -37,7 +37,9 @@ const items = [
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
         }
-</script>
+		</script>
+
+---
 
 <div style="text-align:center; padding:15px"><a rel="license"
 href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
