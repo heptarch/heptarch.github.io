@@ -14,13 +14,13 @@ Below are a few applied research problems I'm thinking about.<label for="sn-1"
 	   <span class="sidenote">
 	   More details, including background reading, notes, code bases, and so on,
 	   will be added in the dropdown boxes soon.
-	   </span>
 I've tried to cast each as a "deliverable" to give a well-delineated scope, mission, and
 real-world use case; for more on why this is important,
 [read my essay](/bell).
+	   </span>
 If you would like to get involved, email me at [`7@heptar.ch`](mailto:
 7@heptar.ch).
-You may wish to answer some of the questions on the research compatibility [questionnaire](questions).
+You may wish to answer some of the questions on the [research compatibility questionnaire](questions).
 
 <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
 grey; line-height:1.5">
