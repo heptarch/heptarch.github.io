@@ -85,7 +85,7 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/ink.svg" width="80px"/><br>
+    ="/img/logos/ink.svg" width="90px"/><br>
 <span style="font-variant: small-caps">Invisible Ink</span>
 	</div>
 	</figure>
@@ -94,7 +94,7 @@ Watermarking the
 output of large language models is a problem of applied
 cryptography. This project aims to explore techniques for
 “backmarking” (implanting watermarks during training) and "frontmarking"
-(layering watermarks over a trained model). One output would be robust marking pipelines for LLM and diffusion models.
+(layering watermarks over a trained model). Optimistically, the outcome would be robust marking pipelines for LLM and diffusion models.
 </div>
   </summary>
   <p>
