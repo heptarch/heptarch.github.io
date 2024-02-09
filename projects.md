@@ -85,7 +85,7 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/pax.svg" width="80px"/><br>
+    ="/img/logos/ink.svg" width="80px"/><br>
 <span style="font-variant: small-caps">Invisible Ink</span>
 	</div>
 	</figure>
