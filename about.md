@@ -45,7 +45,7 @@ permalink: /bio/
 
        const bios = [
            {
-		   bio: 'Cyborg, hacker, interdimensional wizard.',
+		   bio: 'Cyborg, hacker, and interdimensional wizard.',
 		   },
            {
 		   bio: 'After studying law, philosophy, math, and physics, I\'ve learned that school is boring.',
