@@ -20,6 +20,7 @@ grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">StateCraft</span>
 	</div>
 	</figure>
+	<hr>
 Existing quantum
 programming languages do not use natural, high-level
 algorithmic representations and thus do not facilitate natural,
