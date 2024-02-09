@@ -48,13 +48,10 @@ permalink: /bio/
 		   bio: 'Cyborg, hacker, interdimensional wizard.',
 		   },
            {
-		   bio: 'After studying law, philosophy, math, and physics, I've learned that school is boring.',
+		   bio: 'After studying law, philosophy, pure math, particle physics, and string theory, I've concluded I don't like school.',
 		   },
            {
-		   bio: 'Heptarchs were Anglo-Saxon kings during the early middle ages.',
-		   },
-           {
-           bio: 'Making wonder cool again, one dumb idea at a time.',
+           bio: 'Making wonder cool again, one goofball project and dumb question at a time.',
 		   },
            {
            bio: '<a href="https://inspirehep.net/authors/1868975">High-energy theorist</a> turned <a href="https://xanadu.ai/">quantum machine learning</a> researcher.',
