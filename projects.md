@@ -83,7 +83,14 @@ grey; line-height:1.5">
   <summary>
 <div style="background-color: #202229 ; padding: 20px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<span style="font-variant: small-caps">Invisible Ink.</span> Watermarking the
+<figure>
+    <div style="text-align:center; padding: 5px"><img src
+    ="/img/logos/pax.svg" width="80px"/><br>
+<span style="font-variant: small-caps">Invisible Ink</span>
+	</div>
+	</figure>
+	<hr style="width:50%;height:15px">
+Watermarking the
 output of large language models is a problem of applied
 cryptography. Investigation of techniques for “frontmarking” and
 “backmarking”, along with development of marking pipelines for LLM and diffusion models.
