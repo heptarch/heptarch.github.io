@@ -54,7 +54,7 @@ permalink: /bio/
 		   bio: 'Below is a randomized playlist of some of my favourite equations. Enjoy the nerdiness!',
 		   },
            {
-		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the early middle ages. And a cool name!',
+		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the early middle ages. Also, prog metal vibes.',
 		   },
            {
            bio: 'Making wonder cool again, one stupid question at a time.',
