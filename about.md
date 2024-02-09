@@ -51,7 +51,7 @@ permalink: /bio/
            bio: 'Making wonder cool again, one dumb idea at a time.',
 		   },
            {
-           bio: 'Quantum machine learning researcher at <a href="https://xanadu.ai/">Xanadu</a> with a healthy imagination and .',
+           bio: 'Quantum machine learning researcher at <a href="https://xanadu.ai/">Xanadu</a> with an extra core or two.',
 		   },
         ];
 
