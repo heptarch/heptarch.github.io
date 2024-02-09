@@ -6,8 +6,7 @@ permalink: /lab/
 date: 2024-02-5
 ---
 
-Below are brief descriptions of research areas that I'm
-thinking about.<label for="sn-1"
+Below are brief overviews of applied research problems I'm thinking about.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
