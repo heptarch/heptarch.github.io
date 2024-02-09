@@ -45,10 +45,10 @@ permalink: /bio/
 
        const bios = [
            {
-		   bio: "Cyborg, hacker, interdimensional wizard.",
+		   bio: 'Cyborg, hacker, interdimensional wizard.',
 		   },
            {
-          bio: "Making wonder cool again, one dumb idea at a time.",
+           bio: 'Making wonder cool again, one dumb idea at a time.',
 		   },
         ];
 
@@ -68,8 +68,9 @@ permalink: /bio/
 
 	    function displayRandomBio() {
             const bioIndex = Math.floor(Math.random() * bios.length);
-            const bio = bio[bioIndex];
-            document.getElementById('bio').innerText = bio;
+            const bio = bios[bioIndex];
+            const contentDiv = document.getElementById('bio');
+            contentDiv.innerHTML = `<p>${item.bio}</p>`;
         }
 		</script>
 
