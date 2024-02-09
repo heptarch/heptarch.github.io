@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research compatibility questionnaire
+title:
 mathjax: true
 permalink: /lab/questions
 ---
