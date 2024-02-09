@@ -15,7 +15,7 @@ permalink: /bio/
 <div id="content" style="text-align:center"></div>
 
 <script>
-const items = [
+       const items = [
             {
             formula: '$$\\frac{1}{\\pi}= \\frac{2\\sqrt{2}}{9801}\\sum_{n=0}^{\\infty} \\frac{(4n)!}{(n!)^4}\\frac{26390 n+1103}{396^{4n}}$$', // Ramanujan-Sato
             imageUrl: 'https://heptar.ch/img/bio/sato.svg', // URL of the SVG image
