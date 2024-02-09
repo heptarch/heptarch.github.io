@@ -57,7 +57,8 @@ Decentralized money
 is a cool idea in theory but tends to be slow, expensive and effectively
 centralized in practice. The goal of this project is to explore the scalability, security,
 and policy implications of untrusted centralization, i.e. you don't
-trust the bank. Can the bank convince you?
+trust the bank. Can the bank convince you, mathematically, that it's
+doing what you expect?
 </div>
   </summary>
   <p>
