@@ -12,7 +12,7 @@ into quantum algorithms and the capabilities of quantum computers for
 generalization.
 
 /Image/style credits to Tarik Elkhateeb and the
-[[https://pennylane.ai/qml/whatisqml/][What is QML?]] page./
+[[https://pennylane.ai/qml/whatisqml/][What is QML?]] page. For non-QML content, return to [[https://heptar.ch][heptar.ch]]./
 
 * An overview of QML
 -----
