@@ -51,7 +51,7 @@ permalink: /bio/
 		   bio: 'After studying law, philosophy, pure math, particle physics, and string theory, I've learned that school is boring.',
 		   },
            {
-		   bio: 'After studying law, philosophy, pure math, particle physics, and string theory, .',
+		   bio: 'Heptarchs were Anglo-Saxon kings during the early middle ages.',
 		   },
            {
            bio: 'Making wonder cool again, one dumb idea at a time.',
