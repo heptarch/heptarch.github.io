@@ -36,10 +36,10 @@ grey; line-height:1.5; border-radius: 15px">
 <hr style="width:50%;height:15px">
 Existing quantum
 programming languages do not use natural, high-level
-algorithmic representations and thus do not facilitate natural,
-high-level algorithmic reasoning. Mathematical exploration and
-language design, with hybrid workflows for early fault-tolerance and
-interoperability between different quantum computational frameworks.
+algorithmic representations, so they can't facilitate natural,
+high-level algorithmic reasoning. Goal here is to think about new
+algorithmic primitives, interoperability between different
+computational frameworks, and the corresponding language design.
 </div>
   </summary>
   <p>
