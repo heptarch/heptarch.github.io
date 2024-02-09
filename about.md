@@ -5,34 +5,12 @@ mathjax: true
 permalink: /bio/
 ---
 
-<div id="about" style="text-align:center; margin: 20px"></div>
-
-<script>
-const items = [
-            {
-			bio: 'Cyborg, hacker, interdimensional wizard.'
-            },
-            {
-			bio: ' Making wonder cool again, one dumb idea at a time. '
-            },
-        ];
-
-        window.onload = function() {
-            generateRandomItem();
-        };
-
-        function generateRandomItem() {
-            const itemIndex = Math.floor(Math.random() * items.length);
-            const item = items[itemIndex];
-            const contentDiv = document.getElementById('about');
-            contentDiv.innerHTML = `<p>${item.bio}</1>`;
-        }
-		</script>
-
----
-
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<div id="about" style="text-align:center; margin: 20px"></div>
+
+---
 
 <div id="content" style="text-align:center"></div>
 
@@ -65,8 +43,14 @@ const items = [
             },
         ];
 
+       const bios = [
+          "Cyborg, hacker, interdimensional wizard.",
+          " Making wonder cool again, one dumb idea at a time.",
+        ];
+
         window.onload = function() {
             generateRandomItem();
+	        displayRandomBio();
         };
 
         function generateRandomItem() {
@@ -76,6 +60,12 @@ const items = [
             contentDiv.innerHTML = `<p>${item.formula}</p><a href=${item.link}><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;"></a>`;
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
+			}
+
+	    function displayRandomBio() {
+            const bioIndex = Math.floor(Math.random() * bios.length);
+            const bio = bio[bioIndex];
+            document.getElementById('bio').innerText = bio;
         }
 		</script>
 
