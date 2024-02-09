@@ -18,7 +18,7 @@ see [my essay](/bell).
 	   </span>
 If you would like to get involved, email me at [`7@heptar.ch`](mailto:
 7@heptar.ch).
-You may wish to answer the [research questionnaire](questions).
+You may also wish to answer the [research questionnaire](questions).
 
 <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
 grey; line-height:1.5">
