@@ -63,11 +63,14 @@ permalink: /bio/
            bio: 'Making wonder cool again, one stupid question at a time.',
 		   },
            {
-           bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned <a href="https://heptar.ch/qml/landing.html">QML</a> researcher and mad scientist at large.',
+           bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned mad scientist and <a href="https://heptar.ch/qml/landing.html">quantum mechanic</a>.',
 		   },
 		   // AI ones
            {
            bio: 'I spend most of my time building weird things from scratch, then abandoning them for something even weirder.',
+		   },
+           {
+           bio: 'I believe that science, art, and culture thrive in conditions of openness and connection.',
 		   },
         ];
 
