@@ -1,5 +1,7 @@
 I'm a *quantum machine learning (QML)* researcher in [[https://scholar.google.com/citations?user=_ih_hwUAAAAJ&hl=de][Maria Schuld's]]
-group at [[https://xanadu.ai/][Xanadu]]. QML is a research area that explores the
+group at [[https://xanadu.ai/][Xanadu]]. I'm interested in quantum algorithms, statistical
+learning theory, and symmetry.
+QML is a research area that explores the
 interplay of ideas from quantum computing and machine learning.
 This goes in both directions.
 We can ask if the unique abilities of quantum computers can help us
