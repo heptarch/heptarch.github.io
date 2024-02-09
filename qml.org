@@ -11,8 +11,8 @@ On the other hand, classical machine learning can give us insights
 into quantum algorithms and the capabilities of quantum computers for
 generalization.
 
-/Image/style credits to Tarik Elkhateeb and the
-[[https://pennylane.ai/qml/whatisqml/][What is QML?]] page. For non-QML content, return to [[https://heptar.ch][heptar.ch]]./
+/Image/style credits to Tarik Elkhateeb and the PennyLane
+[[https://pennylane.ai/qml/whatisqml/][What is QML?]] page. For non-QML content, see [[https://heptar.ch][heptar.ch]]./
 
 * An overview of QML
 -----
