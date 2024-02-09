@@ -5,7 +5,7 @@ mathjax: true
 permalink: /bio/
 ---
 
-<div id="bio" style="text-align:center; margin: 20px"></div>
+<div id="about" style="text-align:center; margin: 20px"></div>
 
 <script>
 const items = [
@@ -24,8 +24,8 @@ const items = [
         function generateRandomItem() {
             const itemIndex = Math.floor(Math.random() * items.length);
             const item = items[itemIndex];
-            const contentDiv = document.getElementById('bio');
-            contentDiv.innerHTML = `${item.bio}`;
+            const contentDiv = document.getElementById('about');
+            contentDiv.innerHTML = `<p>${item.bio}</1>`;
         }
 		</script>
 
