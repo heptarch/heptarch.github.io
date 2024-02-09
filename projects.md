@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: `Rebel Labs`
 mathjax: true
 permalink: /lab/
 ---
