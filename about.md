@@ -44,8 +44,12 @@ permalink: /bio/
         ];
 
        const bios = [
-          "Cyborg, hacker, interdimensional wizard.",
-          " Making wonder cool again, one dumb idea at a time.",
+           {
+		   bio: "Cyborg, hacker, interdimensional wizard.",
+		   },
+           {
+          bio: "Making wonder cool again, one dumb idea at a time.",
+		   },
         ];
 
         window.onload = function() {
