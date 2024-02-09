@@ -13,8 +13,8 @@ Below are a few applied research problems I'm thinking about.<label for="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
 I've tried to cast each as a "deliverable" to give a well-delineated scope, mission, and
-real-world use case; for more on why this is important,
-[read my essay](/bell).
+real-world use case; for more on why I think this is a good idea,
+see [my essay](/bell).
 	   </span>
 If you would like to get involved, email me at [`7@heptar.ch`](mailto:
 7@heptar.ch).
