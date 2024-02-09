@@ -5,9 +5,7 @@ mathjax: true
 permalink: /bio/
 ---
 
-<div style="padding: 0px; border: 0px solid #000;
-margin: 20px ; text-align: center">Cyborg, hacker, interdimensional wizard. Making wonder cool again, one dumb
-idea at a time.</div>
+<div id="bio" style="text-align:center; margin: 20px"></div>
 
 ---
 
@@ -56,6 +54,28 @@ const items = [
             contentDiv.innerHTML = `<p>${item.formula}</p><a href=${item.link}><img src="${item.imageUrl}" alt="Mathematical Formula" style="max-width:100%;height:auto;"></a>`;
             // Trigger MathJax to process and render the new formula
             MathJax.typesetPromise();
+        }
+		</script>
+
+<script>
+const items = [
+            {
+			bio: 'Cyborg, hacker, interdimensional wizard.'
+            },
+            {
+			bio: ' Making wonder cool again, one dumb idea at a time. '
+            },
+        ];
+
+        window.onload = function() {
+            generateRandomItem();
+        };
+
+        function generateRandomItem() {
+            const itemIndex = Math.floor(Math.random() * items.length);
+            const item = items[itemIndex];
+            const contentDiv = document.getElementById('bio');
+            contentDiv.innerHTML = `${item.bio}`;
         }
 		</script>
 
