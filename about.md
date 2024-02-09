@@ -60,7 +60,7 @@ permalink: /bio/
            bio: 'Making wonder cool again, one stupid question and goofball project at a time.',
 		   },
            {
-           bio: '<a href="https://inspirehep.net/authors/1868975">High-energy theorist</a> turned <a href="https://xanadu.ai/">quantum machine learning</a> researcher and mad scientist.',
+           bio: '<a href="https://inspirehep.net/authors/1868975">High-energy theorist</a> turned <a href="https://xanadu.ai/">quantum machine learning</a> researcher and <a href="heptar.ch">mad scientist</a>.',
 		   },
         ];
 
