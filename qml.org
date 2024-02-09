@@ -29,7 +29,7 @@ architecture is superior for certain tasks. This leads to a class of
 algorithms called *variational quantum circuits (VQC)*.
 
 #+ATTR_HTML: :alt ML image :align center :width 400px :style display:inline;margin:-80px;
-[[./img/Quantum_machine_learning.svg]]
+[[./qml-img/Quantum_machine_learning.svg]]
 
 On the other hand, we can use classical tools such as
 *Fourier series* and *kernel learning* to characterize quantum
@@ -47,7 +47,7 @@ benchmarks---performance on real datasets---to see how they
 stack up, as is standard practice in classical ML.
 
 #+ATTR_HTML: :alt ML image :align center :width 400px :style display:inline;margin:-40px;
-[[./img/NISQ_machine_learning.svg]]
+[[./qml-img/NISQ_machine_learning.svg]]
 
 The quantum devices you can find in the lab right now are error-prone
 and modest in size. They
@@ -74,7 +74,7 @@ phases cleverly to extract the result. Shor's algorithm for breaking
 RSA is a famous example.
 
 #+ATTR_HTML: :alt ML image :align center :width 600px :style display:inline;margin:-40px;
-[[./img/quantum_computing_neural_network.svg]]
+[[./qml-img/quantum_computing_neural_network.svg]]
 
 It turns out that quantum computers can use similar techniques to
 /learn hidden symmetries from data/. Many real-world problems display
