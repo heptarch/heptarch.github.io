@@ -20,7 +20,7 @@ real-world use case; for more on why this is important,
 [read my essay](/bell).
 If you would like to get involved, email me at [`7@heptar.ch`](mailto:
 7@heptar.ch).
-You may wish to answer some of the questions on the [research compatbility questionnaire](lab/questions).
+You may wish to answer some of the questions on the [research compatibility questionnaire](lab/questions).
 
 <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
 grey; line-height:1.5">
