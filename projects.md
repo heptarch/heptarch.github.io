@@ -37,9 +37,9 @@ grey; line-height:1.5; border-radius: 15px">
 Existing quantum
 programming languages do not use natural, high-level
 algorithmic representations, so they can't facilitate natural,
-high-level algorithmic reasoning. Goal here is to think about new
-algorithmic primitives, interoperability between different
-computational frameworks, and the corresponding language design.
+high-level algorithmic reasoning. The goal here would be new
+algorithmic primitives (with interoperability between different
+computational frameworks) and the corresponding language design.
 </div>
   </summary>
   <p>
