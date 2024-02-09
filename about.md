@@ -51,7 +51,7 @@ permalink: /bio/
 		   bio: 'After studying law, philosophy, math, and physics, I\'ve learned that school is boring.',
 		   },
            {
-		   bio: 'Below is a randomized playlist of some of my favourite equations. I won\'t apologize.',
+		   bio: 'Below is a randomized playlist of some of my favourite equations. Savour the nerdiness.',
 		   },
            {
 		   bio: 'A heptarch was one of seven Anglo-Saxon kings during the early middle ages. Cool name!',
