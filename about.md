@@ -54,7 +54,7 @@ permalink: /bio/
 		   bio: 'Below is a randomized playlist of my favourite equations; it's like a nerdy stochastic google doodle!',
 		   },
            {
-		   bio: 'This bio snippet is randomized and in some case computer-generated (*).',
+		   bio: 'This bio snippet is randomized and in some case computer-generated (marked *).',
 		   },
            {
 		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the “dark” ages. Strong prog metal vibes.',
