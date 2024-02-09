@@ -92,8 +92,8 @@ grey; line-height:1.5; border-radius: 15px">
 	<hr style="width:50%;height:15px">
 Watermarking the
 output of large language models is a problem of applied
-cryptography. Investigation of techniques for “frontmarking” and
-“backmarking”, along with development of marking pipelines for LLM and diffusion models.
+cryptography. This project aims to explore known results about generic vulnerabilities
+of machine learning techniques for “backmarking” (implanting ), along with development of marking pipelines for LLM and diffusion models.
 </div>
   </summary>
   <p>
