@@ -14,7 +14,7 @@ thinking about.<label for="sn-1"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-	   More details, including background reading, notes, and so on,
+	   More details, including background reading, notes, code bases, and so on,
 	   will be added in the dropdown boxes soon.
 	   </span>
 I've cast each in terms of a "deliverable" to give a well-delineated scope, mission, and
