@@ -85,9 +85,9 @@ h2 {
 }
 
 h3 {
-    font-style: italic;
+    font-family: 'Quicksand', sans-serif;
     font-weight: 400;
-    font-size: 1.7rem;
+    font-size: 2.0rem;
     margin-top: 2rem;
     margin-bottom: 1.4rem;
     line-height: 1;
