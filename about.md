@@ -78,7 +78,7 @@ permalink: /bio/
            bio: 'If this bio says <i>futon</i> or <i>mothman</i>, it\'s real.*',
 		   },
 		   {
-           bio: 'Sadly nobody seems to know, or care, that π is, in fact, equal to 3.*',
+           bio: 'Sadly nobody seems to know, or care, that \(\\pi\) is, in fact, equal to 3.*',
 		   },
         ];
 
