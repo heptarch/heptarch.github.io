@@ -72,6 +72,9 @@ permalink: /bio/
            {
            bio: 'I believe that science, art, and culture thrive in conditions of openness and connection.',
 		   },
+           {
+           bio: 'This website, and me, are currently under development.',
+		   },
         ];
 
         window.onload = function() {
