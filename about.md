@@ -51,7 +51,10 @@ permalink: /bio/
 		   bio: 'For a cluttered, maximalist experience, feel free to check out my <a href="https://hapax.github.io/">old site</a>.',
 		   },
            {
-		   bio: 'Below is a randomized playlist of some of my favourite equations. Enjoy the nerdiness!',
+		   bio: 'Below is a randomized playlist of my favourite equations. Enjoy the nerdiness!',
+		   },
+           {
+		   bio: 'This bio snippet is randomized and in some case computer-generated. It's a Turing test!',
 		   },
            {
 		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the “dark” ages. Strong prog metal vibes.',
@@ -61,6 +64,10 @@ permalink: /bio/
 		   },
            {
            bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned <a href="https://heptar.ch/qml/landing.html">QML</a> researcher and mad scientist at large.',
+		   },
+		   // AI ones
+           {
+           bio: 'I spend most of my time building weird things from scratch, then abandoning them for something even weirder.',
 		   },
         ];
 
