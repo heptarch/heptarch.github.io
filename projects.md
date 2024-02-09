@@ -94,7 +94,7 @@ Watermarking the
 output of large language models is a problem of applied
 cryptography. This project aims to explore techniques for
 “backmarking” (implanting watermarks during training) and "frontmarking"
-(layering watermarks over a trained model). Optimistically, the outcome would be robust marking pipelines for LLM and diffusion models.
+(layering watermarks over the output of a trained model). Optimistically, the outcome would be robust marking pipelines for LLM and diffusion models.
 </div>
   </summary>
   <p>
