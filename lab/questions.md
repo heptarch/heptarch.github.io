@@ -6,10 +6,10 @@ permalink: /lab/questions
 ---
 
 I'm excited to work with people who can combine imaginative play with
-      technical excellence, and are excited to solve difficult
+      technical excellence, and love to solve difficult
       problems.
-	  These questions are designed to probe those qualities.
-	  If you'd like to work on a project (either from
+	  The questions below are an informal means of probing those qualities.
+	  If you'd like to work with me on a project (either from
       [`Rebel Labs`](https://heptar.ch/lab/) or something else),
       answering one or two of these questions will help give me a
       sense of "research compatibility".
