@@ -60,7 +60,7 @@ permalink: /bio/
            bio: 'Making wonder cool again, one stupid question at a time.',
 		   },
            {
-           bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned <a href="https://heptar.ch/qml/landing.html">QML</a> researcher and mad scientist.',
+           bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned <a href="https://heptar.ch/qml/landing.html">QML</a> researcher and mad scientist at large.',
 		   },
         ];
 
