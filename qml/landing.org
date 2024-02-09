@@ -9,7 +9,8 @@ On the other hand, classical machine learning can give us insights
 into quantum algorithms and the capabilities of quantum computers for
 generalization.
 
-/Image credits to Tarik Elkhateeb./
+/Image/style credits to Tarik Elkhateeb and the
+[[https://pennylane.ai/qml/whatisqml/][What is QML?]] page./
 
 * An overview of QML
 -----
@@ -87,6 +88,8 @@ area for future research.
 
 * Technical
 -----
+
+Watch this space!
 
 * COMMENT Old
 *Quantum machine learning (QML)* is a research area that explores the
