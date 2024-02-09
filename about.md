@@ -48,13 +48,13 @@ permalink: /bio/
 		   bio: 'Cyborg, hacker, and interdimensional wizard.',
 		   },
            {
-		   bio: 'For a cluttered, maximalist experience, feel free to check out my<a href="https://hapax.github.io/">old site</a>.',
+		   bio: 'For a cluttered, maximalist experience, feel free to check out my <a href="https://hapax.github.io/">old site</a>.',
 		   },
            {
 		   bio: 'Below is a randomized playlist of some of my favourite equations. Enjoy the nerdiness!',
 		   },
            {
-		   bio: 'A \'heptarch\' was one of seven Anglo-Saxon kings during the early middle ages. Also a cool name!',
+		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the early middle ages. And a cool name!',
 		   },
            {
            bio: 'Making wonder cool again, one stupid question at a time.',
