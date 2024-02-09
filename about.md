@@ -45,10 +45,7 @@ permalink: /bio/
 
        const bios = [
            {
-		   bio: 'Cyborg, hacker, and interdimensional wizard.',
-		   },
-           {
-		   bio: 'Heptarchs were Anglo-Saxon kings during the early middle ages.',
+		   bio: 'Cyborg, hacker, interdimensional wizard.',
 		   },
            {
 		   bio: 'After studying law, philosophy, pure math, particle physics, and string theory, I've concluded I don't like school.',
