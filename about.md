@@ -65,7 +65,6 @@ permalink: /bio/
            {
            bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned mad scientist and <a href="https://heptar.ch/qml/landing.html">quantum mechanic</a>.',
 		   },
-		   // AI ones
            {
            bio: 'I spend most of my time building weird things from scratch, then abandoning them for something even weirder.',
 		   },
