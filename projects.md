@@ -109,8 +109,15 @@ grey; line-height:1.5">
   <summary>
 <div style="background-color: #202229 ; padding: 20px; margin:-5px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<span style="font-variant: small-caps">ETHer.</span> The Eigenstate
-Thermalization Hypothesis (ETH) gives a recipe for quantum chaos in pure
+<figure>
+    <div style="text-align:center; padding: 5px"><img src
+    ="/img/logos/ink.svg" width="80px"/><br>
+<span style="font-variant: small-caps">ETHer</span>
+	</div>
+	</figure>
+	<hr style="width:50%;height:15px">
+
+The Eigenstate Thermalization Hypothesis (ETH) gives a recipe for quantum chaos in pure
 states. By extending to higher moments via free cumulants, one can
 rigorously connect the ETH to a different sort of quantum randomness
 called pseudorandomness. A project to determine connection to
