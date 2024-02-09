@@ -14,6 +14,8 @@ I'm excited to work with people who can combine imaginative play with
       answering one or two of these questions will help give me a
       sense of "research compatibility".
 
+Please send answers to [`7@heptar.ch`](mailto: 7@heptar.ch).
+
 ---
 
 1. You have a pile of warm metal shavings in the shape of a
