@@ -48,16 +48,16 @@ permalink: /bio/
 		   bio: 'Cyborg, hacker, and interdimensional wizard.',
 		   },
            {
-		   bio: 'After studying law, philosophy, math, and physics, I\'ve learned that school is boring.',
+		   bio: 'For a cluttered, maximalist experience, feel free to check out my<a href="https://hapax.github.io/">old site</a>.',
 		   },
            {
-		   bio: 'Below is a randomized playlist of some of my favourite equations. Savour the nerdiness.',
+		   bio: 'Below is a randomized playlist of some of my favourite equations. Enjoy the nerdiness!',
 		   },
            {
-		   bio: 'A heptarch was one of seven Anglo-Saxon kings during the early middle ages. Cool name!',
+		   bio: 'A \'heptarch\' was one of seven Anglo-Saxon kings during the early middle ages. Also a cool name!',
 		   },
            {
-           bio: 'Making wonder cool again, one stupid question and goofball project at a time.',
+           bio: 'Making wonder cool again, one stupid question at a time.',
 		   },
            {
            bio: '<a href="https://inspirehep.net/authors/1868975">High-energy theorist</a> turned <a href="https://xanadu.ai/">quantum machine learning</a> researcher and <a href="www.heptar.ch">mad scientist</a>.',
