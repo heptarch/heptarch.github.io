@@ -51,6 +51,7 @@ grey; line-height:1.5; border-radius: 15px">
 <span style="font-variant: small-caps">Paχ</span>
 	</div>
 	</figure>
+<hr style="width:50%;height:15px">
 Decentralized money
 is a cool idea in theory but tends to be slow, expensive and effectively
 centralized in practice. The goal of this project is to explore the scalability, security,
