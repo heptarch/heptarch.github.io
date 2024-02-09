@@ -51,7 +51,7 @@ permalink: /bio/
 		   bio: 'For a cluttered, maximalist experience, feel free to check out my <a href="https://hapax.github.io/">old site</a>.',
 		   },
            {
-		   bio: 'Below is a randomized playlist of my favourite equations; it\'s like a nerdy stochastic google doodle!',
+		   bio: 'Below is a randomized playlist of my favourite equations; it\'s like a stochastic google doodle!',
 		   },
            {
 		   bio: 'This bio snippet is randomized and in some case computer-generated (*).',
