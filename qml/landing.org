@@ -1,3 +1,94 @@
+I'm a *quantum machine learning (QML)* researcher in [[https://scholar.google.com/citations?user=_ih_hwUAAAAJ&hl=de][Maria Schuld's]]
+group at [[https://xanadu.ai/][Xanadu]]. QML is a research area that explores the
+interplay of ideas from quantum computing and machine learning.
+This goes in both directions.
+We can ask if the unique abilities of quantum computers can help us
+train machine learning models faster, or on quantum data where they
+are a better fit than classical models.
+On the other hand, classical machine learning can give us insights
+into quantum algorithms and the capabilities of quantum computers for
+generalization.
+
+/Image credits to Tarik Elkhateeb./
+
+* An overview of QML
+-----
+
+I'll start with a quick, informal overview of QML, and the areas of
+research I'm most interested in.
+
+** The two-way street
+
+The success story of modern deep learning is also the story of
+hardware it runs on: the parallel GPUs and architectural innovations
+which allow an LLM, for instance, to learn on an internet-sized dataset.
+In QML, it is natural to start with the hardware at our
+disposal, namely /noisy quantum circuits/, and ask if the associated
+architecture is superior for certain tasks. This leads to a class of
+algorithms called *variational quantum circuits (VQC)*.
+
+#+ATTR_HTML: :alt ML image :align center :width 400px :style display:inline;margin:-80px;
+[[./img/Quantum_machine_learning.svg]]
+
+On the other hand, we can use classical tools such as
+*Fourier series* and *kernel learning* to characterize quantum
+models. This provides important insights into their expressivity,
+generalization and training mechanics. This
+shows that QML really is a two-way street!
+
+** Performance from NISQ to ISQ
+
+One advantage of vartional circuits is that they run on the devices we have
+now, and can be easily simulated. Because these devices and
+simulations are small, we cannot rely on theoretical arguments which
+only hold for very large quantum computers. Instead, we need to use
+benchmarks---performance on real datasets---to see how they
+stack up, as is standard practice in classical ML.
+
+#+ATTR_HTML: :alt ML image :align center :width 400px :style display:inline;margin:-40px;
+[[./img/NISQ_machine_learning.svg]]
+
+The quantum devices you can find in the lab right now are error-prone
+and modest in size. They
+can implement small VQCs and prove [[https://www.nature.com/articles/s41586-022-04725-x][quantum advantage]] for
+other tasks, but we don't expect them to provide useful applications
+just yet.
+In the not-too-distant future, we hope these *Noisy Intermediate-Scale
+Quantum (NISQ)* computers will be replaced by *Intermediate-Scale
+Quantum (ISQ)* ones, which are small but fault-tolerant.
+Finding useful QML algorithms for these devices is an open problem.
+
+** Symmetry and inductive bias
+If we defeat these constraints (on size and noise), we will be rewarded with the "holy
+grail": a *Fault-Tolerant Quantum Computer (FTQC)*, where we can run
+large-scale quantum computations with negligible error. But even if we had such a device,
+what would we do with it? Variational circuits come from asking: what
+can we do with this hardware? The question now is: what do quantum
+computers do best? This is a very different beast.
+
+Quantum complexity theory suggests that quantum computers
+are best at discovering *hidden symmetries*. The quantum computer
+queries multiple items, attaches a phase to each, and interferes these
+phases cleverly to extract the result. Shor's algorithm for breaking
+RSA is a famous example.
+
+#+ATTR_HTML: :alt ML image :align center :width 600px :style display:inline;margin:-40px;
+[[./img/quantum_computing_neural_network.svg]]
+
+It turns out that quantum computers can use similar techniques to
+/learn hidden symmetries from data/. Many real-world problems display
+approximate symmetry, so we expect this not only to be fast, but
+useful! Turning things around, what does this teach us about quantum
+computing? Using tools from ML, it tells us they have an *inductive
+bias*, certain guesses they like to make more than
+others. Characterizing these biases will tell us what other problems
+quantum computers might be good at learning, and forms an exciting
+area for future research.
+
+* Technical
+-----
+
+* COMMENT Old
 *Quantum machine learning (QML)* is a research area that explores the
 interplay of ideas from quantum computing and machine learning.
 
@@ -9,7 +100,7 @@ On the other hand, classical machine learning can give us insights
 into quantum algorithms, let us estimate the properties of quantum
 systems, and even reveal new quantum error-correcting codes!
 
-* The two-way street
+** The two-way street
 -----
 
 The success story of modern deep learning is also the story of
@@ -29,7 +120,7 @@ models. This provides important insights into their expressivity,
 generalization and training mechanics. This
 shows that QML really is a two-way street!
 
-* Performance from NISQ to ISQ
+** Performance from NISQ to ISQ
 -----
 
 One advantage of vartional circuits is that they run on the devices we have
@@ -52,7 +143,7 @@ Quantum (NISQ)* computers will be replaced by *Intermediate-Scale
 Quantum (ISQ)* ones, which are small but fault-tolerant.
 Finding useful QML algorithms for these devices is an open problem.
 
-* Symmetry and inductive bias
+** Symmetry and inductive bias
 -----
 
 If we defeat these constraints (on size and noise), we will be rewarded with the "holy
@@ -81,7 +172,7 @@ others. Characterizing these biases will tell us what other problems
 quantum computers might be good at learning, and forms an exciting
 area for future research.
 
-* The geometry of programming
+** The geometry of programming
 -----
 
 Symmetries are transformations which leave an object, often a
@@ -103,7 +194,7 @@ related to the Fourier series we mentioned above. But this approach is
 more general that QML. It represents an approach to building algorithms
 we call *differentiable* or *geometric quantum programming*.
 
-* PennyLane: the language of choice for QML research
+** PennyLane: the language of choice for QML research
 -----
 
 PennyLane is an open-source software framework 
@@ -130,10 +221,10 @@ short, it's the language of choice for those interested in QML research!
 #+TITLE:
 #+HTML_CONTAINER: div
 #+HTML_DOCTYPE: xhtml-strict
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="qml-style.css" ><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> <h1><b>What is quantum machine learning?</b></h1> <style>@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto:wght@400;700&display=swap');</style>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="qml-style.css" ><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script> <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> <h1><b>David Wakeham: QML Researcher</b></h1> <style>@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto:wght@400;700&display=swap');</style>
 #+HTML_LINK_HOME:
 #+HTML_LINK_UP:
 #+HTML_MATHJAX:
 #+INFOJS_OPT:
 #+LATEX_HEADER:
-#+OPTIONS: html-postamble:nil num:nil toc:nil
+#+OPTIONS: html-postamble:nil num:nil
