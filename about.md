@@ -54,7 +54,7 @@ permalink: /bio/
 		   bio: 'Below is a randomized playlist of my favourite equations. Enjoy the nerdiness!',
 		   },
            {
-		   bio: 'This bio snippet is randomized and in some case computer-generated. It's a Turing test!',
+		   bio: 'This bio snippet is randomized and in some case computer-generated. It\'s a Turing test!',
 		   },
            {
 		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the “dark” ages. Strong prog metal vibes.',
@@ -66,19 +66,19 @@ permalink: /bio/
            bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned mad scientist and <a href="https://heptar.ch/qml/landing.html">quantum mechanic</a>.',
 		   },
            {
-           bio: 'I spend most of my time building weird things from scratch, then abandoning them for something even weirder.',
+           bio: 'I spend most of my time building weird things from scratch, then abandoning them for something even weirder.*',
 		   },
            {
-           bio: 'I believe that science, art, and culture thrive in conditions of openness and connection.',
+           bio: 'I believe that science, art, and culture thrive in conditions of openness and connection.*',
 		   },
            {
-           bio: 'This website, and me, are currently under development.',
+           bio: 'This website, and me, are currently under development.*',
 		   },
            {
-           bio: 'If this bio says <i>futon</i> or <i>mothman</i>, it\'s real.',
+           bio: 'If this bio says <i>futon</i> or <i>mothman</i>, it\'s real.*',
 		   },
 		   {
-           bio: 'Sadly nobody seems to know, or care, that π is, in fact, equal to 3.',
+           bio: 'Sadly nobody seems to know, or care, that π is, in fact, equal to 3.*',
 		   },
         ];
 
