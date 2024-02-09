@@ -6,8 +6,8 @@ permalink: /lab/
 date: 2024-02-5
 ---
 
-Below are open projects, links, and details. These are all in very
-preliminary stages. For more on `Rebel Labs`,
+Below are brief descriptions of open projects (links and details to be
+added). These are all in preliminary stages and looking for  For more on `Rebel Labs`,
 [read the essay](/bell). To get in touch, email me at
 [`7@heptar.ch`](mailto: 7@heptar.ch).
 
@@ -48,7 +48,7 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/pax.svg" width="100px"/><br>
+    ="/img/logos/pax.svg" width="80px"/><br>
 <span style="font-variant: small-caps">Paχ</span>
 	</div>
 	</figure>
