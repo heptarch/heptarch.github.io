@@ -45,7 +45,7 @@ permalink: /bio/
 
        const bios = [
            {
-		   bio: 'Cyborg, hacker, and interdimensional wizard.',
+		   bio: 'χ = Cyborg, Hacker, Interdimensional wizard.',
 		   },
            {
 		   bio: 'For a cluttered, maximalist experience, feel free to check out my <a href="https://hapax.github.io/">old site</a>.',
