@@ -75,6 +75,9 @@ permalink: /bio/
            {
            bio: 'This website, and me, are currently under development.',
 		   },
+           {
+           bio: 'If this bio says <i>futon</i> or <i>mothman</i>, it\'s real.',
+		   },
         ];
 
         window.onload = function() {
