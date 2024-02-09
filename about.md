@@ -51,7 +51,7 @@ permalink: /bio/
 		   bio: 'After studying law, philosophy, math, and physics, I\'ve learned that school is boring.',
 		   },
            {
-		   bio: 'Heptarchs was one of Anglo-Saxon kings during the early middle ages.',
+		   bio: 'A heptarch was one of seven Anglo-Saxon kings during the early middle ages.',
 		   },
            {
            bio: 'Making wonder cool again, one dumb idea at a time.',
