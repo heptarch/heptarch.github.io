@@ -3,7 +3,6 @@ layout: page
 title:
 mathjax: true
 permalink: /lab/
-date: 2024-02-5
 ---
 
 Below are a few applied research problems I'm thinking about.<label for="sn-1"
@@ -19,7 +18,9 @@ Below are a few applied research problems I'm thinking about.<label for="sn-1"
 I've tried to cast each as a "deliverable" to give a well-delineated scope, mission, and
 real-world use case; for more on why this is important,
 [read my essay](/bell).
-If you would like to get involved, email me at [`7@heptar.ch`](mailto: 7@heptar.ch). 
+If you would like to get involved, email me at [`7@heptar.ch`](mailto:
+7@heptar.ch).
+You may wish to answer some of the questions on the [research compatbility questionnaire](lab/questions).
 
 <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
 grey; line-height:1.5">
