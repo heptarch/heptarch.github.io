@@ -23,8 +23,8 @@ I'm excited to work with people who can combine imaginative play with
 4. Intelligent life evolves from topologically robust quantum matter. Describe its social
     structure and language.
 5. You control a Dyson sphere around a Kerr black hole. A cat
-    falls in. Explain how to reconstruct its mass, angle
-    and time of infall from gravitational waves impinging on the
+    falls in. Can you learn its mass, angle
+    and time of infall from gravitational waves hitting the
       sphere.
 6. What do you find most interesting about the number $17$?
 7. What is time? What has it got to do with thermodynamics? Why
