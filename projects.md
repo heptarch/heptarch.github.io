@@ -6,7 +6,7 @@ permalink: /lab/
 date: 2024-02-5
 ---
 
-Below are brief overviews of applied research problems I'm thinking about.<label for="sn-1"
+Below are a few applied research problems I'm thinking about.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -16,7 +16,7 @@ Below are brief overviews of applied research problems I'm thinking about.<label
 	   More details, including background reading, notes, code bases, and so on,
 	   will be added in the dropdown boxes soon.
 	   </span>
-I've cast each in terms of a "deliverable" to give a well-delineated scope, mission, and
+I've tried to cast each as a "deliverable" to give a well-delineated scope, mission, and
 real-world use case; for more on why this is important,
 [read my essay](/bell).
 If you would like to get involved, email me at [`7@heptar.ch`](mailto: 7@heptar.ch). 
@@ -103,7 +103,7 @@ To do.
 </details>
 </div>
 
-<div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
+<!-- <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
 grey; line-height:1.5">
 <details>
   <summary>
@@ -128,4 +128,4 @@ causality, AdS/CFT, and possibly quantum money.
 To do.
   </p>
 </details>
-</div>
+</div> -->
