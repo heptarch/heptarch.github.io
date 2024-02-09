@@ -70,7 +70,7 @@ permalink: /bio/
             const bioIndex = Math.floor(Math.random() * bios.length);
             const bio = bios[bioIndex];
             const contentDiv = document.getElementById('bio');
-            contentDiv.innerHTML = `<p>${item.bio}</p>`;
+            contentDiv.innerHTML = `<p>${bio.bio}</p>`;
         }
 		</script>
 
