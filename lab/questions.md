@@ -21,7 +21,7 @@ Please send answers to [`7@heptar.ch`](mailto: 7@heptar.ch).
 1. You have a pile of warm metal shavings in the shape of a
       cone. Discuss.
 2. How can a two-level quantum system be used as a gyroscope?
-3. In the sewer beneath the Prague Orloj is a locked box. What is inside?
+3. In the sewer beneath the Prague Orloj is a locked box. What's inside?
 4. Intelligent life evolves from topologically robust quantum matter. Describe its social
     structure and language.
 5. You control a Dyson sphere around a Kerr black hole. A cat
