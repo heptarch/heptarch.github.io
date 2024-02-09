@@ -48,7 +48,7 @@ permalink: /bio/
 		   bio: 'Cyborg, hacker, interdimensional wizard.',
 		   },
            {
-		   bio: 'After studying law, philosophy, pure math, particle physics, and string theory, .',
+		   bio: 'After studying law, philosophy, math, and physics, I've learned that school is boring.',
 		   },
            {
            bio: 'Making wonder cool again, one dumb idea at a time.',
