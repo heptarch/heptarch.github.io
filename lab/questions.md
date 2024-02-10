@@ -27,9 +27,8 @@ Please send answers to [`7@heptar.ch`](mailto: 7@heptar.ch).
 5. You control a Dyson sphere around a Kerr black hole. A cat
     falls in. Can you learn its mass, angle
     and time of infall from gravitational waves hitting the
-      sphere.
-6. What do you find most interesting about the number $17$?
-7. What is time? What has it got to do with thermodynamics? Why
+      sphere? How?
+6. What is time? What has it got to do with thermodynamics? Why
       is it one-dimensional?
-8. George Box said "All models are wrong, but some are useful."
+7. George Box said "All models are wrong, but some are useful."
     Is this a model?
