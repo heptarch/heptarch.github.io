@@ -5,7 +5,7 @@ mathjax: true
 permalink: /lab/
 ---
 
-Below are a few applied research problems I'm thinking about.<label for="sn-1"
+Welcome to the `Rebel Labs` project space!<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
