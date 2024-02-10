@@ -6,7 +6,7 @@ permalink: /lab/
 ---
 
 Welcome to the `Rebel Labs` project space!
-Below are some applied research problems I'm working on.<label for="sn-1"
+Below are some applied research problems I'm thinking about.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -17,7 +17,7 @@ I've tried to cast each as a "deliverable" to give a well-delineated scope, miss
 real-world use case; for more on why I think this is a good idea,
 see [my essay](/bell).
 	   </span>
-If you would like to know more or get involved, email me at [`rebel@heptar.ch`](mailto:
+If you want to know more, or get involved, email me at [`rebel@heptar.ch`](mailto:
 7@heptar.ch).
 
 <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
