@@ -57,7 +57,7 @@ permalink: /bio/
 		   bio: 'This bio snippet is randomized and in some case computer-generated (marked *).',
 		   },
            {
-		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the “dark” ages. I chose it partly for the historical reference, partly for the air of mystery, and partly, of course, for the prog metal vibes.',
+		   bio: 'A <i>heptarch</i> was one of seven Anglo-Saxon kings during the “dark” ages. I chose it partly for the historical reference, partly for the air of mystery, but mostly for the prog metal vibes.',
 		   },
            {
            bio: 'Making wonder cool again, one stupid question at a time.',
