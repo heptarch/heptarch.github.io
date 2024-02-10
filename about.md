@@ -14,10 +14,6 @@ permalink: /bio/
 
 <div id="content" style="text-align:center"></div>
 
----
-
-<div style="text-align:center"><a href="https://heptar.ch/qml">QML</a></div>
-
 <script>
        const items = [
             {
