@@ -45,7 +45,7 @@ permalink: /bio/
 
        const bios = [
            {
-		   bio: 'χ = Cyborg, Hacker, Interdimensional wizard.',
+		   bio: 'Cyborg, hacker, interdimensional wizard.',
 		   },
            {
 		   bio: 'For a cluttered, maximalist experience, feel free to check out my <a href="https://hapax.github.io/">old site</a>.',
@@ -66,20 +66,17 @@ permalink: /bio/
            bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned mad scientist and <a href="https://heptar.ch/qml">quantum mechanic</a>.',
 		   },
            {
-           bio: 'I spend most of my time building weird things from scratch, then abandoning them for something even weirder.*',
-		   },
-           {
-           bio: 'I believe that science, art, and culture thrive in conditions of openness and connection.*',
-		   },
-           {
            bio: 'This website, and me, are currently under development.*',
 		   },
            {
            bio: 'If this bio says <i>futon</i> or <i>mothman</i>, it\'s real.*',
 		   },
-		   {
-           bio: 'Sadly nobody seems to know, or care, that π is, in fact, equal to 3.*',
+           {
+           bio: '<a href="https://heptar.ch/quantum-computing-for-dummies">Click here</a> to learn about why quantum computers are cool, from the comfort of your armchair! (Or maybe while lying in bed.)*',
 		   },
+          {
+          bio: 'This website and me are both being built out of cardboard boxes.*',
+          }
         ];
 
         window.onload = function() {
