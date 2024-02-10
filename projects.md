@@ -5,7 +5,8 @@ mathjax: true
 permalink: /lab/
 ---
 
-Welcome to the `Rebel Labs` project space!<label for="sn-1"
+Welcome to the `Rebel Labs` project space!
+Below are applied research projects I'm working on.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
