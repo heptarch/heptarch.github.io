@@ -1,5 +1,5 @@
-This page is under construction. It only exists due to an AI-generated
-bio snippet.
+This page is under construction. It only exists because an AI-generated
+bio snippet hallucinated the URL.
 
 * COMMENT html export
 #+CREATOR: 
