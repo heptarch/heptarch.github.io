@@ -41,9 +41,7 @@ computational frameworks) and the corresponding language design.
 </div>
   </summary>
   <p>
-<span style="font-variant: small-caps">Background</span> 
-<hr style="width:50%; margin-left:0px;height:15px">
-To do.
+Details coming soon.
   </p>
 </details>
 </div>
@@ -70,7 +68,7 @@ doing what you asked it to do?
 </div>
   </summary>
   <p>
-To do.
+Details coming soon.
   </p>
 </details>
 </div>
@@ -96,7 +94,7 @@ cryptography. This project aims to explore techniques for
 </div>
   </summary>
   <p>
-To do.
+Details coming soon.
   </p>
 </details>
 </div>
