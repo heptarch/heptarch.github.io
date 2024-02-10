@@ -77,6 +77,9 @@ permalink: /bio/
           {
           bio: 'This website and me are both being built out of cardboard boxes.*',
           }
+          {
+          bio: 'I believe that science, art, and culture thrive in conditions of openness and connection.*',
+          }
         ];
 
         window.onload = function() {
