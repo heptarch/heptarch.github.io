@@ -18,7 +18,7 @@ real-world use case; for more on why I think this is a good idea,
 see [my essay](/bell).
 	   </span>
 If you want to know more, or get involved, email me at [`rebel@heptar.ch`](mailto:
-7@heptar.ch).
+rebel@heptar.ch).
 
 <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
 grey; line-height:1.5">
