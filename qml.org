@@ -11,16 +11,15 @@ On the other hand, classical machine learning can give us insights
 into quantum algorithms and the capabilities of quantum computers for
 generalization.
 
-/Image/style credits to Tarik Elkhateeb and the PennyLane
-[[https://pennylane.ai/qml/whatisqml/][What is QML?]] page. For non-QML content, see [[https://heptar.ch][heptar.ch]]./
+This page give an informal overview of QML.
+For a more detailed introduction to quantum computing, see
+[[https://heptar.ch/qc-dummies][this page]]. Once you've read that, you may want to check out the
+ [[https://heptar.ch/qml-intro][companion tutorial]] on QML.
 
-* An overview of QML
+/Image/style credits to Tarik Elkhateeb and the PennyLane.ai [[https://pennylane.ai/qml/whatisqml/][What is QML?]] page./
+
+* The two-way street
 -----
-
-I'll start with a quick, informal overview of QML, and the areas of
-research I'm most interested in.
-
-** The two-way street
 
 The success story of modern deep learning is also the story of
 hardware it runs on: the parallel GPUs and architectural innovations
@@ -39,7 +38,8 @@ models. This provides important insights into their expressivity,
 generalization and training mechanics. This
 shows that QML really is a two-way street!
 
-** Performance from NISQ to ISQ
+* Performance from NISQ to ISQ
+-----
 
 One advantage of vartional circuits is that they run on the devices we have
 now, and can be easily simulated. Because these devices and
@@ -61,7 +61,9 @@ Quantum (NISQ)* computers will be replaced by *Intermediate-Scale
 Quantum (ISQ)* ones, which are small but fault-tolerant.
 Finding useful QML algorithms for these devices is an open problem.
 
-** Symmetry and inductive bias
+* Symmetry and inductive bias
+-----
+
 If we defeat these constraints (on size and noise), we will be rewarded with the "holy
 grail": a *Fault-Tolerant Quantum Computer (FTQC)*, where we can run
 large-scale quantum computations with negligible error. But even if we had such a device,
@@ -88,10 +90,10 @@ others. Characterizing these biases will tell us what other problems
 quantum computers might be good at learning, and forms an exciting
 area for future research.
 
-* Technical
------
-
-Watch this space!
+@@html:
+<hr style="width:40%;height:-15px">
+@@
+↓[[https://heptar.ch/qc-dummies][QC for dummies]] · ↓[[https://heptar.ch/qml-intro][QML for dummies]] · ↑[[https://heptar.ch][𝔥𝔢𝔭𝔱𝔞𝔯۰𝔠𝔥]] 
 
 * COMMENT Old
 *Quantum machine learning (QML)* is a research area that explores the
@@ -232,4 +234,4 @@ short, it's the language of choice for those interested in QML research!
 #+HTML_MATHJAX:
 #+INFOJS_OPT:
 #+LATEX_HEADER:
-#+OPTIONS: html-postamble:nil num:nil
+#+OPTIONS: html-postamble:nil num:nil toc:nil

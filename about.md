@@ -72,7 +72,7 @@ permalink: /bio/
            bio: 'If this bio says <i>futon</i> or <i>mothman</i>, it\'s real.*',
 		   },
            {
-           bio: '<a href="https://heptar.ch/quantum-computing-for-dummies">Click here</a> to learn about why quantum computers are cool, from the comfort of your armchair! (Or maybe while lying in bed.)*',
+           bio: '<a href="https://heptar.ch/qc-dummies">Click here</a> to learn about why quantum computers are cool, from the comfort of your armchair! (Or maybe while lying in bed.)*',
 		   },
           {
           bio: 'This website and me are both being built out of cardboard boxes.*',
