@@ -93,7 +93,7 @@ area for future research.
 @@html:
 <hr style="width:40%;height:-15px">
 @@
-↓[[https://heptar.ch/qc-dummies][QC for dummies]] · ↓[[https://heptar.ch/qml-intro][QML for dummies]] · ↑[[https://heptar.ch][𝔥𝔢𝔭𝔱𝔞𝔯۰𝔠𝔥]] 
+↓[[https://heptar.ch/qc-dummies][QC for dummies]] · ↓[[https://heptar.ch/qml-intro][QML for dummies]] · [[https://heptar.ch][𝔥𝔢𝔭𝔱𝔞𝔯𝔠𝔥]] 
 
 * COMMENT Old
 *Quantum machine learning (QML)* is a research area that explores the

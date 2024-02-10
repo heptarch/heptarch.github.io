@@ -1,5 +1,9 @@
-This page is under construction. It only exists because an AI-generated
-bio snippet hallucinated the URL.
+This page is under construction.
+
+@@html:
+<hr style="width:40%;height:-15px">
+@@
+↑[[https://heptar.ch/qml][QML overview]] · →[[https://heptar.ch/qml-intro][QML for dummies]] · [[https://heptar.ch][𝔥𝔢𝔭𝔱𝔞𝔯𝔠𝔥]] 
 
 * COMMENT html export
 #+CREATOR: 

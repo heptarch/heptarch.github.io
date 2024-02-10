@@ -1,5 +1,10 @@
 This page is under construction.
 
+@@html:
+<hr style="width:40%;height:-15px">
+@@
+↑[[https://heptar.ch/qml][QML overview]] · ←[[https://heptar.ch/qc-dummies][QC for dummies]] · [[https://heptar.ch][𝔥𝔢𝔭𝔱𝔞𝔯𝔠𝔥]] 
+
 * COMMENT html export
 #+CREATOR: 
 #+AUTHOR: 
