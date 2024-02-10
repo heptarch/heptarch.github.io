@@ -6,7 +6,7 @@ permalink: /lab/
 ---
 
 Welcome to the `Rebel Labs` project space!
-Below are some applied research problems I'm working on right now.<label for="sn-1"
+Below are some applied research problems I'm working on.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
