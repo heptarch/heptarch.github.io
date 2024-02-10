@@ -41,6 +41,11 @@ permalink: /bio/
             imageUrl: 'https://heptar.ch/img/bio/stirling.svg', // URL of the SVG image
 			link: 'https://en.wikipedia.org/wiki/Stirling%27s_approximation' 
             },
+            {
+            formula: '$$S[A] = \\min_{\\mathcal{X}_A \\sim A} \\frac{\\mathcal{A}[\\mathcal{X}_A]}{4G_{\\text{N}}}$$', // Ryu-Takayanagi
+            imageUrl: 'https://heptar.ch/img/bio/rt.svg', // URL of the SVG image
+			link: 'https://en.wikipedia.org/wiki/Ryu%E2%80%93Takayanagi_conjecture' 
+            },
         ];
 
        const bios = [
