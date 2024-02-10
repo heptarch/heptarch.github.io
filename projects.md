@@ -17,7 +17,7 @@ I've tried to cast each as a "deliverable" to give a well-delineated scope, miss
 real-world use case; for more on why I think this is a good idea,
 see [my essay](/bell).
 	   </span>
-If you would like to know more or get involved, email me at [`7@heptar.ch`](mailto:
+If you would like to know more or get involved, email me at [`rebel@heptar.ch`](mailto:
 7@heptar.ch).
 
 <div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
