@@ -29,7 +29,7 @@ permalink: /bio/
             {
             formula: '$$\\zeta(s) = \\prod_{p\\in\\mathbb{P}} \\frac{1}{1-p^{-s}}$$', // Euler's product formula
             imageUrl: 'https://heptar.ch/img/bio/zeta.svg', // URL of the SVG image
-			link: https://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/devlin.pdf' 
+			link: 'https://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/devlin.pdf' 
             },
             {
             formula: '$$D = \\frac{k_{\\text{B}}T}{6\\pi \\eta R}$$', // Einstein-Stokes
