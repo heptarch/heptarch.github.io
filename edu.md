@@ -18,7 +18,8 @@ grey; line-height:1.5; border-radius: 15px">
 	</figure>
 	<hr style="width:50%;height:15px">
 	<a href="https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ">Videos</a>
-	about math, physics, and computer science.
+	about math, physics, and computer science, with an emphasis on
+	visual intuition and good ol' fashioned storytelling.
 </div>
   </summary>
   <p>
