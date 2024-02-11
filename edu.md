@@ -27,7 +27,8 @@ A book which introduces a “hacker's”<label for="sn-1"
 	   Think <a
 	   href="https://en.wikipedia.org/wiki/Hacker_culture">nerds</a>
 	   and not <a href="https://en.wikipedia.org/wiki/Security_hacker">criminals</a>.
-	   </span> approach to physics. Designed to be accessible to
+	   </span> approach to physics, where you actually calculate stuff
+	   using cheeky shortcuts. Designed to be accessible to
 	   anyone with a background in precalculus math, it covers everything from
 	   thermodynamics and relativity to the heady paradoxes of black
 	   holes.
