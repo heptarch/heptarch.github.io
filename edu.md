@@ -4,3 +4,48 @@ title:
 permalink: /edu/
 ---
 
+<div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
+grey; line-height:1.5">
+<details>
+  <summary>
+<div style="background-color: #202229 ; padding: 20px; margin:-5px; border: 0px solid
+grey; line-height:1.5; border-radius: 15px">
+<figure>
+    <div style="text-align:center; padding: 5px"><img src
+    ="/img/logos/qpig.svg" width="200px"/><br>
+<span style="font-variant: small-caps">Qupig</span>
+	</div>
+	</figure>[Videos](https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ)
+	about math and physics.
+<hr style="width:50%;height:15px">
+
+</div>
+  </summary>
+  <p>
+Details coming soon.
+  </p>
+</details>
+</div>
+
+<div style="background-color: #16171c ; padding: 20px 20px 20px 0px; border: 0px solid
+grey; line-height:1.5">
+<details>
+  <summary>
+<div style="background-color: #202229 ; padding: 20px; margin:-5px; border: 0px solid
+grey; line-height:1.5; border-radius: 15px">
+<figure>
+    <div style="text-align:center; padding: 5px"><img src
+    ="/img/logos/qpig.svg" width="200px"/><br>
+<span style="font-variant: small-caps">Qupig</span>
+	</div>
+	</figure>[Videos](https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ)
+	about math and physics.
+<hr style="width:50%;height:15px">
+
+</div>
+  </summary>
+  <p>
+Details coming soon.
+  </p>
+</details>
+</div>
