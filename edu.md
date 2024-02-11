@@ -30,7 +30,7 @@ A book which introduces a “hacker's”<label for="sn-1"
 	   </span> approach to physics. Designed to be accessible to
 	   anyone with a background in precalculus math, it covers everything from
 	   thermodynamics and relativity to the heady paradoxes of black
-	   holes, equipping you with the tools to calculate stuff.
+	   holes.
 </div>
   </summary>
   <p>
