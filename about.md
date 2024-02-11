@@ -34,7 +34,7 @@ permalink: /bio/
             {
             formula: '$$D = \\frac{k_{\\text{B}}T}{6\\pi \\eta R}$$', // Einstein-Stokes
             imageUrl: 'https://heptar.ch/img/bio/brownian.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)' 
+			link: 'https://hapax.github.io/assets/brownian-slides.pdf' 
             },
             {
             formula: '$$n! \\sim \\sqrt{2\\pi n}\\left(\\frac{n}{e}\\right)^n$$', // Stirling's formula
