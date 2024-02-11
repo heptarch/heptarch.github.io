@@ -12,13 +12,13 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/qpig.svg" width="150px"/><br>
+    ="/img/logos/qpig.svg" width="100px"/><br>
 <span style="font-variant: small-caps">Qupig</span>
 	</div>
-	</figure><a href="https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ">Videos</a>
-	about math and physics.
-<hr style="width:50%;height:15px">
-
+	</figure>
+	<hr style="width:50%;height:15px">
+	<a href="https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ">Videos</a>
+	about math, physics, and computer science.
 </div>
   </summary>
   <p>
@@ -35,12 +35,12 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/qpig.svg" width="150px"/><br>
-<span style="font-variant: small-caps">Qupig</span>
+    ="/img/logos/qpig.svg" width="100px"/><br>
+<span style="font-variant: small-caps">A Hacker's Guide to the Universe</span>
 	</div>
 	</figure>
-<hr style="width:50%;height:15px">
-
+	<hr style="width:50%;height:15px">
+A book
 </div>
   </summary>
   <p>
