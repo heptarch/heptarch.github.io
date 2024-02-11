@@ -36,12 +36,22 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/qpig.svg" width="100px"/><br>
-<span style="font-variant: small-caps">A Hacker's Guide to the Universe</span>
+    ="/img/logos/hacker.svg" width="100px"/><br>
+<span style="font-variant: small-caps">The Hacker's Guide to the Universe</span>
 	</div>
 	</figure>
 	<hr style="width:50%;height:15px">
-A book
+A book which introduces a “hacker's”<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+	   Think <a
+	   href="https://en.wikipedia.org/wiki/Hacker_culture">nerds</a>
+	   and not <a href="https://en.wikipedia.org/wiki/Security_hacker">criminals</a>.
+	   </span>approach
 </div>
   </summary>
   <p>
