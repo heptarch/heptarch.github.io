@@ -19,17 +19,17 @@ permalink: /bio/
             {
             formula: '$$\\frac{1}{\\pi}= \\frac{2\\sqrt{2}}{9801}\\sum_{n=0}^{\\infty} \\frac{(4n)!}{(n!)^4}\\frac{26390 n+1103}{396^{4n}}$$', // Ramanujan-Sato
             imageUrl: 'https://heptar.ch/img/bio/sato.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Ramanujan%E2%80%93Sato_series'
+			link: 'https://maa.org/sites/default/files/pdf/pubs/amm_supplements/Monthly_Reference_5.pdf'
             },
             {
             formula: '$$\\int_{\\partial\\mathcal{M}}\\omega=\\int_{\\mathcal{M}}\\mathrm{d}\\omega$$', // Stokes theorem
             imageUrl: 'https://heptar.ch/img/bio/stokes.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Generalized_Stokes_theorem' 
+			link: 'http://yaroslavvb.com/papers/notes/piponi-on.pdf' 
             },
             {
             formula: '$$\\zeta(s) = \\prod_{p\\in\\mathbb{P}} \\frac{1}{1-p^{-s}}$$', // Euler's product formula
             imageUrl: 'https://heptar.ch/img/bio/zeta.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Proof_of_the_Euler_product_formula_for_the_Riemann_zeta_function' 
+			link: https://empslocal.ex.ac.uk/people/staff/mrwatkin/zeta/devlin.pdf' 
             },
             {
             formula: '$$D = \\frac{k_{\\text{B}}T}{6\\pi \\eta R}$$', // Einstein-Stokes
@@ -39,12 +39,12 @@ permalink: /bio/
             {
             formula: '$$n! \\sim \\sqrt{2\\pi n}\\left(\\frac{n}{e}\\right)^n$$', // Stirling's formula
             imageUrl: 'https://heptar.ch/img/bio/stirling.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Stirling%27s_approximation' 
+			link: 'https://heptar.ch/assets/stirling.pdf' 
             },
             {
             formula: '$$S[A] = \\min_{\\mathcal{X}_A \\sim A} \\frac{\\mathcal{A}[\\mathcal{X}_A]}{4G_{\\text{N}}}$$', // Ryu-Takayanagi
             imageUrl: 'https://heptar.ch/img/bio/rt.svg', // URL of the SVG image
-			link: 'https://en.wikipedia.org/wiki/Ryu%E2%80%93Takayanagi_conjecture' 
+			link: 'https://arxiv.org/pdf/1304.4926.pdf' 
             },
         ];
 
