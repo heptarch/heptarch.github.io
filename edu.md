@@ -12,10 +12,10 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/qpig.svg" width="200px"/><br>
+    ="/img/logos/qpig.svg" width="150px"/><br>
 <span style="font-variant: small-caps">Qupig</span>
 	</div>
-	</figure>[Videos](https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ)
+	</figure><a href="https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ">Videos</a>
 	about math and physics.
 <hr style="width:50%;height:15px">
 
@@ -35,11 +35,10 @@ grey; line-height:1.5">
 grey; line-height:1.5; border-radius: 15px">
 <figure>
     <div style="text-align:center; padding: 5px"><img src
-    ="/img/logos/qpig.svg" width="200px"/><br>
+    ="/img/logos/qpig.svg" width="150px"/><br>
 <span style="font-variant: small-caps">Qupig</span>
 	</div>
-	</figure>[Videos](https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ)
-	about math and physics.
+	</figure>
 <hr style="width:50%;height:15px">
 
 </div>
