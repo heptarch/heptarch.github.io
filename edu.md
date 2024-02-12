@@ -27,11 +27,9 @@ A “hacker's”<label for="sn-1"
 	   Think <a
 	   href="https://en.wikipedia.org/wiki/Hacker_culture">nerds</a>
 	   and not <a href="https://en.wikipedia.org/wiki/Security_hacker">criminals</a>.
-	   </span> approach to physics, where you actually calculate stuff
-	   using cheeky shortcuts. Designed to be accessible to
-	   anyone with a background in precalculus math, it covers everything from
-	   thermodynamics and relativity to the heady paradoxes of black
-	   holes.
+	   </span> approach to physics, where the goal is to do real
+	   calculations, albeit using only algebra and cheeky
+	   shortcuts. Under construction.
 </div>
   </summary>
   <p>
@@ -56,7 +54,7 @@ grey; line-height:1.5; border-radius: 15px">
 	<a
 	href="https://www.youtube.com/channel/UCgXmsPMfVPOEpuyrX76zWyQ">YouTube
 	channel</a> about math, physics, and computer science, with an emphasis on
-	visual intuition and good ol' fashioned storytelling.
+	visual intuition and good ol' fashioned storytelling. Under construction.
 </div>
   </summary>
   <p>
