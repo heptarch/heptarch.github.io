@@ -17,7 +17,7 @@ grey; line-height:1.5; border-radius: 15px">
 	</div>
 	</figure>
 	<hr style="width:50%;height:15px">
-A book which introduces a “hacker's”<label for="sn-1"
+A “hacker's”<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
