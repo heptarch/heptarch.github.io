@@ -68,6 +68,9 @@ permalink: /bio/
            bio: 'Making wonder cool again, one stupid question at a time.',
 		   },
            {
+           bio: 'Pig\'s gotta fly.',
+		   },
+           {
            bio: '<a href="https://inspirehep.net/authors/1868975">String theorist</a> turned mad scientist and <a href="https://heptar.ch/qml">quantum mechanic</a>.',
 		   },
            {
