@@ -33,5 +33,9 @@ the development team.
 </div>
 
 The more I think about creative applied research, the more I feel my
-<a href="https://heptar.ch/rbl1/">last assay</a> at the subject is
+<a href="https://heptar.ch/rbl1/">last assay</a> at the subject was
 optimistically wrong.
+I suggested that it might be possible to do great research in a
+distributed fashion, like open source software development.
+It would be wonderful if that were true; the more I observe how others
+do research, even the very
