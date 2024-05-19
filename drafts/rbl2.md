@@ -3,28 +3,27 @@ Layout: post
 mathjax: true
 comments: true
 title: "Reflections on Bell Labs: Part 2"
-date:  2024-01-17
+date:  2024-05-19
 ---
 
-**May 19, 2024.** *This essay reflects on what made Bell Labs so
-successful as an "institute of creative technology", why that success
-has been so hard to replicate, and how one might attempt to replicate it in a distributed, self-organized, and rebellious fashion.*
+**May 19, 2024.** *Solving hard technical problems requires
+  intellectual freedom, total focus, a good sense of reality, and the
+  stochastic gradient descent of interdisciplinary cross-talk. Here, I
+  ponder how to establish and mtain these in a modern startup environment.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-In order to stress the continuity of procedures from research to
-engineering of product into manufacture and to emphasize their real
-unity, I speak of them as the single entity ‘organized creative technology’.
-<br>
+Live in the future.
 <br>
 
-<div style="text-align: right">Mervin Kelly</div>
+<div style="text-align: right">Paul Buchheit</div>
+
+Live in the future then build what's missing.
+<br>
+
+<div style="text-align: right">Paul Graham</div>
 </div>
 
-Bell Labs was a cool place. Over the course of a century, its researchers invented/discovered
-lasers, the transistor, information theory, modern cryptography,
-error-correcting codes, the Cosmic Microwave Background, electron diffraction, photovoltaic cells,
-quality control, CCDs, optical fibres, `UNIX`, `C`, support
-vector machines, the Fast Fourier Transform, Grover search,
-and Shor's algorithm, among other innovations too numerous to name.
-What made it special?
+The more I think about creative applied research, the more I feel my
+<a href="https://heptar.ch/rbl1/">last assay</a> at the subject is
+optimistically wrong.
