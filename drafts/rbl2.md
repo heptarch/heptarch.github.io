@@ -32,10 +32,11 @@ the development team.
 <div style="text-align: center">— The ghost of Mervyn Kelly</div>
 </div>
 
-The more I think about creative applied research, the more I feel my
-<a href="https://heptar.ch/rbl1/">last assay</a> at the subject was
-optimistically wrong.
-I suggested that it might be possible to do great research in a
-distributed fashion, like open source software development.
-It would be wonderful if that were true; the more I observe how others
-do research, even the very
+The more I think about creative applied research, the more I feel that
+my <a href="https://heptar.ch/rbl1/">last assay</a> at the subject
+missed the mark.
+I suggested that it might be possible to do great applied research in a
+distributed fashion, like open source software development, and I wish
+that were true.
+But the more I reflect on, and observe, how great research is done,
+the more essential the component of immersion and near-continual focus appear.
