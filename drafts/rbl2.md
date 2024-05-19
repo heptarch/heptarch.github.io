@@ -2,11 +2,11 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Lessons from Bell Labs (Part 2)"
+title: "Reflections on Bell Labs: Part 2"
 date:  2024-01-17
 ---
 
-**February 6, 2024.** *This essay reflects on what made Bell Labs so
+**May 19, 2024.** *This essay reflects on what made Bell Labs so
 successful as an "institute of creative technology", why that success
 has been so hard to replicate, and how one might attempt to replicate it in a distributed, self-organized, and rebellious fashion.*
 
