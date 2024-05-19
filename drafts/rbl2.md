@@ -15,13 +15,24 @@ date:  2024-05-19
 grey; line-height:1.5; border-radius: 15px">
 Live in the future.
 <br>
+<br>
 
 <div style="text-align: right">Paul Buchheit</div>
+<br>
 
-Live in the future then build what's missing.
+Live in the future, then build what's missing.
+<br>
 <br>
 
 <div style="text-align: right">Paul Graham</div>
+<br>
+
+Live in the future, figure out what's missing, and leave the rest to
+the development team.
+<br>
+<br>
+
+<div style="text-align: right">The ghost of Mervyn Kelly</div>
 </div>
 
 The more I think about creative applied research, the more I feel my
