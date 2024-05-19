@@ -39,4 +39,8 @@ I suggested that it might be possible to do great applied research in a
 distributed fashion, like open source software development, and I wish
 that were true.
 But the more I reflect on, and observe, how great research is done,
-the more essential the component of immersion and near-continual focus appear.
+the more essential the component of immersion and near-continual focus
+appear.
+You can patch a bug or smash out a feature request after hours; the
+require quanta of effort are small enough. But you are unlikely to
+invent the transistor in your free time.
