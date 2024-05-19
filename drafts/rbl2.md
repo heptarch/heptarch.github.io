@@ -25,7 +25,7 @@ Live in the future, then build what's missing.
 <div style="text-align: right">— Paul Graham</div>
 <br>
 
-Live in the future, figure out what's missing, and leave the rest to
+Live in the future, find what's missing, and leave the rest to
 the development team.
 <br>
 
