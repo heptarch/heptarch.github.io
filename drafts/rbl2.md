@@ -16,20 +16,20 @@ grey; line-height:1.5; border-radius: 15px">
 Live in the future.
 <br>
 
-<div style="text-align: right">— Paul Buchheit</div>
+<div style="text-align: center">— Paul Buchheit</div>
 <br>
 
 Live in the future, then build what's missing.
 <br>
 
-<div style="text-align: center">— Paul Graham</div>
+<div style="text-align: center" margin: 20px;>— Paul Graham</div>
 <br>
 
 Live in the future, find what's missing, and leave the rest to
 the development team.
 <br>
 
-<div style="text-align: center">— The ghost of Mervyn Kelly</div>
+<div style="text-align: right">— The ghost of Mervyn Kelly</div>
 </div>
 
 The more I think about creative applied research, the more I feel that
