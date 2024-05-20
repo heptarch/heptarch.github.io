@@ -73,7 +73,7 @@ interest business. They lie, in other words, in that vein of creative applied
 research the Bell mined so successfully.
 So it makes sense to copy the <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
 hire a bunch of smart people, keep them happy, stimulated, and
-focused, and get them to think in creative, free and interdisciplinary
+focused, and get them to think in free and interdisciplinary
 ways about their problems.
 That's what Bell did and it worked.
 
