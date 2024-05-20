@@ -82,10 +82,11 @@ interest a business.<label for="sn-1"
    work on.
 	   </span> They lie, in other words, in that vein of creative applied
 research that Bell mined so successfully.
-So it makes sense to copy the <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
-hire a bunch of smart people, keep them happy, stimulated, and
-focused, and get them to approach the problems in free and interdisciplinary
-ways.
+So it makes sense to emulate the Bell <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
+hire a bunch of smart people, put them in rooms with sunlight, keep
+them happy, stimulated, focused, and fed, and by collaborative
+management, encourage them to approach the problems in creative and
+interdisciplinary ways.
 That's what Bell did and it worked.
 
 Of course, for this pitch to land, we do the problems to be
