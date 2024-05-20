@@ -32,15 +32,24 @@ the development team.
 <div style="text-align: right">— The ghost of Mervyn Kelly</div>
 </div>
 
+## Contents <a id="toc" name="toc"></a>
+
+1. <a href="#sec-1"><i>The Kelly gang</i></a>
+
+---
+
 The more I think about creative applied research, the more I feel that
 my <a href="https://heptar.ch/rbl1/">last assay</a> at the subject
 missed the mark.
 I suggested that it might be possible to do great applied research in a
-distributed fashion, like open source software development, and I wish
+distributed fashion, like open source software development. I wish
 that were true.
-But the more I reflect on, and observe, how great research is done,
-the more essential the component of immersion and near-continual focus
-appear.
-You can patch a bug or smash out a feature request after hours; the
-require quanta of effort are small enough. But you are unlikely to
-invent the transistor in your free time.
+But the more I learn, the more essential the components of immersion and
+near-continual focus appear.
+You can patch a bug or smash out a feature request piecemeal, but no one is going to invent
+the transistor in their free time.
+The required quanta of sustained effort and attention are too large.
+
+So, 
+
+## 1. <a href="#toc">The Kelly gang</a><a id="sec-1" name="sec-1"></a>
