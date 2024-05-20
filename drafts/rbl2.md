@@ -58,8 +58,8 @@ Neither path is ideal.
 And while Bell had the best of both worlds, its material circumstances are
 unrepeatable.
 
-But there may be ways besides a state monopoly to enjoy
-the merits of both the Ivory Tower and boardroom.
+But maybe you don't need a state monopoly to enjoy
+the merits of both Ivory Tower and boardroom.
 While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
 startup. There are two key problems: (a) structure, and (b)
