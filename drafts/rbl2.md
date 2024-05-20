@@ -56,10 +56,11 @@ R&D. Universities are slower, clunkier, more inward-looking and hidebound; indus
 is more constrained by revenue and other research-exogenous factors.
 Neither path is ideal.
 And while Bell had the best of both worlds, its material circumstances are
-unrepeatable. But there may be ways besides a state monopoly to enjoy
-the merits of both the Ivory Tower and boardroom.
+unrepeatable.
 
-I suspect that open sourcing is scaling down too far. I'll consider
+But there may be ways besides a state monopoly to enjoy
+the merits of both the Ivory Tower and boardroom.
+While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
 startup. There are two key problems: (a) structure, and (b)
 funding. Although these are related, I'll discuss them in turn.
