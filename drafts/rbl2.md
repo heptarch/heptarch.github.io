@@ -22,7 +22,7 @@ Live in the future.
 Live in the future, then build what's missing.
 <br>
 
-<div style="text-align: center" margin: 20px;>— Paul Graham</div>
+<div style="text-align: center">— Paul Graham</div>
 <br>
 
 Live in the future, find what's missing, and leave the rest to
