@@ -52,7 +52,7 @@ free time; the required quanta of effort and attention are too large.
 I think the only realistic option is to pay people to think about
 these problems full time.
 The two traditional approaches are academia and industrial
-R&D. Universities are slower, clunkier, more inward-looking; industry
+R&D. Universities are slower, clunkier, more inward-looking and hidebound; industry
 is more constrained by revenue and other research-exogenous factors.
 Neither path is ideal.
 And while Bell had the best of both worlds, its material circumstances are
