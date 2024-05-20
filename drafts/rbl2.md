@@ -68,10 +68,10 @@ funding. Although these are related, I'll discuss them in turn.
 
 Here's the elevator pitch. We have a bunch of hard, important, and unsolved
 problems. They are unsolved because they are too commercial for
-academics, on the one hand, and too far from turning a buck to
-interest a business. They lie in that vein of creative applied
+academics to care, and too far from turning a buck to
+interest business. They lie, in other words, in that vein of creative applied
 research the Bell mined so successfully.
-So we copy the <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
+So it makes sense to copy the <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
 hire a bunch of smart people, keep them happy, stimulated, and
 focused, and get them to think in creative, free and interdisciplinary
 ways about their problems.
