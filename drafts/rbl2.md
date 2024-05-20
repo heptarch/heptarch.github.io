@@ -33,7 +33,7 @@ the development team.
 
 ## Contents <a id="toc" name="toc"></a>
 
-1. <a href="#sec-1"><i>The Kelly gang</i></a>
+1. <a href="#sec-1"><i>Containers</i></a>
 
 ---
 
@@ -56,6 +56,6 @@ R&D. Universities are slower, clunkier, more inward-looking; industry
 tends to be more constrained by revenue and other research-exogenous factors.
 Neither path is ideal.
 Bell had the best of both worlds. Although its material circumstances are
-unrepeatable, maybe there is a more realistic way to blend these two 
+unrepeatable, maybe there is some other way to combine their merits.
 
-## 1. <a href="#toc">The Kelly gang</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#toc">Containers</a><a id="sec-1" name="sec-1"></a>
