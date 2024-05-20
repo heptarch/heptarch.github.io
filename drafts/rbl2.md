@@ -87,7 +87,7 @@ hire a bunch of smart people, put them in rooms with sunlight, keep
 them happy, stimulated, focused, and fed, and by collaborative
 management, encourage them to approach the problems in creative and
 interdisciplinary ways.
-That's what Bell did and it worked.
+It worked for Bell.
 
 Of course, for this pitch to land, we do the problems to be
 compellingly important, not so applied that "pure research" is
