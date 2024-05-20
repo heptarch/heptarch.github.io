@@ -67,11 +67,19 @@ funding. Although these are related, I'll discuss them in turn.
 
 ## 1. <a href="#toc">Core team</a><a id="sec-1" name="sec-1"></a>
 
-Here's the elevator pitch. We have a bunch of hard, important, and unsolved
-problems. They are unsolved because they are too commercial for
-academics to care, and too far from turning a buck to
-interest business. They lie, in other words, in that vein of creative applied
-research the Bell mined so successfully.
+I'll start with a little elevator pitch. We have a bunch of hard, important, and unsolved
+problems. Many remain unsolved not so much because they are hard, but
+because they are too applied for academics to care, and too far from turning a buck to
+interest a business.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+   This is a notrivial prior about 
+	   </span> They lie, in other words, in that vein of creative applied
+research that Bell mined so successfully.
 So it makes sense to copy the <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
 hire a bunch of smart people, keep them happy, stimulated, and
 focused, and get them to approach the problems in free and interdisciplinary
