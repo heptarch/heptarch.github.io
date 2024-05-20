@@ -6,10 +6,9 @@ title: "Reflections on Bell Labs: Part 2"
 date:  2024-05-19
 ---
 
-**May 19, 2024.** *Solving hard technical problems requires
-  intellectual freedom, total focus, interdisciplinary random walks,
-  and a finely-tuned coupling to reality. Here, I ponder how to
-  establish and maintain these desiderata in a startup environment.*
+**May 19, 2024.** *Solving hard technical problems via fundamental
+  research necessitates a delicate balance of freedom and focus. I ponder how to
+  establish and maintain this balance in a startup environment.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
@@ -50,6 +49,11 @@ You can patch a bug or smash out a feature request piecemeal, but no one is goin
 the transistor in their free time.
 The required quanta of effort and attention are too large.
 
-So, 
+I think the only realistic option is to pay people to think about
+these problems full time.
+The two traditional approaches are academia and industrial
+R&D. Universities are slower, clunkier, more inward-looking; industry
+tends to be more constrained by revenue and other research-exogenous factors.
+Neither seems like ideal.
 
 ## 1. <a href="#toc">The Kelly gang</a><a id="sec-1" name="sec-1"></a>
