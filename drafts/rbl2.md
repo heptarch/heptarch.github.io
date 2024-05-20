@@ -66,7 +66,7 @@ funding. Although these are related, I'll discuss them in turn.
 
 ## 1. <a href="#toc">Core team</a><a id="sec-1" name="sec-1"></a>
 
-Here's the elevator pitch. We have a bunch of hard and unsolved
-problems. They are unsolved because they are too applied for
-academics, and too far from a profit, a product, or a patent to take
-on in a startup.
+Here's the elevator pitch. We have a bunch of hard, important, and unsolved
+problems. They are unsolved because they are too commercial for
+academics, on the one hand, and too far from turning a buck to
+interest a traditional business or a startup.
