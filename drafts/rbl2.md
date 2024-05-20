@@ -7,7 +7,7 @@ date:  2024-05-19
 ---
 
 **May 19, 2024.** *Solving hard technical problems via fundamental
-  research necessitates a delicate balance of freedom and focus. I ponder how to
+  research requires a delicate balance of freedom and focus. I ponder how to
   establish and maintain this balance in a startup environment.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
@@ -54,6 +54,9 @@ these problems full time.
 The two traditional approaches are academia and industrial
 R&D. Universities are slower, clunkier, more inward-looking; industry
 tends to be more constrained by revenue and other research-exogenous factors.
-Neither seems like ideal.
+Neither path is ideal.
+Bell had the best of both worlds, but its material circumstances are
+unrepeatable.
+Maybe
 
 ## 1. <a href="#toc">The Kelly gang</a><a id="sec-1" name="sec-1"></a>
