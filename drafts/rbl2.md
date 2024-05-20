@@ -34,6 +34,7 @@ the development team.
 ## Contents <a id="toc" name="toc"></a>
 
 1. <a href="#sec-1"><i>Core team</i></a>
+2. <a href="#sec-1"><i>Problem choice</i></a>
 
 ---
 
@@ -62,8 +63,7 @@ But maybe you don't need a state monopoly to enjoy
 the merits of both Ivory Tower and boardroom.
 While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
-startup. There are two key problems: (a) structure, and (b)
-funding. Although these are related, I'll discuss them in turn.
+startup.
 
 ## 1. <a href="#toc">Core team</a><a id="sec-1" name="sec-1"></a>
 
@@ -84,13 +84,11 @@ interest a business.<label for="sn-1"
 research that Bell mined so successfully.
 So it makes sense to emulate the Bell <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
 hire a bunch of smart people, put them in rooms with sunlight, keep
-them happy, stimulated, focused, and fed, and by collaborative
-management, encourage them to approach the problems in creative and
+them stimulated, focused, and fed, and by collaborative
+management, get them to solve problems in creative and
 interdisciplinary ways.
 It worked for Bell.
 
-Of course, for this pitch to land, we do the problems to be
-compellingly important, not so applied that "pure research" is
-irrelevant, and to have suitably rich interconnections that we can
-hope the interdisciplinarity will bear fruit. (The other problem.)
+This 
 
+## 2. <a href="#toc">Problem choice</a><a id="sec-2" name="sec-2"></a>
