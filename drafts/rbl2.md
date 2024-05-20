@@ -77,7 +77,9 @@ interest a business.<label for="sn-1"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-   This is a notrivial prior about 
+   This may seem like a notrivial prior about problems, but it's
+   supported by a simple empirical experiment: look at what people
+   work on.
 	   </span> They lie, in other words, in that vein of creative applied
 research that Bell mined so successfully.
 So it makes sense to copy the <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
