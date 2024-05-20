@@ -60,11 +60,9 @@ And while Bell had the best of both worlds, but its material circumstances are
 unrepeatable. But there may be ways besides a state monopoly to enjoy
 the merits of both Ivory Tower and boardroom.
 
-## 1. <a href="#toc">Containers</a><a id="sec-1" name="sec-1"></a>
-
 Last time, I <a href="https://heptar.ch/rbl1/#sec-1-5">discussed</a>
-how to scale down some of the factors that made Bell Labs a success. I
-suspect that open sourcing is scaling down too far. Instead, I
-want to consider what this might look like in a small-to-medium size
-startup.
-I'll start with the easier problem of explaining what it looks like.
+how to scale down some of the factors in the Bell Labs "successipe". I
+suspect that open sourcing is scaling too far. Instead, I'll
+consider how we might realize the recipe in a small-to-medium size startup.
+
+## 1. <a href="#toc">Containers</a><a id="sec-1" name="sec-1"></a>
