@@ -56,6 +56,7 @@ R&D. Universities are slower, clunkier, more inward-looking; industry
 tends to be more constrained by revenue and other research-exogenous factors.
 Neither path is ideal.
 Bell had the best of both worlds. Although its material circumstances are
-unrepeatable, maybe there is some other way to combine their merits.
+unrepeatable, maybe there is some other way to combine the merits of
+the Ivory Tower and the boardroom.
 
 ## 1. <a href="#toc">Containers</a><a id="sec-1" name="sec-1"></a>
