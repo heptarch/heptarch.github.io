@@ -48,7 +48,7 @@ But the more I learn, the more essential the components of immersion and
 near-continual focus appear.
 You can patch a bug or smash out a feature request piecemeal, but no one is going to invent
 the transistor in their free time.
-The required quanta of sustained effort and attention are too large.
+The required quanta of effort and attention are too large.
 
 So, 
 
