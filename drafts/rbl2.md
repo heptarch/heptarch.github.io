@@ -59,10 +59,10 @@ And while Bell had the best of both worlds, its material circumstances are
 unrepeatable. But there may be ways besides a state monopoly to enjoy
 the merits of both the Ivory Tower and boardroom.
 
-Last time, I <a href="https://heptar.ch/rbl1/#sec-1-5">discussed</a>
-how to scale down some of the factors in the Bell Labs recipe for success. I
-suspect that open sourcing is going too far. Instead, I'll
-consider how we might realize the recipe in a small-to-medium size startup.
+I suspect that open sourcing is scaling down too far. I'll consider
+how we might realize the recipe in a small-to-medium size
+startup. There are two key problems: (a) structure, and (b)
+funding. Although these are related, I'll discuss them in turn.
 
 ## 1. <a href="#toc">Core</a><a id="sec-1" name="sec-1"></a>
 
