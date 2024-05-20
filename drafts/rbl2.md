@@ -64,6 +64,9 @@ how we might realize the recipe in a small-to-medium size
 startup. There are two key problems: (a) structure, and (b)
 funding. Although these are related, I'll discuss them in turn.
 
-## 1. <a href="#toc">Core</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#toc">Core team</a><a id="sec-1" name="sec-1"></a>
 
-The idea would be to critical mass of smart, 
+Here's the elevator pitch. We have a bunch of hard and unsolved
+problems. They are unsolved because they are too applied for
+academics, and too far from a profit, a product, or a patent to take
+on in a startup.
