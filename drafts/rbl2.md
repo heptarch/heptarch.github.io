@@ -63,5 +63,7 @@ the Ivory Tower and the boardroom.
 
 Last time, I <a href="https://heptar.ch/rbl1/#sec-1-5">discussed</a>
 how to scale down some of the factors that made Bell Labs a success. I
-suspect that open source science is scaling down too far. Instead, I
-want to consider 
+suspect that open sourcing is scaling down too far. Instead, I
+want to consider what this might look like in a small-to-medium size
+startup.
+I'll start with the easier problem of explaining what it looks like.
