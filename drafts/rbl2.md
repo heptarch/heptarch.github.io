@@ -45,10 +45,9 @@ distributed fashion, like open source software development. I wish
 that were true.
 But many of the factors that made Bell a success---focus, mission,
 creative and intellectual latitude---don't mean much unless they are
-part of a job description.
-Put differently, you can patch a bug or smash out a feature request
-piecemeal, but no one is going to invent the transistor in their free time.
-The required quanta of effort and attention are too large.
+built into a job description.
+Put differently, no one is going to invent the transistor in their
+free time; the required quanta of effort and attention are too large.
 
 I think the only realistic option is to pay people to think about
 these problems full time.
@@ -56,13 +55,15 @@ The two traditional approaches are academia and industrial
 R&D. Universities are slower, clunkier, more inward-looking; industry
 tends to be more constrained by revenue and other research-exogenous factors.
 Neither path is ideal.
-And while Bell had the best of both worlds, but its material circumstances are
+And while Bell had the best of both worlds, its material circumstances are
 unrepeatable. But there may be ways besides a state monopoly to enjoy
-the merits of both Ivory Tower and boardroom.
+the merits of both the Ivory Tower and boardroom.
 
 Last time, I <a href="https://heptar.ch/rbl1/#sec-1-5">discussed</a>
-how to scale down some of the factors in the Bell Labs "successipe". I
-suspect that open sourcing is scaling too far. Instead, I'll
+how to scale down some of the factors in the Bell Labs recipe for success. I
+suspect that open sourcing is going too far. Instead, I'll
 consider how we might realize the recipe in a small-to-medium size startup.
 
-## 1. <a href="#toc">Containers</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#toc">Core</a><a id="sec-1" name="sec-1"></a>
+
+The idea would be to critical mass of smart, 
