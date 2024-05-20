@@ -16,13 +16,13 @@ grey; line-height:1.5; border-radius: 15px">
 Live in the future.
 <br>
 
-<div style="text-align: center">— Paul Buchheit</div>
+<div style="text-align: right">— Paul Buchheit</div>
 <br>
 
 Live in the future, then build what's missing.
 <br>
 
-<div style="text-align: center">— Paul Graham</div>
+<div style="text-align: right">— Paul Graham</div>
 <br>
 
 Live in the future, find what's missing, and leave the rest to
