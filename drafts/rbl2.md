@@ -33,8 +33,8 @@ the development team.
 
 ## Contents <a id="toc" name="toc"></a>
 
-1. <a href="#sec-1"><i>Core team</i></a>
-2. <a href="#sec-1"><i>Problem choice</i></a>
+1. <a href="#sec-1"><i>Who: core team</i></a>
+2. <a href="#sec-1"><i>What: problem choice</i></a>
 
 ---
 
@@ -65,7 +65,7 @@ While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
 startup.
 
-## 1. <a href="#toc">Core team</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#toc">Who: core team</a><a id="sec-1" name="sec-1"></a>
 
 I'll start with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
@@ -89,6 +89,7 @@ management, get them to solve problems in creative and
 interdisciplinary ways.
 It worked for Bell.
 
-This 
+There are many "w" questions to flesh out here, but I'll start with
+"who". 
 
 ## 2. <a href="#toc">Problem choice</a><a id="sec-2" name="sec-2"></a>
