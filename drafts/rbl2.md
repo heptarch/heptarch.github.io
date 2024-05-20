@@ -60,3 +60,8 @@ unrepeatable, maybe there is some other way to combine the merits of
 the Ivory Tower and the boardroom.
 
 ## 1. <a href="#toc">Containers</a><a id="sec-1" name="sec-1"></a>
+
+Last time, I <a href="https://heptar.ch/rbl1/#sec-1-5">discussed</a>
+how to scale down some of the factors that made Bell Labs a success. I
+suspect that open source science is scaling down too far. Instead, I
+want to consider 
