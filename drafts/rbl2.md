@@ -77,7 +77,7 @@ focused, and get them to think in free and interdisciplinary
 ways about their problems.
 That's what Bell did and it worked.
 
-Of course, for this pitch to work, we do the problems to be
+Of course, for this pitch to land, we do the problems to be
 compellingly important, not so applied that "pure research" is
 irrelevant, and to have suitably rich interconnections that we can
 hope the interdisciplinarity will bear fruit.
