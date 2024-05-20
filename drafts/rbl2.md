@@ -39,10 +39,10 @@ the development team.
 
 The more I think about creative applied research, the more I feel that
 my <a href="https://heptar.ch/rbl1/">last assay</a> at the subject
-missed the mark.
+was too optimistic.
 I suggested that it might be possible to do great applied research in a
 distributed fashion, like open source software development. I wish
-that were true.
+that were true!
 But many of the factors that made Bell a success---focus, mission,
 creative and intellectual latitude---don't mean much unless they are
 built into a job description.
@@ -73,12 +73,12 @@ interest business. They lie, in other words, in that vein of creative applied
 research the Bell mined so successfully.
 So it makes sense to copy the <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
 hire a bunch of smart people, keep them happy, stimulated, and
-focused, and get them to think in free and interdisciplinary
-ways about their problems.
+focused, and get them to approach the problems in free and interdisciplinary
+ways.
 That's what Bell did and it worked.
 
 Of course, for this pitch to land, we do the problems to be
 compellingly important, not so applied that "pure research" is
 irrelevant, and to have suitably rich interconnections that we can
-hope the interdisciplinarity will bear fruit.
+hope the interdisciplinarity will bear fruit. (The other problem.)
 
