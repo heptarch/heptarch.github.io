@@ -55,8 +55,7 @@ The two traditional approaches are academia and industrial
 R&D. Universities are slower, clunkier, more inward-looking; industry
 tends to be more constrained by revenue and other research-exogenous factors.
 Neither path is ideal.
-Bell had the best of both worlds, but its material circumstances are
-unrepeatable.
-Maybe
+Bell had the best of both worlds. Although its material circumstances are
+unrepeatable, maybe there is a more realistic way to blend these two 
 
 ## 1. <a href="#toc">The Kelly gang</a><a id="sec-1" name="sec-1"></a>
