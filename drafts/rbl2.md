@@ -9,7 +9,7 @@ date:  2024-05-19
 **May 19, 2024.** *Solving hard technical problems requires
   intellectual freedom, total focus, interdisciplinary random walks,
   and a finely-tuned coupling to reality. Here, I ponder how to
-  establish and maintain these in a startup environment.*
+  establish and maintain these desiderata in a startup environment.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
