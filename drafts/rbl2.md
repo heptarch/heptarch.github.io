@@ -69,4 +69,5 @@ funding. Although these are related, I'll discuss them in turn.
 Here's the elevator pitch. We have a bunch of hard, important, and unsolved
 problems. They are unsolved because they are too commercial for
 academics, on the one hand, and too far from turning a buck to
-interest a traditional business or a startup.
+interest a business. They sit in that vein of creative applied
+research the Bell mined so successfully!
