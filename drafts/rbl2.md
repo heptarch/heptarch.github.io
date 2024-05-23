@@ -103,7 +103,8 @@ than build out labs from the get-go, I suspect it is better to
 develop a tight-knit *core team* of researchers with overlapping but
 complementary areas of expertise, radical openness to
 interdisciplinary leads, and wild synergy.
-Academic pedigree is 
+Academic pedigree is only useful so far as it helps point to the
+ability to do original research.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
