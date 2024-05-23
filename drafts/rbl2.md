@@ -135,7 +135,7 @@ natural flow of information between core, research leads, and teams.
 Of course, the core itself will still require oversight and
 leadership, which I'll get to below.
 
-This approach is driven by a few different considerations.
+This approach is driven by a few considerations.
 First of all, having a core flanked by specialized teams
 gives management a natural structure;
 second, it makes interdisciplinary critical mass a central part of the
