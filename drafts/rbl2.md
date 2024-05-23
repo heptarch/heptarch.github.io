@@ -105,7 +105,7 @@ slide deck, i.e. to explain themselves clearly.
 Each researcher will have their primary domain, but will be
 radically attentive to the possibilities of overlap in
 some secondary domains.
-<a href="https://heptar.ch/rbl1/#sec-1-4">Combinatorics
+And <a href="https://heptar.ch/rbl1/#sec-1-4">combinatorics
 favours</a> the notion that new ideas live in the gap between
 disciplines.
 
