@@ -32,7 +32,7 @@ the development team.
 
 ## Contents <a id="toc" name="toc"></a>
 
-1. <a href="#sec-1"><i>Who: core team</i></a>
+1. <a href="#sec-1"><i>Who: core forward</i></a>
 2. <a href="#sec-2"><i>What: problem choice</i></a>
 3. <a href="#sec-3"><i>How: collaborative management</i></a>
 4. <a href="#sec-4"><i>Where: environment</i></a>
@@ -66,7 +66,7 @@ While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
 startup or nonprofit.
 
-## 1. <a href="#toc">Who: core team</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#toc">Who: core forward</a><a id="sec-1" name="sec-1"></a>
 
 I'll lead in with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
@@ -110,7 +110,7 @@ Why? Because <a href="https://heptar.ch/rbl1/#sec-1-4">combinatorics
 favours</a> the notion that new ideas live in the gap between
 disciplines. The goal of the core team is exploratory, not conclusive;
 they sketch out the global shape of the problem space, the technical
-lacunae, roadblocks, and avenues of attack, the missing tools 
+lacunae, fruitful overlaps, roadblocks and avenues of attack. They 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
