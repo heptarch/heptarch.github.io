@@ -119,7 +119,7 @@ happens with the best-laid plans --- things go awry, or more
 optimistically, new developments occur across the disciplinary
 boundaries owned by core members.
 
-
+This "core-forward" approach 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
