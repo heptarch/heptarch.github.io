@@ -114,10 +114,12 @@ they sketch out the global shape of the problem space, the technical
 lacunae, fruitful overlaps, roadblocks and avenues of attack. Once the
 core team reaches a threshold level of strategic clarity, core
 researchers partially decouple and start to build out the teams that will implement these
-strategies. But they always remain partially coupled in case --- as
+strategies. But the core remains partially coupled in case --- as
 happens with the best-laid plans --- things go awry, or more
-optimistically, new and interesting developments occur across
-disciplinary lines.
+optimistically, new developments occur across the disciplinary
+boundaries owned by core members.
+
+
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
