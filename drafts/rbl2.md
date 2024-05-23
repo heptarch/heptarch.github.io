@@ -66,6 +66,8 @@ While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
 startup or nonprofit.
 
+## 1. <a href="#toc">Who: core team</a><a id="sec-1" name="sec-1"></a>
+
 I'll lead in with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
 because they are too applied to interest an academic, and too far from turning a buck to
@@ -87,8 +89,6 @@ them stimulated, focused, and well-fed, and ultimately, by collaborative
 management, get them to solve problems in creative and
 interdisciplinary ways.
 It worked for Bell.
-
-## 1. <a href="#toc">Who: core team</a><a id="sec-1" name="sec-1"></a>
 
 We can flesh this out using the grade school strategy of "wh-" questions,
 starting with "who". At Bell Labs, they hired scientists who could also
