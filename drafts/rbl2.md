@@ -139,8 +139,11 @@ This approach is driven by a few considerations.
 First of all, having a core flanked by specialized teams
 gives a natural outline and hierarchy to management;
 second, it makes synergy and interdisciplinary critical mass a central part of the
-strategic vision; finally, it lets the organization to start off small
-and flexible.
+strategic vision; finally, it lets the organization to start small and
+flexible.
+Although being "lean" is more often associated with software development, it
+makes sense in a research context where both methods and questions are
+initially in flux.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
