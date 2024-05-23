@@ -34,7 +34,8 @@ the development team.
 ## Contents <a id="toc" name="toc"></a>
 
 1. <a href="#sec-1"><i>Who: core team</i></a>
-2. <a href="#sec-1"><i>What: problem choice</i></a>
+2. <a href="#sec-2"><i>What: problem choice</i></a>
+3. <a href="#sec-3"><i>How: funding</i></a>
 
 ---
 
@@ -94,7 +95,8 @@ starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good postdocs; I'm guessing that a flair for applied
 research, and a certain porousness to ideas, were also
 prerequisites.
-
 In a smaller setting, academic pedigree is probably 
 
-## 2. <a href="#toc">Problem choice</a><a id="sec-2" name="sec-2"></a>
+## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
+
+## 3. <a href="#toc">How: funding</a><a id="sec-3" name="sec-3"></a>
