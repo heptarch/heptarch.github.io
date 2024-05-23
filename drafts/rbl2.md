@@ -90,8 +90,8 @@ It worked for Bell.
 
 We can flesh this out using the grade school strategy of "wh-" questions,
 starting with "who". At Bell Labs, they hired scientists who could also
-have gone on to good university postdocs; clearly, they also had to
-have a flair and interest for applied research, and maybe needed to
-vibe with the collegial
+have gone on to good postdocs; I'm guessing that a flair for applied
+research, and a certain porousness to ambient ideas, were also
+prerequisites.
 
 ## 2. <a href="#toc">Problem choice</a><a id="sec-2" name="sec-2"></a>
