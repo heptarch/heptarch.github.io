@@ -6,9 +6,8 @@ title: "Reflections on Bell Labs: Part 2"
 date:  2024-05-19
 ---
 
-**May 19, 2024.** *Bell Labs demonstrates that creative applied
-  research requires a delicate balance of freedom and focus. I ponder
-  how to establish and maintain this balance in a smaller environment.*
+**May 19, 2024.** *In this post, I ponder how to perform creative
+  applied research in a small (but not distributed) environment.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
