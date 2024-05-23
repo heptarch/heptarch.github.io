@@ -111,7 +111,8 @@ disciplines.
 
 The goal of the core team is exploratory, not conclusive;
 they sketch out the global shape of the problem space, the technical
-lacunae, fruitful overlaps, roadblocks and avenues of attack. Once the
+lacunae, fruitful overlaps, roadblocks and avenues of attack, rather
+than producing finished research. Once the
 core team reaches a threshold level of strategic clarity, core
 researchers partially decouple and start to build out the teams that will implement these
 strategies. But the core remains partially coupled in case --- as
