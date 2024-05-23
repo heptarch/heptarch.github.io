@@ -136,11 +136,9 @@ Of course, the core itself will still require oversight and
 leadership, which I'll get to below.
 
 This approach is driven by a few different considerations.
-First of all, that a concentric separation of concerns worked
-for Bell; second, that a core radiating teams imparts a natural
-structure and hierarchy to research management; finally, that it makes
-interdisciplinary critical mass, animated by collaborative synergy,
-the foundation of the group's efforts. Once again, it worked for Bell.
+First of all, a core flanked by specialized research teams provides a
+natural structure for hiring and collaborative management; second, it
+makes interdisciplinary critical mass the foundation of 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
