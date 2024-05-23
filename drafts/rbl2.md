@@ -107,7 +107,7 @@ disciplines.
 
 The goal of the core team is exploratory, not completist;
 they sketch out the global shape of the problem space, things like technical
-lacunae, fruitful overlaps, roadblocks and avenues of attack. Although
+lacunae, points of intersection, roadblocks and avenues of attack. Although
 they do not produce finished research, they need to be able to go
 technically deep and take core samples<label for="sn-1"
        class="margin-toggle sidenote-number">
