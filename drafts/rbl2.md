@@ -40,12 +40,10 @@ the development team.
 
 ---
 
-The more I think about creative applied research, the more it seems
-my <a href="https://heptar.ch/rbl1/">last assay</a> was too optimistic.
-I suggested that it might be possible to do great applied research in a
+<a href="https://heptar.ch/rbl1/">Last time</a>, I suggested that it might be possible to do great applied research in a
 distributed fashion, like open source software development. I wish
 that were true!
-But many of the factors that made Bell a success---focus, mission,
+But the more I think about it, the more it seems like many of the factors that made Bell a success---focus, mission,
 creative and intellectual latitude---don't mean much unless they are
 built into a job description.
 Put differently, no one is going to invent the transistor in their
@@ -122,10 +120,10 @@ optimistically, there is something new to discover.
 This "core-forward" approach is driven both by the logistics of hiring
 as well as priors about how to solve problems. In particular, Bell's track record suggests that a
 critical mass of interdisciplinary knowledge, animated by
-collaborative synergy, is more effective than a single giant brain
-in a vat. The brain can discover things, sure, but however
-much it knows, it is less effective at research since it has less attention
-to distribute. Discovery can and should be parallelized.
+collaborative synergy, is more effective than a single obsessive brain
+in a vat. The brain can go deep and discover all sorts of things,
+sure, but what it discovers is less interesting, and there is less of
+it. The idea of a core team is to optimize the tradeoff between.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
