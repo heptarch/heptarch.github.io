@@ -15,14 +15,20 @@ Live in the future.
 <br>
 
 <div style="text-align: right">— Paul Buchheit</div>
+</div>
 <br>
 
+<div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
+grey; line-height:1.5; border-radius: 15px">
 Live in the future, then build what's missing.
 <br>
 
-<div style="text-align: right">— Paul Graham</div>
+<div style="text-align: right">— Paul Graham</div>0
+</div>
 <br>
 
+<div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
+grey; line-height:1.5; border-radius: 15px">
 Live in the future, find what's missing, and leave the rest to
 the development team.
 <br>
