@@ -123,13 +123,16 @@ core team reaches a threshold level of strategic clarity, some core
 members will differentiate and start to build out the teams to pursue
 these strategies. At this point, hiring might begin to look more like Bell.
 
-But some of the core team should remain in the full-time role of
-articulating the shape of problem space.
-But the core remains partially coupled in case --- as
-happens with the best-laid plans --- things go awry, or more
-optimistically, there is something new to discover.
+But some core members should continue articulating the shape of
+problem space, full-time. They can feed in local data from individual
+labs, who will not only take core samples but expand them out into
+wells, and feed global data back.
+To facilitate this, lab heads should remain loosely coupled to the
+core.
 
-This "core-forward" approach is driven both by the logistics of hiring
+This "core-forward" approach seems by a number of considerations.
+
+both by the logistics of hiring
 as well as priors about how to solve problems. In particular, Bell's track record suggests that a
 critical mass of interdisciplinary knowledge, animated by
 collaborative synergy, is more effective than a single obsessive brain
