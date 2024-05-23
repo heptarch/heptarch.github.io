@@ -137,7 +137,7 @@ leadership, which I'll get to below.
 
 This approach is driven by a few considerations.
 First of all, having a core flanked by specialized teams
-gives management a natural structure;
+gives a natural outline and hierarchy to management;
 second, it makes interdisciplinary critical mass a central part of the
 strategic vision; finally, it lets the organization to start off small
 and flexible.
