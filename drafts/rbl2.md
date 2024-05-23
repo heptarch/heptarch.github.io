@@ -105,8 +105,9 @@ Each researcher will have their primary domain, but will be
 radically attentive to the possibility of overlap, and perhaps develop
 secondary and tertiary domains as a result.
 
-Why? Because combinatorics favours the notion that new ideas live in
-the gap between disciplines.
+Why? Because <a href="https://heptar.ch/rbl1/#sec-1-4">combinatorics favours</a> the notion that new ideas live in
+the gap between disciplines. The goal of the core team is not
+necessarily to solve the problems, but rather, to identify the 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
