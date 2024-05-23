@@ -6,8 +6,9 @@ title: "Reflections on Bell Labs: Part 2"
 date:  2024-05-19
 ---
 
-**May 19, 2024.** *Creative applied research requires a delicate balance of freedom and focus. I ponder how to
-  establish and maintain this balance in a startup environment.*
+**May 19, 2024.** *Bell Labs demonstrates that creative applied
+  research requires a delicate balance of freedom and focus. I ponder
+  how to establish and maintain this balance in a smaller environment.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
@@ -62,7 +63,7 @@ But maybe you don't need a state monopoly to enjoy
 the merits of both Ivory Tower and boardroom.
 While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
-startup.
+startup or nonprofit.
 
 I'll lead in with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
@@ -93,5 +94,7 @@ starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good postdocs; I'm guessing that a flair for applied
 research, and a certain porousness to ideas, were also
 prerequisites.
+
+In a smaller setting, academic pedigree is probably 
 
 ## 2. <a href="#toc">Problem choice</a><a id="sec-2" name="sec-2"></a>
