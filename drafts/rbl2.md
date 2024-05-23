@@ -96,8 +96,8 @@ the structure will be initially different, and the requirements will
 change with it. Rather
 than build out labs from the get-go, I suspect it is better to
 develop a tight-knit *core team* of researchers with overlapping but
-complementary areas of expertise, exemplary synergy and openness to
-new ideas, and the ability to make a killer
+complementary areas of expertise, exemplary synergy, interdisciplinary
+spirit, and the ability to make a killer
 slide deck, i.e. to explain themselves clearly.
 Each researcher will have their primary domain, but will be
 radically attentive to the possibilities of overlap in
