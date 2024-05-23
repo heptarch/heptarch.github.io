@@ -48,16 +48,15 @@ creative and intellectual latitude---don't mean much unless they are
 built into a job description.
 Put differently, no one is going to invent the transistor in their
 free time; the required quanta of effort and attention are too large.
-
-I think the only realistic option is to pay people to think about
+The only realistic option is to pay people to think about
 these problems full time.
+
 The two traditional approaches are academia and industrial
 R&D. Universities are slower, clunkier, more inward-looking and hidebound; industry
 is more constrained by revenue and other research-exogenous factors.
 Neither path is ideal.
 And while Bell had the best of both worlds, its material circumstances are
 unrepeatable.
-
 But maybe you don't need a state monopoly to enjoy
 the merits of both Ivory Tower and boardroom.
 While open sourcing is scaling down too far, I'll consider
