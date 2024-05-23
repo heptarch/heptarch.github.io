@@ -34,7 +34,9 @@ the development team.
 
 1. <a href="#sec-1"><i>Who: core team</i></a>
 2. <a href="#sec-2"><i>What: problem choice</i></a>
-3. <a href="#sec-3"><i>How: funding</i></a>
+3. <a href="#sec-3"><i>How: collaborative management</i></a>
+4. <a href="#sec-4"><i>Where: environment</i></a>
+4. <a href="#sec-4"><i>When: funding</i></a>
 
 ---
 
@@ -103,4 +105,8 @@ of expertise,
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
-## 3. <a href="#toc">How: funding</a><a id="sec-3" name="sec-3"></a>
+## 3. <a href="#toc">How: collaborative management</a><a id="sec-3" name="sec-3"></a>
+
+## 4. <a href="#toc">Where: environment</a><a id="sec-4" name="sec-4"></a>
+
+## 5. <a href="#toc">When: funding</a><a id="sec-5" name="sec-5"></a>
