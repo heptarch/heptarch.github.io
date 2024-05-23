@@ -20,7 +20,7 @@ Live in the future.
 Live in the future, then build what's missing.
 <br>
 
-<div style="text-align: right">— Paul Graham</div>0
+<div style="text-align: right">— Paul Graham</div>
 <br>
 
 Live in the future, find what's missing, and leave the rest to
