@@ -93,8 +93,8 @@ It worked for Bell.
 We can flesh this out using the grade school strategy of "wh-" questions,
 starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good postdocs; I'm guessing that a flair for applied
-research, and a porousness to new ideas, were also
-prerequisites.
+research, a porousness to new ideas, and compatbility with existing
+personnel, were also prerequisites.
 In a smaller setting, academic pedigree is probably 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
