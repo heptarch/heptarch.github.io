@@ -30,6 +30,13 @@ the development team.
 <div style="text-align: right">— The ghost of Mervyn Kelly</div>
 </div>
 
+## Contents <a id="toc" name="toc"></a>
+
+1. <a href="#sec-1"><i>Who: core team</i></a>
+2. <a href="#sec-1"><i>What: problem choice</i></a>
+
+---
+
 The more I think about creative applied research, the more I feel that
 my <a href="https://heptar.ch/rbl1/">last assay</a> at the subject
 was too optimistic.
@@ -56,13 +63,6 @@ the merits of both Ivory Tower and boardroom.
 While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
 startup.
-
-## Contents <a id="toc" name="toc"></a>
-
-1. <a href="#sec-1"><i>Who: core team</i></a>
-2. <a href="#sec-1"><i>What: problem choice</i></a>
-
----
 
 I'll lead in with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
