@@ -67,9 +67,9 @@ startup.
 
 ## 1. <a href="#toc">Who: core team</a><a id="sec-1" name="sec-1"></a>
 
-I'll start with a little elevator pitch. We have a bunch of hard, important, and unsolved
+I'll lead into this with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
-because they are too applied for academics to care, and too far from turning a buck to
+because they are too applied to interest an academic, and too far from turning a buck to
 interest a business.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -89,7 +89,7 @@ management, get them to solve problems in creative and
 interdisciplinary ways.
 It worked for Bell.
 
-There are many "w" questions to flesh out here, but I'll start with
-"who". 
+I'll use the grade school rhetorical strategy of "wh-" questions,
+starting with "who".
 
 ## 2. <a href="#toc">Problem choice</a><a id="sec-2" name="sec-2"></a>
