@@ -123,8 +123,9 @@ This "core-forward" approach is driven by various priors about
 problem-solving. In particular, Bell's track record suggests that a
 critical mass of interdisciplinary knowledge, animated by
 collaborative synergy, is more effective than a single giant brain
-floating in a jar. The brain can discover things, but it is less
-effective.
+floating in a jar. The brain can discover things, sure, but it is far
+less effective, since even if it knows as much it has less attention
+to distribute. Research is a good thing to parallelize.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
