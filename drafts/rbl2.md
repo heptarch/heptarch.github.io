@@ -117,8 +117,7 @@ core team reaches a threshold level of strategic clarity, core
 researchers partially decouple and start to build out the teams that will implement these
 strategies. But the core remains partially coupled in case --- as
 happens with the best-laid plans --- things go awry, or more
-optimistically, new developments occur across the disciplinary
-boundaries owned by core members.
+optimistically, there is something new to discover.
 
 This "core-forward" approach 
 
