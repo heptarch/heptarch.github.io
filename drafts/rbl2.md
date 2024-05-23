@@ -82,7 +82,7 @@ interest a CEO.<label for="sn-1"
    This may seem like a notrivial prior about problems, but it's
    supported by a simple empirical experiment: look at what people
    work on.
-	   </span> They lie in the dead zone between academia and industry that Bell mined so successfully.
+	   </span> These problem lie, in other words, in the dead zone between academia and industry that Bell mined so successfully.
 So it makes sense to emulate the <a
 href="https://heptar.ch/rbl1/#sec-1-5">Bell recipe</a>:
 hire a bunch of smart people, put them in rooms with sunlight, keep
