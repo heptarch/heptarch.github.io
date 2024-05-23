@@ -87,8 +87,7 @@ So it makes sense to emulate the <a
 href="https://heptar.ch/rbl1/#sec-1-5">Bell recipe</a>:
 hire a bunch of smart people, put them in rooms with sunlight, keep
 them stimulated, focused, and well-fed, and ultimately, by management
-and judicious organizational structure, get them to solve problems in creative and
-interdisciplinary ways.
+and judicious organizational structure, get them to solve problems in creative ways.
 It worked for Bell.
 
 We can flesh this out using the grade school strategy of "wh-" questions,
