@@ -110,7 +110,13 @@ Why? Because <a href="https://heptar.ch/rbl1/#sec-1-4">combinatorics
 favours</a> the notion that new ideas live in the gap between
 disciplines. The goal of the core team is exploratory, not conclusive;
 they sketch out the global shape of the problem space, the technical
-lacunae, fruitful overlaps, roadblocks and avenues of attack. They 
+lacunae, fruitful overlaps, roadblocks and avenues of attack. Once the
+core team reaches a threshold level of strategic clarity, core
+researchers partially decouple and start to build out the teams that will implement these
+strategies. But they always remain partially coupled in case --- as
+happens with the best-laid plans --- things go awry, or more
+optimistically, new and interesting developments occur across
+disciplinary lines.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
