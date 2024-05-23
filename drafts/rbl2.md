@@ -127,7 +127,7 @@ That said, some core members should continue articulating the shape of
 problem space, full-time, since that shape will change as new data
 comes in. The individual research teams will not only be drilling core samples,
 but expanding and connecting those narrow shafts into wells; they will feed their local data to
-their core and get global data back.
+back to center and receive global data in return.
 To facilitate this, research leads should remain loosely coupled,
 part-time members of the core.
 The hope would be to replace superhuman managerial insight with a
