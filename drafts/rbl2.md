@@ -119,7 +119,8 @@ strategies. But the core remains partially coupled in case --- as
 happens with the best-laid plans --- things go awry, or more
 optimistically, there is something new to discover.
 
-This "core-forward" approach is driven by various priors about
+This "core-forward" approach is driven both by the logistics of hiring
+as well as priors about
 problem-solving. In particular, Bell's track record suggests that a
 critical mass of interdisciplinary knowledge, animated by
 collaborative synergy, is more effective than a single giant brain
