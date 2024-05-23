@@ -110,7 +110,7 @@ The goal of the core team is exploratory, not completist;
 they sketch out the global shape of the problem space, things like technical
 lacunae, points of intersection, roadblocks and avenues of attack. Although
 they do not produce finished research, they need to be able to go
-technically deep and take core samples<label for="sn-1"
+technically deep and take core samples.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
@@ -118,7 +118,7 @@ technically deep and take core samples<label for="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
   Pun intended.
-	   </span> of the problem space. Once the
+	   </span> Once the
 core team reaches a threshold level of strategic clarity, some core
 members will differentiate into "research leads", and start to build out the teams to pursue
 these strategies. At this point, hiring might begin to look more like Bell.
