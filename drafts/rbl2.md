@@ -118,9 +118,11 @@ technically deep and take core samples<label for="sn-1"
 	   <span class="sidenote">
   Pun intended.
 	   </span> of the problem space. Once the
-core team reaches a threshold level of strategic clarity, core
-researchers partially decouple and start to build out the teams that will implement these
-strategies. But the core remains partially coupled in case --- as
+core team reaches a threshold level of strategic clarity, some core
+members will differentiate and start to build out the teams to pursue
+these strategies. At this point, hiring might look more like Bell.
+
+But the core remains partially coupled in case --- as
 happens with the best-laid plans --- things go awry, or more
 optimistically, there is something new to discover.
 
