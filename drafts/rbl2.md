@@ -126,12 +126,11 @@ happens with the best-laid plans --- things go awry, or more
 optimistically, there is something new to discover.
 
 This "core-forward" approach is driven both by the logistics of hiring
-as well as priors about
-problem-solving. In particular, Bell's track record suggests that a
+as well as priors about how to solve problems. Bell's track record suggests that a
 critical mass of interdisciplinary knowledge, animated by
 collaborative synergy, is more effective than a single giant brain
-floating in a jar. The brain can discover things, sure, but it is less
-effective, since however much it knows it has less attention
+floating in a vat. The brain can discover things, sure, but however
+much it knows, it is less effective since it has less attention
 to distribute. Research is a useful thing to parallelize.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
