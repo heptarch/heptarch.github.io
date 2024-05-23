@@ -66,8 +66,8 @@ how we might realize the recipe in a startup or nonprofit.
 
 I'll lead in with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
-because they are too applied to interest a professor, and too far from turning a buck to
-interest a CEO.<label for="sn-1"
+because they are too applied to excite a professor, and too far from turning a buck to
+excite a CEO.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
