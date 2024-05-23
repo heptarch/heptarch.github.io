@@ -99,9 +99,9 @@ In a small organization of creative applied research, I think
 the mixture will be similar but the proportions will change. Rather
 than build out labs from the get-go, I suspect it is better to
 develop a tight-knit *core team* of researchers with overlapping but
-complementary areas of expertise, exemplary openness to
-new ideas, synergy up the wazoo, and the ability to make a killer
-slide deck.
+complementary areas of expertise, exemplary synergy and openness to
+new ideas, and the ability to make a killer
+slide deck, i.e. to explain themselves clearly.
 Each researcher will have their primary domain, but will be
 radically attentive to the possibilities of overlap, particularly in
 some secondary domains.
