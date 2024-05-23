@@ -91,8 +91,9 @@ have gone on to good postdocs; I'm guessing that a flair for applied
 research, a porousness to new ideas, and compatibility with existing
 personnel, were prerequisites in addition to academic pedigree.
 
-In a small organization of creative applied research, I think
-the mixture will be similar but the proportions will change. Rather
+In a small-to-medium size organization for creative applied research,
+the structure will be initially different, and the requirements will
+change with it. Rather
 than build out labs from the get-go, I suspect it is better to
 develop a tight-knit *core team* of researchers with overlapping but
 complementary areas of expertise, exemplary synergy and openness to
