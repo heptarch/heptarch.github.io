@@ -86,8 +86,8 @@ interest a CEO.<label for="sn-1"
 So it makes sense to emulate the <a
 href="https://heptar.ch/rbl1/#sec-1-5">Bell recipe</a>:
 hire a bunch of smart people, put them in rooms with sunlight, keep
-them stimulated, focused, and well-fed, and ultimately, by collaborative
-management, get them to solve problems in creative and
+them stimulated, focused, and well-fed, and ultimately, by management
+and judicious organizational structure, get them to solve problems in creative and
 interdisciplinary ways.
 It worked for Bell.
 
@@ -103,8 +103,7 @@ than build out labs from the get-go, I suspect it is better to
 develop a tight-knit *core team* of researchers with overlapping but
 complementary areas of expertise, radical openness to
 interdisciplinary leads, and wild synergy.
-Academic pedigree is only useful so far as it helps point to the
-ability to do original research.
+Academic pedigree is useful only insofar as it original research.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
