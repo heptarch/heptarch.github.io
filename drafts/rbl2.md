@@ -119,7 +119,8 @@ strategies. But the core remains partially coupled in case --- as
 happens with the best-laid plans --- things go awry, or more
 optimistically, there is something new to discover.
 
-This "core-forward" approach 
+This "core-forward" approach is driven by priors about problem-solving
+that are not entirely 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
