@@ -122,8 +122,9 @@ optimistically, there is something new to discover.
 This "core-forward" approach is driven by various priors about
 problem-solving. In particular, Bell's track record suggests that a
 critical mass of interdisciplinary knowledge, animated by
-collaborative synergy, is more effective than a single giant
-know-it-all brain floating in a jar.
+collaborative synergy, is more effective than a single giant brain
+floating in a jar. The brain can discover things, but it is less
+effective.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
