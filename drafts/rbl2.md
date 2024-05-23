@@ -105,10 +105,11 @@ slide deck.
 Each researcher will have their primary domain, but will be
 radically attentive to the possibility of overlap, with
 secondary or tertiary domains as a result.
-
 Why? Because <a href="https://heptar.ch/rbl1/#sec-1-4">combinatorics
 favours</a> the notion that new ideas live in the gap between
-disciplines. The goal of the core team is exploratory, not conclusive;
+disciplines.
+
+The goal of the core team is exploratory, not conclusive;
 they sketch out the global shape of the problem space, the technical
 lacunae, fruitful overlaps, roadblocks and avenues of attack. Once the
 core team reaches a threshold level of strategic clarity, core
