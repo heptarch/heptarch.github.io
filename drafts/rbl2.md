@@ -36,13 +36,12 @@ the development team.
 2. <a href="#sec-2"><i>What: problem choice</i></a>
 3. <a href="#sec-3"><i>How: collaborative management</i></a>
 4. <a href="#sec-4"><i>Where: environment</i></a>
-4. <a href="#sec-4"><i>When: funding</i></a>
+4. <a href="#sec-4"><i>When: funding and development</i></a>
 
 ---
 
-The more I think about creative applied research, the more I feel that
-my <a href="https://heptar.ch/rbl1/">last assay</a> at the subject
-was too optimistic.
+The more I think about creative applied research, the more it seems
+my <a href="https://heptar.ch/rbl1/">last assay</a> was too optimistic.
 I suggested that it might be possible to do great applied research in a
 distributed fashion, like open source software development. I wish
 that were true!
@@ -115,4 +114,4 @@ the gap between disciplines.
 
 ## 4. <a href="#toc">Where: environment</a><a id="sec-4" name="sec-4"></a>
 
-## 5. <a href="#toc">When: funding</a><a id="sec-5" name="sec-5"></a>
+## 5. <a href="#toc">When: funding and development</a><a id="sec-5" name="sec-5"></a>
