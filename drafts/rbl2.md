@@ -103,7 +103,7 @@ complementary areas of expertise, exemplary synergy and openness to
 new ideas, and the ability to make a killer
 slide deck, i.e. to explain themselves clearly.
 Each researcher will have their primary domain, but will be
-radically attentive to the possibilities of overlap, particularly in
+radically attentive to the possibilities of overlap in
 some secondary domains.
 <a href="https://heptar.ch/rbl1/#sec-1-4">Combinatorics
 favours</a> the notion that new ideas live in the gap between
