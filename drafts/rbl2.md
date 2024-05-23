@@ -95,8 +95,9 @@ starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good postdocs; I'm guessing that a flair for applied
 research, a porousness to new ideas, and compatibility with existing
 personnel, were also prerequisites.
-In a smaller organization, research synergy with the rest of the team
-is even more important.
+
+In a small organization devoted to creative applied research, I think
+the mixture will be similar but the proportions will change.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
