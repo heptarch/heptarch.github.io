@@ -119,8 +119,9 @@ strategies. But the core remains partially coupled in case --- as
 happens with the best-laid plans --- things go awry, or more
 optimistically, there is something new to discover.
 
-This "core-forward" approach is driven by priors about
-problem-solving.
+This "core-forward" approach is driven by variou priors about
+problem-solving, particularly the notion that we need a critical mass
+of interdisciplinary knowledge animated by collaborative synergy.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
