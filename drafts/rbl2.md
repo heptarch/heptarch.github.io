@@ -121,7 +121,7 @@ technically deep and take core samples<label for="sn-1"
 	   </span> of the problem space. Once the
 core team reaches a threshold level of strategic clarity, some core
 members will differentiate and start to build out the teams to pursue
-these strategies. At this point, hiring might look more like Bell.
+these strategies. At this point, hiring might begin to look more like Bell.
 
 But some of the core team should remain in the full-time role of
 articulating the shape of problem space.
