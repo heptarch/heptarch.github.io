@@ -80,9 +80,10 @@ interest a business.<label for="sn-1"
    supported by a simple empirical experiment: look at what people
    work on.
 	   </span> They lie in the dead zone between academia and industry that Bell mined so successfully.
-So it makes sense to emulate the Bell <a href="https://heptar.ch/rbl1/#sec-1-5">recipe</a>:
+So it makes sense to emulate the <a
+href="https://heptar.ch/rbl1/#sec-1-5">Bell recipe</a>:
 hire a bunch of smart people, put them in rooms with sunlight, keep
-them stimulated, focused, and fed, and by collaborative
+them stimulated, focused, and well-fed, and ultimately, by collaborative
 management, get them to solve problems in creative and
 interdisciplinary ways.
 It worked for Bell.
