@@ -104,7 +104,7 @@ radically attentive to the possibilities of overlap with other
 domains, since <a
 href="https://heptar.ch/rbl1/#sec-1-4">combinatorics</a> and indeed
 common sense favour the notion that new ideas live in the gap between
-disciplines.
+disciplines. Why should the universe obey our rules?
 
 The goal of the core team is exploratory, not completist;
 they sketch out the global shape of the problem space, things like technical
