@@ -6,8 +6,7 @@ title: "Reflections on Bell Labs: Part 2"
 date:  2024-05-19
 ---
 
-**May 19, 2024.** *Solving hard technical problems via fundamental
-  research requires a delicate balance of freedom and focus. I ponder how to
+**May 19, 2024.** *Creative applied research requires a delicate balance of freedom and focus. I ponder how to
   establish and maintain this balance in a startup environment.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
@@ -30,13 +29,6 @@ the development team.
 
 <div style="text-align: right">— The ghost of Mervyn Kelly</div>
 </div>
-
-## Contents <a id="toc" name="toc"></a>
-
-1. <a href="#sec-1"><i>Who: core team</i></a>
-2. <a href="#sec-1"><i>What: problem choice</i></a>
-
----
 
 The more I think about creative applied research, the more I feel that
 my <a href="https://heptar.ch/rbl1/">last assay</a> at the subject
@@ -64,6 +56,13 @@ the merits of both Ivory Tower and boardroom.
 While open sourcing is scaling down too far, I'll consider
 how we might realize the recipe in a small-to-medium size
 startup.
+
+## Contents <a id="toc" name="toc"></a>
+
+1. <a href="#sec-1"><i>Who: core team</i></a>
+2. <a href="#sec-1"><i>What: problem choice</i></a>
+
+---
 
 ## 1. <a href="#toc">Who: core team</a><a id="sec-1" name="sec-1"></a>
 
