@@ -60,8 +60,7 @@ unrepeatable.
 But maybe you don't need a state monopoly to enjoy
 the merits of both Ivory Tower and boardroom.
 While open sourcing is scaling down too far, I'll consider
-how we might realize the recipe in a small-to-medium size
-startup or nonprofit.
+how we might realize the recipe in a startup or nonprofit.
 
 ## 1. <a href="#toc">Who: core-forward</a><a id="sec-1" name="sec-1"></a>
 
