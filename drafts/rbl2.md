@@ -98,10 +98,12 @@ research, a porousness to new ideas, and compatibility with existing
 personnel, were also prerequisites.
 
 In a small organization devoted to creative applied research, I think
-the mixture will be similar but the proportions will change. I suspect
-that, rather than build out labs from the get-go, it is better to
-develop a tight-knit *core team* of researchers with overlapping areas
-of expertise,
+the mixture will be similar but the proportions will change. Rather
+than build out labs from the get-go, I suspect it is better to
+develop a tight-knit *core team* of researchers with overlapping but
+complementary areas of expertise, radical openness to
+interdisciplinary leads, and wild synergy.
+Academic pedigree is 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
