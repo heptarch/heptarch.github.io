@@ -70,7 +70,7 @@ startup or nonprofit.
 
 I'll lead in with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
-because they are too applied to interest an academic, and too far from turning a buck to
+because they are too applied to interest a professor, and too far from turning a buck to
 interest a business.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -81,7 +81,7 @@ interest a business.<label for="sn-1"
    This may seem like a notrivial prior about problems, but it's
    supported by a simple empirical experiment: look at what people
    work on.
-	   </span> They lie in the dead zone between academia and industry that Bell mined so successfully.
+	   </span> They lie, in other words, in the dead zone between academia and industry that Bell mined so successfully.
 So it makes sense to emulate the <a
 href="https://heptar.ch/rbl1/#sec-1-5">Bell recipe</a>:
 hire a bunch of smart people, put them in rooms with sunlight, keep
@@ -93,9 +93,9 @@ It worked for Bell.
 We can flesh this out using the grade school strategy of "wh-" questions,
 starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good postdocs; I'm guessing that a flair for applied
-research, a porousness to new ideas, and compatbility with existing
+research, a porousness to new ideas, and compatibility with existing
 personnel, were also prerequisites.
-In a smaller setting, academic pedigree is probably 
+In a smaller organization, academic pedigree is probably 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
