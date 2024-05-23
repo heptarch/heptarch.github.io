@@ -100,14 +100,17 @@ the mixture will be similar but the proportions will change. Rather
 than build out labs from the get-go, I suspect it is better to
 develop a tight-knit *core team* of researchers with overlapping but
 complementary areas of expertise, exemplary openness to
-new ideas, and synergy up the wazoo.
+new ideas, synergy up the wazoo, and the ability to make a killer
+slide deck.
 Each researcher will have their primary domain, but will be
-radically attentive to the possibility of overlap, and perhaps develop
-secondary and tertiary domains as a result.
+radically attentive to the possibility of overlap, with
+secondary or tertiary domains as a result.
 
-Why? Because <a href="https://heptar.ch/rbl1/#sec-1-4">combinatorics favours</a> the notion that new ideas live in
-the gap between disciplines. The goal of the core team is not
-necessarily to solve the problems, but rather, to identify the 
+Why? Because <a href="https://heptar.ch/rbl1/#sec-1-4">combinatorics
+favours</a> the notion that new ideas live in the gap between
+disciplines. The goal of the core team is exploratory, not conclusive;
+they sketch out the global shape of the problem space, the technical
+lacunae, roadblocks, and avenues of attack, the missing tools 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
