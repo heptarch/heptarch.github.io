@@ -128,21 +128,19 @@ problem space, full-time, since that shape will change as new data
 comes in. The individual research teams will not only be drilling core samples,
 but expand those shafts into wells; they will feed their local data to
 their core and get global data back.
-To facilitate this, research leads should remain part of the core,
-albeit part-time, 
+To facilitate this, research leads should remain loosely coupled,
+part-time members of the core.
+The hope would be to replace superhuman managerial insight with a
+natural flow of information between core, research leads, and teams.
+Of course, the core itself will still require oversight and
+leadership, which I'll get to below.
 
-This "core-forward" approach is driven by a few different
-considerations.
-First, I have strong priors that difficult applied problems are
-usually solved by a critical mass of interdisciplinary knowledge.
-
-both by the logistics of hiring
-as well as priors about how to solve problems. In particular, Bell's track record suggests that a
-critical mass of interdisciplinary knowledge, animated by
-collaborative synergy, is more effective than a single obsessive brain
-in a vat. The brain can go deep and discover all sorts of things,
-sure, but what it discovers is less interesting, and there is less of
-it. The idea of a core team is to optimize the tradeoff between.
+This approach is driven by a few different considerations.
+First of all, that a concentric separation of concerns worked
+for Bell; second, that a core radiating teams imparts a natural
+structure and hierarchy to research management; finally, that it makes
+interdisciplinary critical mass, animated by collaborative synergy,
+the foundation of 
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
