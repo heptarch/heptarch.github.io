@@ -94,7 +94,7 @@ We can flesh this out using the grade school strategy of "wh-" questions,
 starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good postdocs; I'm guessing that a flair for applied
 research, a porousness to new ideas, and compatibility with existing
-personnel, were also prerequisites.
+personnel, were prerequisites, in addition to academic pedigree.
 
 In a small organization of creative applied research, I think
 the mixture will be similar but the proportions will change. Rather
