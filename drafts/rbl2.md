@@ -126,7 +126,7 @@ these strategies. At this point, hiring might begin to look more like Bell.
 That said, some core members should continue articulating the shape of
 problem space, full-time, since that shape will change as new data
 comes in. The individual research teams will not only be drilling core samples,
-but expanding those narrow shafts into wells; they will feed their local data to
+but expanding and connecting those narrow shafts into wells; they will feed their local data to
 their core and get global data back.
 To facilitate this, research leads should remain loosely coupled,
 part-time members of the core.
