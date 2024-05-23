@@ -94,14 +94,20 @@ We can flesh this out using the grade school strategy of "wh-" questions,
 starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good postdocs; I'm guessing that a flair for applied
 research, a porousness to new ideas, and compatibility with existing
-personnel, were prerequisites, in addition to academic pedigree.
+personnel, were prerequisites in addition to academic pedigree.
 
 In a small organization of creative applied research, I think
 the mixture will be similar but the proportions will change. Rather
 than build out labs from the get-go, I suspect it is better to
 develop a tight-knit *core team* of researchers with overlapping but
-complementary areas of expertise, radical openness to
+complementary areas of expertise, exemplary openness to
 new ideas, and synergy up the wazoo.
+Each researcher will have their primary domain, but will be
+radically attentive to the possibility of overlap, and perhaps develop
+secondary and tertiary domains as a result.
+
+Why? Because combinatorics favours the notion that new ideas live in
+the gap between disciplines.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
