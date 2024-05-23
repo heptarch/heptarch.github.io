@@ -120,17 +120,21 @@ technically deep and take core samples<label for="sn-1"
   Pun intended.
 	   </span> of the problem space. Once the
 core team reaches a threshold level of strategic clarity, some core
-members will differentiate and start to build out the teams to pursue
+members will differentiate into "research leads", and start to build out the teams to pursue
 these strategies. At this point, hiring might begin to look more like Bell.
 
-But some core members should continue articulating the shape of
-problem space, full-time. They can feed in local data from individual
-labs, who will not only take core samples but expand them out into
-wells, and feed global data back.
-To facilitate this, lab heads should remain loosely coupled to the
-core.
+That said, some core members should continue articulating the shape of
+problem space, full-time, since that shape will change as new data
+comes in. The individual research teams will not only be drilling core samples,
+but expand those shafts into wells; they will feed their local data to
+their core and get global data back.
+To facilitate this, research leads should remain part of the core,
+albeit part-time, 
 
-This "core-forward" approach seems by a number of considerations.
+This "core-forward" approach is driven by a few different
+considerations.
+First, I have strong priors that difficult applied problems are
+usually solved by a critical mass of interdisciplinary knowledge.
 
 both by the logistics of hiring
 as well as priors about how to solve problems. In particular, Bell's track record suggests that a
