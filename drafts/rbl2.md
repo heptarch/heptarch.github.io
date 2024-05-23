@@ -136,9 +136,11 @@ Of course, the core itself will still require oversight and
 leadership, which I'll get to below.
 
 This approach is driven by a few different considerations.
-First of all, having a core flanked by specialized research teams
-gives management, hiring, and strategic vision a natural structure;
-second, it takes interdisciplinary critical mass a key
+First of all, having a core flanked by specialized teams
+gives management a natural structure;
+second, it makes interdisciplinary critical mass a central part of the
+strategic vision; finally, it lets the organization to start off small
+and flexible.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
