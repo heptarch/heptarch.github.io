@@ -123,7 +123,7 @@ This "core-forward" approach is driven both by the logistics of hiring
 as well as priors about how to solve problems. In particular, Bell's track record suggests that a
 critical mass of interdisciplinary knowledge, animated by
 collaborative synergy, is more effective than a single giant brain
-floating in a vat. The brain can discover things, sure, but however
+in a vat. The brain can discover things, sure, but however
 much it knows, it is less effective at research since it has less attention
 to distribute. Discovery can and should be parallelized.
 
