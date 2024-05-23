@@ -122,6 +122,8 @@ core team reaches a threshold level of strategic clarity, some core
 members will differentiate and start to build out the teams to pursue
 these strategies. At this point, hiring might look more like Bell.
 
+But some of the core team should remain in the full-time role of
+articulating the shape of problem space.
 But the core remains partially coupled in case --- as
 happens with the best-laid plans --- things go awry, or more
 optimistically, there is something new to discover.
