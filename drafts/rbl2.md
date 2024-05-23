@@ -88,7 +88,7 @@ It worked for Bell.
 
 ## 1. <a href="#toc">Who: core team</a><a id="sec-1" name="sec-1"></a>
 
-We can flesh this out using the grade school rhetorical strategy of "wh-" questions,
+We can flesh this out using the grade school strategy of "wh-" questions,
 starting with "who". At Bell Labs, they hired scientists who could also
 have gone on to good university postdocs; clearly, they also had to
 have a flair and interest for applied research, and maybe needed to
