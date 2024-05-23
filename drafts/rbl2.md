@@ -71,7 +71,7 @@ startup or nonprofit.
 I'll lead in with a little elevator pitch. We have a bunch of hard, important, and unsolved
 problems. Many remain unsolved not so much because they are hard, but
 because they are too applied to interest a professor, and too far from turning a buck to
-interest a business.<label for="sn-1"
+interest a CEO.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
