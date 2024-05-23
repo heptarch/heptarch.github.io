@@ -106,9 +106,18 @@ favours</a> the notion that new ideas live in the gap between
 disciplines.
 
 The goal of the core team is exploratory, not completist;
-they sketch out the global shape of the problem space, the technical
-lacunae, fruitful overlaps, roadblocks and avenues of attack, rather
-than producing finished research. Once the
+they sketch out the global shape of the problem space, things like technical
+lacunae, fruitful overlaps, roadblocks and avenues of attack. Although
+they do not produce finished research, they need to be able to go
+technically deep and take core samples<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+  Pun intended.
+	   </span> of the problem space. Once the
 core team reaches a threshold level of strategic clarity, core
 researchers partially decouple and start to build out the teams that will implement these
 strategies. But the core remains partially coupled in case --- as
