@@ -143,7 +143,7 @@ strategic vision; finally, it lets the organization start out small and
 flexible.
 Although being "lean" is more often associated with software
 development, it also makes sense in a research context where both
-methods and problems are initially in flux.
+methods and problems are in flux.
 
 ## 2. <a href="#toc">What: problem choice</a><a id="sec-2" name="sec-2"></a>
 
