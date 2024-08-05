@@ -126,10 +126,10 @@
             font-weight: 500;
         }
         section h2 {
-            font-size: 1.5rem;
-            font-weight: 500;
+            font-size: 1.3rem;
+            font-weight: 400;
             margin-bottom: 2rem;
-            text-transform: uppercase;
+            text-transform: italic;
         }
 .bai-jamjuree-regular {
   font-family: "Bai Jamjuree", sans-serif;
@@ -221,7 +221,7 @@ nav li {
 nav .dropdown ul {
     position: absolute;
     top: 120%;
-    left: 4px;
+    left: 3px;
     visibility: hidden;
     opacity: 0;
     transform: translateY(-10px);
@@ -280,73 +280,7 @@ section.wide {
             color: #fffff;
             text-decoration: none;
         }
-
-/* FIXED HEIGHT SCROLLING */
-
-div.scroll {
-        background-color: #fed9ff00;
-        width: 800px;
-        height: 140px;
-        overflow-x: hidden;
-        overflow-y: auto;
-        text-align: left;
-        padding: 0;
-      }
 	
-/* FORM STUFF */
-
-.contact-container {
-  max-width: 1200px;
-  margin: -30pt 32pt 10pt;
-  padding: 0px;
-  text-align: left;
-  display: block;
-}
-
-form {
-  background-color: #f4f4f400;
-  padding: 40px;
-  border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0);
-}
-
-label {
-  display: block;
-  font-weight: 500;
-  margin-bottom: 20px;
-}
-
-input,
-textarea {
-  display: block;
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 20px;
-  border: none;
-  border-radius: 5px;
-  background-color: #fff;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
-}
-
-button {
-            font-family: 'Jura', sans-serif;
-            background-color: #ffffff;
-            color: #04707bff;
-            font-size: 1.1rem;
-            font-weight: 500;
-            letter-spacing: 1px;
-            padding: 0.8rem 2rem;
-            border: none;
-            border-radius: 0.7rem;
-            cursor: pointer;
-            transition: all 0.2s ease-in-out;
-        }
-button:hover {
-            background-color: #087a84ff;
-            color: #ffffff;
-	    text-decoration: underline;
-}
-
 /* LANDING */
 
 .landing {
