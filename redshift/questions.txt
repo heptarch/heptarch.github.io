@@ -1,0 +1,48 @@
+      <li>You have a pile of warm metal shavings in the shape of a
+      cone. Discuss.</li><br>
+      
+      <li>How can a two-level quantum system be used to navigate
+      around a star? Describe the underlying principles. </li><br>
+
+      <li>Suppose intelligent life evolves from
+    topologically robust quantum matter. Describe its social
+    structure and language.</li><br>
+    
+      <li>George Box said "All models are wrong, but some are useful."
+    Is this a model?</li><br>
+    
+      <li>Someone gives you a hot rock. Design a simple language 
+      called <tt>rock</tt> (and
+      optionally a compiler) for computing using physical operations on
+      the rock.</li><br>
+
+      <li>In the sewer beneath the Prague Orloj is a locked
+      box. What's inside? </li><br>
+      
+      <li>Create a lab of autonomous AI agents
+  using an organizational/research philosophy of your own devising. Report
+  their most interesting finding. Do you think your organizational
+  principles helped?</li><br>
+
+      <li>Explain how a quantum spin could be used to navigate
+      around a star.</li>
+
+  <li>Is it surprising that time is one-dimensional?</li><br>
+  
+      <li>Formulate evolution as a physico-mathematical
+  principle, using some combination of (a) quining, (b) Fisher's
+  fundamental theorem, and (c) non-equilibrium thermodynamics.</li><br>
+  </ul>
+
+ <section class="landing" id="pilots">
+	    <div a class="overlay">
+	      	  <h1>Pilot Projects</h1>
+            <p>We are currently developing three pilot
+	    projects: <b>StateCraft</b>,
+	    <b>Invisible Ink</b> and <b>Paχ</b>. These lie in the overlapping
+	    fields of quantum computing, AI safety, and
+	    cryptography, where we hope to build a critical mass of
+	    expertise, along with the network effects that come with
+	    it. Read more <a href="#projects">below</a>.</p>
+	      <a href="#projects">▾</a>
+        </div>

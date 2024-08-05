@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>redshift.FAQ</title>
+<link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Jura:400,700"
+rel="stylesheet">
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<body>
+<header>
+   <a href="home.html" class="logo"><img src="logo3.svg" alt="Redshift Logo" width="240" height="auto"></a>
+        <nav>
+            <ul>
+                <li><a href="quantum.html">Quantum</a></li>
+                <li><a href="ai.html">AI</a></li>
+                <li><a href="crypto.html">Cryptography</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li class="dropdown">
+                <a href="home.html">More</a>
+		<ul>
+                    <li><a href="careers.html">Careers</a></li>
+		    <li><a href="mission.html">Mission</a></li>
+                    <li><a href="FAQ.html">FAQ</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+		  </ul>
+            </li>
+	      </ul>
+        </nav>
+</header>
+
+  <section class="wide">
+    <div class="container">
+      <h2>Frequently Asked Questions</h2>
+
+      <h3>Why Redshift?</h3>
+      <p>Quantum computing</p>
+    </div>
+  </section>
+
+	    <hr>
+    <footer>
+        <p>&copy;2024 Project Redshift.</p>
+        <a href="#">Privacy Policy</a>
+    </footer>
+    <script>
+        const sections = document.querySelectorAll('section');
+
+        sections.forEach(section => {
+            section.addEventListener('click', () => {
+                window.location.href = section.querySelector('button').getAttribute('href');
+            });
+
+            section.querySelector('button').addEventListener('click', (event) => {
+                event.stopPropagation();
+            });
+        });
+    </script>
+</body>
+</html>
