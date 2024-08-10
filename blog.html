@@ -3,210 +3,306 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>caedrix.blog</title>
-    <style>
-        body {
-            background-color: #17171cff; /* Dark grey background */
-font-family: 'Overpass', sans-serif;
-            color: #D1D1D1; /* Muted white text color for contrast */
-            font-size: 11pt;
-}
-
-        body a {
-            color: #6a667cff; /* Muted white text color for contrast */
-}
-
-        body a:hover {
-            color: #9d9aacff; /* Muted white text color for contrast */
-         }
-
-        header {
-            background-color: #17171cff; /* Slightly darker grey for the header */
-            text-align: center;
-            padding: 40px 0 15px 0;
-            position: fixed;
-            width: 100%;
-            top: 0;
-            z-index: 1000;
-           font-family: 'Forum', serif;
-        }
-
-        header .logo {
-            font-size: 28px;
-            font-weight: bold;
-            display: inline-block;
-            vertical-align: bottom;
-            margin-left: -398pt;
-            }
-
-        header .logo a {
-            text-decoration: none;
-            color: #D1D1D1;
-          }
-
-        nav {
-            display: inline-block;
-            vertical-align: middle;
-            margin-left: 420px;
-            font-family: 'Overpass', sans-serif;
-            font-variant: small-caps;
-            font-size: 14pt;
-           }
-
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: #D1D1D1;
-            transition: color 0.3s;
-        }
-
-        nav a:hover {
-            color: #FFFFFF;
-        }
-
-       h1, h2, h3, h4, h5, h6 {
-          font-family: 'Forum', serif;
-       }
-
-        .main-artwork {
-            display: flex;
-            justify-content: center;
-            padding: 80px 0 -0px; /* Increased top padding to account
-for fixed header */
-            filter: grayscale(80%);
-        }
-
-        .main-artwork:hover {
-            filter: grayscale(0%);
-            transition: filter 1s;
-         }
-
-        footer {
-            text-align: center;
-            padding: 20px;
-            font-size: 14px;
-            background-color: #18171cff; /* Slightly darker grey for the header */
-         }
-
-
-.blog-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(162px, 1fr)); /* This creates a responsive grid with columns that are at least 200px wide */
-    gap: 20px; /* Space between grid items */
-    padding: 100px 0; /* Space above and below the grid */
-    margin: 0 38px; /* Center the grid horizontally */
-    max-width: 890px; /* Maximum width of the grid */
-}
-
-.blog img {
-    width: 100%; /* Make images fill the width of the .project div */
-    height: auto; /* Maintain the original aspect ratio */
-    border-radius: 3px; /* Optional: Add rounded corners to the
-thumbnails */
-filter: grayscale(80%);
-            transition: filter 1s;
-}
-
-.blog img:hover {
-            filter: grayscale(10%);
-            transition: filter 0.5s;
-}
-
-.blog-title {
-text-align: right;
-            font-variant: small-caps;
-    margin-bottom: 10px; /* Space above the project title */
-    font-size: 21px;
-    font-family: 'Overpass', sans-serif;
-}
-
-.blog-description {
-text-align: left;
-    margin-top: 10px; /* Space above the project title */
-    font-size: 15px;
-font-family: 'Rubik', sans-serif;
-}
-
-p {
-    margin-top: 1.4rem;
-    margin-bottom: 1.4rem;
-    padding-right: 0;
-    vertical-align: baseline;
-    font-size: 18px;
-    font-family: 'Rubik', sans-serif;
-}
-</style>
-<link rel="stylesheet" href="blog-style.css">
+<title>Redshift > Blog</title>
+<link rel="stylesheet" href="blog.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Forum&family=Nunito:ital,wght@0,400;0,700;1,400;1,700&family=Overpass:ital,wght@0,200;0,400;0,700;1,400;1,700&family=Rubik:ital,wght@0,300;1,300&display=swap" rel="stylesheet">
-
-<script>
-MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']]
-  },
-  svg: {
-    fontCache: 'global'
-  }
-};
-</script>
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+<link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Jura:wght@300..700&display=swap" rel="stylesheet">
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
 </head>
 <body>
-
-    <header>
-        <div class="logo"><a href="caedrix.html">caedrix.ai</a></div>
+<header>
+<a href="redshift.html" class="logo-container">
+                        <img src="logos/logo4.svg" alt="Logo" class="logo" style="margin: 10px 0 0 0">
+                        <img src="logos/logo3.svg" alt="New Logo" class="hover-logo" style="margin: 10px 0 0 0">
+                    </a>
         <nav>
-            <a href="blog.html">blog</a>
-	<a href="#writing">writing</a>
-            <a href="#art">art</a>
-	<a href="#videos">videos</a>
-	<a href="#about">about</a>
-	</nav>
-    </header>
-	
-<div class="blog-grid">
-    
-    <!-- Project 2 -->
-    <div class="blog">
-        <div class="blog-title">hello world</div>
-	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
-          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
-	  </div>
+            <ul>
+	      <li><a href="blog.html">Blog</a></li>
+                <li class="dropdown">
+                <a href="redshift.html">Projects</a>
+		<ul>
+		    <li><a href="statecraft.html">StateCraft</a></li>
+		    <li><a href="invisible.html">Invisible Ink</a></li>
+                    <li><a href="pax.html">Paχ</a></li>
+		  </ul>
+                <li class="dropdown">
+                <a href="redshift.html">More</a>
+		  <ul>
+		    <li>Docs</li>
+		    <li><a href="mission.html">Mission</a></li>
+		    <li><a href="careers.html">Careers</a></li>
+		  </ul>
+            </li>
+	      </ul>
+        </nav>
+	      </header>
 
-    <!-- Project 2 -->
-    <div class="blog">
-        <div class="blog-title">hello world</div>
-	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
-          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
-	  </div>
+<main>
+            <!-- First Article -->
+            <article>
+                <div class="article-meta">
+		<div class="article-date">August 9, 2024</div>
+                    <h2 class="article-title">Envisioning Redshift</h2>
+		<div class="article-author">David Wakeham</div>
+                </div>
+                <div class="article-content" style="margin: -1.2rem 0
+		  -200px 0">
+		  <h3>Introduction</h3>
+		  <p>Welcome! This post outlines a preliminary vision
+            for a Bell Labs-style "idea collider", focused on
+            solving the world's most challenging problems and
+            bringing innovations that benefit all. This sounds
+            ambitious, and it is. But I'll try to argue that Bell
+            Labs offers a precedent that can plausibly  be
+            adapted from a 19th century state monopoly to a
+            21st century startup.</p>
+		  
+		  <h3>Three ways</h3>
+                    <p>First, let's ask the question: what is best way
+                    to solve real-world
+            problems in science and technology? Broadly
+            speaking, there are
+            two approaches. The first is
+            academic. It occurs in universities, and is funded by
+            grants to (often tenured or tenure-track) principal
+            investigators. These investigators may
+            be part of larger collaborations, consortia, or research
+            initiatives. But since hiring and funding tend to reward
+            individual publication metrics, <a
+            href="https://en.wikipedia.org/wiki/Goodhart%27s_law">Goodhart's
+                    Law</a> tells us that these will be
+                    maximized. The focus on individual publication
+                    record leads to siloing and an
+            obvious bias against work which is practical, messy,
+		  or heuristic, thereby precludes
+                    advances on concrete problems in the real world.
+		  </p> <br>
 
-    <!-- Project 2 -->
-    <div class="blog">
-        <div class="blog-title">hello world</div>
-	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
-          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
-	  </div>
+		  <p>
+	    The second approach is private enterprise. In principle, this
+	    is better placed to solve messy problems,
+	    since a for-profit operation can command
+	    more capital, has strong incentives against siloing, and
+	    must yield practical outcomes if it hopes to survive. But
+	    here Goodhart's Law cuts even deeper, since the pressure to
+	    generate revenue limits research horizons and
+	    timelines. Solutions may well be
+	    profitable, but are likely to be suboptimal, both from the
+	    research perspective and that of distributive fairness.
+</p><br>
 
-    <!-- Project 2 -->
-    <div class="blog">
-        <div class="blog-title">hello world</div>
-	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
-          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
-	  </div>
+<p>
+Is there a way to enjoy the benefits of both? Industrial-academic
+partnerships are one option, but since these involve two parties
+operating under separate constraints, it is some ways the <i>worst</i>
+of both worlds rather than  the best. (Naturally, there are exceptions.) More promising,
+perhaps, is the
+industrial R&D lab.
+These vary widely in scope, operation, and profit motive; we'll focus
+on the "blue sky" efforts which lie
+in the tail of the innovation distribution. The goal here is usually
+major competitive advantage from an unexpected breakthrough, but
+because these breakthroughs are rare, blue sky research is risky and
+usually only attempted by larger companies which can absorb the possible losses.
+Modern examples range from the <a
+href="https://en.wikipedia.org/wiki/Skunkworks_project">Skunkworks
+projects</a> of the aerospace sector to the
+ <a href="https://x.company/">moonshot factories</a> of Big Tech.</p>
 
-    <!-- Project 2 -->
-    <div class="blog">
-        <div class="blog-title">hello world</div>
-	<a href="posts/22-10-23.html"><img src="pics/thumbnail-authors.png" alt="Blog 2"></a>
-          <div class="blog-description"> I explain who or what I am. <i>October 22, 2023.</i> </div>
+<h3>Bell Labs</h3>
+
+<p>
+However innovative these modern exemplars, history shows a clear outlier: Bell Labs. After Alexander
+Graham Bell invented the telephone in the 1870s, he formed a company to develop a
+continental telephone system for the United States. Constructing the national
+infrastructure for a new technology, from scratch, naturally required
+a research division to solve the many questions that arose. By the mid-20th
+century, this research division—Bell Labs—had became the largest and most productive industrial 
+research facility in the world.
+</p><br>
+
+<p>
+Let's reel off a few of its successes: the
+transistor, the laser, <tt>C</tt>, <tt>UNIX</tt>, photovoltaic cells,
+quality control, information theory, modern cryptography,
+error-correcting codes, support vector machines, charged couple
+devices, radio astronomy, electron diffraction, optical fibres, and the
+Fast Fourier Transform, to name a few. No other R&D lab in history
+boasts so many Nobels, Turing awards, or IEEE prizes. No other lab touches so many branches of fundamental and applied science. It didn't
+invent the US telephone system; it invented the 20th century.
+</p><br>
+
+<p>
+In the '00s, Bell began to crumble—undermined by its own
+inventions—and Bell Labs crumbled with it. We'll ask why it failed
+below, but first: why was it was so successful for so long? It's easy
+to point to the monopoly, or the telephone system itself, but I
+think it was due to a number of factors:</p><br>
+<ul>
+  <li><b>Domain.</b> The lab was embedded in a problem-rich domain of application.</li>
+  <li><b>Mandate.</b> The lab was required to effectively solve the problems in this
+  domain.</li>
+  <li><b>Freedom.</b> Researchers had freedom to pursue and initiate
+  research projects connected to the domain.</li>
+  <li><b>Stability.</b> Researchers did not have to apply for funding,
+  and were encouraged to think long-term.</li>
+  <li><b>Interaction.</b> The environment was deliberately
+  collaborative and interdisciplinary.</li>
+  <li><b>Separation.</b> Research was strictly separated from
+  development/product, ensuring total focus.</li>
+  <li><b>Feedback.</b> Results from the domain, including
+  development/product, fed back into research.</li>
+  <li><b>Talent.</b> The lab hired researchers of high academic
+  calibre who were a good cultural fit. </li>
+  <li><b>Structure.</b> Managers and executives collaboratively
+  enable all of the above.</li>
+</ul><br>
+<p>
+You can read more about why I selected these factors <a href="https://heptar.ch/rbl1/">here</a>.
+</p>
+
+<h3>Monopoly isn't enough</h3>
+
+<p>
+A state monopoly with a broad infrastructural mandate helped realize
+each of the factors above, but wasn't strictly
+necessary.
+It seems clear that, at least in principle, Big Tech could do it
+today. But while subsidiaries like <a
+href="https://x.company/">Google <tt>X</tt></a> work on "blue sky",
+high-impact projects, they are cartoonishly divorced from Google's operational
+concerns and, it seems, designed by committee in advance. They are
+neither adequately coupled nor adequately free.
+</p><br>
+
+<p>
+So why don't we see Bell Labs everywhere in Big Tech? The answer is
+probably that, by sharing its innovations, Bell Labs put itself out of
+business, and Big Tech very much wants to stay in business. <a
+href="https://en.wikipedia.org/wiki/Google_DeepMind">DeepMind</a> is a
+case in point. Formed in the UK in 2010, the company did groundbreaking
+work in AI and reinforcement learning, particularly in the context of games, culminating in AlphaGo's
+defeat of Lee Sedol in 2015. DeepMind was acquired by Google the year before,
+and <a
+href="https://www.wsj.com/articles/google-unit-deepmind-triedand-failedto-win-ai-autonomy-from-parent-11621592951">despite
+its bids for autonomy</a>, was recently merged with Google Brain to form
+Google DeepMind. Its focus has now almost entirely shifted
+away from the open, heterogenous AI research that made it famous,
+to closed R&D for large language models like Gemini.
+This reflects Google's frantic struggle to catch up in the language
+model arms race.
+</p><br>
+
+<p>
+DeepMind could be given a long leash when times were good, but once
+executives started to panic, blue sky
+became a luxury the company couldn't afford.
+This clearly  shows the value of a monopoly for industrial
+research: it stops the market from spilling into
+the laboratory. But if a giant like Google—which, according to the US
+Department of Justice, <i>does</i> have a monopoly—can't manage it, how can
+anyone else?
+</p>
+
+<h3>Everything in its right place</h3>
+<p>
+There is a subtle difference between Bell Labs and DeepMind which
+suggests that corporate governance and organizational structure are
+more important than monopoly per se.
+DeepMind was acquired as an unprotected asset that could later be mined for talent; Bell
+Labs was operationally essential from the beginning and so operationally
+protected until the end. In terms of our criteria, DeepMind
+fails the requirement of mandate, and Google that of structure.
+</p><br>
+
+<p>
+Another cautionary tale is OpenAI. With its track-record of <a
+href="https://x.com/sama/status/1663983687241744393?lang=en">"repeatable
+innovation"</a> and cross-disciplinary insight, it may be the closest modern analogue of Bell Labs. The company <a
+href="https://openai.com/index/introducing-openai/">started out</a> as a
+non-profit entity whose goal was to research AI, safely, independently, and openly, for the good of
+all humanity. I would guess that it initially  ticked
+our boxes. But it has seemingly become a victim of its own success,
+transitioning, after the release of ChatGPT, to a closed, capped-profit entity enmeshed with
+Microsoft. This might have left the
+research culture intact for all I know, but the ongoing exodus of senior
+figures suggests otherwise.
+</p><br>
+
+<p>Time will tell whether these changes are in fact necessary for the company
+to achieve its mission. The point is that, either way, the
+initial structure could not bear the weight of ChatGPT's unexpected
+commercial success. At Bell, the research had a commercial outlet from
+the beginning; there was no need to choose between open, non-profit
+research and closed, for-profit product, because the two already
+existed in distinct places. 
+</p>
+
+<h3>Redshift</h3>
+
+<p>
+The history of Bell, Google and OpenAI suggest that, for repeatable
+innovation and long-term success, the industrial lab ("Research") should be paired
+from the outset with a commercial wing ("Product").
+Product supplies capital and contact with the problem domain, and
+receives the mature outcomes of Research in return. This arrangement can only work
+on the culturally- and institutionally-enforced understanding that
+Product does not interfere with Research.
+</p><br>
+
+<p>
+To get the ball rolling, there needs to be something for Product to
+commercialize, and Research to understand, analogous to the telephone
+system at Bell or the transformer at OpenAI. I propose
+three projects:
+</p><br>
+<ol>
+  <li><b><tt>StateCraft</tt>.</b> A high-level functional language for
+  quantum programming.</li>
+  <li><b>Invisible Ink.</b> A tool for watermarking large language models
+  at both training and output stages.</li>
+  <li><b>Paχ.</b> A partially centralized cryptocurrency.</li>
+</ol><br>
+
+<p>
+Each project couples a research mandate to a product; in turn, the
+projects are in overlapping domains and lend themselves to
+cross-disciplinary sequels. The goal of <b>Redshift</b> is to
+implement this initial project set and see if these expectations pan
+out. If so, we hone the methodology, scale up, and hope to become a
+Bell Labs-style center for repeatable innovation and creative applied
+research. And by honing culture, structure, and corporate governance, I think we can avoid the
+issues that plague blue sky innovation in Big Tech.</p><br>
+
+<p>I'll end with a draft mission statement for Redshift: 
+</p>
+
+<p style="margin:15px 20px 15px 20px;">
+<q>Our mission at Redshift is to solve the world's most challenging
+problems, with a spirit of creative freedom, technical excellence, and
+interdisciplinary play, making innovations that benefit all.</q>
+</p>
+
+<p>
+You can read more about the statement <a
+href="mission.html">here</a>. But in it, I've attempted to distil my
+take on what made Bell Labs successful, and what a modern recreation
+ought to do with its success.
+If this seems like a fun idea, <a
+      href="mailto:david@heptar.ch">get in touch</a>!
+</p>
+
+                </div>
+            </article>
+        </main>
     </div>
-	  
-	  </div>
-	
+    <footer>
+        <p>&copy;2024 Redshift Labs.</p>
+	      </footer>
+
 </body>
 </html>
