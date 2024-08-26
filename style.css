@@ -465,81 +465,91 @@ label.margin-toggle:not(.sidenote-number) {
     height: 100%;
 }
 
-@media (max-width: 760px) {
-    body {
-        width: 84%;
-        padding-left: 8%;
-        padding-right: 8%;
+/* Responsive Styles */
+
+/* Mobile Devices (max-width: 600px) */
+@media only screen and (max-width: 600px) {
+    header {
+        padding: 0.5rem 1rem;
     }
 
-    hr,
-    section > p,
-    section > footer,
-    section > table {
+    .logo-container {
+        width: 150px; /* Adjusted size for mobile */
+        height: 30px; /* Adjusted size for mobile */
+    }
+
+    nav ul {
+        flex-direction: column; /* Stack navigation items vertically */
+        align-items: center;
+    }
+
+    nav li {
+        margin-right: 0;
+        margin-bottom: 1rem; /* Space between items */
+    }
+
+    main {
+        padding: 2rem;
+        flex-direction: column; /* Stack sections vertically */
+    }
+
+    section {
+        width: 90%; /* Full width for mobile */
+        height: auto; /* Adjust height */
+        margin: 1rem 0; /* Space between sections */
+    }
+
+    section.wide {
+        width: 100%; /* Full width for wide sections */
+        margin: 1rem 0;
+    }
+
+    .landing,
+    .motto {
         width: 100%;
+        height: auto; /* Adjust height */
+        font-size: 1rem; /* Adjust font size */
     }
 
-    pre > code {
-        width: 97%;
+    .motto,
+    .landing {
+        font-size: 1rem; /* Smaller font size for mobile */
+    }
+}
+
+/* Tablets (max-width: 768px) */
+@media only screen and (max-width: 768px) {
+    nav ul {
+        flex-direction: row;
+        justify-content: center; /* Center navigation items */
     }
 
-    section > dl,
-    section > ol,
-    section > ul {
+    section {
+        width: 45%; /* Two sections per row */
+        margin: 1rem 0.5rem; /* Space between sections */
+    }
+
+    section.wide {
         width: 90%;
+        margin: 2rem auto;
     }
 
-    figure {
-        max-width: 90%;
+    .landing,
+    .motto {
+        width: 90%;
+        margin: 2rem auto;
+    }
+}
+
+/* Desktop (min-width: 769px) */
+@media only screen and (min-width: 769px) {
+    section {
+        width: 28%;
+        margin: 2rem; /* Standard margin */
     }
 
-    figcaption,
-    figure.fullwidth figcaption {
-        margin-right: 0%;
-        max-width: none;
-    }
-
-    blockquote {
-        margin-left: 1.5em;
-        margin-right: 0em;
-    }
-
-    blockquote p,
-    blockquote footer {
-        width: 100%;
-    }
-
-    label.margin-toggle:not(.sidenote-number) {
-        display: inline;
-    }
-
-    .sidenote,
-    .marginnote {
-        display: none;
-    }
-
-    .margin-toggle:checked + .sidenote,
-    .margin-toggle:checked + .marginnote {
-        display: block;
-        float: left;
-        left: 1rem;
-        clear: both;
-        width: 95%;
-        margin: 1rem 2.5%;
-        vertical-align: baseline;
-        position: relative;
-    }
-
-    label {
-        cursor: pointer;
-    }
-
-    div.table-wrapper,
-    table {
-        width: 85%;
-    }
-
-    img {
-        width: 100%;
+    section.wide {
+        width: 60%;
+        margin: 2rem auto; /* Center wide sections */
     }
 }
