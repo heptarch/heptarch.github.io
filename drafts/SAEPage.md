@@ -60,7 +60,7 @@ those purposes (approximately) don't interfere with each other.<label for="sn-1"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-	   The fully story is more fun and interesting, see the "Toy
+	   The full story is more fun and interesting, see the "Toy
 	   Models of Superposition" paper.
 	   </span>
 To learn features in an interpretable way, we can train
@@ -70,8 +70,18 @@ the next section, but loosely, we encourage the SAE to learn one
 feature per neuron, so it acts like a semantically "unfolded" version
 of the original neural network.
 
-Suppose we have $N$ neurons in our original network and $F$ neurons in
-the SAE we are training. We naturally want $F > N$, but the 
+Suppose we have $N$ neurons in our original network $\mathcal{N}$ and $F$ neurons in
+the SAE $\mathcal{F}$ we are training. We naturally want $F > N$, in
+order to disentangle the different features the neurons in
+$\mathcal{N}$ are activated by. But how much bigger is ideal? It turns
+out there is a tradeoff between our ability to disentangle
+activations—which pushes us in the direction of a bigger SAE
+$\mathcal{F}$—and the information we can extract from
+$\mathcal{N}$—which pushes towards smaller.
+The latter is a little counterintuitive, but the idea is that the
+bigger $\mathcal{F}$ is, the more ways there are to
+reverse-engineer $\mathcal{N}$.
+To choose a
 
 ## 2. <a href="#tbc">Setup</a><a id="sec-2" name="sec-2"></a>
 
