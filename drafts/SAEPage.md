@@ -10,14 +10,15 @@ date:  2026-03-12
 **March 12, 2026.** *Sparse autoencoders (SAEs) are a crucial mechanism for
   extracting interpretable information from a neural network. In this
   post, we explore phase transitions limiting the ability of SAEs to
-  do this extraction, and make a surprising connection between trained
-  neural networks and black holes.*
+  do this extraction, guided by a a surprising connection to black
+  holes that predicts exactly where this transition occurs.*
 
 <div style="background-color: #212433 ; padding: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-Quote<br>
+...information loss, once allowed, tends to be highly infectious...<br>
 
-<div style="text-align: right">— Authors, <i>Title</i>
+<div style="text-align: right">— Hayden and Preskill, <i><a
+href="https://arxiv.org/pdf/0708.4025">Black holes as mirrors</a></i>
 </div>
 </div>
 
@@ -66,7 +67,7 @@ those purposes (approximately) don't interfere with each other.<label for="sn-1"
 To learn features in an interpretable way, we can train
 [sparse autoencoders (SAEs)](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 on those networks. I'll explain how that's performed technically in
-the next section, but loosely, we encourage the SAE to learn one
+the next section, but loosely speaking, we encourage the SAE to learn one
 feature per neuron, so it acts like a semantically "unfolded" version
 of the original neural network.
 
@@ -75,13 +76,14 @@ the SAE $\mathcal{F}$ we are training. We naturally want $F > N$, in
 order to disentangle the different features the neurons in
 $\mathcal{N}$ are activated by. But how much bigger is ideal? It turns
 out there is a tradeoff between our ability to disentangle
-activations—which pushes us in the direction of a bigger SAE
-$\mathcal{F}$—and the information we can extract from
-$\mathcal{N}$—which pushes towards smaller.
-The latter is a little counterintuitive, but the idea is that the
-bigger $\mathcal{F}$ is, the more ways there are to
-reverse-engineer $\mathcal{N}$.
-To choose a
+activations, which pushes us in the direction of bigger
+$\mathcal{F}$, and the information we can extract from
+$\mathcal{N}$, which pushes towards smaller.
+The latter point is a little counterintuitive, but basically, the
+larger $\mathcal{F}$, the harder to extract information about
+$\mathcal{B}$ because there's more space to look! It's the ol' needle
+in the haystack.
+This tradeoff leads to a simple, concrete design question: how big should our SAE be?
 
 ## 2. <a href="#tbc">Setup</a><a id="sec-2" name="sec-2"></a>
 
