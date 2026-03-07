@@ -38,10 +38,10 @@ forecast by [Donoho and Tanner](https://arxiv.org/abs/0906.2530).
 
 1. <a href="#sec-1"><i>A puzzle</i></a>
 2. <a href="#sec-2"><i>Setup</i></a>
-3. <a href="#sec-3"><i>Experiment 1: transition in recoverability</i></a>
-4. <a href="#sec-4"><i>Experiment 2: the decoder bottleneck</i></a>
-5. <a href="#sec-5"><i>Experiment 3: basis pursuit vs sparsity</i></a>
-6. <a href="#sec-6"><i>Experiment 4: optimal regularization</i></a>
+3. <a href="#sec-3"><i>Experiment 1: Recoverability Transition</i></a>
+4. <a href="#sec-4"><i>Experiment 2: Decoder Bottleneck</i></a>
+5. <a href="#sec-5"><i>Experiment 3: Basis Pursuit</i></a>
+6. <a href="#sec-6"><i>Experiment 4: Regularization</i></a>
 7. <a href="#sec-7"><i>Black holes</i></a>
 8. <a href="#sec-8"><i>Open questions</i></a>
 
