@@ -29,21 +29,22 @@ I decided to explore the statistical physics of sparse recovery in neural
 networks. Guided by an analogy to black holes,
 we might expect a phase transition between recoverability and
 non-recoverability of the "information" inside a neural network, based
-on the size of the network we are sparsely autoencoding into. It
-requires a little experimental finesse, but we will show such a
-transition happens, albeit not where we expect.
+on the size of the network we are sparsely autoencoding
+into. Following the experimental trail, we will find such a
+transition precisely where we expect. We can use this to help design SAEs and characterize activation
+patterns in neural networks.
 
 ## Contents <a id="tbc" name="tbc"></a>
 
-1. <a href="#sec-1"><i>A Puzzle</i></a>
+1. <a href="#sec-1"><i>When Bigger is not Better</i></a>
 2. <a href="#sec-2"><i>Setting it Up</i></a>
-3. <a href="#sec-3"><i>Experiments</i></a>
-4. <a href="#sec-4"><i>Deeper Structure</i></a>
+3. <a href="#sec-3"><i>Hunting the Transition</i></a>
+4. <a href="#sec-4"><i>Why Black Holes?</i></a>
 5. <a href="#sec-5"><i>Open Questions</i></a>
 
 ---
 
-## 1. <a href="#tbc">A puzzle</a><a id="sec-1" name="sec-1"></a>
+## 1. <a href="#tbc">When Bigger is not Better</a><a id="sec-1" name="sec-1"></a>
 
 Machine learning models play an increasingly important role in our
 lives, but are notoriously opaque.
@@ -75,19 +76,29 @@ $\mathcal{N}$, which pushes towards smaller.
 The latter point is a little counterintuitive. Basically, the
 larger $\mathcal{F}$ is, the more ways it provides to explain a given
 activation pattern; to select a unique explanation, we use sparsity as
-a tie-breaker, but after a point, we can no longer extract information
-from $\mathcal{N}$ via sparsity.
+a tie-breaker. After a point, though, there are too many sparse
+vectors consistent with the observed activations that information
+about $\mathcal{N}$ gets lost like a needle in a haystack.
+
 This leads to a concrete architectural question: how big
-should our SAE be? By studying recoverability, we'll arrive at some
-general design principles.
+should our SAE be? Guided by the physics of black holes,
+we'll experiment with a synthetic toy model where
+we control the parameters, and observe the behaviour of
+recoverability. This will suggest design principles for SAEs applied to real neural networks.
 
 ## 2. <a href="#tbc">Setting it Up</a><a id="sec-2" name="sec-2"></a>
 
 In the tradition of small interpretability experiments, we'll use a
-synthetic system where we know the ground truth.
+synthetic system where we know the ground truth. We have a trained neural
+network $\mathcal{N}$ with $N$ neurons, a second network $\mathcal{F}$
+with $F \geq N$ neurons and ratio $\alpha = F/N$, and a ground truth
+map $W: \mathbb{R}^F \to \mathbb{R}^N$ that "encodes" the larger
+network into the smaller. We also assume $k$-sparsity in the sense
+that only $k = \rho F$ features get activated at a time in
+$\mathcal{F}$, for $\rho = k/F \in [0, 1]$.
 
-## 3. <a href="#tbc">Experiments</a><a id="sec-3" name="sec-3"></a>
+## 3. <a href="#tbc">Hunting the Transition</a><a id="sec-3" name="sec-3"></a>
 
-## 4. <a href="#tbc">Deeper Structure</a><a id="sec-4" name="sec-4"></a>
+## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
 ## 5. <a href="#tbc">Open Questions</a><a id="sec-5" name="sec-5"></a>
