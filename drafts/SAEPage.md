@@ -136,28 +136,15 @@ $\hat{V}:\mathcal{N}\to \mathcal{F}$ called the SAE decoder.
 	</div>
 	</figure>
 
-There are two natural thresholds governing when this recovery is possible.
-- The first is $\alpha = 1$. Below this point, $W$ is injective on
-  generic inputs and a linear decoder (the pseudoinverse $W^+$) suffices. Above it, the nullspace of $W$ is non-trivial: some feature directions are completely invisible to $\mathcal{N}$, and no linear decoder can recover them. This is where polysemanticity becomes inevitable.
-- The second threshold is subtler. Even above $\alpha = 1$, sparsity
-  can come to the rescue: a decoder that knows $f$ has only $k$
-  nonzero entries can search a much smaller space of candidates. But
-  this only works up to a critical ratio $\alpha^*(\rho)$, beyond
-  which even the best sparse decoder fails. This is the true phase
-  transition: the point at which information about $\mathcal{N}$ is
-  genuinely irrecoverable, not merely scrambled.
-
-These two thresholds divide the $(\alpha, \rho)$ plane into three qualitatively distinct regimes:
-
-- **Isometric** ($\alpha < 1$): features are linearly recoverable; no superposition.
-- **Superposition** ($1 < \alpha < \alpha^*$): features are scrambled but sparse structure permits recovery; polysemanticity is present but benign.
-- **Thermal** ($\alpha > \alpha^*$): information is genuinely lost; no decoder recovers the true features.
-
-(The terminology will become clear later.)
-The middle regime is where SAEs live and where they are useful. The
-boundary $\alpha^\star(\rho)$ is therefore the fundamental design
-constraint: an SAE with $\alpha > \alpha^*$ is not merely suboptimal,
-it is operating behind an information-theoretic horizon.
+We have a natural threshold at $\alpha = 1$. Below this point, $W$ can
+be *injective*, since there are more neurons in $\mathcal{N}$ than
+features in $\mathcal{F}$. Thus, a linear decoder (technically
+speaking, the pseudoinverse $W^+$) suffices.
+Above $\alpha = 1$ however, the nullspace of $W$ becomes nontrivial;
+inevitably, some nontrivial vectors are sent to zero, corresponding to
+feature directions which are invisible in $\mathcal{N}$, and which no
+linear decoder can recover. This is where polysemanticity starts, and
+our sparse tie-breaker comes into play.
 
 ## 3. <a href="#tbc">Hunting the Transition</a><a id="sec-3" name="sec-3"></a>
 
