@@ -182,7 +182,7 @@ varying $\rho\in \{0.05,0.10,0.20\}$. We will explain the dotted lines below:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/Page1.png" width="600"/>
+    ="/img/posts/Page1.png" width="700"/>
 	</div>
 	</figure>
 
