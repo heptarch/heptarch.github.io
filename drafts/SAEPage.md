@@ -198,6 +198,8 @@ $$
 \alpha^\star(\rho) = \frac{1}{\rho \log(1/\rho)}.
 $$
 
+We will explain this magic trick later.
+
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
 ## 5. <a href="#tbc">Open Questions</a><a id="sec-5" name="sec-5"></a>
