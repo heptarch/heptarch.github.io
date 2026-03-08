@@ -231,6 +231,7 @@ how a basis pursuit algorithm called FISTA compares to LASSO:
 
 The punchline is that by tuning the regularization constant $\lambda$
 in basis pursuit, we can outperform LASSO decoding and hit $\text{SRA}
-= 0.5$ at a new point corresponding to $C = 1$ in (\ref{DT}).
+= 0.5$ at a new point corresponding to $C = 1$ in (\ref{DT}). We
+suspect this is optimal.
 
 ## 4. <a href="#tbc">Open Questions</a><a id="sec-4" name="sec-4"></a>
