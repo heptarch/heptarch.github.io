@@ -69,10 +69,10 @@
        x="-68.48156"
        y="-119.98856" /><path
        style="fill:#12203a;fill-opacity:1;stroke:#5a677d;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m -53.003891,-45.542926 82.083616,0"
+       d="M -53.003891,-45.542926 H 30.863097"
        id="path4"
        sodipodi:nodetypes="cc" /><path
        style="fill:#12203a;fill-opacity:1;stroke:#5a677d;stroke-width:0.5;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 28.877134,1.3840093 V -90.864827"
+       d="M 30.660506,1.3840093 V -90.864827"
        id="path5"
        sodipodi:nodetypes="cc" /></g></svg>
