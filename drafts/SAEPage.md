@@ -274,6 +274,10 @@ paper for a more precise geometric argument.
 	</div>
 	</figure>
 
-That's concerning new for finding the optimal schedule. On the other,
-the curves appear to be forgiving, with a broad near-optimal plateau
-in the middle that falls off on either side.
+That seems like bad news for the regularization schedule. Luckily,
+the curves are forgiving, with a broad near-optimal plateau
+in the middle that falls off either side. If we stick to that plateau,
+which should be good.
+
+If $C=1$ is optimal, it tells us there are hard limits to
+recoverability. 
