@@ -314,3 +314,7 @@ approaches basis pursuit exactly as $\lambda \to 0$. As discussed in
 the previous point, for reasons that are not entrely clear, the
 optimal $\lambda$ is somewhat finely tuned, and neither pure basis
 pursuit nor LASSO saturate $C = 1$.
+
+*Black holes?* The secret underlying this post is that everything here
+ was inspired by thinking about neural networks as black holes. I'll
+ expand on this more in a future post, 
