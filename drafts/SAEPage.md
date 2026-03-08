@@ -158,6 +158,8 @@ are described as follows:
   an entry is nonzero with probability $\rho = k/F$ and then
   distributed as $\mathcal{N}(0, 1)$.
 
+This is simple enough to model easily (and even reason about
+analytically), but complex enough to give rise to superposition.
 We compare two different decoders:
 - the linear decoder or pseudoinverse $W^+$, which obeys
 $WW^+ = I$;
@@ -165,11 +167,16 @@ $WW^+ = I$;
   $\lambda$ calibrated to target the sparsity $k$ at a given $(\alpha,
   \rho)$.
 
+The first is a naive but useful baseline, while the second is the
+target we train in practice.
 Finally, we measure two complementary accuracy metrics:
 - the *support recovery accuracy*, the fraction of true nonzero entries
 of $f$ that appear in $\hat{f}$;
 - the *normalized mean-squared error (MSE)*, the expected value of
-  $\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$.
+$\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$.
+
+The first is something like a $\Vert \cdot\Vert_0$ measure of accuracy
+and the MSE a $\Vert \cdot\Vert_2$ measure.
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
