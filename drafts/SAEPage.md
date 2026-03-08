@@ -175,8 +175,11 @@ of $f$ that appear in $\hat{f}$;
 - the *normalized mean-squared error (MSE)*, the expected value of
 $\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$ over $f$.
 
-The first is something like a $\Vert \cdot\Vert_0$ measure of accuracy
+Support accuracy is something like a $\Vert \cdot\Vert_0$ measure of accuracy
 while the MSE corresponds to $\Vert \cdot\Vert_2$.
+Our first experiment explores how these metrics change with $\alpha =
+F/N$, sweeping $\alpha$ from $0.4$ to $6.5$, holding $N=200$ and
+varying $\rho\in \{0.05,0.10,0.20\}$.
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
