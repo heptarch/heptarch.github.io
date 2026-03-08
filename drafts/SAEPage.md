@@ -196,7 +196,7 @@ support recovery (just below $0.5$, indicated by a solid line) for a
 special function (indicated by dotted line on right)
 
 $$
-\alpha^\star(\rho) = \frac{1}{\rho \log(1/\rho)}.
+\alpha^\ast(\rho) = \frac{1}{\rho \log(1/\rho)}.
 $$
 
 We will explain this magic trick later, but importantly, it
