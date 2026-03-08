@@ -235,3 +235,6 @@ in basis pursuit, we can outperform LASSO decoding and hit $\text{SRA}
 conjecture this is optimal.
 
 ## 4. <a href="#tbc">Thoughts and Open Questions</a><a id="sec-4" name="sec-4"></a>
+
+*Why does the transition occur at $\alpha^\ast(\rho)$?* The answer
+ comes from *compressed sensing* which studies the problem of sparse recovery $n = Wf$. The basic idea
