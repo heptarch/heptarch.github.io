@@ -242,3 +242,5 @@ conjecture this is optimal.
  entries for a vector in $\mathcal{F}$, there are $\binom{F}{k}$ ways
  to choose the "active" dimensions, and hence the active subspace $f$
  (or rather, our reconstructed $\hat{f} = \hat{V}n$) lives in.
+ If we knew which subspace $W$ lived in, we could easily invert by
+ restricting to those $k$ columns.
