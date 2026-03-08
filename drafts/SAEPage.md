@@ -37,7 +37,7 @@ transition, and we can use our findings to design SAEs in practice.
 
 1. <a href="#sec-1"><i>When Bigger is not Better</i></a>
 2. <a href="#sec-2"><i>Setting it Up</i></a>
-3. <a href="#sec-3"><i>The Second Transition</i></a>
+3. <a href="#sec-3"><i>Hunting the Transition</i></a>
 4. <a href="#sec-4"><i>Why Black Holes?</i></a>
 5. <a href="#sec-5"><i>Open Questions</i></a>
 
@@ -148,7 +148,7 @@ our sparsity tie-breaker comes into play in order to select $\hat{V}$.
 The question is whether there is structure beyond the simple $\alpha =
 1$ threshold.
 
-## 3. <a href="#tbc">The Second Transition</a><a id="sec-3" name="sec-3"></a>
+## 3. <a href="#tbc">Hunting the Transition</a><a id="sec-3" name="sec-3"></a>
 
 Onto the experiments. In our synthetic setup, features and encodings
 are described as follows:
