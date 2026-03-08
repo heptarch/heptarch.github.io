@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Losti in subspace: sparse autoencoding and the Tanner-Donoho crossing"
+title: "Sparse autoencoding and the Tanner-Donoho crossing"
 short: "SAEPage"
 date:  2026-03-12
 ---
@@ -213,7 +213,7 @@ to finite-size effects, but settle into a universal crossing right around the $\
 	</div>
 	</figure>
 
-Solving a sparse recovery problems puts us in the setting of
+Solving a sparse recovery problem puts us in the setting of
 compressed sensing, where
 [foundational results](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436)
 in the literature tell us the LASSO is *not* optimal (though it is
@@ -249,7 +249,8 @@ N^* \approx \log \binom{F}{k} \approx k \log (F/k)
 $$
 
 measurements, using Stirling's approximation, where we treat each
-neuron as a measurement. This leads to
+neuron activation $n_i = w_i \cdot f$ as a single linear measurement
+of the feature vector. This leads to
 
 $$
 \alpha^* = \frac{F}{N^*} = \frac{1}{k \log (F/k)} = \frac{1}{\rho \log(1/\rho)}
@@ -277,7 +278,7 @@ paper for a more precise geometric argument.
 That seems like bad news for the regularization schedule. Luckily,
 the curves are forgiving, with a broad near-optimal plateau
 in the middle that falls off either side. If we stick to that plateau,
-which should be good.
+we should be good.
 If $C=1$ is optimal and universal, it tells us there are hard limits to
 recoverability. Although
 [expanding the SAE](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
@@ -311,17 +312,20 @@ approximately using
 *FISTA (Fast Iterative Shrinkage-Thresholding Algorithm)*, 
 which still has a sparsity term regularized by $\lambda$, and
 approaches basis pursuit exactly as $\lambda \to 0$. As discussed in
-the previous point, for reasons that are not entrely clear, the
+the previous point, for reasons that are not entirely clear, the
 optimal $\lambda$ is somewhat finely tuned, and neither pure basis
 pursuit nor LASSO saturate $C = 1$.
 
 *Black holes?* The secret underlying this post is that everything here
  was inspired by thinking about neural networks as black holes. I'll
  expand on this more in a future post, but the basic observation is
- that black holes leak information (like $\mathcal{N}$) and we
- typically want to capture that information in an auxiliary system
- (like $\mathcal{F}$). There are constraints on how and when we can
+ that black holes scramble and leak information into auxiliary systems
+ surrounding the black hole, much as $\mathcal{N}$ scrambles and leaks
+ information into $\mathcal{F}$. There are constraints on how and when we can
  access information called the
  [*Page curve*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.44.301);
- I simply wanted to find the Page curve of an SAE learning from a
- neural network.
+ I simply wanted to find the Page curve of training an SAE.
+
+### Code
+
+### Acknowledgements
