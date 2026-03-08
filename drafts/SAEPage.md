@@ -287,7 +287,7 @@ irrecoverably into the many subspaces.
 Our findings suggest that, as a design principle, we should consider
 the tradeoff between feature grain and information loss carefully.
 
-*What is basis pursuit* The LASSO decoder minimises $\ell(n,\hat{f}$
+*What is basis pursuit?* The LASSO decoder minimises $\ell(n,\hat{f})$
 from equation (\ref{lasso}) with a finite $\lambda$, which introduces
 a bias, since it shrinks all coefficients toward zero, not just the
 inactive ones. The theoretically optimal sparse decoder is *basis
@@ -305,9 +305,13 @@ Tao (2006)](https://arxiv.org/abs/math/0503066) and
 [Donoho (2006)](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436),
 is that this convex program recovers the true sparse $f$ *exactly*
 whenever $N \gtrsim k\log(F/k)$. No bias, no shrinkage, no tuning of
-$\lambda$. In practice, basis pursuit is solved iteratively and
+$\lambda$.
+
+In practice, basis pursuit is solved iteratively and
 approximately using
 *FISTA (Fast Iterative Shrinkage-Thresholding Algorithm)*, 
 which still has a sparsity term regularized by $\lambda$, and
-approaches basis pursuit exactly as $\lambda \to 0$. We found that, in
-practice, 
+approaches basis pursuit exactly as $\lambda \to 0$. As discussed in
+the previous point, for reasons that are not entrely clear, the
+optimal $\lambda$ is somewhat finely tuned, and neither pure basis
+pursuit nor LASSO saturate $C = 1$.
