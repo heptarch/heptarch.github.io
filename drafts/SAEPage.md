@@ -274,6 +274,6 @@ paper for a more precise geometric argument.
 	</div>
 	</figure>
 
-That's concerning! On the other, the curves appear similar, and there
+That's concerning new for finding the optimal schedule. On the other, the curves appear similar, and there
 is hope that, like $\alpha^\ast$, there may be an analytic formula for
 the optimal $\lambda(\alpha, \rho)$.
