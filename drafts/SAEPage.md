@@ -189,7 +189,7 @@ varying $\rho\in \{0.05,0.10,0.20\}$. Here are the plots:
 As we expect, the linear decoder quickly degrades beyond $\alpha =
 1$, while the sparse LASSO decoders also decay more quickly as $\rho$
 increases, or put differently, sparsity decreases. This makes sense
-too; the less sparse things are, the harder it is to recover!
+too; the denser features are, the harder to disentangle!
 But there is a mysterious consistency lurking in these plots. Although
 the LASSO curves behave differently, they also hit a fixed value of
 support recovery (just below $0.5$, indicated by a solid line) for a
