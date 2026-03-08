@@ -205,7 +205,7 @@ Another probe of universality is to vary $N$ and see how the curves
 fluctuate; if the behaviour is universal, we would expect to see
 crossing at the same value. Here, we plot the LASSO SRA for $\rho
 = 0.1$ and various values of $N$. The results initially fluctuate, but
-settle into a universal pattern right at $\text{SRA} = 0.5, \alpha^\ast
+settle into a universal pattern right around the $\text{SRA} = 0.5, \alpha^\ast
 \approx 3.81$ mark:
 
 <figure>
@@ -214,6 +214,18 @@ settle into a universal pattern right at $\text{SRA} = 0.5, \alpha^\ast
 	</div>
 	</figure>
 
-[Donoho (2006)](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436)
+Solving a sparse recovery problems puts us in the setting of
+compressed sensing, where
+[foundational results](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436)
+in the literature tell us the LASSO is *not* optimal (though it is
+performant). Instead, near-optimality is guaranteed for a method
+called *basis pursuit*. I won't go into the details, but simply show
+how it compares to LASSO:
+
+<figure>
+    <div style="text-align:center; padding: 15px"><img src
+    ="/img/posts/EXPage3.png" width="450"/>
+	</div>
+	</figure>
 
 ## 4. <a href="#tbc">Open Questions</a><a id="sec-4" name="sec-4"></a>
