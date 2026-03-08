@@ -191,7 +191,8 @@ the LASSO curves behave differently, they also hit a fixed SRA value
 special function of $\rho$ (indicated by the thicker dotted line):
 
 $$
-\alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C \approx 1.14.
+\alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C
+\approx 1.14. \tag{2} \label{DT}
 $$
 
 This sensibly diverges as $\rho \to 0$; we expect this, since any number of neurons
@@ -220,12 +221,16 @@ compressed sensing, where
 in the literature tell us the LASSO is *not* optimal (though it is
 performant). Instead, near-optimality is guaranteed for a method
 called *basis pursuit*. I won't go into the details, but simply show
-how it compares to LASSO:
+how a basis pursuit algorithm called FISTA compares to LASSO:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
     ="/img/posts/EXPage3.png" width="450"/>
 	</div>
 	</figure>
+
+The punchline is that by tuning the regularization constant $\lambda$
+in basis pursuit, we can outperform LASSO decoding and hit $\text{SRA}
+= 0.5$ at a new point corresponding to $C = 1$ in (\ref{DT}).
 
 ## 4. <a href="#tbc">Open Questions</a><a id="sec-4" name="sec-4"></a>
