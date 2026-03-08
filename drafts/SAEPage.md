@@ -178,12 +178,13 @@ Support accuracy is something like a $\Vert \cdot\Vert_0$ measure of accuracy
 while the MSE corresponds to $\Vert \cdot\Vert_2$.
 Our first experiment explores how these metrics change with $\alpha =
 F/N$, sweeping $\alpha$ from $0.4$ to $6.5$, holding $N=200$ and
-varying $\rho\in \{0.05,0.10,0.20\}$. We will explain the dotted lines below:
+varying $\rho\in \{0.05,0.10,0.20\}$.
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
     ="/img/posts/Page1.png" width="700"/>
 	</div>
+	<caption>Experiment 1: the $\alpha$ sweep</caption>
 	</figure>
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
