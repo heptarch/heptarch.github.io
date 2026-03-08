@@ -243,4 +243,19 @@ conjecture this is optimal.
  to choose the "active" dimensions, and hence the active subspace $f$
  (or rather, our reconstructed $\hat{f} = \hat{V}n$) lives in.
  If we knew which subspace $W$ lived in, we could easily invert by
- restricting to those $k$ columns.
+ restricting to those $k$ columns. The problem is that we don't know
+ the subspace, and to determine it takes roughly
+
+$$
+N \approx \log \binom{F}{k} \approx k \log (F/k)
+$$
+
+measurements, using Stirling's approximation, where we treat each
+neuron as a measurement. This leads to
+
+$$
+\alpha^* = \frac{F}{N} = \frac{1}{k \log (F/k)} = \frac{1}{\rho \log(1/\rho)}
+$$
+
+as claimed. This is closely related to the combinatorial phase
+transition observed by [Donoho and Tanner (2009)](https://arxiv.org/pdf/0906.2530).
