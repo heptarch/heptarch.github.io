@@ -2,16 +2,14 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Sparse autoencoding and the Tanner-Donoho phase transition"
+title: "Sparse autoencoding and the Tanner-Donoho crossing"
 short: "SAEPage"
 date:  2026-03-12
 ---
 
 **March 12, 2026.** *Sparse autoencoders (SAEs) are a crucial mechanism for
   extracting interpretable information from a neural network. In this
-  post, we explore phase transitions limiting the ability of SAEs to
-  do this extraction, guided by work from compressed sensing that
-  predicts exactly where this transition occurs.*
+  post, we explore the decay of recoverability with the size of the SAE, guided by work from compressed sensing.*
 
 <div style="background-color: #212433 ; padding: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
@@ -27,14 +25,14 @@ from Anthropic's
 [mechanistic interpretability group](https://transformer-circuits.pub/),
 I decided to explore the statistical physics of sparse recovery in neural
 networks. Following the experimental trail and theoretical cues from
-[Donoho and Tanner](https://arxiv.org/abs/0906.2530), we will identify such a
-transition and use our findings to suggest guidelines for SAEs in practice.
+[Donoho and Tanner](https://arxiv.org/abs/0906.2530), we will identify
+what looks like universality in the behaviour of recoverability and use our findings to suggest guidelines for SAEs in practice.
 
 ## Contents <a id="tbc" name="tbc"></a>
 
 1. <a href="#sec-1"><i>When Bigger is not Better</i></a>
 2. <a href="#sec-2"><i>Setting it Up</i></a>
-3. <a href="#sec-3"><i>Hunting the Transition</i></a>
+3. <a href="#sec-3"><i>Hunting the Crossing</i></a>
 4. <a href="#sec-4"><i>Thoughts and Open Questions</i></a>
 
 ---
@@ -143,7 +141,7 @@ our sparsity tie-breaker comes into play in order to select $\hat{V}$.
 The question is whether there is structure beyond the simple $\alpha =
 1$ threshold.
 
-## 3. <a href="#tbc">Hunting the Transition</a><a id="sec-3" name="sec-3"></a>
+## 3. <a href="#tbc">Hunting the Crossing</a><a id="sec-3" name="sec-3"></a>
 
 Onto the experiments. In our synthetic setup, features and encodings
 are described as follows:
@@ -236,7 +234,7 @@ conjecture this is optimal.
 
 ## 4. <a href="#tbc">Thoughts and Open Questions</a><a id="sec-4" name="sec-4"></a>
 
-*Why does the transition occur at $\alpha^\ast(\rho)$?* The answer
+*Why does the crossing occur at $\alpha^\ast(\rho)$?* The answer
  comes from *compressed sensing*, which studies the problem of sparse
  recovery $n = Wf$. The basic idea is that, when there are $k$ nonzero
  entries for a vector in $\mathcal{F}$, there are $\binom{F}{k}$ ways
@@ -260,4 +258,18 @@ $$
 as claimed. This is closely related to the combinatorial phase
 transition observed by
 [Donoho and Tanner (2009)](https://arxiv.org/pdf/0906.2530). See their
-paper for a more precise geometric argument,
+paper for a more precise geometric argument.
+
+*What does this mean for SAE design?* We focused on the Gaussian
+ random situation after Donoho and Tanner. We don't know if our
+ recoverability results apply to real neural networks, but assuming
+ they do, it suggests that we may want to train with something other
+ than the LASSO, with a tuning problem to solve for the theoretically
+ optimal basis pursuit method. We did a $\lambda$ sweep for different
+ values of $\alpha$, and found the optimal value varies over orders of magnitude:
+
+<figure>
+    <div style="text-align:center; padding: 15px"><img src
+    ="/img/posts/EXPage4.png" width="850"/>
+	</div>
+	</figure>
