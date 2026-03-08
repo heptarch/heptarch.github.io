@@ -35,7 +35,7 @@ transition and use our findings to suggest guidelines for SAEs in practice.
 1. <a href="#sec-1"><i>When Bigger is not Better</i></a>
 2. <a href="#sec-2"><i>Setting it Up</i></a>
 3. <a href="#sec-3"><i>Hunting the Transition</i></a>
-4. <a href="#sec-4"><i>Open Questions</i></a>
+4. <a href="#sec-4"><i>Thoughts and Open Questions</i></a>
 
 ---
 
@@ -196,7 +196,7 @@ $$
 $$
 
 This sensibly diverges as $\rho \to 0$; we expect this, since any number of neurons
-should be able to recover features that never occur. The existence of
+should be able to recover features that never co-occur. The existence of
 this "transition" suggests *universality* underlying the behaviour of
 the sparse decoder, parametrized by $\rho$.
 (The universality for the MSE is still present but weaker, so we focus
@@ -205,8 +205,8 @@ on the SRA which is probably better suited to sparse recovery.)
 Another probe of universality is to vary $N$ and see how the curves
 fluctuate; if the behaviour is universal, we would expect to see
 crossing at the same value. Here, we plot the LASSO SRA for $\rho
-= 0.1$ and various values of $N$. The results initially fluctuate, but
-settle into a universal pattern right around the $\text{SRA} = 0.5, \alpha^\ast
+= 0.1$ and various values of $N$. The results initially fluctuate due
+to finite-size effects, but settle into a universal crossing right around the $\text{SRA} = 0.5, \alpha^\ast
 \approx 3.81$ mark:
 
 <figure>
@@ -220,7 +220,7 @@ compressed sensing, where
 [foundational results](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436)
 in the literature tell us the LASSO is *not* optimal (though it is
 performant). Instead, near-optimality is guaranteed for a method
-called *basis pursuit*. I won't go into the details, but simply show
+called *basis pursuit*. We defer the details to the next section, but simply show
 how a basis pursuit algorithm called FISTA compares to LASSO:
 
 <figure>
@@ -232,6 +232,6 @@ how a basis pursuit algorithm called FISTA compares to LASSO:
 The punchline is that by tuning the regularization constant $\lambda$
 in basis pursuit, we can outperform LASSO decoding and hit $\text{SRA}
 = 0.5$ at a new point corresponding to $C = 1$ in (\ref{DT}). We
-suspect this is optimal.
+conjecture this is optimal.
 
-## 4. <a href="#tbc">Open Questions</a><a id="sec-4" name="sec-4"></a>
+## 4. <a href="#tbc">Thoughts and Open Questions</a><a id="sec-4" name="sec-4"></a>
