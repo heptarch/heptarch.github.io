@@ -88,8 +88,7 @@ vectors consistent with the observed pattern of activity that information
 about $\mathcal{N}$ gets lost, like a needle in a haystack.
 This raises a concrete architectural question: how big
 should our SAE be? Guided by the physics of black holes,
-we'll experiment with a synthetic toy model where we can see
-explicitly how recoverability behaves. This will suggest design principles for SAEs as applied
+we'll experiment with a synthetic toy model where we can track how recoverability behaves. This will suggest design principles for SAEs as applied
 to real neural networks.
 
 ## 2. <a href="#tbc">Setting it Up</a><a id="sec-2" name="sec-2"></a>
