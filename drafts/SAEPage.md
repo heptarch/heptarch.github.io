@@ -177,7 +177,7 @@ varying $\rho\in \{0.05,0.10,0.20\}$. Here are the plots:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/EXPage1v2.png" width="850"/>
+    ="/img/posts/EXPage1v3.png" width="850"/>
 	</div>
 	</figure>
 
@@ -186,31 +186,34 @@ As we expect, the linear decoder quickly degrades beyond $\alpha =
 increases, or put differently, sparsity decreases. This makes sense
 too; the denser features are, the harder to disentangle!
 But there is a mysterious consistency lurking in these plots. Although
-the LASSO curves behave differently, they also hit a fixed SRA value (just below $0.5$, indicated by a solid line) for a
+the LASSO curves behave differently, they also hit a fixed SRA value
+($\text{SRA = 0.5$, indicated by a solid line) for a
 special function of $\rho$ (indicated by the thicker dotted line):
 
 $$
-\alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C \approx 1.15.
+\alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C \approx 1.14.
 $$
 
-We will explain where this comes from later, but importantly, it sensibly
-diverges as $\rho \to 0$; we expect this, since any number of neurons
+This sensibly diverges as $\rho \to 0$; we expect this, since any number of neurons
 should be able to recover features that never occur. The existence of
 this "transition" suggests *universality* underlying the behaviour of
 the sparse decoder, parametrized by $\rho$.
-(The universality for the MSE is weaker but still present.)
+(The universality for the MSE is weaker but still present, so we focus
+on the SRA.)
 
 Another probe of universality is to vary $N$ and see how the curves
 fluctuate; if the behaviour is universal, we would expect to see
 crossing at the same value. Here, we plot the LASSO SRA for $\rho
 = 0.1$ and various values of $N$. The results initially fluctuate, but
 settle into a universal pattern right at $\text{SRA} = 0.5, \alpha^\ast
-\approx 3.75$ mark:
+\approx 3.81$ mark:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
     ="/img/posts/EXPage2.png" width="450"/>
 	</div>
 	</figure>
+
+[Donoho (2006)](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436)
 
 ## 4. <a href="#tbc">Open Questions</a><a id="sec-4" name="sec-4"></a>
