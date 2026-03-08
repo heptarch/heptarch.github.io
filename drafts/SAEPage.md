@@ -59,7 +59,7 @@ To learn features in an interpretable way, we can train
 [sparse autoencoders (SAEs)](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 on those networks. I'll explain how that's performed technically in
 the next section, but loosely speaking, we encourage the SAE to learn one
-feature per neuron, so it acts like a semantically "unfolded" version
+feature per (SAE) neuron, so it acts like a semantically "unfolded" version
 of the original neural network.
 
 <figure>
@@ -123,7 +123,8 @@ enforce sparsity with the next best thing, the $\Vert \cdot\Vert_1$
 norm which counts the sum of sizes of entries:
 
 $$
-\ell(n, \hat{f}) = \Vert n - W\hat{f}\Vert_2^2 + \lambda \Vert \hat{f}\Vert_1,
+\ell(n, \hat{f}) = \Vert n - W\hat{f}\Vert_2^2 + \lambda \Vert
+\hat{f}\Vert_1, \tag{1}\label{lasso}
 $$
 
 where $\hat{f} = \hat{V}n$ for a learned mapping
@@ -135,8 +136,9 @@ $\hat{V}:\mathcal{N}\to \mathcal{F}$ called the SAE decoder.
 	</div>
 	</figure>
 
-We have a natural threshold at $\alpha = 1$. Below this point, $W$ can
-be *injective*, since there are more neurons in $\mathcal{N}$ than
+With this setup in hand, we can ask when recovery is possible.
+There is a natural threshold at $\alpha = 1$. Below this point, $W$ is
+generically *injective*, since there are more neurons in $\mathcal{N}$ than
 features in $\mathcal{F}$. Thus, a linear decoder (technically
 speaking, the pseudoinverse $W^+$) suffices.
 Above $\alpha = 1$ however, the nullspace of $W$ becomes nontrivial;
@@ -148,6 +150,19 @@ The question is whether there is structure beyond the simple $\alpha =
 1$ threshold.
 
 ## 3. <a href="#tbc">Hunting the Transition</a><a id="sec-3" name="sec-3"></a>
+
+Onto the experiments. In our synthetic setup, features and encodings
+are described as follows:
+- $W$ is a Gaussian random matrix with normalized columns, giving a
+simple model of superposition;
+- features $f$ are drawn from a Bernoulli-Gaussian distribution, where
+  an entry is nonzero with probability $\rho = k/F$ and then
+  distributed as $\mathcal{N}(0, 1)$.
+
+We compare two different decoders:
+- the linear decoder or pseudoinverse $W^+$, which obeys
+$WW^+ = I_\text{\mathcal{N}}$;
+- the linear map trained with loss (\ref{lasso}), called LASSO, 
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
