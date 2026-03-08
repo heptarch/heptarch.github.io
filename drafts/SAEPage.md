@@ -99,8 +99,9 @@ Our "trained" neural
 network $\mathcal{N} = \mathbb{R}^N$ consists of $N$ neurons, while the SAE
 $\mathcal{F} = \mathbb{R}^F$ will have $F > N$ feature neurons.
 We let $\alpha = F/N$ denote the ratio of dimensions, and assume
-$k$-sparsity, with roughly $k = \rho F$ features activated at a time, for
-$\rho \in [0, 1]$ that we will vary.
+$k$-sparsity, with $k = \rho F$ features activated at a time
+for a ratio
+$\rho = k/F \in [0, 1]$ that we will vary.
 The weights of the trained network are represented by a ground truth
 encoding $W: \mathcal{F} \to \mathcal{N}$; this is automatically
 polysemantic, since it crams a large feature space into a physically
