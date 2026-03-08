@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Sparse autoencoding and the Tanner-Donoho crossing"
+title: "Losti in subspace: sparse autoencoding and the Tanner-Donoho crossing"
 short: "SAEPage"
 date:  2026-03-12
 ---
@@ -283,4 +283,4 @@ If $C=1$ is optimal and universal, it tells us there are hard limits to
 recoverability. Although
 [expanding the SAE](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 can yield finer-grained feature sets, at some point, we will start to
-lose information from the original network as it gets lost in subspace.
+lose information from the original network.
