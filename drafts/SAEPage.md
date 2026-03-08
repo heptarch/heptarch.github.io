@@ -205,6 +205,15 @@ should be able to recover features that never occur. The existence of
 this "transition" suggests *universality* underlying the behaviour of
 the sparse decoder, parametrized by $\rho$.
 (The universality for the MSE is weaker but still present.)
+Another probe of universality is to vary $N$ and see how the curves
+fluctuate; if the behaviour is universal, we would expect to see
+crossing at the same value. Here,
+
+<figure>
+    <div style="text-align:center; padding: 15px"><img src
+    ="/img/posts/EXPage2.png" width="400"/>
+	</div>
+	</figure>
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
