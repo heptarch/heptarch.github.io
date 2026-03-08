@@ -161,8 +161,9 @@ simple model of superposition;
 
 We compare two different decoders:
 - the linear decoder or pseudoinverse $W^+$, which obeys
-$WW^+ = I_\text{\mathcal{N}}$;
-- the linear map trained with loss (\ref{lasso}), called LASSO, 
+$WW^+ = I_{\text{\mathcal{N}}}$;
+- the linear map trained with loss (\ref{lasso}), called LASSO, with
+  $\lambda$ calibrated to target the sparsity $k$ at a given $(\alpha, \rho)$.
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
