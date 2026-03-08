@@ -182,7 +182,7 @@ varying $\rho\in \{0.05,0.10,0.20\}$. Here are the plots:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/EXPage1.png" width="800"/>
+    ="/img/posts/EXPage1v2.png" width="800"/>
 	</div>
 	</figure>
 
@@ -190,9 +190,8 @@ As we expect, the linear decoder quickly degrades beyond $\alpha =
 1$, while the sparse LASSO decoder also decay more quickly as $\rho$
 increases, or put differently, sparsity decreases. This makes sense
 too; the less sparse things are, the harder it is to recover!
-But there is a mysterious consistency lurking in these plots, which
-the second dotted line alludes to.
-In 
+But there is a mysterious consistency lurking in these plots. Although
+the LASSO curves behave differently, they tend to 
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
