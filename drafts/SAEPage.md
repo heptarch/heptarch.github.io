@@ -198,7 +198,9 @@ $$
 \alpha^\star(\rho) = \frac{1}{\rho \log(1/\rho)}.
 $$
 
-We will explain this magic trick later.
+We will explain this magic trick later, but importantly, it suggests
+some *universality* in the behaviour of the sparse decoder,
+parametrized by $\rho$.
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
