@@ -173,7 +173,7 @@ Finally, we measure two complementary accuracy metrics:
 - the *support recovery accuracy*, the fraction of true nonzero entries
 of $f$ that appear in $\hat{f}$;
 - the *normalized mean-squared error (MSE)*, the expected value of
-$\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$.
+$\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$ over draws of $f$.
 
 The first is something like a $\Vert \cdot\Vert_0$ measure of accuracy
 and the MSE a $\Vert \cdot\Vert_2$ measure.
