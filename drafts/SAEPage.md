@@ -95,8 +95,7 @@ to real neural networks.
 
 ## 2. <a href="#tbc">Setting it Up</a><a id="sec-2" name="sec-2"></a>
 
-In the tradition of small interpretability experiments, we'll use a
-synthetic system where we know the ground truth. Our "trained" neural
+Our "trained" neural
 network $\mathcal{N} = \mathbb{R}^N$ consists of $N$ neurons, while the SAE
 $\mathcal{F} = \mathbb{R}^F$ will have $F > N$ feature neurons.
 We let $\alpha = F/N$ denote the ratio of dimensions, and assume
