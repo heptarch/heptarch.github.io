@@ -204,7 +204,7 @@ diverges as $\rho \to 0$; we expect this, since any number of neurons
 should be able to recover features that never occur. The existence of
 this "transition" suggests *universality* underlying the behaviour of
 the sparse decoder, parametrized by $\rho$.
-The universality for the MSE is weaker but still present.
+(The universality for the MSE is weaker but still present.)
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
