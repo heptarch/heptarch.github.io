@@ -30,9 +30,8 @@ networks. Guided by an analogy to black holes,
 we might expect a phase transition between recoverability and
 non-recoverability of the "information" inside a neural network, based
 on the size of the network we are sparsely autoencoding
-into. Following the experimental trail, we will find such a
-transition precisely where we expect. We can use this to help design SAEs and characterize activation
-patterns in neural networks.
+into. Following the experimental trail, we will identify such a
+transition, and we can use our findings to design SAEs in practice.
 
 ## Contents <a id="tbc" name="tbc"></a>
 
