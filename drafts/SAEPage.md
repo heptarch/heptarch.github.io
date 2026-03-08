@@ -270,7 +270,7 @@ paper for a more precise geometric argument.
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/EXPage4.png" width="850"/>
+    ="/img/posts/EXPage4.png" width="900"/>
 	</div>
 	</figure>
 
