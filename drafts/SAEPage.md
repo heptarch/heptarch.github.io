@@ -247,14 +247,14 @@ conjecture this is optimal.
  the subspace, and to determine it takes roughly
 
 $$
-N \approx \log \binom{F}{k} \approx k \log (F/k)
+N^* \approx \log \binom{F}{k} \approx k \log (F/k)
 $$
 
 measurements, using Stirling's approximation, where we treat each
 neuron as a measurement. This leads to
 
 $$
-\alpha^* = \frac{F}{N} = \frac{1}{k \log (F/k)} = \frac{1}{\rho \log(1/\rho)}
+\alpha^* = \frac{F}{N^*} = \frac{1}{k \log (F/k)} = \frac{1}{\rho \log(1/\rho)}
 $$
 
 as claimed. This is closely related to the combinatorial phase
