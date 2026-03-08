@@ -317,4 +317,9 @@ pursuit nor LASSO saturate $C = 1$.
 
 *Black holes?* The secret underlying this post is that everything here
  was inspired by thinking about neural networks as black holes. I'll
- expand on this more in a future post, 
+ expand on this more in a future post, but the basic observation is
+ that black holes leak information (like $\mathcal{N}$) and we
+ typically want to capture that information in an auxiliary system
+ (like $\mathcal{F}$). There are constraints on how and when we can
+ access information called the
+ [*Page curve*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.44.301).
