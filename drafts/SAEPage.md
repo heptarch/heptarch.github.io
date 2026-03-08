@@ -161,8 +161,15 @@ are described as follows:
 We compare two different decoders:
 - the linear decoder or pseudoinverse $W^+$, which obeys
 $WW^+ = I_{\text{\mathcal{N}}}$;
-- the linear map trained with loss (\ref{lasso}), called LASSO, with
-  $\lambda$ calibrated to target the sparsity $k$ at a given $(\alpha, \rho)$.
+- the linear map trained with loss (\ref{lasso}), called *LASSO*, with
+  $\lambda$ calibrated to target the sparsity $k$ at a given $(\alpha,
+  \rho)$.
+
+Finally, we measure two complementary accuracy metrics:
+- the *support recovery accuracy*, the fraction of true nonzero entries
+of $f$ that appear in $\hat{f}$;
+- the *normalized mean-squared error (MSE)*, the expected value of
+  $\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$.
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
