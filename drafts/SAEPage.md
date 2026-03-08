@@ -199,8 +199,8 @@ This sensibly diverges as $\rho \to 0$; we expect this, since any number of neur
 should be able to recover features that never occur. The existence of
 this "transition" suggests *universality* underlying the behaviour of
 the sparse decoder, parametrized by $\rho$.
-(The universality for the MSE is weaker but still present, so we focus
-on the SRA.)
+(The universality for the MSE is still present but weaker, so we focus
+on the SRA which is probably better suited to sparse recovery.)
 
 Another probe of universality is to vary $N$ and see how the curves
 fluctuate; if the behaviour is universal, we would expect to see
