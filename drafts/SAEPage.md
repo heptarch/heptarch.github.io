@@ -159,7 +159,7 @@ are described as follows:
   distributed as $\mathcal{N}(0, 1)$.
 
 This is simple enough to model easily (and even reason about
-analytically), but complex enough to give rise to superposition.
+analytically), but complex enough to give rise to polysemantic behaviour.
 We compare two different decoders:
 - the linear decoder or pseudoinverse $W^+$, which obeys
 $WW^+ = I$;
