@@ -322,4 +322,6 @@ pursuit nor LASSO saturate $C = 1$.
  typically want to capture that information in an auxiliary system
  (like $\mathcal{F}$). There are constraints on how and when we can
  access information called the
- [*Page curve*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.44.301).
+ [*Page curve*](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.44.301);
+ I simply wanted to find the Page curve of an SAE learning from a
+ neural network.
