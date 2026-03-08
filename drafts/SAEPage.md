@@ -186,9 +186,9 @@ As we expect, the linear decoder quickly degrades beyond $\alpha =
 increases, or put differently, sparsity decreases. This makes sense
 too; the denser features are, the harder to disentangle!
 But there is a mysterious consistency lurking in these plots. Although
-the LASSO curves behave differently, they also hit a fixed SRA value
-($\text{SRA} = 0.5$, indicated by a solid line) for a
-special function of $\rho$ (indicated by the thicker dotted line):
+the LASSO curves behave differently, they also cross $\text{SRA}
+= 0.5$ (indicated by a solid line) for a
+special function of $\rho$ (thicker dotted line):
 
 $$
 \alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C
