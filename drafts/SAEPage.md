@@ -153,8 +153,7 @@ The question is whether there is structure beyond the simple $\alpha =
 
 Onto the experiments. In our synthetic setup, features and encodings
 are described as follows:
-- $W$ is a Gaussian random matrix with normalized columns, giving a
-simple model of superposition;
+- $W$ is a Gaussian random matrix with normalized columns;
 - features $f$ are drawn from a Bernoulli-Gaussian distribution, where
   an entry is nonzero with probability $\rho = k/F$ and then
   distributed as $\mathcal{N}(0, 1)$.
