@@ -192,10 +192,10 @@ increases, or put differently, sparsity decreases. This makes sense
 too; the denser features are, the harder to disentangle!
 But there is a mysterious consistency lurking in these plots. Although
 the LASSO curves behave differently, they also hit a fixed SRA value (just below $0.5$, indicated by a solid line) for a
-special function (indicated by the thicker dotted) of $\rho$:
+special function of $\rho$ (indicated by the thicker dotted line):
 
 $$
-\alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C \approx 1.14.
+\alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C \approx 1.15.
 $$
 
 We will explain where this comes from later, but importantly, it sensibly
@@ -210,7 +210,7 @@ fluctuate; if the behaviour is universal, we would expect to see
 crossing at the same value. Here, we plot the LASSO SRA for $\rho
 = 0.1$ and various values of $N$. The results initially fluctuate, but
 settle into a universal pattern right at $\text{SRA} = 0.5, \alpha^\ast
-\approx 3.8$ mark:
+\approx 3.75$ mark:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
