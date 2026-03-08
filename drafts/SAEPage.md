@@ -55,7 +55,7 @@ To learn features in an interpretable way, we can train
 [sparse autoencoders (SAEs)](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 on those networks. I'll explain how that's performed technically in
 the next section, but loosely speaking, we encourage the SAE to learn one
-feature per (SAE) neuron, acting like a semantically "unfolded" version
+feature per (SAE) neuron. Thus, the SAE acts like a semantically "unfolded" version
 of the original neural network.
 
 <figure>
