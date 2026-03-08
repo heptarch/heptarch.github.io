@@ -65,7 +65,7 @@ of the original neural network.
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/SAEPage.svg" width="330"/>
+    ="/img/posts/SAEPage.svg" width="300"/>
 	</div>
 	</figure>
 
