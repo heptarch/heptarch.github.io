@@ -290,45 +290,45 @@
     <text
        xml:space="preserve"
        style="font-size:21.3886px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-       x="58.672291"
+       x="62.376461"
        y="120.38094"
        id="text49"><tspan
          sodipodi:role="line"
          id="tspan49"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-         x="58.672291"
+         x="62.376461"
          y="120.38094">W</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#dce4f1;stroke-width:0.950733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="m 93.967946,85.59015 c -6.607843,17.82986 -7.020833,43.00142 0.412992,59.78248"
+       d="m 97.672115,85.59015 c -6.607843,17.82986 -7.020833,43.00142 0.412992,59.78248"
        id="path50"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#dce4f1;stroke-width:0.950733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="m 105.61594,147.98407 c 6.60785,-17.82986 7.02084,-43.00142 -0.41299,-59.78248"
+       d="m 109.32013,147.98407 c 6.60785,-17.82986 7.02084,-43.00142 -0.41299,-59.78248"
        id="path51"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:21.3886px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-       x="112.22791"
+       x="115.93207"
        y="120.38094"
        id="text51"><tspan
          sodipodi:role="line"
          id="tspan51"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-         x="112.22791"
+         x="115.93207"
          y="120.38094">V</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:21.3886px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-       x="117.02394"
+       x="120.7281"
        y="113.58657"
        id="text52"><tspan
          sodipodi:role="line"
          id="tspan52"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-         x="117.02394"
+         x="120.7281"
          y="113.58657">^</tspan></text>
   </g>
 </svg>
