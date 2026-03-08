@@ -192,7 +192,11 @@ increases, or put differently, sparsity decreases. This makes sense
 too; the less sparse things are, the harder it is to recover!
 But there is a mysterious consistency lurking in these plots. Although
 the LASSO curves behave differently, they also hit a fixed value of
-support recover (just below $0.5$)
+support recovery (just below $0.5$) for a special function
+
+$$
+\alpha^\star(\rho) = \frac{1}{\rho \log(1/\rho)}.
+$$
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
