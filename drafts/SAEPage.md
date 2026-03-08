@@ -306,7 +306,6 @@ Tao (2006)](https://arxiv.org/abs/math/0503066) and
 is that this convex program recovers the true sparse $f$ *exactly*
 whenever $N \gtrsim k\log(F/k)$. No bias, no shrinkage, no tuning of
 $\lambda$.
-
 In practice, basis pursuit is solved iteratively and
 approximately using
 *FISTA (Fast Iterative Shrinkage-Thresholding Algorithm)*, 
