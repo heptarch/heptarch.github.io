@@ -132,7 +132,7 @@ $\hat{V}:\mathcal{N}\to \mathcal{F}$ called the SAE decoder.
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/SAEPage.svg" width="285"/>
+    ="/img/posts/SAEPage.svg" width="275"/>
 	</div>
 	</figure>
 
@@ -155,7 +155,7 @@ These two thresholds divide the $(\alpha, \rho)$ plane into three qualitatively 
 
 (The terminology will become clear later.)
 The middle regime is where SAEs live and where they are useful. The
-boundary $\alpha^*(\rho)$ is therefore the fundamental design
+boundary $\alpha^\star(\rho)$ is therefore the fundamental design
 constraint: an SAE with $\alpha > \alpha^*$ is not merely suboptimal,
 it is operating behind an information-theoretic horizon.
 
