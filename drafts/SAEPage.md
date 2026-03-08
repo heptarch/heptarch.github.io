@@ -284,3 +284,23 @@ recoverability. Although
 [expanding the SAE](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
 can yield finer-grained feature sets, at some point, we will start to
 lose information from the original network.
+
+*What is basis pursuit* The LASSO decoder minimises $\ell(n,\hat{f}$
+from equation (\ref{lasso}) with a finite $\lambda$, which introduces
+a bias, since it shrinks all coefficients toward zero, not just the
+inactive ones. The theoretically optimal sparse decoder is *basis
+pursuit*, which takes $\lambda \to 0$ while enforcing the constraint
+$W\hat{f} = n$ exactly:
+
+$$
+\min_{\hat{f}} \Vert\hat{f}\Vert_1 \quad \text{subject to} \quad
+W\hat{f} = n.
+$$
+
+This looks harder, since it's a constrained optimization rather than a
+penalized one, but the remarkable fact, proved by [Candès, Romberg and
+Tao (2006)](https://arxiv.org/abs/math/0503066) and
+[Donoho (2006)](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436),
+is that this convex program recovers the true sparse $f$ *exactly*
+whenever $N \gtrsim k\log(F/k)$. No bias, no shrinkage, no tuning of
+$\lambda$.
