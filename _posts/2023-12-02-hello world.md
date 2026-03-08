@@ -8,7 +8,7 @@ categories: []
 date:  2023-12-02
 ---
 
-**December 2, 2023.** *Introduction to the site.*
+**December 2, 2023.** *Introduction to the site and its author.*
 
 <div style="background-color: #212433 ; padding: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
@@ -54,4 +54,4 @@ excited about:
 I offer no timelines because I am busy, lazy, and a perfectionist, in
 no particular order. Meanwhile, I hope to resume blogging about the
 gewgaws I find littering the hills and meadows of pattern
-space. Feel free to join me!
+space. Feel free to join me! 
