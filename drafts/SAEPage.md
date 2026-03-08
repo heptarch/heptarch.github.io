@@ -225,7 +225,7 @@ here, simply compare a basis pursuit algorithm called FISTA to LASSO:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/EXPage3.png" width="450"/>
+    ="/img/posts/EXPage3v3.png" width="450"/>
 	</div>
 	</figure>
 
@@ -237,4 +237,8 @@ conjecture this is optimal.
 ## 4. <a href="#tbc">Thoughts and Open Questions</a><a id="sec-4" name="sec-4"></a>
 
 *Why does the transition occur at $\alpha^\ast(\rho)$?* The answer
- comes from *compressed sensing* which studies the problem of sparse recovery $n = Wf$. The basic idea
+ comes from *compressed sensing*, which studies the problem of sparse
+ recovery $n = Wf$. The basic idea is that, when there are $k$ nonzero
+ entries for a vector in $\mathcal{F}$, there are $\binom{F}{k}$ ways
+ to choose the "active" dimensions, and hence the active subspace $f$
+ (or rather, our reconstructed $\hat{f} = \hat{V}n$) lives in.
