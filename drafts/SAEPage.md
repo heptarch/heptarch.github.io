@@ -178,11 +178,11 @@ Support accuracy is something like a $\Vert \cdot\Vert_0$ measure of accuracy
 while the MSE corresponds to $\Vert \cdot\Vert_2$.
 Our first experiment explores how these metrics change with $\alpha =
 F/N$, sweeping $\alpha$ from $0.4$ to $6.5$, holding $N=200$ and
-varying $\rho\in \{0.05,0.10,0.20\}$.
+varying $\rho\in \{0.05,0.10,0.20\}$. Here are the plots:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/Page1.png" width="700"/>
+    ="/img/posts/Page1.png" width="750"/>
 	</div>
 	<caption>Experiment 1: the $\alpha$ sweep</caption>
 	</figure>
