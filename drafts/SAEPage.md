@@ -173,10 +173,10 @@ Finally, we measure two complementary accuracy metrics:
 - the *support recovery accuracy*, the fraction of true nonzero entries
 of $f$ that appear in $\hat{f}$;
 - the *normalized mean-squared error (MSE)*, the expected value of
-$\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$ over draws of $f$.
+$\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$ over $f$.
 
 The first is something like a $\Vert \cdot\Vert_0$ measure of accuracy
-and the MSE a $\Vert \cdot\Vert_2$ measure.
+while the MSE corresponds to $\Vert \cdot\Vert_2$.
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
