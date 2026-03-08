@@ -210,7 +210,7 @@ settle into a universal pattern right around the $\text{SRA} = 0.5, \alpha^\ast
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/EXPage2.png" width="450"/>
+    ="/img/posts/EXPage2v2.png" width="450"/>
 	</div>
 	</figure>
 
