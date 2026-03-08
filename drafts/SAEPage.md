@@ -169,12 +169,12 @@ $WW^+ = I$;
 The first is a naive but useful baseline, while the second is the
 target we train in practice.
 Finally, we measure two complementary accuracy metrics:
-- the *support recovery accuracy*, the fraction of true nonzero entries
+- the *support recovery accuracy (SRA)*, the fraction of true nonzero entries
 of $f$ that appear in $\hat{f}$;
 - the *normalized mean-squared error (MSE)*, the expected value of
 $\Vert f - \hat{f}\Vert_2^2/\Vert f\Vert_2^2$ over $f$.
 
-Support accuracy is something like a $\Vert \cdot\Vert_0$ measure of accuracy
+SRA is something like a $\Vert \cdot\Vert_0$ measure of accuracy
 while the MSE corresponds to $\Vert \cdot\Vert_2$.
 Our first experiment explores how these metrics change with $\alpha =
 F/N$, sweeping $\alpha$ from $0.4$ to $6.5$, holding $N=200$ and
@@ -191,8 +191,7 @@ As we expect, the linear decoder quickly degrades beyond $\alpha =
 increases, or put differently, sparsity decreases. This makes sense
 too; the denser features are, the harder to disentangle!
 But there is a mysterious consistency lurking in these plots. Although
-the LASSO curves behave differently, they also hit a fixed value of
-support recovery (just below $0.5$, indicated by a solid line) for a
+the LASSO curves behave differently, they also hit a fixed SRA value (just below $0.5$, indicated by a solid line) for a
 special function (indicated by the thicker dotted) of $\rho$:
 
 $$
@@ -205,13 +204,17 @@ should be able to recover features that never occur. The existence of
 this "transition" suggests *universality* underlying the behaviour of
 the sparse decoder, parametrized by $\rho$.
 (The universality for the MSE is weaker but still present.)
+
 Another probe of universality is to vary $N$ and see how the curves
 fluctuate; if the behaviour is universal, we would expect to see
-crossing at the same value. Here,
+crossing at the same value. Here, we plot the LASSO SRA for $\rho
+= 0.1$ and various values of $N$. The results initially fluctuate, but
+settle into a universal pattern right at $\text{SRA} = 0.5, \alpha^\ast
+\approx 3.8$ mark:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/EXPage2.png" width="400"/>
+    ="/img/posts/EXPage2.png" width="450"/>
 	</div>
 	</figure>
 
