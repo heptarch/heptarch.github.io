@@ -79,13 +79,14 @@ activation pattern; to select a unique explanation, we use sparsity as
 a tie-breaker.
 
 After a point, though, there are too many sparse
-vectors consistent with the observed activations that information
-about $\mathcal{N}$ gets lost like a needle in a haystack.
+vectors consistent with the observed pattern of activity that information
+about $\mathcal{N}$ gets lost, like a needle in a haystack.
 This leads to a concrete architectural question: how big
 should our SAE be? Guided by the physics of black holes,
 we'll experiment with a synthetic toy model where
-we control the parameters, and observe the behaviour of
-recoverability. This will suggest design principles for SAEs applied to real neural networks.
+we control the parameters and can control the behaviour of
+recoverability. This will suggest design principles for SAEs as applied
+to real neural networks.
 
 ## 2. <a href="#tbc">Setting it Up</a><a id="sec-2" name="sec-2"></a>
 
