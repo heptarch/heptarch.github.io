@@ -106,7 +106,6 @@ The weights of the trained network are represented by a ground truth
 encoding $W: \mathcal{F} \to \mathcal{N}$; this is automatically
 polysemantic, since it crams a large feature space into a physically
 smaller set of neurons.
-
 Given a feature vector $f \in \mathcal{F}$, the neuron activations are
 simply
 
@@ -114,12 +113,14 @@ $$
 n = Wf \in \mathcal{N}.
 $$
 
-The SAE's job is to invert this: given only $n$, recover $f$.
+The SAE's job is to invert this, and recover a guess $\hat{f}$ from $n$.
 Since $F > N$, the map $W$ is not injective, so many feature vectors
 produce the same activation pattern and naive inversion is hopeless.
 Sparsity is the tie-breaker. If we know $f$ has at most $k$ nonzero
 entries, the problem becomes well-posed, at least in principle.
-This is enforced by a loss function
+Technically the number of nonzero entries is counted by the
+$\Vert\cdot\Vert_0$, but because this behaves discontinuously, we
+enforce sparsity with the next best thing, the $\Vert \cdot\Vert_1$ norm:
 
 $$
 \ell(n, \hat{f}) = \Vert n - W\hat{f}\Vert_2^2 + \lambda \Vert \hat{f}\Vert_1,
