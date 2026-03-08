@@ -140,10 +140,10 @@ be *injective*, since there are more neurons in $\mathcal{N}$ than
 features in $\mathcal{F}$. Thus, a linear decoder (technically
 speaking, the pseudoinverse $W^+$) suffices.
 Above $\alpha = 1$ however, the nullspace of $W$ becomes nontrivial;
-inevitably, some nontrivial vectors are sent to zero, corresponding to
-feature directions which are invisible in $\mathcal{N}$, and which no
+inevitably, some nonzero vectors are annihilated, corresponding to
+feature directions which are invisible in $\mathcal{N}$. No
 linear decoder can recover. This is where polysemanticity starts, and
-our sparse tie-breaker comes into play.
+our sparsity tie-breaker comes into play in order to select $\hat{V}$.
 
 ## 3. <a href="#tbc">Hunting the Transition</a><a id="sec-3" name="sec-3"></a>
 
