@@ -63,6 +63,12 @@ the next section, but loosely speaking, we encourage the SAE to learn one
 feature per neuron, so it acts like a semantically "unfolded" version
 of the original neural network.
 
+<figure>
+    <div style="text-align:center; padding: 15px"><img src
+    ="/img/posts/SAEPage.svg" width="330"/>
+	</div>
+	</figure>
+
 But how do we know we've captured the meaning of the original network,
 $\mathcal{N}$?
 Suppose we have $N$ neurons in $\mathcal{N}$ and $F$ neurons in
