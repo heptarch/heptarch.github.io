@@ -15,10 +15,10 @@ date:  2026-03-12
 
 <div style="background-color: #212433 ; padding: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-Information loss, once allowed, tends to be highly infectious.<br>
+We can violate the usual ‘sampling theorem’ with impunity! <br>
 
-<div style="text-align: right">— Hayden and Preskill, <i><a
-href="https://arxiv.org/pdf/0708.4025">Black holes as mirrors</a></i>
+<div style="text-align: right">— <a
+href="https://arxiv.org/pdf/0906.2530">David Donoho and Jared Tanner</a>
 </div>
 </div>
 
