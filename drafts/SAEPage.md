@@ -308,3 +308,6 @@ whenever $N \gtrsim k\log(F/k)$. No bias, no shrinkage, no tuning of
 $\lambda$. In practice, basis pursuit is solved iteratively and
 approximately using
 *FISTA (Fast Iterative Shrinkage-Thresholding Algorithm)*, 
+which still has a sparsity term regularized by $\lambda$, and
+approaches basis pursuit exactly as $\lambda \to 0$. We found that, in
+practice, 
