@@ -144,6 +144,8 @@ inevitably, some nonzero vectors are annihilated, corresponding to
 feature directions which are invisible in $\mathcal{N}$. No
 linear decoder can recover. This is where polysemanticity starts, and
 our sparsity tie-breaker comes into play in order to select $\hat{V}$.
+The question is whether there is structure beyond the simple $\alpha =
+1$ threshold.
 
 ## 3. <a href="#tbc">Hunting the Transition</a><a id="sec-3" name="sec-3"></a>
 
