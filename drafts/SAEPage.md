@@ -196,7 +196,7 @@ support recovery (just below $0.5$, indicated by a solid line) for a
 special function (indicated by dotted line on right)
 
 $$
-\alpha^\ast(\rho) = \frac{1}{\rho \log(1/\rho)}.
+\alpha^\ast(\rho) = \frac{1}{C\rho \log(1/\rho)}, \quad C \approx 1.14.
 $$
 
 We will explain this magic trick later, but importantly, it
@@ -204,6 +204,7 @@ diverges as $\rho \to 0$, which is what we expect; for arbitrarily
 sparse data, any number of neurons can recover it. The existence of
 this "transition" suggests *universality* underlying the behaviour of
 the sparse decoder, parametrized by $\rho$.
+The universality for the MSE is weaker but still present.
 
 ## 4. <a href="#tbc">Why Black Holes?</a><a id="sec-4" name="sec-4"></a>
 
