@@ -258,4 +258,6 @@ $$
 $$
 
 as claimed. This is closely related to the combinatorial phase
-transition observed by [Donoho and Tanner (2009)](https://arxiv.org/pdf/0906.2530).
+transition observed by
+[Donoho and Tanner (2009)](https://arxiv.org/pdf/0906.2530). See their
+paper for a more precise geometric argument,
