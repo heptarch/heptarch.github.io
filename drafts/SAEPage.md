@@ -163,7 +163,7 @@ analytically), but complex enough to give rise to superposition.
 We compare two different decoders:
 - the linear decoder or pseudoinverse $W^+$, which obeys
 $WW^+ = I$;
-- the linear map trained with loss (\ref{lasso}), called *LASSO*, with
+- the linear map trained with loss (\ref{lasso}), a procedure called the *LASSO*, with
   $\lambda$ calibrated to target the sparsity $k$ at a given $(\alpha,
   \rho)$.
 
