@@ -182,7 +182,7 @@ varying $\rho\in \{0.05,0.10,0.20\}$. Here are the plots:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/Page1.png" width="750"/>
+    ="/img/posts/Page1.png" width="800"/>
 	</div>
 	<caption>Experiment 1: the $\alpha$ sweep</caption>
 	</figure>
