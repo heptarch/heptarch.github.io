@@ -65,7 +65,7 @@ of the original neural network.
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/SAEPage.svg" width="300"/>
+    ="/img/posts/SAEPage1.svg" width="300"/>
 	</div>
 	</figure>
 
@@ -119,8 +119,9 @@ produce the same activation pattern and naive inversion is hopeless.
 Sparsity is the tie-breaker. If we know $f$ has at most $k$ nonzero
 entries, the problem becomes well-posed, at least in principle.
 Technically the number of nonzero entries is counted by the
-$\Vert\cdot\Vert_0$, but because this behaves discontinuously, we
-enforce sparsity with the next best thing, the $\Vert \cdot\Vert_1$ norm:
+$\Vert\cdot\Vert_0$ norm, but because this behaves discontinuously, we
+enforce sparsity with the next best thing, the $\Vert \cdot\Vert_1$
+norm which counts the sum of sizes of entries:
 
 $$
 \ell(n, \hat{f}) = \Vert n - W\hat{f}\Vert_2^2 + \lambda \Vert \hat{f}\Vert_1,
@@ -128,6 +129,12 @@ $$
 
 where $\hat{f} = \hat{V}n$ for a learned mapping
 $\hat{V}:\mathcal{N}\to \mathcal{F}$ called the SAE decoder.
+
+<figure>
+    <div style="text-align:center; padding: 15px"><img src
+    ="/img/posts/SAEPage.svg" width="285"/>
+	</div>
+	</figure>
 
 There are two natural thresholds governing when this recovery is possible.
 - The first is $\alpha = 1$. Below this point, $W$ is injective on
