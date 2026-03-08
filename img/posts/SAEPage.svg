@@ -289,46 +289,46 @@
        id="path49" />
     <text
        xml:space="preserve"
-       style="font-size:21.3886px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-       x="62.376461"
-       y="120.38094"
+       style="font-size:15.4952px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.0968453"
+       x="72.920166"
+       y="122.2211"
        id="text49"><tspan
          sodipodi:role="line"
          id="tspan49"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-         x="62.376461"
-         y="120.38094">W</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.0968453"
+         x="72.920166"
+         y="122.2211">W</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#dce4f1;stroke-width:0.950733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="m 97.672115,85.59015 c -6.607843,17.82986 -7.020833,43.00142 0.412992,59.78248"
+       d="m 97.672115,86.160373 c -6.607843,17.829857 -7.020833,43.001417 0.412992,59.782477"
        id="path50"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#dce4f1;stroke-width:0.950733;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
-       d="m 109.32013,147.98407 c 6.60785,-17.82986 7.02084,-43.00142 -0.41299,-59.78248"
+       d="m 109.32013,148.55429 c 6.60785,-17.82986 7.02084,-43.00142 -0.41299,-59.782477"
        id="path51"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:21.3886px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-       x="115.93207"
-       y="120.38094"
+       style="font-size:15.4952px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.0968453"
+       x="115.7107"
+       y="122.2211"
        id="text51"><tspan
          sodipodi:role="line"
          id="tspan51"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-         x="115.93207"
-         y="120.38094">V</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Classical Serif';-inkscape-font-specification:'CMU Classical Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.0968453"
+         x="115.7107"
+         y="122.2211">V</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:21.3886px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-       x="120.7281"
-       y="113.58657"
+       style="font-size:15.4952px;line-height:1.25;font-family:Cardo;-inkscape-font-specification:Cardo;fill:#dce4f1;fill-opacity:1;stroke-width:0.0968453"
+       x="119.18525"
+       y="117.29884"
        id="text52"><tspan
          sodipodi:role="line"
          id="tspan52"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.133679"
-         x="120.7281"
-         y="113.58657">^</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#dce4f1;fill-opacity:1;stroke-width:0.0968453"
+         x="119.18525"
+         y="117.29884">^</tspan></text>
   </g>
 </svg>
