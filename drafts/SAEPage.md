@@ -278,7 +278,6 @@ That seems like bad news for the regularization schedule. Luckily,
 the curves are forgiving, with a broad near-optimal plateau
 in the middle that falls off either side. If we stick to that plateau,
 which should be good.
-
 If $C=1$ is optimal and universal, it tells us there are hard limits to
 recoverability. Although
 [expanding the SAE](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
