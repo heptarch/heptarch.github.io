@@ -79,11 +79,11 @@ out there is a tradeoff between our ability to disentangle
 activations, which pushes us in the direction of bigger
 $\mathcal{F}$, and the information we can extract from
 $\mathcal{N}$, which pushes towards smaller.
+
 The latter point is a little counterintuitive. Basically, the
 larger $\mathcal{F}$ is, the more ways it provides to explain a given
 activation pattern; to select a unique explanation, we use sparsity as
 a tie-breaker.
-
 After a point, though, there are too many sparse
 vectors consistent with the observed pattern of activity that information
 about $\mathcal{N}$ gets lost, like a needle in a haystack.
