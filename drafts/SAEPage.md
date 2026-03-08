@@ -220,8 +220,8 @@ compressed sensing, where
 [foundational results](https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/2/436/files/2011/04/donoho06co.pdf?bid=436)
 in the literature tell us the LASSO is *not* optimal (though it is
 performant). Instead, near-optimality is guaranteed for a method
-called *basis pursuit*. We defer the details to the next section, but simply show
-how a basis pursuit algorithm called FISTA compares to LASSO:
+called *basis pursuit*. We defer the details to the next section, but
+here, simply compare a basis pursuit algorithm called FISTA to LASSO:
 
 <figure>
     <div style="text-align:center; padding: 15px"><img src
