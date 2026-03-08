@@ -279,5 +279,8 @@ the curves are forgiving, with a broad near-optimal plateau
 in the middle that falls off either side. If we stick to that plateau,
 which should be good.
 
-If $C=1$ is optimal, it tells us there are hard limits to
-recoverability. 
+If $C=1$ is optimal and universal, it tells us there are hard limits to
+recoverability. Although
+[expanding the SAE](https://transformer-circuits.pub/2023/monosemantic-features/index.html)
+can yield finer-grained feature sets, at some point, we will start to
+lose information from the original network as it gets lost in subspace.
