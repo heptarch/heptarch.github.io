@@ -102,19 +102,24 @@ encoding $W: \mathcal{F} \to \mathcal{N}$; this is automatically
 polysemantic, since it crams a large feature space into a physically
 smaller set of neurons.
 
-Given a feature vector $f \in \mathcal{F}$, the neuron activations are simply
-\[
+Given a feature vector $f \in \mathcal{F}$, the neuron activations are
+simply
+
+$$
 n = Wf \in \mathcal{N}.
-\]
+$$
+
 The SAE's job is to invert this: given only $n$, recover $f$.
 Since $F > N$, the map $W$ is not injective, so many feature vectors
 produce the same activation pattern and naive inversion is hopeless.
 Sparsity is the tie-breaker. If we know $f$ has at most $k$ nonzero
 entries, the problem becomes well-posed, at least in principle.
 This is enforced by a loss function
-\[
+
+$$
 \ell(n, \hat{f}) = \Vert n - W\hat{f}\Vert_2^2 + \lambda \Vert \hat{f}\Vert_1,
-\]
+$$
+
 where $\hat{f} = \hat{V}n$ for a learned mapping
 $\hat{V}:\mathcal{N}\to \mathcal{F}$ called the SAE decoder.
 
