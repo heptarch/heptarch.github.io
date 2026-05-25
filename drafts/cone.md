@@ -29,7 +29,7 @@ In his book *How to Teach Mathematics*, Steven G. Krantz gives the (probably apo
 
 ## II. <a href="#toc">Overture</a><a id="sec-2" name="sec-2"></a>
 
-A cone is a naturally poetic shape: it radiates outward from a point, conveying via space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, and engineering.
+A cone is a naturally poetic form: it radiates outward from a point, conveying via space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, and engineering.
 
 ## List
 
@@ -39,12 +39,14 @@ A cone is a naturally poetic shape: it radiates outward from a point, conveying 
 - Designing a tiny house?
 - Cezanne / mountain
 - Mohr circle
-- Wang Wei / chinese poem
+- Wang Wei / chinese poem / mountain? / ripple?
 - Ording / proof of volume of cone?
 - Appolonnius / Kepler
 - Queneau / EiS scenario
 - Stevens / poem
-- Bach / developing echos of form
+- Bach / developing echos of form / Klee
 - Exam design / dunce cap
-- Boulee-style monolith? scifi
+- Boulee-style monolith? scifi? structural properties
+- Kinetic blow-up
+- Panopticon
 - Zen? Something about Enso (conclusion)
