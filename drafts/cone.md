@@ -34,6 +34,8 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying v
 
 ## III. <a href="#toc">Einstein</a><a id="sec-3" name="sec-3"></a>
 
+On the second floor of Kramgasse 49, Bern, a mild-mannered clerk sits at his desk, 
+
 ## List
 
 - Self-organized criticality
