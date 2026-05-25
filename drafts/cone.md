@@ -29,16 +29,19 @@ In his book *How to Teach Mathematics*, Steven G. Krantz gives the (probably apo
 
 ## II. <a href="#toc">Overture</a><a id="sec-2" name="sec-2"></a>
 
+A cone is a naturally poetic shape: it radiates outward from a point, conveying via space what a stone dropped in a pond does through time. It is a spatial ripple. We will let this ripple carry us away from the object of our meditations and into art, literature, poetry, math, physics, architecture, engineering, and other realms.
+
 ## List
 
 - Self-organized criticality
-- Designing a house
-- Cezanne
+- Light cone
+- Designing a tiny house?
+- Cezanne / mountain
 - Mohr circle
-- Wang Wei
-- Ording
-- Queneau
-- Stevens
+- Wang Wei / chinese poem
+- Ording / proof of volume of cone?
+- Queneau / EiS scenario
+- Stevens / poem
 - Bach
 - Exam design
-- 
+- Boulee-style monolith?
