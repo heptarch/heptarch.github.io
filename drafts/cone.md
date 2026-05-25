@@ -34,7 +34,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying v
 
 ## III. <a href="#toc">Clerk</a><a id="sec-3" name="sec-3"></a>
 
-On the second floor of Kramgasse 49, a mild-mannered patent clerk sits at his desk, scribbling nonsense in a leatherbound notebook and pausing, now and again, to exchange pen for pipe so that his daydreams may transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, puts his pipe back on the bureau and continues writing. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. And so, piece by piece, night after night, the spirit of natural philosophy enters the crowded apartment and blesses their conversation with insight.
+On the second floor of Kramgasse 49, a mild-mannered patent clerk sits at his desk, scribbling nonsense in a leatherbound notebook and pausing, now and again, to exchange pen for pipe so that his daydreams may transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, puts his pipe back on the bureau and continues writing. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. And so, piece by piece, night after night, the spirit of natural philosophy enters the crowded apartment and blesses them with insight.
 
 ## List
 
