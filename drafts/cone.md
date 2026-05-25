@@ -14,3 +14,10 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 <div style="text-align: right">– Anonymous, <i>MIT exam</i>
 </div><br>
+
+## Contents <a id="toc" name="toc"></a>
+
+1. <a href="#sec-1"><i>Prelude</i></a>
+---
+
+## 1. <a href="#toc">Prelude</a><a id="sec-1" name="sec-1"></a>
