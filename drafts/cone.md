@@ -2,18 +2,15 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Hello world!"
+title:  "Thirteen ways of looking at a cone"
 categories: []
-date:  2021-09-22
+date:  2026-05-25
 ---
 
-**September 22, 2021.** *This post is the bottle of champagne smashed against the hull of a
-new ship. I christen thee* Saxifrage.
+**May 25, 2026.** *An essay about creativity, *
 
-Welcome! This blog will be a scratchpad for random technical
-thoughts which may or may not have commercial/intellectual value,
-going under the moniker of *Saxifrage*:
-I'm not quite sure what *Saxifrage* is or where it's
-headed. What I can guarantee, however, is a speculative,
-seat-of-your-pants, swashbuckling adventure on the high seas of
-interdimensional wizardry.
+<span style="padding-left: 40px; display:block">
+You have a pile of warm metal shavings in the shape of a cone. Discuss.
+</span>
+<div style="text-align: right">Anonymous, <i>MIT exam</i>
+</div><br>
