@@ -1,0 +1,19 @@
+---
+Layout: post
+mathjax: true
+comments: true
+title:  "Hello world!"
+categories: []
+date:  2021-09-22
+---
+
+**September 22, 2021.** *This post is the bottle of champagne smashed against the hull of a
+new ship. I christen thee* Saxifrage.
+
+Welcome! This blog will be a scratchpad for random technical
+thoughts which may or may not have commercial/intellectual value,
+going under the moniker of *Saxifrage*:
+I'm not quite sure what *Saxifrage* is or where it's
+headed. What I can guarantee, however, is a speculative,
+seat-of-your-pants, swashbuckling adventure on the high seas of
+interdimensional wizardry.
