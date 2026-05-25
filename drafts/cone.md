@@ -19,7 +19,7 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 
 I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
-III. <a href="#sec-3"><i>Einstein</i></a><br>
+III. <a href="#sec-3"><i>Clerk</i></a><br>
 
 ---
 
@@ -32,7 +32,7 @@ In his book *How to Teach Mathematics*, Steven G. Krantz cites the (probably apo
 
 A cone is a naturally poetic form: it radiates outward from a point, conveying via the means of space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, and engineering, to realms unknown (and some even uncone). We should be careful not to dismiss the other features of the problem; the cone is made up of metal shavings, otherwise known as *swarf*. Similarly, we will mass a number of cursive fragments to constitute our discourse. Finally, these shavings are warm. Statistically speaking, warmth is another name for molecular randomness, a variance in the behaviour of the constituent parts. Here, the parts will deviate from one another, but that deviation shall itself be lawlike. We will contort the analogy no further for now.
 
-## III. <a href="#toc">Einstein</a><a id="sec-3" name="sec-3"></a>
+## III. <a href="#toc">Clerk</a><a id="sec-3" name="sec-3"></a>
 
 On the second floor of Kramgasse 49, Bern, a mild-mannered clerk sits at his desk, 
 
