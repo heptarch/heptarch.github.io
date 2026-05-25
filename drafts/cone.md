@@ -34,7 +34,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying v
 
 ## III. <a href="#toc">Clerk</a><a id="sec-3" name="sec-3"></a>
 
-On the second floor of Kramgasse 49, Bern, a mild-mannered patent clerk sits at his desk, scribbling nonsense in a notebook and pausing, now and again, to let his daydreams transport him . The candle burns low; he picks up his pipe, nods with finality, and continues scribbling.
+On the second floor of Kramgasse 49, a mild-mannered patent clerk sits at his desk, scribbling nonsense in a notebook and pausing, now and again, to exchange pen for pipe and let his daydreams transport him from Bern and into a realm of glacial beauty. The candle burns low; he nods with finality, puts his pipe back on the bureau and continues scribbling.
 
 ## List
 
