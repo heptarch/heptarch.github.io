@@ -17,7 +17,7 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 
 ## Contents <a id="toc" name="toc"></a>
 
-I. <a href="#sec-1"><i>Prelude</i></a>
+I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a>
 
 ---
