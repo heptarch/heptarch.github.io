@@ -35,4 +35,10 @@ In his book *How to Teach Mathematics*, Steven G. Krantz gives the (probably apo
 - Designing a house
 - Cezanne
 - Mohr circle
+- Wang Wei
+- Ording
+- Queneau
+- Stevens
+- Bach
+- Exam design
 - 
