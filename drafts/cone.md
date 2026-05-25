@@ -21,3 +21,5 @@ I. <a href="#sec-1"><i>Prelude</i></a>
 ---
 
 ## I. <a href="#toc">Prelude</a><a id="sec-1" name="sec-1"></a>
+
+In his book *How to teach mathematics*, Steven G. Krantz gives the (probably apocryphal) question above as an example of "minimalist" exam question.
