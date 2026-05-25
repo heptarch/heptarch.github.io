@@ -36,7 +36,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying v
 
 On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed against winter, sits at his desk scribbling nonsense in a leatherbound notebook and pausing, now and again, to exchange pen for pipe and let his daydreams transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, puts his pipe back on the bureau and continues writing. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. Night after night, they talk; night after night, the spirit of natural philosophy sneaks into the crowded apartment and blesses them with insight.
 
-That winter is Bern
+That winter they receive many gifts.
 
 ## List
 
