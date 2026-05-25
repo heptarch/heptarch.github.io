@@ -23,4 +23,4 @@ I. <a href="#sec-1"><i>Prelude</i></a>
 
 ## I. <a href="#toc">Prelude</a><a id="sec-1" name="sec-1"></a>
 
-In his book *How to teach mathematics*, Steven G. Krantz gives the (probably apocryphal) question above as an example of "minimalist" exam design. It may be short, but to my mind, this is the opposite of minimalist. In its radical openness to interpretation, to freedom of response, it begs for a creative exegesis in a way that standard exam questions—with their model answers, rubrics, and curricular adherence—do not.
+In his book *How to Teach Mathematics*, Steven G. Krantz gives the (probably apocryphal) question above as an example of "minimalist" exam design. It may be short, but to my mind, this is the opposite of minimalist. In its radical openness to interpretation, to freedom of response, it begs for creative exegesis in a way that standard exam questions—with their model answers, rubrics, and curricular adherence—do not.
