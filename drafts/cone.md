@@ -43,6 +43,8 @@ What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law 
 
 ## IV. <a href="#toc">Fear</a><a id="sec-4" name="sec-4"></a>
 
+Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe for God: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere." The evident problem with this formula is that such a sphere is by no means intelligible.
+
 ## List
 
 - ~~Light cone~~
