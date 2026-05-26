@@ -43,7 +43,7 @@ What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law 
 
 ## IV. <a href="#toc">Fear</a><a id="sec-4" name="sec-4"></a>
 
-Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere." In agreement with Albertelli, the evident problem with this formula is that such a sphere is not intelligible. If it is a sphere, it must have circumference and a centre! Parmenides offers a way out: the image of an *expanding* sphere.
+Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere."  The evident problem with this formula is that such a sphere is not intelligible. If it is a sphere, it must have circumference and a centre! These are definitional; without precisely locating them, we cannot have a sphere, as Albertelli and Aristotle both point out. Parmenides offers a way out: the image of an *infinitely expanding* sphere. In case this remains illegible, we can suppress a spatial dimension and 
 
 ## List
 
