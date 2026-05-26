@@ -42,9 +42,9 @@ But what purpose is that? Perhaps, our clerk thinks, to lay down aesthetic as we
 
 ## List
 
+- ~~Light cone~~
 - Self-organized criticality
 - Fearful cone of Pascal
-- ~~Light cone~~
 - Designing a tiny house?
 - Cezanne / mountain
 - Mohr circle
