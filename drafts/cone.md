@@ -43,9 +43,9 @@ What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law 
 
 ## IV. <a href="#toc">Fear</a><a id="sec-4" name="sec-4"></a>
 
-Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere."  The evident problem with this formula is that such a sphere is not intelligible. If it is a sphere, it must have circumference and a centre! These are definitional; without precisely locating them, we cannot have a sphere, as Albertelli and Aristotle both  point out. Parmenides offers a way out: the image of an *infinitely expanding* sphere. This is not so different from certain cosmological model of the Big Bang, but they invert the formula, with matter confined to an expanding sphere, whose circumference is everywhere and whose centre is nowhere.
+Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere."  The problem with this formula is that such a sphere is evidently not intelligible. If it is a sphere, it must have circumference and a centre! These are definitional; without precisely locating them, we cannot have a sphere at all, as both Albertelli and Aristotle point out. Parmenides offers an escape route: the image of an *infinitely expanding* sphere. This is not so different from certain cosmological models of the Big Bang, but unfortunately they invert the description, with matter confined to an expanding sphere whose circumference is everywhere and whose centre is nowhere.
 
-We must search in a different direction for the Parmenidean sphere. It is above all a *dynamic* conception of deity,
+We must search in a different direction (or rather, any direction) for the Parmenidean sphere. It a *dynamic* conception of deity, God as process, as continual unfolding, which has less of that frozen, alien quality—which would lead Pascal to declare the sphere "fearful"—and something friendlier to the human experience of time. Imagine the sphere expanding outwards, an infinite time ago, and you have your picture.
 
 ## List
 
