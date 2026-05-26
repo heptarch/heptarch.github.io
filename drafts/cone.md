@@ -44,7 +44,7 @@ But what purpose? Perhaps, our clerk thinks, to lay down aesthetic in addition t
 
 - Self-organized criticality
 - Fearful cone of Pascal
-- Light cone
+- ~Light cone~
 - Designing a tiny house?
 - Cezanne / mountain
 - Mohr circle
