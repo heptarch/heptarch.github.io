@@ -47,8 +47,6 @@ Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the f
 
 We must search in a different direction for the Parmenidean sphere. It a *dynamic* conception of deity, God as process, as continual unfolding, which has less of the frozen, alien quality that would lead Pascal to declare the sphere "fearful"; something friendlier to human cognition and the experience of time.
 
-Imagine the sphere expanding outwards, an infinite time ago, and you have your picture. But suppose you wish
-
 ## List
 
 - ~~Light cone~~
