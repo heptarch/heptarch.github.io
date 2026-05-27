@@ -50,7 +50,7 @@ Parmenides offers an escape route: the image of an *infinitely expanding* sphere
 
 This summary remains ungraspable if we insist on picturing a sphere. Instead, imagine a Flatland where God is an infinitely growing circle. Then the problem is simple: time extrudes in a third dimension and the process of expanding the circle is represented concretely as a cone. It might be infinite in extent, but a marvelous fact about the cone is that its proportions are the same at all sizes. So we can simply fix a cone of finite extent and constant angle of inclination to the axis—the angle corresponding to the speed at which the deity enlarges and the axis the motion of its centre—and we have a complete picture of this unfolding. What better shape to represent the alien logic of divinity? What figure more generous to human finitude?
 
-We forget, of course, that Parmenides, like Hermes, teaches us that God is a sphere and not a circle. Stripped of its deist trappings, the cone reduces to the lesson that reality is incomprehensible after all. The Hermetic mercury may not be caught. The sphere is fearful after all.
+We forget, of course, that Parmenides, like Hermes, teaches us that God is a sphere and not a circle. Stripped of its deist trappings, the lesson that reality is incomprehensible after all. The Hermetic mercury may not be caught. The sphere is fearful after all.
 
 ## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
 
