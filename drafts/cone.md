@@ -20,7 +20,7 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
 III. <a href="#sec-3"><i>Glacier</i></a><br>
-IV. <a href="#sec-4"><i>Fear</i></a><br>
+IV. <a href="#sec-4"><i>Process</i></a><br>
 
 ---
 
@@ -41,7 +41,7 @@ It is a winter of many gifts. Between the steady rhythm of the patent office and
 
 What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law revealed unto mortals as moral law was in earlier times; science as art, fashioned from truth but clothed in whatever means of revelation He elects. The word made flesh. The clerk's private hieroglyphs begin to parade before him: a bright cone, devouring space; an elephant harried by mice; the heavy recoil of a musket; a glowing lump of swarf; a whirling bucket; a man trapped in an elevator... A motley, all charged with that same conviction of aesthetic necessity, of agreement with the codices of nature. It would be the happy work of his lifetime to render into mathematics—that narrower bridge to God—all the imagery vouchsafed from that hidden, timeless world. Einstein to Milena: "Perhaps simply to tell us a little of what He knows."
 
-## IV. <a href="#toc">Fear</a><a id="sec-4" name="sec-4"></a>
+## IV. <a href="#toc">Process</a><a id="sec-4" name="sec-4"></a>
 
 Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere." Treating this only as a problem of metaphysical imagination and not theology, we see immediately that such a sphere, as stated, is hardly intelligible. A circumference and centre are definitional items; without precisely locating them, we cannot have a sphere at all, as both Albertelli and Aristotle point out. Parmenides offers an escape route: the image of an *infinitely expanding* sphere. This is not so different from certain cosmological models of the Big Bang, but unfortunately they invert the description, with matter confined to an expanding sphere whose circumference is everywhere and whose centre is nowhere.
 
