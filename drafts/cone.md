@@ -20,7 +20,7 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
 III. <a href="#sec-3"><i>Glacier</i></a><br>
-IV. <a href="#sec-4"><i>Sphere</i></a><br>
+IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>Corio</i></a><br>
 
 ---
@@ -32,27 +32,50 @@ In his book *How to Teach Mathematics*, Steven G. Krantz cites the (probably apo
 
 ## II. <a href="#toc">Overture</a><a id="sec-2" name="sec-2"></a>
 
-A cone is a naturally poetic form: it radiates outward from a point, conveying by the means of space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, engineering, and beyond. We should be careful not to dismiss the other features of the problem; the cone is made up of metal shavings, otherwise known as *swarf*. We will mass a number of cursive fragments to constitute our discourse, fragments, to quote Eliot, shored against our ruin. Finally, these shavings are warm. Statistically speaking, warmth is another name for molecular randomness, a variance in the behaviour of the constituent parts. Here, the parts will deviate from one another, but that deviation shall itself be lawlike. We will contort the analogy no further.
+A cone is a naturally poetic form: it radiates outward from a point, conveying by the means of space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, engineering, and beyond. We should be careful not to dismiss the other features of the problem; the cone is made up of metal shavings, otherwise known as *swarf*. We will mass a number of cursive fragments to constitute our discourse, fragments, to quote Eliot, shored against our ruin. Finally, these shavings are warm. Statistically speaking, warmth is another name for molecular randomness, a variance in the behaviour of the constituent parts. Here, the parts will deviate from one another, but that deviation shall itself be lawlike. We contort the analogy no further.
 
 ## III. <a href="#toc">Glacier</a><a id="sec-3" name="sec-3"></a>
 
-On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed against winter, sits at his desk scribbling nonsense in a leatherbound notebook and pausing, now and again, to let daydreams transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, stops writing, and takes his pipe from the bureau. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. Night after night, they talk; night after night, the spirit of natural philosophy sneaks into the crowded apartment and blesses them with insight; night after night, the gates to that glacial realm open.
+On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed amply against winter, sits at his desk scribbling nonsense in a leatherbound notebook and pausing, now and again, to let daydreams transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, stops writing, and takes his pipe from the bureau. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. Night after night, they talk; night after night, the spirit of natural philosophy sneaks into the crowded apartment and blesses them with insight; night after night, the gates to that glacial realm open.
 
 It is a winter of many gifts. Between the steady rhythm of the patent office and late nights with Milena, things arrive easily: like Mozart, they feel inevitable, a sure play of metal, molecule, motion and mass... "How do they present themselves?" the analytic Milena asks one day. Our clerk tries to expound, fumbles, clings to analogies, lapses into imprecision. The problem defeats him because he fundamentally does not know; does not ask why he is blessed, simply listens and accepts without complaint. But he continues wrestling with it, and one day announces to Milena: "It is a sort of combinatory play, but clothed in sense impressions." Milena needles him: "I thought mathematics was the language of God." He thinks for a moment, then replies: "If He can speak in Hebrew, Aramaic or Arabic, he can evidently choose the tongue most fit for His purpose." "And what purpose is that?" Milena teases.
 
-What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law revealed unto mortals as moral law was in earlier times; science as art, fashioned from truth but clothed in whatever means of revelation He elects. The word made flesh. The clerk's private hieroglyphs begin to parade before him: a bright cone, devouring space; an elephant harried by mice; the heavy recoil of a musket; a glowing lump of swarf; a whirling bucket; a man trapped in an elevator... A motley, all charged with that same conviction of aesthetic necessity, of agreement with the codices of nature. It would be the happy work of his lifetime to render into mathematics—that narrower bridge to God—all the imagery vouchsafed from that hidden, timeless world. Einstein to Milena: "Perhaps simply to tell us a little of what He knows."
+What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law revealed unto mortals as moral law was in earlier times: science as art, fashioned from truth but clothed in whatever means of revelation He elects, the word made flesh. The clerk's private hieroglyphs begin to parade before him: a bright cone, devouring space; an elephant harried by mice; the heavy recoil of a musket; a glowing lump of swarf; a whirling bucket... A motley, all charged with that same conviction of aesthetic necessity, of secret agreement with the codices of nature. It would be the happy work of his lifetime to render into mathematics—that narrower bridge to God—all the imagery vouchsafed from that hidden, timeless world. Einstein to Milena: "Perhaps simply to tell us a little of what He knows."
 
-## IV. <a href="#toc">Sphere</a><a id="sec-4" name="sec-4"></a>
+## IV. <a href="#toc">Fear</a><a id="sec-4" name="sec-4"></a>
 
-Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere." This anticipates in some respects cosmological models of the Big Bang. But there, the picture is inverted, with matter confined to an expanding sphere whose circumference is everywhere and whose centre is nowhere; Hermes got the universe backwards. Treating it as a problem of metaphysical imagination rather than theology or physics, we see a subtler issue, namely that such a sphere, as stated, is not intelligible at all. A sphere is defined by its centre and radius, i.e. those points at fixed radial separation from the centre. Without locating either precisely, we cannot have a sphere, an objection made by both Albertelli and Aristotle. 
+Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere." This anticipates in some respects cosmological models of the Big Bang, but there the picture is inverted, with matter confined to an expanding sphere whose circumference is everywhere and whose centre is nowhere; Hermes got the universe backwards. Treating it as a problem of metaphysical imagination rather than theology or physics, we see a subtler issue, namely that such a sphere, as stated, is not intelligible at all. A sphere is defined by its centre and radius, those points at fixed radial separation from the centre. Without locating either precisely, we cannot have a sphere, an objection made by both Albertelli and Aristotle. 
 
-Parmenides offers an escape route: the image of an *infinitely expanding* sphere. In contrast to the static tableau of Hermes Trismegitus, this is a *dynamic* conception of deity, God as process, as continual unfolding from the central punctus. With its concession to the human experience of time and finitude, this has less of the uncanny geometry that would lead Pascal to declare the sphere "fearful". But process is not without its antinomies and ontological traps. We are tempted to picture the unfolding as incomplete, ongoing, momentarily paused. This does violence to Parmenides' view of reality itself as changeless; we therefore take "infinitely expanding" to image not a centreless sphere but *a summary of the process of expansion*.
+Parmenides offers an escape route: the image of an *infinitely expanding* sphere. In contrast to the static tableau of Hermes Trismegitus, this is a *dynamic* conception of deity, God as process, as continual unfolding from the central punctus. With its concession to the human experience of time, this has less of the uncanny geometry that would lead Pascal to declare the sphere "fearful". But process is not without its antinomies and ontological traps. We are tempted to picture the unfolding as incomplete, ongoing, momentarily paused. This does violence to Parmenides' view of reality itself as changeless; we therefore take "infinitely expanding" to image not a centreless sphere but *a summary of the process of expansion*.
 
 This summary remains ungraspable if we insist on picturing a sphere. Instead, imagine a Flatland where God is an infinitely growing circle. Then the problem is simple: time extrudes in a third dimension and the process of expanding the circle is represented concretely as a cone. It might be infinite in extent, but a marvelous fact about the cone is that its proportions are the same at all sizes. So we can simply fix a cone of finite extent and constant angle of inclination to the axis—the angle corresponding to the speed at which the deity enlarges and the axis the motion of its centre—and we have a complete picture of this unfolding. What better shape to represent the alien logic of divinity? What figure more generous to human finitude?
 
-We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere and not a circle. Stripped of its deist trappings, the lesson that reality is incomprehensible after all. The Hermetic mercury may not be caught; the sphere is fearful after all.
+We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere and not a circle. Stripped of its deist trappings, the true lesson is that reality is incomprehensible. The Hermetic mercury may not be caught; the cone is fearful after all.
 
 ## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
+
+<span style="padding-left: 40px; display:block">
+cruising nameless backstreets of
+&emsp; deadends, junkyards, burnt out
+&emsp; &emsp; trailerparks in tumbledown lots
+&emsp; of weeds, &emsp;concrete
+and radios
+
+we crest the hill
+and space, it seems, dilates.
+&emsp; huge and broken volumes
+&emsp; sculpt out night:
+cylinders, spheres, cones
+Cezanne in metal and smoke
+&emsp; and piles of sulfur
+
+the &emsp; cenotaph of 
+&emsp;&emsp; a dead alien god
+&emsp; keening with
+the voice of space
+</span>
+<div style="text-align: right">– <i>Fearful spheres (2018)</i>
+</div><br>
 
 ## List
 
