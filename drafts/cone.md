@@ -53,7 +53,7 @@ This summary remains ungraspable if we insist on expanding a sphere. To relax th
 
 - ~~Light cone~~
 - Self-organized criticality
-- Fearful cone of Pascal
+- ~~Fearful cone of Pascal~~
 - Designing a tiny house?
 - Cezanne / mountain
 - Mohr circle
