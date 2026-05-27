@@ -47,7 +47,7 @@ Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the f
 
 Parmenides offers an escape route: the image of an *infinitely expanding* sphere. In contrast to the static tableau of Hermes Trismegitus, this suggests a *dynamic* conception of deity, God as process, as continual unfolding from a fixed centre. With its concession to the human experience of time and finitude, it has less of the uncanny geometry that would lead Pascal to declare the sphere "fearful". But process is not without its antinomies and ontological traps. We are tempted to picture the unfolding as incomplete, ongoing, momentarily paused. This does violence to the conception of deity; hence Parmenides' formulation of "infinitely expanding", imaging not a centreless sphere but *a summary of the process of expansion*.
 
-This summary remains hard to grasp if we insist on expanding a sphere. But if relax the problem, and imagine a Flatland where God is an infinitely expanding circle, then the problem is simple: 
+This summary remains ungraspable if we insist on expanding a sphere. But to relax the problem, imagine a Flatland where God is an infinitely expanding circle, then the problem is simple: 
 
 ## List
 
