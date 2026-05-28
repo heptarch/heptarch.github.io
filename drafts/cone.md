@@ -21,7 +21,7 @@ I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
 III. <a href="#sec-3"><i>Glacial</i></a><br>
 IV. <a href="#sec-4"><i>Fear</i></a><br>
-V. <a href="#sec-5"><i>Corio</i></a><br>
+V. <a href="#sec-5"><i>North Shore</i></a><br>
 VI. <a href="#sec-6"><i>Monolith</i></a><br>
 
 ---
@@ -53,7 +53,7 @@ This summary remains ungraspable if we insist on picturing a sphere. Instead, im
 
 We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere and not a circle. Stripped of its deist trappings, the true lesson is that reality is incomprehensible. The Hermetic mercury may not be caught; the cone is fearful after all.
 
-## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
+## V. <a href="#toc">North Shore</a><a id="sec-5" name="sec-5"></a>
 
 <span style="padding-left: 40px; display:block">
 cruising nameless backstreets of <br>
@@ -80,7 +80,7 @@ the cenotaph of<br>
 </span>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
 
-Cézanne is a painter of forms, not objects; similarly, the poet seems to invoke the 
+Cézanne is a painter of forms, not objects; similarly, the poet seems to invoke the Platonic essence of a crumbling industrial district, presumably the "North Shore" of the poem's title.
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
