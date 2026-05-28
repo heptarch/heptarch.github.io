@@ -81,7 +81,9 @@ the cenotaph of<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful Spheres (2018)</i>
 
 Cézanne is a painter of forms, not objects; similarly, the poet reduces a crumbling industrial district—presumably the North Shore of the poem's title—to its Platonic components, the "broken volumes" and "piles of sulfur" encountered on a late-night drive. But these are not the benificent essences of Greek philosophy; instead, we are presented with an apocalyptic vision of "the cenotaph of a dead alien god", a frightening locus perhaps hostile to its human inhabitants, comprising not only visitors like the poet but the anonymous human presence of the "burnt out trailerparks" and "junkyards".
-But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the grand monolithic structures of Étienne-Louis Boullée, and the poet responds with fascination, even religious awe, to the scale and visual rhythm of the shipworks, silos, and refineries through which, the poet informs us, the "voice of space" is articulated. This "voice" is another reference, this time to the floating, bisected spheres of Magritte which hover.
+But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the grand monolithic structures of Étienne-Louis Boullée, and the poet responds with fascination, even religious awe, to the scale and visual rhythm of the shipworks, silos, and refineries through which the "voice of space" is articulated. 
+
+The "voice of space" is a more oblique visual reference, this time to the floating, bisected spheres of Magritte,.
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
