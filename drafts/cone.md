@@ -91,7 +91,7 @@ The Pyramid: a slate-blue frustrum, towering decametres grimly over the Leix Cha
 
 Stelae are inscribed with what appears, statistically, to be ternary noise, "free entropy" as one of our quants calls it. Why three symbols? Perhaps they couldn't count lower, one xenologist jokes. Another suggests that ternary has the most efficient radix economy of any natural number. Our chief quant is convinced that two symbols represent basis states, and the last a change of basis, with the whole encoding a quantum-computational protocol. Professionally speaking, I have no opinion; I'm paid to look at shit, collect samples, scrape the moss off bus stops so to speak. I just file the telemetry and hi-res scans and leave the rest to the experts.
 
-But the puzzle takes on its own life. Each stele starts like a manuscript, with a large, ornamental-looking flourish we call an initial. Stare at them long enough and motifs begin to emerge; I doodle them in my log-book to kill the time between signals. Visually, they look like hanzi mixed with circuit diagrams; the chief quant thinks they address ports for some sort of distributed quantum computer, but the xenos 
+But the puzzle takes on its own life. Each stele starts like a manuscript, with a large, ornamental-looking flourish we call an initial. Stare at them long enough and motifs begin to emerge; I doodle them in my log-book to kill the time between signals. You can identify components that look like hanzi radicals, and others that look like circuits, and two seem to function independently; the chief quant thinks they address ports for a distributed quantum computer, but the xenos find this outlandish and have Chomskian ideas about visual grammar.
 
 ## List
 
