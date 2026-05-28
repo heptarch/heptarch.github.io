@@ -22,6 +22,7 @@ II. <a href="#sec-2"><i>Overture</i></a><br>
 III. <a href="#sec-3"><i>Glacier</i></a><br>
 IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>Corio</i></a><br>
+VI. <a href="#sec-6"><i>Monolith</i></a><br>
 
 ---
 
@@ -77,13 +78,17 @@ the voice of space
 <div style="text-align: right">– <i>Fearful spheres (2018)</i>
 </div><br>
 
+## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
+
+
+
 ## List
 
 - ~~Light cone~~
 - Self-organized criticality
 - ~~Fearful cone of Pascal~~
 - Designing a tiny house?
-- Cezanne / mountain
+- ~~Cezanne / mountain~~
 - Mohr circle
 - Dirac cone / metal / thermo
 - Wang Wei / chinese poem / mountain? / ripple?
