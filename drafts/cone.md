@@ -83,7 +83,7 @@ the cenotaph of<br>
 Cézanne is a painter of forms, not objects; similarly, the poet reduces a crumbling industrial district—presumably the North Shore of the poem's title—to its Platonic components, the "broken volumes" and "piles of sulfur" encountered on a late-night drive. But these are not the benificent essences of Greek philosophy; instead, we are presented with an apocalyptic vision of "the cenotaph of a dead alien god", a frightening locus perhaps hostile to its human inhabitants, comprising not only visitors like the poet but the anonymous human presence of the "burnt out trailerparks" and "junkyards".
 But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the grand monolithic structures of Étienne-Louis Boullée, and the poet responds with fascination, even religious awe, to the scale and visual rhythm of the shipworks, silos, and refineries through which the "voice of space" is articulated. 
 
-The "voice of space" is a more oblique visual reference, this time to the floating, bisected spheres of Magritte. Like the poem, their Platonic simplicity contrasts with the uncanny, the sense of alien presence, a disruption 
+The "voice" is a more oblique visual reference to a painting by Magritte, in which silver spheres, resembling bells, float above a summer meadow. The parallel to the poem is clear: the Platonic simplicity of the bells is undercut by the sense of the uncanny, the alien presence of objects floating over a field. The voice, presumably  
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
