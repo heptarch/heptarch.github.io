@@ -55,7 +55,6 @@ We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere
 
 ## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
 
-<span style="padding-left: 40px; display:block">
 cruising nameless backstreets of <br>
 &emsp; deadends, junkyards, burnt out<br>
 &emsp; &emsp; trailerparks in tumbledown lots<br>
