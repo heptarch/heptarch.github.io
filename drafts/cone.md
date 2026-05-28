@@ -78,9 +78,9 @@ the cenotaph of<br>
 &emsp;&emsp; a dead alien god<br>
 &emsp;&emsp; keening with the voice of space<br>
 </span>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
 
-The poet seems to invoke
+Cézanne is a painter of forms, not objects; similarly, the poet seems to invoke the 
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
