@@ -76,7 +76,7 @@ Cézanne in metal and smoke<br>
 <span style="padding-left: 40px; display:block">
 the cenotaph of<br> 
 &emsp;&emsp; a dead alien god<br>
-&emsp; keening with the voice of space<br>
+&emsp;&emsp; keening with the voice of space<br>
 </span>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
 
