@@ -22,7 +22,7 @@ II. <a href="#sec-2"><i>Overture</i></a><br>
 III. <a href="#sec-3"><i>Glacial</i></a><br>
 IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>North Shore</i></a><br>
-VI. <a href="#sec-6"><i>Monolith</i></a><br>
+VI. <a href="#sec-6"><i>Poison</i></a><br>
 
 ---
 
@@ -85,9 +85,9 @@ But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the gran
 
 This "voice" is another visual reference, this time to a painting by Magritte in which bisected silver spheres (resembling bells) float above a summer meadow. The parallel to the poem is clear: Platonic simplicity undercut by a sense of the uncanny, the alien presence of geometry in a natural setting. But the voice of space—a jingle, if we are to believe Magritte—is replaced in the poem by "keening", a wail for the dead, most likely for the "alien god" whose tomb this entire complex has become. The identity of this god and its cause of death remain a mystery.
 
-## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
+## VI. <a href="#toc">Poison</a><a id="sec-6" name="sec-6"></a>
 
-The Pyramid: a slate-blue molybdenum frustrum, towering grimly decametres over the Leix Chaos and miles below, the smear of Agenor Linea visible to the south, a jungle of stellae crowding the entrance. Clipper II picked it up on the last flyby
+The Pyramid: a slate-blue molybdenum frustrum, towering decametres grimly over the Leix Chaos, the smear of Agenor Linea visible to the south, a jungle of stellae crowding the entrance. Clipper II picked it up on the last flyby and gravimetry confirms it extends miles below.
 
 ## List
 
