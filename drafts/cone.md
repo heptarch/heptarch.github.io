@@ -80,7 +80,7 @@ the cenotaph of<br>
 </span>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
 
-Cézanne is a painter of forms, not objects; similarly, the poet reduces a crumbling industrial district—presumably the "North Shore" of the poem's title—to its Platonic components, the "broken volumes", "metal and smoke", and so on.
+Cézanne is a painter of forms, not objects; similarly, the poet reduces a crumbling industrial district—presumably the "North Shore" of the poem's title—to its Platonic components, the "broken volumes" the narrator encounters on their journey. But these are not the benificent essences of Greek philosophy; rather, we have the apocalyptic vision of a "dead alien god", a locus which is actively hostile to its human viewers. 
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
