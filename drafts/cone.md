@@ -55,12 +55,15 @@ We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere
 
 ## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
 
+<span style="padding-left: 40px; display:block">
 cruising nameless backstreets of <br>
 &emsp; deadends, junkyards, burnt out<br>
 &emsp; &emsp; trailerparks in tumbledown lots<br>
 &emsp; of weeds, &emsp;concrete<br>
 and radios<br>
+</span>
 
+<span style="padding-left: 40px; display:block">
 we crest the hill<br>
 and space, it seems, dilates.<br>
 &emsp; huge and broken volumes<br>
@@ -68,12 +71,16 @@ and space, it seems, dilates.<br>
 cylinders, spheres, cones<br>
 Cezanne in metal and smoke<br>
 &emsp; and piles of sulfur<br>
+</span>
 
+<span style="padding-left: 40px; display:block">
 the &emsp; cenotaph of<br> 
 &emsp;&emsp; a dead alien god<br>
 &emsp; keening with<br>
 the voice of space
-&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
+</span>
+<div style="text-align: right">– <i>Fearful spheres (2018)</i>
+</div>
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
