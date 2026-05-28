@@ -95,7 +95,7 @@ But the puzzle takes on its own life. Each stele starts like a manuscript, with 
 
 The habs are fine; small, equipment-cluttered hovels where we make tea, play Go, fight over the sound system. We have everything we need from the environment: purifiers to make liquid water from the silicate-dirty ice and oxygen farms to concentrate the natural atmosphere. The CO is only a minor jerk. I'm mostly here to crush silicate rock samples and hoover fines, but we all do a bit of everything: Mendez helps the xenos with linguistics; Cheng works on structural engineering; I talk to the quants mostly, did a Part III before switching to geo. Was it worth fifteen years of school and ten years of return flight to Jupiter? I'll tell you in six.
 
-
+Cheng is disturbed by the idea that the Folks, as we call them, mined a supernova. She spends a lot of 
 
 ## List
 
