@@ -93,7 +93,7 @@ Stelae are inscribed with what appears, statistically, to be ternary noise, "fre
 
 But the puzzle takes on its own life. Each stele starts like a manuscript, with a large, ornamental-looking flourish we call an initial. Stare at initials long enough and motifs begin to emerge; I doodle them in my log-book killing the time between signals. You can identify components that look like hanzi radicals, others that look like circuits, and still others that look like diacritics, all of which seem to function independently. The chief quant thinks they're address ports for a distributed quantum computer, but the xenos find this outlandish and have developed a Chomskian scheme that, they claim, tidily accounts for the statistical regularities. Unfortunately, neither story tells us what they actually mean, and I wonder: why scribble nonsense no one else will understand?
 
-The habs are fine; small, equipment-cluttered hovels where we make tea, play Go. We have everything we need from the environment: purifiers to make make water from the silicate-dirty ice, and oxygen farms to concentrate the natural atmosphere. The CO is only a minor jerk. I'm mostly here to crush silicate and hoover fines, but we all do a bit of everything. Was it worth 6 years of spaceflight
+The habs are fine; small, equipment-cluttered hovels where we make tea, play Go, fight over the sound system. We have everything we need from the environment: purifiers to make make water from the silicate-dirty ice, and oxygen farms to concentrate the natural atmosphere. The CO is only a minor jerk. I'm mostly here to crush silicate and hoover fines, but we all do a bit of everything. Was it worth 6 years of spaceflight
 
 ## List
 
