@@ -74,7 +74,6 @@ the &emsp; cenotaph of<br>
 &emsp;&emsp; a dead alien god<br>
 &emsp; keening with<br>
 the voice of space
-</span>
 <div style="text-align: right">– <i>Fearful spheres (2018)</i>
 </div>
 
