@@ -19,7 +19,7 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 
 I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
-III. <a href="#sec-3"><i>Glacier</i></a><br>
+III. <a href="#sec-3"><i>Glacial</i></a><br>
 IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>Corio</i></a><br>
 VI. <a href="#sec-6"><i>Monolith</i></a><br>
@@ -35,7 +35,7 @@ In his book *How to Teach Mathematics*, Steven G. Krantz cites the (probably apo
 
 A cone is a naturally poetic form: it radiates outward from a point, conveying by the means of space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, engineering, and beyond. We should be careful not to dismiss the other features of the problem; the cone is made up of metal shavings, otherwise known as *swarf*. We will mass a number of cursive fragments to constitute our discourse, fragments, to quote Eliot, shored against our ruin. Finally, these shavings are warm. Statistically speaking, warmth is another name for molecular randomness, a variance in the behaviour of the constituent parts. Here, the parts will deviate from one another, but that deviation shall itself be lawlike. We contort the analogy no further.
 
-## III. <a href="#toc">Glacier</a><a id="sec-3" name="sec-3"></a>
+## III. <a href="#toc">Glacial</a><a id="sec-3" name="sec-3"></a>
 
 On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed amply against winter, sits at his desk scribbling nonsense in a leatherbound notebook and pausing, now and again, to let daydreams transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, stops writing, and takes his pipe from the bureau. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. Night after night, they talk; night after night, the spirit of natural philosophy sneaks into the crowded apartment and blesses them with insight; night after night, the gates to that glacial realm open.
 
