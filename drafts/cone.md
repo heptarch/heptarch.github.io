@@ -87,7 +87,7 @@ This "voice" is another visual reference, this time to a painting by Magritte in
 
 ## VI. <a href="#toc">Poison</a><a id="sec-6" name="sec-6"></a>
 
-The Pyramid: a slate-blue frustrum, towering decametres grimly over the Leix Chaos, the smear of Agenor Linea visible to the south and a jungle of stellae crowding the entrance. Clipper II picked it up on the last flyby; gravimetry confirms it extends miles below, laser spectroscopy that it's made of molybdenum, a metal only made in supernovae. Xenos on the wire are split between tomb, nuclear dump and data repository... Your classic black monolith scenario.
+The Pyramid: a slate-blue frustrum, towering decametres grimly over the Leix Chaos, the smear of Agenor Linea visible to the south and a jungle of stellae crowding the entrance like knives. Clipper II picked it up on the last flyby; gravimetry confirms it extends miles below, and laser spectroscopy that it's made of molybdenum, a metal only made in supernovae. Xenos on the wire are split between tomb, nuclear dump and data repository... Your classic black monolith scenario.
 
 The stellae are inscribed with what appears, statistically, to be ternary noise, "free entropy" as one of our quants calls it. Why three symbols? Perhaps they couldn't count lower, one xenologist jokes. Another suggests that ternary has the most efficient radix economy, the closest integer to the optimal base $e$. Perhaps, a quantum suggests, two symbols represent basis states, and the last a change of basis, so the whole encodes a quantum-computational signal.
 
