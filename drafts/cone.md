@@ -73,8 +73,7 @@ the &emsp; cenotaph of<br>
 &emsp;&emsp; a dead alien god<br>
 &emsp; keening with<br>
 the voice of space
-<div style="text-align: right">– <i>Fearful spheres (2018)</i>
-</div>
+&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
