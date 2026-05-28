@@ -56,27 +56,27 @@ We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere
 ## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
 
 <span style="padding-left: 40px; display:block">
-cruising nameless backstreets of
-&emsp; deadends, junkyards, burnt out
-&emsp; &emsp; trailerparks in tumbledown lots
-&emsp; of weeds, &emsp;concrete
-and radios
+cruising nameless backstreets of <br>
+&emsp; deadends, junkyards, burnt out<br>
+&emsp; &emsp; trailerparks in tumbledown lots<br>
+&emsp; of weeds, &emsp;concrete<br>
+and radios<br>
 
-we crest the hill
-and space, it seems, dilates.
-&emsp; huge and broken volumes
-&emsp; sculpt out night:
-cylinders, spheres, cones
-Cezanne in metal and smoke
-&emsp; and piles of sulfur
+we crest the hill<br>
+and space, it seems, dilates.<br>
+&emsp; huge and broken volumes<br>
+&emsp; sculpt out night:<br>
+cylinders, spheres, cones<br>
+Cezanne in metal and smoke<br>
+&emsp; and piles of sulfur<br>
 
-the &emsp; cenotaph of 
-&emsp;&emsp; a dead alien god
-&emsp; keening with
+the &emsp; cenotaph of<br> 
+&emsp;&emsp; a dead alien god<br>
+&emsp; keening with<br>
 the voice of space
 </span>
 <div style="text-align: right">– <i>Fearful spheres (2018)</i>
-</div><br>
+</div>
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
