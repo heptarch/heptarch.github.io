@@ -87,7 +87,7 @@ This "voice" is another visual reference, this time to a painting by Magritte in
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
-A slate-blue molybdenum frustrum, towering grimly a mile over the Leix Chaos, the shear of the Agenor Linea visible to the south. 
+A slate-blue molybdenum frustrum, towering grimly decameters over the Leix Chaos, the smear of Agenor Linea visible to the south. 
 
 ## List
 
