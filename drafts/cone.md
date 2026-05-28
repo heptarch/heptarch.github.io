@@ -95,7 +95,7 @@ But the puzzle takes on its own life. Each stele starts like a manuscript, with 
 
 The habs are fine; small, equipment-cluttered hovels where we make tea, play Go, fight over the sound system. We have everything we need from the environment: purifiers to make liquid water from the silicate-dirty ice and oxygen farms to concentrate the natural atmosphere. We have also become very creative with soylent. The CO? Only a minor jerk. I'm mostly here to crush silicate rock samples and hoover fines slicked over the ice, but we all do a bit of everything: Mendez helps the xenos with linguistics; Cheng works on structural engineering; I talk to the quants mostly, did a Part III before switching to geo. Was it worth fifteen years of school and ten years of round trip? I'll tell you once I'm back in Chicago.
 
-Cheng is disturbed by the idea that the Folks, as we call them, mined a supernova. She speculates it could contain something both hot and radiative, since otherwise why use Mo? Mendez obsesses over visual grammars. I carbon date gravel and try not to think about anything, but the Pyramid is like a detective novel: you have to know who did it, and why. There are 122 stelae. Each inscription is 4913 trits long.
+Cheng is disturbed by the idea that the Folks, as we call them, mined a supernova. She speculates it could contain something both hot and radiative, since otherwise why use Mo? Mendez obsesses over visual grammars. I carbon date gravel and try not to think about anything, but the Pyramid is like a detective novel: you have to know who did it, and why. There are 122 stelae. Each inscription is 5711 trits long. Initials live in the "habitable zone" (i.e. meaning-bearing range) of subband entropy, noticeably higher than traditional hanzi.
 
 ## List
 
