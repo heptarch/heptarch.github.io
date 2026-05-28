@@ -69,15 +69,14 @@ and space, it seems, dilates.<br>
 &emsp; huge and broken volumes<br>
 &emsp; sculpt out night:<br>
 cylinders, spheres, cones<br>
-Cezanne in metal and smoke<br>
+Cézanne in metal and smoke<br>
 &emsp; and piles of sulfur<br>
 </span>
 
 <span style="padding-left: 40px; display:block">
-the &emsp; cenotaph of<br> 
+the cenotaph of<br> 
 &emsp;&emsp; a dead alien god<br>
-&emsp; keening with<br>
-the voice of space
+&emsp; keening with the voice of space
 </span>
 <div style="text-align: right">– <i>Fearful spheres (2018)</i>
 </div>
