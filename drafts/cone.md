@@ -87,7 +87,7 @@ This "voice" is another visual reference, this time to a painting by Magritte in
 
 ## VI. <a href="#toc">Poison</a><a id="sec-6" name="sec-6"></a>
 
-The Pyramid: a slate-blue frustrum, towering decametres grimly over the Leix Chaos, the smear of Agenor Linea visible to the south, a jungle of stellae crowding the entrance. Clipper II picked it up on the last flyby; gravimetry confirms it extends miles below, laser spectroscopy that it's made of molybdenum, a metal only made in supernovae. Your classic black monolith scenario.
+The Pyramid: a slate-blue frustrum, towering decametres grimly over the Leix Chaos, the smear of Agenor Linea visible to the south, a jungle of stellae crowding the entrance. Clipper II picked it up on the last flyby; gravimetry confirms it extends miles below, laser spectroscopy that it's made of molybdenum, a metal only made in supernovae. Xenos on the wire are split between tomb, nuclear dump and data repository... Your classic black monolith scenario.
 
 ## List
 
