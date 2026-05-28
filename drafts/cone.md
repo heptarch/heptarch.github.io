@@ -76,9 +76,11 @@ Cézanne in metal and smoke<br>
 <span style="padding-left: 40px; display:block">
 the cenotaph of<br> 
 &emsp;&emsp; a dead alien god<br>
-&emsp; keening with the voice of space
+&emsp; keening with the voice of space<br>
 </span>
-&emsp;&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful spheres (2018)</i>
+
+The poet seems to invoke
 
 ## VI. <a href="#toc">Monolith</a><a id="sec-6" name="sec-6"></a>
 
