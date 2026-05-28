@@ -97,7 +97,7 @@ The habs are fine; small, equipment-cluttered hovels where we make tea, play Go,
 
 Cheng is disturbed by the idea that the Folks, as we call them, mined a supernova. She speculates the Pyramid houses decay products both hot and radiative, since otherwise why waste Mo? Mendez obsesses over visual grammars. I carbon date gravel, look for organics, and try not to think about anything, but the Pyramid is like a detective novel: you have to know who did it, and why. There are 122 stelae. Each inscription is 5711 trits long. Initials live in the "habitable zone" (i.e. meaning-bearing range) of subband entropy, noticeably higher than traditional hanzi. And the monolith sits there, a ghost of deep time with no dictionaries, no ports, and no means of ingress, silently mocking all our theories.
 
-The mission AI pipes up one evening. "We're picking up static from, ooh, roughly the direction of Centaurus. It's well above background." We pipe it back home, and after two lags' wait, get a bathetic confirmation from mission control: "yep, it's junk". No structure, fully entropic. 
+The mission AI pipes up one evening. "We're picking up static from, ooh, roughly the direction of Centaurus. It's well above background." We pipe it back home, and after two lags' wait, get a bathetic confirmation from mission control: "yep, it's junk". No structure, fully entropic. The AI: "If I recall, one particularly creative hypothesis is that trits represent a quantum protocol. Might that be encoded into the polarization data?" Another two lags' wait, and the chief quant replies: "There's no way to calibrate your polarizers unless you meet first and agree on a basis."
 
 ## List
 
