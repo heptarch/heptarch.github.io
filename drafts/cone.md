@@ -107,7 +107,7 @@ Stellae are inscribed with what appears, statistically, to be ternary noise, "fr
 - Stevens / poem
 - Bach / developing echos of form / Klee
 - Exam design / dunce cap
-- Boulee-style monolith? scifi? structural properties
+- ~~Boulee-style monolith? scifi? structural properties~~
 - Kinetic blow-up
 - Panopticon
 - Zen? Something about Enso (conclusion)
