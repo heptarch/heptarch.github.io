@@ -128,7 +128,7 @@ $$
 \Delta A = \frac{1}{2}r^2 (\beta - \sin\beta) \approx 5.5 \text{ m}^2,
 $$
 
-where $\beta = 2\pi /3$ is the opening angle of the segment (in radians). 
+where $\beta = 2\pi /3$ is the opening angle of the segment (in radians). This part of the footprint is shallow (less than $2 \text{ m}$) and hence of less utility.
 Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico. The face will also be aluminium cladding 
 
 *Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$
