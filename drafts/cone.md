@@ -131,7 +131,7 @@ $$
 where $\cos(\beta/2) = 1/2$ and hence $\beta = 2\pi/3$ in radians. 
 Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico.
 
-*Ground.* The ground floor has ample footage, around $\pi 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$; it is unaffected by the lost segment. 
+*Ground.* The ground floor has ample footage, around $\pi 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$; this is unaffected by the segment lost to the door. 
 
 *Loft.*
 
