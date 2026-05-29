@@ -122,9 +122,16 @@ $$
 R(\theta) = \frac{\ell}{1.5r\cos[(\ell/r)\theta]}.
 $$
 
-See for instance [Johansson (2022)](https://www.diva-portal.org/smash/get/diva2:1633435/FULLTEXT02.pdf). Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico.
+See for instance [Johansson (2022)](https://www.diva-portal.org/smash/get/diva2:1633435/FULLTEXT02.pdf). The segment reduces the area of the house by
 
-*Ground.* The ground floor has ample footage, around $\pi 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$, ignoring the portion carved out by the door. 
+$$
+\Delta A = \frac{1}{2}r^2 (\beta - \sin\beta) \approx 5.5 \text{ m}^2,
+$$
+
+where $\cos(\beta/2) = 1/2$ and hence $\beta = 2\pi/3$ in radians. 
+Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico.
+
+*Ground.* The ground floor has ample footage, around $\pi 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$; it is unaffected by the lost segment. 
 
 *Loft.*
 
