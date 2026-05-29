@@ -103,7 +103,7 @@ We set up a workshop next to the hab to smelt, fuse, solder, program. It is fun 
 
 After several lags, we have a working hypothesis: the Pyramid is entangled with the Centaurus transmitter, observing our efforts, and the consumed half got deleted from the signal in a totally causal fashion. But that would mean the Folks made a quantum network distributed over the scale of light years, a possibility that makes Cheng even more nervous than the Kardashev flex of harvesting an exploded star. But once you eliminate the impossible... We try to decode the remaining signal using random stelae—the output is in binary, since we just measure in the given polarizer basis—until one yields a noticeable drop in entropy. And then the signal stops.
 
-The quants think the only purpose of the bits is to calibrate the polarimeter and produce entropy drops; they are a nonce. The xenos think they are semantic, begin to look for structural organization, pattern, grammar.
+I think the bits are just a nonce to calibrate the polarimeter and produce an entropy decrement. All the semantics is in the initials.
 
 ## List
 
