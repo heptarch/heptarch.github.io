@@ -106,7 +106,7 @@ After several lags, we have a working hypothesis: the Pyramid is entangled with 
 
 ## VII. <a href="#toc">Draft</a><a id="sec-7" name="sec-7"></a>
 
-*Form.* The exterior wall is cut out of sheet metal: a circle of radius $4$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 144^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
+*Form.* The exterior wall is cut out of aluminium sheet metal: a circle of radius $4$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 144^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
 
 $$
 r = \left(1 - \frac{\alpha}{360^\circ}\right) 5 \text{ m} = 3\text{ m}, \quad h = \sqrt{5^2 - 3^2}\text{ m} = 4 \text{ m}.
@@ -114,7 +114,7 @@ $$
 
 Thus, the aspect ratio of the cone is $3 : 2$.
 
-*Structure.* The aluminium exterior is lined with foil-faced foam to prevent moisture retention. It's braced by a sealed wooden frame, with the space between foam liner and plyboard seal filled with wood shavings, a low-cost, ecologically friendly insulator. Shavings are tamped into stud cavities, treated with borax (pest deterrent) and lime (moisture deterrent).
+*Structure.* The aluminium cladding is lined with foil-faced foam to capture moisture and drilled at interval to allow moisture to escape. The cladding is further braced by a wooden frame, with plyboard sealing the interior surface and the space between filled with wood shavings, a low-cost, ecologically friendly insulator. Shavings are tamped into stud cavities, treated with borax (pest deterrent) and lime (moisture deterrent), and .
 
 *Material.*
 
