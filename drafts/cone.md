@@ -128,8 +128,8 @@ $$
 \Delta A = \frac{1}{2}r^2 (\beta - \sin\beta) \approx 5.5 \text{ m}^2,
 $$
 
-where $\cos(\beta/2) = 1/2$ and hence $\beta = 2\pi/3$ in radians. 
-Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico. At its base, the door is $r\sqrt{3/4}$
+where $\beta = 2\pi /3$ is the opening angle of the segment (in radians). 
+Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico. A door 
 
 *Ground floor.* The ground floor has ample footage, around $\pi 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$
 
