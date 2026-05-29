@@ -112,6 +112,8 @@ After several lags, we have a working hypothesis: the Pyramid is entangled with 
 r = \left(1 - \frac{\alpha}{360^\circ}\right) 5 \text{ m} = 3\text{ m}, \quad h = \sqrt{5^2 - 3^2}\text{ m} = 4 \text{ m}.
 \]
 
+Thus, the aspect ratio of the cone is $3 : 2$.
+
 *Structure.*
 
 *Material.*
