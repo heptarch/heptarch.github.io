@@ -114,7 +114,7 @@ $$
 
 Thus, the aspect ratio of the cone is $3 : 2$. The exterior wall will be painted slate-blue.
 
-*Structure.* The aluminium cladding is lined with foil-faced foam to capture moisture and drilled at intervals to let it escape. The cladding is further braced by a wooden frame, with thermally warped plyboard sealing the interior surface. The space between is filled with wood shavings, a low-cost, ecologically friendly insulator; shavings are treated with borax (pest deterrent) and lime (moisture resistance), and tamped into stud cavities to minimize the action of settling.
+*Structure.* The aluminium cladding is lined with foil-faced foam to capture moisture and drilled at intervals to let it escape. The cladding is further braced by a wooden frame, with thermally warped plyboard sealing the interior surface. The space between is filled with wood shavings, a low-cost, ecologically friendly insulator; shavings are treated with borax (pest deterrent) and lime (moisture resistance), and tamped into stud cavities to minimize the action of settling. The gap between cladding and frame is to be determined.
 
 *Face.* A hyperbolic face is opened in the cone by intersecting a vertical plane at offset $\Delta r = 1.5 \text{ m}$ from the centre, with a maximum height of $\Delta h = 2 \text{ m}$ and a base of $2r \sqrt{3/4} \approx 5.2 \text{ m}$. The face can be excised from the edges of the sector (removed from flat sheet metal) according to the inverse sine curve
 
