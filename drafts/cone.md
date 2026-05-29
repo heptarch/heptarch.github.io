@@ -114,7 +114,7 @@ $$
 
 Thus, the aspect ratio of the cone is $3 : 2$.
 
-*Structure.*
+*Structure.* The aluminium exterior is lined with foil-faced foam to prevent moisture retention, and braced by a wooden frame, filled with  
 
 *Material.*
 
