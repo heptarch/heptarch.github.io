@@ -138,6 +138,8 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Windows.*
 
+*Pneumatics.*
+
 ## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
 
 *Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments.
