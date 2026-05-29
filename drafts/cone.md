@@ -131,7 +131,7 @@ $$
 where $\beta = 2\pi /3$ is the opening angle of the segment (in radians). This part of the footprint is cramped (height less than $2 \text{ m}$) and hence of less utility.
 Some of the excised cladding can be repurposed to cope the edge of the face and provide a portico for the entrance. The face itself will be of aluminium sheet metal, and inset with a spruce doorway which reproduces in miniature the hyperbolic boundary curve.
 
-*Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$
+*Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$ (the excised segment is outside this). This central circle is bisected, with the left half on entry devoted to domestic utility—a bar fridge, oven and sink, some counter space and bar stools for eating—and the right half for leisure—a semicircular couch, divan and spruce coffee table.
 
 *Loft.*
 
