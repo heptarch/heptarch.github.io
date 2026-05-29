@@ -114,7 +114,7 @@ $$
 
 Thus, the aspect ratio of the cone is $3 : 2$.
 
-*Structure.* The aluminium exterior is lined with foil-faced foam to prevent moisture retention. It's braced by a sealed wooden frame, with the space between foam liner and plyboard seal filled with wood shavings, a low-cost, ecologically friendly insulator. Shavings are tamped, treated with borax and lime,
+*Structure.* The aluminium exterior is lined with foil-faced foam to prevent moisture retention. It's braced by a sealed wooden frame, with the space between foam liner and plyboard seal filled with wood shavings, a low-cost, ecologically friendly insulator. Shavings are tamped into stud cavities, treated with borax (pest deterrent) and lime (moisture deterrent).
 
 *Material.*
 
