@@ -131,7 +131,7 @@ $$
 where $\beta = 2\pi /3$ is the opening angle of the segment (in radians). This part of the footprint is cramped (height less than $2 \text{ m}$) and hence of less utility.
 Some of the excised cladding can be repurposed to cope the edge of the face and provide a shallow portico. The face itself will be aluminium.
 
-*Entry.* The face will be inset with a spruce doorway reproducing in miniature the hyperbolic boundary curve.
+*Entry.* The face will be inset with a spruce doorway, reproducing in miniature the hyperbolic boundary curve.
 
 *Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$
 
