@@ -23,6 +23,7 @@ III. <a href="#sec-3"><i>Glacial</i></a><br>
 IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>North Shore</i></a><br>
 VI. <a href="#sec-6"><i>Europa</i></a><br>
+VII. <a href="#sec-7"><i>Corner</i></a><br>
 
 ---
 
@@ -102,6 +103,8 @@ The mission AI pipes up one evening. "We're picking up static from, ooh, roughly
 We set up a workshop next to the hab to smelt, fuse, solder, program. It is fun in a routine way, the AI politely instructing, checking in with mission control every couple of hours, breaking things and melting them back together. Eventually we have a long-baseline, reconfigurable polarimeter up and running, and the signal has repeated 23 times: each repeat ~10000 units long, and starting with two fine-grained bursts, same subband entropy as the initials. We flip a coin to designate the sideband role; we have enough trits to calibrate the polarimeter up to negligible error, and once calibration is complete, the darndest thing happens: half the signal drops out. The AI says it best: "Well, that is disturbingly acausal."
 
 After several lags, we have a working hypothesis: the Pyramid is entangled with the Centaurus transmitter, observing our efforts, and the consumed half got deleted from the signal in a totally causal fashion. But that would mean the Folks made a quantum network distributed over the scale of light years, a possibility that makes Cheng even more nervous than the Kardashev flex of harvesting an exploded star. But once you eliminate the impossible... We try to decode the remaining signal using random stelae—the output is in binary, since we just measure in the given polarizer basis—until one yields a noticeable drop in entropy. And then the signal stops.
+
+## VII. <a href="#toc">Corner</a><a id="sec-7" name="sec-7"></a>
 
 ## List
 
