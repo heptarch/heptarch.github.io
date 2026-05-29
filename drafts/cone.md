@@ -129,7 +129,7 @@ $$
 $$
 
 where $\beta = 2\pi /3$ is the opening angle of the segment (in radians). 
-Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico. A door 
+Some of the excised cladding can be repurposed to provide coping for the entrace and a shallow portico. The face will also be aluminium cladding 
 
 *Ground floor.* The ground floor has ample footage, around $\pi 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$
 
