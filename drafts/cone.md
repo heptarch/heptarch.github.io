@@ -99,6 +99,8 @@ Cheng is disturbed by the idea that the Folks, as we call them, mined a supernov
 
 The mission AI pipes up one evening. "We're picking up static from, ooh, roughly the direction of Centaurus. It's well above background." We pipe it back home, and after two lags' wait, get a bathetic confirmation from mission control: "Yep, it's junk". No structure, fully entropic. The AI: "If I recall, one particularly creative hypothesis is that trits represent a quantum protocol. Might that be encoded into the polarization data?" Another two lags' wait, and the chief quant replies: "There's no way to calibrate your polarizers unless you meet first and agree on a basis direction." So the hypothesis is scuppered. But 122 is even... "What if we unzip two sequences from the static, consume one as a sideband which determines the shared basis and decode with the other?" The AI: "Yes, that might work; you could use, for instance, gentle measurements. But that is a rather demanding prior on signal structure." We send it back to the quants and hash it out over the lag; we would need to cannibalize the antennae from our telemetry, even wire up an array to resolve where things are coming from. Mission control: "Do it."
 
+We set up a workshop next to the hab to smelt, fuse, solder, program. It is fun in a routine way, the AI politely instructing, checking in with quants every couple of hours.
+
 ## List
 
 - ~~Light cone~~
