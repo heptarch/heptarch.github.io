@@ -124,6 +124,9 @@ $$
 
 See for instance [Johansson (2022)](https://www.diva-portal.org/smash/get/diva2:1633435/FULLTEXT02.pdf).
 
+*Ground.* The ground floor has ample footage, around $\pi 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$.
+
+*Loft.*
 
 
 ## List
