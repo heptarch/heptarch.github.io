@@ -106,7 +106,7 @@ After several lags, we have a working hypothesis: the Pyramid is entangled with 
 
 ## VII. <a href="#toc">Draft</a><a id="sec-7" name="sec-7"></a>
 
-*Form.* The exterior wall is cut out of aluminium sheet metal: a circle of radius $4$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 144^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
+*Form.* The exterior wall is cut out of aluminium sheet metal: a circle of radius $\ell = 4$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 144^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
 
 $$
 r = \left(1 - \frac{\alpha}{360^\circ}\right) 5 \text{ m} = 3\text{ m}, \quad h = \sqrt{5^2 - 3^2}\text{ m} = 4 \text{ m}.
@@ -119,7 +119,7 @@ Thus, the aspect ratio of the cone is $3 : 2$. The exterior wall will be painted
 *Doorway.* The doorway is a recessed conic section, obtained from intersecting a vertical plane with the cone, i.e. a hyperbola. The offset is such that the height of the door is $2 \text{ m}$. The two halves of the door can be excised from the edges of the removed sector via [polar equation](https://www.diva-portal.org/smash/get/diva2:1633435/FULLTEXT02.pdf)
 
 $$
-R(\theta) = \frac{2\ell/r\sqrt{(\ell/r)^2 - 1}}{} 
+R(\theta) = \frac{2\ell/r}{\sqrt{(\ell/r)^2 - 1} - } 
 $$
 
 ## List
