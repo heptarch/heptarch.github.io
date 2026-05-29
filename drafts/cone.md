@@ -119,7 +119,7 @@ Thus, the aspect ratio of the cone is $3 : 2$. The exterior wall will be painted
 *Doorway.* The doorway is a recessed conic section, obtained from intersecting a vertical plane with the cone, i.e. a hyperbola. The offset is such that the height of the door is $2 \text{ m}$. The two halves of the door can be excised from the edges of the removed sector via the [inverse sine wave](https://www.diva-portal.org/smash/get/diva2:1633435/FULLTEXT02.pdf)
 
 $$
-R(\theta) = -\frac{\ell}{1.5r\cos[(\ell/r)\theta]} 
+R(\theta) = \frac{\ell}{1.5r\cos[(\ell/r)\theta]}.
 $$
 
 ## List
