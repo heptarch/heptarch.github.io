@@ -116,11 +116,11 @@ Thus, the aspect ratio of the cone is $3 : 2$.
 
 *Structure.* The aluminium cladding is lined with foil-faced foam to capture moisture and drilled at interval to allow moisture to escape. The cladding is further braced by a wooden frame, with plyboard sealing the interior surface and the space between filled with wood shavings, a low-cost, ecologically friendly insulator. Shavings are treated with borax (pest deterrent) and lime (moisture deterrent), and tamped into stud cavities to minimize the action of settling.
 
+*Ventilation.* Besides the breathing holes and foam liner, we adapt the use of smoke holes from First Nations *tipi* design. The basic idea is to align a flap at the top of the cone downwind, creating a partial vacuum that
+
 *Doorways.*
 
 *Spatial arrangement.*
-
-*Ventilation.*
 
 ## List
 
