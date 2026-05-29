@@ -133,7 +133,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$ (the excised segment is outside this). This central circle is bisected, with the left half on entry devoted to domestic utility—a bar fridge, oven and sink, some counter space and bar stools for eating—and the right half for leisure—a semicircular couch, divan and spruce coffee table.
 
-*Loft.* A retractible ladder ascends
+*Loft.* A retractible ladder ascends to a loftbedroom, with total footage $\approx 7 \text{ m^2}$, able to comfortably accomodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) provided
 
 ## List
 
