@@ -106,6 +106,18 @@ After several lags, we have a working hypothesis: the Pyramid is entangled with 
 
 ## VII. <a href="#toc">Corner</a><a id="sec-7" name="sec-7"></a>
 
+*Form.*
+
+*Structure.*
+
+*Material.*
+
+*Doorways.*
+
+*Spatial arrangement.*
+
+*Ventilation.*
+
 ## List
 
 - ~~Light cone~~
