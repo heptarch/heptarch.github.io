@@ -123,7 +123,7 @@ After several lags, we have a working hypothesis: the Pyramid is entangled with 
 - ~~Light cone~~
 - Self-organized criticality
 - ~~Fearful cone of Pascal~~
-- Designing a tiny house?
+- ~~Designing a tiny house?~~
 - ~~Cezanne / mountain~~
 - Mohr circle
 - Dirac cone / metal / thermo
