@@ -24,6 +24,7 @@ IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>North Shore</i></a><br>
 VI. <a href="#sec-6"><i>Europa</i></a><br>
 VII. <a href="#sec-7"><i>Plans</i></a><br>
+VIII. <a href="#sec-8"><i>Exam</i></a><br>
 
 ---
 
