@@ -116,7 +116,7 @@ Thus, the aspect ratio of the cone is $3 : 2$. The exterior wall will be painted
 
 *Structure.* The aluminium cladding is lined with foil-faced foam to capture moisture and drilled at intervals to allow moisture to escape. The cladding is further braced by a wooden frame, with plyboard sealing the interior surface and the space between filled with wood shavings, a low-cost, ecologically friendly insulator. Shavings are treated with borax (pest deterrent) and lime (moisture deterrent), and tamped into stud cavities to minimize the action of settling.
 
-*Doorway.* The doorway is a hyperbolic conic section, obtained from intersecting a vertical plane with the cone. The offset is such that the height of the door is $2 \text{ m}$.
+*Doorway.* The doorway is a recessed conic section, obtained from intersecting a vertical plane with the cone, i.e. a hyperbola. The offset is such that the height of the door is $2 \text{ m}$.
 
 ## List
 
