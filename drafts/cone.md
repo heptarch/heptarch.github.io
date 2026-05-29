@@ -108,9 +108,9 @@ After several lags, we have a working hypothesis: the Pyramid is entangled with 
 
 *Form.* The exterior wall is cut out of sheet metal: a circle of radius $4$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 144^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
 
-\[
+$$
 r = \left(1 - \frac{\alpha}{360^\circ}\right) 5 \text{ m} = 3\text{ m}, \quad h = \sqrt{5^2 - 3^2}\text{ m} = 4 \text{ m}.
-\]
+$$
 
 Thus, the aspect ratio of the cone is $3 : 2$.
 
