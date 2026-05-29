@@ -135,6 +135,12 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Loft.* A retractible ladder ascends to a loft bedroom, with total footage $\approx 7 \text{ m}^2$, large enough to comfortably accomodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes.
 
+## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
+
+*Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments.
+
+*Answer.*
+
 ## List
 
 - ~~Light cone~~
@@ -142,7 +148,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 - ~~Fearful cone of Pascal~~
 - ~~Designing a tiny house?~~
 - ~~Cezanne / mountain~~
-- Mohr circle
+- ~~Mohr circle~~
 - Dirac cone / metal / thermo
 - Wang Wei / chinese poem / mountain? / ripple?
 - Ording / proof of volume of cone? / calculi
