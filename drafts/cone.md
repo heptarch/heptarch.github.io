@@ -23,7 +23,7 @@ III. <a href="#sec-3"><i>Glacial</i></a><br>
 IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>North Shore</i></a><br>
 VI. <a href="#sec-6"><i>Europa</i></a><br>
-VII. <a href="#sec-7"><i>Corner</i></a><br>
+VII. <a href="#sec-7"><i>Draft</i></a><br>
 
 ---
 
@@ -104,9 +104,12 @@ We set up a workshop next to the hab to smelt, fuse, solder, program. It is fun 
 
 After several lags, we have a working hypothesis: the Pyramid is entangled with the Centaurus transmitter, observing our efforts, and the consumed half got deleted from the signal in a totally causal fashion. But that would mean the Folks made a quantum network distributed over the scale of light years, a possibility that makes Cheng even more nervous than the Kardashev flex of harvesting an exploded star. But once you eliminate the impossible... We try to decode the remaining signal using random stelae—the output is in binary, since we just measure in the given polarizer basis—until one yields a noticeable drop in entropy. And then the signal stops.
 
-## VII. <a href="#toc">Corner</a><a id="sec-7" name="sec-7"></a>
+## VII. <a href="#toc">Draft</a><a id="sec-7" name="sec-7"></a>
 
-*Form.*
+*Form.* The exterior wall is cut out of sheet metal: a circle of radius $4$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 72^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
+\[
+r = \left(1 - \frac{\alpha}{360^\circ}\right) 5 \text{ m} = 4\text{ m}, \quad h = \sqrt{5^2 - 4^2}\text{ m} = 3 \text{ m}.
+\]
 
 *Structure.*
 
