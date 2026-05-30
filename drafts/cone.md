@@ -138,6 +138,8 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Burrow.* The floor of the living area is interrupted by a circular manhole, diameter $0.75 \text{ m}$, typically covered by an afghan rug. The manhole, offset from the centre of the cone, admits the residents to a vertical tunnel, a hardwood-braced cylindrical excavation of diameter $2 \text{ m}$ with a rope ladder descending a distance of $75 \text{ m}$. At the bottom of this shaft are secondary living quarters, a generator, and a network of further tunnels.
 
+*Generator.*
+
 ## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
 
 *Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour.
