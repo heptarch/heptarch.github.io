@@ -215,12 +215,24 @@ The examination draws forth precisely because it is an assessment of merit. The 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-This is like the dragon which eats its own tail. We make merit by attempting to determine merit, which in turn must be made.
+This is like the dragon which eats its own tail. We make merit by attempting to determine merit, which in turn must be somehow made, and so on.
+</span>
+
+SALVIATI. <span style="padding-left: 40px; display:block">
+The examination makes merit from the future. Instruction makes merit from the past; it is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask 
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
-*Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour.
+*Choose precisely one of the questions below and answer it.*
+
+<span style="padding-left: 40px; display:block">
+*A.* *You have a pile of a warm metal shavings in the shape of a cone. Discuss. 
+</span>
+
+<span style="padding-left: 40px; display:block">
+*B.* *You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour. 
+</span>
 
 *Answer.*
 
