@@ -251,7 +251,7 @@ Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coe
 Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics as parameterized by $\Delta$.
 </span>
 (d) <span style="padding-left: 40px; display:block">
-Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics in terms of $\Delta$.
+Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.
 </span>
 </span>
 
