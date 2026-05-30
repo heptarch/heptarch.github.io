@@ -224,7 +224,7 @@ The examination makes merit from the future. Instruction makes merit from the pa
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
-Though it is in some cases a bad marriage. Pray friends, can you confine yourselves for a moment to Galileo's observation of the Jovian moons? I would be enlightened.
+Though it is in some cases a bad marriage. (*A pause.*) Pray friends, can you confine yourselves for a moment to Galileo's observation of the Jovian moons? I would be enlightened.
 </span>
 
 ## X. <a href="#toc">Exam</a><a id="sec-10" name="sec-10"></a>
