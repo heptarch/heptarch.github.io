@@ -241,13 +241,16 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 
 <span style="padding-left: 40px; display:block">
 <i>C.</i> You have a pile of a warm metal shavings in the shape of a cone.
-<ol>
-<li>Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction.</li>
-<li>Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.</li>
-<li>Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics as parameterized by $\Delta$.</li>
-<li>Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.</li>
-<li>Argue that, if grain velocities experience dispersion $T_g =\langle\delta v^2\rangle$ under agitation, then $\Delta \to 0$ if $T_g \sim gd$ where $d$ is the height of the pile. </li> 
-</ol>
+<span style="padding-left: 40px; display:block">
+(a) Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction.</span>
+<span style="padding-left: 40px; display:block">
+(b) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.</span>
+<span style="padding-left: 40px; display:block">
+(c) Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics as parameterized by $\Delta$.</span>
+<span style="padding-left: 40px; display:block">
+(d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.</span>
+<span style="padding-left: 40px; display:block">
+(e) Argue that, if grain velocities experience dispersion $T_g =\langle\delta v^2\rangle$ under agitation, then $\Delta \to 0$ if $T_g \sim gd$ where $d$ is the height of the pile. </span> 
 </span>
 
 <span style="padding-left: 40px; display:block">
