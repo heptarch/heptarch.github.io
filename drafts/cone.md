@@ -284,10 +284,10 @@ $$
 Let $\tilde{x} = x - 1$, $\tilde{y} = y- 1$, so the cubic becomes
 
 $$
-(\tilde{x}-5)\tilde{y} + 10\tilde{x} = 0, 
+(\tilde{x}-5)\tilde{y} + 10\tilde{x} = 0.
 $$
 
-which manifestly has solution $(\tilde{x}, \tilde{y}) = (3, 15)$ and hence $(x, y) = (4, 16)$. $\blacksquare$
+This manifestly has solution $(\tilde{x}, \tilde{y}) = (3, 15)$ and hence $(x, y) = (4, 16)$. $\blacksquare$
 
 ## XII. <a href="#toc">Way</a><a id="sec-12" name="sec-12"></a>
 
