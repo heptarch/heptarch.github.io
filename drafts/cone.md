@@ -167,7 +167,7 @@ SIMPLICIO. <span style="padding-left: 40px; display:block">
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
-Friends, let us refrain from debating caruncles.
+Friends, let us refrain from the debate of caruncles.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
@@ -195,15 +195,23 @@ We cannot make the student excellent if they are not already.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-Here again you commit a fallacy of accident versus essence. An excellent student may fail to show excellence because of an ague, for instance; they do not cease to be unless the ague is particularly bad. The role of education is to literally educe, to draw forth that excellence in the student; the only legitimate role for examination, then, is to aid in that drawing forth.
+Here again you commit a fallacy of accident versus essence. An excellent student may fail to show excellence because of an ague, for instance; they do not cease to be. The role of education is to literally educe, to draw forth that excellence in the student; the only legitimate role for examination, then, is to aid in that drawing forth.
+</span>
+
+SAGREDO. <span style="padding-left: 40px; display:block">
+They may cease to be if the ague is particularly bad.
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-Why examine at all then? We could simply instruct the students and be done with it.
+Indeed good Sagredo! But why examine at all then? We could simply instruct the students and be done with it.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
 The examination draws forth precisely because it is an assessment of merit. The student knows this and prepares accordingly. But the virtue is not in the determination of merit, but the drawing forth that determination gives rise to. 
+</span>
+
+SIMPLICIO. <span style="padding-left: 40px; display:block">
+But t
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
