@@ -260,7 +260,19 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 
 **Theorem.** If $x^3 - 6x^2 + 11x - 6 = 2x - 2$, then $x = 1$ or $x = 4$.
 
-*Proof.*
+*Proof.* First, rearrange the cubic to give
+
+$$
+x^3 - 6x^2 + 9x - 4 = 0.
+$$
+
+Define $y = x^2$, and write the cubic as
+
+$$
+xy - 6y + 9x - 4 = 0,
+$$
+
+the equation of a rectangular hyperbola.
 
 ## XII. <a href="#toc">Way</a><a id="sec-12" name="sec-12"></a>
 
