@@ -250,9 +250,9 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 <span style="padding-left: 40px; display:block">
 (d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Give an implicit relation for $\theta_\max$ in terms of $c$ at vertical depth $z$, taking $z \sim H$ for the pile as a whole, and verify that smaller piles stand taller.</span>
 <span style="padding-left: 40px; display:block">
-(e) Under agitation the grains acquire a velocity dispersion $T_g = \langle\delta v^2\rangle$ (the "granular temperature"). A surface grain is caged by a barrier of order $mgd$, where $d$ is now the grain diameter. Argue that the cage is overcome—and hence the metastability collapses, $\Delta \to 0$—once $T_g \sim gd$. </span> 
+(e) Under agitation the grains acquire a velocity dispersion $T_g = \langle\delta v^2\rangle$ (the "granular temperature"). A surface grain is caged by a barrier of order $mgd$, where $d$ is now the grain diameter. Argue that the cage is overcome (and hence $\Delta \to 0$) once $T_g \sim gd$. </span> 
 <span style="padding-left: 40px; display:block">
-(f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance of part (a). </span>
+(f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance you found in part (a). </span>
 </span>
 
 ## List
