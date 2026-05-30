@@ -165,7 +165,11 @@ SIMPLICIO. <span style="padding-left: 40px; display:block">
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-(*Appears surprised.*) Why no, I didn't realize I was wearing this. (*Takes off dunce cap.*) Pray, let us continue.
+Very well. As I was saying, we must inquire as to the purpose of examination.
+</span>
+
+SIMPLICIO. <span style="padding-left: 40px; display:block">
+And as I was saying, it is simpliciy itself: to determine the student's merit.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
