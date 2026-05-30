@@ -187,7 +187,7 @@ Accidental or essential, the purpose of the examination remains to establish the
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-Is not the purpose of education to develop these very properties in which, so you say, the merit of the student consists? 
+Is not the purpose of education to develop these very properties in which, as you say, the merit of the student consists? 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
