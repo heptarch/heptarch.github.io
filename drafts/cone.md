@@ -173,7 +173,7 @@ Yes. And as I averred, it is simplicity itself: to determine the student's merit
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
-Fellow worthies, let us refrain from discussing caruncles.
+My friends, let us refrain from arguing over caruncles.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
