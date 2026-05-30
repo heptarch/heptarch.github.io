@@ -145,13 +145,13 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 <span style="padding-left: 40px; display:block">
 void cone; see no one <br>
 but hear talk.<br>
-light yields in the deep grove: <br>
+light yields on the deep grove: <br>
 blue-green shine on the moss.
 </span>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
 
-This odd, monosyllabic translation renders "empty mountain" as "void cone", a bizarre attempt which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abtract, geometric, and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", adding "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. The 
+This odd, monosyllabic translation renders "empty mountain" as "void cone", a bizarre attempt which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abtract, geometric, and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", adding "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. A clumsy option is "yields on"; this abandons the notion of "return" in favour of a grammatically ambiguous relation between light and grove. Finally, the monosyllabic free verse and lowercase sentences smack of enthusiastic dilettantism.
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
