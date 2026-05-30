@@ -176,6 +176,10 @@ SIMPLICIO. <span style="padding-left: 40px; display:block">
 The student distinguishes themselves by application, knowledge, and excellence, and what are these if not essential to the student? These are the properties I more properly mean by "merit", and which it is the goal of our examinations to assay.
 </span>
 
+SALVIATI. <span style="padding-left: 40px; display:block">
+No, it is meet. The caruncle is something attached to the student, an accident, if you will, and not an essence. Merit likewise is an accident and not an essence.
+</span>
+
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
 *Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour.
