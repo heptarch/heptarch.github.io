@@ -151,7 +151,7 @@ blue-green shine on the moss. <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
 
-This odd, monsyllabic translation renders "empty mountain" as "void cone"; this is either the product of incompetence or a deliberate surrealist intent.
+This odd, monsyllabic translation renders "empty mountain" as "void cone"; this is the product either of incompetence or an intentional disruption.
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
