@@ -239,6 +239,10 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 <i>B.</i> You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour. 
 </span>
 
+<span style="padding-left: 40px; display:block">
+<i>C.</i> You have a pile of a warm metal shavings in the shape of a cone. Use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$
+</span>
+
 *Answer.*
 
 ## List
