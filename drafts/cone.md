@@ -277,7 +277,7 @@ This is the equation of a rectangular hyperbola. Two conic sections meet at $0, 
 $$
 \begin{align}
 y = x^2 \quad &\Longrightarrow \quad y' = 2x = 2 \\
-xy - 6y + 9x - 4 = 0 \quad &\Longrightarrow \quad y' = -\frac{(9 + y)}{(x - 6)} = 2.
+xy - 6y + 9x - 4 = 0 \quad &\Longrightarrow \quad y' = -\frac{(y + 9)}{(x - 6)} = 2.
 \end{align}
 $$
 
