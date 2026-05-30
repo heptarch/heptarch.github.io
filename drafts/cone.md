@@ -26,6 +26,7 @@ VI. <a href="#sec-6"><i>Story</i></a><br>
 VII. <a href="#sec-7"><i>Plans</i></a><br>
 VIII. <a href="#sec-8"><i>Translation</i></a><br>
 IX. <a href="#sec-9"><i>Dialogue</i></a><br>
+X. <a href="#sec-10"><i>Exam</i></a><br>
 
 ---
 
@@ -222,7 +223,7 @@ SALVIATI. <span style="padding-left: 40px; display:block">
 The examination makes merit from the future. Instruction makes merit from the past; it is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask 
 </span>
 
-## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
+## X. <a href="#toc">Exam</a><a id="sec-10" name="sec-10"></a>
 
 *Choose precisely one of the questions below and answer it.*
 
