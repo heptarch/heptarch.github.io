@@ -156,7 +156,7 @@ This odd translation renders "empty mountain" as "void cone", a bizarre effort w
 
 ## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
-SALVIATI. Simplicio, why do you wear this appertunance? Do you mean to reference the Keplerian doctrine that orbital modies move on conic sections?
+SALVIATI. Simplicio, why do you wear this appertunance? Do you mean to refer to the Keplerian doctrine that orbital modies move on conic sections?
 
 SIMPLICIO. (*Appears surprised.*) Why no, I didn't realize I was wearing this. (*Takes off dunce cap.*) Pray, let us continue.
 
