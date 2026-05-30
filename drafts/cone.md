@@ -84,7 +84,7 @@ the cenotaph of<br>
 </span>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– "North Shore", <i>Fearful Spheres (2018)</i>
 
-Cézanne is a painter of forms, not objects; similarly, the poet reduces a crumbling industrial district—presumably the North Shore of the poem's title—to its Platonic components, the "broken volumes" and "piles of sulfur" encountered on a late-night drive. But these are not the benificent essences of Greek philosophy; instead, we are presented with an apocalyptic vision of "the cenotaph of a dead alien god", a frightening locus perhaps hostile to its human inhabitants, comprising not only visitors like the poet but the residual humanity of the "burnt out trailerparks" and "junkyards".
+Cézanne is a painter of forms, not objects; similarly, the poet reduces a crumbling industrial district—presumably the North Shore of the poem's title—to its Platonic components, the "broken volumes" and "piles of sulfur" encountered on a late-night drive. But these are not the beneficent essences of Greek philosophy; instead, we are presented with an apocalyptic vision of "the cenotaph of a dead alien god", a frightening locus perhaps hostile to its human inhabitants, comprising not only visitors like the poet but the residual humanity of the "burnt out trailerparks" and "junkyards".
 But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the grand monolithic structures of Étienne-Louis Boullée, and the poet responds with fascination, even religious awe, to the scale and visual rhythm of the shipworks, silos, and refineries through which the "voice of space" is articulated. 
 
 This "voice" is another visual reference, this time to a painting by Magritte in which bisected silver spheres (resembling bells) float above a summer meadow. The parallel to the poem is clear: Platonic simplicity undercut by a sense of the uncanny, the alien presence of geometry in a natural setting. But the voice of space—a jingle, if we are to believe Magritte—is replaced in the poem by "keening", a wail for the dead, most likely for the "alien god" whose tomb this entire complex has become. But the identity of this god and its cause of death remain an enigma.
@@ -153,14 +153,14 @@ blue-green moss shine.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
 
-This translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abtract and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and solecisms smack of Greenwich Village dilettantism rather than scholarly care.
+This translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abstract and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and solecisms smack of Greenwich Village dilettantism rather than scholarly care.
 
 ## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
 *SALVIATI and SIMPLICIO are discussing the purpose of examination at the house of their host, the witty SAGREDO. Both are learned in the ways of pedagogy but disagree over the purpose of assessment.*
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-Simplicio, why do you wear this appertunance? Do you mean to refer to the Keplerian doctrine that orbital bodies move on conic sections?
+Simplicio, why do you wear this appurtenance? Do you mean to refer to the Keplerian doctrine that orbital bodies move on conic sections?
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
@@ -220,7 +220,7 @@ This is like the dragon which eats its own tail. We make merit by attempting to 
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-The examination makes merit from the future. Instruction makes merit from the past; it is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask what structure and tendency respects the ultimation purpose of examination, viz. the drawing forth of excellence. And here, we must remember that as in the practice of virtue, the demonstration of excellence is best encouraged by love and the natural facility of enjoyment. For we will see the merit we seek if the student can be made to love merit.
+The examination makes merit from the future. Instruction makes merit from the past; it is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask what structure and tendency respects the ultimate purpose of examination, viz. the drawing forth of excellence. And here, we must remember that as in the practice of virtue, the demonstration of excellence is best encouraged by love and the natural facility of enjoyment. For we will see the merit we seek if the student can be made to love merit.
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
@@ -242,15 +242,17 @@ Though in some cases a bad marriage. (*A pause.*) Pray friends, can you confine 
 <span style="padding-left: 40px; display:block">
 <i>C.</i> You have a pile of a warm metal shavings in the shape of a cone.
 <span style="padding-left: 40px; display:block">
-(a) Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction.</span>
+(a) Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction. Why is the scale-invariance of the solution expected?</span>
 <span style="padding-left: 40px; display:block">
 (b) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.</span>
 <span style="padding-left: 40px; display:block">
 (c) Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger-Liu-Nagel finite-size corrections as parameterized by $\Delta$.</span>
 <span style="padding-left: 40px; display:block">
-(d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.</span>
+(d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Give an implicit relation for $\theta_\max$ in terms of $c$ and verify that it stands taller for small piles.</span>
 <span style="padding-left: 40px; display:block">
-(e) Argue that, if grain velocities experience dispersion $T_g =\langle\delta v^2\rangle$ under agitation, then $\Delta \to 0$ if $T_g \sim gd$ where $d$ is the pile height. Determine $c$ and hence $\theta_\max$ in this case. </span> 
+(e) Under agitation the grains acquire a velocity dispersion $T_g = \langle\delta v^2\rangle$ (the "granular temperature"). A surface grain is caged by a barrier of order $mgd$, where $d$ is now the grain diameter. Argue that the cage is overcome—and hence the metastability collapses, $\Delta \to 0$—once $T_g \sim gd$. </span> 
+<span style="padding-left: 40px; display:block">
+(f) Model the resulting loss of shear strength as a *negative* effective cohesion $c$ in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance of part (a). </span>
 </span>
 
 ## List
