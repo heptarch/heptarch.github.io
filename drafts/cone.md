@@ -211,7 +211,7 @@ The examination draws forth precisely because it is an assessment of merit. The 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-But t
+But this is like the dragon eating its own tail. We make merit by attempting to determine merit, which in turn must be made.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
