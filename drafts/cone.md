@@ -240,7 +240,13 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 </span>
 
 <span style="padding-left: 40px; display:block">
-<i>C.</i> You have a pile of a warm metal shavings in the shape of a cone. Use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$
+<i>C.</i> You have a pile of a warm metal shavings in the shape of a cone. 
+<span style="padding-left: 40px; display:block">
+(a) Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_\text{max}=\phi$, where $$\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction.
+</span>
+<span style="padding-left: 40px; display:block">
+(b) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is consistent with (a).
+</span>
 </span>
 
 *Answer.*
