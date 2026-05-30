@@ -253,6 +253,9 @@ Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle 
 (d) <span style="padding-left: 40px; display:block">
 Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.
 </span>
+(e) <span style="padding-left: 40px; display:block">
+Argue 
+</span>
 </span>
 
 <span style="padding-left: 40px; display:block">
