@@ -24,7 +24,7 @@ IV. <a href="#sec-4"><i>Fear</i></a><br>
 V. <a href="#sec-5"><i>North Shore</i></a><br>
 VI. <a href="#sec-6"><i>Europa</i></a><br>
 VII. <a href="#sec-7"><i>Plans</i></a><br>
-VIII. <a href="#sec-8"><i>Exam</i></a><br>
+VIII. <a href="#sec-8"><i>Translation</i></a><br>
 
 ---
 
@@ -140,7 +140,17 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Generator.* Selenothermal unit with feedline from Europan aquifer. Proprietary.
 
-## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
+## VIII. <a href="#toc">Translation</a><a id="sec-8" name="sec-8"></a>
+
+<span style="padding-left: 40px; display:block">
+void cone, see no one <br>
+but hear talk.<br>
+light in the deep grove: <br>
+</span>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
+
+## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
 *Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour.
 
