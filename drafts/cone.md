@@ -19,12 +19,13 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 
 I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
-III. <a href="#sec-3"><i>Glacial</i></a><br>
-IV. <a href="#sec-4"><i>Fear</i></a><br>
-V. <a href="#sec-5"><i>Corio</i></a><br>
-VI. <a href="#sec-6"><i>Europa</i></a><br>
+III. <a href="#sec-3"><i>Portrait</i></a><br>
+IV. <a href="#sec-4"><i>Treatise</i></a><br>
+V. <a href="#sec-5"><i>Poem</i></a><br>
+VI. <a href="#sec-6"><i>Story</i></a><br>
 VII. <a href="#sec-7"><i>Plans</i></a><br>
 VIII. <a href="#sec-8"><i>Translation</i></a><br>
+IX. <a href="#sec-9"><i>Dialogue</i></a><br>
 
 ---
 
@@ -37,7 +38,7 @@ In his book *How to Teach Mathematics*, Steven G. Krantz cites the (probably apo
 
 A cone is a naturally poetic form: it radiates outward from a point, conveying by the means of space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, engineering, and beyond. We should be careful not to dismiss the other features of the problem; the cone is made up of metal shavings, otherwise known as *swarf*. We will mass a number of cursive fragments to constitute our discourse, fragments, to quote Eliot, shored against our ruin. Finally, these shavings are warm. Statistically speaking, warmth is another name for molecular randomness, a variance in the behaviour of the constituent parts. Here, the parts will deviate from one another, but that deviation shall itself be lawlike. We contort the analogy no further.
 
-## III. <a href="#toc">Glacial</a><a id="sec-3" name="sec-3"></a>
+## III. <a href="#toc">Portrait</a><a id="sec-3" name="sec-3"></a>
 
 On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed amply against winter, sits at his desk scribbling nonsense in a leatherbound notebook and pausing, now and again, to let daydreams transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, stops writing, and takes his pipe from the bureau. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. Night after night, they talk; night after night, the spirit of natural philosophy sneaks into the crowded apartment and blesses them with insight; night after night, the gates to that glacial realm open.
 
@@ -45,7 +46,7 @@ It is a winter of many gifts. Between the steady rhythm of the patent office and
 
 What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law revealed unto mortals as moral law was in earlier times: science as art, fashioned from truth but clothed in whatever means of revelation He elects, the word made flesh. The clerk's private hieroglyphs begin to parade before him: a bright cone, devouring space; an elephant harried by mice; the heavy recoil of a musket; a glowing lump of swarf; a whirling bucket... A motley, all charged with that same conviction of aesthetic necessity, of secret agreement with the codices of nature. It would be the happy work of his lifetime to render into mathematics—that narrower bridge to God—all the imagery vouchsafed from that hidden, timeless world. Einstein to Mileva: "Perhaps simply to tell us a little of what He knows."
 
-## IV. <a href="#toc">Fear</a><a id="sec-4" name="sec-4"></a>
+## IV. <a href="#toc">Treatise</a><a id="sec-4" name="sec-4"></a>
 
 Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere." This anticipates in some respects cosmological models of the Big Bang, but there the picture is inverted, with matter confined to an expanding sphere whose circumference is everywhere and whose centre is nowhere; Hermes got the universe backwards. Treating it as a problem of metaphysical imagination rather than theology or physics, we see a subtler issue, namely that such a sphere, as stated, is not intelligible at all. A sphere is defined by its centre and radius, those points at fixed radial separation from the centre. Without locating either precisely, we cannot have a sphere, an objection made by both Albertelli and Aristotle. 
 
@@ -55,7 +56,7 @@ This summary remains ungraspable if we insist on picturing a sphere. Instead, im
 
 We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere and not a circle. Stripped of its deist trappings, the true lesson is that reality is incomprehensible. The Hermetic mercury may not be caught; the cone is fearful after all.
 
-## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
+## V. <a href="#toc">Poem</a><a id="sec-5" name="sec-5"></a>
 
 <span style="padding-left: 40px; display:block">
 cruising nameless backstreets of <br>
@@ -87,7 +88,7 @@ But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the gran
 
 This "voice" is another visual reference, this time to a painting by Magritte in which bisected silver spheres (resembling bells) float above a summer meadow. The parallel to the poem is clear: Platonic simplicity undercut by a sense of the uncanny, the alien presence of geometry in a natural setting. But the voice of space—a jingle, if we are to believe Magritte—is replaced in the poem by "keening", a wail for the dead, most likely for the "alien god" whose tomb this entire complex has become. But the identity of this god and its cause of death remain an enigma.
 
-## VI. <a href="#toc">Europa</a><a id="sec-6" name="sec-6"></a>
+## VI. <a href="#toc">Story</a><a id="sec-6" name="sec-6"></a>
 
 The Pyramid: a slate-blue frustum towering grimly over the Leix Chaos, the sliver of Agenor Linea visible to the south and a jungle of stelae crowding the entrance. Clipper II picked it up on the last flyby, so we manned Clipper III and set up habs a few clicks away; gravimetry confirms it extends miles into the permafrost, and laser spectroscopy that it's made of molybdenum, a metal only fused in supernovae. Xenos on the wire are split between tomb, nuclear dump and data repository... Your classic black monolith scenario. The geigers are background so far but a few metres of molybdenum will do that.
 
@@ -153,7 +154,7 @@ blue-green moss shine.
 
 This odd translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abtract, geometric, and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and solecisms smack of Greenwich Village dilettantism.
 
-## IX. <a href="#toc"></a><a id="sec-9" name="sec-9"></a>
+## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
