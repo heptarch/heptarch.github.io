@@ -177,7 +177,7 @@ Friends, let us refrain from debating caruncles.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-No, it is meet. The caruncle is something attached to the student, an accident, if you will, and not an essence.
+No, it is meet. The caruncle is something attached to the student, an accident, if you will, and not an essence. Merit too is an accident.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
