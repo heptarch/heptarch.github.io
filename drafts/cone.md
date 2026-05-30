@@ -284,7 +284,7 @@ Nor do they adumbrate<br>
 The blackbird's wing.
 </span>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wallace Stevens${}^*$, <i>Way 14</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wallace Stevens${}^*$, *Addendum to* "Thirteen Ways"
 
 ## List
 
