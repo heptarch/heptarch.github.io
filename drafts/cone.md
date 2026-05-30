@@ -252,6 +252,10 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 </span>
 </span>
 
+<span style="padding-left: 40px; display:block">
+<i>D.</i> You have a pile of a warm metal shavings in the shape of a cone. Respond creatively in thirteen different ways. 
+</span>
+
 *Answer.*
 
 ## List
