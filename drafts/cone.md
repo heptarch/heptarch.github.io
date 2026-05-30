@@ -246,7 +246,7 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 <span style="padding-left: 40px; display:block">
 (b) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.</span>
 <span style="padding-left: 40px; display:block">
-(c) Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics as parameterized by $\Delta$.</span>
+(c) Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger-Liu-Nagel finite-size corrections as parameterized by $\Delta$.</span>
 <span style="padding-left: 40px; display:block">
 (d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.</span>
 <span style="padding-left: 40px; display:block">
