@@ -151,7 +151,7 @@ blue-green shine on the moss. <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
 
-This odd, monosyllabic translation renders "empty mountain" as "void cone", a bizarre choice which either results from incompetence or subversion. The "blue-green" is an interesting transliteration of "青", which is predominantly translated as "green".
+This odd, monosyllabic translation renders "empty mountain" as "void cone", a bizarre choice which results either from incompetence or deliberate subversion. The "blue-green" is an interesting transliteration of "青", which is predominantly translated as "green".
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
