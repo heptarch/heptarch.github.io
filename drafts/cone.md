@@ -151,6 +151,8 @@ blue-green shine on the moss. <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
 
+This odd, monsyllabic translation renders "empty mountain" as "void cone"; this is either the product of incompetence or a deliberate surrealist intent.
+
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
 *Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour.
