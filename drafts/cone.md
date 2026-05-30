@@ -258,11 +258,10 @@ Though it is in some cases a bad marriage. (*A pause.*) Pray friends, can you co
 ## List
 
 - ~~Light cone~~
-- Self-organized criticality
+- ~~Self-organized criticality/Mohr circle~~
 - ~~Fearful cone of Pascal~~
 - ~~Designing a tiny house?~~
 - ~~Cezanne / mountain~~
-- Mohr circle
 - Dirac cone / metal / thermo
 - ~~Wang Wei / chinese poem / mountain? / ripple?~~
 - Ording / proof of volume of cone? / calculi
