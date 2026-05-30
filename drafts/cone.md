@@ -245,10 +245,10 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 (a) Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction.
 </span>
 <span style="padding-left: 40px; display:block">
-(b) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on and determine the bulk geometric contribution to $\phi$ as a result.
+(b) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.
 </span>
 <span style="padding-left: 40px; display:block">
-(c) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on and determine the bulk geometric contribution to $\phi$ as a result.
+(c) Suppose 
 </span>
 </span>
 
