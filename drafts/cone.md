@@ -266,13 +266,13 @@ $$
 x^3 - 6x^2 + 9x - 4 = 0.
 $$
 
-Define the parabola $y = x^2$, and write the cubic as
+By defining the parabola $y = x^2$, we can write the cubic as
 
 $$
-xy - 6y + 9x - 4 = 0,
+xy - 6y + 9x - 4 = 0.
 $$
 
-the equation of a rectangular hyperbola.
+This is the equation of a rectangular hyperbola. Two conic sections meet at at most four points, and in fact, if one intersection is tangent they must cross transversally at the remaining point. 
 
 ## XII. <a href="#toc">Way</a><a id="sec-12" name="sec-12"></a>
 
