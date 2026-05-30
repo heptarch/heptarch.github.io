@@ -246,7 +246,7 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 <li>Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.</li>
 <li>Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics as parameterized by $\Delta$.</li>
 <li>Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.</li>
-<li>Argue</li> 
+<li>Argue that, if grain velocities experience dispersion $T_g =\langle\delta v^2\rangle$ under agitation, then $\Delta \to 0$ if $T_g \sim gd$ where $d$ is the height of the pile. </li> 
 </ol>
 </span>
 
