@@ -260,7 +260,8 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 <span style="padding-left: 40px; display:block">
 Those spangles and curlicues <br>
 Are not<br>
-Of the blackbird.
+Of the blackbird;<br>
+Nor do they adumbrate the blackbird.
 </span>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
