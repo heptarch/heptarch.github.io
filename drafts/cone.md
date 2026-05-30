@@ -250,7 +250,7 @@ Though it is in some cases a bad marriage. (*A pause.*) Pray friends, can you co
 <span style="padding-left: 40px; display:block">
 (d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Solve for $\theta_\max$ in terms of $c$.</span>
 <span style="padding-left: 40px; display:block">
-(e) Argue that, if grain velocities experience dispersion $T_g =\langle\delta v^2\rangle$ under agitation, then $\Delta \to 0$ if $T_g \sim gd$ where $d$ is the height of the pile. Determine $c$ and hence $\theta_max$ in this case. </span> 
+(e) Argue that, if grain velocities experience dispersion $T_g =\langle\delta v^2\rangle$ under agitation, then $\Delta \to 0$ if $T_g \sim gd$ where $d$ is the pile height. Determine $c$ and hence $\theta_\max$ in this case. </span> 
 </span>
 
 <span style="padding-left: 40px; display:block">
