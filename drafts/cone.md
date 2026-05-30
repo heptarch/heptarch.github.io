@@ -177,7 +177,7 @@ The student distinguishes themselves by application, knowledge, and excellence, 
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-It is easy to distinguish an essence from an accident. Can we imagine removing the property and maintaining the identity of the object? For instance, if a student knows less,
+It is easy to distinguish an essence from an accident. Can we imagine removing the property and maintaining the identity of the object? For instance, if a given student knows less, has less assiduously applied themselves, or 
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
