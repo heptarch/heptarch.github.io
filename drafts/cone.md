@@ -220,7 +220,7 @@ This is like the dragon which eats its own tail. We make merit by attempting to 
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-The examination makes merit from the future. Instruction makes merit from the past; it is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask what structure and tendency respects the ultimation purpose of examination, viz. the drawing forth of excellence.
+The examination makes merit from the future. Instruction makes merit from the past; it is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask what structure and tendency respects the ultimation purpose of examination, viz. the drawing forth of excellence. And here, we must remember that as in the practice of virtue, the demonstration of excellence is best encouraged by the natural facility of enjoyment.
 </span>
 
 ## X. <a href="#toc">Exam</a><a id="sec-10" name="sec-10"></a>
