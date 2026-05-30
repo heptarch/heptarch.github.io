@@ -161,15 +161,7 @@ Simplicio, why do you wear this appertunance? Do you mean to refer to the Kepler
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-(*Appears surprised.*) Why no, I didn't realize I was wearing this. (*Takes off dunce cap.*) My apologies. Pray, let us continue.
-</span>
-
-SALVIATI. <span style="padding-left: 40px; display:block">
-Very well. As I was saying, we must inquire as to the purpose of examination.
-</span>
-
-SIMPLICIO. <span style="padding-left: 40px; display:block">
-Yes. And as I averred, it is simplicity itself: to determine the student's merit. That is the very object of the "examination". For if it is not the student's merit, what is there to examine? Their caruncles?
+(*Appears surprised.*) Why no, I didn't realize I was wearing this. (*Takes off dunce cap.*) My apologies. Pray, let us continue. You were saying that we must inquire as to the purpose of examination. And as I averred, it is simplicity itself: to determine the student's merit. That is the very object of the "examination". For if it is not the student's merit, what is there to examine? Their caruncles?
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
