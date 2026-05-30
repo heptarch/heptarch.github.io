@@ -180,6 +180,10 @@ SALVIATI. <span style="padding-left: 40px; display:block">
 It is easy to distinguish an essence from an accident. Can we imagine removing the property and maintaining the identity of the object? For instance, if a given student knows less, applies themselves less assiduously, or fails to demonstrate excellence, do they thereby cease to be that student? That is patently absurd. So these properties you refer to are accidental. We must then inquire: what is the virtue of examining accidental properties? 
 </span>
 
+SIMPLICIO. <span style="padding-left: 40px; display:block">
+Whether accidental or essential, the purpose of the examination remains to determine the merit of the student. For they should be recognized in accord with how they have distinguished themselves; it is this in which the virtue of the operation consists.
+</span>
+
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
 *Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour.
