@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Nineteen Ways of Looking at a Cone"
+title:  "Thirteen Ways of Looking at a Cone"
 categories: []
 date:  2026-05-25
 ---
 
-**May 25, 2026.** *An essay about clones, cones, and scones.*
+**May 25, 2026.** *A work in progress.*
 
 <span style="padding-left: 40px; display:block">
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
