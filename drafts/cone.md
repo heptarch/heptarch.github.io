@@ -117,10 +117,10 @@ Thus, the aspect ratio of the cone is $3 : 2$. The exterior wall will be painted
 
 *Structure.* The aluminium cladding is lined with foil-faced foam to capture moisture and drilled at intervals to let it escape. The cladding is further braced by a wooden frame, with thermally warped plyboard sealing the interior surface. The space between is filled with wood shavings, a low-cost, ecologically friendly insulator; shavings are treated with borax (pest deterrent) and lime (moisture resistance), and tamped into stud cavities to minimize the action of settling.
 
-*Face.* A hyperbolic face is opened in the cone by intersecting a vertical plane at offset $\Delta r = 1.5 \text{ m}$ from the centre, with a maximum height of $\Delta h = 2 \text{ m}$ and a base of $2r \sqrt{3/4} \approx 5.2 \text{ m}$. The face can be excised from the edges of the sector (removed from flat sheet metal) according to the inverse sine curve
+*Face.* A hyperbolic face is opened in the cone by intersecting a vertical plane at offset $\Delta r = 1.5 \text{ m}$ from the centre, with a maximum height of $\Delta h = 2 \text{ m}$ and a base of $2r \sqrt{3/4} \approx 5.2 \text{ m}$. The face can be excised from the edges of the sector (removed from flat sheet metal) according to the secant curve
 
 $$
-R(\theta) = \frac{\ell}{1.5r\cos[(\ell/r)\theta]}.
+R(\theta) = \frac{1.5\ell}{r}\sec[(\ell/r)\theta].
 $$
 
 See for instance [Johansson (2022)](https://www.diva-portal.org/smash/get/diva2:1633435/FULLTEXT02.pdf). Adding this face reduces the footprint of the house by
@@ -135,10 +135,6 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 *Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$ (the excised segment is outside this). This central circle is bisected, with the left half on entry devoted to domestic utility—a bar fridge, oven and sink, some counter space and bar stools for eating—and the right half for leisure—a semicircular couch, divan and spruce coffee table (formed from the intersection of hyperbolae). Appliances, countertops, and couch are recessed to maximize central footage.
 
 *Loft.* A retractible ladder ascends to a loft bedroom, with total footage $\approx 7 \text{ m}^2$, large enough to comfortably accomodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes, with additional hinged compartments for larger items secured to the inner walls.
-
-*Windows.*
-
-*Pneumatics.*
 
 ## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
 
