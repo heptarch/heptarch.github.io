@@ -181,7 +181,7 @@ No, it is meet. The caruncle is something attached to the student, an accident, 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-Yes. And as I averred, it is simplicity itself: to determine the student's merit. That is the very object of the "examination". For if it is not the student's merit, what is there to examine? Their caruncles?
+
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
