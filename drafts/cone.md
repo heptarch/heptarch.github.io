@@ -169,7 +169,11 @@ Very well. As I was saying, we must inquire as to the purpose of examination.
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-And as I was saying, it is simpliciy itself: to determine the student's merit. That is what we examine.
+Yes. And as I was saying, it is simpliciy itself: to determine the student's merit. That is the very object of the "examination".
+</span>
+
+SALVIATI. <span style="padding-left: 40px; display:block">
+Very well. As I was saying, we must inquire as to the purpose of examination.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
