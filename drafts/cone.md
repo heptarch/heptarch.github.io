@@ -172,8 +172,12 @@ SIMPLICIO. <span style="padding-left: 40px; display:block">
 Yes. And as I averred, it is simplicity itself: to determine the student's merit. That is the very object of the "examination". For if it is not the student's merit, what is there to examine? Their caruncles?
 </span>
 
+SAGREDO. <span style="padding-left: 40px; display:block">
+Fellow worthies, let us refrain from discussing caruncles.
+</span>
+
 SALVIATI. <span style="padding-left: 40px; display:block">
-Very well. As I was saying, we must inquire as to the purpose of examination.
+But it is meet.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
