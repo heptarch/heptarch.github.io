@@ -151,7 +151,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 - ~~Fearful cone of Pascal~~
 - ~~Designing a tiny house?~~
 - ~~Cezanne / mountain~~
-- ~~Mohr circle~~
+- Mohr circle
 - Dirac cone / metal / thermo
 - Wang Wei / chinese poem / mountain? / ripple?
 - Ording / proof of volume of cone? / calculi
