@@ -143,10 +143,10 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 ## VIII. <a href="#toc">Translation</a><a id="sec-8" name="sec-8"></a>
 
 <span style="padding-left: 40px; display:block">
-void cone, see no one <br>
+void cone; see no one <br>
 but hear talk.<br>
 light yields in the deep grove: <br>
-shines blue-green on the moss. <br>
+blue-green shine on the moss. <br>
 </span>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
