@@ -258,6 +258,10 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 
 ## XI. <a href="#toc">Proof</a><a id="sec-11" name="sec-11"></a>
 
+**Theorem.** If $x^3 - 6x^2 + 11x - 6 = 2x - 2$, then $x = 1$ or $x = 4$.
+
+*Proof.*
+
 ## XII. <a href="#toc">Way</a><a id="sec-12" name="sec-12"></a>
 
 <span style="padding-left: 40px; display:block">
