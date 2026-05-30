@@ -134,9 +134,9 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$ (the excised segment is outside this). This central circle is bisected, with the left half on entry devoted to domestic utility—a bar fridge, oven and sink, some counter space and bar stools for eating—and the right half for leisure—a semicircular couch, divan and spruce coffee table (formed from the intersection of hyperbolae). Appliances, countertops, and couch are recessed to maximize central footage.
 
-*Loft.* A retractible ladder ascends to a loft bedroom, with total footage $\approx 7 \text{ m}^2$, large enough to comfortably accomodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes, with additional hinged compartments for larger items secured to the inner walls. The apex of the cone houses a "reverse smokehole", with a hole upwind generating pressure which keeps hot air inside. The hole is on a secondary ring, with the primary the raceway of a weathervane mounted atop the cone.
+*Loft.* A retractible ladder ascends to a loft bedroom, with total area $\approx 7 \text{ m}^2$, large enough to comfortably accomodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes, with additional hinged compartments for larger items secured to the inner walls. The apex of the cone houses a "reverse smokehole", with a hole upwind generating pressure which keeps hot air inside. The hole is on a secondary ring, with the primary the raceway of a weathervane mounted atop the cone.
 
-*Burrow.*
+*Burrow.* The floor is pine
 
 ## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
 
