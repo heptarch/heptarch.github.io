@@ -224,7 +224,7 @@ The examination makes merit from the future. Instruction makes merit from the pa
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
-They may cease to be if the ague is particularly bad.
+Though it is in some cases a bad marriage.
 </span>
 
 ## X. <a href="#toc">Exam</a><a id="sec-10" name="sec-10"></a>
