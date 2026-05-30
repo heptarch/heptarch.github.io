@@ -186,6 +186,10 @@ SIMPLICIO. <span style="padding-left: 40px; display:block">
 Whether accidental or essential, the purpose of the examination remains to establish the merit of the student. For they should be recognized in accord with how they have distinguished themselves; it is this determination in which the virtue of the operation consists.
 </span>
 
+SALVIATI. <span style="padding-left: 40px; display:block">
+Is not the purpose of education to develop these properties in which, so you say, the merit of the student consists? 
+</span>
+
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
 *Question.* You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour.
