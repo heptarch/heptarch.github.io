@@ -156,7 +156,7 @@ This odd translation renders "empty mountain" as "void cone", a bizarre effort w
 
 ## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
-*SALVIATI and SIMPLICIO are discussing the purpose of examination while guests at the house of SAGREDO. Both are learned in the ways of pedagogy.*
+*SALVIATI and SIMPLICIO are discussing the purpose of examination at the house of their host, the witty SAGREDO. Both are learned in the ways of pedagogy but disagree over the purpose of assessment.*
 
 SALVIATI. <span style="padding-left: 40px; display:block">
 Simplicio, why do you wear this appertunance? Do you mean to refer to the Keplerian doctrine that orbital bodies move on conic sections?
@@ -188,6 +188,10 @@ Accidental or essential, the purpose of the examination remains to establish the
 
 SALVIATI. <span style="padding-left: 40px; display:block">
 Is not the purpose of education to develop these very properties in which, so you say, the merit of the student consists? 
+</span>
+
+SIMPLICIO. <span style="padding-left: 40px; display:block">
+Accidental or essential, the purpose of the examination remains to establish the merit of the student. For they should be recognized in accord with how they have distinguished themselves; it is this determination which constitutes the virtue of the operation.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
