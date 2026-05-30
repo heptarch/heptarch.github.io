@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Thirteen Ways of Looking at a Cone"
+title:  "Fifteen Ways of Looking at a Cone"
 categories: []
 date:  2026-05-25
 ---
@@ -27,6 +27,7 @@ VII. <a href="#sec-7"><i>Plans</i></a><br>
 VIII. <a href="#sec-8"><i>Translation</i></a><br>
 IX. <a href="#sec-9"><i>Dialogue</i></a><br>
 X. <a href="#sec-10"><i>Exam</i></a><br>
+XI. <a href="#sec-11"><i>Proof</i></a><br>
 
 ---
 
@@ -255,7 +256,9 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 (f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance you found in part (a). </span>
 </span>
 
-## XI. <a href="#toc">Way</a><a id="sec-11" name="sec-11"></a>
+## XI. <a href="#toc">Proof</a><a id="sec-11" name="sec-11"></a>
+
+## XII. <a href="#toc">Way</a><a id="sec-12" name="sec-12"></a>
 
 <span style="padding-left: 40px; display:block">
 Those spangles and curlicues <br>
@@ -276,9 +279,8 @@ The blackbird's wing.
 - ~~Cezanne / mountain~~
 - Dirac cone / metal / thermo
 - ~~Wang Wei / chinese poem / mountain? / ripple?~~
-- Ording / proof of volume of cone? / calculi
-- Appolonnius / Kepler
-- Queneau / EiS scenario
+- ~~Ording / proof of volume of cone? / calculi~~
+- ~~Appolonnius / Kepler~~
 - Stevens / poem
 - Bach / developing echos of form / Klee
 - ~~Exam design / dunce cap~~
