@@ -161,7 +161,7 @@ Simplicio, why do you wear this appertunance? Do you mean to refer to the Kepler
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-(*Appears surprised.*) Why no, I was not aware I was wearing this. (*Takes off dunce cap.*) My apologies. Pray, let us continue.
+(*Appears surprised.*) Why no, I did not realize I was wearing this. (*Takes off dunce cap.*) My apologies. Pray, let us continue.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
