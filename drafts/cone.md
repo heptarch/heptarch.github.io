@@ -272,10 +272,19 @@ $$
 xy - 6y + 9x - 4 = 0.
 $$
 
-This is the equation of a rectangular hyperbola. Two conic sections meet at $0, 2$ or $4$ distinct points; if one intersection is tangent, the remaining intersection is transversal. Here, $(1, 1)$ is an intersection of parabola and hyperbola, and moreover tangent since
+This is the equation of a rectangular hyperbola. Two conic sections meet at $0, 2$ or $4$ distinct points; if one intersection is tangent, the remaining intersection is transversal. Here, $(x, y) = (1, 1)$ is an intersection of parabola and hyperbola, and moreover tangent since
 
 $$
-y = x^2 \quad \Longrightarrow \quad y' = 2x = 2, \quad xy - 6y + 9x - 4 = 0 \quad \Longrightarrow \quad y' = -\frac{(9 + y)}{(x - 6)} = 2.
+\begin{align}
+y = x^2 \quad &\Longrightarrow \quad y' = 2x = 2 \\
+xy - 6y + 9x - 4 = 0 \quad &\Longrightarrow \quad y' = -\frac{(9 + y)}{(x - 6)} = 2.
+\end{align}
+$$
+
+Let $\tilde{x} = x - 1$, $\tilde{y} = y- 1$, so the cubic becomes
+
+$$
+\tilde{x}\tilde{y} - 5\tilde{y} + 10\tilde{x} = 0. 
 $$
 
 ## XII. <a href="#toc">Way</a><a id="sec-12" name="sec-12"></a>
