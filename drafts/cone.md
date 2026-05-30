@@ -136,7 +136,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Loft.* A retractible ladder ascends to a loft bedroom, with total area $\approx 7 \text{ m}^2$, large enough to comfortably accomodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes, with additional hinged compartments for larger items secured to the inner walls. The apex of the cone houses a "reverse smokehole", with an aperture upwind generating pressure which keeps hot air inside. This aperture is formed by removing a segment from a rotating secondary ring, the primary being the raceway of a weathervane freely mounted atop the cone.
 
-*Burrow.* The flooring of SPF hardwood has a circular manhole, diameter $0.75 \text{ m}$, admitting to a vertical tunnel: a hardwood-braced circular excavation of diameter $2 \text{ m}$
+*Burrow.* The flooring of SPF hardwood has a circular manhole, diameter $0.75 \text{ m}$, usually covered with an afghan rug. It is offset from the centre of the cone and admits to a vertical tunnel, a hardwood-braced circular excavation of diameter $2 \text{ m}$
 
 ## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
 
