@@ -156,6 +156,8 @@ This odd translation renders "empty mountain" as "void cone", a bizarre effort w
 
 ## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
+*SALVIATI and SIMPLICIO are discussing the purpose of examination while guests at the house of SAGREDO. Both are learned in the ways of pedagogy.*
+
 SALVIATI. <span style="padding-left: 40px; display:block">
 Simplicio, why do you wear this appertunance? Do you mean to refer to the Keplerian doctrine that orbital bodies move on conic sections?
 </span>
