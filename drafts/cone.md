@@ -21,7 +21,7 @@ I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
 III. <a href="#sec-3"><i>Glacial</i></a><br>
 IV. <a href="#sec-4"><i>Fear</i></a><br>
-V. <a href="#sec-5"><i>North Shore</i></a><br>
+V. <a href="#sec-5"><i>Corio</i></a><br>
 VI. <a href="#sec-6"><i>Europa</i></a><br>
 VII. <a href="#sec-7"><i>Plans</i></a><br>
 VIII. <a href="#sec-8"><i>Translation</i></a><br>
@@ -55,7 +55,7 @@ This summary remains ungraspable if we insist on picturing a sphere. Instead, im
 
 We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere and not a circle. Stripped of its deist trappings, the true lesson is that reality is incomprehensible. The Hermetic mercury may not be caught; the cone is fearful after all.
 
-## V. <a href="#toc">North Shore</a><a id="sec-5" name="sec-5"></a>
+## V. <a href="#toc">Corio</a><a id="sec-5" name="sec-5"></a>
 
 <span style="padding-left: 40px; display:block">
 cruising nameless backstreets of <br>
@@ -80,7 +80,7 @@ the cenotaph of<br>
 &emsp;&emsp; a dead alien god<br>
 &emsp;&emsp; keening with the voice of space<br>
 </span>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– <i>Fearful Spheres (2018)</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– "North Shore", <i>Fearful Spheres (2018)</i>
 
 Cézanne is a painter of forms, not objects; similarly, the poet reduces a crumbling industrial district—presumably the North Shore of the poem's title—to its Platonic components, the "broken volumes" and "piles of sulfur" encountered on a late-night drive. But these are not the benificent essences of Greek philosophy; instead, we are presented with an apocalyptic vision of "the cenotaph of a dead alien god", a frightening locus perhaps hostile to its human inhabitants, comprising not only visitors like the poet but the residual humanity of the "burnt out trailerparks" and "junkyards".
 But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the grand monolithic structures of Étienne-Louis Boullée, and the poet responds with fascination, even religious awe, to the scale and visual rhythm of the shipworks, silos, and refineries through which the "voice of space" is articulated. 
