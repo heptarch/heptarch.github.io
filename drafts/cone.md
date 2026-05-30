@@ -168,7 +168,7 @@ This odd translation renders "empty mountain" as "void cone", a bizarre attempt 
 - ~~Cezanne / mountain~~
 - Mohr circle
 - Dirac cone / metal / thermo
-- Wang Wei / chinese poem / mountain? / ripple?
+- ~~Wang Wei / chinese poem / mountain? / ripple?~~
 - Ording / proof of volume of cone? / calculi
 - Appolonnius / Kepler
 - Queneau / EiS scenario
