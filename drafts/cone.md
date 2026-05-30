@@ -181,7 +181,7 @@ No, it is meet. The caruncle is something attached to the student, an accident, 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-
+The student distinguishes themselves by application, knowledge, and excellence, which you must admit are essential.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
