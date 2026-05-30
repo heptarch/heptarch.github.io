@@ -35,13 +35,10 @@ XI. <a href="#sec-11"><i>Proof</i></a><br>
 
 In his book *How to Teach Mathematics*, Steven G. Krantz cites the (probably apocryphal) question above as an example of "minimalist" exam design. It may be short, but to my mind, this is the opposite of minimalist. In its radical openness to interpretation, to freedom of response, it begs for creative exegesis in a way that standard exam questions—with their model answers, closed rubrics, and rote curricular adherence—do not. So, in the spirit of Wallace Stevens' <a href="https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird">"Thirteen Ways of Looking at a Blackbird"</a>, Phil Ording's <a href="https://press.princeton.edu/books/paperback/9780691218977/99-variations-on-a-proof?srsltid=AfmBOoqAyKZi5kRkS6kszhtvbwn51tx9a7L29wYlFa6BXGXZUjoDHoqW"><i>99 Variations on a Proof</i></a>, Queneau's <a href="https://en.wikipedia.org/wiki/Exercises_in_Style"><i>Exercises in Style</i></a>, and <a href="https://en.wikipedia.org/wiki/Nineteen_Ways_of_Looking_at_Wang_Wei"><i>Nineteen Ways of Looking at Wang Wei</i></a> by Eliot Weinberger, I propose a variation on one of my favourite themes: variations on a theme. With that self-reflexive flourish, let us begin.
 
----
 
 ## II. <a href="#toc">Overture</a><a id="sec-2" name="sec-2"></a>
 
 A cone is a naturally poetic form: it radiates outward from a point, conveying by the means of space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of art, literature, poetry, philosophy, math, physics, architecture, engineering, and beyond. We should be careful not to dismiss the other features of the problem; the cone is made up of metal shavings, otherwise known as *swarf*. We will mass a number of cursive fragments to constitute our discourse, fragments, to quote Eliot, shored against our ruin. Finally, these shavings are warm. Statistically speaking, warmth is another name for molecular randomness, a variance in the behaviour of the constituent parts. Here, the parts will deviate from one another, but that deviation shall itself be lawlike. We contort the analogy no further.
-
----
 
 ## III. <a href="#toc">Portrait</a><a id="sec-3" name="sec-3"></a>
 
@@ -50,8 +47,6 @@ On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed amply a
 It is a winter of many gifts. Between the steady rhythm of the patent office and late nights with Mileva, things arrive easily: like Mozart, they feel inevitable, a sure play of metal, molecule, motion and mass... "How do they present themselves?" the analytic Mileva asks one day. Our clerk tries to expound, fumbles, clings to analogies, lapses into imprecision. The problem defeats him because he fundamentally does not know; does not ask why he is blessed, simply listens and accepts without complaint. But he continues wrestling with it, and one day announces to Mileva: "It is a sort of combinatory play, but clothed in sense impressions." Mileva needles him: "I thought mathematics was the language of God." He thinks for a moment, then replies: "If He can speak in Hebrew, Aramaic or Arabic, he can evidently choose the tongue most fit for His purpose." "And what purpose is that?" Mileva teases.
 
 What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law revealed unto mortals as moral law was in earlier times: science as art, fashioned from truth but clothed in whatever means of revelation He elects, the word made flesh. The clerk's private hieroglyphs begin to parade before him: a bright cone, devouring space; an elephant harried by mice; the heavy recoil of a musket; a glowing lump of swarf; a whirling bucket... A motley, all charged with that same conviction of aesthetic necessity, of secret agreement with the codices of nature. It would be the happy work of his lifetime to render into mathematics—that narrower bridge to God—all the imagery vouchsafed from that hidden, timeless world. Einstein to Mileva: "Perhaps simply to tell us a little of what He knows."
-
----
 
 ## IV. <a href="#toc">Treatise</a><a id="sec-4" name="sec-4"></a>
 
@@ -62,8 +57,6 @@ Parmenides offers an escape route: the image of an *infinitely expanding* sphere
 This summary remains ungraspable if we insist on picturing a sphere. Instead, imagine a Flatland where God is an infinitely growing circle. Then the problem is simple: time extrudes in a third dimension and the process of expanding the circle is represented concretely as a cone. It might be infinite in extent, but a marvelous fact about the cone is that its proportions are the same at all sizes. So we can simply fix a cone of finite extent and constant angle of inclination to the axis—the angle corresponding to the speed at which the deity enlarges and the axis the motion of its centre—and we have a complete picture of this unfolding. What better shape to represent the alien logic of divinity? What figure more generous to human finitude?
 
 We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere and not a circle. Stripped of its deist trappings, the true lesson is that reality is incomprehensible. The Hermetic mercury may not be caught; the cone is fearful after all.
-
----
 
 ## V. <a href="#toc">Poem</a><a id="sec-5" name="sec-5"></a>
 
@@ -97,8 +90,6 @@ But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the gran
 
 This "voice" is another visual reference, this time to a painting by Magritte in which bisected silver spheres (resembling bells) float above a summer meadow. The parallel to the poem is clear: Platonic simplicity undercut by a sense of the uncanny, the alien presence of geometry in a natural setting. But the voice of space—a jingle, if we are to believe Magritte—is replaced in the poem by "keening", a wail for the dead, most likely for the "alien god" whose tomb this entire complex has become. But the identity of this god and its cause of death remain an enigma.
 
----
-
 ## VI. <a href="#toc">Story</a><a id="sec-6" name="sec-6"></a>
 
 The Pyramid: a slate-blue frustum towering grimly over the Leix Chaos, the sliver of Agenor Linea visible to the south and a jungle of stelae crowding the entrance. Clipper II picked it up on the last flyby, so we manned Clipper III and set up habs a few clicks away; gravimetry confirms it extends miles into the permafrost, and laser spectroscopy that it's made of molybdenum, a metal only fused in supernovae. Xenos on the wire are split between tomb, nuclear dump and data repository... Your classic black monolith scenario. The geigers are background so far but a few metres of molybdenum will do that.
@@ -116,8 +107,6 @@ The mission AI pipes up one evening. "We're picking up static from, ooh, roughly
 We set up a workshop next to the hab to smelt, fuse, solder, program. It is fun in a routine way, the AI politely instructing, checking in with mission control every couple of hours, breaking things and melting them back together. Eventually we have a long-baseline, reconfigurable polarimeter up and running, and the signal has repeated 23 times: each repeat ~10000 units long, and starting with two fine-grained bursts, same subband entropy as the initials. We flip a coin to designate the sideband role; we have enough trits to calibrate the polarimeter up to negligible error, and once calibration is complete, the darndest thing happens: half the signal drops out. The AI says it best: "Well, that is disturbingly acausal."
 
 After several lags, we have a working hypothesis: the Pyramid is entangled with the Centaurus transmitter, observing our efforts, and the consumed half got deleted from the signal in a totally causal fashion. But that would mean the Folks made a quantum network distributed over the scale of light years, a possibility that makes Cheng even more nervous than the Kardashev flex of harvesting an exploded star. But once you eliminate the impossible... We try to decode the remaining signal using random stelae—the output is in binary, since we just measure in the given polarizer basis—until one yields a noticeable drop in entropy. And then the signal stops.
-
----
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
@@ -154,8 +143,6 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Generator.* Selenothermal unit with feedline from Europan aquifer. Proprietary.
 
----
-
 ## VIII. <a href="#toc">Translation</a><a id="sec-8" name="sec-8"></a>
 
 <span style="padding-left: 40px; display:block">
@@ -168,8 +155,6 @@ blue-green moss shine.
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
 
 This translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abstract and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and solecisms smack of Greenwich Village dilettantism rather than scholarly care.
-
----
 
 ## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
@@ -243,8 +228,6 @@ SAGREDO. <span style="padding-left: 40px; display:block">
 Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you confine yourselves for a moment to Galileo's observation of Jupiter? I would be enlightened.
 </span>
 
----
-
 ## X. <a href="#toc">Exam</a><a id="sec-10" name="sec-10"></a>
 
 *Choose precisely one of the questions below and answer it.*
@@ -272,8 +255,6 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 <span style="padding-left: 40px; display:block">
 (f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance you found in part (a). </span>
 </span>
-
----
 
 ## XI. <a href="#toc">Proof</a><a id="sec-11" name="sec-11"></a>
 
