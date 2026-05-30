@@ -252,7 +252,7 @@ Though in some cases a bad marriage. (*A pause.*) Pray friends, can you confine 
 <span style="padding-left: 40px; display:block">
 (e) Under agitation the grains acquire a velocity dispersion $T_g = \langle\delta v^2\rangle$ (the "granular temperature"). A surface grain is caged by a barrier of order $mgd$, where $d$ is now the grain diameter. Argue that the cage is overcome—and hence the metastability collapses, $\Delta \to 0$—once $T_g \sim gd$. </span> 
 <span style="padding-left: 40px; display:block">
-(f) Model the resulting loss of shear strength as a *negative* effective cohesion $c$ in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance of part (a). </span>
+(f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance of part (a). </span>
 </span>
 
 ## List
