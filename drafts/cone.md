@@ -252,7 +252,7 @@ The examination makes merit from the future. Instruction makes merit from the pa
 - Queneau / EiS scenario
 - Stevens / poem
 - Bach / developing echos of form / Klee
-- Exam design / dunce cap
+- ~~Exam design / dunce cap~~
 - ~~Boulee-style monolith? scifi? structural properties~~
 - Kinetic blow-up
 - Panopticon
