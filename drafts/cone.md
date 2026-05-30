@@ -293,7 +293,8 @@ This manifestly has solution $(\tilde{x}, \tilde{y}) = (3, 15)$ and hence $(x, y
 
 <span style="padding-left: 40px; display:block">
 Those spangles and curlicues <br>
-Are not of the blackbird;<br>
+Are not<br>
+Of the blackbird;<br>
 Nor do they adumbrate<br>
 The blackbird's wing.
 </span>
