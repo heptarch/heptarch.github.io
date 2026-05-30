@@ -253,10 +253,6 @@ Though it is in some cases a bad marriage. (*A pause.*) Pray friends, can you co
 (e) Argue that, if grain velocities experience dispersion $T_g =\langle\delta v^2\rangle$ under agitation, then $\Delta \to 0$ if $T_g \sim gd$ where $d$ is the pile height. Determine $c$ and hence $\theta_\max$ in this case. </span> 
 </span>
 
-<span style="padding-left: 40px; display:block">
-<i>D.</i> You have a pile of a warm metal shavings in the shape of a cone. Respond creatively in thirteen different ways. 
-</span>
-
 *Answer.*
 
 ## List
