@@ -266,7 +266,7 @@ $$
 x^3 - 6x^2 + 9x - 4 = 0.
 $$
 
-Define $y = x^2$, and write the cubic as
+Define the parabola $y = x^2$, and write the cubic as
 
 $$
 xy - 6y + 9x - 4 = 0,
