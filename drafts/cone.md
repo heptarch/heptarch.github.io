@@ -177,7 +177,7 @@ The student distinguishes themselves by application, knowledge, and excellence, 
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-No, it is meet. The caruncle is something attached to the student, an accident, if you will, and not an essence. Merit likewise is an accident and not an essence.
+It is easy to distinguish an essence from an accident. Can we imagine removing the property and maintaining the identity of the object? For instance, if a student knows less,
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
