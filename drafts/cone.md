@@ -199,7 +199,7 @@ Here again you commit a fallacy of accident versus essence. An excellent student
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-Why examine at all then? We could simply instruct the students and leave it at that.
+Why examine at all then? We could simply instruct the students and be done with it.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
