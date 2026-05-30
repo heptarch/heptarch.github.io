@@ -199,7 +199,11 @@ Here again you commit a fallacy of accident versus essence. An excellent student
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-We cannot make the student excellent if they are not already.
+Why examine at all then? We could simply instruct the students and leave it at that.
+</span>
+
+SALVIATI. <span style="padding-left: 40px; display:block">
+The examination draws forth precisely because it is an assessment of merit. The student knows this and prepares accordingly. But the virtue is not in the determination of merit, but the drawing forth that determination gives rise to. 
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
