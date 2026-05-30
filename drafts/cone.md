@@ -241,14 +241,17 @@ Though it is in some cases a bad marriage. Pray friends, can you confine yoursel
 
 <span style="padding-left: 40px; display:block">
 <i>C.</i> You have a pile of a warm metal shavings in the shape of a cone. 
-<span style="padding-left: 40px; display:block">
-(a) Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction.
+(a) <span style="padding-left: 40px; display:block">
+Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction.
 </span>
-<span style="padding-left: 40px; display:block">
-(b) Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.
+(b) <span style="padding-left: 40px; display:block">
+Take the single-grain limit and argue that $\theta_\max = \arctan \mu_s$ for coefficient of static friction $\mu_s$. Explain why this is a lower bound on $\theta_\max$ in general and determine the effective bulk geometric contribution to $\phi$ as a result.
 </span>
-<span style="padding-left: 40px; display:block">
-(c) Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics in terms of $\Delta$.
+(c) <span style="padding-left: 40px; display:block">
+Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics as parameterized by $\Delta$.
+</span>
+(d) <span style="padding-left: 40px; display:block">
+Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger–Liu–Nagel finite-size statistics in terms of $\Delta$.
 </span>
 </span>
 
