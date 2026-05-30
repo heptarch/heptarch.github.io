@@ -255,6 +255,16 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 (f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance you found in part (a). </span>
 </span>
 
+## XI. <a href="#toc">Way</a><a id="sec-11" name="sec-11"></a>
+
+<span style="padding-left: 40px; display:block">
+Those spangles and curlicues <br>
+Are not<br>
+Of the blackbird.
+</span>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
+
 ## List
 
 - ~~Light cone~~
