@@ -261,7 +261,8 @@ Though in some cases it is a bad marriage. (*A pause.*) Pray friends, can you co
 Those spangles and curlicues <br>
 Are not<br>
 Of the blackbird;<br>
-Nor do they adumbrate the blackbird.
+Nor do they adumbrate<br>
+The blackbird's wing.
 </span>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
