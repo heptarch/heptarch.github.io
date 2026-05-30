@@ -136,7 +136,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Loft.* A retractible ladder ascends to a loft bedroom, with total area $\approx 7 \text{ m}^2$, large enough to comfortably accomodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes, with additional hinged compartments for larger items secured to the inner walls. The apex of the cone houses a "reverse smokehole", with a hole upwind generating pressure which keeps hot air inside. The hole is on a secondary ring, with the primary the raceway of a weathervane mounted atop the cone.
 
-*Burrow.* The floor is pine
+*Burrow.* The flooring, also spruce,
 
 ## VIII. <a href="#toc">Exam</a><a id="sec-8" name="sec-8"></a>
 
