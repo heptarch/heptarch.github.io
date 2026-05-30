@@ -183,7 +183,7 @@ It is easy to distinguish an essence from an accident. Can we imagine removing t
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-Whether accidental or essential, the purpose of the examination remains to establish the merit of the student. For they should be recognized in accord with how they have distinguished themselves; it is this determination in which the virtue of the operation consists.
+Whether accidental or essential, the purpose of the examination remains to establish the merit of the student. For they should be recognized in accord with how they have distinguished themselves; it is this determination which constitutes the virtue of the operation.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
