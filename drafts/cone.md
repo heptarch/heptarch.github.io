@@ -156,9 +156,11 @@ This odd translation renders "empty mountain" as "void cone", a bizarre effort w
 
 ## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
-*SIMPLICIO and SALVIATI are educators staying in the house of SAGREDO, a witty, well-lettered lawyer. SIMPLICIO is wearing a dunce cap.*
+SALVIATI. Simplicio, why do you wear this appertunance? Do you mean to reference the Keplerian doctrine that orbital modies move on conic sections?
 
-SALVIATI. Simplicio, why do you adopt this appurtenance? 
+SIMPLICIO. (*Appears surprised.*) Why no, I didn't realize I was wearing this. (*Takes off dunce cap.*) Pray, let us continue.
+
+SALVIATI.
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
 
