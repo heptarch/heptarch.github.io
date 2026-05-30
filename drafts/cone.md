@@ -195,7 +195,7 @@ We cannot make the student excellent if they are not already.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-Here again you commit a fallacy of accident against essence. An excellent student may fail to show excellence because of an ague, for instance; they do not cease to be as a result. The role of education is to literally educe, to draw forth that excellence in the student; the only legitimate role for examination, then, is to aid in that drawing forth.
+Here again you commit a fallacy of accident versus essence. An excellent student may fail to show excellence because of an ague, for instance; they do not cease to be as a result. The role of education is to literally educe, to draw forth that excellence in the student; the only legitimate role for examination, then, is to aid in that drawing forth.
 </span>
 
 ## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
