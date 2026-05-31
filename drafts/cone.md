@@ -298,7 +298,7 @@ $\blacksquare$
 
 I was still thinking about semimetals when I embarked on the bus, yes, those messy but intriguing materials in which a naturally insulating band gap closes due to linear dispersion relations and the formation of what is called a *Dirac cone* or a *Dirac point*. And like the two cones touching at a point, one man on the bus, a student perhaps, was claiming another bumped into him. But this seems unlikely; if they really are modeled by Dirac points, perturbations would tend to lead to avoided crossings, as per the von Neumann-Wigner theorem, tending to undermine the first man's claim. He went and found a seat regardless, reminding me of electrons at zero temperature jumping to the first vacant energy level.
 
-Later, I saw the same man getting advice about attaching a button;
+Later, I saw the same man getting advice about attaching a button; humorously similar to attaching the Dirac point to a band gap. Messy but intriguing.
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
