@@ -325,7 +325,7 @@ This one plants a flag on a dungheap and cannot help but praise it; in pointing 
 <span style="padding-left: 40px; display:block">
 *One nameless file of swarf*<br>
 *Holds far more* <br>
-*Than all of Huashan;*<br>
+*Than all of Huashan:*<br>
 *No name, no dungheap.*
 </span>
 
