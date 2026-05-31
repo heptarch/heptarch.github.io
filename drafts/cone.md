@@ -318,7 +318,7 @@ Such is the Way!
 
 *Comment.*
 <span style="padding-left: 40px; display:block">
-This one plants a flag on a dungheap and cannot help but praise it; but in pointing the way, he loses the way and ends up holding a pile of dung. One should praise nothing and point nowhere; in saying so, I plant my flag on the same heap.
+This one plants a flag on a dungheap and cannot help but praise it; but in pointing the way, he loses the way and ends up holding a pile of dung. One should praise nothing and point nowhere; in so saying, I plant my flag on the same heap.
 </span>
 
 *Verse.*
