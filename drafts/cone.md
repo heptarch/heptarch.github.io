@@ -183,7 +183,7 @@ The student distinguishes themselves by application, knowledge, and excellence, 
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-It is easy to distinguish an essence from an accident. Can we imagine removing the property and maintaining the identity of the object? For instance, if a given student knows less, applies themselves less assiduously, or fails to demonstrate excellence, do they thereby cease to be that student? That is patently absurd. So these properties you refer to are accidental. We must then inquire: what is the virtue of examining accidental properties? 
+It is easy to distinguish an essence from an accident. Can we imagine removing the attribute and maintaining the identity of the object? For instance, if a given student knows less, applies themselves less assiduously, or fails to demonstrate excellence, do they thereby cease to be that student? That is patently absurd. So these properties you refer to are accidental. We must then inquire: what is the virtue of examining accidental properties? 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
