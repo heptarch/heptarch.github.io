@@ -151,7 +151,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 void cone; see no one <br>
 but hear talk.<br>
 light yields on the deep grove: <br>
-blue-green moss shine.
+blue-green shine on moss.
 </span>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
