@@ -223,7 +223,7 @@ This is like the dragon which eats its own tail. We make merit by attempting to 
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-The examination draws merit from the future; instruction draws merit from the past. It is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask what structure and tendency respects the ultimate purpose of examination, viz. the drawing forth of excellence. And here, we must remember that as in the practice of virtue, the demonstration of excellence is best encouraged by love and the natural facility of enjoyment. For we will see the merit we seek if the student can be made to love merit.
+The examination draws merit from the front; instruction draws merit from the back. It is a little like a shepherd with a dog tending the flock at both ends. If this be conceded, then, we can ask what structure and tendency respects the ultimate purpose of examination, viz. the drawing forth of excellence. And here, we must remember that as in the practice of virtue, the demonstration of excellence is best encouraged by love and the natural facility of enjoyment. For we will see the merit we seek if the student can be made to love merit.
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
