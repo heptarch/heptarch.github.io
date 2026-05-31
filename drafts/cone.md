@@ -294,9 +294,9 @@ The remaining intersection is at $(x, y) = (4, 16)$, as we picture below:
 Thus, there are precisely two solutions, $x = 1$ and $x = 4$.
 $\blacksquare$
 
-## XII. <a href="#toc">Exercise</a><a id="sec-12" name="sec-12"></a>
+## XII. <a href="#toc">Distraction</a><a id="sec-12" name="sec-12"></a>
 
-The bus was full of 
+I embarked on, what was it, a bus I gather? Anyway, I was still thinking about semimetals, these messy, 
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
@@ -317,7 +317,7 @@ The blackbird's wing.
 - ~~Fearful cone of Pascal~~
 - ~~Designing a tiny house?~~
 - ~~Cezanne / mountain~~
-- Dirac cone / metal / thermo
+- ~~Dirac cone / metal / thermo~~
 - ~~Wang Wei / chinese poem / mountain? / ripple?~~
 - ~~Ording / proof of volume of cone? / calculi~~
 - ~~Appolonnius / Kepler~~
