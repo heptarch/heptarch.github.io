@@ -336,7 +336,7 @@ The blackbird's wing.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wallace Stevens, *Addendum to* "Thirteen Ways"
 
-## List
+<!-- ## List
 
 - ~~Light cone~~
 - ~~Self-organized criticality/Mohr circle~~
@@ -356,3 +356,4 @@ The blackbird's wing.
 - ~~Zen? Something about Enso (conclusion)~~
 
 Both camps are combing the bits for meaning, pattern, grammar. I think they are just a nonce to calibrate the polarimeter and produce an entropy decrement; all the semantics is in the initials.
+-->
