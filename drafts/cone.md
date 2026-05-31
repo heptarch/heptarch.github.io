@@ -239,7 +239,7 @@ They may love, but in some cases it is a bad marriage. (*A pause.*) Pray friends
 </span>
 
 <span style="padding-left: 40px; display:block">
-<i>B.</i> You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of repose, stating any assumptions you make and giving plausibility arguments in their favour. 
+<i>B.</i> You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of stability, stating any assumptions you make and giving plausibility arguments in their favour. 
 </span>
 
 <span style="padding-left: 40px; display:block">
