@@ -308,6 +308,12 @@ A small cone of shavings.<br>
 Such is the Way!
 </span>
 
+<span style="padding-left: 40px; display:block">
+Mind is not a point. <br>
+No mind is a circle. <br>
+Mind-no mind is a cone.
+</span>
+
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
 <span style="padding-left: 40px; display:block">
