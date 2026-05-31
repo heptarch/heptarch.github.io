@@ -313,15 +313,15 @@ Such is the Way!
 *Comment.*
 
 <span style="padding-left: 40px; display:block">
-The monk plants a flag on a dungheap and cannot help but praise it; but in pointing the way, he loses it and himself. He ends up holding dung. One should praise nothing and point nowhere.
+This plants a flag on a dungheap and cannot help but praise it; but in pointing the way, it loses the way. They end up holding dung. One should praise nothing and point nowhere, though in saying so I plant my flag besides theirs.
 </span>
 
 *Verse.*
 
 <span style="padding-left: 40px; display:block">
-*One unnamed file of swarf*<br>
+*One nameless file of swarf*<br>
 *Holds more* <br>
-*Than a Mountain.*
+*Than Huashan Mountain.*
 </span>
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
