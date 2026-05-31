@@ -337,6 +337,6 @@ The blackbird's wing.
 - ~~Boulee-style monolith? scifi? structural properties~~
 - Kinetic blow-up
 - Panopticon
-- Zen? Something about Enso (conclusion)
+- ~~Zen? Something about Enso (conclusion)~~
 
 Both camps are combing the bits for meaning, pattern, grammar. I think they are just a nonce to calibrate the polarimeter and produce an entropy decrement; all the semantics is in the initials.
