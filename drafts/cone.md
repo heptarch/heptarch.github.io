@@ -319,8 +319,8 @@ The monk plants a flag on a dungheap and cannot help but praise it; for the Way 
 *Verse.*
 
 <span style="padding-left: 40px; display:block">
-A small cone of shavings.<br>
-Such is the Way!
+One file of swarf<br>
+Holds 
 </span>
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
