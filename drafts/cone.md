@@ -313,14 +313,15 @@ Such is the Way!
 *Comment.*
 
 <span style="padding-left: 40px; display:block">
-The monk plants a flag on a dungheap and cannot help but praise it; for the Way cannot be pointed at, while the cone is by its nature pointed. 
+The monk plants a flag on a dungheap and cannot help but praise it; but in the process of praising this or that, of pointing the way, we become lost and end up with only dung. 
 </span>
 
 *Verse.*
 
 <span style="padding-left: 40px; display:block">
 One file of swarf<br>
-Holds 
+Holds more <br>
+Than a mountain.
 </span>
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
