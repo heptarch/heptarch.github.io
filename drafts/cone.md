@@ -319,7 +319,7 @@ The blackbird's wing.
 - ~~Wang Wei / chinese poem / mountain? / ripple?~~
 - ~~Ording / proof of volume of cone? / calculi~~
 - ~~Appolonnius / Kepler~~
-- Stevens / poem
+- ~~Stevens / poem~~
 - Bach / developing echos of form / Klee
 - ~~Exam design / dunce cap~~
 - ~~Boulee-style monolith? scifi? structural properties~~
