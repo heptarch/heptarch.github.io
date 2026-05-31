@@ -306,7 +306,7 @@ $\blacksquare$
 
 **Definition.** A *mass term* $m^*$ gaps the Dirac cone, lifting the degeneracy at the nodal point and opening a band gap $\Delta E = 2m^*v_F^2$. This is equivalent to the breaking of a symmetry by the introduction of an external perturbation.
 
-**Observation.** A localised perturbation of the form $V(\mathbf{r}) = V_0\delta(\mathbf{r} - \mathbf{r}_0)$ was subsequently applied to particle $B$'s outer boundary layer. The effect on the bulk band structure is negligible.
+**Observation.** A localized perturbation of the form $V(\mathbf{r}) = V_0\delta(\mathbf{r} - \mathbf{r}_0)$ was subsequently applied to particle $B$'s outer boundary layer. The effect on the bulk band structure is negligible.
 
 ## XIII. <a href="#toc">Koan</a><a id="sec-13" name="sec-13"></a>
 
