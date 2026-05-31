@@ -313,7 +313,7 @@ Such is the Way!
 *Comment.*
 
 <span style="padding-left: 40px; display:block">
-The monk plants a flag on a dungheap and cannot help but praise it.
+The monk plants a flag on a dungheap and cannot help but praise it; for the Way cannot be pointed at, while the cone is by its nature pointed. 
 </span>
 
 *Verse.*
