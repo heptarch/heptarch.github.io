@@ -29,7 +29,7 @@ IX. <a href="#sec-9"><i>Dialogue</i></a><br>
 X. <a href="#sec-10"><i>Exam</i></a><br>
 XI. <a href="#sec-11"><i>Proof</i></a><br>
 XII. <a href="#sec-12"><i>Exercise</i></a><br>
-XIII. <a href="#sec-13"><i>Koan</i></a><br>
+XIII. <a href="#sec-13"><i>Koans</i></a><br>
 XIV. <a href="#sec-14"><i>Way</i></a><br>
 
 ---
@@ -301,7 +301,7 @@ I was still thinking about semimetals when I boarded the bus, yes, those messy b
 
 Later, I saw the same man getting advice about attaching a button; humorously similar to gapping the Dirac cone with a mass term. Yes, messy but intriguing.
 
-## XIII. <a href="#toc">Koan</a><a id="sec-13" name="sec-13"></a>
+## XIII. <a href="#toc">Koans</a><a id="sec-13" name="sec-13"></a>
 
 <span style="padding-left: 40px; display:block">
 A small cone of shavings.<br>
