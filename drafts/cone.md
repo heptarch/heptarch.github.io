@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Thirteen Ways of Looking at a Cone"
+title:  "Fourteen Ways of Looking at a Cone"
 categories: []
 date:  2026-05-25
 ---
@@ -28,7 +28,8 @@ VIII. <a href="#sec-8"><i>Translation</i></a><br>
 IX. <a href="#sec-9"><i>Dialogue</i></a><br>
 X. <a href="#sec-10"><i>Exam</i></a><br>
 XI. <a href="#sec-11"><i>Proof</i></a><br>
-XII. <a href="#sec-12"><i>Way</i></a><br>
+XII. <a href="#sec-12"><i>Proof</i></a><br>
+XIV. <a href="#sec-14"><i>Way</i></a><br>
 
 ---
 
