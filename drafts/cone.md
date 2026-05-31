@@ -291,7 +291,7 @@ $$
 
 This manifestly has solution $(\tilde{x}, \tilde{y}) = (3, 15)$ and hence $(x, y) = (4, 16)$. $\blacksquare$
 
-## XII. <a href="#toc">Way</a><a id="sec-12" name="sec-12"></a>
+## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
 <span style="padding-left: 40px; display:block">
 Those spangles and curlicues <br>
