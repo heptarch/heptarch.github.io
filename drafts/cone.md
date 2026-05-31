@@ -171,7 +171,7 @@ SIMPLICIO. <span style="padding-left: 40px; display:block">
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
-Friends, let us refrain from the debate of caruncles.
+Friends, let us refrain from examining caruncles.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
