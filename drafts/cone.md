@@ -313,7 +313,7 @@ Such is the Way!
 *Comment.*
 
 <span style="padding-left: 40px; display:block">
-The monk plants a flag on a dungheap and cannot help but praise it; but in the process of praising this or that, of pointing the way, we become lost and end up with only dung. 
+The monk plants a flag on a dungheap and cannot help but praise it; but in pointing the way, we lose it and end up holding dung. 
 </span>
 
 *Verse.*
