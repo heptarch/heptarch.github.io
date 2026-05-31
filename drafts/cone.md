@@ -283,11 +283,11 @@ xy - 6y + 9x - 4 = 0 \quad &\Longrightarrow \quad y' = -\frac{(y + 9)}{(x - 6)} 
 \end{align}
 $$
 
-The remaining intersection is at $(x, y) = (4, 16)$, as we picture below.
+The remaining intersection is at $(x, y) = (4, 16)$, as we picture below:
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/conics.png" width="400"/>
-	<figcaption><i>The two points of intersection between conics.</i></figcaption>
+	<figcaption><i>The two points of intersection (one tangent) between conics.</i></figcaption>
 	</div>
 	</figure>
 
