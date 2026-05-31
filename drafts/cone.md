@@ -286,7 +286,7 @@ $$
 The remaining intersection is at $(x, y) = (4, 16)$, as we picture below.
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/parrbump2.png" width="450"/>
+    ="/img/posts/conics.png" width="450"/>
 	<figcaption><i>The two points of intersection between conics.</i></figcaption>
 	</div>
 	</figure>
