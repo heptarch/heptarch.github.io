@@ -321,7 +321,7 @@ The monk plants a flag on a dungheap and cannot help but praise it; but in point
 <span style="padding-left: 40px; display:block">
 *One unnamed file of swarf*<br>
 *Holds more* <br>
-*Than a mountain.*
+*Than a Mountain.*
 </span>
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
