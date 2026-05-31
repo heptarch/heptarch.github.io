@@ -275,7 +275,7 @@ $$
 xy - 6y + 9x - 4 = 0.
 $$
 
-This is the equation of a rectangular hyperbola. There are at most three intersections, counted with multiplicity. Here, $(x, y) = (1, 1)$ is an intersection of parabola and hyperbola, and moreover tangent since
+This is the equation of a rectangular hyperbola. There are at most three intersections, counted with multiplicity, since the original equation is a cubic. Here, $(x, y) = (1, 1)$ is an intersection of parabola and hyperbola, and moreover tangent since
 
 $$
 \begin{align}
@@ -284,7 +284,7 @@ xy - 6y + 9x - 4 = 0 \quad &\Longrightarrow \quad y' = -\frac{(y + 9)}{(x - 6)} 
 \end{align}
 $$
 
-This is therefore a double root.
+This is a double root.
 The remaining intersection is at $(x, y) = (4, 16)$, as we picture below:
 <figure>
     <div style="text-align:center"><img src
