@@ -299,7 +299,7 @@ $\blacksquare$
 
 I was still thinking about semimetals when I embarked on the bus, yes, those messy but intriguing materials in which a naturally insulating band gap closes and forms what is called a *Dirac cone* or a *Dirac point*. And like the two cones touching at a point, one man on the bus, a student perhaps, was claiming another bumped into him. He went and found a seat regardless, reminding me of electrons at nonzero temperature jumping to higher, unoccupied energy levels.
 
-Later, I saw the same man getting advice about attaching a button; similar to attaching the Dirac point to a band gap. Messy but intriguing.
+Later, I saw the same man getting advice about attaching a button; humorously similar to attaching the Dirac point to a band gap. Messy but intriguing.
 
 ## XIII. <a href="#toc">Koan</a><a id="sec-13" name="sec-13"></a>
 
