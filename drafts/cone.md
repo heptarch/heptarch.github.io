@@ -283,13 +283,16 @@ xy - 6y + 9x - 4 = 0 \quad &\Longrightarrow \quad y' = -\frac{(y + 9)}{(x - 6)} 
 \end{align}
 $$
 
-Let $\tilde{x} = (x - 1)$, $\tilde{y} = (y- 1)$, so the cubic becomes
+The remaining intersection is at $(x, y) = (4, 16)$, as we picture below.
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/parrbump2.png" width="450"/>
+	<figcaption><i>Thermodynamic bumps under the carpet: the demon
+    must somehow pay for violating the Second Law.</i></figcaption>
+	</div>
+	</figure>
 
-$$
-(\tilde{x}-5)\tilde{y} + 10\tilde{x} = 0 \quad \tilde{y} = \frac{10\tilde{x}}{5-\tilde{x}}.
-$$
-
-This manifestly has solution $(\tilde{x}, \tilde{y}) = (3, 15)$ and hence $(x, y) = (4, 16)$. $\blacksquare$
+$\blacksquare$
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
