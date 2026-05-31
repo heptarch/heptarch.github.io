@@ -303,12 +303,26 @@ Later, I saw the same man getting advice about attaching a button; humorously si
 
 ## XIII. <a href="#toc">Koans</a><a id="sec-13" name="sec-13"></a>
 
+*Case.*
+
 <span style="padding-left: 40px; display:block">
 A small cone of shavings.<br>
 Such is the Way!
 </span>
 
+*Comment.*
 
+<span style="padding-left: 40px; display:block">
+A small cone of shavings.<br>
+Such is the Way!
+</span>
+
+*Verse.*
+
+<span style="padding-left: 40px; display:block">
+A small cone of shavings.<br>
+Such is the Way!
+</span>
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
