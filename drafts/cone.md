@@ -296,7 +296,7 @@ $\blacksquare$
 
 ## XII. <a href="#toc">Exercise</a><a id="sec-12" name="sec-12"></a>
 
-I was still thinking about semimetals when I embarked on the bus, yes, those messy but intriguing materials in which a naturally insulating band gap closes due to linear dispersion relations and the formation of what is called a *Dirac cone* or a *Dirac point*. And like the two cones touching at a point, one man on the bus, a student perhaps, was claiming another bumped into him.
+I was still thinking about semimetals when I embarked on the bus, yes, those messy but intriguing materials in which a naturally insulating band gap closes due to linear dispersion relations and the formation of what is called a *Dirac cone* or a *Dirac point*. And like the two cones touching at a point, one man on the bus, a student perhaps, was claiming another bumped into him. But this seems unlikely; if they really are modeled by Dirac points, perturbations would tend to lead to avoided crossings, as per the von Neumann-Wigner theorem, tending to undermine the first man's claim. He went and found a seat regardless, reminding me of the Fermi level and electrons at zero temperature jumping to the first vacant energy level.
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
