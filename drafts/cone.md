@@ -296,7 +296,7 @@ $\blacksquare$
 
 ## XII. <a href="#toc">Distraction</a><a id="sec-12" name="sec-12"></a>
 
-I embarked on, what was it, a bus I gather? Anyway, I was still thinking about semimetals, these messy, 
+I embarked on, what was it, a bus I gather? Anyway, I was still thinking about semimetals, these messy but intriguing materials in which a naturally insulating band gap closes due to linear dispersion relations. 
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
