@@ -313,7 +313,7 @@ Such is the Way!
 *Comment.*
 
 <span style="padding-left: 40px; display:block">
-The monk plants a flag on a dungheap and cannot help but praise it; but in pointing the way, he loses it and ends up holding dung. One should praise nothing and point nowhere.
+The monk plants a flag on a dungheap and cannot help but praise it; but in pointing the way, he loses it and himself. He ends up holding dung. One should praise nothing and point nowhere.
 </span>
 
 *Verse.*
