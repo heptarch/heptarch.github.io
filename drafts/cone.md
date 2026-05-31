@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Fourteen Ways of Looking at a Cone"
+title:  "Fifteen Ways of Looking at a Cone"
 categories: []
 date:  2026-05-25
 ---
@@ -31,6 +31,7 @@ XI. <a href="#sec-11"><i>Proof</i></a><br>
 XII. <a href="#sec-12"><i>Exercise</i></a><br>
 XIII. <a href="#sec-13"><i>Koan</i></a><br>
 XIV. <a href="#sec-14"><i>Way</i></a><br>
+XV. <a href="#sec-15"><i>Coda</i></a><br>
 
 ---
 
@@ -325,7 +326,7 @@ This one plants a flag on a dungheap and cannot help but praise it; in pointing 
 <span style="padding-left: 40px; display:block">
 *One nameless file of swarf*<br>
 *Holds far more* <br>
-*Than all of Huashan:*<br>
+*Than all of Huashan;*<br>
 *No name, no dungheap.*
 </span>
 
@@ -340,6 +341,8 @@ The blackbird's wing.
 </span>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wallace Stevens, *Addendum to* "Thirteen Ways"
+
+## XV. <a href="#toc">Coda</a><a id="sec-15" name="sec-15"></a>
 
 <!-- ## List
 
