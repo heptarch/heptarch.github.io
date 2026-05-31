@@ -292,6 +292,7 @@ The remaining intersection is at $(x, y) = (4, 16)$, as we picture below.
 	</div>
 	</figure>
 
+Thus, there are precisely two solutions, $x = 1$ and $x = 4$.
 $\blacksquare$
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
