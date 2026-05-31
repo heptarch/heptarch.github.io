@@ -304,20 +304,17 @@ Later, I saw the same man getting advice about attaching a button; humorously si
 ## XIII. <a href="#toc">Koan</a><a id="sec-13" name="sec-13"></a>
 
 *Case.*
-
 <span style="padding-left: 40px; display:block">
 A small cone of shavings.<br>
 Such is the Way!
 </span>
 
 *Comment.*
-
 <span style="padding-left: 40px; display:block">
 This one plants a flag on a dungheap and cannot help but praise it; but in pointing the way, he loses the way. He ends up holding a pile of dung. One should praise nothing and point nowhere, though in saying so, I plant my flag on the same heap: pointing at no pointing.
 </span>
 
 *Verse.*
-
 <span style="padding-left: 40px; display:block">
 *One nameless file of swarf*<br>
 *Holds far more* <br>
