@@ -10,6 +10,9 @@
    xml:space="preserve"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="conics.svg"
+   inkscape:export-filename="conics.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -81,7 +84,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.4;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:end;letter-spacing:-3px;writing-mode:tb-rl;direction:ltr;white-space:pre;shape-inside:url(#rect4);fill:#fffffe;fill-opacity:0.984314;stroke:none;stroke-width:3.02362;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" /><text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.4;font-family:Palatino;-inkscape-font-specification:Palatino;text-align:end;letter-spacing:-3px;writing-mode:tb-rl;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:#fffffe;fill-opacity:0.984314;stroke:none;stroke-width:3.02362;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.67842px;line-height:1.4;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';text-align:end;letter-spacing:-0.227542px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#fffffe;fill-opacity:0.984314;stroke:none;stroke-width:1.21933;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        x="201.44386"
