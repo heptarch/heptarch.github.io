@@ -320,8 +320,9 @@ This one plants a flag on a dungheap and cannot help but praise it; but in point
 
 <span style="padding-left: 40px; display:block">
 *One nameless file of swarf*<br>
-*Holds more* <br>
-*Than Mount Hua.*
+*Holds far more* <br>
+*Than Mount Hua;*<br>
+*No name, no dungheap.*
 </span>
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
