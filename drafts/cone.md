@@ -179,7 +179,7 @@ No, it is meet. The caruncle is something attached to the student, an accident, 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
-The student distinguishes themselves by application, knowledge, and excellence, and what are these if not essential to the student? These are the properties I more properly mean by "merit", and which it is the goal of our examinations to assay.
+The student distinguishes themselves by application, knowledge, and excellence, and what are these if not essential to the student? These are the properties I more properly mean by "merit". We wish to assay these essences.
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
