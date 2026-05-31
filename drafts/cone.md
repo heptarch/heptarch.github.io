@@ -298,13 +298,13 @@ $\blacksquare$
 
 ## XII. <a href="#toc">Exercise</a><a id="sec-12" name="sec-12"></a>
 
-**Observation.** Consider a two-dimensional electron gas confined to a triangular lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F |\mathbf{k}|$, yielding a pair of Dirac cones touching at a single nodal point.
+**Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F |\mathbf{k}|$, yielding a pair of Dirac cones touching at a single nodal point.
 
 **Lemma.** Two fermionic quasiparticles cannot occupy the same state. If particle $A$ displaces particle $B$ from state $\mathbf{k}_0$, then $B$ must propagate to an unoccupied state $\mathbf{k}_1 \neq \mathbf{k}_0$. In the low-temperature limit, $B$ localises at the nearest available minimum; at finite temperature, thermal fluctuations permit occupation of higher-energy states.
 
 **Remark.** The foregoing is contentious. Particle $A$ maintains that no displacement occurred and that $B$'s propagation was self-initiated.
 
-**Definition.** A *mass term* $m^*$ gaps the Dirac cone, lifting the degeneracy at the nodal point and opening a band gap $\Delta E = 2m^*v_F^2$. This is equivalent to the restoration of a broken symmetry by the introduction of an external perturbation.
+**Definition.** A *mass term* $m^*$ gaps the Dirac cone, lifting the degeneracy at the nodal point and opening a band gap $\Delta E = 2m^*v_F^2$. This is equivalent to the breaking of a symmetry by the introduction of an external perturbation.
 
 **Observation.** A localised perturbation of the form $V(\mathbf{r}) = V_0\delta(\mathbf{r} - \mathbf{r}_0)$ was subsequently applied to particle $B$'s outer boundary layer. The effect on the bulk band structure is negligible.
 
