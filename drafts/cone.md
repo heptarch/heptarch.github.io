@@ -294,9 +294,9 @@ The remaining intersection is at $(x, y) = (4, 16)$, as we picture below:
 Thus, there are precisely two solutions, $x = 1$ and $x = 4$.
 $\blacksquare$
 
-## XII. <a href="#toc">Distraction</a><a id="sec-12" name="sec-12"></a>
+## XII. <a href="#toc">Exercise</a><a id="sec-12" name="sec-12"></a>
 
-I embarked on, what was it, a bus I gather? Anyway, I was still thinking about semimetals, these messy but intriguing materials in which a naturally insulating band gap closes due to linear dispersion relations and the formation of what is called a *Dirac cone* or a *Dirac point*. And like the two cones touching at a point, one man was claiming another bumped into him. But what was I was saying?
+I was still thinking about semimetals when I embarked on the bus, yes, those messy but intriguing materials in which a naturally insulating band gap closes due to linear dispersion relations and the formation of what is called a *Dirac cone* or a *Dirac point*. And like the two cones touching at a point, one man on the bus, a student perhaps, was claiming another bumped into him.
 
 ## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
 
