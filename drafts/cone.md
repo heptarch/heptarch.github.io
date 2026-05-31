@@ -251,7 +251,7 @@ They may love, but in some cases it is a bad marriage. (*A pause.*) Pray friends
 <span style="padding-left: 40px; display:block">
 (c) Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger-Liu-Nagel finite-size corrections as parameterized by $\Delta$.</span>
 <span style="padding-left: 40px; display:block">
-(d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Give an implicit relation for $\theta_\max$ in terms of $c$ at vertical depth $z$, taking $z \sim H$ for the pile as a whole, and verify that smaller piles stand taller.</span>
+(d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Give an implicit relation for $\theta_\max$ in terms of $c$ at vertical depth $z$. Taking $z \sim H$ for the pile as a whole, and verify that smaller piles stand taller.</span>
 <span style="padding-left: 40px; display:block">
 (e) Under agitation the grains acquire a velocity dispersion $T_g = \langle\delta v^2\rangle$ (the "granular temperature"). A surface grain is caged by a barrier of order $mgd$, where $d$ is now the grain diameter. Argue that the cage is overcome (and hence $\Delta \to 0$) once $T_g \sim gd$. </span> 
 <span style="padding-left: 40px; display:block">
