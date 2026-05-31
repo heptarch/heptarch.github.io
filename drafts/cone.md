@@ -313,7 +313,7 @@ Such is the Way!
 *Comment.*
 
 <span style="padding-left: 40px; display:block">
-The monk
+The monk plants a flag on a dungheap and cannot help but praise it.
 </span>
 
 *Verse.*
