@@ -236,15 +236,15 @@ They may love merit, but in some cases it is a bad marriage. (*A pause.*) Pray f
 *Choose precisely one of the questions below and answer it.*
 
 <span style="padding-left: 40px; display:block">
-<i>A.</i> You have a pile of a warm metal shavings in the shape of a cone. Discuss. 
+<i>A.</i> You have a pile of warm metal shavings in the shape of a cone. Discuss. 
 </span>
 
 <span style="padding-left: 40px; display:block">
-<i>B.</i> You have a pile of a warm metal shavings in the shape of a cone. Determine the maximum angle of stability, stating any assumptions you make and giving plausibility arguments in their favour. 
+<i>B.</i> You have a pile of warm metal shavings in the shape of a cone. Determine the maximum angle of stability, stating any assumptions you make and giving plausibility arguments in their favour. 
 </span>
 
 <span style="padding-left: 40px; display:block">
-<i>C.</i> You have a pile of a warm metal shavings in the shape of a cone.
+<i>C.</i> You have a pile of warm metal shavings in the shape of a cone.
 <span style="padding-left: 40px; display:block">
 (a) Assuming the material is a cohesionless granular continuum, use the Mohr-Coulomb condition $\tau = \sigma\tan\phi$ to establish that $\theta_{\text{max}}=\phi$, where $\theta_\text{max}$ is the maximum angle of repose and $\phi$ is the internal angle of friction. Why is the scale-invariance of the solution expected?</span>
 <span style="padding-left: 40px; display:block">
@@ -252,7 +252,7 @@ They may love merit, but in some cases it is a bad marriage. (*A pause.*) Pray f
 <span style="padding-left: 40px; display:block">
 (c) Suppose the cone is bistable, with maximum angle $\theta_\max$ and repose angle $\theta_r = \theta_\max - \Delta$ after avalanching. Describe the Jaeger-Liu-Nagel finite-size corrections as parameterized by $\Delta$.</span>
 <span style="padding-left: 40px; display:block">
-(d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Give an implicit relation for $\theta_\max$ in terms of $c$ at vertical depth $z$. Taking $z \sim H$ for the pile as a whole, and verify that smaller piles stand taller.</span>
+(d) Explain why a cohesionless model is unrealistic for swarf, and the Mohr-Coulomb relation should be modified to $\tau = c + \sigma \tan\phi$ for a cohesion constant $c$. Give an implicit relation for $\theta_\max$ in terms of $c$ at vertical depth $z$. Taking $z \sim H$ for the pile as a whole, verify that smaller piles stand taller.</span>
 <span style="padding-left: 40px; display:block">
 (e) Under agitation the grains acquire a velocity dispersion $T_g = \langle\delta v^2\rangle$ (the "granular temperature"). A surface grain is caged by a barrier of order $mgd$, where $d$ is now the grain diameter. Argue that the cage is overcome (and hence $\Delta \to 0$) once $T_g \sim gd$. </span> 
 <span style="padding-left: 40px; display:block">
@@ -275,7 +275,7 @@ $$
 xy - 6y + 9x - 4 = 0.
 $$
 
-This is the equation of a rectangular hyperbola. Two conic sections meet at $0, 2$ or $4$ distinct points; if one intersection is tangent, the remaining intersection is transversal. Here, $(x, y) = (1, 1)$ is an intersection of parabola and hyperbola, and moreover tangent since
+This is the equation of a rectangular hyperbola. There are at most three intersections, counted with multiplicity (tangency). Here, $(x, y) = (1, 1)$ is an intersection of parabola and hyperbola, and moreover tangent since
 
 $$
 \begin{align}
