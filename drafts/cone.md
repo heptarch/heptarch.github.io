@@ -264,7 +264,7 @@ They may love merit, but in some cases it is a bad marriage. (*A pause.*) Pray f
 
 ## XI. <a href="#toc">Institution</a><a id="sec-11" name="sec-11"></a>
 
-
+The goal of its ceaseless operation is not to continuously examine the
 
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
