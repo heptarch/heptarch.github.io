@@ -276,7 +276,7 @@ I think you've struck upon something brilliant. The idea clearly borrows from Be
 
 Here, "units" can refer to whole assignments, assignment questions, or questions on an exam; the unit is a flexible denomination. As you point out, the $n/T$ per-student scaling is somewhat inefficient and be upgraded to a more favourable $n/TS$ effort scaling, where $S$ is the total number of students, simply by distributed the choice of $n$ units between students.
 
-Of course, one encounters the classic problems of collective action, free riders, tragedy of the commons, and so on.
+Of course, one encounters the classic problems of collective action, free riders, tragedy of the commons, and so on. Here, one simply modifies the terms of the wager, and 
 
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
