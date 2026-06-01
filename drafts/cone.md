@@ -274,7 +274,9 @@ I think you've struck upon something brilliant. The idea clearly borrows from Be
 - the mark is constituted by $n$ randomly chosen units, thus
 - reducing marking effort by a factor of $n/T$.
 
-Here, "units" can refer to assignments, or to questions on an exam. But as you point out, it can easily be modified from this somewhat inefficient $n/T$ per-student scaling to a far more favourable $n/TS$ effort scaling where $S$ is the total number of students. In other words, we assign a single grade for the class constituted by a choice of $n$ units distributed between students.
+Here, "units" can refer to assignments, assignment questions themselves, or questions on an exam; the unit is flexible.
+
+But as you point out, it can easily be modified from this somewhat inefficient $n/T$ per-student scaling to a far more favourable $n/TS$ effort scaling where $S$ is the total number of students. In other words, we assign a single grade for the class constituted by a choice of $n$ units distributed between students.
 
 Of course, one encounters the classic problems of collective action, free riders, tragedy of the commons, and so on.
 
