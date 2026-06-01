@@ -348,7 +348,11 @@ We have now viewed the cone, and its warm shavings, from a variety of angles. It
 
 But these too are merely words, more dungheap to plant a flag on. They distract us from the business of cutting reality with a knife, substitute the tool for its image and the act for its declaration. Names are not things, which applies not only to cone but to no-cone.
 
-What matters is drawing the enso (⊙) of cone/no-cone. Draw it and shut up!
+What matters is drawing the enso (of cone/no-cone. Draw it and shut up!
+
+<div style="text-align: center;">
+  <p>⊙</p>
+</div>
 
 <!-- ## List
 
