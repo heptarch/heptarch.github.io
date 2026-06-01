@@ -348,7 +348,7 @@ We have now viewed the cone, and its warm shavings, from a variety of angles. It
 
 But these too are merely words, more dungheap. They distract us from the business of cutting reality with a knife.
 
- Is there a cone? Isn't there? Who cares! What matters is drawing the enso (⊙) of cone/no-cone. Draw it and shut up!
+What matters is drawing the enso (⊙) of cone/no-cone. Draw it and shut up!
 
 <!-- ## List
 
