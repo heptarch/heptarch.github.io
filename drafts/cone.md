@@ -346,7 +346,7 @@ The blackbird's wing.
 
 We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all; only saw reflected back the things that we brought to it, only heard our self-melodies resonate, only bore ourselves in its vessel. Maybe there is no cone at all, just the apocryphal interrogative turned framing device, form as nominal fiction, as the imaginary pivot around which the whole corpus—the full dungheap—revolves.
 
-But these too are words: more dungheap, more false mind, another distraction from the ensō (⊙) of cone-no cone. Draw it and shut up!
+But these too are words: more dungheap, more false mind, another distraction from the enso (⊙) of cone-no cone. Draw it and shut up!
 
 <!-- ## List
 
