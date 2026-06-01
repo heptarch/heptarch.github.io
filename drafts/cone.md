@@ -13,7 +13,7 @@ date:  2026-06-01
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
 </span>
 <div style="text-align: right">– Anonymous, <i>MIT exam</i>
-</div><br>
+</div>
 
 ## Contents <a id="toc" name="toc"></a>
 
