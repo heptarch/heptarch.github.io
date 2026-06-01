@@ -241,7 +241,7 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 *Subject:* Concerning the method of the cone
 
 I think you've struck upon something brilliant. The idea clearly borrows from Bentham—viz. possibility of surveillance—but extrapolates to its natural conclusion. Let me restate the logic to ensure I've understood:
-- the teacher states that each of $T$ units is gradeable;
+- the teacher declares that each of $T$ units is gradeable;
 - the student puts equal effort into all units;
 - the mark is constituted by $n$ randomly chosen units;
 - marking effort is reduced by a factor of $n/T$.
