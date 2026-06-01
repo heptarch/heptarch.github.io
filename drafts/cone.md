@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Fifteen Ways of Looking at a Cone"
+title:  "Sixteen Ways of Looking at a Cone"
 categories: []
 date:  2026-05-25
 ---
@@ -29,9 +29,10 @@ IX. <a href="#sec-9"><i>Dialogue</i></a><br>
 X. <a href="#sec-10"><i>Exam</i></a><br>
 XI. <a href="#sec-11"><i>Proof</i></a><br>
 XII. <a href="#sec-12"><i>Exercise</i></a><br>
-XIII. <a href="#sec-13"><i>Koan</i></a><br>
-XIV. <a href="#sec-14"><i>Way</i></a><br>
-XV. <a href="#sec-15"><i>Coda</i></a><br>
+XIII. <a href="#sec-13"><i>Fugue</i></a><br>
+XIV. <a href="#sec-14"><i>Koan</i></a><br>
+XV. <a href="#sec-15"><i>Way</i></a><br>
+XVI. <a href="#sec-16"><i>Coda</i></a><br>
 
 ---
 
@@ -309,7 +310,16 @@ $\blacksquare$
 
 **Observation.** A localized perturbation of the form $V(\mathbf{r}) = V_0\delta(\mathbf{r} - \mathbf{r}_0)$ was subsequently applied to particle $B$'s outer boundary layer. The effect on the bulk band structure is negligible.
 
-## XIII. <a href="#toc">Koan</a><a id="sec-13" name="sec-13"></a>
+## XIII. <a href="#toc">Fugue</a><a id="sec-13" name="sec-13"></a>
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/klee.png" width="400"/>
+	<figcaption><i>The two points of intersection (one tangent) between conics.</i></figcaption>
+	</div>
+	</figure>
+
+## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
 *Case.*
 <span style="padding-left: 40px; display:block">
@@ -330,7 +340,7 @@ This one plants a flag on a dungheap and cannot help but praise it; in pointing 
 *No name, no dungheap.*
 </span>
 
-## XIV. <a href="#toc">Way</a><a id="sec-14" name="sec-14"></a>
+## XV. <a href="#toc">Way</a><a id="sec-15" name="sec-15"></a>
 
 <span style="padding-left: 40px; display:block">
 Those spangles and curlicues <br>
@@ -342,7 +352,7 @@ The blackbird's wing.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wallace Stevens, *Addendum to* "Thirteen Ways"
 
-## XV. <a href="#toc">Coda</a><a id="sec-15" name="sec-15"></a>
+## XVI. <a href="#toc">Coda</a><a id="sec-16" name="sec-16"></a>
 
 We have now viewed the cone from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all: saw reflected back only the things that we brought to it, heard echo only the melody we were whistling, bore only ourselves in its vessel. I write myself and only myself. Maybe there is no cone at all, just the apocryphal interrogative reworked into a framing device, <!-- a nominalist fiction,--> the imaginary pivot around which the whole corpus revolves.
 
