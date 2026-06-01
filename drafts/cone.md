@@ -319,7 +319,7 @@ $\blacksquare$
 	</div>
 	</figure>
     
-The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures in the background joined like pieces of wood. This playful association is typical of Klee, and in 1922,  
+The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures delineated in the background joined like pieces of wood. This playful association is typical of Klee. In 1922, Klee had begun teaching at the Bauhaus, had met Kandinsky, 
 
 ## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
