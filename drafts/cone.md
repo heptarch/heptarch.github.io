@@ -319,7 +319,7 @@ $\blacksquare$
 	</div>
 	</figure>
     
-The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of woodworking. Visually, these two meanings play out across the canvas, with two central "cones" and various semicircles giving the fugue, and the blocky, elongated figures in the background joined like pieces of wood. This playful association is typical of Klee,  
+The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these two meanings play out across the canvas, with two central "cones" and various semicircles giving the fugue, and the blocky, elongated figures in the background joined like pieces of wood. This playful association is typical of Klee,  
 
 ## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
