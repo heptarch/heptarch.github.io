@@ -320,7 +320,7 @@ $\blacksquare$
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/klee.png" width="500" style="margin: 20 px;"/>
-	<figcaption>a<br><i>Zapfenfuge</i> (1922), Paul Klee.</figcaption>
+	<figcaption>a<br><i>Zapfenfuge</i> (1922), Paul Klee. Watercolour and ink on canvas.</figcaption>
 	</div>
 	</figure>
     
