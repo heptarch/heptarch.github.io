@@ -278,6 +278,8 @@ Here, "units" can refer to whole assignments, assignment questions, or questions
 
 Of course, one encounters the classic problems of collective action, free riders, tragedy of the commons, and so on. Here, one simply modifies the terms of the wager: the final grade is not the average of units, but the *minimum*. The wayward student who submits a failing unit risks failing the entire class; entangling their outcomes this way tends to eliminate free riders. To ensure that the relevant socially inhibitory mechanisms are activated, the entire class must be informed *which units were chosen*, and in particular who is responsible for a failing grade. Otherwise the rider gets away.
 
+I take it that the governing analogy of the cone came to you 
+
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
 **Theorem.** If $x^3 - 6x^2 + 11x - 6 = 2x - 2$, then $x = 1$ or $x = 4$.
