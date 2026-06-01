@@ -268,9 +268,7 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 
 *Subject:* Concerning the new method
 
----
-
-So
+I think you've struck upon something brilliant. The idea clearly borrows from Bentham's Panopticon—viz. possibility of surveillance—but takes it much further
 
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
