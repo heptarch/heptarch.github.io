@@ -236,7 +236,7 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 
 ## X. <a href="#toc">Institution</a><a id="sec-10" name="sec-10"></a>
 
-*To:* AG, Pro VC
+*To:* --, Pro VC
 
 *Subject:* Concerning the method of the cone
 
@@ -256,7 +256,7 @@ We will implement it as soon as possible.
 
 Yours,
 
-JB
+--
 
 ## XI. <a href="#toc">Exam</a><a id="sec-11" name="sec-11"></a>
 
