@@ -264,7 +264,7 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 
 ## XI. <a href="#toc">Institution</a><a id="sec-11" name="sec-11"></a>
 
-*To:* AG
+*To:* AG, Pro VC
 
 *Subject:* Concerning the new method
 
