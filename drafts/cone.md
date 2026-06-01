@@ -143,7 +143,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Ground floor.* The ground floor has ample footage, around $\pi \cdot 1.5^2 \text{ m}^2 \approx 7 \text{ m}^2$ at height $2 \text{ m}$ (the excised segment is outside this). This central circle is bisected, with the left half on entry devoted to domestic utility—a bar fridge, oven and sink, some counter space and bar stools for eating—and the right half for leisure—a semicircular couch, divan and spruce coffee table (formed from the intersection of hyperbolae). Appliances, countertops, and couch are recessed to maximize central footage. Three circular "porthole" windows of radius $0.25 \text{ m}$ and height $1.5 \text{ m}$ are arrayed equally around the non-face periphery of the cone.
 
-*Loft.* A retractable ladder ascends to a loft bedroom, with total area $\approx 7 \text{ m}^2$, large enough to comfortably accommodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes, with additional hinged compartments for larger items secured to the inner walls. The apex of the cone houses a "reverse smokehole", with an aperture upwind generating pressure which keeps hot air inside. This aperture is formed by removing a segment from a rotating secondary ring, the primary being the raceway of a weathervane freely mounted atop the cone.
+*Loft.* A retractable ladder ascends to a loft bedroom, with total area $\approx 7 \text{ m}^2$, large enough to comfortably accommodate a queen bed ($1.53 \times 2.03 \text{ m}^2$) if displaced from the ladderway. The lower recesses house storage units for clothes, with additional hinged compartments for larger items secured to the inner walls. The apex of the cone houses a "reverse smokehole", with an aperture upwind generating pressure which keeps hot air inside. This aperture is formed by removing a segment from a rotating secondary ring, the primary being the raceway of a weathervane freely mounted atop the cone. This is articulated so that larger cone is in fact a frustum surmounted by a smaller conical weathervane.
 
 *Burrow.* The floor of the living area is interrupted by a circular manhole, diameter $0.75 \text{ m}$, typically covered by an afghan rug. The manhole, offset from the centre of the cone, admits the residents to a vertical tunnel, a hardwood-braced cylindrical excavation of diameter $2 \text{ m}$ with a rope ladder descending a distance of $75 \text{ m}$. At the bottom of this shaft are secondary living quarters, a generator, and a network of further tunnels.
 
@@ -263,6 +263,8 @@ They may love merit, but in some cases it is a bad marriage. (*A pause.*) Pray f
 </span>
 
 ## XI. <a href="#toc">Institution</a><a id="sec-11" name="sec-11"></a>
+
+
 
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
