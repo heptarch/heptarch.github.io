@@ -319,7 +319,7 @@ $\blacksquare$
 	</div>
 	</figure>
     
-During
+Painting the same year he met Kandinsky at the Bauhaus, 
 
 ## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
