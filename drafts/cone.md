@@ -344,7 +344,7 @@ The blackbird's wing.
 
 ## XV. <a href="#toc">Coda</a><a id="sec-15" name="sec-15"></a>
 
-We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all; we only saw what we brought to it.
+We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, perhaps, we never saw the cone at all; we only saw reflected back the things that we brought to it.
 
 <!-- ## List
 
@@ -364,6 +364,15 @@ We have now viewed the cone, and its warm shavings, from a variety of angles. It
 - Kinetic blow-up
 - Panopticon
 - ~~Zen? Something about Enso (conclusion)~~
+
+## References
+- https://sacred-texts.com/bud/glg/glg08.htm
+- https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird
+- https://en.wikipedia.org/wiki/Nineteen_Ways_of_Looking_at_Wang_Wei
+- https://bern.com/en/explore/tourist-attractions/art-culture/einstein-house
+- https://asc-planetarynames-data.s3.us-west-2.amazonaws.com/europa_15m_100ppi.pdf
+- https://digital.library.unt.edu/ark:/67531/metadc1279277/m2/1/high_res_d/10117359.pdf
+- https://pzwiki.wdka.nl/mw-mediadesign/images/a/a2/Raymond_Queneau_Exercises_in_Style.pdf
 
 Both camps are combing the bits for meaning, pattern, grammar. I think they are just a nonce to calibrate the polarimeter and produce an entropy decrement; all the semantics is in the initials.
 -->
