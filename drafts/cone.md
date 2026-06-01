@@ -23,8 +23,8 @@ III. <a href="#sec-3"><i>Portrait</i></a><br>
 IV. <a href="#sec-4"><i>Treatise</i></a><br>
 V. <a href="#sec-5"><i>Poem</i></a><br>
 VI. <a href="#sec-6"><i>Story</i></a><br>
-VII. <a href="#sec-7"><i>Plans</i></a><br>
-VIII. <a href="#sec-8"><i>Translation</i></a><br>
+VII. <a href="#sec-7"><i>Translation</i></a><br>
+VIII. <a href="#sec-8"><i>Plans</i></a><br>
 IX. <a href="#sec-9"><i>Dialogue</i></a><br>
 X. <a href="#sec-10"><i>Institution</i></a><br>
 XI. <a href="#sec-11"><i>Exam</i></a><br>
@@ -114,7 +114,22 @@ We set up a workshop next to the hab to smelt, fuse, solder, program. It is fun 
 
 After several lags, we have a working hypothesis: the Pyramid is entangled with the Centaurus transmitter, observing our efforts, and the consumed half got deleted from the signal in a totally causal fashion. But that would mean the Folks made a quantum network distributed over the scale of light years, a possibility that makes Cheng even more nervous than the Kardashev flex of harvesting an exploded star. But once you eliminate the impossible... We try to decode the remaining signal using random stelae—the output is in binary, since we just measure in the given polarizer basis—until one yields a noticeable drop in entropy. And then the signal stops.
 
-## VII. <a href="#toc">Plans</a><a id="sec-7" name="sec-7"></a>
+## VII. <a href="#toc">Translation</a><a id="sec-7" name="sec-7"></a>
+
+<span style="padding-left: 40px; display:block">
+void cone; see no one <br>
+but hear talk.<br>
+light yields on the deep grove: <br>
+blue-green shine on moss.
+</span>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
+
+This translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abstract and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and numerous solecisms smack of Greenwich Village dilettantism rather than scholarly care.
+
+Regarding their choices, the translator does however make this comment: "The goal of translation is not to tidily capture the closest sense, but rather to imagine and project the rupture of the original in fresh language. 'Void cone' is, in this respect, a faithful rendering." I think this is sufficiently absurd to refute itself.
+
+## VIII. <a href="#toc">Plans</a><a id="sec-8" name="sec-8"></a>
 
 *Form.* The exterior wall is cut out of aluminium sheet metal: a circle of radius $\ell = 5$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 144^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
 
@@ -148,21 +163,6 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 *Burrow.* The floor of the living area is interrupted by a circular manhole, diameter $0.75 \text{ m}$, typically covered by an afghan rug. The manhole, offset from the centre of the cone, admits the residents to a vertical tunnel, a hardwood-braced cylindrical excavation of diameter $2 \text{ m}$ with a rope ladder descending a distance of $75 \text{ m}$. At the bottom of this shaft are secondary living quarters, a generator, and a network of further tunnels.
 
 *Generator.* Joviothermal unit with feedline from aquifer. Proprietary.
-
-## VIII. <a href="#toc">Translation</a><a id="sec-8" name="sec-8"></a>
-
-<span style="padding-left: 40px; display:block">
-void cone; see no one <br>
-but hear talk.<br>
-light yields on the deep grove: <br>
-blue-green shine on moss.
-</span>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
-
-This translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abstract and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and numerous solecisms smack of Greenwich Village dilettantism rather than scholarly care.
-
-Regarding their choices, the translator does however make this comment: "The goal of translation is not to tidily capture the closest sense, but rather to imagine and project the rupture of the original in fresh language. 'Void cone' is, in this respect, a faithful rendering." I think this is sufficiently absurd to refute itself.
 
 ## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
 
