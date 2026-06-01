@@ -314,12 +314,12 @@ $\blacksquare$
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/klee.png" width="400" style="margin: 20 px;"/>
+    ="/img/posts/klee.png" width="500" style="margin: 20 px;"/>
 	<figcaption style="margin: 20 px;"><i>Zapfenfuge</i> (1922), Paul Klee.</figcaption>
 	</div>
 	</figure>
     
-The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these two meanings play out across the canvas, with two central "cones" and various semicircles giving the fugue, and the blocky, elongated figures in the background joined like pieces of wood. This playful association is typical of Klee,  
+The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these two meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures in the background joined like pieces of wood. This playful association is typical of Klee, and in 1922,  
 
 ## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
