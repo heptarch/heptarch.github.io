@@ -273,12 +273,6 @@ I think you've struck upon something brilliant. You clearly borrow from Bentham'
 - asd
 </span>
 
-<fieldset>
-  <legend>My Box Title</legend>
-  This is a content box generated entirely with pure HTML. 
-  It features a default browser border wrapper.
-</fieldset>
-
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
 **Theorem.** If $x^3 - 6x^2 + 11x - 6 = 2x - 2$, then $x = 1$ or $x = 4$.
