@@ -319,7 +319,7 @@ $\blacksquare$
 	</div>
 	</figure>
     
-The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures delineated in the background joined like planks of wood. This playful association is typical of Klee, but goes deeper. In 1922, Klee had begun to develop ideas about polyphonic painting, and the joinery of the fugue—its method of development by repetition and variation of material—was planting the seed for his own approach to colour in art.
+The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures delineated in the background joined like planks of wood. This playful association is typical of Klee, but goes deeper. In 1922, Klee had begun to develop ideas about polyphonic painting, and the joinery of the fugue—its method of development by repetition and variation of material—was planting the seed for his own approach to colour in art. Of this piece, he writes in his diary: "Rather than strict repetition of structure, "
 
 ## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
