@@ -270,6 +270,12 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 
 I think you've struck upon something brilliant. The idea clearly borrows from Bentham's Panopticon—viz. possibility of surveillance—but takes it much further
 
+<fieldset>
+  <legend>My Box Title</legend>
+  This is a content box generated entirely with pure HTML. 
+  It features a default browser border wrapper.
+</fieldset>
+
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
 **Theorem.** If $x^3 - 6x^2 + 11x - 6 = 2x - 2$, then $x = 1$ or $x = 4$.
