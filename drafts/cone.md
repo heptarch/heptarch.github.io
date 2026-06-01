@@ -318,6 +318,8 @@ $\blacksquare$
 	<figcaption><i>Fugue of cones</i> (1922), Paul Klee.</figcaption>
 	</div>
 	</figure>
+    
+During
 
 ## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
