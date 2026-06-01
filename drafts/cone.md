@@ -344,9 +344,9 @@ The blackbird's wing.
 
 ## XV. <a href="#toc">Coda</a><a id="sec-15" name="sec-15"></a>
 
-We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all: only saw reflected back the things that we brought to it, only heard our self-melodies resonate, only bore ourselves in its vessel. Maybe there is no cone at all, just the apocryphal interrogative turned framing device: form as nominal fiction, as the imaginary pivot around which the whole corpus revolves. I write myself and only myself.
+We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all: only saw reflected back the things that we brought to it, only heard our self-melodies resonate, only bore ourselves in its vessel. Maybe there is no cone at all, just the apocryphal interrogative turned framing device: form as nominal fiction, as the imaginary pivot around which the whole corpus revolves. I write myself exclusively.
 
-But these too are merely words, more dungheap to plant a flag on. They distract us from the business of cutting reality with a knife, or rather, transubstantiate the knife for its image.
+But these too are merely words, more dungheap to plant a flag on. They distract us from the business of cutting reality with a knife,.
 
 What matters is drawing the enso (⊙) of cone/no-cone. Draw it and shut up!
 
