@@ -346,7 +346,7 @@ The blackbird's wing.
 
 We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all: only saw reflected back the things that we brought to it, only heard our self-melodies resonate, only bore ourselves in its vessel. Maybe there is no cone at all, just the apocryphal interrogative turned framing device: form as nominal fiction, as the imaginary pivot around which the whole corpus revolves. I write myself and only myself.
 
-But these too are merely words, a dungheap to plant a flag on. They distract us from the business of cutting reality with a knife, substituting the tool for its image and the act for its declaration. Names are not things; the dungheap of no-cone is just as bad as the dungheap of cone.
+But these too are merely words, a dungheap to plant a flag on. They distract us from the business of cutting reality with a knife, substituting the tool for its image and the act for its declaration. Names are not things; the dungheap of no-cone is no better than the dungheap of cone.
 
 <div style="text-align: center;">
   <p>⊙</p>
