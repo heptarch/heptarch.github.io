@@ -346,7 +346,7 @@ The blackbird's wing.
 
 We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all; only saw reflected back the things that we brought to it, only heard our self-melodies resonating, only bore ourselves in its vessel. Maybe there is no cone at all, just the apocryphal interrogative turned framing device; form as nominal fiction, as the imaginary pivot around which the whole corpus revolves.
 
-But these too are only words, more dungheaps.
+But these too are words, more dungheaps, more false mind.
 
 <!-- ## List
 
