@@ -314,7 +314,7 @@ $\blacksquare$
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/klee.png" width="400" margin="20 pt"/>
+    ="/img/posts/klee.png" width="400" style="margin: 20 px;"/>
 	<figcaption><i>Fugue (Cones)</i> (1922), Paul Klee.</figcaption>
 	</div>
 	</figure>
