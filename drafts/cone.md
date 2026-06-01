@@ -348,8 +348,6 @@ We have now viewed the cone, and its warm shavings, from a variety of angles. It
 
 But these too are merely words, more dungheap to plant a flag on. They distract us from the business of cutting reality with a knife, substitute the tool for its image and the act for its declaration. Names are not things, which applies not only to cone but to no-cone.
 
-What matters is drawing the enso (of cone/no-cone. Draw it and shut up!
-
 <div style="text-align: center;">
   <p>⊙</p>
 </div>
@@ -381,6 +379,8 @@ What matters is drawing the enso (of cone/no-cone. Draw it and shut up!
 - https://asc-planetarynames-data.s3.us-west-2.amazonaws.com/europa_15m_100ppi.pdf
 - https://digital.library.unt.edu/ark:/67531/metadc1279277/m2/1/high_res_d/10117359.pdf
 - https://pzwiki.wdka.nl/mw-mediadesign/images/a/a2/Raymond_Queneau_Exercises_in_Style.pdf
+
+What matters is drawing the enso of cone/no-cone. Draw it and shut up!
 
 Both camps are combing the bits for meaning, pattern, grammar. I think they are just a nonce to calibrate the polarimeter and produce an entropy decrement; all the semantics is in the initials.
 -->
