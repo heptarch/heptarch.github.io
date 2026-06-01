@@ -344,7 +344,7 @@ The blackbird's wing.
 
 ## XV. <a href="#toc">Coda</a><a id="sec-15" name="sec-15"></a>
 
-We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, perhaps, we never saw the cone at all; only saw reflected back the things that we brought to it, only heard our melodies resonating through its spectrum, articulated only ourselves in its vessel. Maybe there is no cone, only the apocryphal interrogative turned framing device; form as nominal fiction.
+We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, perhaps, we never saw the cone at all; only saw reflected back the things that we brought to it, only heard our self-melodies resonating through its spectrum, articulated only ourselves in its vessel. Maybe there is no cone, only the apocryphal interrogative turned framing device; form as nominal fiction.
 
 <!-- ## List
 
