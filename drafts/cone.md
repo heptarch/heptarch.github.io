@@ -346,7 +346,7 @@ The blackbird's wing.
 
 We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all; only saw reflected back the things that we brought to it, only heard our self-melodies resonate, only bore ourselves in its vessel. Maybe there is no cone at all, just the apocryphal interrogative turned framing device: form as nominal fiction, as the imaginary pivot around which the whole corpus—the full dungheap—revolves. I write myself and only myself.
 
-But these too are merely words, more dungheap, more false mind. They distract us from the business of drawing the enso (⊙) of cone/no-cone. Is there a cone? Isn't there? Who cares! What matters is . Draw it and shut up!
+But these too are merely words, more dungheap. They distract us from the business of drawing the enso (⊙) of cone/no-cone. Is there a cone? Isn't there? Who cares! What matters is . Draw it and shut up!
 
 <!-- ## List
 
