@@ -260,7 +260,7 @@ Yours,
 
 ## XI. <a href="#toc">Exam</a><a id="sec-11" name="sec-11"></a>
 
-*Choose precisely one of the questions below and answer it.*
+*One of the following will be marked.*
 
 <span style="padding-left: 40px; display:block">
 <i>A.</i> You have a pile of warm metal shavings in the shape of a cone. Discuss. 
