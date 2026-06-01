@@ -231,7 +231,7 @@ The examination draws merit from the front; instruction draws merit from the bac
 </span>
 
 SAGREDO. <span style="padding-left: 40px; display:block">
-They may love merit, but in some cases it is a bad marriage. (*A pause.*) Pray friends, can you confine yourselves for a moment to Galileo's observation of the Jovian moons? I would be enlightened.
+They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) Pray friends, can you confine yourselves for a moment to Galileo's observation of the Jovian moons? I would be enlightened.
 </span>
 
 ## X. <a href="#toc">Exam</a><a id="sec-10" name="sec-10"></a>
