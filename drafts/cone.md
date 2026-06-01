@@ -269,10 +269,10 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 *Subject:* Concerning the new method
 
 I think you've struck upon something brilliant. The idea clearly borrows from Bentham's Panopticon—viz. possibility of surveillance—but extrapolates to its natural conclusion. Let me restate the logic to ensure I've understood:
-- the teacher states that each of $T$ units is gradeable, so
+- the teacher states that each of $T$ units is gradeable;
 - the student puts equal effort into all units;
-- the mark is constituted by $n$ randomly chosen units, thus
-- reducing marking effort by a factor of $n/T$.
+- the mark is constituted by $n$ randomly chosen units;
+- marking effort is reduced by a factor of $n/T$.
 
 Here, "units" can refer to whole assignments, assignment questions, or questions on an exam; the unit is a flexible denomination. As you point out, the $n/T$ per-student scaling is somewhat inefficient and be upgraded to a more favourable $n/TS$ effort scaling, where $S$ is the total number of students, simply by distributed the choice of $n$ units between students. That way, a single marker can tune $n$ to ensure that the grade is fair but within their capacity to evaluate. The surplus graduate labour supply can be devoted to nobler tasks, such as research; or perhaps we simply reduce our graduate intake. 
 
