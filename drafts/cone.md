@@ -314,7 +314,7 @@ $\blacksquare$
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/klee.png" width="400"/>
+    ="/img/posts/klee.png" width="400"/><br>
 	<figcaption><i>The two points of intersection (one tangent) between conics.</i></figcaption>
 	</div>
 	</figure>
