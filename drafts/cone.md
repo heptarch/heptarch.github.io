@@ -269,7 +269,8 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 *Subject:* Concerning the new method
 
 <span style="padding-left: 40px; display:block">
-I think you've struck upon something brilliant. The idea clearly borrows from Bentham's Panopticon—viz. possibility of surveillance—but takes it much further
+I think you've struck upon something brilliant. You clearly borrow from Bentham's Panopticon—viz. possibility of surveillance—but extrapolate to its natural conclusion. Let me restate the logic to ensure I've understood:
+- asd
 </span>
 
 <fieldset>
