@@ -238,7 +238,7 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 
 *To:* AG, Pro VC
 
-*Subject:* Concerning the Cone method
+*Subject:* Concerning the method of the cone
 
 I think you've struck upon something brilliant. The idea clearly borrows from Bentham—viz. possibility of surveillance—but extrapolates to its natural conclusion. Let me restate the logic to ensure I've understood:
 - the teacher states that each of $T$ units is gradeable;
