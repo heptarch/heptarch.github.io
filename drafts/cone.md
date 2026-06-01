@@ -272,7 +272,9 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 I think you've struck upon something brilliant. The idea clearly borrows from Bentham's Panopticon—viz. possibility of surveillance—but extrapolates to its natural conclusion. Let me restate the logic to ensure I've understood:
 <ol>
 <li>teacher states all assignments are "gradeable"</li>
-<li>mark is constituted by three randomly selected assignments</li>
+<li>mark is constituted by $n$ randomly selected assignments</li>
+<li>students put equivalent effort into each assignment</li>
+<li>
 </ol>
 </span>
 
