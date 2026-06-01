@@ -269,12 +269,10 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 *Subject:* Concerning the new method
 
 I think you've struck upon something brilliant. The idea clearly borrows from Bentham's Panopticon—viz. possibility of surveillance—but extrapolates to its natural conclusion. Let me restate the logic to ensure I've understood:
-- the teacher states that all units are gradeable, so
+- the teacher states that all $T$ units are gradeable, so
 - the student puts equal effort into all units;
 - the mark is constituted by $n$ randomly chosen units,
-- reducing marking effort by a factor of $n/T$
-
-where $T$ is the total number of units.
+- reducing marking effort by a factor of $n/T$.
 
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
