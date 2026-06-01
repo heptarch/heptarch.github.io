@@ -325,7 +325,7 @@ The remaining intersection is at $(x, y) = (4, 16)$, as we picture below:
 Thus, there are precisely two solutions, $x = 1$ and $x = 4$.
 $\blacksquare$
 
-## XIII. <a href="#toc">Exercise</a><a id="sec-13" name="sec-13"></a>
+## XIII. <a href="#toc">Exercise (in style)</a><a id="sec-13" name="sec-13"></a>
 
 **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
