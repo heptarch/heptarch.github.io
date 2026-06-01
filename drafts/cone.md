@@ -378,7 +378,7 @@ So what is left? A warm pile of metal shavings.
 - ~~Ording / proof of volume of cone? / calculi~~
 - ~~Appolonnius / Kepler~~
 - ~~Stevens / poem~~
-- Bach / developing echos of form / Klee
+- ~~Bach / developing echos of form / Klee~~
 - ~~Exam design / dunce cap~~
 - ~~Boulee-style monolith? scifi? structural properties~~
 - Kinetic blow-up
