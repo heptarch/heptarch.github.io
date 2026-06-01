@@ -219,7 +219,7 @@ Indeed good Sagredo! But why examine at all then? We could simply instruct the s
 </span>
 
 SALVIATI. <span style="padding-left: 40px; display:block">
-The examination draws forth precisely because it is an assessment of merit. The student knows this and prepares accordingly. But the virtue is not in the determination of merit, but the drawing forth that determination gives rise to. 
+The examination draws forth precisely because it is an assessment of merit. The student knows this and prepares accordingly. The virtue is not in the determination of merit, but the drawing forth that determination gives rise to. 
 </span>
 
 SIMPLICIO. <span style="padding-left: 40px; display:block">
