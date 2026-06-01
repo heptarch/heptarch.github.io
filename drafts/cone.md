@@ -319,7 +319,7 @@ $\blacksquare$
 	</div>
 	</figure>
     
-Painting the same year he met Kandinsky at the Bauhaus, the title of this piece is a pun meaning both "cone fugue" and "mortise and tenon joint", a basic means of joining pieces of wood. Visually, this corresponds to the two central "cones" and various semicircles distributed across the canvas, and the blocky, elongated  
+Painting the same year he met Kandinsky at the Bauhaus, the title of this piece is a pun meaning both "cone fugue" and "mortise and tenon joint", a basic means of joining pieces of wood. Visually, these two meanings correspond to the central "cones" and various semicircles distributed across the canvas, and the blocky, elongated figures—joined like pieces of wood—in the background. 
 
 ## XIV. <a href="#toc">Koan</a><a id="sec-14" name="sec-14"></a>
 
