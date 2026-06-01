@@ -26,8 +26,8 @@ VI. <a href="#sec-6"><i>Story</i></a><br>
 VII. <a href="#sec-7"><i>Plans</i></a><br>
 VIII. <a href="#sec-8"><i>Translation</i></a><br>
 IX. <a href="#sec-9"><i>Dialogue</i></a><br>
-X. <a href="#sec-10"><i>Exam</i></a><br>
-XI. <a href="#sec-11"><i>Institution</i></a><br>
+X. <a href="#sec-10"><i>Institution</i></a><br>
+XI. <a href="#sec-11"><i>Exam</i></a><br>
 XII. <a href="#sec-12"><i>Proof</i></a><br>
 XIII. <a href="#sec-13"><i>Exercise</i></a><br>
 XIV. <a href="#sec-14"><i>Fugue</i></a><br>
@@ -234,7 +234,25 @@ SAGREDO. <span style="padding-left: 40px; display:block">
 They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) Pray friends, can you confine yourselves for a moment to Galileo's observation of the Jovian moons? I would be enlightened.
 </span>
 
-## X. <a href="#toc">Exam</a><a id="sec-10" name="sec-10"></a>
+## X. <a href="#toc">Institution</a><a id="sec-10" name="sec-10"></a>
+
+*To:* AG, Pro VC
+
+*Subject:* Concerning the Cone method
+
+I think you've struck upon something brilliant. The idea clearly borrows from Bentham—viz. possibility of surveillance—but extrapolates to its natural conclusion. Let me restate the logic to ensure I've understood:
+- the teacher states that each of $T$ units is gradeable;
+- the student puts equal effort into all units;
+- the mark is constituted by $n$ randomly chosen units;
+- marking effort is reduced by a factor of $n/T$.
+
+Here, "units" can refer to whole assignments, assignment questions, or questions on an exam; the unit is a flexible denomination. As you point out, the $n/T$ per-student scaling is somewhat inefficient and can be upgraded to a more favourable $n/TS$ scaling, where $S$ is the total number of students, simply by distributing the choice of $n$ units between students. A single marker can then choose $n$ to ensure that the grade is fair but within their capacity to evaluate. The surplus graduate labour supply can be devoted to nobler tasks, such as research; or perhaps we simply reduce our graduate intake. 
+
+Of course, one encounters the classic problems of collective action, free riders, tragedy of the commons, and so on. Here, one simply modifies the terms of the wager: the final grade is not the average of units, but the *minimum*. The wayward student who submits a failing unit risks failing the entire class; entangling their outcomes this way tends to eliminate free riders. To ensure that the relevant socially inhibitory mechanisms are activated, the entire class must be informed *which units were chosen*, and in particular who is responsible for a failing grade.
+
+I take it that the governing analogy of the cone came to you because the single point at the apex has a direct line of sight to all the points on the periphery of the base; in a sense, this is a concrete figuring of the relationship of examination.
+
+## XI. <a href="#toc">Exam</a><a id="sec-11" name="sec-11"></a>
 
 *Choose precisely one of the questions below and answer it.*
 
@@ -261,24 +279,6 @@ They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) P
 <span style="padding-left: 40px; display:block">
 (f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance you found in part (a). </span>
 </span>
-
-## XI. <a href="#toc">Institution</a><a id="sec-11" name="sec-11"></a>
-
-*To:* AG, Pro VC
-
-*Subject:* Concerning the Cone method
-
-I think you've struck upon something brilliant. The idea clearly borrows from Bentham—viz. possibility of surveillance—but extrapolates to its natural conclusion. Let me restate the logic to ensure I've understood:
-- the teacher states that each of $T$ units is gradeable;
-- the student puts equal effort into all units;
-- the mark is constituted by $n$ randomly chosen units;
-- marking effort is reduced by a factor of $n/T$.
-
-Here, "units" can refer to whole assignments, assignment questions, or questions on an exam; the unit is a flexible denomination. As you point out, the $n/T$ per-student scaling is somewhat inefficient and can be upgraded to a more favourable $n/TS$ scaling, where $S$ is the total number of students, simply by distributing the choice of $n$ units between students. A single marker can then choose $n$ to ensure that the grade is fair but within their capacity to evaluate. The surplus graduate labour supply can be devoted to nobler tasks, such as research; or perhaps we simply reduce our graduate intake. 
-
-Of course, one encounters the classic problems of collective action, free riders, tragedy of the commons, and so on. Here, one simply modifies the terms of the wager: the final grade is not the average of units, but the *minimum*. The wayward student who submits a failing unit risks failing the entire class; entangling their outcomes this way tends to eliminate free riders. To ensure that the relevant socially inhibitory mechanisms are activated, the entire class must be informed *which units were chosen*, and in particular who is responsible for a failing grade.
-
-I take it that the governing analogy of the cone came to you because the single point at the apex has a direct line of sight to all the points on the periphery of the base, marker to studentry, as it were.
 
 ## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
 
