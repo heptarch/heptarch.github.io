@@ -344,7 +344,7 @@ The blackbird's wing.
 
 ## XV. <a href="#toc">Coda</a><a id="sec-15" name="sec-15"></a>
 
-We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise .
+We have now viewed the cone, and its warm shavings, from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth themes and melodies we did not expect.
 
 <!-- ## List
 
