@@ -274,7 +274,7 @@ I think you've struck upon something brilliant. The idea clearly borrows from Be
 - the mark is constituted by $n$ randomly chosen units, thus
 - reducing marking effort by a factor of $n/T$.
 
-Here, "units" can refer to whole assignments, assignment questions, or questions on an exam; the unit is a flexible denomination. As you point out, the $n/T$ per-student scaling is somewhat inefficient and be upgraded to a more favourable $n/TS$ effort scaling, where $S$ is the total number of students, simply by distributed the choice of $n$ units between students. That way, a single marker can tune $n$ to ensure that the grade is fair but within their capacity to evaluate.
+Here, "units" can refer to whole assignments, assignment questions, or questions on an exam; the unit is a flexible denomination. As you point out, the $n/T$ per-student scaling is somewhat inefficient and be upgraded to a more favourable $n/TS$ effort scaling, where $S$ is the total number of students, simply by distributed the choice of $n$ units between students. That way, a single marker can tune $n$ to ensure that the grade is fair but within their capacity to evaluate. The surplus graduate labour supply can be devoted to nobler tasks, such as research. 
 
 Of course, one encounters the classic problems of collective action, free riders, tragedy of the commons, and so on. Here, one simply modifies the terms of the wager: the final grade is not the average of units, but the *minimum*. The wayward student who submits a failing unit risks failing the entire class; now their fates are 
 
