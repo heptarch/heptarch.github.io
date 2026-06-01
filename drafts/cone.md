@@ -252,6 +252,12 @@ Of course, one encounters the classic problems of collective action, free riders
 
 I take it that the governing analogy of the cone came to you because the single point at the apex has a direct line of sight to all the points on the periphery of the base; this is a beautifully concrete figuring of the relationship between examiner and examinee, a one-to-many asymmetry of power, control and vision that the cone not only embodies but celebrates.
 
+We will implement it as soon as possible.
+
+Yours,
+
+JB
+
 ## XI. <a href="#toc">Exam</a><a id="sec-11" name="sec-11"></a>
 
 *Choose precisely one of the questions below and answer it.*
