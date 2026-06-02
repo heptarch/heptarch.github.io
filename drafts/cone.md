@@ -122,7 +122,6 @@ but hear talk.<br>
 light yields on the deep grove: <br>
 blue-green shine on moss.
 </span>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wang Wei, <i>Lu Zhai</i>
 
 This translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abstract and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and numerous solecisms smack of Greenwich Village dilettantism rather than scholarly care.
