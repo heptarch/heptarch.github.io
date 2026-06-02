@@ -66,7 +66,7 @@ In this context, they suggest that, by virtue of creativity and imaginative forc
 
 Here, it suggests that the "body" of the work may be disorganized, lacking direction or structure, or somewhat aimless. More charitably, we might expect the collection to have a somewhat spontaneous and improvised quality. 
 
-*Spirit (Five of Cups, reversed).* In the Five of Cups, a man regards five spilled cups which represent, perhaps, his personal failures. Behind him, a bridge leads over a river to a small castle
+*Spirit (Five of Cups, reversed).* In the Five of Cups, a man mournfully regards five spilled cups which represent perhaps loss or personal failure. Behind him, a bridge leads over a river to a small castle; the implication is that his obsession with the spilled cups prevents him from moving on. Reversed, the card
 
 ## IV. <a href="#toc">Portrait</a><a id="sec-4" name="sec-4"></a>
 
