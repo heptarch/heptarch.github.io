@@ -53,7 +53,11 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 
 *Spread.* Knight of Cups, Ace of Wands (reversed), Five of Cups (reversed).
 
-*Mind.*
+*Mind (Knight of Cups).*
+
+*Body (Ace of Wands, reversed).*
+
+*Spirit (Five of Cups, reversed).*
 
 ## IV. <a href="#toc">Portrait</a><a id="sec-4" name="sec-4"></a>
 
