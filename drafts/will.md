@@ -29,7 +29,10 @@ CFW has some interesting corollaries for simulation arguments. The idea is that,
 
 Short-term prediction perhaps implies short-term interventions. The simulators, in other words, might be able to influence decisions after all, provided they can pinpoint the relevant branching of the decision process. In order to protect CFW, we makes the following hypothesis:
 
+<div style="background-color: #212433 ; padding: 20px; border: 0px solid
+grey; line-height:1.5; border-radius: 15px">
 **CFW hypothesis.** It is computationally hard to determine when small (neuronal-scale) interventions will influence a decision in a brain.
+</div>
 
 By "computationally hard", I mean "infeasible for simulators", which probably translates to $\textsf{NP}$-hard for a suitable discretization of the problem. To be clear, I have no idea if this is true. But I would like it to be true so that, on the off chance we live in a simulation, we are immune to certain types of manipulation. 
 
