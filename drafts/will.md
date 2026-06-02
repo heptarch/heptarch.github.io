@@ -19,7 +19,7 @@ $$
 
 If brains are complex systems which exhibit chaos, their behaviour—made particularly stark in domains such as decision-making—may be mathematically impossible to predict. I call this *computational free will (CFW)* since it confers an effective (if rudimentary) form of free will.
 
-Fundamental unpredictability also appears in quantum-mechanical accounts of free will, and is philosophically unsatisfying in a deep way: you are not really free if your decisions are made by a roll of the quantum-mechanical dice. CFW is more interesting in that, if the SOC story holds, the brain can potentially make *non-random* but unpredictable decisions by maintaining proximity to various basins of attraction. This depends to some extent on the SOC hypothesis or *critical brain hypothesis* (see for instance Chialvo's review ["Emergent complex neural dynamics"](https://arxiv.org/abs/1010.2530)), but the idea that the brain is a complex system exhibiting Lyapunov chaos is a more defensible position. Either way, let's just accept the thesis of CFW for now and see where it leads us.
+Fundamental unpredictability also appears in quantum-mechanical accounts of free will, and is philosophically unsatisfying in a deep way: you are not really free if your decisions are made by a roll of the quantum-mechanical dice. CFW suffers from a similar issue on the philosophical front, but kicks the can down the road to the question: how does the emergent process of decision-making, and the various basins of attraction, actually work? This depends on the SOC hypothesis or *critical brain hypothesis* (see for instance Chialvo's review ["Emergent complex neural dynamics"](https://arxiv.org/abs/1010.2530)), but we can also restrict ourselves to the more defensible, but less satisfying, idea that the brain is a complex system exhibiting Lyapunov chaos. Either way, we'll accept CFW for now and see where it leads us.
 
 ## Simulations
 
@@ -37,7 +37,7 @@ grey; line-height:1.5; border-radius: 15px">
 By "computationally hard", I mean "infeasible for simulators", which may translate to $\textsf{NP}$-hard for a suitable discretization of the problem.
 Put differently, we expect that decision processes in brains are robust to local perturbations, so there is something "topological" at play, a general shape to the decision that is immune to the corruption of local details.
 
-Why should this be true? At a basic level, if the critical brain hypothesis is true, 
+Why should this be true? At first blush, if the critical brain hypothesis is true, then decisions are an emergent process that 
 
 ## Quantum mechanics
 
