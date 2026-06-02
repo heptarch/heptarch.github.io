@@ -335,10 +335,10 @@ $$
 where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy (related to the asymmetry of K-points), and hence at the nodal point the density of states vanishes. Applying a perpendicular magnetic field $B$ quantizes the energy spectrum into Landau levels, and the $n = 0$ Landau level nas nonzero density. Technically, the density takes the form of a Dirac delta function, but sample impurities, electron-phonon scattering, and other defects broaden this delta to give a ground state density
 
 $$
-\rho(E = 0) = \frac{g_s g_v eB}{h\Gamma}
+\rho(E = 0) = \frac{g_s g_v B}{\Phi_0\Gamma}
 $$
 
-for finite energy width $\Gamma$. Although this ground state is typically highly degenerate, by tuning these parameters, we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it.
+for finite energy width $\Gamma$ and the magnetic flux quantum $\Phi_0 = h/e$. Although this ground state is typically highly degenerate, by tuning these parameters, we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it.
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
