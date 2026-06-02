@@ -326,7 +326,7 @@ $\blacksquare$
 
 ## XIII. <a href="#toc">Exercise (in style)</a><a id="sec-13" name="sec-13"></a>
 
-**Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
+<!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
 **Lemma.** Two fermionic quasiparticles cannot occupy the same state. If particle $A$ displaces particle $B$ from state $\mathbf{k}_0$, then $B$ must propagate to an unoccupied state $\mathbf{k}_1 \neq \mathbf{k}_0$. In the low-temperature limit, $B$ localises at the nearest available minimum; at finite temperature, thermal fluctuations permit occupation of higher-energy states.
 
@@ -334,7 +334,7 @@ $\blacksquare$
 
 **Definition.** A *mass term* $m^\ast$ gaps the Dirac cone, lifting the degeneracy at the nodal point and opening a band gap $\Delta E = 2m^\ast v_F^2$. This is equivalent to the breaking of a symmetry by the introduction of an external perturbation.
 
-**Observation.** A localized perturbation of the form $V(\mathbf{r}) = V_0\delta(\mathbf{r} - \mathbf{r}_0)$ was subsequently applied to particle $B$'s outer boundary layer. The effect on the bulk band structure is negligible.
+**Observation.** A localized perturbation of the form $V(\mathbf{r}) = V_0\delta(\mathbf{r} - \mathbf{r}_0)$ was subsequently applied to particle $B$'s outer boundary layer. The effect on the bulk band structure is negligible. -->
 
 ## XIV. <a href="#toc">Fugue</a><a id="sec-14" name="sec-14"></a>
 
