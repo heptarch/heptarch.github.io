@@ -11,5 +11,5 @@ date:  2026-06-03
 
 ## Introduction
 
-
+People often treat simulations as an epistemic black box: any sufficiently advanced simulation is indistinguishable from reality.
 
