@@ -62,7 +62,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 
 In this context, they suggest that, by virtue of creativity and imaginative force, the collection will confer life on an otherwise lifeless subject. This will be of a predominantly cerebral character, if we are to take the association with "mind" seriously.
 
-*Body (Ace of Wands, reversed).* The Ace of Wands is a 
+*Body (Ace of Wands, reversed).* The Ace of Wands is a powerful symbol of inspiration, growth (note the leaves), and potential, reinforced by the linear symbol of the wand.
 
 *Spirit (Five of Cups, reversed).*
 
