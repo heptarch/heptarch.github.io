@@ -374,7 +374,9 @@ If the perturbation has zero monopole moment, the second integral vanishes and t
 	</div>
 	</figure>
     
-The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures delineated in the background joined like planks of wood. This playful association is typical of Klee, but goes deeper. In 1922, Klee had begun to develop ideas about polyphonic painting, and the joinery of the fugue—its method of development by repetition and variation of material—was planting the seed for his own approach to colour in art. Of this piece, he writes in his diary: "Rather than strict repetition of structure, we note both parallel variations and joining of adjacent forms. These are the two dynamical means by which fugue achieves its effect, perceived here with the eye rather than the ear." The significance of the *zapfen* themselves remains unknown.
+The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures delineated in the background joined like planks of wood. This playful association is typical of Klee, but goes deeper. In 1922, Klee had begun to develop ideas about polyphonic painting, and the joinery of the fugue—its method of development by repetition and variation of material—was planting the seed for his own approach to colour in art.
+
+Of this piece, he writes in his diary: "Rather than strict repetition of structure, we note both parallel variations and joining of adjacent forms. These are the two dynamical means by which fugue achieves its effect, perceived here with the eye rather than the ear." The significance of the *zapfen* themselves remains unknown.
 
 ## XVI. <a href="#toc">Performance</a><a id="sec-16" name="sec-16"></a>
 
