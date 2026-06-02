@@ -58,7 +58,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 	</div>
 	</figure>
 
-*Mind (Knight of Cups).* The Knight of Cups holds aloft an inverted cone, almost like an offering.
+*Mind (Knight of Cups).* The Knight of Cups holds aloft an inverted cone, almost like an offering, and proceeds with calm self-assurance.
 
 *Body (Ace of Wands, reversed).*
 
