@@ -386,6 +386,8 @@ In this piece, Rubenstein films himself assembling a large cone out of cardboard
 
 After the objects have been pulverized, Rubenstein awakes, gathers the shavings, and smelts them into a small cone which he places inside the large one. At this point, the process of "formal elaboration" is complete and he can go to sleep again. Rubenstein: "I wanted to enact the creative process rather than talk about it, or in Austinian terms, to concentrate on the illocutionary aspects... 'Formal elaboration' was just a means of producing illocutionary pressure, that tendency to the performative inherent in all artistic utterance." On the objects: "As artists, we consume and transfigure the objects of our attention, that was part of the illocutionary contract I wanted to figure. The cones—both small and large—represent this transformative self-utterance."
 
+Rubenstein will re-enact this "creative illocutionary" in Nowhen Gallery, Level 3, on Sunday, July 26. Masks will be provided to avoid the inhalation of swarf.
+
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
 *Case.*
