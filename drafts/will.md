@@ -17,7 +17,7 @@ $$
 \delta x(t) \approx e^{\lambda t}\delta x(0).
 $$
 
-If brains are complex systems which exhibit chaos, their behaviour—made particularly stark in domains such as decision-making—may be mathematically impossible to predict. I call this *computational free will (CFW)* since it confers an effective (if rudimentary) form of free will on brains.
+If brains are complex systems which exhibit chaos, their behaviour—made particularly stark in domains such as decision-making—may be mathematically impossible to predict. I call this *computational free will (CFW)* since it confers an effective (if rudimentary) form of free will.
 
 Fundamental unpredictability appears in quantum-mechanical accounts of free will as well, and is a little philosophically unsatisfying; you are not really free if your decisions result from a roll of chaos of the quantum-mechanical dice. What is more interesting is that, if the SOC story holds, the brain can make *meaningful* but unpredictable decisions by maintaining proximity to various basins of attraction. I'll explore this in depth another time. For now, let's just accept the thesis of CFW, philosophical warts and all.
 
