@@ -380,7 +380,9 @@ The title of this piece is a pun meaning both "fugue of cones" and "mortise and 
 
 Jeremiah Rubenstein (1986–) <br>
 *Swarf Ritual,* 2026 <br>
-Analogue video, metal shavings, cardboard, buckets.
+Analogue video, lathe, 3d-printed aluminium objects, conveyer belt, cardboard, buckets.
+
+In this challenging piece, Rubenstein films himself assembling a large cone out of cardboard, which he then retreats inside and falls asleep. Meanwhile, an inverted plastic cone holds a number of powder bed 3d-printed objects, including a hypercube,  
 
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
