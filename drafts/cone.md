@@ -332,7 +332,7 @@ $$
 \rho(E) = \frac{g_s g_v |E|}{2\pi(\hbar v_F)^2},
 $$
 
-where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy (related to the asymmetry of K-points), and hence at the nodal point the density of states vanishes. Applying a perpendicular magnetic field quantizes the energy spectrum into Landau levels, and the zeroth level nas nonzero density, $\rho(E = 0) \neq 0$. Technically, the density is a Dirac delta function, but sample impurities, electron-phonon scattering, and other defects broaden this delta to give a density of the form
+where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy (related to the asymmetry of K-points), and hence at the nodal point the density of states vanishes. Applying a perpendicular magnetic field $B$ quantizes the energy spectrum into Landau levels, and the $n = 0$ Landau level nas nonzero density. Technically, the density takes the form of a Dirac delta function, but sample impurities, electron-phonon scattering, and other defects broaden this delta to give a ground state density
 
 $$
 \rho(E = 0) = \frac{g_s g_v eB}{h\Gamma}
