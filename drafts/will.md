@@ -27,7 +27,7 @@ CFW has some interesting corollaries for simulation arguments. The idea is that,
 
 "Guarantee" is perhaps too strong. If we are simulated, the speed of the simulation can change, like lag in a video game. This latency could account for heavier computational processes, and relatedly, a regime of short-term analytic prediction using Lyapunov-unstable equations our simulators use to anticipate and schedule computational load. There is no way to tell from "inside" the simulation how fast it is being run (or if it run sequentially at all, a la [Greg Egan](https://www.gregegan.net/PERMUTATION/Permutation.html)), so it is experientially entirely consistent that there is a short-term prediction market in the simulation infrastructure.
 
-Short-term prediction perhaps implies short-term interventions. The simulators, in other words, might be able to influence decisions after all, provided they can pinpoint the relevant branching of the decision process. In order to protect CFW, we makes the following hypothesis:
+Short-term prediction perhaps implies short-term interventions. The simulators, in other words, might be able to influence decisions after all, provided they can pinpoint the relevant branching of the decision process. In order to protect CFW, we make the following hypothesis:
 
 <div style="background-color: #212433 ; padding: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
