@@ -62,7 +62,9 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 
 In this context, they suggest that, by virtue of creativity and imaginative force, the collection will confer life on an otherwise lifeless subject. This will be of a predominantly cerebral character, if we are to take the association with "mind" seriously.
 
-*Body (Ace of Wands, reversed).* The Ace of Wands is a powerful symbol of inspiration, growth (note the leaves), and potential, reinforced by the linear symbol of the wand and the mysterious apparation of the hand holding it. In the distance, a mountain peak suggests future hardship which the initial impetus may carry us toward. Reversed, the card can mean many things: directionlessness, procrastination, missed opportunies, or 
+*Body (Ace of Wands, reversed).* The Ace of Wands is a powerful symbol of inspiration, growth (note the leaves), and potential, reinforced by the linear symbol of the wand and the mysterious apparation of the hand holding it. In the distance, a mountain peak suggests future hardship which the initial impetus may carry us toward. Reversed, the card can mean many things: directionlessness, procrastination, or execution without a plan.
+
+Here, it suggests that the "body" of the work may be disorganized, lack direction, structure, 
 
 *Spirit (Five of Cups, reversed).*
 
