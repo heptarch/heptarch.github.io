@@ -332,7 +332,13 @@ $$
 \rho(E) = \frac{g_s g_v |E|}{2\pi(\hbar v_F)^2},
 $$
 
-where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy (related to the asymmetry of K-points), and hence at the nodal point the density of states vanishes.
+where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy (related to the asymmetry of K-points), and hence at the nodal point the density of states vanishes. Applying a perpendicular magnetic field quantizes the energy spectrum into Landau levels, and the zeroth level nas nonzero density, $\rho(E = 0) \neq 0$. Technically, the density is a Dirac delta function, but sample impurities, electron-phonon scattering, and other defects broaden this delta to give a density of the form
+
+$$
+\rho(E = 0) = \frac{g_s g_v eB}{h\Gamma}
+$$
+
+for finite energy width $\Gamma$. By tuning these parameters, we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it.
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
@@ -426,6 +432,8 @@ So what is left? A warm pile of metal shavings.
 - https://asc-planetarynames-data.s3.us-west-2.amazonaws.com/europa_15m_100ppi.pdf
 - https://digital.library.unt.edu/ark:/67531/metadc1279277/m2/1/high_res_d/10117359.pdf
 - https://pzwiki.wdka.nl/mw-mediadesign/images/a/a2/Raymond_Queneau_Exercises_in_Style.pdf
+- https://interlude.hk/paul-klee-fugue-red/
+- https://www.robertnajlis.com/blog/klee-music-polyphony/
 
 What matters is drawing the enso of cone/no-cone. Draw it and shut up!
 
