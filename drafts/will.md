@@ -23,4 +23,4 @@ Fundamental unpredictability also appears in quantum-mechanical accounts of free
 
 ## Simulations
 
-CFW has some interesting corollaries for simulation arguments. The idea is that, if we are simulated, most of our actions can only be predicted by the simulators in one way: running the simulation. This means that, whatever we choose to do, 
+CFW has some interesting corollaries for simulation arguments. The idea is that, if we are simulated, most of our actions can only be predicted by the simulators in one way: running the simulation. For the same reason, it's impossible for them to mildly perturb us to make a given decision; the result will remain unpredictable. If they want us to make a given choice, they have to make violent, large-scale interventions which leave a trail of inconsistencies and which threaten the integrity of the simulation.
