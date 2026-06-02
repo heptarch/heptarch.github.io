@@ -127,7 +127,7 @@ blue-green shine on moss.
 
 This translation renders "empty mountain" as "void cone", a bizarre effort which results either from incompetence or deliberate subversion. It conjures not a lonely mountain but something abstract and possibly hallucinatory. "Blue-green" is an interesting choice for "青"; predominantly translated as "green", mixing in "blue" not only captures the shifting color tones of moss in afternoon light, but enhances the alien quality of the translation. In contrast, "yields on" abandons the notion of "return" in favour of a clumsy, grammatically ambiguous relation between light and grove. Overall, the monosyllabic free verse, lowercase, and numerous solecisms smack of Greenwich Village dilettantism rather than scholarly care.
 
-Regarding their choices, the translator does however make this comment: "The goal of translation is not to tidily capture the closest sense, but rather to imagine and project the rupture of the original in fresh language. 'Void cone' is, in this respect, not only a faithful but a necessary choice for the architecture of the poem." I think this is sufficiently absurd to refute itself.
+Regarding their choices, the translator does however make this comment: "The goal of translation is not to tidily capture the closest sense, but rather to imagine and project the rupture of the original in fresh language. 'Void cone' is, in this respect, not only faithful but necessary for the architecture of the poem." I think this is sufficiently absurd to refute itself.
 
 ## VIII. <a href="#toc">Plans</a><a id="sec-8" name="sec-8"></a>
 
