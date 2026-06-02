@@ -19,7 +19,7 @@ $$
 
 If brains are complex systems which can behave chaotically, their behaviour—made particularly stark in domains such a *decision-making*—may be mathematically impossible to predict. I call this "computational free will" since it means that it may be practically impossible to predict what someone will do, conferring on them an effective form of free will.
 
-I should note that fundamental unpredictability (a feature of quantum-mechanical accounts of free will as well) is a bit philosophically unsatisfying, since someone is not really free to choose as they will if it results from
+I should note that fundamental unpredictability (a feature also of quantum-mechanical accounts of free will) is a bit philosophically unsatisfying, since someone is not really free to choose if their decisions result from a roll of the complex system/quantum-mechanical dice.
 
 ## Simulations
 
