@@ -382,7 +382,7 @@ Jeremiah Rubenstein (1986–) <br>
 *Swarf Ritual,* 2026 <br>
 Analogue video, lathe, 3d-printed aluminium objects, conveyor belt, cardboard, cardboarding tools, dollar-store bucket, tipping mechanism ("nodder").
 
-In this piece, Rubenstein films himself assembling a large cone out of cardboard, complete with decorative finial, ventilation flaps, door, and other embellishments Rubenstein describes as "formal elaboration". Once the construction is complete, he then retreats inside and falls asleep. During this construciton process, a red bucket mounted on a ratcheting flywheel (called the "nodder") periodically tips small, powder-bed 3d-printed aluminium objects—including a tesseract, and so forth—onto a conveyor belt which carries them along the axis of a lathe. The lathe gradually reduces the object to shavings of aluminium or "swarf".
+In this piece, Rubenstein films himself assembling a large cone out of cardboard, complete with decorative finial, ventilation flaps, door, and other embellishments Rubenstein describes as "formal elaboration". Once the construction is complete, he then retreats inside and falls asleep. During this construciton process, a red bucket mounted on a ratcheting flywheel (called the "nodder") periodically tips small, powder-bed 3d-printed aluminium objects—including a tesseract, skull, ant, peasant boots, and so forth—onto a conveyor belt which carries them along the axis of a lathe. The lathe gradually reduces the object to shavings of aluminium or "swarf".
 
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
