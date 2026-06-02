@@ -347,7 +347,7 @@ Although this ground state is typically highly degenerate, by tuning these param
 Consider a local perturbation to the magnetic field, $\delta B(\mathbf{r})$, to the background magnetic field. By the *Aharonov-Casher Theorem*, the total number of zero-energy states is determined by the total flux threading the system,
 
 $$
-\Phi_\text{tot} = \iint B(\mathbf{r})\, \text{d}^2r = AB_0 + iint \delta B(\mathbf{r})\, \text{d}^2r .
+\Phi_\text{tot} = \iint B(\mathbf{r})\, \text{d}^2r = AB_0 + \iint \delta B(\mathbf{r})\, \text{d}^2r .
 $$
 
 If the perturbation has zero monopole moment, the second integral vanishes and the total density remains unchanged. The zeroth Landau level is thus topologically robust against dipolar perturbations.
