@@ -380,9 +380,9 @@ The title of this piece is a pun meaning both "fugue of cones" and "mortise and 
 
 Jeremiah Rubenstein (1986–) <br>
 *Swarf Ritual,* 2026 <br>
-Analogue video, lathe, 3d-printed aluminium objects, conveyer belt, cardboard, buckets.
+Analogue video, lathe, 3d-printed aluminium objects, conveyor belt, cardboard, buckets, tipping mechanism ("nodder").
 
-In this challenging piece, Rubenstein films himself assembling a large cone out of cardboard, which he then retreats inside and falls asleep. Meanwhile, an inverted plastic cone holds a number of powder bed 3d-printed objects, including a hypercube,  
+In this piece, Rubenstein films himself assembling a large cone out of cardboard, complete with decorative finial, ventilation flaps, a floor, and other embellishments Rubenstein describes as "faux-luxury". Once the construction is complete, he then retreats inside and falls asleep. While constructing the cone, a red bucket mounted on a series of cogwheels (called the "nodder") periodically tips small powder-bed printed aluminium objects—including a tesseract, a wimple, three-legged dog, rune-inscribed cenotaph, and so forth—onto a conveyor bel
 
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
