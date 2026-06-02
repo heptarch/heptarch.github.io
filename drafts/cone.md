@@ -54,7 +54,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/spread.png" width="600"/>
-	<figcaption><br><i>Knight of Cups, Ace of Wands (reversed), Five of Cups (reversed)..</i></figcaption>
+	<figcaption><br><i>Knight of Cups, Ace of Wands (reversed), Five of Cups (reversed).</i></figcaption>
 	</div>
 	</figure>
 
