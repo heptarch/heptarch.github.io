@@ -432,8 +432,8 @@ So what is left? A warm pile of metal shavings.
 - ~~Bach / developing echos of form / Klee~~
 - ~~Exam design / dunce cap~~
 - ~~Boulee-style monolith? scifi? structural properties~~
-- Kinetic blow-up
-- Panopticon
+- Kinetic blow-up?
+- ~~Panopticon~~
 - ~~Zen? Something about Enso (conclusion)~~
 
 ## References
