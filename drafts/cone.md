@@ -326,6 +326,8 @@ $\blacksquare$
 
 ## XIII. <a href="#toc">Exercise (in style)</a><a id="sec-13" name="sec-13"></a>
 
+Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
+
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
 **Lemma.** Two fermionic quasiparticles cannot occupy the same state. If particle $A$ displaces particle $B$ from state $\mathbf{k}_0$, then $B$ must propagate to an unoccupied state $\mathbf{k}_1 \neq \mathbf{k}_0$. In the low-temperature limit, $B$ localises at the nearest available minimum; at finite temperature, thermal fluctuations permit occupation of higher-energy states.
