@@ -2,13 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Machine creativity"
+title:  "Computational free"
 categories: [AI, writing, art, philosophy]
-date:  2023-01-17
+date:  2026-06-03
 ---
 
-**January 17, 2023.** *I wrote a book! Also some half-assed
-  reflections on machine creativity.*
+**June 3, 2026.** *Mining an unexpected connection between free will and simulation.*
 
 ## Introduction
 ---
