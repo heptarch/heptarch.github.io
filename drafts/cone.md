@@ -380,11 +380,11 @@ The title of this piece is a pun meaning both "fugue of cones" and "mortise and 
 
 Jeremiah Rubenstein (1986–) <br>
 *Swarf Ritual,* 2026 <br>
-Analogue video, lathe, 3d-printed aluminium objects, conveyor belt, cardboard, cardboarding tools, dollar-store bucket, flywheel ratchet ("nodder").
+Analogue video, lathe, 3d-printed aluminium objects, conveyor belt, cardboard, cardboarding tools, dollar-store bucket, flywheel ratchet ("nodder"), smelter.
 
 In this piece, Rubenstein films himself assembling a large cone out of cardboard, complete with decorative finial, ventilation flaps, door, and other embellishments Rubenstein describes as "formal elaboration". Once the construction is complete, he then retreats inside and falls asleep. During this construciton process, a red bucket mounted on a ratcheting flywheel (called the "nodder") periodically tips small, powder-bed 3d-printed aluminium objects—including a tesseract, skull, ant, peasant boots, and so forth—onto a conveyor belt which carries them along the axis of a lathe. The lathe gradually reduces the object to shavings of aluminium or "swarf".
 
-After the objects 
+After the objects have been pulverized, Rubenstein awakes, gathers the shavings, and smelts them into a small cone which he places inside the large one. At this point, the process of "formal elaboration" is complete and he can go to sleep again. Rubenstein: "I wanted to enact the creative process"
 
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
