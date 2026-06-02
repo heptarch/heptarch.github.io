@@ -11,5 +11,4 @@ date:  2026-06-03
 
 ## Introduction
 
-
-
+Chaos is usually applied to complex systems like chemical admixtures, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to some theories, maintains 
