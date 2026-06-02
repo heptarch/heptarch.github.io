@@ -51,8 +51,6 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 
 *Querent.* What is this collection about?
 
-*Spread.*
-
 <figure>
     <div style="text-align:center"><img src
     ="/img/posts/spread.png" width="600"/>
