@@ -377,7 +377,6 @@ Of the blackbird;<br>
 Nor do they adumbrate<br>
 The blackbird's wing.
 </span>
-
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wallace Stevens, *Addendum to* "Thirteen Ways"
 
 ## XVII. <a href="#toc">Coda</a><a id="sec-17" name="sec-17"></a>
