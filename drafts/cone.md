@@ -378,6 +378,10 @@ The title of this piece is a pun meaning both "fugue of cones" and "mortise and 
 
 ## XVI. <a href="#toc">Performance</a><a id="sec-16" name="sec-16"></a>
 
+Jeremiah Rubenstein (1986–) <br>
+*Swarf Ritual,* 2026 <br>
+Video, metal shavings, cardboard, buckets.
+
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
 *Case.*
