@@ -362,7 +362,7 @@ $$
 
 for finite energy width $\Gamma$ and *magnetic flux quantum* $\Phi_0 = h/e$.
 
-Note that the ground state degeneracy $N = \rho A = g_s g_v \Phi_\text{tot}/\Phi_0 = 1$ is fixed by the total flux $\Phi_\text{tot} = AB_0$. By tuning these parameters—resolving the spin and valley levels and threading a single flux quantum—we reach $N=1$, so that only a single fermionic state may occupy the zeroth Landau level by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature). Of course, at finite temperature a particle may initiate the jump to a higher Landau level even if the ground state is not occupied; accounts of the jump differ.
+Note that the ground state degeneracy $N = \rho A = g_s g_v \Phi_\text{tot}/\Phi_0$ is fixed by the total flux $\Phi_\text{tot} = AB_0$. By tuning these parameters—resolving the spin and valley levels and threading a single flux quantum—we reach $N=1$, so that only a single fermionic state may occupy the zeroth Landau level by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature). Of course, at finite temperature a particle may initiate the jump to a higher Landau level even if the ground state is not occupied; accounts of the jump differ.
 
 Consider a local perturbation $\delta B(\mathbf{r})$ to the background magnetic field. By the *Aharonov-Casher Theorem*, the total number of zero-energy states $N$ is still determined by the total flux $\Phi_\text{tot}$ threading the system,
 
