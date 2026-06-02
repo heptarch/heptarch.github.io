@@ -338,7 +338,7 @@ $$
 \rho(E = 0) = \frac{g_s g_v B}{\Phi_0\Gamma}
 $$
 
-for finite energy width $\Gamma$ and the magnetic flux quantum $\Phi_0 = h/e$. Although this ground state is typically highly degenerate, by tuning these parameters, we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature).
+for finite energy width $\Gamma$ and the magnetic flux quantum $\Phi_0 = h/e$. Although this ground state is typically highly degenerate, by tuning these parameters (weak field limit), we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature).
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
