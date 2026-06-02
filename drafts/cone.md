@@ -64,7 +64,7 @@ In this context, they suggest that, by virtue of creativity and imaginative forc
 
 *Body (Ace of Wands, reversed).* The Ace of Wands is a powerful symbol of inspiration, growth (note the leaves), and potential, reinforced by the linear symbol of the wand and the mysterious apparation of the hand holding it. In the distance, a mountain peak suggests future hardship which the initial impetus may carry us toward. Reversed, the card can mean many things: directionlessness, procrastination, or execution without a plan.
 
-Here, it suggests that the "body" of the work may be disorganized, lacking direction or structure, or somewhat aimless. We should expect, then,  
+Here, it suggests that the "body" of the work may be disorganized, lacking direction or structure, or somewhat aimless. We should expect the collection to have a somewhat "improvised" quality. 
 
 *Spirit (Five of Cups, reversed).*
 
