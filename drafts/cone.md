@@ -350,7 +350,7 @@ $$
 \Phi_\text{tot} = \iint B(\mathbf{r})\, \text{d}^2r = AB_0 + \iint \delta B(\mathbf{r})\, \text{d}^2r .
 $$
 
-If the perturbation has zero monopole moment, the second integral vanishes and the total density remains unchanged. The zeroth Landau level is thus topologically robust against dipolar perturbations.
+If the perturbation has zero monopole moment, the second integral vanishes and the total density remains unchanged. The zeroth Landau level is thus topologically robust against a large class of magnetic perturbations.
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
