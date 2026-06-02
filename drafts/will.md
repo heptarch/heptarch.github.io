@@ -34,7 +34,10 @@ grey; line-height:1.5; border-radius: 15px">
 <b>CFW hypothesis.</b> It is computationally hard to determine which small (neuron-scale) interventions will influence a decision.
 </div>
 
-By "computationally hard", I mean "infeasible for simulators", which probably translates to $\textsf{NP}$-hard for a suitable discretization of the problem. In general, the critical brain hypothesis suggests *no* neuronal interventions can change a decision since they are emergent. This hypothesis protects us from exceptions.
+By "computationally hard", I mean "infeasible for simulators", which may translate to $\textsf{NP}$-hard for a suitable discretization of the problem.
+Put differently, we expect that decision processes in brains are robust to local perturbations, so there is something "topological" at play, a general shape to the decision that is immune to the corruption of local details.
+
+Why should this be true? At a basic level, if the critical brain hypothesis is true, 
 
 ## Quantum mechanics
 
