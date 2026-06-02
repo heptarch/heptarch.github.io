@@ -334,7 +334,7 @@ $$
 
 where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy, related to the asymmetry of K-points. Hence, at the nodal point the density of states vanishes.
 
-Applying a perpendicular magnetic field $B_0$ quantizes the energy spectrum into Landau levels, and the $n = 0$ Landau level nas nonzero density. Technically, the density takes the form of a Dirac delta function, but sample impurities, electron-phonon scattering, and other defects broaden this delta to give a ground state density
+Applying a perpendicular magnetic field $B_0$ quantizes the energy spectrum into Landau levels, and the $n = 0$ Landau level has nonzero density. Technically, the density takes the form of a Dirac delta function, but sample impurities, electron-phonon scattering, and other defects broaden this delta to give a ground state density
 
 $$
 \rho(E = 0) = \frac{g_s g_v B_0}{\Phi_0\Gamma}
@@ -344,11 +344,13 @@ for finite energy width $\Gamma$ and *magnetic flux quantum* $\Phi_0 = h/e$.
 
 Although this ground state is typically highly degenerate, by tuning these parameters (weak field limit), we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature). Of course, at finite temperature a particle may initiate the jump to a higher Landau level even if the ground state is not occupied; accounts of the jump differ.
 
-Consider a local dipolar perturbation to the magnetic field, $\delta B(\mathbf{r})$, to the background magnetic field. Although the perturbation can redistribute states locally, the total number of zero-energy states is determined by the total flux threading the system,
+Consider a local perturbation to the magnetic field, $\delta B(\mathbf{r})$, to the background magnetic field. By the *Aharonov-Casher Theorem*, the total number of zero-energy states is determined by the total flux threading the system,
 
 $$
 \Phi_\text{tot} = \iint B(\mathbf{r})\, \text{d}^2r = AB_0 + iint \delta B(\mathbf{r})\, \text{d}^2r .
 $$
+
+If the perturbation has zero monopole moment, the second integral vanishes and the total density remains unchanged. The zeroth Landau level is thus topologically robust against dipolar perturbations.
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
