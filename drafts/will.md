@@ -11,7 +11,7 @@ date:  2026-06-03
 
 ## Introduction
 
-Chaos is usually applied to complex systems like chemical admixtures, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
+Chaos is usually applied to complex systems like chemical reactions, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
 
 $$
 \delta x(t) \approx e^{\lambda t}\delta x_0.
@@ -23,7 +23,7 @@ Fundamental unpredictability also appears in quantum-mechanical accounts of free
 
 ## Simulations
 
-CFW has some interesting corollaries for simulation arguments. The idea is that, if we are simulated, most of our actions can only be predicted by the simulators in one way: running the simulation. For the same reason, it's impossible for them to mildly perturb us to make a given decision; the result will remain unpredictable. If they want us to make a given choice, they have to make violent, large-scale interventions which leave a trail of inconsistencies and threaten the integrity of the simulation. This is one reason to think of unpredictability, in this instance, as "free will": it guarantees the absence of certain kinds of interference, the old "freedom from".
+CFW has some interesting corollaries for simulation arguments. The idea is that, if we are simulated, most of our actions can only be predicted by the simulators in one way: running the simulation. For the same reason, it's impossible for them to nudge us to make a given decision; the result will remain unpredictable. If they want us to make a given choice, they have to make violent, large-scale interventions which leave a trail of inconsistencies and threaten the integrity of the simulation. This is one reason to think of unpredictability, in this instance, as "free will": it guarantees the absence of certain kinds of interference, the old "freedom from" rather than "freedom to", to quote Isaiah Berlin.
 
 "Guarantee" is perhaps too strong. If we are simulated, the speed of the simulation can change, like lag in a video game. This latency could account for heavier computational processes, and relatedly, a regime of short-term analytic prediction using Lyapunov-unstable equations our simulators use to anticipate and schedule computational load. There is no way to tell from "inside" the simulation how fast it is being run (or if it run sequentially at all, a la [Greg Egan](https://www.gregegan.net/PERMUTATION/Permutation.html)), so it is experientially entirely consistent that there is a short-term prediction market in the simulation infrastructure.
 
