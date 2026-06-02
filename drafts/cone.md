@@ -64,7 +64,7 @@ In this context, they suggest that, by virtue of creativity and imaginative forc
 *Body (Ace of Wands, reversed).* The Ace of Wands is a powerful symbol of inspiration, growth (note the leaves), and potential, reinforced by the linear symbol of the wand and the mysterious apparation of the hand holding it. In the distance, a mountain peak suggests future hardship which the initial impetus may carry us toward. Reversed, the card can mean many things: directionlessness, procrastination, or execution without a plan.
 Here, it suggests that the "body" of the work may be disorganized, lacking direction and structure, or somewhat aimless. More charitably, the collection might have a somewhat spontaneous and improvised quality. 
 
-*Spirit (Five of Cups, reversed).* In the Five of Cups, a man mournfully regards five spilled cups which represent perhaps loss or personal failure. Behind him, a bridge leads over a river to a small castle; the implication is that his obsession with the spilled cups prevents him from moving on. Reversed, the card can symbolize the very act of moving on,
+*Spirit (Five of Cups, reversed).* In the Five of Cups, a man mournfully regards five spilled cups which represent perhaps loss or personal failure. Behind him, a bridge leads over a river to a small castle; the implication is that his obsession with the spilled cups prevents him from moving on. Reversed, the card can symbolize the very act of moving on, self-forgiveness, 
 
 ## IV. <a href="#toc">Portrait</a><a id="sec-4" name="sec-4"></a>
 
