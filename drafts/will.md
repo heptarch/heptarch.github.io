@@ -11,7 +11,7 @@ date:  2026-06-03
 
 ## Introduction
 
-Chaos is usually applied to complex systems like chemical admixtures, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to some theories, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x(0)$ in a parameter $x$ grows exponentially in time: 
+Chaos is usually applied to complex systems like chemical admixtures, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x(0)$ in a parameter $x$ grows exponentially in time: 
 
 $$
 \delta x(t) \approx e^{\lambda t}\delta x(0).
@@ -19,7 +19,7 @@ $$
 
 If brains are complex systems which can behave chaotically, their behaviour—made particularly stark in domains such a *decision-making*—may be mathematically impossible to predict. I call this "computational free will" since it means that it may be practically impossible to predict what someone will do, conferring on them an effective form of free will.
 
-I should note that fundamental unpredictability (a feature also of quantum-mechanical accounts of free will) is a bit philosophically unsatisfying, since someone is not really free to choose if their decisions result from a roll of the complex system/quantum-mechanical dice.
+I should note that fundamental unpredictability (a feature also of quantum-mechanical accounts of free will) is a bit philosophically unsatisfying, since someone is not really free to choose if their decisions result from a roll of the complex-systematic or quantum-mechanical dice. What is more interesting is that, if the SOC story holds, the brain can make *meaningful* but unpredictable decisions by maintaining proximity to various basins of attraction. I'll explore this in depth another time. For now, let's just accept the thesis of computational free will, philosophically satisfying or not.
 
 ## Simulations
 
