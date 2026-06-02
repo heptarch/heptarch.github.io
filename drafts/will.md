@@ -19,7 +19,7 @@ $$
 
 If brains are complex systems which exhibit chaos, their behaviour—made particularly stark in domains such as decision-making—may be mathematically impossible to predict. I call this *computational free will (CFW)* since it confers an effective (if rudimentary) form of free will.
 
-Fundamental unpredictability also appears in quantum-mechanical accounts of free will, and is a tad philosophically unsatisfying; you are not really free if your decisions are made by a roll of chaos of the quantum-mechanical dice. CFW is more interesting in that, if the SOC story holds, the brain can make *meaningful* but unpredictable decisions by maintaining proximity to various basins of attraction. I'll explore this in depth another time, but for now, let's just accept the thesis of CFW, philosophical warts and all.
+Fundamental unpredictability also appears in quantum-mechanical accounts of free will, and is a tad philosophically unsatisfying; you are not really free if your decisions are made by a roll of the quantum-mechanical dice. CFW is more interesting in that, if the SOC story holds, the brain can make *meaningful* but unpredictable decisions by maintaining proximity to various basins of attraction. I'll explore this in depth another time, but for now, let's just accept the thesis of CFW, philosophical warts and all.
 
 ## Simulations
 
