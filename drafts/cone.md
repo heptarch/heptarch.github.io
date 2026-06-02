@@ -332,7 +332,7 @@ $$
 \rho(E) = \frac{g_s g_v |E|}{2\pi(\hbar v_F)^2},
 $$
 
-and hence at the nodal point the density vanishes.
+where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy (related to the asymmetry of K-points), and hence at the nodal point the density of states vanishes.
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
