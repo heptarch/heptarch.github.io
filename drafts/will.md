@@ -37,7 +37,7 @@ grey; line-height:1.5; border-radius: 15px">
 By "computationally hard", I mean "infeasible for simulators", which may translate to $\textsf{NP}$-hard for a suitable discretization of the problem.
 Put differently, we expect that decision processes in brains are robust to local perturbations, so there is something "topological" at play, a general shape to the decision that is immune to the corruption of local details.
 
-Why should this be true? At first blush, if the critical brain hypothesis is true, then decisions are an emergent process that do not depend on neuronal details but rather large-scale patterns of behaviour. This is very strong evidence that tweaking an activation here or there cannot affect the global firing pattern.
+Why should this be true? At first blush, if the critical brain hypothesis is true, then decisions are an emergent process that do not depend on neuronal details but rather large-scale patterns of behaviour. This is very strong evidence that tweaking an activation here or there cannot affect the global firing pattern. But it is not a proof; it would be reassuring to find an explicit example (for instance in the domain of [spin glasses](https://en.wikipedia.org/wiki/Spin_glass)) where the hypothesis can be rigorously proven, albeit about phase transitions for something which isn't a brain.
 
 ## Quantum mechanics
 
