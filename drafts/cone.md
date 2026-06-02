@@ -49,6 +49,8 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 
 ## III. <a href="#toc">Reading</a><a id="sec-3" name="sec-3"></a>
 
+*Querent.* What does this
+
 ## IV. <a href="#toc">Portrait</a><a id="sec-4" name="sec-4"></a>
 
 On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed amply against winter, sits at his desk scribbling nonsense in a leatherbound notebook and pausing, now and again, to let daydreams transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, stops writing, and takes his pipe from the bureau. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. Night after night, they talk; night after night, the spirit of natural philosophy sneaks into the crowded apartment and blesses them with insight; night after night, the gates to that glacial realm open.
