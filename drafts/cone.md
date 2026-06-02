@@ -338,7 +338,7 @@ $$
 \rho(E = 0) = \frac{g_s g_v eB}{h\Gamma}
 $$
 
-for finite energy width $\Gamma$. By tuning these parameters, we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it.
+for finite energy width $\Gamma$. Although this ground state is typically highly degenerate, by tuning these parameters, we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it.
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
 
