@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Seventeen Ways of Looking at a Cone"
+title:  "Nineteen Ways of Looking at a Cone"
 categories: []
-date:  2026-06-01
+date:  2026-06-02
 ---
 
-**June 1, 2026.** *A work in progress.*
+**June 2, 2026.** *A work in progress.*
 
 <span style="padding-left: 40px; display:block">
 You have a pile of warm metal shavings in the shape of a cone. Discuss.
@@ -19,21 +19,23 @@ You have a pile of warm metal shavings in the shape of a cone. Discuss.
 
 I. <a href="#sec-1"><i>Prelude</i></a><br>
 II. <a href="#sec-2"><i>Overture</i></a><br>
-III. <a href="#sec-3"><i>Portrait</i></a><br>
-IV. <a href="#sec-4"><i>Treatise</i></a><br>
-V. <a href="#sec-5"><i>Poem</i></a><br>
-VI. <a href="#sec-6"><i>Story</i></a><br>
-VII. <a href="#sec-7"><i>Translation</i></a><br>
-VIII. <a href="#sec-8"><i>Plans</i></a><br>
-IX. <a href="#sec-9"><i>Dialogue</i></a><br>
-X. <a href="#sec-10"><i>Institution</i></a><br>
-XI. <a href="#sec-11"><i>Exam</i></a><br>
-XII. <a href="#sec-12"><i>Proof</i></a><br>
-XIII. <a href="#sec-13"><i>Exercise</i></a><br>
-XIV. <a href="#sec-14"><i>Fugue</i></a><br>
-XV. <a href="#sec-15"><i>Koan</i></a><br>
-XVI. <a href="#sec-16"><i>Way</i></a><br>
-XVII. <a href="#sec-17"><i>Coda</i></a><br>
+III. <a href="#sec-3"><i>Reading</i></a><br>
+IV. <a href="#sec-4"><i>Portrait</i></a><br>
+V. <a href="#sec-5"><i>Treatise</i></a><br>
+VI. <a href="#sec-6"><i>Poem</i></a><br>
+VII. <a href="#sec-7"><i>Story</i></a><br>
+VIII. <a href="#sec-8"><i>Translation</i></a><br>
+XI. <a href="#sec-9"><i>Plans</i></a><br>
+X. <a href="#sec-10"><i>Dialogue</i></a><br>
+XI. <a href="#sec-11"><i>Institution</i></a><br>
+XII. <a href="#sec-12"><i>Exam</i></a><br>
+XIII. <a href="#sec-13"><i>Proof</i></a><br>
+XIV. <a href="#sec-14"><i>Exercise</i></a><br>
+XV. <a href="#sec-15"><i>Fugue</i></a><br>
+XVI. <a href="#sec-16"><i>Performance</i></a><br>
+XVII. <a href="#sec-17"><i>Koan</i></a><br>
+XVIII. <a href="#sec-18"><i>Way</i></a><br>
+XIX. <a href="#sec-19"><i>Coda</i></a><br>
 
 ---
 
@@ -41,12 +43,13 @@ XVII. <a href="#sec-17"><i>Coda</i></a><br>
 
 In his book *How to Teach Mathematics*, Steven G. Krantz cites the (probably apocryphal) question above as an example of "minimalist" exam design. It may be short, but to my mind, this is the opposite of minimalist. In its radical openness to interpretation, to freedom of response, it begs for creative exegesis in a way that standard exam questions—with their model answers, closed rubrics, and rote curricular adherence—do not. So, in the spirit of Wallace Stevens' <a href="https://www.poetryfoundation.org/poems/45236/thirteen-ways-of-looking-at-a-blackbird">"Thirteen Ways of Looking at a Blackbird"</a>, Phil Ording's <a href="https://press.princeton.edu/books/paperback/9780691218977/99-variations-on-a-proof?srsltid=AfmBOoqAyKZi5kRkS6kszhtvbwn51tx9a7L29wYlFa6BXGXZUjoDHoqW"><i>99 Variations on a Proof</i></a>, Queneau's <a href="https://en.wikipedia.org/wiki/Exercises_in_Style"><i>Exercises in Style</i></a>, and <a href="https://en.wikipedia.org/wiki/Nineteen_Ways_of_Looking_at_Wang_Wei"><i>Nineteen Ways of Looking at Wang Wei</i></a> by Eliot Weinberger, I propose a variation on one of my favourite themes: variations on a theme. With that self-reflexive flourish, let us begin.
 
-
 ## II. <a href="#toc">Overture</a><a id="sec-2" name="sec-2"></a>
 
 A cone is a naturally poetic form: it radiates outward from a point, conveying by means of space what a stone dropped in a pond does through time; it is a spatial ripple. We will let this ripple carry us radially away from the object of our meditations and into the diverse realms of literature, poetry, philosophy, math, physics, architecture, engineering, and beyond. We should be careful not to dismiss the other features of the problem; the cone is made up of metal shavings, otherwise known as *swarf*. We will mass a number of cursive fragments to constitute our discourse, which are, so to speak, shored against our ruin. Finally, these shavings are warm. Statistically speaking, warmth is another name for molecular randomness, a variance in the behaviour of the constituent parts. Here, the parts will deviate from one another, but that deviation shall itself be lawlike. We contort the analogy no further.
 
-## III. <a href="#toc">Portrait</a><a id="sec-3" name="sec-3"></a>
+## III. <a href="#toc">Reading</a><a id="sec-3" name="sec-3"></a>
+
+## IV. <a href="#toc">Portrait</a><a id="sec-4" name="sec-4"></a>
 
 On the second floor of Kramgasse 49, a mild-mannered patent clerk, robed amply against winter, sits at his desk scribbling nonsense in a leatherbound notebook and pausing, now and again, to let daydreams transport him from Bern and into a realm of strange and glacial beauty. The candle burns low; he nods with finality, stops writing, and takes his pipe from the bureau. Mileva enters, smiling, pulls a chair beside his, and they go over the calculations together; she pausing to suggest, he to explain, crossing out a factor of $k_B$ here and introducing a factor of $c$ there, determining constants of motion or simplifying a proof. Night after night, they talk; night after night, the spirit of natural philosophy sneaks into the crowded apartment and blesses them with insight; night after night, the gates to that glacial realm open.
 
@@ -54,7 +57,7 @@ It is a winter of many gifts. Between the steady rhythm of the patent office and
 
 What purpose indeed? Perhaps, our clerk thinks, science is simply aesthetic law revealed unto mortals as moral law was in earlier times: science as art, fashioned from truth but clothed in whatever means of revelation He elects. The clerk's private hieroglyphs begin to parade before him: a bright cone, devouring space; an elephant harried by mice; the heavy recoil of a musket; a glowing lump of swarf; a whirling bucket... A motley, all charged with that same conviction of aesthetic necessity, of secret agreement with the codices of nature. It would be the happy work of his lifetime to render into mathematics—that narrower bridge to God—all the imagery vouchsafed from that glacial world. Einstein to Mileva: "Perhaps simply to tell us a little of what He knows."
 
-## IV. <a href="#toc">Treatise</a><a id="sec-4" name="sec-4"></a>
+## V. <a href="#toc">Treatise</a><a id="sec-5" name="sec-5"></a>
 
 Borges, in his inimitable history *The Fearful Sphere of Pascal*, gives us the following Hermetic recipe: "God is an intelligible sphere, whose center is everywhere and whose circumference is nowhere." This anticipates in some respects cosmological models of the Big Bang, but there the picture is inverted, with matter confined to an expanding sphere whose circumference is everywhere and whose centre is nowhere; Hermes got the universe backwards. Treating it as a problem of metaphysical imagination rather than theology or physics, we see a subtler issue, namely that such a sphere, as stated, is not intelligible at all. A sphere is defined by its centre and radius, those points at fixed radial separation from the centre. Without locating either precisely, we cannot have a sphere, an objection made by both Albertelli and Aristotle. 
 
@@ -64,7 +67,7 @@ This summary remains ungraspable if we insist on picturing a sphere. Instead, im
 
 We forget, of course, that Parmenides, like Hermes, teaches that God is a sphere and not a circle. Stripped of its deist trappings, the true lesson is that reality is incomprehensible. The Hermetic mercury may not be caught; the cone is fearful after all.
 
-## V. <a href="#toc">Poem</a><a id="sec-5" name="sec-5"></a>
+## VI. <a href="#toc">Poem</a><a id="sec-6" name="sec-6"></a>
 
 <span style="padding-left: 40px; display:block">
 cruising nameless backstreets of <br>
@@ -96,7 +99,7 @@ But this is not a flat, Blakean critique of industry. "Cenotaph" evokes the gran
 
 This "voice" is another visual reference, this time to a painting by Magritte in which bisected silver spheres (resembling bells) float above a summer meadow. The parallel to the poem is clear: Platonic simplicity undercut by a sense of the uncanny, the alien presence of geometry in a natural setting. But the voice of space—a jingle, if we are to believe Magritte—is replaced in the poem by "keening", a wail for the dead, most likely for the "alien god" whose tomb this entire complex has become. The identity of this god and its cause of death remain an enigma.
 
-## VI. <a href="#toc">Story</a><a id="sec-6" name="sec-6"></a>
+## VII. <a href="#toc">Story</a><a id="sec-7" name="sec-7"></a>
 
 The Pyramid: a slate-blue frustum towering grimly over the Leix Chaos, the sliver of Agenor Linea visible to the south and a jungle of stelae crowding the entrance. Clipper II picked it up on the last flyby, so we manned Clipper III and set up habs a few clicks away; gravimetry confirms it extends miles into the permafrost, and laser spectroscopy that it's made of molybdenum, a metal only fused in supernovae. Xenos on the wire are split between tomb, nuclear dump and data repository... Your classic black monolith scenario. The geigers are background so far but a few metres of molybdenum will do that.
 
@@ -114,7 +117,7 @@ We set up a workshop next to the hab to smelt, fuse, solder, program. It is fun 
 
 After several lags, we have a working hypothesis: the Pyramid is entangled with the Centaurus transmitter, observing our efforts, and the consumed half got deleted from the signal in a totally causal fashion. But that would mean the Folks made a quantum network distributed over the scale of light years, a possibility that makes Cheng even more nervous than the Kardashev flex of harvesting an exploded star. But once you eliminate the impossible... We try to decode the remaining signal using random stelae—the output is in binary, since we just measure in the given polarizer basis—until one yields a noticeable drop in entropy. And then the signal stops.
 
-## VII. <a href="#toc">Translation</a><a id="sec-7" name="sec-7"></a>
+## VIII. <a href="#toc">Translation</a><a id="sec-8" name="sec-8"></a>
 
 <span style="padding-left: 40px; display:block">
 void cone; see no one <br>
@@ -128,7 +131,7 @@ This translation renders "empty mountain" as "void cone", a bizarre effort which
 
 Regarding their choices, the translator does however make this comment: "The goal of translation is not to tidily capture the closest sense, but rather to imagine and project the rupture of the original in fresh language. 'Void cone' is, in this respect, not only faithful but necessary for the architectonics of the poem." I think this is sufficiently absurd to refute itself.
 
-## VIII. <a href="#toc">Plans</a><a id="sec-8" name="sec-8"></a>
+## IX. <a href="#toc">Plans</a><a id="sec-9" name="sec-9"></a>
 
 *Form.* The exterior wall is cut out of aluminium sheet metal: a circle of radius $\ell = 5$ metres, with a sector subtending an angle or *conical deficit* $\alpha = 144^\circ$ excised. Folding the edges of the sector together creates a cone of radius and height
 
@@ -163,7 +166,7 @@ Some of the excised cladding can be repurposed to cope the edge of the face and 
 
 *Generator.* Joviothermal unit with feedline from aquifer. Proprietary.
 
-## IX. <a href="#toc">Dialogue</a><a id="sec-9" name="sec-9"></a>
+## X. <a href="#toc">Dialogue</a><a id="sec-10" name="sec-10"></a>
 
 *SALVIATI and SIMPLICIO are discussing the purpose of examination at the house of their host, the witty SAGREDO. The house, recently built according to plans laid out by SAGREDO himself, is rather unique. Both SALVIATI and SIMPLICIO are learned in the ways of pedagogy but disagree over the purpose of assessment.*
 
@@ -235,7 +238,7 @@ SAGREDO. <span style="padding-left: 40px; display:block">
 They may love merit, but in some cases it is an unhappy marriage. (*A pause.*) Pray friends, can you confine yourselves for a moment to Galileo's observation of the Jovian moons? I would be enlightened.
 </span>
 
-## X. <a href="#toc">Institution</a><a id="sec-10" name="sec-10"></a>
+## XI. <a href="#toc">Institution</a><a id="sec-11" name="sec-11"></a>
 
 *To:* --, Pro VC
 
@@ -259,7 +262,7 @@ Yours,
 
 --
 
-## XI. <a href="#toc">Exam</a><a id="sec-11" name="sec-11"></a>
+## XII. <a href="#toc">Exam</a><a id="sec-12" name="sec-12"></a>
 
 *One of the following will be randomly marked.*
 
@@ -287,7 +290,7 @@ Yours,
 (f) Model the resulting loss of shear strength as a *negative* effective cohesion in the sense of (d), fix its form up to a dimensionless constant by dimensional analysis, and substitute into your relation from (d) to obtain $⁡\theta_{\max}$ as a function of depth. Show that the free surface fluidizes first, and comment on the fate of the scale-invariance you found in part (a). </span>
 </span>
 
-## XII. <a href="#toc">Proof</a><a id="sec-12" name="sec-12"></a>
+## XIII. <a href="#toc">Proof</a><a id="sec-13" name="sec-13"></a>
 
 **Theorem.** If $x^3 - 6x^2 + 11x - 6 = 2x - 2$, then $x = 1$ or $x = 4$.
 
@@ -324,7 +327,7 @@ The remaining intersection is at $(x, y) = (4, 16)$, as we picture below:
 Thus, there are precisely two solutions, $x = 1$ and $x = 4$.
 $\blacksquare$
 
-## XIII. <a href="#toc">Exercise (in style)</a><a id="sec-13" name="sec-13"></a>
+## XIV. <a href="#toc">Exercise (in style)</a><a id="sec-14" name="sec-14"></a>
 
 Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert$ where $v_F$ is the *Fermi velocity*, yielding a pair of Dirac cones touching at a single nodal point. The density of states is given by
 
@@ -362,7 +365,7 @@ If the perturbation has zero monopole moment, the second integral vanishes and t
 
 **Observation.** A localized perturbation of the form $V(\mathbf{r}) = V_0\delta(\mathbf{r} - \mathbf{r}_0)$ was subsequently applied to particle $B$'s outer boundary layer. The effect on the bulk band structure is negligible. -->
 
-## XIV. <a href="#toc">Fugue</a><a id="sec-14" name="sec-14"></a>
+## XV. <a href="#toc">Fugue</a><a id="sec-15" name="sec-15"></a>
 
 <figure>
     <div style="text-align:center"><img src
@@ -373,7 +376,9 @@ If the perturbation has zero monopole moment, the second integral vanishes and t
     
 The title of this piece is a pun meaning both "fugue of cones" and "mortise and tenon joint", a basic method of joinery. Visually, these meanings play out across the canvas, with two central cones and various semicircles giving the fugue, and the blocky, elongated figures delineated in the background joined like planks of wood. This playful association is typical of Klee, but goes deeper. In 1922, Klee had begun to develop ideas about polyphonic painting, and the joinery of the fugue—its method of development by repetition and variation of material—was planting the seed for his own approach to colour in art. Of this piece, he writes in his diary: "Rather than strict repetition of structure, we note both parallel variations and joining of adjacent forms. These are the two dynamical means by which fugue achieves its effect, perceived here with the eye rather than the ear." The significance of the *zapfen* themselves remains unknown.
 
-## XV. <a href="#toc">Koan</a><a id="sec-15" name="sec-15"></a>
+## XVI. <a href="#toc">Performance</a><a id="sec-16" name="sec-16"></a>
+
+## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
 *Case.*
 <span style="padding-left: 40px; display:block">
@@ -394,7 +399,7 @@ This one plants a flag on a dungheap and cannot help but praise it; in pointing 
 *No name, no dungheap.*
 </span>
 
-## XVI. <a href="#toc">Way</a><a id="sec-16" name="sec-16"></a>
+## XVIII. <a href="#toc">Way</a><a id="sec-18" name="sec-18"></a>
 
 <span style="padding-left: 40px; display:block">
 Those spangles and curlicues <br>
@@ -405,7 +410,7 @@ The blackbird's wing.
 </span>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;– Wallace Stevens, *Addendum to* "Thirteen Ways"
 
-## XVII. <a href="#toc">Coda</a><a id="sec-17" name="sec-17"></a>
+## XIX. <a href="#toc">Coda</a><a id="sec-19" name="sec-19"></a>
 
 We have now viewed the cone from a variety of angles. It inflects, ripples, flourishes with affordance, and we emerge from the exercise having drawn forth unexpected themes and harmonics. But arguably, we never saw the cone at all: saw reflected back only the things that we brought to it, heard echo only the melody we whistled, bore only ourselves in its vessel. I write myself and only myself. Maybe there is no cone at all, just the apocryphal interrogative reimagined as a framing device: <!-- a nominalist fiction,--> the imaginary pivot around which the whole corpus revolves.
 
