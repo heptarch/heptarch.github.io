@@ -380,9 +380,9 @@ The title of this piece is a pun meaning both "fugue of cones" and "mortise and 
 
 Jeremiah Rubenstein (1986–) <br>
 *Swarf Ritual,* 2026 <br>
-Analogue video, lathe, 3d-printed aluminium objects, conveyor belt, cardboard, cardboarding tools, dollar-store bucket, tipping mechanism ("nodder").
+Analogue video, lathe, 3d-printed aluminium objects, conveyor belt, cardboard, cardboarding tools, dollar-store bucket, tipping mechanisms ("nodders").
 
-In this piece, Rubenstein films himself assembling a large cone out of cardboard, complete with decorative finial, ventilation flaps, a floor, and other embellishments Rubenstein describes as "faux-luxury". Once the construction is complete, he then retreats inside and falls asleep. While constructing the cone, a red bucket mounted on a series of cogwheels (called the "nodder") periodically tips small powder-bed printed aluminium objects—including a tesseract, wimple, three-legged dog, rune-inscribed cenotaph, and so forth—onto a conveyor belt, from which they deposited into a "cache" and a lath
+In this piece, Rubenstein films himself assembling a large cone out of cardboard, complete with decorative finial, ventilation flaps, a floor, and other embellishments Rubenstein describes as "faux-luxury". Once the construction is complete, he then retreats inside and falls asleep. While constructing the cone, a red bucket mounted on a series of cogwheels (called the "nodder") periodically tips small powder-bed printed aluminium objects—including a tesseract, wimple, three-legged dog, rune-inscribed cenotaph, and so forth—onto a conveyor belt, from which they deposited into a "cache" and a lathe on a larger nodder begins reducing the object to shavings of alumniun or "swarf".
 
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
