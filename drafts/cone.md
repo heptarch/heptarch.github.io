@@ -58,7 +58,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 	</div>
 	</figure>
 
-*Mind (Knight of Cups).* The Knight of Cups holds aloft an inverted cone, almost like an offering, and proceeds with calm self-assurance on his immaculate steed through the parched landscape. A river flows in the background, a reminder of new life, perhaps associated with the cup, and the wings attached to the knight's helm connote speed or the ability of flight. Together, these symbols represent the life-giving power of creativity and imagination, while the steed perhaps symbolizes purity of intent.
+*Mind (Knight of Cups).* The Knight of Cups holds aloft an inverted cone, almost like an offering, and proceeds with calm self-assurance on his immaculate steed through the parched landscape. A river flows in the background, a reminder of new life, perhaps associated with the cup, and the wings attached to the knight's helm connote speed or the ability of flight. Together, these symbols represent the life-giving power of creativity and imagination, while the unblemished steed perhaps symbolizes purity of intent.
 
 In this context, they suggest that, by virtue of creativity and imaginative force, the collection will confer life on an otherwise lifeless subject. This will be of a predominantly cerebral character, given the association with "mind".
 
