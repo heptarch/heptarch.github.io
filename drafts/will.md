@@ -25,7 +25,7 @@ Fundamental unpredictability also appears in quantum-mechanical accounts of free
 
 CFW has some interesting corollaries for simulation arguments. The idea is that, if we are simulated, most of our actions can only be predicted by the simulators in one way: running the simulation. For the same reason, it's impossible for them to mildly perturb us to make a given decision; the result will remain unpredictable. If they want us to make a given choice, they have to make violent, large-scale interventions which leave a trail of inconsistencies and threaten the integrity of the simulation. This is one reason to think of unpredictability, in this instance, as "free will": it guarantees the absence of certain kinds of interference, the old "freedom from".
 
-One simple 
+"Guarantee" may seem too strong. If we are simulated, the speed of the simulation can presumably change, like lag in a video game. This latency could account for heavier computational processes, or in this case, a regime of short-term analytic prediction using Lyapunov-unstable equations. This would allow simulators to anticipate and schedule computational load. It may seem like
 
 ## Quantum mechanics
 
