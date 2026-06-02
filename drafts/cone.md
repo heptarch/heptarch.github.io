@@ -332,7 +332,7 @@ $$
 \rho(E) = \frac{g_s g_v |E|}{2\pi(\hbar v_F)^2},
 $$
 
-where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy, related to the asymmetry of K-points. Hence, at the nodal point the density of states vanishes.
+where $g_s$ is spin degeneracy and $g_v$ is valley degeneracy, related to the inequivalence of K-points. Hence, at the nodal point the density of states vanishes.
 
 Applying a perpendicular magnetic field $B_0$ quantizes the energy spectrum into Landau levels, and the $n = 0$ Landau level has nonzero density. Technically, the density takes the form of a Dirac delta function, but sample impurities, electron-phonon scattering, and other defects broaden this delta to give a ground state density
 
@@ -342,9 +342,9 @@ $$
 
 for finite energy width $\Gamma$ and *magnetic flux quantum* $\Phi_0 = h/e$.
 
-Although this ground state is typically highly degenerate, by tuning these parameters (weak field limit), we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature). Of course, at finite temperature a particle may initiate the jump to a higher Landau level even if the ground state is not occupied; accounts of the jump differ.
+Note that the ground state degeneracy $N = \rho A = g_s g_v \Phi_\text{tot}/\Phi_0 = 1$ is fixed by the total flux $\Phi_\text{tot} = AB_0$. By tuning these parameters—resolving the spin and valley levels and thread a single flux quantum—we reach $N=1$, so that only a single fermionic state may occupy the zeroth Landau level by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature). Of course, at finite temperature a particle may initiate the jump to a higher Landau level even if the ground state is not occupied; accounts of the jump differ.
 
-Consider a local perturbation to the magnetic field, $\delta B(\mathbf{r})$, to the background magnetic field. By the *Aharonov-Casher Theorem*, the total number of zero-energy states is determined by the total flux threading the system,
+Consider a local perturbation $\delta B(\mathbf{r})$ to the background magnetic field. By the *Aharonov-Casher Theorem*, the total number of zero-energy states $N$ is still determined by the total flux $\Phi_\text{tot}$ threading the system,
 
 $$
 \Phi_\text{tot} = \iint B(\mathbf{r})\, \text{d}^2r = AB_0 + \iint \delta B(\mathbf{r})\, \text{d}^2r .
