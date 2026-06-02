@@ -344,10 +344,10 @@ for finite energy width $\Gamma$ and *magnetic flux quantum* $\Phi_0 = h/e$.
 
 Although this ground state is typically highly degenerate, by tuning these parameters (weak field limit), we can ensure that the zeroth Landau level has degeneracy $\rho(0) = 1$, so only a single fermionic state may occupy it by Pauli exclusion. A second electron will be displaced to either the next available Landau level (at zero temperature) or a higher Landau level $n$ with probability $\propto e^{-\beta E_n}$ (at finite temperature). Of course, at finite temperature a particle may initiate the jump to a higher Landau level even if the ground state is not occupied; accounts of the jump differ.
 
-Consider a local perturbation to the magnetic field, $\delta B(\mathbf{r})$, to the background magnetic field. The total number of zero-energy states is determined by the total flux threading the system,
+Consider a local dipolar perturbation to the magnetic field, $\delta B(\mathbf{r})$, to the background magnetic field. Although the perturbation can redistribute states locally, the total number of zero-energy states is determined by the total flux threading the system,
 
 $$
-\Phi_\text{tot} = \iint B(\mathbf{r})\, \text{d}^2r
+\Phi_\text{tot} = \iint B(\mathbf{r})\, \text{d}^2r = AB_0 + iint \delta B(\mathbf{r})\, \text{d}^2r .
 $$
 
 <!-- **Observation.** Consider a two-dimensional electron gas confined to a honeycomb lattice. Near the K-points of the Brillouin zone, the dispersion relation takes the linear form $E(\mathbf{k}) = \pm \hbar v_F \vert\mathbf{k}\vert,$ yielding a pair of Dirac cones touching at a single nodal point.
