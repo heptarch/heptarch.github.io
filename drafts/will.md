@@ -16,3 +16,5 @@ Chaos is usually applied to complex systems like chemical admixtures, bacterial 
 $$
 \delta x(t) = e^{\lambda t}\delta x(0).
 $$
+
+If brains are complex systems which can behave chaotically, their behaviour—made particularly stark in domains such a *decision-making*—may be mathematically impossible to predict. I call this "computational free will" since it means that, depending on the Lyapunov exponent, it may be practically impossible to predict what someone will do, conferring on them an effective form of free will. Yay!
