@@ -31,7 +31,7 @@ Short-term prediction perhaps implies short-term interventions. The simulators, 
 
 **CFW hypothesis.** It is computationally hard to determine when small (neuronal-scale) interventions will influence a decision in a brain.
 
-By "computationally hard", I mean "infeasible for simulators", which most plausibly means $\textsf{NP}$-hard for a suitable discretization of the problem. To be clear, I have no idea if this is true. But I would like it to be true so that, on the off chance we live in a simulation, we are immune to certain types of manipulation. 
+By "computationally hard", I mean "infeasible for simulators", which probably translates to $\textsf{NP}$-hard for a suitable discretization of the problem. To be clear, I have no idea if this is true. But I would like it to be true so that, on the off chance we live in a simulation, we are immune to certain types of manipulation. 
 
 ## Quantum mechanics
 
