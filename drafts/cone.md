@@ -59,7 +59,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 	</figure>
 
 *Mind (Knight of Cups).* The Knight of Cups holds aloft an inverted cone, almost like an offering, and proceeds with calm self-assurance through a parched landscape. A river flows in the background, a reminder of new life perhaps associated with the cup, and the wings attached to the knight's helm connote speed or the possibility of flight. Together, these symbols represent the life-giving power of creativity and imagination, while the unblemished steed symbolizes purity of intent.
-In this context, they suggest that, by virtue of creativity and imaginative force, the collection will confer life on an otherwise lifeless subject. This will be of a predominantly cerebral character, if we are to take the association with "mind" seriously.
+In this context, they suggest that, by virtue of creativity and imaginative force, the collection will confer life on an otherwise lifeless subject. This will be of a predominantly intellectual character, if we are to take the association with "mind" seriously.
 
 *Body (Ace of Wands, reversed).* The Ace of Wands is a powerful symbol of inspiration, growth (note the leaves), and potential, reinforced by the linear symbol of the wand and the mysterious apparition of the hand holding it. In the distance, a mountain peak suggests future hardship which the initial impetus may carry us toward and through. Reversed, the card can mean many things: directionlessness, procrastination, or execution without a plan.
 Here, it suggests that the "body" of the work may be disorganized, lacking direction and structure, or somewhat aimless. More charitably, the collection might have a somewhat spontaneous and improvised quality. 
