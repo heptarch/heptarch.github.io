@@ -17,6 +17,10 @@ $$
 \delta x(t) \approx e^{\lambda t}\delta x(0).
 $$
 
-If brains are complex systems which can behave chaotically, their behaviour—made particularly stark in domains such a *decision-making*—may be mathematically impossible to predict. I call this "computational free will" since it means that, depending on the Lyapunov exponent, it may be practically impossible to predict what someone will do, conferring on them an effective form of free will. Yay!
+If brains are complex systems which can behave chaotically, their behaviour—made particularly stark in domains such a *decision-making*—may be mathematically impossible to predict. I call this "computational free will" since it means that it may be practically impossible to predict what someone will do, conferring on them an effective form of free will.
+
+That said, fundamental unpredictability—a property also offered by quantum-mechanical accounts of free will—is philosophically unsatisfying.
 
 ## Simulations
+
+This has some interesting corollaries for simulation arguments.
