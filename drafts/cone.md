@@ -388,7 +388,7 @@ In this piece, Rubenstein films himself assembling a large cone out of cardboard
 
 After the objects have been pulverized, Rubenstein awakes, gathers the shavings, and smelts them into moulds which, after cooling, are placed in the bucket, re-initiating the cycle. At this point, the "episode" is complete and he can go to sleep again. Rubenstein: "I wanted to enact the creative process rather than talk about it, or in Austinian terms, to concentrate on the illocutionary aspects... 'Formal elaboration' was just a means of producing illocutionary pressure, that tendency to the performative inherent in all artistic utterance." On the objects: "As artists, we consume and transfigure the things we look at, and that was part of the illocutionary cycle I wanted to figure. You can think of it as autochthonous self-utterance."
 
-Rubenstein will re-enact this "cyclic illocutionary" and "autochthonous self-utterance" in Nowhen Gallery, Level 3, on Sunday, July 26. Masks will be provided to avoid the inhalation of swarf.
+Rubenstein will re-enact the "cyclic illocutionary" and "autochthonous self-utterance" of *Swarf Ritual* in Nowhen Gallery, Level 3, on Sunday, July 26. Masks will be provided to avoid the inhalation of swarf.
 
 ## XVII. <a href="#toc">Koan</a><a id="sec-17" name="sec-17"></a>
 
