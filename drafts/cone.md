@@ -49,7 +49,7 @@ A cone is a naturally poetic form: it radiates outward from a point, conveying b
 
 ## III. <a href="#toc">Reading</a><a id="sec-3" name="sec-3"></a>
 
-*Querent.* What is this collection about? (Mind/Body/Spirit)
+*Querent.* What is this collection about?
 
 *Spread.* Knight of Cups, Ace of Wands (reversed), Five of Cups (reversed).
 
