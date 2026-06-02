@@ -31,10 +31,10 @@ Short-term prediction seems to imply short-term interventions are possible after
 
 <div style="background-color: #212433 ; padding: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-<b>CFW hypothesis.</b> It is computationally hard to determine which small (neuronal-scale) interventions will influence a decision.
+<b>CFW hypothesis.</b> It is computationally hard to determine which small (neuron-scale) interventions will influence a decision.
 </div>
 
-By "computationally hard", I mean "infeasible for simulators", which probably translates to $\textsf{NP}$-hard for a suitable discretization of the problem. In general, the critical brain hypothesis suggests *no* neuronal-scale interventions can change a decision since they are emergent. This hypothesis protects us from exceptions.
+By "computationally hard", I mean "infeasible for simulators", which probably translates to $\textsf{NP}$-hard for a suitable discretization of the problem. In general, the critical brain hypothesis suggests *no* neuronal interventions can change a decision since they are emergent. This hypothesis protects us from exceptions.
 
 ## Quantum mechanics
 
