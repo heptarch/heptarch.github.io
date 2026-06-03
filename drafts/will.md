@@ -13,6 +13,8 @@ date:  2026-06-03
 
 Suppose we are living in a simulation. A disturbing possibility is that the simulators could be influencing our decisions, not by violent, large-scale interventions (these violate the integrity of the simulation), but by *nudging*: microchanges at the level of neurons or electro-cortical fields designed to induce certain outcomes. Simulators might do this because they are studying us, because they are "playing us" in some sort of video game (think *Being John Malkovich*), or because (as we will explore below) they want to guide towards cheaper regions of simulation space.
 
+We will explore from a few different perspectives mathematical reasons to think this is impossible. Those reasons are based on the assumption that 
+
 <!-- ## Introduction
 
 Chaos is usually applied to complex systems like chemical reactions, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
