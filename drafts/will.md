@@ -9,7 +9,7 @@ date:  2026-06-03
 
 **June 3, 2026.** *Mining an unexpected connection between free will and simulation.*
 
-## Introduction
+<!-- ## Introduction
 
 Chaos is usually applied to complex systems like chemical reactions, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
 
@@ -42,3 +42,5 @@ Why should this be true? At first blush, if the critical brain hypothesis is tru
 ## Quantum mechanics
 
 There is a more precise analogue of CFW in the realm of quantum mechanics. The [*No Fast Forwarding Theorem*](https://arxiv.org/pdf/1610.09619) of Atia and Aharanov
+
+-->
