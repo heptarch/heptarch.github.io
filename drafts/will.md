@@ -43,7 +43,7 @@ This doesn't prove that a good strategy doesn't exist; it just shows how hard th
 
 $$
 \begin{align}
-x_0 & overset{\text{cascade dynamics}{\longrightarrow} \text{original decision basin} \\ \delta x_0 + x_0 \overset{\text{cascade dynamics}}{\longrightarrow} \text{target decision basin}.
+x_0 & \overset{\text{cascade dynamics}}{\longrightarrow} \text{original decision basin} \\ \delta x_0 + x_0 \overset{\text{cascade dynamics}}{\longrightarrow} \text{target decision basin}.
 \end{align}
 $$
 
