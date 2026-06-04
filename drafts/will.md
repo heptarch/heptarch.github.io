@@ -23,7 +23,7 @@ $$
 \delta x(t) \approx e^{\lambda t}\delta x_0.
 $$
 
-This cuts two ways. It shows that short-term dynamics (on the order of $\lambda^{-1}$) is essentially unpredictable, so a 
+This cuts two ways. It shows that short-term dynamics (on the order of $\lambda^{-1}$) is essentially unpredictable (since errors in measurement grow exponentially), so simulators cannot have analytic control over brain states. 
 
 <!-- ## Introduction
 
