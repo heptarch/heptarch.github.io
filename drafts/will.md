@@ -35,7 +35,7 @@ $$
 \sum_{k=0}^n k^\ell \binom{N}{k} \sim  \frac{n^\ell N!}{n!(N - n)!} \sim \mathcal{O}\left[n^{\ell - 1/2} \left(\frac{eN}{n}\right)^n\right].
 $$
 
-This is $\mathcal{O}(N^n)$ for $n = \mathcal{O}(1)$ but large enough to apply Stirling's formula.
+This is $\mathcal{O}(N^n)$ for $n = \mathcal{O}(1)$ large (to apply Stirling's formula) but constant.
 
 <!-- ## Introduction
 
