@@ -83,7 +83,7 @@ $$
 f(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
 $$
 
-A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacane neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin submodularity; adding neurons need not help us end up in the target set.
+A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacane neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set.
 
 <!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
