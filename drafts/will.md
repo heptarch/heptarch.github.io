@@ -20,13 +20,14 @@ We will argue from a few different perspectives that influencing decisions in th
 A simple reason we might think that influencing a decision is hard is *chaos*. In its simple Lyapunov form, it says that an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
 
 $$
-\delta x(t) \approx e^{\lambda t}\delta x_0.
+\delta x(t) \approx e^{\lambda t}\delta x_0
 $$
 
-This cuts two ways. It shows that short-term dynamics (on the order of $\lambda^{-1}$) is essentially unpredictable (since errors grow exponentially), so simulators cannot have analytic control over brain states for finite-precision initial conditions.
+for *Lyapunov exponent* $\lambda$.
+This cuts two ways. It shows that short-term dynamics (on the order of the Lyapunov time $\lambda^{-1}$) is essentially unpredictable (since errors grow exponentially), so simulators cannot have analytic control over brain states for finite-precision initial conditions.
 
 The problem with this line of argument is that simulators presumably know brain states *exactly*, so they may well be able to predict future brain states. Worse, the sensitivity to initial conditions suggests that large changes, such as decisions, can indeed be induced by microscopic changes seeded early enough. This seems like a slam dunk for the simulators.
-But there is a difference between evolving a brain state and guiding it towards a target outcome. Random seeds lead to random outcomes
+But there is a difference between evolving a brain state and guiding it towards a target outcome. Random seeds lead to random outcomes; unless we can solve the *inverse problem* of determining the seed from the outcome, we are restricted to brute force search (analytic or otherwise) over the space of seeds.
 
 <!-- ## Introduction
 
