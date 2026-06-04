@@ -47,7 +47,7 @@ x_0 & \overset{\text{cascade dynamics}}{\longrightarrow} \text{original decision
 \end{align}
 $$
 
-The second component is a model of this cascade process. We will use a simplification called *Influence Maximization (IM)*, as formulated by [Kempe, Kleinberg and Tardos (2003)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
+We will employ a simplification of this cascade process called *Influence Maximization (IM)*, as formulated by [Kempe, Kleinberg and Tardos (2003)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
 
 <!-- ## Introduction
 
