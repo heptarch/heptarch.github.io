@@ -51,7 +51,7 @@ We will employ a simplification of this cascade process called *Influence Maximi
 At each time step, there is a set of *activated nodes* $\mathcal{X}_t$, with activation at time $t + 1$ determined locally by the in-directed neighbours at time $t$:
 
 $$
-[v \in \mathcal{X}_{t+1}] = M(N_\text{in}(v) \cap \mathcal{X}_t),
+[v \in \mathcal{X}_{t+1}] = M\left(N_\text{in}(v) \cap \mathcal{X}_t\right),
 $$
 
 where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket) and $M$ is an *information-diffusion process*.
