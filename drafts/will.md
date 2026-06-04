@@ -39,7 +39,7 @@ using Stirling's formula. This is exponential in both $N$ and $n$, which for $N 
 
 ## Influence maximization
 
-
+This doesn't prove that a good strategy doesn't exist; it just shows how hard the problem is when the worst strategy is used. To make progress on the question of good strategies, we need to commit to a more concrete computational model of the problem at hand. 
 
 <!-- ## Introduction
 
