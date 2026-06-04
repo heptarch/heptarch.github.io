@@ -73,7 +73,7 @@ $$
 S^* = \arg\max_{|S| \leq n} \sigma(S).
 $$
 
-There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *monotone submodular*, i.e., we are maximizing some global monotone, and adding seed neurons always helps. The existence of the greedy strategy seems to suggest that coarse, suboptimal influence is still possible.
+There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *monotone submodular*, i.e., we are maximizing some global monotone, and adding seed neurons always helps. The existence of the greedy strategy—not to mention advertising, instafame, and professional spin doctors—seems to suggest that coarse, suboptimal influence is still possible.
 
 ## Targeted cascades
 
