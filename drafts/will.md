@@ -47,7 +47,7 @@ x_0 & \overset{\text{cascade}}{\longrightarrow} \text{original decision basin} \
 \end{align}
 $$
 
-We will employ a simplification of this cascade process called *Influence Maximization (IM)*, as formulated by [Kempe, Kleinberg and Tardos (2003)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
+We will employ a simplification of this cascade process called *Influence Maximization (IM)*, as formulated by [Kempe, Kleinberg and Tardos (KKT)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
 At each time step, there is a set of *activated nodes* $\mathcal{X}_t$, with activation at time $t + 1$ determined locally by the in-directed neighbours at time $t$:
 
 $$
