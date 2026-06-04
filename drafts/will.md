@@ -35,7 +35,11 @@ $$
 \sum_{k=0}^n k^\ell \binom{N}{k} \sim  \frac{n^\ell N!}{n!(N - n)!} \sim \mathcal{O}\left[n^\ell\left(\frac{N}{N-n}\right)^N\left(\frac{N-n}{n}\right)^n\right]
 $$
 
-using Stirling's formula. This is exponential in both $N$ and $n$, which for $N \sim 10^{10}$ neurons, is outside the computational reach even of our putative simulators.
+using Stirling's formula. This is exponential in both $N$ and $n$, which for $N \sim 10^{10}$ neurons, is plausibly outside the computational reach of our simulators.
+
+## Influence maximization
+
+
 
 <!-- ## Introduction
 
