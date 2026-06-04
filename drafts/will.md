@@ -64,7 +64,7 @@ $$
 (To ensure this is nontrivial, we require $\sum_{w \in N_\text{in}(v)} b_{vw} \leq 1$.) The *influence function* $\sigma(S)$ of a subset of nodes $S \subseteq V$ is the expected size of the activated set,
 
 $$
-\sigma(S) = \lim_{t\to\infty} \mathbb{E}[|\mathcal{X}_t|]
+\sigma(S) =  \mathbb{E}[\lim_{t\to\infty} |\mathcal{X}_t|] = \mathbb{E}[|\mathcal{X}_\infty|]
 $$
 
 for this or any other information-diffusion model.
