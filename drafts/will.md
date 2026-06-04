@@ -67,7 +67,7 @@ $$
 \sigma(S) =  \mathbb{E}\left[\lim_{t\to\infty} |\mathcal{X}_t|\right] = \mathbb{E}[|\mathcal{X}_\infty|]
 $$
 
-for this or any other information-diffusion model. The *IM problem* is to maximize influence, i.e., given a constraint $n$ on the seed activation size $|S| = |\mathcal{X}_0| \leq n$, find
+for this or any other information-diffusion model. The *IM problem* is to maximize influence, i.e., given a constraint $n$ on the seed activation size $\vert S\vert = \vert\mathcal{X}_0\vert \leq n$, find
 
 $$
 S^* = \arg\max_{|S| \leq n} \sigma(S).
