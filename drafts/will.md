@@ -39,7 +39,7 @@ using Stirling's formula. This is exponential in both $N$ and $n$, which for $N 
 
 ## Influence maximization
 
-This doesn't prove that a good strategy doesn't exist; it just shows how hard the problem is when the worst strategy is used. To make progress on the question of good strategies, we need to commit to a more concrete computational model of the problem at hand. We will combine a couple of different ideas here. First, the *critical brain hypothesis* (see for instance Chialvo's review ["Emergent complex neural dynamics"](https://arxiv.org/abs/1010.2530)) states that the brain maintains itself in a critical state near a number of basins of attraction. Assuming (generously) that simulators can model these basins, the goal would be to sow seed changes $\delta x_0$ that cascade into the desired target basin:
+This doesn't prove that a good strategy doesn't exist; it just shows how hard the problem is when the worst strategy is used. To make progress on the question of good strategies, we need to commit to a more concrete computational model. We will combine a couple of different ideas here. First, the *critical brain hypothesis* (see for instance Chialvo's review ["Emergent complex neural dynamics"](https://arxiv.org/abs/1010.2530)) states that the brain maintains itself in a critical state near a number of basins of attraction. Assuming (generously) that simulators can model these basins, the goal would be to sow seed changes $\delta x_0$ that cascade into the desired target basin:
 
 $$
 \begin{align}
