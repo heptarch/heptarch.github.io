@@ -88,6 +88,8 @@ If weights are *asymmetric*, so $b_{vw} \neq b_{wv}$ for all $w, v \in V$, then 
 
 Another condition on the dynamics gives $\textsf{PSPACE}$-complete reachability problem, namely "inverted threshold functions". I won't go into the details, since the form of the diffusion process is different and requires some explanation, but the point is the nodes switch on *when their neighbours are off*. This is *inhibitory* dynamics, which is another feature of real neurons, and it completely changes the "monotone submodularity" story we had earlier, where adding more neurons always increased the cascade size. With inhibition, adding neurons can hurt! So in this case it seems unlikely a good approximation will exist. However, I haven't been able to locate results about the approximability of the reachability problem.
 
+## Back to philosophy
+
 <!-- 
 
 A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot" and end up in a different basin altogether!
