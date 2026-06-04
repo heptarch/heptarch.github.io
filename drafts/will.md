@@ -74,8 +74,11 @@ S^* = \arg\max_{|S| \leq n} \sigma(S).
 $$
 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
+There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. This strongly suggests that attempting to change decision basin by seeding a maximal cascade is also $\textsf{NP}$-hard.
 
-There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. This strongly suggests that attempting to change decision basin by seeding a maximal cascade is also $\textsf{NP}$-hard. But perhaps a cascade doesn't need to be maximal to change a decision; KKT also give a greedy approximation which is guaranteed to come within $1-e^{-1} \approx 63\%$ of the optimal size. This suggests that *coarse*, suboptimal influence is possible. 
+## Basins and influencers
+
+But perhaps a cascade doesn't need to be maximal to change a decision; KKT also give a greedy approximation which is guaranteed to come within $1-e^{-1} \approx 63\%$ of the optimal size. This suggests that *coarse*, suboptimal influence is possible.
 
 <!-- ## Introduction
 
