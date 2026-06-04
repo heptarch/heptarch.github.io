@@ -77,17 +77,22 @@ There are two interesting things to say about the IM problem. First, exactly sol
 
 ## Targeted cascades
 
-But neither a maximal nor an approximate cascade are obviously needed to steer a decision, and indeed, at this point we introduce a more sophisticated version of the problem that better matches reality. Instead of maximizing influence, we want to seed a cascade with $S = \mathcal{X}_0$ which eventually lands in a set of target configurations $\mathcal{T}$, as quantified by success probability
+It's not really clear how pure cascade size translates into steering a decision. Instead of maximizing influence, we want to seed a cascade that ends by exciting precisely the target basin of attraction. More precisely, we want to choose $S = \mathcal{X}_0$ to eventually excite a target configuration $\mathcal{B}$, as quantified by success probability
 
 $$
-f_\mathcal{T}(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
+f_\mathcal{T}(S) = \mathbb{P}[\mathcal{X}_\infty = \mathcal{B}].
 $$
+
+This is much closer to a different problem called *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph. [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) consider situations where the graph is "simple", with maximum degree, [pathwidth](https://en.wikipedia.org/wiki/Pathwidth), and number of local transition rules bounded; these plausibly hold for our neural graphs.
+
+Even in this scenario, there are conditions on the dynamics such that the problem of deciding if some starting configuration $\mathcal{X}_0$ ever enters a set of target configurations $\mathcal{T}$
+
+<!-- 
 
 A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot" and end up in a different basin altogether!
 
-But this is all heuristic; what can we rigorously say about the difficulty of targeted cascades, both exact and approximate? The closest analogue to the problem is *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph. [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) inform us that, unless the dynamical system takes a simple form (where it forms cycles in polynomial time)
+But this is all heuristic; what can we rigorously say about the difficulty of targeted cascades, both exact and approximate? 
 
-<!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
 
 ## Introduction
