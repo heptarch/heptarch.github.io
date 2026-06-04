@@ -3,17 +3,17 @@ Layout: post
 mathjax: true
 comments: true
 title:  "Computational free will"
-categories: [AI, writing, art, philosophy]
-date:  2026-06-03
+categories: [Philosophy, simulation]
+date:  2026-06-04
 ---
 
-**June 3, 2026.** *Mining an unexpected connection between free will and simulation.*
+**June 4, 2026.** *Mining an unexpected connection between free will and simulation.*
 
 ## Introduction
 
 Suppose we are living in a simulation. A disturbing possibility is that the simulators could be influencing our decisions, not by violent, large-scale interventions (these violate the integrity of the simulation), but by *nudging*: microchanges at the level of neurons or electro-cortical fields designed to induce certain outcomes. Simulators might do this because they are studying us, because they are "playing us" in some sort of video game (think *Being John Malkovich*), or because (as we will explore below) they want to guide towards cheaper regions of simulation space.
 
-We will explore from a few different perspectives mathematical reasons to think this is impossible. Those reasons are based on the assumption that 
+We will make mathematical arguments, from a few different perspectives, that infulencing decisions this way is impossible. To be clear, the arguments are based on the assumption that simulators share our math and physics, and that even if they can simulate a whole universe, they are compute-constrained in that they cannot simulate things *exponentially large* in the size of our universe. I should also make it clear I do not believe we live in a simulation, in some sense
 
 <!-- ## Introduction
 
