@@ -61,7 +61,7 @@ $$
 \sum_{w \in N_\text{in}(v)\cap \mathcal{X}_t} b_{vw} \geq \theta_v.
 $$
 
-(To ensure this is nontrivial, we require $\sum_{w \in N_\text{in}(v)} b_{vw} \leq 1$.) The *influence function* $\sigma(S)$ of a subset of nodes $S \subseteq V$ is the expected size of the activated set,
+(To ensure this is nontrivial, we require $\sum_{w \in N_\text{in}(v)} b_{vw} \leq 1$.) The *influence function* $\sigma(S)$ of a subset of nodes $S \subseteq V$ is the expected size of the eventually activated set $\mathcal{X}_\infty$:
 
 $$
 \sigma(S) =  \mathbb{E}\left[\lim_{t\to\infty} |\mathcal{X}_t|\right] = \mathbb{E}[|\mathcal{X}_\infty|]
@@ -73,7 +73,7 @@ $$
 S^* = \arg\max_{|S| = k} \sigma(S).
 $$
 
-This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent. But even this simplification of the problem is tremendously hard;
+This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent. But even this simplification of the problem is intractable!
 
 <!-- ## Introduction
 
