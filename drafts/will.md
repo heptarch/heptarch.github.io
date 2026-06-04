@@ -32,7 +32,7 @@ But there is a difference between evolving a brain state and guiding it towards 
 Our focus now will be to understand the inverse problem and characterize its difficulty. A first observation that the space of small perturbations is continuous, and even if discretized, exponentially large in the number of neurons $N$. Since if "small" means at most $n$ neurons are perturbed, and there are $\ell$ ways to perturb a neuron, the number of perturbations is
 
 $$
-\sum_{k=0}^n \ell k^\ell \binom{N}{n} \sim n^\ell \frac{N!}{n!(N - n)!} \sim \mathcal{O}() 
+\sum_{k=0}^n \ell k^\ell \binom{N}{n} \sim n^\ell \frac{N!}{n!(N - n)!} \sim \mathcal{O}(e^nn^{\ell - n - 1/2}) 
 $$
 
 <!-- ## Introduction
