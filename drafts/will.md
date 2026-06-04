@@ -54,7 +54,14 @@ $$
 [v \in \mathcal{X}_{t+1}] = M(N_\text{in}(v) \cap \mathcal{X}_t),
 $$
 
-where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket) and $M$ is an *information-diffusion process*. 
+where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket) and $M$ is an *information-diffusion process*.
+A simple example of a diffusion process is for each node to select a threshold $\theta_v \in [0, 1]$ uniformly at random, and for each in-neighbour $w \in N_\text{in}(v)$, to associate a coefficient $b_{vw}$ such that $v$ switches on if
+
+$$
+\sum_{w \in N_\text{in}(v)\cap \mathcal{X}_t} b_{vw} \geq \theta_v.
+$$
+
+To ensure this is nontrivial, we require $\sum_{w \in N_\text{in}(v)} b_{vw} \leq 1$.
 
 <!-- ## Introduction
 
