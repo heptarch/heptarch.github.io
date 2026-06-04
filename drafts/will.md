@@ -70,7 +70,7 @@ $$
 for this or any other information-diffusion model. The *IM problem* is to maximize influence, i.e., given a seed constraint $\ell$, find
 
 $$
-S^* = \text{argmax}_{|S| \leq \ell, S \subset V} \sigma(S).
+S^* = \arg\max_{|S| \leq \ell} \sigma(S).
 $$
 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
