@@ -73,7 +73,9 @@ $$
 S^* = \arg\max_{|S| = k} \sigma(S).
 $$
 
-This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent. But even this simplification of the problem is intractable!
+This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
+
+
 
 <!-- ## Introduction
 
