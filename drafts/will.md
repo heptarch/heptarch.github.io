@@ -64,7 +64,7 @@ $$
 (To ensure this is nontrivial, we require $\sum_{w \in N_\text{in}(v)} b_{vw} \leq 1$.) The *influence function* $\sigma(S)$ of a subset of nodes $S \subseteq V$ is the expected size of the activated set,
 
 $$
-\sigma(S) =  \mathbb{E}[\lim_{t\to\infty} |\mathcal{X}_t|] = \mathbb{E}[|\mathcal{X}_\infty|]
+\sigma(S) =  \mathbb{E}\left[\lim_{t\to\infty} |\mathcal{X}_t|\right] = \mathbb{E}[|\mathcal{X}_\infty|]
 $$
 
 for this or any other information-diffusion model. The *IM problem* is to maximize influence, i.e., given a seed constraint $\ell$, find
