@@ -86,6 +86,7 @@ $$
 This is much closer to a different problem called *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph. [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) consider situations where the graph is "simple", with maximum degree, [pathwidth](https://en.wikipedia.org/wiki/Pathwidth), and number of local transition rules bounded; these plausibly hold for our neural graphs.
 
 Even in this scenario, there are fairly simple conditions on the dynamics that make it hard to decide if $S$ ever cascades into $\mathcal{B}$.
+If weights $b_{vw}$ are *asymmetric* between nodes $v$, so they are all forced to be different; or, if  
 
 <!-- 
 
