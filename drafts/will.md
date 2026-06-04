@@ -75,7 +75,7 @@ $$
 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
 
-There are two interesting results we can state in this context. First, exactly solving the IM problem in all cases is intractable, or more precisely, $\text{NP}$-hard.
+There are two interesting results we can state in this context. First, exactly solving the IM problem in all cases is intractable, or more precisely, $\textsf{NP}$-hard.
 
 <!-- ## Introduction
 
