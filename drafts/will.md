@@ -77,7 +77,7 @@ There are two interesting things to say about the IM problem. First, exactly sol
 
 ## Targeted cascades
 
-But it's not obvious 
+Neither a maximal nor an approximate cascade are obviously what is needed to steer a decision.
 
 <!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
