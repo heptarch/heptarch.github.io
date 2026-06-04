@@ -83,7 +83,7 @@ $$
 f_\mathcal{T}(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
 $$
 
-A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot". This prevents a greedy strategy from giving a good approximation.
+A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot". This prevents a greedy strategy from giving an obviously good approximation.
 
 But how hard is it? [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X)
 
