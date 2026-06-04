@@ -75,9 +75,9 @@ $$
 
 There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *submodular*, i.e., adding extra seeds helps increase the objective.
 
-## Basins and influencers
+## Targeted cascades
 
-But perhaps a cascade doesn't need to be maximal to change a decision; KKT also give a greedy approximation which is guaranteed to come within $1-e^{-1} \approx 63\%$ of the optimal size. This suggests that *coarse*, suboptimal influence is possible.
+But it's not obvious 
 
 <!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
