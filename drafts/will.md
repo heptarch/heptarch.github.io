@@ -77,6 +77,7 @@ This is a simplification of the problem for a number of reasons; to name a few, 
 
 There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. This strongly suggests that attempting to change decision basin by seeding a maximal cascade is also $\textsf{NP}$-hard. But perhaps a cascade doesn't need to be maximal to change a decision; KKT also give a greedy approximation which is guaranteed to come within $1-e^{-1} \approx 63\%$ of the optimal size.
 
+
 <!-- ## Introduction
 
 Chaos is usually applied to complex systems like chemical reactions, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
