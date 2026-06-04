@@ -45,7 +45,7 @@ This doesn't prove that a good strategy doesn't exist; it just shows how hard th
 x_0 & overset{\text{cascade dynamics}{\longrightarrow} \text{original decision basin} \\ \delta x_0 + x_0 \overset{\text{cascade dynamics}{\longrightarrow} \text{target decision basin}.
 \end{align}
 
-The second component is a model of this cascade process. We use *Influence Maximization (IM)* as formulated by [Kempe, Kleinberg and Tardos (2003)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a graph $G = (V, E)$ where vertices are neurons and edges connections between them.
+The second component is a model of this cascade process. We use *Influence Maximization (IM)* as formulated by [Kempe, Kleinberg and Tardos (2003)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
 
 <!-- ## Introduction
 
