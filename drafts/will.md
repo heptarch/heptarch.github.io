@@ -77,7 +77,11 @@ There are two interesting things to say about the IM problem. First, exactly sol
 
 ## Targeted cascades
 
-Neither a maximal nor an approximate cascade are obviously what is needed to steer a decision.
+Neither a maximal nor an approximate cascade are obviously needed to steer a decision. A much more natural question is whether we can seed a cascade which lands in a set of target configurations $\mathcal{T}$:
+
+$$
+f(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
+$$
 
 <!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
