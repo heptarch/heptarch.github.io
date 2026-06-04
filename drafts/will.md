@@ -101,7 +101,9 @@ Another condition on the dynamics gives $\textsf{PSPACE}$-complete reachability 
 So, what does this all tell us? Roughly, that
 - the inverse problem simulators have to solve resembles reachability;
 - under fairly reasonable assumptions, reachability is $\textsf{PSPACE}$-complete;
-- thus there are hard instances 
+- thus, the inverse problem resembles another problem with hard instances.
+
+The resemblance between the biological problem of decision influence and dynamical reachability may fail. The analogy seems persuasive to me, so a more serious issue in my mind is that the existence of hard instance does not mean that the average instance, or the specific instance of brains, is hard.
 
 <!-- 
 
