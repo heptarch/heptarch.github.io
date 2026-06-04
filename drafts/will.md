@@ -85,7 +85,7 @@ $$
 
 A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot" and end up in a different basin altogether!
 
-But this is all heuristic; what can we rigorously say about the difficulty of this targeted cascade variant? The closest analogue is *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph. [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) inform us that
+But this is all heuristic; what can we rigorously say about the difficulty of targeted cascades, both exact and approximate? The closest analogue to the problem is *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph. [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) inform us that, unless the dynamical system takes a simple form (where it forms cycles in polynomial time)
 
 <!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
