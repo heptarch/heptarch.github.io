@@ -73,7 +73,7 @@ $$
 S^* = \arg\max_{|S| \leq n} \sigma(S).
 $$
 
-There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *monotone submodular*, i.e., we are maximizing some global monotone. The existence of the greedy strategy seems to suggest that coarse, suboptimal influence is still possible.
+There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *monotone submodular*, i.e., we are maximizing some global monotone, and adding seed neurons always helps. The existence of the greedy strategy seems to suggest that coarse, suboptimal influence is still possible.
 
 ## Targeted cascades
 
@@ -83,7 +83,7 @@ $$
 f(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
 $$
 
-A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacane neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set.
+A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot". This prevents a greedy strategy from working.
 
 <!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
