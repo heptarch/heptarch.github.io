@@ -23,6 +23,8 @@ $$
 \delta x(t) \approx e^{\lambda t}\delta x_0.
 $$
 
+This cuts two ways. It shows that short-term dynamics (on the order of $\lambda^{-1}$) is essentially unpredictable, so a 
+
 <!-- ## Introduction
 
 Chaos is usually applied to complex systems like chemical reactions, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
