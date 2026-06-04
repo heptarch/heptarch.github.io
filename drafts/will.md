@@ -26,8 +26,7 @@ $$
 This cuts two ways. It shows that short-term dynamics (on the order of $\lambda^{-1}$) is essentially unpredictable (since errors grow exponentially), so simulators cannot have analytic control over brain states for finite-precision initial conditions.
 
 The problem with this line of argument is that simulators presumably know brain states *exactly*, so they may well be able to predict future brain states. Worse, the sensitivity to initial conditions suggests that large changes, such as decisions, can indeed be induced by microscopic changes seeded early enough. This seems like a slam dunk for the simulators.
-
-There is a difference, however, between evolving a brain state and guiding it towards a target outcome. The question is not
+There is a difference, however, between evolving a brain state and guiding it towards a target outcome. The cal
 
 <!-- ## Introduction
 
