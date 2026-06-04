@@ -92,7 +92,10 @@ Another condition on the dynamics gives $\textsf{PSPACE}$-complete reachability 
 
 ## Back to philosophy
 
-So, what does this all tell us?
+So, what does this all tell us? Roughly, that
+- the inverse problem simulators have to solve resembles reachability;
+- under fairly reasonable assumptions, reachability is $\textsf{PSPACE}$-complete;
+- thus there are hard instances 
 
 <!-- 
 
