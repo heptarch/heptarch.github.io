@@ -73,11 +73,11 @@ $$
 S^* = \arg\max_{|S| \leq n} \sigma(S).
 $$
 
-There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *submodular*, i.e., adding extra seeds helps increase the objective.
+There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *submodular*, i.e., adding extra seeds helps increase the objective. So it seems like coarse, suboptimal influence is possible.
 
 ## Targeted cascades
 
-Neither a maximal nor an approximate cascade are obviously needed to steer a decision. A much more natural question is whether we can seed a cascade which lands in a set of target configurations $\mathcal{T}$:
+But neither a maximal nor an approximate cascade are obviously needed to steer a decision. A much more natural question is whether we can seed a cascade which lands in a set of target configurations $\mathcal{T}$:
 
 $$
 f(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
