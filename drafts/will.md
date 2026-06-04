@@ -99,7 +99,7 @@ Another condition on the dynamics gives $\textsf{PSPACE}$-complete reachability 
 ## Back to philosophy
 
 So, what does this all tell us? Roughly, that
-- the inverse problem simulators have to solve resembles reachability;
+- the inverse problem for influence resembles reachability;
 - under fairly reasonable assumptions, reachability is $\textsf{PSPACE}$-complete;
 - thus, the inverse problem resembles another problem with hard instances.
 
