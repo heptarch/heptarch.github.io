@@ -48,6 +48,11 @@ x_0 & \overset{\text{cascade dynamics}}{\longrightarrow} \text{original decision
 $$
 
 We will employ a simplification of this cascade process called *Influence Maximization (IM)*, as formulated by [Kempe, Kleinberg and Tardos (2003)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
+At each time step, there is a set of *activated nodes* $\mathcal{X}_t$, with activation at time $t + 1$ determined locally by the in-directed neighbours at time $t$:
+
+$$
+[v \in \mathcal{X}_{t+1}] = 
+$$
 
 <!-- ## Introduction
 
