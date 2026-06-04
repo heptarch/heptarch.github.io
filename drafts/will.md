@@ -77,7 +77,7 @@ There are two interesting things to say about the IM problem. First, exactly sol
 
 ## Targeted cascades
 
-But neither a maximal nor an approximate cascade are obviously needed to steer a decision, and indeed, at this point we introduce a more sophisticated version of the problem that better matches reality. Instead of maximizing influence, we want to seed a cascade with $S = \mathcal{X}_0$ which eventually lands in a set of target configurations $\mathcal{T}$, as quantified by
+But neither a maximal nor an approximate cascade are obviously needed to steer a decision, and indeed, at this point we introduce a more sophisticated version of the problem that better matches reality. Instead of maximizing influence, we want to seed a cascade with $S = \mathcal{X}_0$ which eventually lands in a set of target configurations $\mathcal{T}$, as quantified by success probability
 
 $$
 f_\mathcal{T}(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
