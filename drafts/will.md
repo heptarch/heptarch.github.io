@@ -103,7 +103,7 @@ So, what does this all tell us? Roughly, that
 - under fairly reasonable assumptions, dynamical reachability is $\textsf{PSPACE}$-complete;
 - thus, the inverse problem resembles another problem with hard instances.
 
-The chain of argument could fail in a few ways. First, the resemblance between the biological problem of decision influence and dynamical reachability may fail. It could, but the analogy seems persuasive to me. A more serious issue is that the existence of hard instances does not mean the specific instance of brains is hard.
+The chain of argument could fail in a few ways. First, the resemblance between the biological problem of decision influence and dynamical reachability may fail. It could, but the analogy seems persuasive to me. A more serious issue is that the existence of hard worst-case instances does not mean the specific instance of brains is hard.
 
 <!-- 
 
