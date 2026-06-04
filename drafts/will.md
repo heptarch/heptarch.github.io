@@ -85,7 +85,7 @@ $$
 
 This is much closer to a different problem called *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph. [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) consider situations where the graph is "simple", with maximum degree, [pathwidth](https://en.wikipedia.org/wiki/Pathwidth), and number of local transition rules bounded; these plausibly hold for our neural graphs.
 
-Even in this scenario, there are conditions on the dynamics such that the problem of deciding if some starting configuration $\mathcal{X}_0$ ever enters a set of target configurations $\mathcal{T}$
+Even in this scenario, there are fairly simple conditions on the dynamics such that the problem of deciding if $S$ ever cascades into $\mathcal{B}$ a
 
 <!-- 
 
