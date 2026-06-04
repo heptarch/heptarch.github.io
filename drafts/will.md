@@ -77,7 +77,7 @@ There are two interesting things to say about the IM problem. First, exactly sol
 
 ## Targeted cascades
 
-But neither a maximal nor an approximate cascade are obviously needed to steer a decision. A much more natural question is whether we can seed a cascade which lands in a set of target configurations $\mathcal{T}$:
+But neither a maximal nor an approximate cascade are obviously needed to steer a decision. A much more natural question is whether we can seed a cascade with $S = \mathcal{X}_0_$ which eventually lands in a set of target configurations $\mathcal{T}$, as quantified by
 
 $$
 f(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
