@@ -86,7 +86,7 @@ $$
 This is much closer to a different problem called *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph. [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) consider situations where the graph is "simple", with maximum degree, [pathwidth](https://en.wikipedia.org/wiki/Pathwidth), and number of local transition rules bounded; these plausibly hold for our neural graphs.
 
 Even in this scenario, there are simple dynamical conditions that make it hard to decide if $S$ ever cascades into $\mathcal{B}$.
-If weights are *asymmetric*, so $b_{vw} \neq b_{wv}$ for all $w, v \in V$, then the general problem of deciding if $S \to \mathcal{B}$ is $\textsf{PSPACE}$-complete. This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is extremely neurally plausible, since excitations tend to flow asymmetrically.
+If weights are *asymmetric*, so $b_{vw} \neq b_{wv}$ for all $w, v \in V$, then the general problem of deciding if $S \to \mathcal{B}$ is $\textsf{PSPACE}$-complete. This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is extremely neurally plausible, since excitations tend to flow asymmetrically with $b_{vw} \neq b_{wv}$.
 
 <!-- 
 
