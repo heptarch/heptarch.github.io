@@ -84,7 +84,6 @@ f_\mathcal{T}(S) = \mathbb{P}[\mathcal{X}_\infty = \mathcal{B}].
 $$
 
 This is much closer to a different problem called *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph.
-
 [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show there are simple dynamical conditions that make it hard to decide if $S$ ever cascades into $\mathcal{B}$.
 If weights are *asymmetric*, meaning
 
