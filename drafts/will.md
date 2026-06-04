@@ -73,11 +73,11 @@ $$
 S^* = \arg\max_{|S| \leq n} \sigma(S).
 $$
 
-There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *monotone submodular*, i.e., adding extra seeds helps increase the objective. So it seems like coarse, suboptimal influence is possible.
+There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*. KKT give a greedy algorithm which gets within $1 - e^{-1} \approx 63\%$ of the optimal result. This is a consequence of the fact that IM is *monotone submodular*, i.e., we are maximizing some global monotone. The existence of the greedy strategy seems to suggest that coarse, suboptimal influence is still possible.
 
 ## Targeted cascades
 
-But neither a maximal nor an approximate cascade are obviously needed to steer a decision. A much more natural question is whether we can seed a cascade with $S = \mathcal{X}_0_$ which eventually lands in a set of target configurations $\mathcal{T}$, as quantified by
+But neither a maximal nor an approximate cascade are obviously needed to steer a decision, and indeed, at this point we introduce a more sophisticated version of the problem that better matches reality. Instead of maximizing influence, we want to seed a cascade with $S = \mathcal{X}_0_$ which eventually lands in a set of target configurations $\mathcal{T}$, as quantified by
 
 $$
 f(S) = \mathbb{P}[\mathcal{X}_\infty \in \mathcal{T}].
