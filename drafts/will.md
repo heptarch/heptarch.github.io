@@ -67,7 +67,11 @@ $$
 \sigma(S) =  \mathbb{E}[\lim_{t\to\infty} |\mathcal{X}_t|] = \mathbb{E}[|\mathcal{X}_\infty|]
 $$
 
-for this or any other information-diffusion model.
+for this or any other information-diffusion model. The *IM problem* is to maximize influence, i.e., given a seed constraint $\ell$, find
+
+$$
+S^* = \arg\max_{|S| = k} \sigma(S).
+$$
 
 <!-- ## Introduction
 
