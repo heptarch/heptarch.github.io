@@ -85,7 +85,7 @@ $$
 
 A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot". This prevents a greedy strategy from working.
 
-The [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X)
+But how hard is it? [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X)
 
 <!-- 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
