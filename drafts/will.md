@@ -47,7 +47,7 @@ x_0 & \overset{\text{cascade}}{\longrightarrow} \text{original decision basin} \
 \end{align}
 $$
 
-We will employ a simplification of this cascade process called *Influence Maximization (IM)*, as formulated by [Kempe, Kleinberg and Tardos (KKT)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
+We will start with a simplification of this cascade process called *Influence Maximization (IM)*, as formulated by [Kempe, Kleinberg and Tardos (KKT)](https://www.cs.cornell.edu/home/kleinber/kdd03-inf.pdf). The basic idea is to model the brain as a directed graph $G = (V, E)$ where vertices are neurons and edges denote directed connections between them.
 At each time step, there is a set of *activated nodes* $\mathcal{X}_t$, with activation at time $t + 1$ determined locally by the in-directed neighbours at time $t$:
 
 $$
@@ -73,14 +73,16 @@ $$
 S^* = \arg\max_{|S| \leq n} \sigma(S).
 $$
 
-This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
-There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. This strongly suggests that attempting to change decision basin by seeding a maximal cascade is also $\textsf{NP}$-hard.
+There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. If changing a decision requires us to seed a maximal cascade, it is computationally hard. However, it is also *approximable*.
 
 ## Basins and influencers
 
 But perhaps a cascade doesn't need to be maximal to change a decision; KKT also give a greedy approximation which is guaranteed to come within $1-e^{-1} \approx 63\%$ of the optimal size. This suggests that *coarse*, suboptimal influence is possible.
 
-<!-- ## Introduction
+<!-- 
+This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
+
+## Introduction
 
 Chaos is usually applied to complex systems like chemical reactions, bacterial colonies, planets or piles of sand. But the brain is also a complex system, and according to the theory of *self-organized criticality (SOC)*, likes to maintain itself near phase transitions where small perturbations can lead to large effects. This sensitivity to perturbations is characteristic of *chaos in the Lyapunov sense*, where an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
 
