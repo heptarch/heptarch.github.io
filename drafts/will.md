@@ -13,7 +13,7 @@ date:  2026-06-04
 
 Suppose we are living in a simulation. A disturbing possibility is that the simulators could be influencing our decisions, not by violent, large-scale interventions (these violate the integrity of the simulation), but by *nudging*: microchanges at the level of neurons or electro-cortical fields designed to induce certain outcomes. Simulators might do this because they are studying us, because they are "playing us" in some sort of video game (think *Being John Malkovich*), or because they want to guide towards cheaper regions of simulation space.
 
-We will make mathematical arguments, from a few different perspectives, that influencing decisions this way is very difficult. To be clear, the arguments are based on the assumption that simulators share our math and physics, and that even if they can simulate a whole universe, they are compute-constrained in that they cannot simulate things *exponentially large* in the size of our universe. I should also make it clear I do not believe we live in a simulation; in some sense, the arguments I will make 
+We will argue from a few different perspectives that influencing decisions in this way is exceedingly difficult. To be clear, the arguments are based on the assumption that simulators share our math and physics, and that even if they can simulate a whole universe, they are compute-constrained in that they cannot simulate things *exponentially large* in the size of our universe. I should add that I don't believe we live in a simulation; one of my goals is to show that such a simulation is useless and expensive and thus decrease the posterior credibility.
 
 <!-- ## Introduction
 
