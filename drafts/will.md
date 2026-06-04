@@ -29,13 +29,13 @@ This cuts two ways. It shows that short-term dynamics (on the order of the Lyapu
 The problem with this line of argument is that simulators presumably know brain states *exactly*, so they may well be able to predict future brain states. Worse, the sensitivity to initial conditions suggests that large changes, such as decisions, can indeed be induced by microscopic changes seeded early enough. This seems like a slam dunk for the simulators.
 But there is a difference between evolving a brain state and guiding it towards a target outcome. Random seeds lead to random outcomes; unless we can solve the *inverse problem* of determining the seed from the outcome, we are restricted to brute force search (via analytics or simulation) over the space of small perturbations.
 
-Our focus now will be to understand the inverse problem and characterize its difficulty. A first observation that the space of small perturbations is continuous, and even if discretized, exponentially large in the number of neurons $N$. If "small" means at most $n \ll N$ neurons are perturbed, and there are $\ell$ ways to perturb a neuron, the number of perturbations is
+Our focus now will be to understand the inverse problem and characterize its difficulty. A first observation that the space of small perturbations is continuous, and even if discretized, exponentially large in the number of neurons $N$. If "small" means at most $n = \alpha N$ for $\alpha \ll 1$ neurons are perturbed, and there are $\ell$ ways to perturb a neuron, the number of perturbations is
 
 $$
-\sum_{k=0}^n k^\ell \binom{N}{k} \sim  \frac{n^\ell N!}{n!(N - n)!} \sim \mathcal{O}\left[n^{\ell - 1/2} \left(\frac{eN}{n}\right)^n\right].
+\sum_{k=0}^n k^\ell \binom{N}{k} \sim  \frac{n^\ell N!}{n!(N - n)!} \sim \mathcal{O}\left[\frac{N^N}{n^{n-\ell}(N - n)^{N- n}} \right].
 $$
 
-This is $\mathcal{O}(N^n)$ for $n = \mathcal{O}(1)$ large (to apply Stirling's formula) but constant.
+This is $\mathcal{O}(N^n)$ for $n = \mathcal{O}(1)$ large (to apply Stirling's formula) but constant. We will assume that 
 
 <!-- ## Introduction
 
