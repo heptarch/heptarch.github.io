@@ -75,7 +75,7 @@ $$
 
 This is a simplification of the problem for a number of reasons; to name a few, neurons activate with nonlinear thresholds, the goal is not a large cascade but a specific basic of attraction, and connections are themselves time-dependent.
 
-There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. This strongly suggests that attempting to change decision basin by seeding a maximal cascade is also $\textsf{NP}$-hard. However, at
+There are two interesting things to say about the IM problem. First, exactly solving it is intractable, or more precisely, $\textsf{NP}$-hard in the worst case. This strongly suggests that attempting to change decision basin by seeding a maximal cascade is also $\textsf{NP}$-hard. However, there is an important caveat.
 
 <!-- ## Introduction
 
