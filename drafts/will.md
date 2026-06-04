@@ -17,7 +17,11 @@ We will argue from a few different perspectives that influencing decisions in th
 
 ## Chaos
 
+A simple reason we might think that influencing a decision is hard is *chaos*. In its simple Lyapunov form, it says that an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
 
+$$
+\delta x(t) \approx e^{\lambda t}\delta x_0.
+$$
 
 <!-- ## Introduction
 
