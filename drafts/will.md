@@ -54,7 +54,7 @@ $$
 \exists t : f^{(t)}[\sigma_0] = \sigma.
 $$
 
-
+This is not a perfect model of neurons, but we'll address the main criticisms now. First, a neural network is time-dependent, but the SDS has "static" dynamics, that is, update rules that do not depend on time. But although this is unrealistic at learning time scales, the network *is* fixed at decision time scales. Another objection is that neural networks are stochastic, and the SDS is deterministic. But that stochastic behaviour probably 
 
 <!-- 
 
