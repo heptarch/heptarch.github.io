@@ -80,7 +80,8 @@ $\textsf{PSPACE}$ is contained in $\textsf{EXPTIME}$, meaning that we can solve 
 
 ## Philosophy
 
-In words, telling if one state in an SDS asymmetrically threshold updates to another state is, in general, wickedly difficult.
+So, telling if one state in an SDS asymmetrically threshold updates to another state is, in general, wickedly difficult.
+It's possible the update rules for neurons look different (though they don't look dramatically different) or that our brains are for some reason much easier than the worst-case scenario which worst-case complexity deals with (a more legitimate objection). Unfortunately, average-case complexity is much harder and requires an input probability distribution, which in turn would require a more precise specification of the biological substrate.
 
 <!-- 
 
