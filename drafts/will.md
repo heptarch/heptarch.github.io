@@ -39,6 +39,10 @@ $$
 
 using Stirling's formula. This is exponential in both $N$ and $n$, which for $N \sim 10^{10}$ neurons, is plausibly outside the computational reach of our simulators.
 
+## Reachability
+
+
+
 <!-- 
 
 ## Introduction
