@@ -44,7 +44,7 @@ using Stirling's formula. This is exponential in both $N$ and $n$, which for $N 
 
 Let's treat the reachability problem formally.
 We model the network of neurons as a graph $G = (V, E)$, where each neuron is a node $v \in V$ and neural connections are undirected edges $\\{v, w\\} \in E$.
-Each neuron has a state $\sigma_v(t) \in \Sigma$ at time $t$, with a local update rule $f_v: \Sigma^{\delta_v} \to \Sigma$ solely in terms of states of neighbours of $v$, with $\delta_v = |N(v)|$ the degree of $v$.
+Each neuron has a state $\sigma_v(t) \in \Sigma$ at time $t$, with a local update rule $f_v: \Sigma^{\delta_v} \to \Sigma$, solely in terms of states of neighbours of $v$, with $\delta_v = |N(v)|$ the degree of $v$.
 The state of the whole graph at time $t$ is $\sigma(t) \in \Sigma^{|V|}$, and the global update rule is $f$, so $f[\sigma(t)] = \sigma(t + 1)$, obtained by applying local update rules in some fixed order.
 This is called a *sequential dynamical system (SDS)*.
 
@@ -57,9 +57,16 @@ $$
 For simulators, $\sigma$ is a target brain state, e.g., where we make a different decision, and $\sigma_0$ is a perturbed initial brain state.
 Now, this isn't a perfect model. Unlike the SDS, neural networks are time-dependent and stochastic. But although time-independence is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale. Second, stochastic behaviour coarse grains some (more complex) deterministic behaviour (for instance discrete Hopfield networks), so we lose nothing with this restriction. 
 
+For concreteness, fix a *threshold update rule* as follows.
+We consider a binary state space $\Sigma = \\{0, 1\\}$ and define
+
+$$
+\sigma_v(t+1) = \left[ \sum_{w\in N(v)} b_{vw} \sigma_w(t) \geq \alpha \right]
+$$
+
+where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket), $b_{vw}$ is a set of weights, and $\alpha$ is a fixed constant.
 For highly symmetric update rules, the problem of reachability can be efficiently solved. But it quickly becomes impossible!
 [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that very simple conditions lead to an intractable reachability problem.
-Consider a binary state space $\Sigma = \\{0, 1\\}$ and the 
 
 
 If weights are *asymmetric*, meaning
