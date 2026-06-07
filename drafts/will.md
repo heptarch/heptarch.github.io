@@ -15,7 +15,7 @@ Suppose we are agents in a simulation. An even more disturbing possibility, in t
 
 Whatever the reason, this would be a direct assault on the notion of free will. The goal of this post is to show that computational complexity theory actually guarantees a notion of "computational free will", up to some reasonable assumptions. These include the assumption that simulators are subject to the same mathematical laws as we are (not unreasonable if we are necessitarians about mathematical truth) but also that their computational resources are bounded (polynomial in the size of the simulation, more questionable).
 
-I should add that I don't think we live in a simulation. Part of the point of my argument is to establish that simulators have less freedom to interfere in the simulation than we might expect, and therefore there is less 
+I should add that I don't think we live in a simulation. Part of the point of my argument is to establish that simulators have less freedom to interfere in the simulation than we might expect, and therefore there is less incentive for them to make expensive, useless simulations in the first place.
 
 <!-- 
 
