@@ -13,7 +13,9 @@ date:  2026-06-04
 
 Suppose we are agents in a simulation. An even more disturbing possibility, in this case, is that simulators have decided to influence or even control our thoughts. Not by violent, large-scale interventions—this violates the integrity of the simulation—but more subtly, by *nudging us*: microscopic changes at the neuronal or electrocortical level that cascade into, e.g., impacts on decision making or other deliberative processes. Simulators might do this because they are A/B-testing our behaviour, playing us in some sort of video game (think *Being John Malkovich*), or because they want to guide us towards cheaper regions of simulation space.
 
-Whatever the reason, this would be a crude, direct assault on the notion of free will. The goal of this post is to show that we actuall
+Whatever the reason, this would be a direct assault on the notion of free will. The goal of this post is to show that computational complexity theory actually guarantees a notion of "computational free will", up to some reasonable assumptions. These include the assumption that simulators are subject to the same mathematical laws as we are (not unreasonable if we are necessitarians about mathematical truth) but also that their computational resources are bounded (polynomial in the size of the simulation, more questionable).
+
+I should add that I don't think we live in a simulation. Part of the point of my argument is to establish that simulators have less freedom to interfere in the simulation than we might expect, and therefore there is less 
 
 <!-- 
 
