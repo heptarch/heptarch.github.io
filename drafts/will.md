@@ -57,6 +57,7 @@ $$
 For simulators, $\sigma$ is a target brain state, e.g., where we make a different decision, and $\sigma_0$ is a perturbed initial brain state.
 Now, this isn't a perfect model. Unlike the SDS, neural networks are time-dependent and stochastic. But although time-independence is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale so this isn't an issue. Second, stochastic behaviour coarse grains some (more complex) deterministic behaviour (for instance discrete Hopfield networks), so we lose nothing with this restriction. 
 
+For highly symmetric update rules, the problem of reachability can be efficiently solved. But it quickly becomes impossible!
 For concreteness, fix a *threshold update rule* as follows.
 We consider a binary state space $\Sigma = \\{0, 1\\}$ and define
 
@@ -66,18 +67,15 @@ $$
 
 where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket), $b_{vw}$ is a set of weights, and $\alpha$ is a fixed constant.
 This is a reasonable accurate model of excitatory processes in the brain (closely related to gated neural networks).
-
-For highly symmetric update rules, the problem of reachability can be efficiently solved. But it quickly becomes impossible!
-[Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that very simple conditions lead to an intractable reachability problem.
-
-
-If weights are *asymmetric*, meaning
+[Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that if weights are *asymmetric*, meaning
 
 $$
 b_{vw} \neq b_{wv} \text{ for all } w, v \in V,
 $$
 
-then the general problem of deciding if $S \to \mathcal{B}$ is $\textsf{PSPACE}$-complete. This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is very biologically plausible, since excitations tend to flow unidirectionally along neural pathways.
+then the general problem of deciding if $S \to \mathcal{B}$ is [$\textsf{PSPACE}$-complete](https://en.wikipedia.org/wiki/PSPACE). 
+
+This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is very biologically plausible, since excitations tend to flow unidirectionally along neural pathways.
 
 <!-- 
 
