@@ -17,14 +17,6 @@ Whatever the reason, this would be a direct assault on the notion of free will. 
 
 I should add that I don't think we live in a simulation. Part of the point of my argument is to establish that simulators have less freedom to interfere in the simulation than we might expect, and therefore there is less incentive for them to make expensive, useless simulations in the first place.
 
-<!-- 
-
-## Introduction
-
-Suppose we are living in a simulation. A disturbing possibility is that the simulators could be influencing our decisions, not by violent, large-scale interventions (these violate the integrity of the simulation), but by *nudging*: microchanges at the level of neurons or electro-cortical fields designed to induce certain outcomes. Simulators might do this because they are studying us, because they are "playing us" in some sort of video game (think *Being John Malkovich*), or because they want to guide us towards cheaper regions of simulation space.
-
-We will argue from a few different perspectives that influencing decisions in this way is exceedingly difficult, so we have a form of "computational free will". To be clear, the arguments are based on the assumption that simulators share our math and physics, and that even if they can simulate a whole universe, they are compute-constrained in that they cannot simulate things *exponentially large* in the size of our universe. I should add that I don't believe we live in a simulation; one of my goals is to show that such a simulation is useless and expensive and thus decrease its posterior credibility.
-
 ## Chaos
 
 A simple reason we might think that influencing a decision is hard is *chaos*. In its simple Lyapunov form, it says that an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically:
@@ -46,6 +38,14 @@ $$
 $$
 
 using Stirling's formula. This is exponential in both $N$ and $n$, which for $N \sim 10^{10}$ neurons, is plausibly outside the computational reach of our simulators.
+
+<!-- 
+
+## Introduction
+
+Suppose we are living in a simulation. A disturbing possibility is that the simulators could be influencing our decisions, not by violent, large-scale interventions (these violate the integrity of the simulation), but by *nudging*: microchanges at the level of neurons or electro-cortical fields designed to induce certain outcomes. Simulators might do this because they are studying us, because they are "playing us" in some sort of video game (think *Being John Malkovich*), or because they want to guide us towards cheaper regions of simulation space.
+
+We will argue from a few different perspectives that influencing decisions in this way is exceedingly difficult, so we have a form of "computational free will". To be clear, the arguments are based on the assumption that simulators share our math and physics, and that even if they can simulate a whole universe, they are compute-constrained in that they cannot simulate things *exponentially large* in the size of our universe. I should add that I don't believe we live in a simulation; one of my goals is to show that such a simulation is useless and expensive and thus decrease its posterior credibility.
 
 ## Influence maximization
 
