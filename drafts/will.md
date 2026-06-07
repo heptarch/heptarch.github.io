@@ -76,6 +76,9 @@ $$
 
 then the general problem of deciding if $\sigma_0$ ever reaches $\sigma$ is [$\textsf{PSPACE}$-complete](https://en.wikipedia.org/wiki/PSPACE). (This is likely much harder than [$\textsf{NP}$-complete](https://en.wikipedia.org/wiki/NP-completeness) problems.)
 Asymmetric weights are biologically plausible for neurons since neural information tends to flow in one direction along the network.
+In words, telling if one state in an SDS asymmetrically threshold updates to another state is, in general, wickedly difficult.
+
+## Philosophy
 
 <!-- 
 
