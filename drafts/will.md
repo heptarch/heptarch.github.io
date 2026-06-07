@@ -55,10 +55,10 @@ $$
 $$
 
 For simulators, $\sigma$ is a target brain state, e.g., where we make a different decision, and $\sigma_0$ is a perturbed initial brain state.
-Now, this isn't a perfect model. First, a neural network is time-dependent, but the SDS has static update rule $f$. But although this is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale. Another objection is that neural networks are stochastic, and the SDS is deterministic. But stochastic behaviour coarse grains some (more complex) deterministic behaviour, so we lose nothing with this restriction. Finally, it may seem like nodes cannot possibly capture the full complexity of neural dynamics, but we can export complexity to the state space $\Sigma$ and update rules $f_v$.
+Now, this isn't a perfect model. First, a neural network is time-dependent, but the SDS has static update rule $f$. But although this is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale. Another objection is that neural networks are stochastic, and the SDS is deterministic. But stochastic behaviour coarse grains some (more complex) deterministic behaviour (for instance discrete Hopfield networks), so we lose nothing with this restriction. Finally, it may seem like nodes cannot possibly capture the full complexity of neural dynamics, but we can export complexity to the state space $\Sigma$ and update rules $f_v$.
 
-For some simple update rules, the problem of reachability is solvable. But it quickly becomes impossible.
-[Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show there are simple dynamical conditions that make it hard to decide if $S$ ever cascades into $\mathcal{B}$.
+For highly symmetric update rules, the problem of reachability can be efficiently solved. But it quickly becomes impossible!
+[Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that very simple conditions lead to an intractable reachability problem.
 If weights are *asymmetric*, meaning
 
 $$
