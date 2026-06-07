@@ -80,6 +80,8 @@ In words, telling if one state in an SDS asymmetrically threshold updates to ano
 
 ## Philosophy
 
+$\textsf{PSPACE}$ is contained in $\textsf{EXPTIME}$, meaning that we can solve 
+
 <!-- 
 
 This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is very biologically plausible, since excitations tend to flow unidirectionally along neural pathways.
