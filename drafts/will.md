@@ -59,25 +59,28 @@ Now, this isn't a perfect model. Unlike the SDS, neural networks are time-depend
 
 For highly symmetric update rules, the problem of reachability can be efficiently solved. But it quickly becomes impossible!
 For concreteness, fix a *threshold update rule* as follows.
-We consider a binary state space $\Sigma = \\{0, 1\\}$ and define
+We use a binary state space $\Sigma = \\{0, 1\\}$ and define
 
 $$
 \sigma_v(t+1) = \left[ \sum_{w\in N(v)} b_{vw} \sigma_w(t) \geq \alpha \right]
 $$
 
 where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket), $b_{vw}$ is a set of weights, and $\alpha$ is a fixed constant.
-This is a reasonable accurate model of excitatory processes in the brain (closely related to gated neural networks).
+This is a reasonable accurate model of excitatory processes in the brain where neurons are excited by adjacent neurons in a gated way.
+
+Here's the punchline.
 [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that if weights are *asymmetric*, meaning
 
 $$
 b_{vw} \neq b_{wv} \text{ for all } w, v \in V,
 $$
 
-then the general problem of deciding if $S \to \mathcal{B}$ is [$\textsf{PSPACE}$-complete](https://en.wikipedia.org/wiki/PSPACE). 
-
-This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is very biologically plausible, since excitations tend to flow unidirectionally along neural pathways.
+then the general problem of deciding if $\sigma_0$ ever reaches $\sigma$ is [$\textsf{PSPACE}$-complete](https://en.wikipedia.org/wiki/PSPACE). 
+This is realistic for neurons since excitation tends to be asymmetric, with information flowing in one direction along a network and not the other.
 
 <!-- 
+
+This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is very biologically plausible, since excitations tend to flow unidirectionally along neural pathways.
 
 ## Introduction
 
