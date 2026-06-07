@@ -26,7 +26,7 @@ $$
 $$
 
 for *Lyapunov exponent* $\lambda$.
-But this cuts two ways. It shows that short-term dynamics on the order of the Lyapunov time $\lambda^{-1}$ is essentially unpredictable (since errors grow exponentially), so simulators cannot have analytic control over brain states for finite-precision initial conditions.
+This shows that short-term dynamics on the order of the Lyapunov time $\lambda^{-1}$ is essentially unpredictable (since errors grow exponentially), so simulators cannot have analytic control over brain states for initial conditions specified with finite precision.
 
 The problem is that simulators know brain states *exactly*, so they may well be able to predict future brain states. Worse, the sensitivity to initial conditions suggests that microscopic adjustments can quickly grow into large-scale changes. This seems like a slam dunk for the simulators!
 But there is a difference between evolving a brain state and guiding it towards a target outcome. Random seeds lead to random outcomes; unless they can solve the *inverse problem* of determining the seed from the outcome, they are restricted to brute force search (via analytics or simulation) over the space of small perturbations.
