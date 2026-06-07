@@ -44,7 +44,7 @@ using Stirling's formula. This is exponential in both $N$ and $n$, which for $N 
 
 In order to say something beyond numerology, we need to model the problem mathematically.
 We treat the network of neurons as a graph $G = (V, E)$, where each neuron is a node $v \in V$ and neural connections are undirected edges $\{v, w\} \in E$.
-There is some 
+Each neuron has a state $\sigma_v(t) \in \Sigma$ at time $t$, with a local update rule $f_v: \sigma_v(t) \mapsto \sigma_v(t+1)$ given by a deterministic function of the state of the neighbours $w \in N(v)$.
 
 <!-- 
 
