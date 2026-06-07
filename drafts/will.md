@@ -78,10 +78,12 @@ then the general problem of deciding if $\sigma_0$ ever reaches $\sigma$ is [$\t
 Asymmetric weights are biologically plausible for neurons since neural information tends to flow in one direction along the network.
 $\textsf{PSPACE}$ is contained in $\textsf{EXPTIME}$, meaning that we can solve the problem in exponential time, but we've assumed this exceeds the computate budget of our simulators.
 
-## Philosophy
+## Conclusion
 
 So, telling if one state in an SDS asymmetrically threshold updates to another state is, in general, wickedly difficult.
-It's possible the update rules for neurons look different (though they don't look dramatically different) or that our brains are for some reason much easier than the worst-case scenario which worst-case complexity deals with (a more legitimate objection). Unfortunately, average-case complexity is much harder and requires an input probability distribution, which in turn requires a more precise input model for the biological substrate.
+It's possible the update rules for neurons look different (though they don't look dramatically different) or that our brains are for some reason much easier than the worst-case scenario which worst-case complexity deals with (a more legitimate objection). Unfortunately, average-case complexity is much harder and requires an input probability distribution, which in turn requires a more precise input model for the biological substrate. These are well beyond the scope of this modest blog post.
+
+But I hope I've persuaded you that, even on the off chance we live in a simulation, it is highly unlikely our thoughts are in any way controlled by the simulators. They could perturb us, certainly; but they have no reliable way of telling what large-scale changes those perturbations will induce, other than by simulating and seeing what happens.
 
 <!-- 
 
