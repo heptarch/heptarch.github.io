@@ -66,7 +66,7 @@ $$
 $$
 
 where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket), $b_{vw}$ is a set of weights, and $\alpha$ is a fixed constant.
-This is a reasonable accurate model of excitatory processes in the brain where neurons are excited by adjacent neurons in a gated way.
+This is a reasonable accurate model of excitatory processes in the brain where activation is passed along neural connections in a gated way.
 Here's the punchline.
 [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that if weights are *asymmetric*, meaning
 
