@@ -47,6 +47,7 @@ We treat the network of neurons as a graph $G = (V, E)$, where each neuron is a 
 Each neuron has a state $\sigma_v(t) \in \Sigma$ at time $t$, with a local update rule $f_v: \Sigma^{\delta_v} \to \Sigma$ solely in terms of states of neighbours of $v$, with $\delta_v = |N(v)|$ the degree of $v$.
 The state of the whole graph at time $t$ is $\sigma(t) \in \Sigma^{|V|}$, and the global update rule is $f$.
 This is called a *sequential dynamical system (SDS)*.
+
 The *reachability problem* for an SDS is simply the question of whether the initial global state $\sigma_0$ ever evolves to some target global state $\sigma$, i.e., whether
 
 $$
