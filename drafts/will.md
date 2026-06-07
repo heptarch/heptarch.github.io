@@ -45,6 +45,7 @@ using Stirling's formula. This is exponential in both $N$ and $n$, which for $N 
 In order to say something beyond numerology, we need to model the problem mathematically.
 We treat the network of neurons as a graph $G = (V, E)$, where each neuron is a node $v \in V$ and neural connections are undirected edges $\\{v, w\\} \in E$.
 Each neuron has a state $\sigma_v(t) \in \Sigma$ at time $t$, with a local update rule $f_v: \Sigma^{\delta_v} \to \Sigma$ solely in terms of states of neighbours of $v$, with $\delta_v = |N(v)|$ the degree of $v$.
+The state of the whole graph at time $t$ is $\sigma(t) \in \Sigma^{|V|}$.
 This is called a *sequential dynamical system (SDS)*.
 
 <!-- 
