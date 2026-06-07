@@ -55,7 +55,7 @@ $$
 $$
 
 For simulators, $\sigma$ is a target brain state, e.g., where we make a different decision, and $\sigma_0$ is a perturbed initial brain state.
-Now, this isn't a perfect model. Unlike the SDS, neural networks are time-dependent and stochastic. But although time-independence is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale. Second, stochastic behaviour coarse grains some (more complex) deterministic behaviour (for instance discrete Hopfield networks), so we lose nothing with this restriction. 
+Now, this isn't a perfect model. Unlike the SDS, neural networks are time-dependent and stochastic. But although time-independence is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale so this isn't an issue. Second, stochastic behaviour coarse grains some (more complex) deterministic behaviour (for instance discrete Hopfield networks), so we lose nothing with this restriction. 
 
 For concreteness, fix a *threshold update rule* as follows.
 We consider a binary state space $\Sigma = \\{0, 1\\}$ and define
