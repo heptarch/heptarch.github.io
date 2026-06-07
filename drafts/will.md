@@ -19,7 +19,7 @@ By the way, full disclosure: I don't think we live in a simulation. Part of the 
 
 ## Chaos
 
-A simple reason we might think that influencing a decision is hard is *chaos*. In its simple Lyapunov form, it says that an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time, or mathematically speaking:
+A simple reason to think controlling decisions is hard is *chaos*. In its Lyapunov form, it says that an initial uncertainty $\delta x_0$ in a parameter $x$ grows exponentially in time:
 
 $$
 \delta x(t) \approx e^{\lambda t}\delta x_0
