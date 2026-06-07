@@ -27,8 +27,9 @@ $$
 
 for *Lyapunov exponent* $\lambda$.
 This shows that short-term dynamics on the order of the Lyapunov time $\lambda^{-1}$ is essentially unpredictable (since errors grow exponentially), so simulators cannot have analytic control over brain states for initial conditions specified with finite precision.
+If dynamics cannot be predicted, it presumably cannot be controlled.
 
-The problem is that simulators know brain states *exactly*, so they may well be able to predict future brain states. Worse, the sensitivity to initial conditions suggests that microscopic adjustments can quickly grow into large-scale changes. This seems like a slam dunk for the simulators!
+The problem with this argument is that simulators know brain states *exactly*, so they may well be able to predict future brain states. Worse, the sensitivity to initial conditions suggests that microscopic adjustments can quickly grow into large-scale changes. This seems like a slam dunk for the simulators!
 But there is a difference between evolving a brain state and guiding it towards a target outcome. Random seeds lead to random outcomes; unless they can solve the *inverse problem* of determining the seed from the outcome, they are restricted to brute force search (via analytics or simulation) over the space of small perturbations.
 
 Our focus now will be to understand the inverse problem and characterize its difficulty. The space of small perturbations is continuous, but even if discretized, it is exponentially large in the number of neurons $N$. If "small" means at most $n = \alpha N$ neurons are perturbed (for $\alpha \ll 1$ but $\alpha N \gg 1$) and there are $\ell$ ways to perturb a neuron, the number of perturbations is
