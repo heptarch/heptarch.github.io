@@ -75,8 +75,8 @@ $$
 b_{vw} \neq b_{wv} \text{ for all } w, v \in V,
 $$
 
-then the general problem of deciding if $\sigma_0$ ever reaches $\sigma$ is [$\textsf{PSPACE}$-complete](https://en.wikipedia.org/wiki/PSPACE). 
-This is realistic for neurons since excitation tends to be asymmetric, with information flowing in one direction along a network and not the other.
+then the general problem of deciding if $\sigma_0$ ever reaches $\sigma$ is [$\textsf{PSPACE}$-complete](https://en.wikipedia.org/wiki/PSPACE). (This is likely much harder than [$\textsf{NP}$-complete](https://en.wikipedia.org/wiki/NP-completeness) problems.)
+Asymmetric weights are biologically plausible for neurons since neural information tends to flow in one direction along the network.
 
 <!-- 
 
