@@ -38,11 +38,11 @@ $$
 \sum_{k=0}^n \ell^k \binom{N}{k} \sim  \frac{\ell^n N!}{n!(N - n)!} = \mathcal{O}\left[\left(\frac{1}{1-\alpha}\right)^N\left(\frac{\ell(1-\alpha)}{\alpha}\right)^n\right]
 $$
 
-using Stirling's formula. This is exponential in both $N$ and $n$, which for $N \sim 10^{10}$ neurons, is plausibly outside the computational reach of our simulators unless $n = \mathcal{O}(1)$. But even if they manage to reduce the search space to something reasonable, how do they do even know the target state is reachable after a perturbation?
+using Stirling's formula. This is exponential in both $N$ and $n$, which for $N \sim 10^{10}$ neurons, is plausibly outside the computational reach of our simulators unless $n = \mathcal{O}(1)$. But even if they manage to reduce the search space to something reasonable, how do they know the target state is even *reachable* after a perturbation?
 
 ## Reachability
 
-We now model this reachability problem formally.
+At this point, we need to go formal and model the reachability problem mathematically.
 We treat the network of neurons as a graph $G = (V, E)$, where each neuron is a node $v \in V$ and neural connections are undirected edges $\\{v, w\\} \in E$.
 Each neuron has a state $\sigma_v(t) \in \Sigma$ at time $t$, with a local update rule $f_v: \Sigma^{\delta_v} \to \Sigma$ solely in terms of states of neighbours of $v$, with $\delta_v = |N(v)|$ the degree of $v$.
 The state of the whole graph at time $t$ is $\sigma(t) \in \Sigma^{|V|}$, and the global update rule is $f$.
