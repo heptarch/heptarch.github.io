@@ -65,6 +65,8 @@ $$
 $$
 
 where $[\cdot]$ is the [Iverson bracket](https://en.wikipedia.org/wiki/Iverson_bracket), $b_{vw}$ is a set of weights, and $\alpha$ is a fixed constant.
+This is a reasonable accurate model of excitatory processes in the brain (closely related to gated neural networks).
+
 For highly symmetric update rules, the problem of reachability can be efficiently solved. But it quickly becomes impossible!
 [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that very simple conditions lead to an intractable reachability problem.
 
