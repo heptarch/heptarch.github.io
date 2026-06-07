@@ -7,11 +7,17 @@ categories: [Philosophy, simulation]
 date:  2026-06-04
 ---
 
-**June 4, 2026.** *Mining an unexpected connection between free will and simulation.*
+**June 4, 2026.** *If we live in a simulation, it seems like the simulators could control our thoughts by subtly nudging us towards outcomes they have chosen. I give a mathematical proof that we can rest easy, with a form of "computational free will" ensured by complexity theory.*
 
 ## Introduction
 
-Suppose we are living in a simulation. A disturbing possibility is that the simulators could be influencing our decisions, not by violent, large-scale interventions (these violate the integrity of the simulation), but by *nudging*: microchanges at the level of neurons or electro-cortical fields designed to induce certain outcomes. Simulators might do this because they are studying us, because they are "playing us" in some sort of video game (think *Being John Malkovich*), or because they want to guide towards cheaper regions of simulation space.
+Suppose we are agents in a simulation. An even more disturbing possibility, in this case, is that simulators have decided to influence or even control our thoughts. Not by violent, large-scale interventions—this violates the integrity of the simulation—but more subtly, by *nudging us*: microscopic changes at the neuronal or electrocortical level that cascade into, e.g., impacts on decision making or other deliberative processes.
+
+<!-- 
+
+## Introduction
+
+Suppose we are living in a simulation. A disturbing possibility is that the simulators could be influencing our decisions, not by violent, large-scale interventions (these violate the integrity of the simulation), but by *nudging*: microchanges at the level of neurons or electro-cortical fields designed to induce certain outcomes. Simulators might do this because they are studying us, because they are "playing us" in some sort of video game (think *Being John Malkovich*), or because they want to guide us towards cheaper regions of simulation space.
 
 We will argue from a few different perspectives that influencing decisions in this way is exceedingly difficult, so we have a form of "computational free will". To be clear, the arguments are based on the assumption that simulators share our math and physics, and that even if they can simulate a whole universe, they are compute-constrained in that they cannot simulate things *exponentially large* in the size of our universe. I should add that I don't believe we live in a simulation; one of my goals is to show that such a simulation is useless and expensive and thus decrease its posterior credibility.
 
@@ -80,9 +86,9 @@ There are two interesting things to say about the IM problem. First, exactly sol
 It's not really clear how pure cascade size translates into steering a decision. Instead of maximizing influence, we want to seed a cascade that ends by exciting precisely the target basin of attraction. More precisely, we want to choose $S = \mathcal{X}_0$ to eventually excite a target configuration $\mathcal{B}$, as quantified by success probability
 
 $$
-f_\mathcal{T}(S) = \mathbb{P}[\mathcal{X}_\infty = \mathcal{B}].
+f_\mathcal{T}(S) = \mathbb{P}[\exists t: \mathcal{X}_t = \mathcal{B}],
 $$
-
+i.e., at some time $t$ 
 This is much closer to a different problem called *dynamical system reachability*, where we think of the information diffusion step as forming a dynamical system on the graph.
 [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show there are simple dynamical conditions that make it hard to decide if $S$ ever cascades into $\mathcal{B}$.
 If weights are *asymmetric*, meaning
@@ -102,9 +108,9 @@ So, what does this all tell us? Roughly, that
 - under fairly reasonable assumptions, dynamical reachability is $\textsf{PSPACE}$-complete;
 - thus, the inverse problem resembles another problem with hard instances.
 
-The chain of argument could fail in a few ways. First, the resemblance between the biological problem of decision influence and dynamical reachability may fail. It could, but the analogy seems persuasive to me. A more serious issue is that the existence of hard worst-case instances does not mean the specific instance of brains is hard.
+The chain of argument could fail in a few ways. First, the resemblance between the biological problem of decision influence and dynamical reachability may fail. It could, but the analogy seems persuasive to me. A more serious issue is that the existence of hard worst-case instances does not mean the specific instance of brains is hard. But let's assume that, in general, 
 
-<!-- 
+---
 
 A second simplification we now lift is that coefficients $b_{vw}$ are *positive*. Inhibitory relations between adjacant neurons are more realistic, and modelled by negative $b_{vw}$. Both target sets and inhibitory relations ruin monotone submodularity; adding neurons need not help us end up in the target set, since we can easily "overshoot" and end up in a different basin altogether!
 
