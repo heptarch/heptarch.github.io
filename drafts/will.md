@@ -7,7 +7,7 @@ categories: [Philosophy, simulation]
 date:  2026-06-04
 ---
 
-**June 4, 2026.** *If we live in a simulation, it seems like the simulators could control our thoughts by subtly nudging us towards outcomes they have chosen. I give a mathematical proof that we can rest easy, with a form of "computational free will" ensured by complexity theory.*
+**June 4, 2026.** *If we live in a simulation, it seems like simulators could nudge us towards outcomes they choose in advance. I explain why we can rest easy, with a form of "computational free will" ensured by complexity theory.*
 
 ## Introduction
 
