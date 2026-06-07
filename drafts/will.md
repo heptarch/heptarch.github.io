@@ -56,7 +56,14 @@ $$
 
 This isn't a perfect model. First, a neural network is time-dependent, but the SDS has static update rule $f$. But although this is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale. Another objection is that neural networks are stochastic, and the SDS is deterministic. But stochastic behaviour coarse grains some (more complex) deterministic behaviour, so we lose nothing with this restriction. Finally, it may seem like nodes cannot possibly capture the full complexity of neural dynamics, but we can export complexity to the state space $\Sigma$ and update rules $f_v$.
 
-Now,
+[Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show there are simple dynamical conditions that make it hard to decide if $S$ ever cascades into $\mathcal{B}$.
+If weights are *asymmetric*, meaning
+
+$$
+b_{vw} \neq b_{wv} \text{ for all } w, v \in V,
+$$
+
+then the general problem of deciding if $S \to \mathcal{B}$ is $\textsf{PSPACE}$-complete. This means that any problem that takes polynomial space but *arbitrary* time—which includes all the problems in $\mathsf{NP}$, making this a much more formidable class—can be reduced to an instance of dynamic reachability. As for the dynamical condition, asymmetry is very biologically plausible, since excitations tend to flow unidirectionally along neural pathways.
 
 <!-- 
 
