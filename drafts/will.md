@@ -54,7 +54,7 @@ $$
 \exists t : f^{(t)}[\sigma_0] = \sigma.
 $$
 
-This isn't a perfect model. First, a neural network is time-dependent, but the SDS has static update rule $f$. But although this is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale. Another objection is that neural networks are stochastic, and the SDS is deterministic. But that stochastic behaviour probably is probably equivalent to some (more complex) deterministic behaviour, so we lose nothing. Finally, it may seem like modelling a node cannot possibly capture the full complexity of neural dynamics, but the state space $\Sigma$ and update rules $f_v$ let us export the complexity there.
+This isn't a perfect model. First, a neural network is time-dependent, but the SDS has static update rule $f$. But although this is unrealistic on the time scale of learning, the network *is* fixed over the decision time scale. Another objection is that neural networks are stochastic, and the SDS is deterministic. But stochastic behaviour coarse grains some (more complex) deterministic behaviour, so we lose nothing with this restriction. Finally, it may seem like nodes cannot possibly capture the full complexity of neural dynamics, but we can export complexity to the state space $\Sigma$ and update rules $f_v$.
 
 Now,
 
