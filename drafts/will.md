@@ -11,7 +11,9 @@ date:  2026-06-04
 
 ## Introduction
 
-Suppose we are agents in a simulation. An even more disturbing possibility, in this case, is that simulators have decided to influence or even control our thoughts. Not by violent, large-scale interventions—this violates the integrity of the simulation—but more subtly, by *nudging us*: microscopic changes at the neuronal or electrocortical level that cascade into, e.g., impacts on decision making or other deliberative processes.
+Suppose we are agents in a simulation. An even more disturbing possibility, in this case, is that simulators have decided to influence or even control our thoughts. Not by violent, large-scale interventions—this violates the integrity of the simulation—but more subtly, by *nudging us*: microscopic changes at the neuronal or electrocortical level that cascade into, e.g., impacts on decision making or other deliberative processes. Simulators might do this because they are A/B-testing our behaviour, playing us in some sort of video game (think *Being John Malkovich*), or because they want to guide us towards cheaper regions of simulation space.
+
+Whatever the reason, this would be a crude, direct assault on the notion of free will. 
 
 <!-- 
 
