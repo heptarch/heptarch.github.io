@@ -71,7 +71,7 @@ Here's the punchline.
 [Barrett et. al. (2003)](https://www.sciencedirect.com/science/article/pii/S030439750200395X) show that if weights are *asymmetric*, meaning
 
 $$
-b_{vw} \neq b_{wv} \text{ for all } w, v \in V,
+b_{vw} \neq b_{wv} \text{ for all } v, w \in V,
 $$
 
 then the general problem of deciding if $\sigma_0$ ever reaches $\sigma$ is [$\textsf{PSPACE}$-complete](https://en.wikipedia.org/wiki/PSPACE). (This is likely much harder than [$\textsf{NP}$-complete](https://en.wikipedia.org/wiki/NP-completeness) problems.)
