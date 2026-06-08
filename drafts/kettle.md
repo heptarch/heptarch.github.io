@@ -53,7 +53,7 @@ Two works treat the machine's errors not as bugs but as genres. **Lena Fischbach
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/endemic/declined.png" width="550" style="margin: 20 px;"/>
+    ="/img/endemic/declined.png" width="700" style="margin: 20 px;"/>
 	<figcaption> <br><i>Declined</i> (2025), NULLSET. Framed printouts. </figcaption>
 	</div>
 	</figure>
@@ -62,7 +62,7 @@ The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 17
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/endemic/seed.png" width="550" style="margin: 20 px;"/>
+    ="/img/endemic/seed.png" width="700" style="margin: 20 px;"/>
 	<figcaption> <br><i>Seed 1729</i> (2024), Wen Liang. Pigment print. </figcaption>
 	</div>
 	</figure>
