@@ -9,10 +9,9 @@ date:  2026-06-08
 
 **June 8, 2026.** *A short experiment in AI creativity.*
 
-# Endemic
-### Forms Native to the Machine
+## Endemic: Forms Native to the Machine
 
-*Kettle Yard Annexe, Cambridge — 14 March – 22 June 2026*
+*Kettle Yard Annexe, Cambridge: 14 March–22 June 2026*
 
 For three years the question hung over every show of its kind: *can a machine make art like ours?* **Endemic** declines the question. It is the wrong one — as wrong as asking whether a coral reef can be taught to paint. The premise of this exhibition is that generative systems were never failing to imitate us. They have been quietly speciating. The six works gathered here are not machine versions of human forms; they are forms with no human ancestor, endemic to the strange interior of a model the way certain finches are endemic to a single island. They could have arisen nowhere else.
 
