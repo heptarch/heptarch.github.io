@@ -68,6 +68,6 @@ The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 17
 	</div>
 	</figure>
 
-A note on the catalogue, and on this very text: portions of both were drafted in conversation with a model, then cut, argued with, and overruled. The seam is deliberate. **Endemic** does not claim the machine is an artist. It claims something stranger — that it is a *place*, with its own weather and its own endemic life, and that the artists here are the first to have gone in and come back with field notes.
+A note on the catalogue, and on this very text: portions of both were drafted in conversation with a model, then cut, argued with, and overruled. The seam is deliberate. **Endemic** does not claim the machine is an artist. It claims something stranger, namely, that it is a *place*, with its own weather and its own endemic life, and that the artists here are the first to have gone in and come back with field notes.
 
 *— Curatorial notes, Endemic*
