@@ -42,9 +42,30 @@ If Lim's piece reveals the machine's sense of time, **Mira Kessler's *Lullaby (C
 
 The smear of all those photographs and the flattening of all those melodies prepare us for **Tomás Iglesias's *Everyone I Was Asked to Picture*** (2025), a pigment print two metres high. Iglesias generated one hundred thousand portraits from a single innocuous prompt—*a person*—and folded them into one composite. The face that results is gold-lit, ageless, symmetrical to the point of menace, and belongs to no one alive. It is the statistical mean given features. The work's quiet horror is that the mean is *flattering*: the machine, asked simply for a person, returns an idealized one, and in doing so hands us a portrait of its own training set's unspoken preferences. You leave the room having met everybody and nobody.
 
-Two works treat the machine's errors not as bugs but as genres. **Lena Fischbach's *Further Reading*** (2026) is shown as a single detail: the fore-edge of an impossible book, hundreds of printed leaves seen on the diagonal, their columns descending into the gutter as pure striation. There are no discrete entries to read, and that is the point. The machine's native output was never the citation but the stream — text as sediment, laid down in inexhaustible undifferentiated strata, unreadable not because anything has been withheld but because there is simply too much of it and none of it ever resolves. Every line is a confabulation, the model's word for a falsehood produced in perfect good faith; here they have silted up into a cliff-face. The title is the only joke left: there is no *further*, only *more*. Across the corridor, **the collective NULLSET's *Declined*** (2025) fills forty vitrines with the inverse: the prompts the model refused to complete, printed as the polite, near-identical sentences of refusal, with the requests themselves redacted to black bars. It is a gallery of doors that did not open — a corpus described entirely by its edges, and a strangely moving one.
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/endemic/further.png" width="550" style="margin: 20 px;"/>
+	<figcaption> <br><i>Further Reading</i> (2026), Lena Fischbach. Paper, ink. </figcaption>
+	</div>
+	</figure>
+
+Two works treat the machine's errors not as bugs but as genres. **Lena Fischbach's *Further Reading*** (2026) is shown as a single detail: the fore-edge of an impossible book, hundreds of printed leaves seen on the diagonal, their columns descending into the gutter as pure striation. There are no discrete entries to read, and that is the point. The machine's native output was never the citation but the stream: text as sediment, laid down in inexhaustible undifferentiated strata, unreadable not because anything has been withheld but because there is simply too much of it and none of it ever resolves. Every line is a confabulation, the model's word for a falsehood produced in perfect good faith; here they have silted up into a cliff-face. The title is the only joke left: there is no *further*, only *more*. Across the corridor, **the collective NULLSET's *Declined*** (2025) fills forty vitrines with the inverse: the prompts the model refused to complete, printed as the polite, near-identical sentences of refusal, with the requests themselves redacted to black bars. It is a gallery of doors that did not open, a corpus described entirely by its edges, and a strangely moving one.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/endemic/declined.png" width="550" style="margin: 20 px;"/>
+	<figcaption> <br><i>Declined</i> (2025), NULLSET. Framed printouts. </figcaption>
+	</div>
+	</figure>
 
 The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 1729*** (2024) is a diptych: on one panel a luminous, half-remembered interior — a corridor beneath a skylight, opening onto rooms that were never built — and on the other a printed page that seems to describe it. The page is the trap. It is not a caption or a key but a second generation: the model's own confabulated account of a picture it cannot read, each line dissolving into plausibility a half-inch short of sense. The panels do not explain one another; they circle. Both are machine-made, both unreliable, each gesturing at the other across the space where a human reading should sit and doesn't. The wall once promised a new verse form here — the prompt as a sonnet whose volta is a render, an address to a listener who always answers. But there is no prompt now, only the answer answering itself: the machine addressing the machine in a language that keeps almost meaning something. The seed number is not arbitrary; readers who know their Ramanujan will smile.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/endemic/seed.png" width="550" style="margin: 20 px;"/>
+	<figcaption> <br><i>Seed </i> (2025), NULLSET. Pigment print. </figcaption>
+	</div>
+	</figure>
 
 A note on the catalogue, and on this very text: portions of both were drafted in conversation with a model, then cut, argued with, and overruled. The seam is deliberate. **Endemic** does not claim the machine is an artist. It claims something stranger — that it is a *place*, with its own weather and its own endemic life, and that the artists here are the first to have gone in and come back with field notes.
 
