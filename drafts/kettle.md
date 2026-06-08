@@ -15,6 +15,13 @@ date:  2026-06-08
 
 For three years the question hung over every show of its kind: *can a machine make art like ours?* *Endemic* declines the question. It is the wrong one, as wrong as asking whether a coral reef can be taught to paint. The premise of this exhibition is that generative systems were never failing to imitate us. They have been quietly speciating. The six works gathered here are not machine versions of human forms; they are forms with no human ancestor, endemic to the strange interior of a model the way certain finches are endemic to a single island. They could have arisen nowhere else.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/posts/klee.png" width="500" style="margin: 20 px;"/>
+	<figcaption> <br><i>Zapfenfuge</i> (1922), Paul Klee. Watercolour and ink on canvas.</figcaption>
+	</div>
+	</figure>
+
 The clearest case is **Saoirse Lim's *Demolition (Continuous)*** (2025), the single-channel video that anchors the first room. Lim gathered all 3,412 surviving photographs of the Vance Street Telephone Exchange, an Edwardian building razed in 2019, and trained a diffusion model on that archive and nothing else. The result, projected silently at architectural scale and looped every forty-seven minutes, is not a slideshow. It is a single unbroken morph: the Exchange breathing through every state in which it was ever seen, dawn bleeding into floodlit night, scaffolding dissolving back into stone, a demolition running gently backward and forward at once. The building is never shown as it stood on any particular day. It is shown as the continuous average of every day it was witnessed. Photography gave us the instant; Lim's machine gives us the building's native tense, which turns out to be the imperfect — the *was-being*, the ongoing. No camera has ever held a thing this way.
 
 If Lim's piece reveals the machine's sense of time, **Mira Kessler's *Lullaby (Convergent)*** (2024) reveals its sense of repetition. In an eight-channel sound installation lasting twelve minutes, Kessler feeds a generative audio model a single Hungarian cradle-song and asks it, recursively, for "more of the same." At first the variations are tender and plausible. Then, minute by minute, the variety leaks out of the room. The melody narrows, the ornament falls away, and by the eleventh minute every channel has collapsed onto one sustained, dimensionless pitch — the sound of a system mistaking sameness for faithfulness. Engineers call this failure *mode collapse*. Kessler hears it as a kind of forgetting, and standing inside the eight speakers as the song erases itself is the most genuinely uncanny ten minutes in the show.
