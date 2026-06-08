@@ -17,7 +17,7 @@ For three years the question hung over every show of its kind: can a machine mak
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/endemic/demolition.png" width="600" style="margin: 20 px;"/>
+    ="/img/endemic/demolition.png" width="650" style="margin: 20 px;"/>
 	<figcaption> <br><i>Demolition (Continuous)</i> (2025), Saoirse Lim. </figcaption>
 	</div>
 	</figure>
