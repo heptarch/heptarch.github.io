@@ -44,7 +44,7 @@ The smear of all those photographs and the flattening of all those melodies prep
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/endemic/further.png" width="700" style="margin: 20 px;"/>
+    ="/img/endemic/further.png" width="550" style="margin: 20 px;"/>
 	<figcaption> <br><i>Further Reading</i> (2026), Lena Fischbach. Paper, ink. </figcaption>
 	</div>
 	</figure>
