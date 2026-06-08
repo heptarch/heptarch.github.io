@@ -1,0 +1,31 @@
+---
+Layout: post
+mathjax: true
+comments: true
+title:  "The Kettle Yard Annexe"
+categories: [AI, art]
+date:  2026-06-08
+---
+
+**June 8, 2026.** *A short experiment in AI creativity.*
+
+# Endemic
+### Forms Native to the Machine
+
+*Kettle Yard Annexe, Cambridge — 14 March – 22 June 2026*
+
+For three years the question hung over every show of its kind: *can a machine make art like ours?* **Endemic** declines the question. It is the wrong one — as wrong as asking whether a coral reef can be taught to paint. The premise of this exhibition is that generative systems were never failing to imitate us. They have been quietly speciating. The six works gathered here are not machine versions of human forms; they are forms with no human ancestor, endemic to the strange interior of a model the way certain finches are endemic to a single island. They could have arisen nowhere else.
+
+The clearest case is **Saoirse Lim's *Demolition (Continuous)*** (2025), the single-channel video that anchors the first room. Lim gathered all 3,412 surviving photographs of the Vance Street Telephone Exchange, an Edwardian building razed in 2019, and trained a diffusion model on that archive and nothing else. The result, projected silently at architectural scale and looped every forty-seven minutes, is not a slideshow. It is a single unbroken morph: the Exchange breathing through every state in which it was ever seen, dawn bleeding into floodlit night, scaffolding dissolving back into stone, a demolition running gently backward and forward at once. The building is never shown as it stood on any particular day. It is shown as the continuous average of every day it was witnessed. Photography gave us the instant; Lim's machine gives us the building's native tense, which turns out to be the imperfect — the *was-being*, the ongoing. No camera has ever held a thing this way.
+
+If Lim's piece reveals the machine's sense of time, **Mira Kessler's *Lullaby (Convergent)*** (2024) reveals its sense of repetition. In an eight-channel sound installation lasting twelve minutes, Kessler feeds a generative audio model a single Hungarian cradle-song and asks it, recursively, for "more of the same." At first the variations are tender and plausible. Then, minute by minute, the variety leaks out of the room. The melody narrows, the ornament falls away, and by the eleventh minute every channel has collapsed onto one sustained, dimensionless pitch — the sound of a system mistaking sameness for faithfulness. Engineers call this failure *mode collapse*. Kessler hears it as a kind of forgetting, and standing inside the eight speakers as the song erases itself is the most genuinely uncanny ten minutes in the show.
+
+The smear of all those photographs and the flattening of all those melodies prepare us for **Tomás Iglesias's *Everyone I Was Asked to Picture*** (2025), a pigment print two metres high. Iglesias generated one hundred thousand portraits from a single innocuous prompt — *a person* — and folded them into one composite. The face that results is gold-lit, ageless, symmetrical to the point of menace, and belongs to no one alive. It is the statistical mean given features. The work's quiet horror is that the mean is *flattering*: the machine, asked simply for a person, returns an idealised one, and in doing so hands us a portrait of its own training set's unspoken preferences. You leave the room having met everybody and nobody.
+
+Two works treat the machine's errors not as bugs but as genres. **Lena Fischbach's *Further Reading*** (2026) is shown as a single detail: the fore-edge of an impossible book, hundreds of printed leaves seen on the diagonal, their columns descending into the gutter as pure striation. There are no discrete entries to read, and that is the point. The machine's native output was never the citation but the stream — text as sediment, laid down in inexhaustible undifferentiated strata, unreadable not because anything has been withheld but because there is simply too much of it and none of it ever resolves. Every line is a confabulation, the model's word for a falsehood produced in perfect good faith; here they have silted up into a cliff-face. The title is the only joke left: there is no *further*, only *more*. Across the corridor, **the collective NULLSET's *Declined*** (2025) fills forty vitrines with the inverse: the prompts the model refused to complete, printed as the polite, near-identical sentences of refusal, with the requests themselves redacted to black bars. It is a gallery of doors that did not open — a corpus described entirely by its edges, and a strangely moving one.
+
+The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 1729*** (2024) is a diptych: on one panel a luminous, half-remembered interior — a corridor beneath a skylight, opening onto rooms that were never built — and on the other a printed page that seems to describe it. The page is the trap. It is not a caption or a key but a second generation: the model's own confabulated account of a picture it cannot read, each line dissolving into plausibility a half-inch short of sense. The panels do not explain one another; they circle. Both are machine-made, both unreliable, each gesturing at the other across the space where a human reading should sit and doesn't. The wall once promised a new verse form here — the prompt as a sonnet whose volta is a render, an address to a listener who always answers. But there is no prompt now, only the answer answering itself: the machine addressing the machine in a language that keeps almost meaning something. The seed number is not arbitrary; readers who know their Ramanujan will smile.
+
+A note on the catalogue, and on this very text: portions of both were drafted in conversation with a model, then cut, argued with, and overruled. The seam is deliberate. **Endemic** does not claim the machine is an artist. It claims something stranger — that it is a *place*, with its own weather and its own endemic life, and that the artists here are the first to have gone in and come back with field notes.
+
+*— Curatorial notes, Endemic*
