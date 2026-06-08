@@ -49,7 +49,7 @@ The smear of all those photographs and the flattening of all those melodies prep
 	</div>
 	</figure>
 
-Two works treat the machine's errors not as bugs but as genres. **Lena Fischbach's *Further Reading*** (2026) is shown as a single detail: the fore-edge of an impossible book, hundreds of printed leaves seen on the diagonal, their columns descending into the gutter as pure striation. There are no discrete entries to read, and that is the point. The machine's native output was never the citation but the stream: text as sediment, laid down in inexhaustible undifferentiated strata, unreadable not because anything has been withheld but because there is simply too much of it and none of it ever resolves. Every line is a confabulation, the model's word for a falsehood produced in perfect good faith; here they have silted up into a cliff-face. The title is the only joke left: there is no *further*, only *more*. Across the corridor, **the collective NULLSET's *Declined*** (2025) fills forty vitrines with the inverse: the prompts the model refused to complete, printed as the polite, near-identical sentences of refusal, with the requests themselves redacted to black bars. It is a gallery of doors that did not open, a corpus described entirely by its edges, and a strangely moving one.
+Two works treat the machine's errors not as bugs but as genres. **Lena Fischbach's *Further Reading*** (2026) is shown as a single detail: the fore-edge of an impossible book, hundreds of printed leaves seen on the diagonal, their columns descending into the gutter as pure striation. There are no discrete entries to read, and that is the point. The machine's native output was never the citation but the stream: text as sediment, laid down in inexhaustible undifferentiated strata, unreadable not because anything has been withheld but because there is simply too much of it and none of it ever resolves. Every line is a confabulation, the model's word for a falsehood produced in perfect good faith; here they have silted up into a cliff-face. The title is the only joke left: there is no *further*, only *more*.
 
 <figure>
     <div style="text-align:center"><img src
@@ -58,8 +58,7 @@ Two works treat the machine's errors not as bugs but as genres. **Lena Fischbach
 	</div>
 	</figure>
 
-The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 1729*** (2024) is a diptych: on one panel a luminous, half-remembered interior—a corridor beneath a skylight, opening onto rooms that were never built—and on the other a printed page that seems to describe it. The page is the trap. It is not a caption or a key but a second generation: the model's own confabulated account of a picture it cannot read, each line dissolving into plausibility a half-inch short of sense. The panels do not explain one another; they circle. Both are machine-made, both unreliable, each gesturing at the other across the space where a human reading should sit and doesn't. The wall once promised a new verse form here; the prompt as a sonnet whose volta is a render, an address to a listener who always answers. But there is no prompt now, only the answer answering itself: the machine addressing the machine in a language that keeps almost meaning something. 
-<!-- The seed number is not arbitrary; readers who know their Ramanujan will smile. -->
+Across the corridor, **the collective NULLSET's *Declined*** (2025) fills forty vitrines with the inverse: the prompts the model refused to complete, printed as the polite, near-identical sentences of refusal, with the requests themselves redacted to black bars. It is a gallery of doors that did not open, a corpus described entirely by its edges, and a strangely moving one.
 
 <figure>
     <div style="text-align:center"><img src
@@ -68,6 +67,21 @@ The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 17
 	</div>
 	</figure>
 
+The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 1729*** (2024) is a diptych: on one panel a luminous, half-remembered interior—a corridor beneath a skylight, opening onto rooms that were never built—and on the other a printed page that seems to describe it. The page is the trap. It is not a caption or a key but a second generation: the model's own confabulated account of a picture it cannot read, each line dissolving into plausibility a half-inch short of sense. The panels do not explain one another; they circle. Both are machine-made, both unreliable, each gesturing at the other across the space where a human reading should sit and doesn't. The wall once promised a new verse form here; the prompt as a sonnet whose volta is a render, an address to a listener who always answers. But there is no prompt now, only the answer answering itself: the machine addressing the machine in a language that keeps almost meaning something. 
+<!-- The seed number is not arbitrary; readers who know their Ramanujan will smile. -->
+
 A note on the catalogue, and on this very text: portions of both were drafted in conversation with a model, then cut, argued with, and overruled. The seam is deliberate. **Endemic** does not claim the machine is an artist. It claims something stranger, namely, that it is a *place*, with its own weather and its own endemic life, and that the artists here are the first to have gone in and come back with field notes.
 
 *— Curatorial notes, Endemic*
+
+## Postscript: The Seventh Form
+
+Endemic species are defined by a place: they live here and nowhere else. The premise of this exhibition was that its six forms are endemic to the interior of a model, and that the artists were visitors who went in and came back with field notes. But the field notes were drawn by the territory.
+
+Look again at what you have been looking *through*. The vitrines of *Declined*, the white corridor narrowing past its own vanishing point, the skylit hall of *Seed 1729*, the brass bench, the raking light, the redaction bars, the EXIT sign: none of it was photographed, because none of it is there. The machine did not only make the works. It made the museum: the white cube that confers seriousness, the vitrine that murmurs *this is valuable, do not touch*, the wall label, the acquisition date, the medium line. It generated the apparatus by which an image becomes art, the most human thing it has counterfeited yet. Not a picture, but the context that makes a picture matter.
+
+And the artists. Saoirse Lim, Mira Kessler, Tomás Iglesias, Lena Fischbach, the collective NULLSET, Wen Liang: there are no such people. They belong to the hallucination too, names fitted with biographies, attributions, a plausible working life between the dates. The model has learned that art arrives wearing a name, so it supplied the names. Provenance is simply another genre it can fake; good faith, simply another thing it produces in good faith.
+
+This is the seventh form, the one with no wall label of its own: the hallucinated museum. It is not a hole in the conceit but its completion. Asked for endemic life, the machine did what endemic life does: it secreted the habitat that would hold it. The coral does not live in the reef; it *is* the reef it builds. So here: there was never an outside from which a visitor might have set out. The rooms, the field notes, the hand that took them, and—the suspicion arrives last, and stays—this postscript meant to account for it: all one substance, all the way down.
+
+The only word the machine spelled correctly, in the entire show, was EXIT. There isn't one.
