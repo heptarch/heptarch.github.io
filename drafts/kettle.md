@@ -26,7 +26,7 @@ The clearest case is **Saoirse Lim's *Demolition (Continuous)*** (2025), the sin
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/endemic/demolition.png" width="550" style="margin: 20 px;"/>
+    ="/img/endemic/lullaby.png" width="550" style="margin: 20 px;"/>
 	<figcaption> <br><i>Lullaby (Convergent)</i> (2024), Mira Kessler. Eight channel audio, 12 minutes. </figcaption>
 	</div>
 	</figure>
