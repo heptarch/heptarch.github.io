@@ -63,7 +63,7 @@ The exhibition closes on a circuit that has quietly shut. **Wen Liang's *Seed 17
 <figure>
     <div style="text-align:center"><img src
     ="/img/endemic/seed.png" width="550" style="margin: 20 px;"/>
-	<figcaption> <br><i>Seed </i> (2025), NULLSET. Pigment print. </figcaption>
+	<figcaption> <br><i>Seed 1729</i> (2024), Wen Liang. Pigment print. </figcaption>
 	</div>
 	</figure>
 
