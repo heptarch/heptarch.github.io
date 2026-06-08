@@ -17,8 +17,8 @@ For three years the question hung over every show of its kind: *can a machine ma
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/posts/klee.png" width="500" style="margin: 20 px;"/>
-	<figcaption> <br><i>Zapfenfuge</i> (1922), Paul Klee. Watercolour and ink on canvas.</figcaption>
+    ="/img/endemic/demolition.png" width="600" style="margin: 20 px;"/>
+	<figcaption> <br><i>Demolition (Continuous)</i> (2025), Saoirse Lim. </figcaption>
 	</div>
 	</figure>
 
