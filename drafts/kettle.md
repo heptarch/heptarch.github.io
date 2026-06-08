@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "The Kettle Yard Annexe"
 categories: [AI, art]
-date:  2026-06-08
+date:  2026-06-09
 ---
 
-**June 8, 2026.** *What happens when you ask AI to curate an exhibit about AI creativity? We find out.*
+**June 9, 2026.** *What happens when you ask AI to curate an exhibit about AI creativity? We find out.*
 
 ## Endemic: Forms Native to the Machine
 
