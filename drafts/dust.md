@@ -47,20 +47,8 @@ $$
 \eta = \left(\frac{\nu^3}{\epsilon}\right)^{1/3} \sim \left(\frac{L\nu^3}{u^3}\right)^{1/4} \sim\left(\frac{10 \cdot (1.5 \times 10^{-5})^3}{1^3}\right)^{1/4} \text{ m} \approx 0.43 \text{ mm}.
 $$
 
-This is consistent with [a typical Kolmogorov length scale](https://journals.ametsoc.org/view/journals/atsc/63/5/jas3687.1.pdf) of $\eta \sim 1 \text{ mm}$, which in turn, has implications for the preferential formation of raindrops of that size!
+This is consistent with [a typical Kolmogorov length scale](https://journals.ametsoc.org/view/journals/atsc/63/5/jas3687.1.pdf) of $\eta \sim 1 \text{ mm}$, which in turn, has implications for the preferential formation of raindrops of that size! So there's a nice throughline from wind to rain.
 
-<!-- https://www.researchgate.net/profile/Michael-Jones-66/publication/2246342_Regularization_Theory_and_Neural_Networks_Architectures/links/02bfe50d33d1a45e52000000/Regularization-Theory-and-Neural-Networks-Architectures.pdf -->
+## Ents
 
-<!-- https://www.stat.cmu.edu/~ryantibs/papers/sparsitynn.pdf -->
-
-<!-- https://en.wikipedia.org/wiki/Carter_constant -->
-
-<!-- https://arxiv.org/pdf/2204.02063.pdf -->
-
-<!-- https://arxiv.org/abs/1610.09702 -->
-
-<!-- https://arxiv.org/pdf/2301.10191 -->
-
-<!-- https://arxiv.org/pdf/2405.10958 -->
-
-<!-- https://en.wikipedia.org/wiki/Quintic_function#Beyond_radicals -->
+Trees
