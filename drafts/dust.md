@@ -72,7 +72,7 @@ $$
 $$
 
 for a constant of proportionality $\alpha$.
-The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution is approximately normal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994):
+The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution of leaf size is approximately normal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994), which relates variance and average as follows:
 
 $$
 \sigma^2 = \beta \cdot \mu^\alpha, \quad \alpha \approx 7.7, \quad \beta \approx 0.028.
