@@ -51,4 +51,4 @@ This is consistent with [a typical Kolmogorov length scale](https://journals.ame
 
 ## Whispering trees
 
-On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should, however; the leaves could sway in unison, producing no sound at all.
+On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should, however. The leaves could sway in unison, producing no sound at all. And even if they should make a sound, why make the soothing whisper that they do?
