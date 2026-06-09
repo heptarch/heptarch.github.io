@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Everyday physics: part 1"
+title: "Everyday Physics: Issue 1"
 date:  2026-06-10
 
 ---
