@@ -11,7 +11,7 @@ date:  2026-06-10
 
 ## The dust devil is in the details
 
-I recently observed a *dust devil* (or small whirlwind) in an empty cul-de-sac on a cool day of gusty winds. The dust devil was the on the order of the size of the cul-de-sac, say $L \sim 10 \text{ m}$ across, and moving at around $u = 1 \text{ m/s}$. The kinematic viscosity of air at $T = 15^\circ$ and standard pressure is around $\nu \approx 1.48 \times 10^{-5} \text{ m}^2/\text{s}$. This is not really estimable from dimensional analysis, since the simplest dimensionally consistent formula
+I recently observed a *dust devil* (or small whirlwind) in an empty cul-de-sac on a cool day of gusty wind and later rain. The dust devil was the on the order of the size of the cul-de-sac, say $L \sim 10 \text{ m}$ across, and moving at around $u = 1 \text{ m/s}$. The kinematic viscosity of air at $T = 15^\circ$ and standard pressure is around $\nu \approx 1.48 \times 10^{-5} \text{ m}^2/\text{s}$. This is not really estimable from dimensional analysis, since the simplest dimensionally consistent formula
 
 $$
 \nu \sim uL \sim 10 \text{ m}^2/\text{s}
@@ -47,7 +47,7 @@ $$
 \eta = \left(\frac{\nu^3}{\epsilon}\right)^{1/3} \sim \left(\frac{L\nu^3}{u^3}\right)^{1/4} \sim\left(\frac{10 \cdot (1.5 \times 10^{-5})^3}{1^3}\right)^{1/4} \text{ m} \approx 0.43 \text{ mm}.
 $$
 
-This is consistent with [a typical Kolmogorov length scale](https://journals.ametsoc.org/view/journals/atsc/63/5/jas3687.1.pdf) of $\eta \sim 1 \text{ mm}$, which in turn, has implications for the preferential formation of raindrops of that size! So there's a nice throughline from wind to rain.
+This is consistent with [a typical Kolmogorov length scale](https://journals.ametsoc.org/view/journals/atsc/63/5/jas3687.1.pdf) of $\eta \sim 1 \text{ mm}$, which in turn, has implications for the preferential formation of raindrops of that size! So there's a nice throughline from the wind that caused the dust devil to the rain that came later.
 
 ## Whispering trees
 
