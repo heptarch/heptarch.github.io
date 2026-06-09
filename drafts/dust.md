@@ -65,4 +65,10 @@ $$
 k = \frac{EA}{L},
 $$
 
-where $E$ is a material-dependent constant called the *modulus of elasticity*, $A$ is the area of the petiole and $L$ is its length. Thus, the frequency varies depending primarily on the length $L$ of the petiole and the length $\ell$ and $\width$ of the leaf.
+where $E$ is a material-dependent constant called the *modulus of elasticity*, $A$ is the area of the petiole and $L$ is its length. Thus, the frequency varies depending primarily on the length $L$ of the petiole and the length $\ell$ and $\width$ of the leaf. Assuming these are all proportional to $\ell$, we can write
+
+$$
+\omega^* = \sqrt{\frac{EA}{\alpha \rho \ell^3}} \propto \ell^{-3/2}, 
+$$
+
+for a constant of proportionality $\alpha$ we subsequently ignore.
