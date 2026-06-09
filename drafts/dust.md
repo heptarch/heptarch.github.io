@@ -71,7 +71,7 @@ $$
 \omega^* = \sqrt{\frac{EA}{\alpha \rho \ell^3}} \propto \ell^{-3/2}, 
 $$
 
-for a constant of proportionality $\alpha$ we subsequently ignore.
+for a constant of proportionality $\alpha$.
 The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution is approximately normal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994):
 
 $$
