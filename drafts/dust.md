@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Wind in the willows"
+title: "When the Wind Blows"
 date:  2026-06-10
 
 ---
