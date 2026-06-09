@@ -17,7 +17,7 @@ $$
 \nu \sim uL \sim 10 \text{ m}^2/\text{s}
 $$
 
-is off by a factor of $10^5$! What we are missing is a dimensionless quantity called the [*Reynolds number*](https://en.wikipedia.org/wiki/Reynolds_number), the ratio of kinetic to viscous forces:
+is off by a factor of $10^5$. What we are missing is a dimensionless quantity called the [*Reynolds number*](https://en.wikipedia.org/wiki/Reynolds_number), the ratio of kinetic to viscous forces:
 
 $$
 \text{Re} = \frac{uL}{\nu} \approx 6.8 \times 10^4.
@@ -29,7 +29,7 @@ $$
 \eta = \left(\frac{\nu^3}{\epsilon}\right)^{1/4}
 $$
 
-where $\epsilon$ is a somewhat obscure quantity, namely, the average rate at which "turbulence kinetic energy" is lost per unit mass. The goal I set myself: determine the size of the microscopic vortices the cul-de-sac dust devil would dissipate itself into. The only missing quantity here is $\epsilon$, but rather than look it up, I figured I should estimate it from dimensional analysis. For a large-scale eddy, the relevant quantities are $u$, $L$, and density $\rho$. The rate at which energy is dissipated per unit mass has dimensions
+where $\epsilon$ is a somewhat obscure quantity, namely, the average rate at which "turbulence kinetic energy" is lost per unit mass. The goal I set myself: determine the size of the microscopic vortices the cul-de-sac dust devil would dissipate itself into. The only missing quantity here is $\epsilon$, but rather than look it up, I figured I should estimate it from dimensional analysis. For a large-scale eddy, the relevant quantities are $u$, $L$, and density $\rho$, i.e. kinetic quantities rather than viscosity. The rate at which energy is dissipated per unit mass has dimensions
 
 $$
 \frac{\text{energy}}{\text{time}\cdot \text{mass}} = \frac{ML^2/T^2}{TM} = \frac{L^2}{T^3}. 
