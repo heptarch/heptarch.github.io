@@ -11,8 +11,13 @@ date:  2026-06-10
 
 ## The dust devil is in the details
 
-I recently observed a *dust devil* (or small whirlwind) in an empty cul-de-sac on a cool day of gusty winds. The dust devil was the on the order of the size of the cul-de-sac, say $L \sim 10 \text{ m}$ across, and moving at around $u = 1 \text{ m/s}$. The kinematic viscosity of air at $T = 15^\circ$ and standard pressure is around $\nu \approx 1.48 \times 10^{-5} \text{ m}^2/\text{s}$.
-The [*Reynolds number*](https://en.wikipedia.org/wiki/Reynolds_number) is the ratio of kinetic to viscous forces, here
+I recently observed a *dust devil* (or small whirlwind) in an empty cul-de-sac on a cool day of gusty winds. The dust devil was the on the order of the size of the cul-de-sac, say $L \sim 10 \text{ m}$ across, and moving at around $u = 1 \text{ m/s}$. The kinematic viscosity of air at $T = 15^\circ$ and standard pressure is around $\nu \approx 1.48 \times 10^{-5} \text{ m}^2/\text{s}$. This is not really estimable from dimensional analysis, since the simplest dimensionally consistent formula
+
+$$
+\nu \sim uL \sim 10 \text{ m}^2/\text{s}
+$$
+
+is off by a factor of $10^5$! What we are missing is a dimensionless quantity called the [*Reynolds number*](https://en.wikipedia.org/wiki/Reynolds_number), the ratio of kinetic to viscous forces:
 
 $$
 \text{Re} = \frac{uL}{\nu} \approx 6.8 \times 10^4.
