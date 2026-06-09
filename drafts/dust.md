@@ -9,11 +9,7 @@ date:  2026-06-10
 
 **June 10, 2026.** *Some quantitative meditations upon seeing a dust devil.*
 
-<figure>
-    <div style="text-align:center; padding: 15px"><img src
-    ="/img/posts/guards1.svg" width="330"/>
-	</div>
-	</figure>
+I recently observed a *dust devil* (or small whirlwind) in an empty cul-de-sac on a cool day of gusty winds. The devil was the on the order of the sie of the cul-de-sac, say $L \sim 10 \text{ m}$ across, and moving at around $u = 1 \text{ m/s}$.
 
 
 <!-- https://www.researchgate.net/profile/Michael-Jones-66/publication/2246342_Regularization_Theory_and_Neural_Networks_Architectures/links/02bfe50d33d1a45e52000000/Regularization-Theory-and-Neural-Networks-Architectures.pdf -->
