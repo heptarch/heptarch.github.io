@@ -78,8 +78,14 @@ $$
 \sigma^2 = \beta \cdot \mu^\alpha, \quad \alpha \approx 7.7, \quad \beta \approx 0.028.
 $$
 
-Thus, the average frequency is
+Naively, this gives rise to an average frequency
 
 $$
 \langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{-\infty}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{(\ell - \mu)^2/(2\beta \mu^\alpha)}.
+$$
+
+The problem is that this does not converge due to the singularity at $\ell = 0$. Since this is physically unrealistic anyway, we can regulate by imposing a minimum leaf size $\ell = \epsilon$:
+
+$$
+\langle \omega^*\rangle_{\mu, \epsilon} = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{\epsilon}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{(\ell - \mu)^2/(2\beta \mu^\alpha)}.
 $$
