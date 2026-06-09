@@ -72,22 +72,15 @@ $$
 $$
 
 for a constant of proportionality $C$.
-The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution of leaf size is approximately normal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994), which relates variance and average as follows:
+The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution of leaf size is approximately lognormal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994), which relates variance and average as follows:
 
 $$
 \sigma^2 = \beta \cdot \mu^\alpha, \quad \alpha \approx 7.7, \quad \beta \approx 0.028.
 $$
 
-Naively, this gives rise to an average frequency
+This gives rise to an average frequency
 
 $$
-\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{-\infty}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ell - \mu)^2/(2\beta \mu^\alpha)}.
+\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{-\infty}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)}.
 $$
 
-The problem is that this does not converge due to the singularity at $\ell = 0$. Since this is physically unrealistic anyway, we can regulate by imposing a minimum leaf size $\ell = \epsilon$:
-
-$$
-\langle \omega^*\rangle_{\mu, \epsilon} = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{\epsilon}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ell - \mu)^2/(2\beta \mu^\alpha)}.
-$$
-
-This converges but has no closed form solution (that I could find).
