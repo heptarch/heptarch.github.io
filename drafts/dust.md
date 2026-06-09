@@ -72,4 +72,4 @@ $$
 $$
 
 for a constant of proportionality $\alpha$ we subsequently ignore.
-The sound we are hearing is then an average over a random distribution of $\ell^{-3/2$.
+The sound we are hearing is then an average over $\ell^{-3/2$.
