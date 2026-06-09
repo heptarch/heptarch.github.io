@@ -21,7 +21,7 @@ $$
 Reynolds number above $\simeq 4 \times 10^3$ indicates kinetic forces dominate and we enter the regime of turbulent flow. In turbulence, laminar sheets of the fluid (in this case air) break into eddies of all sizes, the largest being eddies on the size of the macroscopic length scale (like our cul-de-sac) all the way down to the microsopic or [*Kolmogorov scale*](https://en.wikipedia.org/wiki/Kolmogorov_microscales) $\eta$ where viscous forces once again take over and disperse the vortices. The Kolmogorov scale obeys
 
 $$
-\eta = \left(\frac{\nu^3}{\epsilon}\right)^{1/3}
+\eta = \left(\frac{\nu^3}{\epsilon}\right)^{1/4}
 $$
 
 where $\epsilon$ is a somewhat obscure quantity, namely, the average rate at which "turbulence kinetic energy" is lost per unit mass. The goal I set myself: determine the size of the microscopic vortices the cul-de-sac dust devil would dissipate itself into. The only missing quantity here is $\epsilon$, but rather than look it up, I figured I should estimate it from dimensional analysis. For a large-scale eddy, the relevant quantities are $u$, $L$, and density $\rho$. The rate at which energy is dissipated per unit mass has dimensions
@@ -33,7 +33,13 @@ $$
 The only combination of relevant quantities with this unit is
 
 $$
-\epsilon
+\epsilon \sim \frac{u^3}{L}.
+$$
+
+Plugging in our numbers gives $\epsilon \sim 0.1 \text{ m}^2/\text{s}^3$, consistent with measurements of air on a day of mild wind. Plugging this into the Kolmogorov microscale equation gives
+
+$$
+\eta = \left(\frac{\nu^3}{\epsilon}\right)^{1/3} \sim \left(\frac{L\nu^3}{u^3}\right)^{1/4} \sim\left(\frac{10 \cdot (1.5 \times 10^{-5})^3}{1^3}\right)^{1/4} \text{ m} \approx 0.43 \text{ mm}.
 $$
 
 <!-- https://www.researchgate.net/profile/Michael-Jones-66/publication/2246342_Regularization_Theory_and_Neural_Networks_Architectures/links/02bfe50d33d1a45e52000000/Regularization-Theory-and-Neural-Networks-Architectures.pdf -->
