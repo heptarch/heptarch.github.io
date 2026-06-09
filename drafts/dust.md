@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Everyday Physics: Issue 1"
+title: "Windy Wonderings"
 date:  2026-06-10
 
 ---
 
-**June 10, 2026.** *Some quantitative meditations upon seeing a dust devil, hearing trees rustle, and seeing a snow-capped peak.*
+**June 10, 2026.** *Some quantitative meditations upon seeing a dust devil and hearing the wind whisper through the trees.*
 
 ## Dust devils
 
@@ -75,5 +75,5 @@ for a constant of proportionality $\alpha$.
 The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution is approximately normal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994):
 
 $$
-\text{variance} = \beta \cdot \text{mean}^\alpha.
+\text{variance} = \beta \cdot \text{mean}^\alpha, \quad \alpha \approx 7.7, \quad \beta \approx 0.028.
 $$
