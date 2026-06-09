@@ -18,7 +18,7 @@ $$
 \text{Re} = \frac{uL}{\nu} \approx 6.8 \times 10^4.
 $$
 
-Reynolds number above $\simeq 4 \times 10^3$ indicates kinetic forces dominate and we enter the regime of turbulent flow.
+Reynolds number above $\simeq 4 \times 10^3$ indicates kinetic forces dominate and we enter the regime of turbulent flow. In turbulence, laminar sheets of the fluid (in this case air) break into eddies of all sizes, the largest being eddies on the size of the macroscopic length scale (like our cul-de-sac) all the way down to the microsopic or [*Kolmogorov scale*](https://en.wikipedia.org/wiki/Kolmogorov_microscales) where viscous forces once again take over and disperse the vortices.
 
 <!-- https://www.researchgate.net/profile/Michael-Jones-66/publication/2246342_Regularization_Theory_and_Neural_Networks_Architectures/links/02bfe50d33d1a45e52000000/Regularization-Theory-and-Neural-Networks-Architectures.pdf -->
 
