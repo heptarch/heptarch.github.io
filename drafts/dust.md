@@ -49,6 +49,6 @@ $$
 
 This is consistent with [a typical Kolmogorov length scale](https://journals.ametsoc.org/view/journals/atsc/63/5/jas3687.1.pdf) of $\eta \sim 1 \text{ mm}$, which in turn, has implications for the preferential formation of raindrops of that size! So there's a nice throughline from wind to rain.
 
-## Ents
+## Whispering trees
 
-Trees
+On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should
