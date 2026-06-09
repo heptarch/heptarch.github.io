@@ -68,14 +68,18 @@ $$
 where $E$ is a material-dependent constant called the *modulus of elasticity*, $A$ is the area of the petiole and $L$ is its length. Thus, the frequency varies depending primarily on the length $L$ of the petiole and the length $\ell$ and width $w$ of the leaf. Assuming these are all proportional to $\ell$ (a reasonable approximation), we can write
 
 $$
-\omega^* = \sqrt{\frac{EA}{\alpha \rho \ell^3}} \propto \ell^{-3/2}, 
+\omega^* = \sqrt{\frac{EA}{C \rho \ell^3}} \propto \ell^{-3/2}, 
 $$
 
-for a constant of proportionality $\alpha$.
+for a constant of proportionality $C$.
 The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution of leaf size is approximately normal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994), which relates variance and average as follows:
 
 $$
 \sigma^2 = \beta \cdot \mu^\alpha, \quad \alpha \approx 7.7, \quad \beta \approx 0.028.
 $$
 
-T
+Thus, the average frequency is
+
+$$
+\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{-\infty}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{(\ell - \mu)^2/(2\beta \mu^\alpha)}.
+$$
