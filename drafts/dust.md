@@ -55,7 +55,7 @@ On that note, trees make a nice sound when the wind passes through them. It is n
 The obvious answer is that, although the leaves may be similar, their attachment to the tree by means of a leaf stem or *petiole* varies. As the wind passes through the tree, it vibrates leaves at different frequencies according to the stiffness $k$ of the petiole and the mass $m$ of the leaf, with natural angular frequency
 
 $$
-\omega^* = \sqrt{k}{m} = \sqrt{\frac{k}{\ell w\rho}}, 
+\omega^* = \sqrt{\frac{k}{m}} = \sqrt{\frac{k}{\ell w\rho}}, 
 $$
 
 where $\ell$ is the length of the leaf, $w$ the width, and $\rho$ a leaf-independent density.
