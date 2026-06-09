@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title: "Sturm and Drang"
+title: "Wind in the willows"
 date:  2026-06-10
 
 ---
 
-**June 10, 2026.** *Some quantitative meditations upon seeing a dust devil and hearing the wind whisper through the trees.*
+**June 10, 2026.** *Some quantitative meditations upon seeing the wind whip up a dust devil and hearing it whisper through the trees.*
 
 ## Dust devils
 
@@ -77,3 +77,5 @@ The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leav
 $$
 \sigma^2 = \beta \cdot \mu^\alpha, \quad \alpha \approx 7.7, \quad \beta \approx 0.028.
 $$
+
+T
