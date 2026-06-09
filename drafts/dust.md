@@ -72,4 +72,8 @@ $$
 $$
 
 for a constant of proportionality $\alpha$ we subsequently ignore.
-The sound we are hearing is then an average over $\ell^{-3/2}$.
+The sound we are hearing is then an average over $\ell^{-3/2}$, assuming they crash into each other with a frequency that reflects the distribution of $\ell$. The distribution follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994) to a good approximation, namely
+
+$$
+\text{variation} = \beta \cdot \text{mean}^\alpha.
+$$
