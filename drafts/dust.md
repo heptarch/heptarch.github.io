@@ -89,3 +89,5 @@ The problem is that this does not converge due to the singularity at $\ell = 0$.
 $$
 \langle \omega^*\rangle_{\mu, \epsilon} = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{\epsilon}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ell - \mu)^2/(2\beta \mu^\alpha)}.
 $$
+
+This converges but has no closed form solution (that I could find).
