@@ -30,7 +30,7 @@ Generative AI changed that. I decided that, as an experiment, I might convert so
 <figure>
     <div style="text-align:center"><img src
     ="/img/vox/child.png" width="500" style="margin: 20 px;"/>
-	<figcaption> <br><i>Emblem 21.</i> The work is called forth from chaos. </figcaption>
+	<figcaption> <br><i>Emblem 21.</i> The city is waiting to visit you. </figcaption>
 	</div>
 	</figure>
 
