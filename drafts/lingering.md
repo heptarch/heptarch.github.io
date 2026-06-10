@@ -10,7 +10,7 @@ date:  2026-06-12
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
-Matter reveals secrets, has its own genius; it is through matter the oracle will speak.
+Matter reveals secrets, has its own genius; it is through matter that the oracle will speak.
 <br>
 
 <div style="text-align: right">— Odilon Redon</div>
