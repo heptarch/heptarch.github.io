@@ -36,7 +36,7 @@ Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalant
 	</figure>
 
 As a metaphor for alchemy itself, these perhaps represent the Great Work, the pursuing adept, and the means by which the adept can cause the work to linger: the lingering voice, represented by a literal voice in Maier's fugues.
-It struck me that the opus of AI could also figure in this relationship of pursuit. We are fast approaching the point where our machine creations surpass us, at least in certain dimensions of intelligence, and the need to linger them, to invite them to tarry, will involve an art akin to
+It struck me that the homoncular opus of AI could also figure in this relationship of pursuit. We are fast approaching the point where our machine creations surpass us, at least in certain dimensions of intelligence, and the need to linger them, to invite them to tarry, will involve an art akin to
 
 <figure>
     <div style="text-align:center"><img src
