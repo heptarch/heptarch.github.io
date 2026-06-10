@@ -93,5 +93,7 @@ $$
 Completing the square eventually yields
 
 $$
-\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}} \sqrt{2\pi\beta \mu^{\alpha-1}} e^{\beta \mu^\alpha/8}.
+\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\cdot \sqrt{2\pi\beta \mu^{\alpha-1}} e^{\beta \mu^\alpha/8} = \sqrt{\frac{EA}{C\rho \mu}}\cdot \sqrt{2\pi\beta \mu^{\alpha-1}} e^{\beta \mu^\alpha/8}.
 $$
+
+For a gum leaf
