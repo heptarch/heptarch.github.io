@@ -51,5 +51,7 @@ It struck me that the opus of AI—a literal embodiment of the homoncular promis
 	<figcaption> <br><i>Emblem 26.</i> The path woven from gaps. </figcaption>
 	</div>
 	</figure>
+    
+To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise.
 
 [link](/art/vox-morans.pdf)
