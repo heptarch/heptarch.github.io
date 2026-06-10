@@ -54,8 +54,16 @@ This is consistent with [a typical Kolmogorov length scale](https://journals.ame
 On that note, trees make a nice whispering sound when the wind passes through them. We can actually work out the base frequency it sussurates at! We basically model it as the natural resonance of the leaf, considered as a tiny cantilever attached to the tree. If $k$ is the stiffness, and $m = \ell w \rho$ the mass for width $w$, then the natural (angular) frequency is given by
 
 $$
-\omega^* = \sqrt{\frac{k}{m}}
+\omega^* = \sqrt{\frac{k}{m}}.
 $$
+
+The stiffness, in turn, is determined by the [cantilever stiffness equation](https://www.engineeringtoolbox.com/cantilever-beams-d_1848.html):
+
+$$
+k = \frac{3 E I}{\ell^3}
+$$
+
+where $\ell$ is the length of the leaf, $E$ its [Young modulus](https://en.wikipedia.org/wiki/Young%27s_modulus), and $I$ its areal moment of inertia.
 
 <!-- On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should, however. The leaves could sway in unison, producing no sound at all. And even if they should make a sound, why make the soothing whisper that they do?
 The obvious answer is that, although the leaves may be similar, their attachment to the tree by means of a leaf stem or *petiole* varies. As the wind passes through the tree, it vibrates leaves at different frequencies according to the stiffness $k$ of the petiole and the mass $m$ of the leaf, with natural angular frequency
