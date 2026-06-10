@@ -16,3 +16,4 @@ Matter reveals secrets, it has its own genius; it is through matter that the ora
 <div style="text-align: right">— Odilon Redon</div>
 </div>
 
+[link](/assets/vox-morans.pdf)
