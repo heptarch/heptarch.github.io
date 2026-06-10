@@ -7,7 +7,7 @@ date:  2026-06-10
 
 ---
 
-**June 10, 2026.** *Some quantitative meditations upon seeing the wind whip up a dust devil and hearing it whisper through the trees.*
+**June 10, 2026.** *Some quantitative meditations upon seeing the wind whip up a dust devil and hearing it whisper and moan.*
 
 ## Dust devils
 
