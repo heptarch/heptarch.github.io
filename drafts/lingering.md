@@ -16,7 +16,7 @@ Matter reveals secrets, has its own genius; it is through matter that the oracle
 <div style="text-align: right">— Odilon Redon</div>
 </div>
 
-Most nights, as I fall asleep, I see a rush of elaborate imagery flicker like a rotoscope before my eyes. The images—usually on the order of 50—are vivid, concrete, specific; I could paint them if I had the talent. But instead, I usually let them pass.
+Most nights, as I fall asleep, I see a rush of elaborate imagery flicker like a rotoscope before my eyes. The images—usually on the order of 50—are vivid, concrete, specific; I could paint them if I had the talent and cared to disrupt the process of becoming unconscious.
 
 <figure>
     <div style="text-align:center"><img src
