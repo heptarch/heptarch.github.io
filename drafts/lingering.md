@@ -25,7 +25,7 @@ Most nights, as I fall asleep, I see a sequence of images flicker before my eyes
 	</div>
 	</figure>
     
-Generative AI changed that policy. I decided that, as an experiment, I would convert some of these hypnagogic visions into pictures using Midjourney. Any unintentional changes as a result of Midjourney's limitations would be a kind of dream of the machine's, and thus a conversation between my generative process (the one that gives rise to hypnagogic noise) and the noisy artificial process.
+Generative AI changed that policy. I decided that, as an experiment, I would convert some of these hypnagogic visions into pictures using Midjourney. Any unintentional changes as a result of Midjourney's limitations would be a kind of hallucination of the machine's, and thus a conversation between my generative process (the hypnagogic noise) and the noisy artificial process of stable diffusion.
 
 <figure>
     <div style="text-align:center"><img src
