@@ -25,6 +25,15 @@ Most nights, as I fall asleep, I see an elaborate rush of images flicker before 
 	</div>
 	</figure>
     
-Generative AI changed that. I decided that, as an experiment, I might convert some of these hypnagogic visions into pictures with the help of Midjourney. Any 
+Generative AI changed that. I decided that, as an experiment, I might convert some of these hypnagogic visions into pictures with the help of Midjourney. Any unintentional changes as a result of Midjourney's limitations would be a kind of dream of the machine's, and thus a conversation.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/vox/child.png" width="500" style="margin: 20 px;"/>
+	<figcaption> <br><i>Emblem 21.</i> The work is called forth from chaos. </figcaption>
+	</div>
+	</figure>
+
+Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/). I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices.
 
 [link](/art/vox-morans.pdf)
