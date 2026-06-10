@@ -34,7 +34,7 @@ Generative AI changed that policy. I decided that, as an experiment, I would con
 	</div>
 	</figure>
 
-Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/). I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices, and began "transcribing" fifty visions into images, mirroring Maier's structure but also one episode of visions.
+Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/). I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices, and began "transcribing" fifty visions into images, mirroring Maier's structure but a single (productive) episode of imaging.
 
 <figure>
     <div style="text-align:center"><img src
