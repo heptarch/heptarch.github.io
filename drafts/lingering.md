@@ -43,6 +43,6 @@ Around the same time, I stumbled onto the notion of [emblem collections](https:/
 	</div>
 	</figure>
     
-Wht *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path. The demigoddess, hero, and apples all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and dalliance. In a metaphor for alchemy itself, these perhaps represent the Great Work, the pursuing adept, and the invocations  
+Wht *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path. The demigoddess, hero, and apples all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and dalliance. As a metaphor for alchemy itself, these perhaps represent the Great Work, the pursuing adept, and the means by which the adept can invoke 
 
 [link](/art/vox-morans.pdf)
