@@ -35,7 +35,7 @@ Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalant
 	</div>
 	</figure>
 
-
+It struck me that AI itself could figure in this relationship of pursuit. We are 
 
 <figure>
     <div style="text-align:center"><img src
