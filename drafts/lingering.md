@@ -34,7 +34,7 @@ Generative AI changed that policy. I decided that, as an experiment, I would con
 	</div>
 	</figure>
 
-Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/). I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices.
+Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/). I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices, and began "transcribing" fifty visions into images. 
 
 <figure>
     <div style="text-align:center"><img src
@@ -42,5 +42,7 @@ Around the same time, I stumbled onto the notion of [emblems](https://publicdoma
 	<figcaption> <br><i>Emblem 29.</i> Place of aching teeth. </figcaption>
 	</div>
 	</figure>
+    
+Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path. These represent an alchemical substance, but also a sort of appeal of the human to the more-than-human.
 
 [link](/art/vox-morans.pdf)
