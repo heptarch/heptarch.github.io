@@ -34,7 +34,7 @@ Generative AI changed that policy. I decided to convert some of these hypnagogic
 	</div>
 	</figure>
 
-Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/), which includes fugues among its multimodal extravagance. I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices, and began "transcribing" fifty visions into pictures and accompanying Latin text. This mirrors Maier's structure but also represents a single (productive) episode of imaging.
+Around the same time, I stumbled onto the notion of [emblem collections](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/), which numbers fugues among its multimodal plenty. Maier's book offered the perfect contrapuntal scaffolding for a collection themed around intertwined voices, and I began "transcribing" fifty visions into pictures and accompanying Latin text. This mirrors Maier's structure but also represents a single (productive) episode of imaging.
 
 <figure>
     <div style="text-align:center"><img src
