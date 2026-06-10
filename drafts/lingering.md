@@ -16,7 +16,7 @@ Matter reveals secrets, has its own genius; it is through matter that the oracle
 <div style="text-align: right">— Odilon Redon</div>
 </div>
 
-Most nights, as I fall asleep, I see an elaborate rush of images flicker before my eyes like a rotoscope. The images—from ten to fifty—are vivid, concrete, and specific; I could paint them if I had the talent and cared to disrupt the process of becoming unconscious. Since neither condition obtains, I let them pass unobstructed.
+Most nights, as I fall asleep, I see an elaborate rush of images flicker before my eyes like a rotoscope. The images—from ten to fifty and sometimes more—are vivid, concrete, and specific; I could paint them if I had the talent and cared to disrupt the process of becoming unconscious. Since neither condition obtains, I let them pass.
 
 <figure>
     <div style="text-align:center"><img src
@@ -25,6 +25,6 @@ Most nights, as I fall asleep, I see an elaborate rush of images flicker before 
 	</div>
 	</figure>
     
-The advent of generative AI, and particularly diffusion models, led me to rethink this policy.
+Generative AI changed that. I decided that, as an experiment, I might convert some of these hypnagogic visions into pictures with the help of Midjourney. Any 
 
 [link](/art/vox-morans.pdf)
