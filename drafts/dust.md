@@ -86,7 +86,7 @@ $$
 $$
 
 using our value for $\nu$ from above. We are will into the vortex shedding regime.
-The *frequency* of vortex shedding $f$ is encode to the [Strouhal number](https://en.wikipedia.org/wiki/Strouhal_number)
+The *frequency* of vortex shedding $f$ is encoded by the [Strouhal number](https://en.wikipedia.org/wiki/Strouhal_number)
 
 $$
 \text{St} = \frac{fL}{u}.
@@ -104,7 +104,7 @@ $$
 f = \frac{u\text{St}}{L} = \frac{0.2 \times 3.5}{0.02} = 35 \text{ Hz}, 
 $$
 
-a low, barely audible moan.
+a low, haunting, and barely audible moan consistent with what we hear. Smaller objects will naturally produce higher frequency moans.
 
 <!-- On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should, however. The leaves could sway in unison, producing no sound at all. And even if they should make a sound, why make the soothing whisper that they do?
 The obvious answer is that, although the leaves may be similar, their attachment to the tree by means of a leaf stem or *petiole* varies. As the wind passes through the tree, it vibrates leaves at different frequencies according to the stiffness $k$ of the petiole and the mass $m$ of the leaf, with natural angular frequency
