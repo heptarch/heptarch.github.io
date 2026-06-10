@@ -16,7 +16,7 @@ Matter reveals secrets, has its own genius; it is through matter that the oracle
 <div style="text-align: right">— Odilon Redon</div>
 </div>
 
-Most nights, as I fall asleep, I see a rush of elaborate imagery flicker like a rotoscope before my eyes. The images—usually on the order of 50—are vivid, concrete, specific; I could paint them if I had the talent and cared to disrupt the process of becoming unconscious.
+Most nights, as I fall asleep, I see a rush of elaborate imagery flicker like a rotoscope before my eyes. The images—usually on the order of 50—are vivid, concrete, specific; I could paint them if I had the talent and cared to disrupt the process of becoming unconscious. Since neither condition obtains, I let them pass unobstructed.
 
 <figure>
     <div style="text-align:center"><img src
@@ -24,5 +24,7 @@ Most nights, as I fall asleep, I see a rush of elaborate imagery flicker like a 
 	<figcaption> <br><i>Emblem 1.</i> The work is called forth from chaos. </figcaption>
 	</div>
 	</figure>
+    
+The advent of generative AI, and particularly diffusion models,
 
 [link](/art/vox-morans.pdf)
