@@ -21,7 +21,7 @@ Most nights, as I fall asleep, I see a rush of elaborate imagery flicker like a 
 <figure>
     <div style="text-align:center"><img src
     ="/img/vox/tessellation.png" width="500" style="margin: 20 px;"/>
-	<figcaption> <br><i>Seed 1729</i> (2024), Wen Liang. Oil on canvas, paper. </figcaption>
+	<figcaption> <br><i>Emblem 1.</i> The work is called forth from chaos. </figcaption>
 	</div>
 	</figure>
 
