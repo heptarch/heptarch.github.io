@@ -71,7 +71,7 @@ $$
 \omega^* = \sqrt{\frac{EA}{C \rho \ell^3}} \propto \ell^{-3/2}, 
 $$
 
-for a constant of proportionality $C$.
+for a constant of proportionality $C \sim 10^{-2}$, since the petiole and width are roughly a tenth of the length.
 The sound we are hearing is then an average of $\ell^{-3/2}$, assuming that leaves crash into each other with a frequency that reflects the distribution of $\ell$. The distribution of leaf size is approximately lognormal and follows [*Taylor's power law*](https://www.sciencedirect.com/science/article/pii/S2351989419301994), which relates variance and average as follows:
 
 $$
@@ -81,25 +81,25 @@ $$
 This gives rise to an average frequency
 
 $$
-\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{0}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)}.
+\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{0}^\infty \mathrm{d}\ell\, \ell^{-5/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)}.
 $$
 
 We can evaluate this exactly by making the substitution $x = \ln \ell$ with $\mathrm{d}\ell = e^x \, \mathrm{d}x$:
 
 $$
-\int_{0}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)} = \int_{-\infty}^\infty \mathrm{d}x\, e^{-x/2}e^{-(x - \ln\mu)^2/(2\beta \mu^\alpha)}.
+\int_{0}^\infty \mathrm{d}\ell\, \ell^{-5/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)} = \int_{-\infty}^\infty \mathrm{d}x\, e^{-3x/2}e^{-(x - \ln\mu)^2/(2\beta \mu^\alpha)}.
 $$
 
 Completing the square eventually yields
 
 $$
-\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\cdot \sqrt{2\pi\beta \mu^{\alpha-1}} e^{\beta \mu^\alpha/8} = \sqrt{\frac{EA}{C\rho \mu}} e^{\beta \mu^\alpha/8}.
+\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\cdot \sqrt{2\pi\beta \mu^{\alpha-3}} e^{(9/8)\beta \mu^\alpha} = \sqrt{\frac{EA}{C\rho \mu^3}} e^{(9/8)\beta \mu^\alpha}.
 $$
 
-For gum leaves (the family in question), we take average length $\ell \sim 0.1 \text{ m}$, modulus of elasticity $E \sim 0.2 \times 10^9 \text{ Pa}$, area $A \sim 2.5 \times 10^{-5} \text{ m}^2$, density $\rho \sim 0.2 \text{ kg/m}^2$ and $C \sim 1$ for lack of anything more specific. Plugging in, we find average angular frequency
+For gum leaves (the family in question), we take average length $\ell \sim 0.1 \text{ m}$, modulus of elasticity $E \sim 0.2 \times 10^9 \text{ Pa}$, area $A \sim 2.5 \times 10^{-5} \text{ m}^2$, density $\rho \sim 0.2 \text{ kg/m}^2$ and $C \sim 10^{-2}$ for lack of anything more specific. Plugging in, we find average angular frequency
 
 $$
-\langle \omega^*\rangle_\mu \sim 0.016 \text{ rad/s}.
+\langle \omega^*\rangle_\mu \sim 5 \times 10^3 \text{ rad/s}.
 $$
 
-Converting to a frequency gives $\langle f^*\rangle_\mu \sim 2.5 \text{ mHz}$, a 
+Converting to a frequency gives $\langle f^*\rangle_\mu \sim 800 \text{ Hz}$, which is consistent with the pitch of a low whisper.
