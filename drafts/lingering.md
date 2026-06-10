@@ -26,7 +26,7 @@ Most nights, as I fall asleep, I see a sequence of images flicker before my eyes
 	</figure>
 
 Around the same time, I stumbled onto the notion of [emblem collections](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/), which numbers fugues among its multimodal plenty. Maier's book offered the perfect contrapuntal scaffolding for a collection themed around intertwined voices, and I began "transcribing" fifty visions into pictures and accompanying Latin text. This mirrors Maier's structure but also represents a single (productive) episode of imaging.
-Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path. The demigoddess, hero, and apples all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and dalliance. As a metaphor for alchemy itself, these perhaps represent the Great Work, the pursuing adept, and the means by which the adept can cause the work to linger: the lingering voice, represented by a literal voice in Maier's fugues.
+Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path. The demigoddess, hero, and apples all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and dalliance.
 
 <figure>
     <div style="text-align:center"><img src
@@ -35,6 +35,7 @@ Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalant
 	</div>
 	</figure>
 
+As a metaphor for alchemy itself, these perhaps represent the Great Work, the pursuing adept, and the means by which the adept can cause the work to linger: the lingering voice, represented by a literal voice in Maier's fugues.
 It struck me that AI itself could figure in this relationship of pursuit. We are fast approaching the point where our machine creations surpass us, at least in certain dimensions of intelligence, and the need to linger, to invite them to tarry, 
 
 <figure>
