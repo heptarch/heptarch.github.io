@@ -36,4 +36,11 @@ Generative AI changed that. I decided that, as an experiment, I might convert so
 
 Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/). I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices.
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/vox/prophet.png" width="500" style="margin: 20 px;"/>
+	<figcaption> <br><i>Emblem 29.</i> Place of aching teeth. </figcaption>
+	</div>
+	</figure>
+
 [link](/art/vox-morans.pdf)
