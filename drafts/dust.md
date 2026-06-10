@@ -66,7 +66,7 @@ $$
 where $\ell$ is the length of the leaf, $E$ its [Young modulus](https://en.wikipedia.org/wiki/Young%27s_modulus), and $I = A^2/4\pi$ its areal moment of inertia. Putting it together, we find
 
 $$
-f^* = \frac{1}{2\pi}\sqrt{\frac{3Ew}{4\pi\rho\ell^2}}.
+f^* = \sqrt{\frac{3Ew}{16\pi^3\rho\ell^2}}.
 $$
 
 For gum leaves, we take average length $\ell \sim 10 \text{ cm}$ and width $4 \text{ cm}$, modulus of elasticity $E \sim 0.2 \times 10^9 \text{ Pa}$, area $A \sim 2.5 \times 10^{-5} \text{ m}^2$, and density $\rho \sim 0.2 \text{ kg/m}^2$
