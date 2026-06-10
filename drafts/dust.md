@@ -81,6 +81,11 @@ $$
 This gives rise to an average frequency
 
 $$
-\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{-\infty}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)}.
+\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\int_{0}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)}.
 $$
 
+We can evaluate this exactly by making the substitution $x = \ln \ell$ with $\mathrm{d}\ell = e^x \, \mathrm{d}x$:
+
+$$
+\int_{0}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)} = \int_{-\infty}^\infty \mathrm{d}x\, e^{-x/2}e^{-(x - \ln\mu)^2/(2\beta \mu^\alpha)}.
+$$
