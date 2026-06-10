@@ -3,10 +3,10 @@ Layout: post
 mathjax: true
 comments: true
 title: "A Lingering Voice"
-date:  2026-06-12
+date:  2026-06-11
 ---
 
-**June 12, 2026.** *A visual fugue combining hypnogogic noise, AI, and 17th century alchemy.*
+**June 11, 2026.** *A visual fugue combining hypnogogic noise, AI, and 17th century alchemy.*
 
 <div style="background-color: #212433 ; padding: 30px; margin: 20px; border: 0px solid
 grey; line-height:1.5; border-radius: 15px">
