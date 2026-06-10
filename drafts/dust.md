@@ -77,6 +77,10 @@ $$
 
 This is consistent with the spectrum of a whisper (see e.g. [this doctoral thesis](https://eprints.lib.hokudai.ac.jp/repo/huscap/all/64438/Hideaki_Konno.pdf), Figure 3.5), which is usually perceived in the $10^3$–$10^4 \text{ Hz}$ range. (Technically, there is a probability distribution over leaf size and hence frequency, but this complicates the analysis without shifting the result.) Thus, we have a nice first-principles account of why trees whisper when the wind blows!
 
+## From whispers to moans
+
+If wind blowing through trees whispers, wind blowing over larger obstacles tends to moan. Presumably, this is not due to the bending moment of, e.g. a house or telephone pole.
+
 <!-- On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should, however. The leaves could sway in unison, producing no sound at all. And even if they should make a sound, why make the soothing whisper that they do?
 The obvious answer is that, although the leaves may be similar, their attachment to the tree by means of a leaf stem or *petiole* varies. As the wind passes through the tree, it vibrates leaves at different frequencies according to the stiffness $k$ of the petiole and the mass $m$ of the leaf, with natural angular frequency
 
