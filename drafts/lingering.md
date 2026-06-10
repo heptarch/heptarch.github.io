@@ -25,4 +25,4 @@ Most nights, as I fall asleep, I close my eyes and see a rush of elaborate image
 	</div>
 	</figure>
 
-[link](/assets/vox-morans.pdf)
+[link](/art/vox-morans.pdf)
