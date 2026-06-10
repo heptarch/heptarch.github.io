@@ -20,7 +20,7 @@ Most nights, as I fall asleep, I close my eyes and see a rush of elaborate image
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/endemic/seed.png" width="700" style="margin: 20 px;"/>
+    ="/img/vox/tessellation.png" width="500" style="margin: 20 px;"/>
 	<figcaption> <br><i>Seed 1729</i> (2024), Wen Liang. Oil on canvas, paper. </figcaption>
 	</div>
 	</figure>
