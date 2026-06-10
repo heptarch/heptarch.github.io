@@ -34,7 +34,7 @@ Generative AI changed that policy. I decided that, as an experiment, I would con
 	</div>
 	</figure>
 
-Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/). I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices, and began "transcribing" fifty visions into pictures and accompanying Latin text, mirroring Maier's structure but also a single (productive) episode of imaging.
+Around the same time, I stumbled onto the notion of [emblems](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/), which includes fugues among its multimodal extravagance. I decided Maier's book would provide the perfect contrapuntal scaffolding for a work about intertwined voices, and began "transcribing" fifty visions into pictures and accompanying Latin text, mirroring Maier's structure but also a single (productive) episode of imaging.
 
 <figure>
     <div style="text-align:center"><img src
@@ -43,6 +43,6 @@ Around the same time, I stumbled onto the notion of [emblems](https://publicdoma
 	</div>
 	</figure>
     
-Wht *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path that Atalanta is seduced into picking up. The demigoddess, hero, and apples, all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and 
+Wht *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path that Atalanta is seduced into picking up. The demigoddess, hero, and apples, all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and dalliance, which
 
 [link](/art/vox-morans.pdf)
