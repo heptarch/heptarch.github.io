@@ -16,7 +16,7 @@ Matter reveals secrets, has its own genius; it is through matter that the oracle
 <div style="text-align: right">— Odilon Redon</div>
 </div>
 
-Most nights, as I fall asleep, I see a sequence of images flicker before my eyes like a rotoscope. The images—from ten to fifty or more—are vivid, concrete, specific and often breathtakingly strange; I could paint them if I had the talent and cared to disrupt the process of becoming unconscious. Since neither condition obtains, I let them pass. Generative AI changed that policy. I decided to convert some of these hypnagogic visions into pictures using Midjourney. Any unintentional changes as a result of Midjourney's limitations would be a kind of hallucination of the machine's, and thus a conversation between my generative process (the hypnagogic noise) and the noisy artificial process of stable diffusion.
+Most nights, as I fall asleep, I see a sequence of images flicker before my eyes like a rotoscope. The images—from ten to fifty or more—are vivid, concrete, specific and often breathtakingly strange; I could paint them if I had the talent and cared to disrupt the process of becoming unconscious. Since neither condition obtains, I let them pass. Generative AI changed that policy. I decided to convert some of these hypnagogic visions into pictures using Midjourney. Any unintentional changes as a result of Midjourney's limitations would be a kind of hallucination of the machine's, and thus a conversation between my generative process (the hypnagogic clamour) and the noisy artificial process of stable diffusion.
 
 <figure>
     <div style="text-align:center"><img src
