@@ -7,7 +7,7 @@ date:  2026-06-10
 
 ---
 
-**June 10, 2026.** *Some quantitative meditations upon seeing the wind whip up a dust devil and hearing it whisper and moan.*
+**June 10, 2026.** *Some quantitative meditations upon seeing the wind whip up a dust devil and hearing it whisper through leaves and moan through branches.*
 
 ## Dust devils
 
@@ -79,10 +79,10 @@ This is consistent with the spectrum of a whisper (see e.g. [this doctoral thesi
 
 ## From whispers to moans
 
-If wind blowing through tree leave whispers, wind blowing over larger obstacles such as the tree itself tends to moan. Presumably, this is not due to the bending moment of, e.g. a house or telephone pole. So what causes it? The answer takes us back to the dust devils. When wind blows around an object, it forms a cavity in the wake at sufficiently high ($\text{Re} > 90$) Reynolds number. That wake gets filled with eddies in a process called the [von Kármán vortex street](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street). For a wind of speed $u \sim 10 \text{ km/h} \approx 7 \text{ m/s}$. For an object of size $L \sim 1 \text{ m}$, the Reynolds number associated with the flow is
+If wind blowing through tree leave whispers, wind blowing over branches tends to moan. Presumably, this is not due to the bending moment. So what causes it? The answer takes us back to the dust devils. When wind blows around an object, it forms a cavity in the wake at sufficiently high ($\text{Re} > 90$) Reynolds number. That wake gets filled with turbulent eddies in a process called the [von Kármán vortex street](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street). For a wind of speed $u \sim 10 \text{ km/h} \approx 7 \text{ m/s}$ and a branch of of width $L \sim 0.02 \text{ m}$, the Reynolds number associated with the flow is
 
 $$
-\text{Re}_L = \frac{uL}{\nu} = \frac{7}{1.48 \times 10^{-5}} \approx 2 \times 10^5 \gg 90,
+\text{Re}_L = \frac{uL}{\nu} = \frac{3.5 \times 0.02}{1.48 \times 10^{-5}} \approx  5 \times 10^3 \gg 90,
 $$
 
 using our value for $\nu$ from above. We are will into the vortex shedding regime.
@@ -95,10 +95,16 @@ $$
 To determine $f$, we note the [relation](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street#Formula) between Strouhal and Reynolds number:
 
 $$
-\text{St} = 0.198\left( 1 - \frac{19.7}{\text{Re}_L}\right) \approx 0.198. 
+\text{St} = 0.198\left( 1 - \frac{19.7}{\text{Re}_L}\right) \approx 0.2. 
 $$
 
-We are at the upper limit of its regime of validity, but it gives us the 
+This gives us the vortex shedding frequency
+
+$$
+f = \frac{u\text{St}}{L} = \frac{0.2 \times 3.5}{0.02} = 35 \text{ Hz}, 
+$$
+
+a low, barely audible moan.
 
 <!-- On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should, however. The leaves could sway in unison, producing no sound at all. And even if they should make a sound, why make the soothing whisper that they do?
 The obvious answer is that, although the leaves may be similar, their attachment to the tree by means of a leaf stem or *petiole* varies. As the wind passes through the tree, it vibrates leaves at different frequencies according to the stiffness $k$ of the petiole and the mass $m$ of the leaf, with natural angular frequency
