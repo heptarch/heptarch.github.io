@@ -92,7 +92,11 @@ $$
 \text{St} = \frac{fL}{u}.
 $$
 
-To determine $f$, we note the [relation](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street#Formula) between Strouhal and Reynolds number, valid at $\$
+To determine $f$, we note the [relation](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_vortex_street#Formula) between Strouhal and Reynolds number:
+
+$$
+\text{St} = 0.198\left( 1 - \frac{19.7}{\text{Re}_L}\right) \approx 0.198, 
+$$
 
 <!-- On that note, trees make a nice sound when the wind passes through them. It is not immediately obvious that they should, however. The leaves could sway in unison, producing no sound at all. And even if they should make a sound, why make the soothing whisper that they do?
 The obvious answer is that, although the leaves may be similar, their attachment to the tree by means of a leaf stem or *petiole* varies. As the wind passes through the tree, it vibrates leaves at different frequencies according to the stiffness $k$ of the petiole and the mass $m$ of the leaf, with natural angular frequency
