@@ -89,3 +89,9 @@ We can evaluate this exactly by making the substitution $x = \ln \ell$ with $\ma
 $$
 \int_{0}^\infty \mathrm{d}\ell\, \ell^{-3/2}e^{-(\ln\ell - \ln\mu)^2/(2\beta \mu^\alpha)} = \int_{-\infty}^\infty \mathrm{d}x\, e^{-x/2}e^{-(x - \ln\mu)^2/(2\beta \mu^\alpha)}.
 $$
+
+Completing the square eventually yields
+
+$$
+\langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}} \sqrt{2\pi\beta \mu^{\alpha-1}} e^{\beta \mu^\alpha/8}.
+$$
