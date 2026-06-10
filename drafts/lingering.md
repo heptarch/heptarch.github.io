@@ -20,7 +20,7 @@ Most nights, as I fall asleep, I see a sequence of images flicker before my eyes
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/vox/tessellation.png" width="300" style="margin: 20 px;"/>
+    ="/img/vox/tessellation.png" width="400" style="margin: 20 px;"/>
 	<figcaption> <br><i>Emblem 1.</i> The work is called forth from chaos. </figcaption>
 	</div>
 	</figure>
@@ -29,7 +29,7 @@ Generative AI changed that policy. I decided to convert some of these hypnagogic
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/vox/child.png" width="300" style="margin: 20 px;"/>
+    ="/img/vox/child.png" width="400" style="margin: 20 px;"/>
 	<figcaption> <br><i>Emblem 21.</i> The city is waiting to visit you. </figcaption>
 	</div>
 	</figure>
