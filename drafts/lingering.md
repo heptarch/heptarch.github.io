@@ -16,4 +16,11 @@ Matter reveals secrets, has its own genius; it is through matter the oracle will
 <div style="text-align: right">— Odilon Redon</div>
 </div>
 
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/endemic/seed.png" width="700" style="margin: 20 px;"/>
+	<figcaption> <br><i>Seed 1729</i> (2024), Wen Liang. Oil on canvas, paper. </figcaption>
+	</div>
+	</figure>
+
 [link](/assets/vox-morans.pdf)
