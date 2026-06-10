@@ -96,4 +96,10 @@ $$
 \langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\cdot \sqrt{2\pi\beta \mu^{\alpha-1}} e^{\beta \mu^\alpha/8} = \sqrt{\frac{EA}{C\rho \mu}} e^{\beta \mu^\alpha/8}.
 $$
 
-For gum leaves (the family in question), we take average length $\ell \sim 0.1 \text{ m}$, modulus of elasticity $E \sim 0.2 \times 10^9 \text{ Pa}$, area $A \sim 25 \times 10^{-6} \text{ m}^2$, density $\rho \sim 0.2 \text{ kg/m}^2$ and $C \sim 1$ for lack of anything more specific.
+For gum leaves (the family in question), we take average length $\ell \sim 0.1 \text{ m}$, modulus of elasticity $E \sim 0.2 \times 10^9 \text{ Pa}$, area $A \sim 2.5 \times 10^{-5} \text{ m}^2$, density $\rho \sim 0.2 \text{ kg/m}^2$ and $C \sim 1$ for lack of anything more specific. Plugging in, we find average angular frequency
+
+$$
+\langle \omega^*\rangle_\mu \sim 0.016 \text{ rad/s}.
+$$
+
+Converting to a frequency gives $\langle f^*\rangle_\mu \sim 2.5 \text{ mHz}$, a 
