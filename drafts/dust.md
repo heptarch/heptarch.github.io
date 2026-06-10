@@ -96,4 +96,4 @@ $$
 \langle \omega^*\rangle_\mu = \sqrt{\frac{EA}{2\pi C\rho \beta \mu^\alpha}}\cdot \sqrt{2\pi\beta \mu^{\alpha-1}} e^{\beta \mu^\alpha/8} = \sqrt{\frac{EA}{C\rho \mu}} e^{\beta \mu^\alpha/8}.
 $$
 
-For gum leaves (the family in question), we take average length $\ell \sim 0.1 \text{ m}$, modulus of elasticity $E \sim 0.2 \text{ GPa}$, area $A \sim 25 \times 10^{-6} \text{ m}^2$, density $\rho \sim 0.2 \text{ kg/cm}^2$ and $C \sim 1$ for lack of anything more specific.
+For gum leaves (the family in question), we take average length $\ell \sim 0.1 \text{ m}$, modulus of elasticity $E \sim 0.2 \text{ GPa}$, area $A \sim 25 \times 10^{-6} \text{ m}^2$, density $\rho \sim 0.2 \text{ kg/m}^2$ and $C \sim 1$ for lack of anything more specific.
