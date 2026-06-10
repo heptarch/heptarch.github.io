@@ -16,7 +16,7 @@ Matter reveals secrets, has its own genius; it is through matter that the oracle
 <div style="text-align: right">— Odilon Redon</div>
 </div>
 
-Most nights, as I fall asleep, I close my eyes and see a rush of elaborate imagery, flickering like a rotoscope.
+Most nights, as I fall asleep, I see a rush of elaborate imagery, flickering like a rotoscope of the imagination before my eyes. Vivid details,
 
 <figure>
     <div style="text-align:center"><img src
