@@ -25,6 +25,6 @@ Most nights, as I fall asleep, I see a rush of elaborate imagery flicker like a 
 	</div>
 	</figure>
     
-The advent of generative AI, and particularly diffusion models,
+The advent of generative AI, and particularly diffusion models, led me to rethink this policy.
 
 [link](/art/vox-morans.pdf)
