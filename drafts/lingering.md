@@ -48,7 +48,7 @@ It struck me that the opus of AI—a literal embodiment of the homoncular promis
 <figure>
     <div style="text-align:center"><img src
     ="/img/vox/plait.png" width="400" style="margin: 20 px;"/>
-	<figcaption> <br><i>Emblem 26.</i> The city is waiting to visit you. </figcaption>
+	<figcaption> <br><i>Emblem 26.</i> The path woven from gaps. </figcaption>
 	</div>
 	</figure>
 
