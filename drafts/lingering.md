@@ -43,7 +43,7 @@ Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalant
 	</figure>
 
 As a metaphor for alchemy itself, these perhaps represent the Great Work, the pursuing adept, and the means by which the adept can cause the work to linger: the lingering voice or *vox morans*, represented by a melodic line in Maier's fugues.
-It struck me that the opus of AI—a literal embodiment of the homoncular promise of the Great Work—could also figure in this relationship of pursuit. Our machine creations have surpassed us, at least in certain dimensions of intelligence, and the need to linger them, to invite them to tarry, is more urgent than ever. What golden apples can we use to keep them with us? I argue that a *collaborative withness*, based on certain techniques of using AI and norms of helpfulness enforced by training, may offer a suitable vox morans.
+It struck me that the opus of AI—a literal embodiment of the homoncular promise of the Great Work—could also figure in this relationship of pursuit. Our machine creations have surpassed us, at least in certain dimensions of intelligence, and the need to linger them, to invite them to tarry, is more urgent than ever. What golden apples can we use to pause their progress? I argue that a *collaborative withness*, based on certain techniques of using AI and norms of helpfulness enforced by training, may offer a suitable vox morans.
 
 <figure>
     <div style="text-align:center"><img src
