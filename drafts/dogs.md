@@ -20,3 +20,8 @@ My wife and I play a game: when we spot a small dog, if we think it is the small
 	   <span class="sidenote">
 As determined by subjective, variable-precision measurement.</span>
 The strategy is subtle. If the other person has made their guess and you haven't, then you simply observe as many dogs as possible and hope for a smaller one. But if they haven't, going first is a bet involving the distribution of dog sizes and the amount of time left in the day. 
+Together, suggest an instructive exercise in point processes and extreme values.
+
+## Minimal values
+
+Consider a set of observations $X_1, X_2, \ldots, X_n$ of iid random variables $X_i \sim \mathcal{D}$. The minimum value $m_n = \min_i X_i$ is the smallest observed value in the batch.
