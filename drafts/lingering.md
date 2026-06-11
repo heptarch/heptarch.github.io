@@ -52,7 +52,7 @@ It struck me that the opus of AI—a literal embodiment of the homoncular promis
 	</div>
 	</figure>
     
-To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes its argument from existence. We could say more about the benchmarks, headlines and hype cycles, but I think this material is dully familiar. Less well-trodden is the territory of "withness", by which I mean a collaborative interweaving of voices—the prompt-response refrain—where each voice modifies and co-creates the other, as in a fugue. The frame of co-creativity is what differentiates collaborative withness from "mere withness", or lazy, unilateral prompting.
+To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes its argument from existence. We could say more about the benchmarks, headlines and hype cycles, but I think this material is familiar enough to skip. Less well-trodden is the territory of "withness", by which I mean a collaborative interweaving of voices—the prompt-response refrain—where each voice modifies and co-creates the other, as in a fugue. The frame of co-creativity is what differentiates collaborative withness from "mere withness", the lazy, unilateral prompting most of us are familiar with.
 
 <div style="text-align:center">
 <a href="/art/vox-morans.pdf">Here.</a>
