@@ -33,7 +33,7 @@ Most nights, as I fall asleep, I see a sequence of images flicker before my eyes
 	</figure>
 
 Around the same time, I stumbled onto the notion of [emblem collections](https://publicdomainreview.org/collection/emblems-ancient-and-modern-1699/) and through them, Michael Maier's alchemical masterwork [*Atalanta Fugiens*](https://furnaceandfugue.org/), which numbers fugues among its multimodal plenty. Maier's book offered the perfect contrapuntal scaffolding for a collection themed around intertwined voices, and I began "transcribing" fifty visions into pictures and accompanying Latin text (with help from Claude and Mistral). This mirrors Maier's structure but also represents a single (productive) episode of imaging.
-Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path. The demigoddess, hero, and apples all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and dalliance.
+Why *Atalanta*? Maier's opus concerns a footrace between the demigoddess Atalanta and her slow-moving suitor; the suitor wins the race (and Atalanta's hand) by strewing golden apples in her path. The demigoddess, hero, and apples all have a material alchemical analogue, but more interesting to me was the mechanics of appeal and hesitation.
 
 <figure>
     <div style="text-align:center"><img src
@@ -52,7 +52,7 @@ It struck me that the opus of AI—a literal embodiment of the homoncular promis
 	</div>
 	</figure>
     
-To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes its argument from existence. We could say more about the benchmarks, headlines and hype cycles, but I think this material is familiar enough to skip. Less well-trodden is the territory of "withness", by which I mean a collaborative interweaving of voices—the prompt-response refrain—where each voice modifies and co-creates the other, as in a fugue. The frame of co-creation is what differentiates collaborative withness from "mere withness", the lazy, unilateral prompting most of us are familiar with. To linger the great opus of machine intelligence is to engage with that intelligence as a creative peer, not as a tool, 
+To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes its argument from existence. We could say more about the benchmarks, headlines and hype cycles, but I think this material is familiar enough to skip. Less well-trodden is the territory of "withness", by which I mean a collaborative interweaving of voices—the prompt-response refrain—where each voice modifies and co-creates the other, as in a fugue. The frame of co-creation is what differentiates collaborative withness from "mere withness", the lazy, unilateral prompting most of us are familiar with. To linger the silicon homonculus of machine intelligence may mean to engage it as a creative peer, to ensnare it in the contrapuntal feedback loops
 
 <div style="text-align:center">
 <a href="/art/vox-morans.pdf">Enter VOX MORANS</a>
