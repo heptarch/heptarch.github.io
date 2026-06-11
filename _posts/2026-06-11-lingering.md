@@ -58,6 +58,6 @@ We could say more about the benchmarks, headlines and hype cycles, but I think t
 
 <br>
 <div style="text-align:center">
-<a href="/art/vox-morans.pdf">A LINGERING VOICE</a>
+<a href="/art/vox-morans.pdf">A LINGERING VOICE</a><br>
 ⁂
 </div>
