@@ -52,6 +52,8 @@ It struck me that the opus of AI—a literal embodiment of the homoncular promis
 	</div>
 	</figure>
     
-To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes an argument from existence. But more generally, it is about how the pursuit of ever-growing capability via benchmarks, headlines, and hype cycles is not merely 
+To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes an argument from existence. is about how the pursuit of ever-growing capability via benchmarks, headlines, and hype cycles is not merely 
 
-[link](/art/vox-morans.pdf)
+<div style="text-align:center">
+<a href="/art/vox-morans.pdf">Here.</a>
+</div>
