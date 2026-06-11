@@ -52,10 +52,11 @@ It struck me that the opus of AI—a literal embodiment of the homoncular promis
 	</div>
 	</figure>
     
-To some extent, the argument is made by the collection itself, hence the title *A Lingering Voice*. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes its argument from existence. We could say more about the benchmarks, headlines and hype cycles, but I think this material is familiar enough to skip. Less well-trodden is the territory of "withness", by which I mean a collaborative interweaving of voices—the prompt-response refrain—where each voice modifies and co-creates the other, as in a fugue. The frame of co-creation is what differentiates collaborative withness from "mere withness", the lazy, unilateral prompting most of us are familiar with. To linger the silicon homonculus of machine intelligence may mean to ensnare it in parlour games, iterative conceits, and contrapuntal loops of sufficient richness and complexity that both parties are unavoidably implicated in the finished object. It is not a harness, it is a relational posture with a peer. Now read:
+We could say more about the benchmarks, headlines and hype cycles, but I think this material is familiar enough. Less well-trodden is the territory of "withness", by which I mean a collaborative interweaving of voices—the prompt-response fugue—where each voice modifies and co-creates the other. The frame of co-creation is what differentiates collaborative withness from "mere withness", the lazy, unilateral prompting most of us engage in. To linger the silicon homonculus may mean to ensnare it in parlour games, iterative conceits, and contrapuntal loops of sufficient richness and complexity that both parties are unavoidably implicated in the finished object; not a harness, but a relational posture between peers. This argument is made by the collection itself. The contrapuntus *is* the lingering, the collaborative withness made manifest; the work fulfils its own promise and makes its argument from existence. For a fuller account, see:
 
 ---
 
+<br>
 <div style="text-align:center">
-<a href="/art/vox-morans.pdf">VOX MORANS</a>
+<a href="/art/vox-morans.pdf">A LINGERING VOICE</a>
 </div>
