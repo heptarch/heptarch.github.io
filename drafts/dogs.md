@@ -76,6 +76,8 @@ since $1 - \alpha$ is the probability we win as first spotter, and $\beta$ is th
 Differentiating with respect to $\alpha$ and setting to zero gives the condition
 
 $$
-F_\mathcal{T}(\alpha) = (1- 2\alpha)f_\mathcal{T}(\alpha).
+0 = g(\alpha) = F_\mathcal{T}(\alpha) - (1- 2\alpha)f_\mathcal{T}(\alpha).
 $$
+
+If $f_\mathcal{T}(0) = 0$, then $\alpha = 0$ is a solution, namely the strategy to decrease $\alpha$ we observed earlier. Otherwise, a solution using the intermediate value theorem, since $g(0) = -f_\mathcal{T}()$
 
