@@ -66,8 +66,15 @@ It's clear that smaller $\alpha$ is better for the first spotter: it is literall
        class="margin-toggle"/>
 	   <span class="sidenote">
 We will ignore the role of attentiveness for simplicity.</span>
-Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your chance of losing *as* first spotter. To make this more precise, let players be labelled $i= 1, 2$. Without loss of generality, imagine we are player $1$. We pick a threshold $\alpha_1$ and suppose that player $2$ picks a threshold $\alpha_2 \sim \mathcal{T}$ according to a random distribution $\mathcal{T}$. Since $\alpha_1 > \alpha_2$ just in case we are first spotter, the probability we win is then
+Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your chance of losing *as* first spotter.  Without loss of generality, suppose we are playing and pick a threshold $\alpha$, with our opponent selecting a threshold $\beta \sim \mathcal{T}$ rt random. Since $\alpha > \beta$ just in case we are first spotter, the probability we win is then
 
 $$
-\mathbb{P}[1 \text{ wins}] = (1-\alpha_1)\int_{-\infty}^{\alpha_1} f_\mathcal{T}(\alpha_2)\, \mathrm{d}\alpha_2 + \int_{\alpha_1}^\infty f_\mathcal{T}(\alpha_2) \alpha_2\, \mathrm{d}\alpha_2
+\mathbb{P}[\text{win}] = (1-\alpha)\int_{-\infty}^{\alpha} f_\mathcal{T}(\beta)\, \mathrm{d}\beta + \int_{\alpha}^\infty f_\mathcal{T}(\beta) \beta\, \mathrm{d}\beta,
+$$
+
+since $1 - \alpha$ is the probability we win as first spotter, and $\beta$ is the probability the other player loses as first spotter.
+Differentiating with respect to $\alpha$ and setting to zero gives the condition
+
+$$
+\mathbb{P}[\alpha > \beta] = (1- \alpha)f_\mathcal{T}(\alpha) - \alpha f_\mathcal{T}(\alpha)
 $$
