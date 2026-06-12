@@ -48,7 +48,7 @@ Concretely, dog size is not normal but closer to *log normal* $\log\mathcal{N}$,
 This has CDF
 
 $$
-\Phi(x) = \frac{1}{2}\left[\frac{1}{2} + \text{erfc}\left(\frac{\ln x - \mu}{\sqrt{2}\sigma}\right)\right]
+\Phi(x) = \frac{1}{2}\left[\frac{1}{2} + \text{erf}\left(\frac{\ln x - \mu}{\sqrt{2}\sigma}\right)\right]
 $$
 
 for Gaussian mean $\mu$ and variance $\sigma^2$. Hence, 
