@@ -42,11 +42,11 @@ $$
 M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
 $$
 
-It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. The first spotter effectively sees a dog of size $m$, estimates $M_{n,\mathcal{D}}(m)$, and if it suitably small calls it. Our next step is to work out when to call it.
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. The first spotter effectively sees a dog of size $m$, estimates $M_{n,\mathcal{D}}(m)$, and if it suitably small calls it. Our next step is to work out when to call it.
 
 ## Poisson processes
 
-The appearance of dogs is a 
+The simplest approximation of the process of observing dogs is a *Poisson process*, where every interval of a given length is just as likely to contain a dog observation. Obviously, we are ignoring the fact that owners like to walk dogs at a certain time of day, geographic factors such as movement, etc. It is very crude but it will do! 
 
 
 
