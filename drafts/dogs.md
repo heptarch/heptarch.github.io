@@ -58,7 +58,7 @@ i.e., the probability of a smaller dog is below the threshold, then they call it
 
 ## Game theory
 
-It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing *if** you are the first spotter. The "if" is important; the problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size, giving your opponent time to spot a larger dog.<label for="sn-1"
+It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing *if* you are the first spotter. The "if" is important; the problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size, giving your opponent time to spot a larger dog.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
