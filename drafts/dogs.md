@@ -66,4 +66,4 @@ It's clear that smaller $\alpha$ is better for the first spotter: it is literall
        class="margin-toggle"/>
 	   <span class="sidenote">
 We will ignore the role of attentiveness for simplicity.</span>
-Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your change of losing as first spotter. To make this more precise, let players be labelled $i= 1, 2$. Player 
+Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your change of losing as first spotter. To make this more precise, let players be labelled $i= 1, 2$. Player
