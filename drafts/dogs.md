@@ -138,3 +138,5 @@ f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B
 $$
 
 Interestingly, the optimality condition is unchanged for $\alpha < \beta_\min$! This is because the factor of $I_{\beta_\min}(a, b)$ drops out on both sides.
+
+You might wonder if we should be playing Baysian *game theory*, but here, there is no real sequential decision making; either you're the first spotter (which is a decision process, essentially) or you are the second spotter and your strategy is completely dictated.
