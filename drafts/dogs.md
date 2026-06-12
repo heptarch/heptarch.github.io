@@ -54,6 +54,4 @@ $$
 M_{n,\mathcal{D}}(m) \leq \alpha,
 $$
 
-i.e., the probability of a smaller dog is below the threshold, then they call it.
-
-
+i.e., the probability of a smaller dog is below the threshold, then they call it. The first calculation is relatively easy if you know $\lambda$ and have a watch; approximate values in our neighbourhood are one dog every five minutes outside, so $\lambda \sim 3.3 \text{ mHz}$.
