@@ -121,13 +121,20 @@ We've neglected an important strategic element: every dog your opponent does *no
 The posterior density when your opponent passes some number of dogs, minimum size $\beta_\min$, is given by Bayes' law:
 
 $$
-f_{\mathcal{T}}(x)(\beta | \beta_\min) = \frac{f_{\mathcal{T}}(x)(\beta)}{F_{\mathcal{T}}(\beta_\min)} 
+f_{\mathcal{T}}(x)(\beta | \beta_\min) = \frac{f_{\mathcal{T}}(\beta)}{F_{\mathcal{T}}(\beta_\min)}, 
 $$
 
-or for the concrete case of the beta distribution:
+for $\beta < \beta_\min$, and vanishes otherwise, while the cdf is modified to
 
 $$
-f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B(a, b) I_{\beta_\min}(a, b)}. 
+F_{\mathcal{T}}(\beta | \beta_\min) = \int_{-\infty}^\beta \frac{f_{\mathcal{T}}(t)}{F_{\mathcal{T}}(\beta_\min)}, 
+\, \mathrm{d}t = \frac{F_{\mathcal{T}}(\beta)}{F_{\mathcal{T}}(\beta_\min)}.
 $$
 
-The
+For the concrete case of the beta distribution, the nonvanishing part is:
+
+$$
+f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B(a, b) I_{\beta_\min}(a, b)}, \quad F_{\text{Beta}}(x)(\beta | \beta_\min)=\frac{I_{\beta}(a, b)}{I_{\beta_\min}(a, b)} 
+$$
+
+The cdf is thus modified to
