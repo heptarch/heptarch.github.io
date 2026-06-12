@@ -19,7 +19,7 @@ My wife and I play a game called *Tiny Dog*. When you spot a small dog, if you t
        class="margin-toggle"/>
 	   <span class="sidenote">
 As determined by subjective, variable-precision and often highly contested measurements.</span>
-The strategy is subtle. If the other person has made their guess and you haven't, then you simply observe as many dogs as possible and hope for a smaller one. But if they haven't, going first is a bet involving the distribution of dog sizes and the amount of time left in the day. 
+The strategy is subtle. If the other person ("first spotter") has made their guess and you haven't ("second spotter"), then you simply observe as many dogs as possible and hope for a smaller one. But if they haven't, going first is a bet involving the distribution of dog sizes and the amount of time left in the day. 
 Together, suggest an instructive exercise in point processes and extreme values.
 
 ## Minimal values
@@ -39,10 +39,12 @@ $$
 The probability $m_n \geq m$ is the probability that *each* $X_i > m$, and hence the cdf $M_{n,\mathcal{D}}$ of $m_n$ obeys
 
 $$
-1 - M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n > m] = (1 - F_{\mathcal{D}}(x))^n.
+M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
 $$
 
-It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. We can 
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. The first spotter effectively sees a dog of size $m$, estimates $M_{n,\mathcal{D}}(m)$,  
+
+
 
 
 
