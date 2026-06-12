@@ -79,5 +79,9 @@ $$
 0 = g(\alpha) = F_\mathcal{T}(\alpha) - (1- 2\alpha)f_\mathcal{T}(\alpha).
 $$
 
-If $f_\mathcal{T}(0) = 0$, then $\alpha = 0$ is a solution, namely the strategy to decrease $\alpha$ we observed earlier. Otherwise, a solution using the intermediate value theorem, since $g(0) = -f_\mathcal{T}()$
+If $f_\mathcal{T}(0) = 0$, then $\alpha = 0$ is a solution, namely the strategy to decrease $\alpha$ we observed earlier. Otherwise, a solution using the intermediate value theorem, since
+
+$$
+g(0) = -f_\mathcal{T}(0) < 0, \quad g(1) = 1 + 2f_\mathcal{T}(1) > 0.
+$$
 
