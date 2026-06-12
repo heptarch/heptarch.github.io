@@ -36,7 +36,7 @@ $$
 \mathbb{P}_{X \sim \mathcal{D}}[X > x] = 1 - \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = 1 - F_{\mathcal{D}}(x).
 $$
 
-The probability $m_n \geq m$ is the probability that *each* $X_i > m$, and hence the cdf $M_{n,\mathcal{D}}$ of $m_n$ obeys
+The probability $m_n \geq m$ is the probability that *each* $X_i > m$, and hence the cdf (denoted $M_{n,\mathcal{D}}$) of $m_n$ obeys
 
 $$
 M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
