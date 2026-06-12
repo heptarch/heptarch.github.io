@@ -76,5 +76,6 @@ since $1 - \alpha$ is the probability we win as first spotter, and $\beta$ is th
 Differentiating with respect to $\alpha$ and setting to zero gives the condition
 
 $$
-\mathbb{P}[\alpha > \beta] = (1- \alpha)f_\mathcal{T}(\alpha) - \alpha f_\mathcal{T}(\alpha)
+F_\mathcal{T}(\alpha) = (1- 2\alpha)f_\mathcal{T}(\alpha).
 $$
+
