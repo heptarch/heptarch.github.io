@@ -30,7 +30,17 @@ $$
 F_{\mathcal{D}}(x) = \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = \int_{-\infty}^x f_{\mathcal{D}}(t) \, \mathrm{d}t,
 $$
 
-where $f_{\mathcal{D}}(t)$ is the *probability density function (pdf)*. The 
+where $f_{\mathcal{D}}(t)$ is the *probability density function (pdf)* associated with $\mathcal{D}$. Note that
+
+$$
+\mathbb{P}_{X \sim \mathcal{D}}[X > x] = 1 - \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = 1 - F_{\mathcal{D}}(x).
+$$
+
+The probability $m_n \geq m$ is the probability that *each* $X_i \geq m$, and hence the cdf of $m_n$ obeys
+
+$$
+M_n{X\sim\mathcal{D}}[m] = \mathbb{P}_{X \sim \mathcal{D}}[m_n\leq n] = (1 - F_{\mathcal{D}}(x))^n.
+$$
 
 
 
