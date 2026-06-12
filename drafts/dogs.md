@@ -46,7 +46,7 @@ It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme
 
 ## Poisson processes
 
-The simplest approximation of the process of observing dogs is a *Poisson process*, where every interval of a given length is just as likely to contain a dog observation. Obviously, we are ignoring the fact that owners like to walk dogs at a certain time of day, geographic factors such as movement, etc. It is very crude but it will do! 
+For the process of observing dogs, we assume that every interval of a the same length is just as likely to yield an observation, with a mean of $\lambda$ dogs per unit time. This is called a *Poisson process*. Obviously, we are ignoring temporal factors (e.g. owners like to walk dogs at certain times of day) and geographic factors (e.g. dog parks are more likely to contain dogs), but this crude model will do! 
 
 
 
