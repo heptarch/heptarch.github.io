@@ -66,8 +66,8 @@ It's clear that smaller $\alpha$ is better for the first spotter: it is literall
        class="margin-toggle"/>
 	   <span class="sidenote">
 We will ignore the role of attentiveness for simplicity.</span>
-Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your chance of losing *as* first spotter. To make this more precise, let players be labelled $i= 1, 2$. Without loss of generality, imagine we are player $1$. We pick a threshold $\alpha_1$ and suppose that player $2$ picks a threshold $\alpha_2 \sim \mathcal{T}$ according to a random distribution $\mathcal{T}$. The probability we win is then
+Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your chance of losing *as* first spotter. To make this more precise, let players be labelled $i= 1, 2$. Without loss of generality, imagine we are player $1$. We pick a threshold $\alpha_1$ and suppose that player $2$ picks a threshold $\alpha_2 \sim \mathcal{T}$ according to a random distribution $\mathcal{T}$. Since $\alpha_1 > \alpha_2$ just in case we are first spotter, the probability we win is then
 
 $$
-\mathbb{P}[1 \text{ wins}] = (1-\alpha_1)\mathbb{P}[\alpha_1 > \alpha_2] + \alpha_2 \mathbb{P}[\alpha_1 \leq \alpha_2].
+\mathbb{P}[1 \text{ wins}] = (1-\alpha_1)\mathbb{P}[\alpha_1 > \alpha_2] + \alpha_2 \mathbb{P}[\alpha_1 \leq \alpha_2],
 $$
