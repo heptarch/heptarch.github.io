@@ -7,7 +7,7 @@ date:  2026-06-12
 
 ---
 
-**June 10, 2026.** *The game of spotting maximally tiny dogs turns into a tutorial on extreme values.*
+**June 10, 2026.** *The game of spotting maximally tiny dogs turns into a statistics tutorial.*
 
 ## Introduction
 
@@ -42,6 +42,7 @@ $$
 1 - M{n,\mathcal{D}}[m] = \mathbb{P}_{X \sim \mathcal{D}}[m_n > m] = (1 - F_{\mathcal{D}}(x))^n.
 $$
 
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is not only finite, but variable in important ways, and we will keep $n$ in the realm
 
 
 
