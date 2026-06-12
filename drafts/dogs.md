@@ -24,7 +24,7 @@ Together, these suggest an instructive exercise in extreme values, point process
 
 ## Minimal values
 
-Consider a set of real-valued observations $X_1, X_2, \ldots, X_n \in \mathbb{R}$ of iid random variables $X_i \sim \mathcal{D}$. The minimum value $m_n = \min_i X_i$ is the smallest observed value in the batch. Recall that the *cumulative distribution function (CDF)* of a random variable $X \sim \mathcal{D}$ is the probability $X \leq x$:
+Consider a set of real-valued observations $X_1, X_2, \ldots, X_n \in \mathbb{R}$ of iid random variables $X_i \sim \mathcal{D}$. The minimum value $m_n = \min_i X_i$ is the smallest observed value in the batch. Recall that the *cumulative distribution function (cdf)* of a random variable $X \sim \mathcal{D}$ is the probability $X \leq x$:
 
 $$
 F_{\mathcal{D}}(x) = \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = \int_{-\infty}^x f_{\mathcal{D}}(t) \, \mathrm{d}t,
@@ -45,7 +45,7 @@ $$
 It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite.
 
 Concretely, dog size is not normal but closer to *log normal* $\log\mathcal{N}$, i.e., the logarithm of size is normally distributed.
-This has CDF
+This has cdf
 
 $$
 \Phi(x) = \frac{1}{2}\left[\frac{1}{2} + \text{erf}\left(\frac{\ln x - \mu}{\sqrt{2}\sigma}\right)\right]
@@ -100,8 +100,14 @@ $$
 g(0) = -f_\mathcal{T}(0) < 0, \quad g(1) = 1 + 2f_\mathcal{T}(1) > 0.
 $$
 
-For a concrete distribution $\mathcal{T}$, we can attempt to solve this analytically or numerically.
+For a concrete distribution $\mathcal{T}$, we can attempt to solve this analytically or numerically. A natural choice is the *beta distribution* $\text{Beta}(\gamma,\delta)$ with pdf and cdf
+
+$$
+f_{\text{Beta}}(x) = \frac{\Gamma(\gamma + \delta)}{\Gamma(\gamma)\Gamma(\delta)} x^{\gamma - 1}(1 - x)^{\delta - 1}, \quad F_{\text{Beta}}(x) = I_x(\gamma, \delta) 
+$$
+
+for $x \in [0, 1]$ and $I_x$ the *regularized incomplete beta function*.
 
 ## Baysian decision theory
 
-We've neglected an important strategic element: every dog your opponent does *not* call is a piece of information, namely, $\beta < \gamma$ where $\gamma$ is the probability of seeing a smaller dog. This suggests we treat $\mathcal{T}$ as a *Bayesian prior* and then update
+We've neglected an important strategic element: every dog your opponent does *not* call is a piece of information, namely, $\beta < \gamma$ where $\gamma$ is the probability of seeing a dog smaller than that just observed. This suggests we treat $\mathcal{T}$ as a *Bayesian prior* and then update this with 
