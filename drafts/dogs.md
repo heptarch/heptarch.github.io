@@ -42,7 +42,22 @@ $$
 M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
 $$
 
-It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. We'll discuss the concrete form of $M_{n,\mathcal{D}}(m)$ below.
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite.
+
+Concretely, dog size is not normal but closer to *log normal* $\log\mathcal{N}$, i.e., the logarithm of size is normally distributed.
+This has CDF
+
+$$
+\Phi(x) = \frac{1}{2}\left[\frac{1}{2} + \text{erfc}\left(\frac{\ln x - \mu}{\sqrt{2}\sigma}\right)\right]
+$$
+
+for Gaussian mean $\mu$ and variance $\sigma^2$. Hence, 
+
+$$
+M_{n}(m) = 1 - (1 - \Phi(x))^n
+$$
+
+with parameters and approximations we'll discuss below.
 
 ## Poisson processes
 
@@ -56,7 +71,7 @@ $$
 
 i.e., the probability of a smaller dog is below the threshold, then they call it. The first calculation is relatively easy if you know $\lambda$ and have a watch; approximate values in our neighbourhood are one dog every five minutes outside, so $\lambda \sim 3.3 \text{ mHz}$.
 
-## Game theory
+## One-sided strategy
 
 It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing *if* you are the first spotter. The "if" is important; the problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size, giving your opponent time to spot a larger dog.<label for="sn-1"
        class="margin-toggle sidenote-number">
@@ -79,9 +94,14 @@ $$
 0 = g(\alpha) = F_\mathcal{T}(\alpha) - (1- 2\alpha)f_\mathcal{T}(\alpha).
 $$
 
-If $f_\mathcal{T}(0) = 0$, then $\alpha = 0$ is a solution, namely the strategy to decrease $\alpha$ we observed earlier. Otherwise, a solution using the intermediate value theorem, since
+If $f_\mathcal{T}(0) = 0$, then $\alpha = 0$ is a solution, and we recover the strategy to decrease $\alpha$ we observed earlier. Otherwise, a nonzero solution exists by virtue of the intermediate value theorem, since
 
 $$
 g(0) = -f_\mathcal{T}(0) < 0, \quad g(1) = 1 + 2f_\mathcal{T}(1) > 0.
 $$
 
+For a concrete distribution $\mathcal{T}$, we can attempt to solve this analytically or numerically.
+
+## Game theory
+
+The problem with this account is that it ignores the symmetry of the situation. In reality, $\beta$ is also being chosen strategically, so we have a fully-fledged game theory problem. 
