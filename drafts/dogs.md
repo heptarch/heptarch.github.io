@@ -103,7 +103,7 @@ $$
 For a concrete distribution $\mathcal{T}$, we can attempt to solve this analytically or numerically. A natural choice is the *beta distribution* $\text{Beta}(a, b)$ with pdf and cdf
 
 $$
-f_{\text{Beta}}(x) = \frac{x^{a - 1}(1 - x)^{b - 1}}{B(a, b)}, \quad B(a, b) = \frac{\Gamma(a)\Gamma(b)}{\Gamma(a + b)} \quad F_{\text{Beta}}(x) = I_x(a, b) 
+f_{\text{Beta}}(x) = \frac{x^{a - 1}(1 - x)^{b - 1}}{B(a, b)}, \quad B(a, b) = \frac{\Gamma(a)\Gamma(b)}{\Gamma(a + b)}, \quad F_{\text{Beta}}(x) = I_x(a, b) 
 $$
 
 for $x \in [0, 1]$, $\Gamma(z)$ the [Gamma function](https://en.wikipedia.org/wiki/Gamma_function), and $I_x$ the [regularized incomplete beta function](https://en.wikipedia.org/wiki/Beta_function#Incomplete_beta_function).
@@ -111,14 +111,16 @@ for $x \in [0, 1]$, $\Gamma(z)$ the [Gamma function](https://en.wikipedia.org/wi
 ## Baysian decision theory
 
 We've neglected an important strategic element: every dog your opponent does *not* call is a piece of information, namely, $\beta < \beta'$ where $\beta'$ is the probability of seeing a dog smaller than that just observed. This suggests we treat $\mathcal{T}$ as a *Bayesian prior*.
-The posterior density when your opponent passes dogs of minimum size $\beta_\min$ is given by Bayes' law,
+The posterior density when your opponent passes some number of dogs, minimum size $\beta_\min$, is given by Bayes' law:
 
 $$
 f_{\mathcal{T}}(x)(\beta | \beta_\min) = \frac{f_{\mathcal{T}}(x)(\beta)}{F_{\mathcal{T}}(\beta_\min)} 
 $$
 
-or for the concrete case of the beta distribution,
+or for the concrete case of the beta distribution:
 
 $$
-f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B(a, b\) I_{\beta_\min}(a, b)}, 
+f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B(a, b\) I_{\beta_\min}(a, b)}. 
 $$
+
+The
