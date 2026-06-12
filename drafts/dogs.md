@@ -27,7 +27,7 @@ Together, suggest an instructive exercise in point processes and extreme values.
 Consider a set of real-valued observations $X_1, X_2, \ldots, X_n \in \mathbb{R}$ of iid random variables $X_i \sim \mathcal{D}$. The minimum value $m_n = \min_i X_i$ is the smallest observed value in the batch. Recall that the *cumulative distribution function (CDF)* of a random variable $X \sim \mathcal{D}$ is the probability $X \leq x$:
 
 $$
-F_{\mathcal{D}}(x) = \mathbb{P}[X \leq x; X \sim \mathcal{D}] = \int_{-\infty}^x f_{\mathcal{D}}(x) \, \mathrm{d}x.
+F_{\mathcal{D}}(x) = \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = \int_{-\infty}^x f_{\mathcal{D}}(x) \, \mathrm{d}x.
 $$
 
 
