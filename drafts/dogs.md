@@ -42,12 +42,18 @@ $$
 M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
 $$
 
-It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. The first spotter effectively sees a dog of size $m$, estimates $M_{n,\mathcal{D}}(m)$, and if it suitably small calls it. Our next step is to work out when to call it.
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite.
 
 ## Poisson processes
 
 For the process of observing dogs, we assume that every interval of a the same length is just as likely to yield an observation, with a mean of $\lambda$ dogs per unit time. This is called a *Poisson process*. Obviously, we are ignoring temporal factors (e.g. owners like to walk dogs at certain times of day) and geographic factors (e.g. dog parks are more likely to contain dogs), but this crude model will do! If $T$ is the remaining length of a day where one could reasonably expect to observe dogs, the average number of dogs to be observed is $\lambda T$.
 
+Returning to the problem at hand, suppose the first spotter sees a dog of size $m$. They must compute two things: first, the average number of dogs remaining to be observed for the day, $n = \lceil \lambda T\rceil$; second, the probability $M_{n,\mathcal{D}}(m)$ that a dog smaller than that will be observed. They set some threshold probability $\alpha$ such that, if
 
+$$
+M_{n,\mathcal{D}}(m) \leq \alpha,
+$$
+
+i.e., the probability of a smaller dog is below the threshold, then they call it.
 
 
