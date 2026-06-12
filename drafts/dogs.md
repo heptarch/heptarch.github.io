@@ -58,4 +58,12 @@ i.e., the probability of a smaller dog is below the threshold, then they call it
 
 ## Game theory
 
-It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing! The problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size.
+It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing *if** you are the first spotter. The "if" is important; the problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size, giving your opponent time to spot a larger dog.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+We will ignore the role of attentiveness for simplicity.</span>
+Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your change of losing as first spotter. To make this more precise, let players be labelled $i= 1, 2$. Player 
