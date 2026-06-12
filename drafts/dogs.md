@@ -36,10 +36,10 @@ $$
 \mathbb{P}_{X \sim \mathcal{D}}[X > x] = 1 - \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = 1 - F_{\mathcal{D}}(x).
 $$
 
-The probability $m_n \geq m$ is the probability that *each* $X_i > m$, and hence the cdf of $m_n$ obeys
+The probability $m_n \geq m$ is the probability that *each* $X_i > m$, and hence the cdf $M_{n,\mathcal{D}}$ of $m_n$ obeys
 
 $$
-1 - M_{n,\mathcal{D}}[m] = \mathbb{P}_{X \sim \mathcal{D}}[m_n > m] = (1 - F_{\mathcal{D}}(x))^n.
+1 - M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n > m] = (1 - F_{\mathcal{D}}(x))^n.
 $$
 
 It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. We can 
