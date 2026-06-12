@@ -120,7 +120,7 @@ $$
 or for the concrete case of the beta distribution:
 
 $$
-f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B(a, b\) I_{\beta_\min}(a, b)}. 
+f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B(a, b) I_{\beta_\min}(a, b)}. 
 $$
 
 The
