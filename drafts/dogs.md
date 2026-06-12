@@ -20,7 +20,7 @@ My wife and I play a game called *Tiny Dog*. When you spot a small dog, if you t
 	   <span class="sidenote">
 As determined by subjective, variable-precision and often highly contested measurements.</span>
 The strategy is subtle. If the other person ("first spotter") has made their guess and you haven't ("second spotter"), then you simply observe as many dogs as possible and hope for a smaller one. But if they haven't, going first is a bet involving the distribution of dog sizes and the amount of time left in the day. 
-Together, suggest an instructive exercise in point processes and extreme values.
+Together, these suggest an instructive exercise in extreme values, point processes and game theory!
 
 ## Minimal values
 
@@ -56,7 +56,7 @@ $$
 
 i.e., the probability of a smaller dog is below the threshold, then they call it. The first calculation is relatively easy if you know $\lambda$ and have a watch; approximate values in our neighbourhood are one dog every five minutes outside, so $\lambda \sim 3.3 \text{ mHz}$.
 
-## Bayesian game theory
+## Game theory
 
 It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing *if** you are the first spotter. The "if" is important; the problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size, giving your opponent time to spot a larger dog.<label for="sn-1"
        class="margin-toggle sidenote-number">
@@ -66,4 +66,8 @@ It's clear that smaller $\alpha$ is better for the first spotter: it is literall
        class="margin-toggle"/>
 	   <span class="sidenote">
 We will ignore the role of attentiveness for simplicity.</span>
-Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your change of losing as first spotter. To make this more precise, let players be labelled $i= 1, 2$. Without loss of generality, imagine we are player $1$. We pick a threshold $\alpha_1$ and suppose that player $2$ picks a random threshold $\alpha_2 \sim \mathcal{T}$.
+Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your chance of losing *as* first spotter. To make this more precise, let players be labelled $i= 1, 2$. Without loss of generality, imagine we are player $1$. We pick a threshold $\alpha_1$ and suppose that player $2$ picks a threshold $\alpha_2 \sim \mathcal{T}$ according to a random distribution $\mathcal{T}$. The probability we win is then
+
+$$
+\mathbb{P}[1 \text{ wins}] = (1-\alpha_1)\mathbb{P}[\alpha_1 > \alpha_2] + \alpha_2 \mathbb{P}[\alpha_1 \leq \alpha_2].
+$$
