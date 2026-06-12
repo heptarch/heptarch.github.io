@@ -42,7 +42,7 @@ $$
 M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
 $$
 
-It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite.
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. We'll discuss the concrete form of $M_{n,\mathcal{D}}(m)$ below.
 
 ## Poisson processes
 
@@ -56,4 +56,6 @@ $$
 
 i.e., the probability of a smaller dog is below the threshold, then they call it. The first calculation is relatively easy if you know $\lambda$ and have a watch; approximate values in our neighbourhood are one dog every five minutes outside, so $\lambda \sim 3.3 \text{ mHz}$.
 
-## Lognormality
+## Game theory
+
+It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing! The problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size.
