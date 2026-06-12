@@ -11,14 +11,14 @@ date:  2026-06-12
 
 ## Introduction
 
-My wife and I play a game: when we spot a small dog, if we think it is the smallest we will see that day, we declare "tiny dog!" You get precisely one guess per day, and the winner is the person who spots the smallest dog.<label for="sn-1"
+My wife and I play a game called *Tiny Dog*. When you spot a small dog, if you think it is the smallest you will see that day, you declare "tiny dog!" You get precisely one guess per day, and the winner is the person who spots the smallest dog fro that day.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-As determined by subjective, variable-precision measurement.</span>
+As determined by subjective, variable-precision and often highly contested measurements.</span>
 The strategy is subtle. If the other person has made their guess and you haven't, then you simply observe as many dogs as possible and hope for a smaller one. But if they haven't, going first is a bet involving the distribution of dog sizes and the amount of time left in the day. 
 Together, suggest an instructive exercise in point processes and extreme values.
 
@@ -27,8 +27,10 @@ Together, suggest an instructive exercise in point processes and extreme values.
 Consider a set of real-valued observations $X_1, X_2, \ldots, X_n \in \mathbb{R}$ of iid random variables $X_i \sim \mathcal{D}$. The minimum value $m_n = \min_i X_i$ is the smallest observed value in the batch. Recall that the *cumulative distribution function (CDF)* of a random variable $X \sim \mathcal{D}$ is the probability $X \leq x$:
 
 $$
-F_{\mathcal{D}}(x) = \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = \int_{-\infty}^x f_{\mathcal{D}}(x) \, \mathrm{d}x.
+F_{\mathcal{D}}(x) = \mathbb{P}_{X \sim \mathcal{D}}[X \leq x] = \int_{-\infty}^x f_{\mathcal{D}}(t) \, \mathrm{d}t,
 $$
+
+where $f_{\mathcal{D}}(t)$ is the *probability density function (pdf)*. The 
 
 
 
