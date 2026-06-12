@@ -20,7 +20,7 @@ My wife and I play a game called *Tiny Dog*. When you spot a small dog, if you t
 	   <span class="sidenote">
 As determined by subjective, variable-precision and often highly contested measurements.</span>
 The strategy is subtle. If the other person ("first spotter") has made their guess and you haven't ("second spotter"), then you simply observe as many dogs as possible and hope for a smaller one. But if they haven't, going first is a bet involving the distribution of dog sizes and the amount of time left in the day. 
-Together, these suggest an instructive exercise in extreme values, point processes and game theory!
+Together, these suggest an instructive exercise in extreme values, point processes and Bayesian decision theory!
 
 ## Minimal values
 
@@ -102,6 +102,6 @@ $$
 
 For a concrete distribution $\mathcal{T}$, we can attempt to solve this analytically or numerically.
 
-## Game theory
+## Baysian decision theory
 
-The problem with this account is that it ignores the symmetry of the situation. In reality, $\beta$ is also being chosen strategically, so we have a fully-fledged game theory problem. 
+We've neglected an important strategic element: every dog your opponentn does *not* call is a piece of information, namely, $\b$
