@@ -42,7 +42,11 @@ $$
 M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
 $$
 
-It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. The first spotter effectively sees a dog of size $m$, estimates $M_{n,\mathcal{D}}(m)$,  
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite. The first spotter effectively sees a dog of size $m$, estimates $M_{n,\mathcal{D}}(m)$, and if it suitably small calls it. Our next step is to work out when to call it.
+
+## Poisson processes
+
+The appearance of dogs is a 
 
 
 
