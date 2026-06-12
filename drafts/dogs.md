@@ -61,7 +61,7 @@ with parameters and approximations we'll discuss below.
 
 ## Poisson processes
 
-For the process of observing dogs, we assume that every interval of a the same length is just as likely to yield an observation, with a mean of $\lambda$ dogs per unit time. This is called a *Poisson process*. Obviously, we are ignoring temporal factors (e.g. owners like to walk dogs at certain times of day) and geographic factors (e.g. dog parks are more likely to contain dogs), but this crude model will do! If $T$ is the remaining length of a day where one could reasonably expect to observe dogs, the average number of dogs to be observed is $\lambda T$.
+For the process of observing dogs, we assume that every interval of a the same length is just as likely to yield an observation, with a mean of $\lambda$ dogs per unit time. This is called a *Poisson process*. Obviously, we are ignoring temporal factors (e.g. owners like to walk dogs at certain times of day) and geographic factors (e.g. dog parks are more likely to contain dogs), but this crude model will do! If $T$ is the total length of the day and $t$ the elapsed time, remaining length of a day where one could reasonably expect to observe dogs, the average number of dogs to be observed is $\lambda (T - t)$.
 
 Returning to the problem at hand, suppose the first spotter sees a dog of size $m$. They must compute two things: first, the average number of dogs remaining to be observed for the day, $n = \lceil \lambda T\rceil$; second, the probability $M_{n,\mathcal{D}}(m)$ that a dog smaller than that will be observed. They set some threshold probability $\alpha$ such that, if
 
