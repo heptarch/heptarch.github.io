@@ -39,7 +39,7 @@ $$
 The probability $m_n \geq m$ is the probability that *each* $X_i > m$, and hence the cdf of $m_n$ obeys
 
 $$
-1 - M{n,\mathcal{D}}[m] = \mathbb{P}_{X \sim \mathcal{D}}[m_n > m] = (1 - F_{\mathcal{D}}(x))^n.
+1 - M_{n,\mathcal{D}}[m] = \mathbb{P}_{X \sim \mathcal{D}}[m_n > m] = (1 - F_{\mathcal{D}}(x))^n.
 $$
 
 It's tempting to go to the asymptotic limit in $n$ here, which leads to [*extreme value theory*](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is not only finite, but variable in important ways, and we will keep $n$ in the realm
