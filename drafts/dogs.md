@@ -56,7 +56,7 @@ $$
 
 i.e., the probability of a smaller dog is below the threshold, then they call it. The first calculation is relatively easy if you know $\lambda$ and have a watch; approximate values in our neighbourhood are one dog every five minutes outside, so $\lambda \sim 3.3 \text{ mHz}$.
 
-## Game theory
+## Bayesian game theory
 
 It's clear that smaller $\alpha$ is better for the first spotter: it is literally the probability of losing *if** you are the first spotter. The "if" is important; the problem is that the smaller $\alpha$, the longer on average you must wait to see a dog of that size, giving your opponent time to spot a larger dog.<label for="sn-1"
        class="margin-toggle sidenote-number">
@@ -66,4 +66,4 @@ It's clear that smaller $\alpha$ is better for the first spotter: it is literall
        class="margin-toggle"/>
 	   <span class="sidenote">
 We will ignore the role of attentiveness for simplicity.</span>
-Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your change of losing as first spotter. To make this more precise, let players be labelled $i= 1, 2$. Player
+Choosing a large $\alpha$ gives you a greater likelihood of being first spotter, but obviously increases your change of losing as first spotter. To make this more precise, let players be labelled $i= 1, 2$. Without loss of generality, imagine we are player $1$. We pick a threshold $\alpha_1$ and suppose that player $2$ picks a random threshold $\alpha_2 \sim \mathcal{T}$.
