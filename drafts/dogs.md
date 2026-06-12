@@ -110,7 +110,7 @@ for $x \in [0, 1]$, $\Gamma(z)$ the [Gamma function](https://en.wikipedia.org/wi
 Then the optimal first spotting probability obeys
 
 $$
-I_\alpha(a, b) = (1- 2\alpha)\frac{\alpha^{a - 1}(1 - \alpha)^{b - 1}}{B(a, b)},
+I_\alpha(a, b)B(a, b) = (1- 2\alpha)\alpha^{a - 1}(1 - \alpha)^{b - 1},
 $$
 
 which can be solved numerically but probably not analytically.
@@ -137,4 +137,4 @@ $$
 f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B(a, b) I_{\beta_\min}(a, b)}, \quad F_{\text{Beta}}(x)(\beta | \beta_\min)=\frac{I_{\beta}(a, b)}{I_{\beta_\min}(a, b)} 
 $$
 
-The cdf is thus modified to
+Interestingly, the optimality condition is unchanged for $\alpha < \beta_\min$! This is because the factor of $I_{\beta_\min}(a, b)$ drops out on both sides.
