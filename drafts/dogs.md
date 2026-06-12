@@ -104,4 +104,4 @@ For a concrete distribution $\mathcal{T}$, we can attempt to solve this analytic
 
 ## Baysian decision theory
 
-We've neglected an important strategic element: every dog your opponent does *not* call is a piece of information, namely, $\beta < \gamma$ where $\gamma$ is the probability of seeing a smaller dog.
+We've neglected an important strategic element: every dog your opponent does *not* call is a piece of information, namely, $\beta < \gamma$ where $\gamma$ is the probability of seeing a smaller dog. This suggests we treat $\mathcal{T}$ as a *Bayesian prior* and then update
