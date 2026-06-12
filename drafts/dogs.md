@@ -103,11 +103,15 @@ $$
 For a concrete distribution $\mathcal{T}$, we can attempt to solve this analytically or numerically. A natural choice is the *beta distribution* $\text{Beta}(\gamma,\delta)$ with pdf and cdf
 
 $$
-f_{\text{Beta}}(x) = \frac{\Gamma(\gamma + \delta)}{\Gamma(\gamma)\Gamma(\delta)} x^{\gamma - 1}(1 - x)^{\delta - 1}, \quad F_{\text{Beta}}(x) = I_x(\gamma, \delta) 
+f_{\text{Beta}}(x) = \frac{x^{\gamma - 1}(1 - x)^{\delta - 1}}{B(\gamma, \delta)}, \quad B(\gamma, \delta) = \frac{\Gamma(\gamma)\Gamma(\delta)}{\Gamma(\gamma + \delta)} \quad F_{\text{Beta}}(x) = I_x(\gamma, \delta) 
 $$
 
-for $x \in [0, 1]$ and $I_x$ the *regularized incomplete beta function*.
+for $x \in [0, 1]$, $\Gamma(z)$ the [Gamma function](https://en.wikipedia.org/wiki/Gamma_function), and $I_x$ the [regularized incomplete beta function](https://en.wikipedia.org/wiki/Beta_function#Incomplete_beta_function). The updated distribution or *posterior* comes from Bayes' law:
+
+$$
+f_{\text{Beta}}(x)(\beta | \beta') = \frac{\beta^{\gamma - 1}(1-\beta)^{\delta - 1}{}
+$$
 
 ## Baysian decision theory
 
-We've neglected an important strategic element: every dog your opponent does *not* call is a piece of information, namely, $\beta < \gamma$ where $\gamma$ is the probability of seeing a dog smaller than that just observed. This suggests we treat $\mathcal{T}$ as a *Bayesian prior* and then update this with 
+We've neglected an important strategic element: every dog your opponent does *not* call is a piece of information, namely, $\beta < \beta'$ where $\beta'$ is the probability of seeing a dog smaller than that just observed. This suggests we treat $\mathcal{T}$ as a *Bayesian prior* and then update this with 
