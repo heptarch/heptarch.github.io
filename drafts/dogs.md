@@ -11,7 +11,7 @@ date:  2026-06-12
 
 ## Introduction
 
-My wife and I play a game called *Tiny Dog*. When you spot a small dog, if you think it is the smallest you will see that day, you declare "tiny dog!" You get precisely one guess per day, and the winner is the person who spots the smallest dog fro that day.<label for="sn-1"
+My wife and I play a game called *Tiny Dog*. When you spot a small dog, if you think it is the smallest you will see that day, you declare "tiny dog!", with precisely one guess per day. The winner is of course the person who spots the smallest dog.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
