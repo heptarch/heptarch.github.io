@@ -39,7 +39,7 @@ $$
 The probability $m_n \geq m$ is the probability that *each* $X_i \geq m$, and hence the cdf of $m_n$ obeys
 
 $$
-M_n{X\sim\mathcal{D}}[m] = \mathbb{P}_{X \sim \mathcal{D}}[m_n\leq n] = (1 - F_{\mathcal{D}}(x))^n.
+M{n, X\sim\mathcal{D}}[m] = \mathbb{P}_{X \sim \mathcal{D}}[m_n\leq n] = (1 - F_{\mathcal{D}}(x))^n.
 $$
 
 
