@@ -107,6 +107,13 @@ f_{\text{Beta}}(x) = \frac{x^{a - 1}(1 - x)^{b - 1}}{B(a, b)}, \quad B(a, b) = \
 $$
 
 for $x \in [0, 1]$, $\Gamma(z)$ the [Gamma function](https://en.wikipedia.org/wiki/Gamma_function), and $I_x$ the [regularized incomplete beta function](https://en.wikipedia.org/wiki/Beta_function#Incomplete_beta_function).
+Then the optimal first spotting probability obeys
+
+$$
+I_\alpha(a, b) = (1- 2\alpha)\frac{\alpha^{a - 1}(1 - \alpha)^{b - 1}}{B(a, b)},
+$$
+
+which can be solved numerically but probably not analytically.
 
 ## Baysian decision theory
 
