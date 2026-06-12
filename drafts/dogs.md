@@ -139,4 +139,6 @@ $$
 
 Interestingly, the optimality condition is unchanged for $\alpha < \beta_\min$! This is because the factor of $I_{\beta_\min}(a, b)$ drops out on both sides.
 
-You might wonder if we should be playing Baysian *game theory*, but here, there is no real sequential decision making; either you're the first spotter (which is a decision process, essentially) or you are the second spotter and your strategy is completely dictated.
+A couple of stray threads. You might wonder if we should be playing Baysian *game theory*, but here, there is no real sequential decision making; either you're the first spotter (which is a decision process, essentially) or you are the second spotter and your strategy is completely dictated. Second, you will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution, but we can update those over the course of multiple games. I won't discuss the update process here. Finally, a reasonable initial choice of distribution is centred on a small value of $\beta$ with a long-tail, e.g. $a = 2, b = L$ for some large $L$.
+
+## Putting it together
