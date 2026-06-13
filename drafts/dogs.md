@@ -161,7 +161,7 @@ By the way, you might wonder if we should be playing Bayesian *game theory*, but
 
 ## Shape parameters
 
-You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. A reasonable initial choice of distribution is skewed towards small values of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
+You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. (Details omitted.) A reasonable initial choice of distribution is skewed towards small values of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
 This has a particularly simple form since
 
 $$
