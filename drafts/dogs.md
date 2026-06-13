@@ -218,4 +218,4 @@ So, let's summarize how to play in the simple case of a homogenous point process
    - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
    - If you're opponent doesn't call it, update $\alpha^\ast = \beta_\min - \epsilon$ (boundary phase).
    - If opponent calls it, look for and call smaller dogs.
-3. Following the game, update opponent prior $b = \langle \beta\rangle^{-1} - 1$.
+3. Following the game, update opponent prior $b\leftarrow \langle \beta\rangle^{-1} - 1$.
