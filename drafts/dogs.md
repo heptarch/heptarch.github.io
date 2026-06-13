@@ -192,7 +192,7 @@ If $b \gg 1$, we can set $\log(1 + b - b\alpha^\ast) \approx \log b$ and hence
 
 $$
 
--b\alpha^\ast + \log b = 0 \quad \Longrightarrow \alpha^\ast \approx \frac{\log b}{b}.
+-b\alpha^\ast + \log b = 0 \quad \Longrightarrow \quad \alpha^\ast \approx \frac{\log b}{b}.
 $$
 
 This is eminently computable. Note that setting $a = 1$ and $b > 1$ has mode $\beta = 0$; again, this is a feature or a bug depending on the play style of your opponent.
