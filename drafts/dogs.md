@@ -222,11 +222,56 @@ So, let's summarize how to play in the simple case of a homogenous point process
 
 Thus, we learn that behind the seemingly trivial game of spotting tiny dogs, there is a wealth of subtlety: from finite term extreme values, to Poisson point processes to Bayesian decision theory,
 
-## Appendix 1: 
+## Appendix 1: Updating as first spotter
 
-## Appendix 2:
+The rule above applies only when the opponent spots first, where their call
+reveals a threshold value $\beta_i$ to average in. But $\beta$ governs the
+opponent only *as* first spotter — as second spotter they call any smaller dog
+regardless — so a game we spot first tells us nothing through its outcome. The
+information sits entirely in their silence: every dog they passed exceeded their
+threshold, leaving only the one-sided bound
 
-Slop code to simulate Tiny Dog if you are so inclined:
+$$
+\beta < \beta_{\min}.
+$$
+
+This is a *censored* observation rather than a value, with likelihood equal to
+the mass below the bound,
+
+$$
+\mathbb{P}[\beta < \beta_{\min}] = F_\mathcal{T}(\beta_{\min}) = 1 - (1 - \beta_{\min})^b.
+$$
+
+Writing $\beta_i$ for the thresholds seen in opponent-first games and
+$\beta_{\min, j}$ for the bounds from our own, the log-likelihood for $b$ is
+
+$$
+\log \mathcal{L}(b) = \sum_i \big[\log b + (b-1)\log(1 - \beta_i)\big]
+\;+\; \sum_j \log\!\big[1 - (1 - \beta_{\min, j})^b\big].
+$$
+
+The first sum is agreeable: $\text{Beta}(1, b)$ is an exponential family with
+sufficient statistic $-\log(1 - \beta)$, so a $\text{Gamma}(\alpha, \lambda)$
+prior on $b$ is conjugate, and each opponent-first game advances it to
+$\text{Gamma}\big(\alpha + 1,\; \lambda - \log(1 - \beta_i)\big)$, with point
+estimate $\hat b = \alpha / \lambda$. The second sum is the delicate part:
+$1 - (1 - \beta_{\min, j})^b$ is not log-linear in $b$ and so spoils conjugacy.
+One either folds it into a posterior carried on a grid of $b$, or solves the
+score equation
+
+$$
+\frac{n}{b} + \sum_j \frac{(1 - \beta_{\min, j})^b\,\big[-\log(1 - \beta_{\min, j})\big]}
+{1 - (1 - \beta_{\min, j})^b}
+\;=\; \sum_i \big[-\log(1 - \beta_i)\big]
+$$
+
+numerically, with $n$ the number of opponent-first games. Each first-spotter
+game adds a positive term on the left and so raises $\hat b$ — sensibly, since
+spotting first is itself evidence the opponent's threshold sits low. 
+
+## Appendix 2: Slop Code
+
+Code to simulate Tiny Dog (courtesy of `Claude (Opus 4.8)`) if you are so inclined:
 
 ```
 """
