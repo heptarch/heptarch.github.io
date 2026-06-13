@@ -157,3 +157,9 @@ The equation for optimal $\alpha$ becomes
 $$
 b(1- \alpha^\ast)^b = (1 - 2\alpha^\ast)(1- \alpha^\ast)^b \quad \Longrightarrow \quad \alpha^\ast = \frac{1}{2}(1 - b).
 $$
+
+To determine $b$, we note that the mean of $\text{Beta}(a, b)$ is $\mu = a/(a+b)$, so in this case $\mu = 1/(1 + b)$ and hence $b = \mu^{-1} -1$. Hence, if you set $a=1$ and mean probability $\mu$, the resulting optimal $\alpha$ is
+
+$$
+\alpha^\ast = 1 - \frac{1}{2}\mu^{-1}.
+$$
