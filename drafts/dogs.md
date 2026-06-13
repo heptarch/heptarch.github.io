@@ -200,7 +200,7 @@ This is eminently computable. Note that setting $a = 1$ and $b > 1$ has mode $\b
 ## Putting it all together
 
 So, let's summarize how to play in the simple case of a homogenous point process and the various approximations we've used above.
-1. Set the optimal threshold $\alpha^\ast = 1 - 1/2\mu$ in advance based on opponent prior.
+1. Set the optimal threshold $\alpha^\ast = \log b/b$ in advance based on opponent prior.
 2. See a dog:
    - Compute number of dogs left to observe, $n = \lambda(T - t)$.
    - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
