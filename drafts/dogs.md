@@ -91,7 +91,7 @@ since $1 - \alpha$ is the probability we win as first spotter, and $\beta$ is th
 Differentiating with respect to $\alpha$ and setting to zero gives the condition
 
 $$
-0 = g(\alpha) = F_\mathcal{T}(\alpha) - (1- 2\alpha)f_\mathcal{T}(\alpha).
+0 = g(\alpha^\ast) = F_\mathcal{T}(\alpha^\ast) - (1- 2\alpha^\ast)f_\mathcal{T}(\alpha^\ast).
 $$
 
 If $f_\mathcal{T}(0) = 0$, then $\alpha = 0$ is a solution, and we recover the strategy to decrease $\alpha$ we observed earlier. Otherwise, a nonzero solution exists by virtue of the intermediate value theorem, since
@@ -110,10 +110,10 @@ for $x \in [0, 1]$, $\Gamma(z)$ the [Gamma function](https://en.wikipedia.org/wi
 Then the optimal first spotting probability obeys
 
 $$
-I_\alpha(a, b)B(a, b) = (1- 2\alpha)\alpha^{a - 1}(1 - \alpha)^{b - 1},
+I_{\alpha^\ast}(a, b)B(a, b) = (1- 2\alpha^\ast)\alpha^{\ast(a - 1)}(1 - \alpha^\ast)^{b - 1},
 $$
 
-which can be solved numerically but probably not analytically.
+which can be solved numerically but not analytically in general.
 
 ## Baysian decision theory
 
@@ -150,4 +150,10 @@ This has a particularly simple form since
 
 $$
 I_x(1, b) = \frac{\Gamma(b+1)}{\Gamma(b)\Gamma(1)}\int_{-\infty}^x (1-t)^{b-1} \mathrm{d}t = b\int_{0}^{x-1} s^{b-1} \mathrm{d}s = (x - 1)^b. 
+$$
+
+The equation for optimal $\alpha$ becomes
+
+$$
+b(1- \alpha^\ast)^b = (1 - 2\alpha^ast)(1- \alpha^\ast)^b \quad \Longrightarrow \quad \alpha^\ast = \frac{1}{2}(1 - b).
 $$
