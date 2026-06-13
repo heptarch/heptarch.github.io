@@ -262,7 +262,7 @@ $$
 $$
 
 The first sum is agreeable, since $\text{Beta}(1, b)$ is an exponential family with sufficient statistic $-\log(1 - \beta)$. A $\text{Gamma}(\alpha, \lambda)$
-prior on $b$ is conjugate, and each opponent-first game advances it to
+prior on $b$ is conjugate, and each opponent-first game updates as
 
 $$
 \text{Gamma}(\alpha, \lambda) \leftarrow \text{Gamma}\big(\alpha + 1,\; \lambda - \log(1 - \beta_i)\big),
