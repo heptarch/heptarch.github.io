@@ -68,7 +68,7 @@ $$
 1 - M_n(m) \approx \left[\frac{e^{-x^2}}{2x\sqrt{\pi}}\right]^n, \quad x = \frac{\ln m - \mu}{\sqrt{2}\sigma}.
 $$
 
-The log averge of dog size is around $\mu = 3 \text{ log kg}$ (corresponding to $e^3 \approx 20 \text{ kg}$) and variance $$
+The log averge of dog size is around $\mu = 3 \text{ log kg}$ (corresponding to $e^3 \approx 20 \text{ kg}$) and standard deviation $\sigma = 1 \text{ log kg}$.
 
 ## Poisson processes
 
