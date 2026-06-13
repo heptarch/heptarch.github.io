@@ -76,7 +76,7 @@ $$
 n = \int_{T-t}^T \lambda(t') \, \mathrm{d}t'.
 $$
 
-Returning to the problem at hand, suppose the first spotter sees a dog of size $m$. They must compute two things: first, the average number of dogs remaining to be observed for the day, $n = \lceil \lambda (T-t)\rceil$; second, the probability $M_{n,\mathcal{D}}(m)$ that a dog smaller than that will be observed. They set some threshold probability $\alpha$ such that, if
+Returning to the problem at hand, suppose the first spotter sees a dog of size $m$. They must compute two things: first, the average number of dogs remaining to be observed for the day, $n = \lceil \lambda (T-t)\rceil$ or the full Poisson point process expression; second, the probability $M_{n,\mathcal{D}}(m)$ that a dog smaller than that will be observed. They set some threshold probability $\alpha$ such that, if
 
 $$
 M_{n,\mathcal{D}}(m) \leq \alpha,
