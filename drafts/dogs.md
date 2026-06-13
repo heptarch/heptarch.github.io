@@ -145,5 +145,9 @@ By the way, you might wonder if we should be playing Baysian *game theory*, but 
 
 ## Shape parameters
 
-You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. I won't discuss the update process here, but it's also Bayesian. A reasonable initial choice of distribution is centred on a small value of $\beta$ with a long tail, e.g. $a = 1, b = L$ for some large $L$.
-We can approximate
+You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. I won't discuss the update process here, but it's also Bayesian. A reasonable initial choice of distribution is centred on a small value of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
+This has a particularly simple form since
+
+$$
+I_x(1, b) = \frac{\Gamma(b+1)}{\Gamma(b)\Gamma(1)}\int_{-\infty}^x (1-t)^{b-1} \mathrm{d}t = b\int_{0}^{x-1} s^{b-1} \mathrm{d}s = (x - 1)^b. 
+$$
