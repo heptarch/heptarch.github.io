@@ -201,7 +201,7 @@ $$
 \kappa = \frac{a}{a + b} = \frac{1}{1+b}.
 $$
 
-This gives a simple update rule when opponent was first spotter: modify $b$ to match the observed mean $\beta$:
+This gives a simple update rule when opponent was first spotter: modify $b$ to match the observed mean $\beta$, or in equations,
 
 $$
 b = \frac{N}{\sum_{i=1}^N\beta_i} - 1 = \langle \beta\rangle^{-1} - 1.
