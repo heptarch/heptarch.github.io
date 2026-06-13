@@ -70,7 +70,11 @@ $$
 
 ## Poisson processes
 
-For the process of observing dogs, we assume that every interval of a the same length is just as likely to yield an observation, with a mean of $\lambda$ dogs per unit time. This is called a *Poisson process*. Obviously, we are ignoring temporal factors (e.g. owners like to walk dogs at certain times of day) and geographic factors (e.g. dog parks are more likely to contain dogs), but this crude model will do! If $T$ is the total length of the day and $t$ the elapsed time, the average number of dogs to be observed is $\lambda (T - t)$.
+For the process of observing dogs, we assume that every interval of a the same length is just as likely to yield an observation, with a mean of $\lambda$ dogs per unit time. If $T$ is the total length of the day and $t$ the elapsed time, the average number of dogs to be observed is $n = \lambda (T - t)$. Obviously, we are ignoring temporal factors (e.g. owners like to walk dogs at certain times of day) and geographic factors (e.g. dog parks are more likely to contain dogs)! Taking just the temporal factors into account is easily accomplished; we just make $\lambda(t)$ time-dependent. The resulting stochastic process is called a *Poisson point process*, and if the form of $\lambda(t)$ is known ("seasonality" over course of day) the remaining number is instead
+
+$$
+n = \int_{T-t}^T \lambda(t') \, \mathrm{d}t'.
+$$
 
 Returning to the problem at hand, suppose the first spotter sees a dog of size $m$. They must compute two things: first, the average number of dogs remaining to be observed for the day, $n = \lceil \lambda (T-t)\rceil$; second, the probability $M_{n,\mathcal{D}}(m)$ that a dog smaller than that will be observed. They set some threshold probability $\alpha$ such that, if
 
