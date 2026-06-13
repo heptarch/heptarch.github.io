@@ -66,7 +66,7 @@ $$
 yields (from its first term) the approximation
 
 $$
-M_n(m) = 1 - \frac{1}{2^n}\left(\frac{e^{-x^2}}{x\sqrt{\pi}} - \frac{1}{2}\right)^n, \quad x = \frac{\ln m - \mu}{\sqrt{2}\sigma}.
+M_n(m) \approx 1 - \frac{1}{2^n}\frac{e^{-nx^2}}{x\sqrt{\pi}}, \quad x = \frac{\ln m - \mu}{\sqrt{2}\sigma}.
 $$
 
 ## Poisson processes
