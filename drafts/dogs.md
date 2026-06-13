@@ -138,12 +138,12 @@ f_{\text{Beta}}(x)(\beta | \beta_\min) = \frac{\beta^{a - 1}(1-\beta)^{b - 1}}{B
 $$
 
 Interestingly, the optimality condition is unchanged for $\alpha < \beta_\min$! This is because the factor of $I_{\beta_\min}(a, b)$ drops out on both sides. This leads to two phases of optimal play:
-- *Stationary phase*: Calculating the global optimal $\alpha^*$ one based on the initial prior. Use this threshold as long as $\beta_\min > \alpha^*$.
+- *Stationary phase*: Calculating the global optimal $\alpha^\ast$ one based on the initial prior. Use this threshold as long as $\beta_\min > \alpha^\ast$.
 - *Boundary phase:* Once $\beta_\min \leq \alpha^*$, "snap" to just below $\beta_\min$.
 
 By the way, you might wonder if we should be playing Baysian *game theory*, but here, there is no real sequential decision making; either you're the first spotter (which is a decision process, essentially) or you are the second spotter and your strategy is completely dictated.
 
 ## Shape parameters
 
-You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. I won't discuss the update process here, but it's also Bayesian. A reasonable initial choice of distribution is centred on a small value of $\beta$ with a long-tail, e.g. $a = 2, b = L$ for some large $L$.
-In this case, there
+You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. I won't discuss the update process here, but it's also Bayesian. A reasonable initial choice of distribution is centred on a small value of $\beta$ with a long tail, e.g. $a = 1, b = L$ for some large $L$.
+We can approximate
