@@ -201,13 +201,13 @@ $$
 \kappa = \frac{a}{a + b} = \frac{1}{1+b}.
 $$
 
-This gives a simple update rule when we lose: modify $b$ to match the observed mean $\beta$:
+This gives a simple update rule when opponent was first spotter: modify $b$ to match the observed mean $\beta$:
 
 $$
 b = \frac{N}{\sum_{i=1}^N\beta_i} - 1 = \langle \beta\rangle^{-1} - 1.
 $$
 
-When you win, you still get information about the opponent's distribution, but the update is more delicate.
+When you are first spotter, you still get information about the opponent's distribution, but the update is more delicate.
 
 ## Putting it all together
 
