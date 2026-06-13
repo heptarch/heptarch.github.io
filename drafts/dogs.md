@@ -171,22 +171,11 @@ $$
 The equation for optimal $\alpha$ becomes
 
 $$
-1 - (1- \alpha^\ast)^b = b(1 - 2\alpha^\ast)(1- \alpha^\ast)^b \quad \Longrightarrow \quad \alpha^\ast = \frac{1}{2}(1 - b).
+1 - (1- \alpha^\ast)^b = b(1- \alpha^\ast)^{b+1} \quad \Longrightarrow \quad
+1 = y^b(1 + by)
 $$
 
-This is trascendental, but if $\alpha^\ast$ is small, this becomes (by the binomial approximation)
-
-$$
-b\alpha^\ast = b(1 - (2+b)\alpha^\ast)(1- b\alpha^\ast)
-$$
-
-To determine $b$, we note that the mean of $\text{Beta}(a, b)$ is $\mu = a/(a+b)$, so in this case $\mu = 1/(1 + b)$ and hence $b = \mu^{-1} -1$. Hence, if you set $a=1$ and mean probability $\mu$, the resulting optimal $\alpha$ is
-
-$$
-\alpha^\ast = 1 - \frac{1}{2\mu}.
-$$
-
-This gives an eminently computable rule of thumb for playing. Note that setting $a = 1$ and $b>1$ has mode $\beta = 0$; again, this is a feature or a bug depending on the play style of your opponent. 
+for $y = 1 - \alpha^\ast$.
 
 ## Putting it all together
 
@@ -194,5 +183,7 @@ So, let's summarize how to play in the simple case of a homogenous point process
 1. Set the optimal threshold $\alpha^\ast = 1 - 1/2\mu$ in advance based on opponent prior.
 2. See a dog:
    - Compute number of dogs left to observe, $n = \lambda(T - t)$.
-   - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it.
-   - If you're opponent doesn't call it, update 
+   - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
+   - If you're opponent doesn't call it and you don't call it, update $\alpha^\ast = \beta_\min - \epsilon$ (boundary phase).
+   
+Working with a beta
