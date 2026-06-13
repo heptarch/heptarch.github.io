@@ -239,18 +239,16 @@ Thus, we learn that behind the seemingly trivial game of spotting tiny dogs, the
 ## 8. <a href="#toc">Appendix 1: updating as first spotter</a><a id="sec-8" name="sec-8"></a>
 
 The rule above applies only when the opponent spots first, where their call
-reveals a threshold value $\beta_i$ to average in. But $\beta$ governs the
-opponent only *as* first spotter — as second spotter they call any smaller dog
-regardless — so a game we spot first tells us nothing through its outcome. The
-information sits entirely in their silence: every dog they passed exceeded their
-threshold, leaving only the one-sided bound
+reveals a threshold value $\beta_i$ to average over. But $\beta$ governs the
+opponent only as first spotter; as second spotter they call any smaller dog
+regardless, and a game where we spot first tells us nothing through its outcome. The information sits entirely in their silence: every dog they passed exceeded their threshold, leaving only the one-sided bound
 
 $$
 \beta < \beta_{\min}.
 $$
 
 This is a *censored* observation rather than a value, with likelihood equal to
-the mass below the bound,
+the mass below the bound:
 
 $$
 \mathbb{P}[\beta < \beta_{\min}] = F_\mathcal{T}(\beta_{\min}) = 1 - (1 - \beta_{\min})^b.
@@ -264,21 +262,23 @@ $$
 \;+\; \sum_j \log\!\big[1 - (1 - \beta_{\min, j})^b\big].
 $$
 
-The first sum is agreeable: $\text{Beta}(1, b)$ is an exponential family with
-sufficient statistic $-\log(1 - \beta)$, so a $\text{Gamma}(\alpha, \lambda)$
+The first sum is agreeable, since $\text{Beta}(1, b)$ is an exponential family with sufficient statistic $-\log(1 - \beta)$. A $\text{Gamma}(\alpha, \lambda)$
 prior on $b$ is conjugate, and each opponent-first game advances it to
-$\text{Gamma}\big(\alpha + 1,\; \lambda - \log(1 - \beta_i)\big)$, with point
-estimate $\hat b = \alpha / \lambda$. The second sum is the delicate part:
+
+$$
+\text{Gamma}(\alpha, \lambda) \leftarrow \text{Gamma}\big(\alpha + 1,\; \lambda - \log(1 - \beta_i)\big),
+$$
+
+with point estimate $\hat b = \alpha / \lambda$. The second sum is the delicate part, since
 $1 - (1 - \beta_{\min, j})^b$ is not log-linear in $b$ and so spoils conjugacy.
 One either folds it into a posterior carried on a grid of $b$, or solves the
 score equation
 
 $$
-\frac{n}{b} + \sum_j \frac{(1 - \beta_{\min, j})^b\,\big[-\log(1 - \beta_{\min, j})\big]}
+\frac{n}{b} - \sum_j \frac{(1 - \beta_{\min, j})^b\,\log(1 - \beta_{\min, j})}
 {1 - (1 - \beta_{\min, j})^b}
-\;=\; \sum_i \big[-\log(1 - \beta_i)\big]
+\;=\; -\sum_i \log(1 - \beta_i)
 $$
 
 numerically, with $n$ the number of opponent-first games. Each first-spotter
-game adds a positive term on the left and so raises $\hat b$ — sensibly, since
-spotting first is itself evidence the opponent's threshold sits low. 
+game adds a positive term on the left and so raises $\hat b$. This is sensible, since spotting first is itself evidence the opponent's threshold sits low.
