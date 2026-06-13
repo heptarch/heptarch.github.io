@@ -161,21 +161,21 @@ By the way, you might wonder if we should be playing Bayesian *game theory*, but
 
 ## Shape parameters
 
-You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. (Details omitted.) A reasonable initial choice of distribution is skewed towards small values of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
-This has a particularly simple form since
+You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. A reasonable initial choice of distribution is skewed towards small values of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
+This has mode $\beta = 0$; this is a feature or a bug depending on the play style of your opponent.
+Determining $\alpha^\ast$ is straightforward, since the cdf has a particularly simple form:
 
 $$
-I_x(1, b) = \frac{\Gamma(b+1)}{\Gamma(b)\Gamma(1)}\int_{-\infty}^x (1-t)^{b-1} \mathrm{d}t = b\int_{0}^{x-1} s^{b-1} \mathrm{d}s = 1- (x - 1)^b. 
+I_x(1, b) = \frac{\Gamma(b+1)}{\Gamma(b)\Gamma(1)}\int_{0}^x (1-t)^{b-1} \mathrm{d}t = b\int_{1-x}^{1} s^{b-1} \mathrm{d}s = 1- (x - 1)^b. 
 $$
 
-The equation for optimal $\alpha$ becomes
+The equation for optimal $\alpha^\ast$ becomes
 
 $$
-1 - (1- \alpha^\ast)^b = b(1- \alpha^\ast)^{b+1} \quad \Longrightarrow \quad
-1 = y^b(1 + by)
+1 - (1- \alpha^\ast)^b = b(1- \alpha^\ast)^{b+1}.
 $$
 
-for $y = 1 - \alpha^\ast$. Taking logs gives
+Taking logs gives
 
 $$
 b \log(1 - \alpha^\ast) + \log(1 + b - b\alpha^\ast) = 0
@@ -195,15 +195,24 @@ $$
 -b\alpha^\ast + \log b = 0 \quad \Longrightarrow \quad \alpha^\ast \approx \frac{\log b}{b}.
 $$
 
-This is eminently computable. Note that setting $a = 1$ and $b > 1$ has mode $\beta = 0$; again, this is a feature or a bug depending on the play style of your opponent.
+This is eminently computable, though at small $b$ it overshoots, e.g. by roughly $25\%$ at $b = 6$. Higher order corrections are possible but left to the reader. Note that, for $a = 1$ and $b > 1$, the mean of the beta distribution is
+
+$$
+\kappa = \frac{a}{a + b} = \frac{1}{1+b}.
+$$
+
+This gives a simple update rule when we lose: modify $b$ to match the observed mean $\beta$, $\langle\beta\rangle = \sum_i\beta_i/N$:
+
+$$
+b = 1 - \frac{1}{\langle \beta\ rangle}
+$$
 
 ## Putting it all together
 
 So, let's summarize how to play in the simple case of a homogenous point process and the various approximations we've used above.
 1. Set the optimal threshold $\alpha^\ast = \log b/b$ in advance based on opponent prior.
 2. See a dog:
-   - Compute number of dogs left to observe, $n = \lambda(T - t)$.
+   - Compute expected number of dogs left to observe, $n = \lambda(T - t)$.
    - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
    - If you're opponent doesn't call it, update $\alpha^\ast = \beta_\min - \epsilon$ (boundary phase).
-   
-Working with a beta
+3. Following the game, update opponent prior.
