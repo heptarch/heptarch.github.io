@@ -204,6 +204,6 @@ So, let's summarize how to play in the simple case of a homogenous point process
 2. See a dog:
    - Compute number of dogs left to observe, $n = \lambda(T - t)$.
    - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
-   - If you're opponent doesn't call it and you don't call it, update $\alpha^\ast = \beta_\min - \epsilon$ (boundary phase).
+   - If you're opponent doesn't call it, update $\alpha^\ast = \beta_\min - \epsilon$ (boundary phase).
    
 Working with a beta
