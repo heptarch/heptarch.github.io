@@ -7,7 +7,7 @@ date:  2026-06-12
 
 ---
 
-**June 10, 2026.** *The game of spotting maximally tiny dogs turns into a statistics tutorial.*
+**June 12, 2026.** *The game of spotting maximally tiny dogs turns into a statistics tutorial.*
 
 ## Introduction
 
@@ -67,6 +67,8 @@ yields (from its first term) the approximation
 $$
 1 - M_n(m) \approx \left[\frac{e^{-x^2}}{2x\sqrt{\pi}}\right]^n, \quad x = \frac{\ln m - \mu}{\sqrt{2}\sigma}.
 $$
+
+The log averge of dog size is around $\mu = 3 \text{ log kg}$ (corresponding to $e^3 \approx 20 \text{ kg}$) and variance $$
 
 ## Poisson processes
 
@@ -179,3 +181,9 @@ $$
 $$
 
 This gives an eminently computable rule of thumb for playing. Note that setting $\alpha = 1$ has mode $\alpha = 0$; again, this is a feature or a bug depending on the play style of your opponent. 
+
+## Putting it all together
+
+So, let's summarize how to play in the simple case of a homogenous point process:
+1. Compute number of dogs left to observe $n = \lambda(T - t)$.
+2. Calculate 
