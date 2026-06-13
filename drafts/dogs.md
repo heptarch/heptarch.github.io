@@ -161,7 +161,7 @@ By the way, you might wonder if we should be playing Bayesian *game theory*, but
 
 ## Shape parameters
 
-You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. I won't discuss the update process here, but it's also Bayesian. A reasonable initial choice of distribution is skewed towards small values of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
+You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. A reasonable initial choice of distribution is skewed towards small values of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
 This has a particularly simple form since
 
 $$
@@ -175,7 +175,27 @@ $$
 1 = y^b(1 + by)
 $$
 
-for $y = 1 - \alpha^\ast$.
+for $y = 1 - \alpha^\ast$. Taking logs gives
+
+$$
+b \log(1 - \alpha^\ast) + \log(1 + b - b\alpha^\ast) = 0
+$$
+
+and assuming $\alpha^\ast$ is small, the Taylor expansion of $\log$ gives
+
+$$
+
+-b\alpha^\ast + \log(1 + b - b\alpha^\ast) = 0.
+$$
+
+If $b \gg 1$, we can set $\log(1 + b - b\alpha^\ast) \approx \log b$ and hence
+
+$$
+
+-b\alpha^\ast + \log b = 0 \quad \Longrightarrow \alpha^\ast \approx \frac{\log b}{b}.
+$$
+
+This is eminently computable. Note that setting $a = 1$ and $b > 1$ has mode $\beta = 0$; again, this is a feature or a bug depending on the play style of your opponent.
 
 ## Putting it all together
 
