@@ -234,7 +234,7 @@ So, let's summarize how to play in the simple case of a homogenous point process
    - If opponent calls it, look for and call smaller dogs.
 3. Following the game, update opponent prior $b\leftarrow \langle \beta\rangle^{-1} - 1$ (they spot first) or Appendix 1.
 
-Thus, we learn that behind the seemingly trivial game of spotting tiny dogs, there is a wealth of subtlety: from finite term extreme values, to Poisson point processes to Bayesian decision theory,
+Thus, we learn that behind the seemingly trivial game of spotting tiny dogs, there is a wealth of subtlety: from finite observation extreme values to Poisson point processes to Bayesian decision theory on the theory side, and a range of approximations needed for optimal play in practice.
 
 ## 8. <a href="#toc">Appendix 1: updating as first spotter</a><a id="sec-8" name="sec-8"></a>
 
