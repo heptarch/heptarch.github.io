@@ -247,8 +247,7 @@ $$
 \beta < \beta_{\min}.
 $$
 
-This is a *censored* observation rather than a value, with likelihood equal to
-the mass below the bound:
+This is a *censored* observation, with likelihood equal to mass below the bound:
 
 $$
 \mathbb{P}[\beta < \beta_{\min}] = F_\mathcal{T}(\beta_{\min}) = 1 - (1 - \beta_{\min})^b.
