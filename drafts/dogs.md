@@ -201,10 +201,10 @@ $$
 \kappa = \frac{a}{a + b} = \frac{1}{1+b}.
 $$
 
-This gives a simple update rule when we lose: modify $b$ to match the observed mean $\beta$, $\langle\beta\rangle = \sum_i\beta_i/N$:
+This gives a simple update rule when we lose: modify $b$ to match the observed mean $\beta$:
 
 $$
-b = 1 - \frac{1}{\langle \beta\ rangle}
+b = 1 - \frac{N}{\sum_{i=1}^N\beta_i} = 1 - \frac{1}{\langle \beta\rangle}.
 $$
 
 When you win, you still get information about the opponent's distribution, but the update is more delicate.
