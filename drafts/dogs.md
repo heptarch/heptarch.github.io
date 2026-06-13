@@ -204,7 +204,7 @@ $$
 This gives a simple update rule when we lose: modify $b$ to match the observed mean $\beta$:
 
 $$
-b = 1 - \frac{N}{\sum_{i=1}^N\beta_i} = 1 - \frac{1}{\langle \beta\rangle}.
+b = \frac{N}{\sum_{i=1}^N\beta_i} - 1 = \langle \beta\rangle^{-1} - 1.
 $$
 
 When you win, you still get information about the opponent's distribution, but the update is more delicate.
@@ -215,6 +215,7 @@ So, let's summarize how to play in the simple case of a homogenous point process
 1. Set the optimal threshold $\alpha^\ast = \log b/b$ in advance based on opponent prior.
 2. See a dog:
    - Compute expected number of dogs left to observe, $n = \lambda(T - t)$.
-   - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
+   - If $E = (e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
    - If you're opponent doesn't call it, update $\alpha^\ast = \beta_\min - \epsilon$ (boundary phase).
-3. Following the game, update opponent prior $b \mapsto 1- \langle \beta\rangle^{-1}$.
+   - If opponent calls it, look for and call smaller dogs.
+3. Following the game, update opponent prior $b = \langle \beta\rangle^{-1} - 1$.
