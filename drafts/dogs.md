@@ -42,7 +42,7 @@ $$
 M_{n,\mathcal{D}}(m) = \mathbb{P}_{X \sim \mathcal{D}}[m_n \leq m] = 1 - (1 - F_{\mathcal{D}}(x))^n.
 $$
 
-It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite.
+It's tempting to go to the asymptotic limit in $n$ here, which leads to [extreme value theory](https://en.wikipedia.org/wiki/Extreme_value_theory). But the number of dogs observed is small and variable in important ways, so we will keep $n$ finite.    
 Concretely, dog size is not normal but closer to *log normal* $\log\mathcal{N}$, i.e., the logarithm of size is normally distributed.
 This has cdf
 
@@ -65,7 +65,7 @@ $$
 yields (from its first term) the approximation
 
 $$
-M_n(m) \approx 1 - \frac{1}{2^n}\frac{e^{-nx^2}}{x\sqrt{\pi}}, \quad x = \frac{\ln m - \mu}{\sqrt{2}\sigma}.
+1 - M_n(m) \approx \left[\frac{1}{2}\frac{e^{-x^2}}{x\sqrt{\pi}}\right]^n, \quad x = \frac{\ln m - \mu}{\sqrt{2}\sigma}.
 $$
 
 ## Poisson processes
