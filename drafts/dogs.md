@@ -155,5 +155,5 @@ $$
 The equation for optimal $\alpha$ becomes
 
 $$
-b(1- \alpha^\ast)^b = (1 - 2\alpha^ast)(1- \alpha^\ast)^b \quad \Longrightarrow \quad \alpha^\ast = \frac{1}{2}(1 - b).
+b(1- \alpha^\ast)^b = (1 - 2\alpha^\ast)(1- \alpha^\ast)^b \quad \Longrightarrow \quad \alpha^\ast = \frac{1}{2}(1 - b).
 $$
