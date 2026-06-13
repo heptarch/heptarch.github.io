@@ -207,6 +207,8 @@ $$
 b = 1 - \frac{1}{\langle \beta\ rangle}
 $$
 
+When you win, you still get information about the opponent's distribution, but the update is more delicate.
+
 ## Putting it all together
 
 So, let's summarize how to play in the simple case of a homogenous point process and the various approximations we've used above.
@@ -215,4 +217,4 @@ So, let's summarize how to play in the simple case of a homogenous point process
    - Compute expected number of dogs left to observe, $n = \lambda(T - t)$.
    - If $(e^{-x^2}/2x\sqrt{\pi})^n \geq 1 - \alpha^\ast$, call it (stationary phase.)
    - If you're opponent doesn't call it, update $\alpha^\ast = \beta_\min - \epsilon$ (boundary phase).
-3. Following the game, update opponent prior.
+3. Following the game, update opponent prior $b \mapsto 1- \langle \beta\rangle^{-1}$.
