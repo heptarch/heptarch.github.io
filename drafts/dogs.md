@@ -7,7 +7,7 @@ date:  2026-06-12
 
 ---
 
-**June 12, 2026.** *The game of spotting maximally tiny dogs turns into a statistics tutorial.*
+**June 12, 2026.** *The game of spotting maximally tiny dogs turns into a wide-ranging statistics tutorial on the Bayesian mechanics of point process observation.*
 
 ## Contents <a id="toc" name="toc"></a>
 
