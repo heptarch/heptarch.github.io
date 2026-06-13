@@ -19,7 +19,6 @@ date:  2026-06-12
 6. <a href="#sec-6"><i>Shape parameters</i></a><br>
 7. <a href="#sec-7"><i>Putting it all together</i></a><br>
 8. <a href="#sec-8"><i>Appendix 1: updating as first spotter</i></a><br>
-9. <a href="#sec-9"><i>Appendix 2: simulation code</i></a><br>
 
 ---
 
@@ -236,7 +235,7 @@ So, let's summarize how to play in the simple case of a homogenous point process
 
 Thus, we learn that behind the seemingly trivial game of spotting tiny dogs, there is a wealth of subtlety: from finite observation extreme values to Poisson point processes to Bayesian decision theory on the theory side, and a range of approximations needed for optimal play in practice.
 
-## 8. <a href="#toc">Appendix 1: updating as first spotter</a><a id="sec-8" name="sec-8"></a>
+## <a href="#toc">Appendix 1: Updating as first spotter</a><a id="sec-8" name="sec-8"></a>
 
 The rule above applies only when the opponent spots first, where their call
 reveals a threshold value $\beta_i$ to average over. But $\beta$ governs the
