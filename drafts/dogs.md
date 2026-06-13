@@ -48,16 +48,26 @@ Concretely, dog size is not normal but closer to *log normal* $\log\mathcal{N}$,
 This has cdf
 
 $$
-\Phi(x) = \frac{1}{2}\left[\frac{1}{2} + \text{erf}\left(\frac{\ln x - \mu}{\sqrt{2}\sigma}\right)\right]
+\Phi(x) = \frac{1}{2}\left[\frac{1}{2} + \text{erf}\left(\frac{\ln x - \mu}{\sqrt{2}\sigma}\right)\right], \quad \text{erf}(z) = \frac{2}{\sqrt{\pi}}\int_0^z e^{-t^2} \, \mathrm{d}t,
 $$
 
 for Gaussian mean $\mu$ and variance $\sigma^2$. Hence, 
 
 $$
-M_{n}(m) = 1 - (1 - \Phi(x))^n
+M_{n}(m) = 1 - (1 - \Phi(m))^n.
 $$
 
-with parameters and approximations we'll discuss below.
+Since the game focuses on tiny dogs, we care about dogs far from the mean. The gorgeous asymptotic formula
+
+$$
+1 - \text{erf}(x) = \frac{e^{-x^2}}{x\sqrt{\pi}}\sum_{k\geq 0} (-1)^k \frac{(2k-1)!!}{(2x^2)^k}
+$$
+
+yields (from its first term) the approximation
+
+$$
+M_n(m) = 1 - \frac{1}{2^n}\left(\frac{e^{-x^2}}{x\sqrt{\pi}} - \frac{1}{2}\right)^n, \quad x = \frac{\ln m - \mu}{\sqrt{2}\sigma}.
+$$
 
 ## Poisson processes
 
@@ -145,7 +155,7 @@ By the way, you might wonder if we should be playing Baysian *game theory*, but 
 
 ## Shape parameters
 
-You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. I won't discuss the update process here, but it's also Bayesian. A reasonable initial choice of distribution is centred on a small value of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
+You will have noticed that we fixed the "shape parameters" $a, b$ in the beta distribution; that makes sense for a single game, but we can update those parameters over the course of multiple games. I won't discuss the update process here, but it's also Bayesian. A reasonable initial choice of distribution is skwewed towards small values of $\beta$ with a long tail, e.g. $a = 1$ and $b > 1$.
 This has a particularly simple form since
 
 $$
@@ -161,5 +171,7 @@ $$
 To determine $b$, we note that the mean of $\text{Beta}(a, b)$ is $\mu = a/(a+b)$, so in this case $\mu = 1/(1 + b)$ and hence $b = \mu^{-1} -1$. Hence, if you set $a=1$ and mean probability $\mu$, the resulting optimal $\alpha$ is
 
 $$
-\alpha^\ast = 1 - \frac{1}{2}\mu^{-1}.
+\alpha^\ast = 1 - \frac{1}{2\mu}.
 $$
+
+This gives an eminently computable rule of thumb for playing. Note that setting $\alpha = 1$ has mode $\alpha = 0$; again, this is a feature or a bug depending on the play style of your opponent. 
