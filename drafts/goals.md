@@ -117,4 +117,4 @@ $$
 P_\text{goal} \approx 0.27 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 4.6.
 $$
 
-Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $3$ goals, which is closer to the statistical average of $2.5$. This is arguably closer than we have any right to get!
+Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $3$ goals, not far from the statistical average of $2.5$. This is arguably closer than we have any right to get!
