@@ -147,10 +147,15 @@ which too small by a factor of $2$. So already, we have some tension. Finally, i
 - $v = 3 \text{ m/s}$;
 - $V' \approx = 550 \text{ m/s}$
 
-we have
+then computing gives
 
 $$
 N_\text{goals} = \left[1 - \frac{w}{W} - \frac{2v}{W}\left(\frac{\sqrt{a}}{V'} - \tau\right)\right] N_\text{shots} < 0,
 $$
 
-which is nonsense. This means that, in theory, hockey goalies can *always* block shots, so what have missed? Tactics.
+which is nonsense. This means that, in theory, hockey goalies can *always* block shots, so what have we missed? Lots of things, since we did a Fermi estimate, but the interesting part here is *tactics*. These include the following strategems:
+- *Screens.* Place a player in front of the goalie to obscure the play. This interferes with reaction time.
+- *Deflections.* If a shot bounces off something, it creates a new shot and erases or resets the existing reaction.
+- *Passing shot.* A near-goal pass just before the shot on goal fakes out the goalie, and again, changes the reaction time.
+
+So the breakdown of our dimensional analysis reveals something cool: hockey works in a fundamentally different way from soccer.
