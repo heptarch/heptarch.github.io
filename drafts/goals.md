@@ -10,12 +10,10 @@ date:  2026-06-15
 **June 15, 2026.** *A first-principles analysis of goal-scoring sports.*
 
 ## Introduction
----
 
 I've long been fascinated by the question of why different goal-based sports have a different number of characteristic goals per game. Given that the World Cup 2026 is upon us (I just watched Australia win in person!), it seemed like a good time to take a crack at the problem.
 
 ## Basics
----
 
 There are a few factors relevant to number of goals per game:
 - $N$: number of players;
