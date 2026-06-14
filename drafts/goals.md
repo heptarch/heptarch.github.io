@@ -143,9 +143,9 @@ $$
 
 which too small by a factor of $2$. So already, we have some tension. Finally, if we set
 - $w = 2\text{ m}$;
-- $\tau = 0.2\ text{ s}$;
+- $\tau = 0.2\text{ s}$;
 - $v = 3 \text{ m/s}$;
-- $V' \approx = 550 \text{ m/s}$
+- $V' \approx = 45 \text{ m/s}$
 
 then computing gives
 
