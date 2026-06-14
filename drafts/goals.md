@@ -77,7 +77,7 @@ N_\text{shots} \sim 17,
 $$
 
 which is also reasonable.
-Both numbers are a tad high; looking at data suggests we take our constant $C \approx 0.65$.
+Both numbers are a tad high; looking at data suggests we take the constant of proportionality appearing in $f$ as $C \approx 0.65$.
 
 ## Goal-keeping
 
