@@ -63,7 +63,7 @@ Let's plug this in and see what we get for football (soccer). Our data:
 - $T = 90 \text{ min} = 5400 \text{ s}$;
 - $W = 7.32 \text{ m}$.
 
-The only figure here requiring some explanation is $v$, which I compute as an geometric mean of a slow pass ($V \approx 0.05 \text{ m/s}$) and a fast pass or shot ($V \approx 30 \text{ m/s}$), $\sqrt{0.05 \times 30} \approx 1.2$. Plugging in numbers, we get
+The only figure here requiring some explanation is $v$, which I compute as an geometric mean of a slow pass ($V \approx 0.05 \text{ m/s}$) and a fast pass or shot ($V \approx 25 \text{ m/s}$), $\sqrt{0.05 \times 25} \approx 1.1$. Plugging in numbers, we get
 
 $$
 N_\text{kick} \sim 1300,
@@ -109,22 +109,12 @@ Again, let's plug in the numbers and see if we get a reasonable answer. We use
 - $w = 2 \text{ m}$;
 - $\tau = 0.2 \text{ s}$;
 - $v = 3 \text{ m/s}$;
-- $V' = 30 \text{ m/s}$.
+- $V' = 25 \text{ m/s}$.
 
 If we plug all of these in, we get
 
 $$
-P_\text{goal} \approx 0.37 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 6.
+P_\text{goal} \approx 0.27 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 4.6.
 $$
 
-Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $4$ goals, which is closer to the statistical average of $2.5$ but not quite there. This is arguably closer than we have any right to get!
-
-## Angle of attack
-
-We have made many simplifications, but perhaps the most egregious is that the area of the goal is $w$. The angular area depends on where you view it from, and $W/\sqrt{a}$ only works when it is faced head-on. If you take a shot from another angle you will see a foreshortened goal. If you assume the angle is random (distributed equally over a semicircle) the effective area on average is
-
-$$
-\langle W\rangle = \frac{1}{\pi}\int_{-\pi/2}^{\pi/2} W \cos\theta \,\mathrm{d}\theta = \frac{2}{\pi}W.
-$$
-
-Does not 
+Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $3$ goals, which is closer to the statistical average of $2.5$. This is arguably closer than we have any right to get!
