@@ -52,7 +52,7 @@ $$
 Thus, the total shots on goal is
 
 $$
-N_\text{goal} = P_\text{shot}N_\text{kick} = \frac{FWTv}{A}.
+N_\text{shots} = P_\text{shot}N_\text{kick} = \frac{FWTv}{A}.
 $$
 
 Let's plug this in and see what we get for football (soccer). Our data:
@@ -64,5 +64,13 @@ Let's plug this in and see what we get for football (soccer). Our data:
 - $W = 7.32 \text{ m}$.
 I suspect the ball moves slowly for most kicks, hence the estimate above. Plugging in, we get
 $$
-
+N_\text{kick} \sim 1300,
 $$
+or $14$ kicks a minute, which seems reasonable if a little high.
+The number of shots is
+$$
+N_\text{shots} \sim 17,
+$$
+which is reasonable if a little low.
+
+
