@@ -16,7 +16,7 @@ I've long been fascinated by the question of why different goal-based sports hav
 ## Basics
 
 There are a few factors relevant to number of goals per game:
-- $N$: number of players;
+- $N$: number of on-field players;
 - $F$: number of forwards;
 - $v$: average speed of ball per game;
 - $A$: area of field;
@@ -52,5 +52,17 @@ $$
 Thus, the total shots on goal is
 
 $$
-P_\text{shot}N_\text{kick} = \frac{FWTv}{A}.
+N_\text{goal} = P_\text{shot}N_\text{kick} = \frac{FWTv}{A}.
+$$
+
+Let's plug this in and see what we get for football (soccer). Our data:
+- $N = 20$;
+- $F = 3$ (typically);
+- $v \approx 1 \text{ m/s}$ (estimate);
+- $A = 105 \text{ m} \times 68 \text{ m} = 7140 \text{ m}^2$;
+- $T = 90 \text{ min} = 5400 \text{ s}$;
+- $W = 7.32 \text{ m}$.
+I suspect the ball moves slowly for most kicks, hence the estimate above. Plugging in, we get
+$$
+
 $$
