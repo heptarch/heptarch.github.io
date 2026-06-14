@@ -39,7 +39,7 @@ $$
 Hence, the total number of kicks per game is
 
 $$
-NTf \propto \frac{NTv}{sqrt{A}}.
+NTf \propto \frac{NTv}{\sqrt{A}}.
 $$
 
 How often do these kicks go into the goal? Most kicks on goal happen close to goal, where the probability is given by the size of the goal $W$ over the characteristic size of the 
