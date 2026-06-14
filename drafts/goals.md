@@ -117,4 +117,14 @@ $$
 P_\text{goal} \approx 0.27 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 4.6.
 $$
 
-Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $3$ goals, not far from the statistical average of $2.5$. This is arguably closer than we have any right to get!
+Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $3$ goals, not far from the statistical average of $2.5$. This is arguably closer than we had any right to get!
+
+## Hockey
+
+Let's see if this works for another sport. In hockey, we have the following:
+- $N = 12$;
+- $F = 3$;
+- $V = 360 \text{ m/s}$;
+- $A = 61 \text{ m} \times 26 \text{ m} = 1586 \text{ m}^2$;
+- $T$
+- $W = 1.83 \text{ m}$.
