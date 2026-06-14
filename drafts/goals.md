@@ -11,7 +11,7 @@ date:  2026-06-15
 
 ## Introduction
 
-I've long been fascinated by the question of why different goal-based sports have a different number of characteristic goals per game. Given that the World Cup 2026 is upon us (I just watched Australia win in person!), it seemed like a good time to take a crack at the problem.
+I've long been fascinated by the question of why different goal-based sports have a different number of characteristic goals per game. Given that World Cup 2026 is upon us (I just watched Australia win in person!), it seems like a good time to give the problem more thought.
 
 ## Basics
 
