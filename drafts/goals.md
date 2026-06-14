@@ -117,4 +117,10 @@ Again, let's plug in the numbers and see if we get a reasonable answer. We use
 - $v = 3 \text{ m/s}$;
 - $V' = 30 \text{ m/s}$.
 
-If we plug all of these in,
+If we plug all of these in, we get
+
+$$
+P_\text{goal} \approx 0.37 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 6.
+$$
+
+Now, this is too big by a factor of $2$-$3$; what did we miss?
