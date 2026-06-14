@@ -124,7 +124,33 @@ Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this 
 Let's see if this works for another sport. In hockey, we have the following:
 - $N = 12$;
 - $F = 3$;
-- $V = 360 \text{ m/s}$;
+- $V = 2.5 \text{ m/s}$;
 - $A = 61 \text{ m} \times 26 \text{ m} = 1586 \text{ m}^2$;
-- $T$
+- $T = 60 \text{ min} = 3600 \text{ s}$;
 - $W = 1.83 \text{ m}$.
+
+Putting in numbers in, we obtain
+
+$$
+N_\text{passes} = \frac{NTV}{\sqrt{A}} \approx \text{2700},
+$$
+
+which is too large by a factor of $3$ or so. Similarly,
+
+$$
+N_\text{shots} = \frac{FWTV}{A} \approx 31,
+$$
+
+which too small by a factor of $2$. So already, we have some tension. Finally, if we set
+- $w = 2\text{ m}$;
+- $\tau = 0.2\ text{ s}$;
+- $v = 3 \text{ m/s}$;
+- $V' \approx = 550 \text{ m/s}$
+
+we have
+
+$$
+N_\text{goals} = \left[1 - \frac{w}{W} - \frac{2v}{W}\left(\frac{\sqrt{a}}{V'} - \tau\right)\right] N_\text{shots} < 0,
+$$
+
+which is nonsense. This means that, in theory, hockey goalies can *always* block shots, so what have missed? Tactics.
