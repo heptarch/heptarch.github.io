@@ -55,7 +55,7 @@ $$
 N_\text{shots} = P_\text{shot}N_\text{kick} = \frac{FWTV}{A}.
 $$
 
-Let's plug this in and see what we get for football (soccer). Our data:
+Let's plug this in and see what we get for football (aka soccer in Australia). Our data:
 - $N = 20$;
 - $F = 3$ (typically);
 - $V \approx 1 \text{ m/s}$ (estimate);
@@ -157,5 +157,10 @@ which is nonsense. This means that, in theory, hockey goalies can *always* block
 - *Screens.* Place a player in front of the goalie to obscure the play. This interferes with reaction time.
 - *Deflections.* If a shot bounces off something, it creates a new shot and erases or resets the existing reaction.
 - *Passing shot.* A near-goal pass just before the shot on goal fakes out the goalie, and again, changes the reaction time.
+- *Approach.* The simplest way to circumvent all this is to take the shot at point-blank range, so reaction time is irrelevant.
 
 So the breakdown of our dimensional analysis reveals something cool: hockey works in a fundamentally different way from soccer.
+
+## Conclusion
+
+Our equations for football work beautifully. For hockey, they fail miserably. This is because football is based on passing, possession, and shot-taking with reasonably simple boundary conditions. In contrast, the relative size of goalie and goal in hockey forces a variety of new strategems that play a comparatively smaller role in football.
