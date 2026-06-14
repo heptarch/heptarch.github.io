@@ -96,11 +96,17 @@ A goalkeeper has an area, but it is a highly mobile one! This requires a little 
 If a shot is launched at distance $D \sim \sqrt{A/N}$ in a forward zone, it takes time $D/V$ to arrive and the goalie can move a distance
 
 $$
-d = v(\frac{d}{V} - \tau)
+d = v(\frac{D}{V} - \tau)
 $$
 
 assuming they have enough time to react at all. This gives them an effective width
 
 $$
-w' = w + 2 v\left(\frac{d}{V} - \tau\right) = w + 2 v\left(\frac{d}{V} - \tau\right)
+w' = w + 2 v\left(\frac{D}{V} - \tau\right) = w + 2 v\left(\sqrt{\frac{A}{NV^2}} - \tau\right).
+$$
+
+So we model the probability of a goal as simply
+
+$$
+P_\text{goal} = \frac{W - w'}{W} = 1 - \frac{w}{W} + \frac{2 v}{W}\left(\sqrt{\frac{A}{NV^2}} - \tau\right)
 $$
