@@ -63,16 +63,27 @@ Let's plug this in and see what we get for football (soccer). Our data:
 - $T = 90 \text{ min} = 5400 \text{ s}$;
 - $W = 7.32 \text{ m}$.
 
-The only figure here requiring some explanation is $v$, which I compute as an geometric mean of a slow pass ($v \approx 0.05 \text{ m/s}$) and a fast pass or shot ($v \approx 30 \text{ m/s}$). Plugging in numbers, we get
+The only figure here requiring some explanation is $v$, which I compute as an geometric mean of a slow pass ($v \approx 0.05 \text{ m/s}$) and a fast pass or shot ($v \approx 30 \text{ m/s}$):
+
+$$
+\sqrt{0.05 \times 30} \approx 1.2.
+$$
+
+Plugging in numbers, we get
+
 $$
 N_\text{kick} \sim 1300,
 $$
-or $14$ kicks a minute, which seems reasonable.
+
+or a kick every $4$ seconds, which seems reasonable.
 The number of shots is
+
 $$
 N_\text{shots} \sim 17,
 $$
+
 which is also reasonable. (Both numbers are a tad high, suggesting we take our constant $C < 1$.)
 
 ## Goal-keeping
 
+The real subtlety in our analysis, as in the game itself, is to convert shots on goal to goals. 
