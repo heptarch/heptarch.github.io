@@ -62,7 +62,7 @@ Let's plug this in and see what we get for football (soccer). Our data:
 - $A = 105 \text{ m} \times 68 \text{ m} = 7140 \text{ m}^2$;
 - $T = 90 \text{ min} = 5400 \text{ s}$;
 - $W = 7.32 \text{ m}$.
-I suspect the ball moves slowly for most kicks, hence the estimate above. Plugging in, we get
+The only figure here requiring some explanation is $v$, which I compute as an geometric mean of a slow pass ($v \approx 0.05 \text{ m/s}$) and a fast pass or shot ($v \approx 30 \text{ m/s}$). Plugging in, we get
 $$
 N_\text{kick} \sim 1300,
 $$
@@ -71,6 +71,4 @@ The number of shots is
 $$
 N_\text{shots} \sim 17,
 $$
-which is reasonable if a little low.
-
-
+which is reasonable if also a little high.
