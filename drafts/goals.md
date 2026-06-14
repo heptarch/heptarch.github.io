@@ -119,4 +119,12 @@ $$
 
 Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $4$ goals, which is closer to the statistical average of $2.5$ but not quite there. This is arguably closer than we have any right to get, but can we do better?
 
-##
+## Angle of attack
+
+We have made many simplifications, but perhaps the most egregious is that the area of the goal is $w$. The angular area depends on where you view it from, and $W/\sqrt{a}$ only works when it is faced head-on. If you take a shot from another angle you will see a foreshortened goal. If you assume the angle is random (distributed equally over a semicircle) the effective area on average is
+
+$$
+\langle W\rangle = \frac{1}{\pi}\int_{-\pi/2}^{\pi/2} W \cos\theta \,\mathrm{d}\theta = \frac{2}{\pi}W.
+$$
+
+The goalie is not 
