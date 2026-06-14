@@ -76,14 +76,8 @@ $$
 N_\text{shots} \sim 17,
 $$
 
-which is also reasonable. <label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
-	   <span class="sidenote">
-Both numbers are a tad high, suggesting we take our constant $C < 1$.</span>
+which is also reasonable.
+Both numbers are a tad high; looking at data suggests we take our constant $C \approx 0.65$.
 
 ## Goal-keeping
 
@@ -108,7 +102,7 @@ $$
 So we model the probability of a goal as simply
 
 $$
-P_\text{goal} = \frac{W - w'}{W} = 1 - \frac{w}{W} - \frac{2 v}{W}\left(\sqrt{\frac{1}{V'}\frac{A}{N}} - \tau\right).
+P_\text{goal} = \frac{W - w'}{W} = 1 - \frac{w}{W} - \frac{2 v}{W}\left(\frac{1}{V'}\sqrt{\frac{A}{N}} - \tau\right).
 $$
 
 Again, let's plug in the numbers and see if we get a reasonable answer. We use
@@ -123,4 +117,4 @@ $$
 P_\text{goal} \approx 0.37 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 6.
 $$
 
-Now, this is too big by a factor of $2$-$3$; what did we miss?
+Our constant of proportionality Now, this is too big by a factor of $2$-$3$; what did we miss?
