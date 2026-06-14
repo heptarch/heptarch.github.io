@@ -93,27 +93,28 @@ A goalkeeper has an area, but it is a highly mobile one! This requires a little 
 - $\tau$: reaction time;
 - $v$: speed of dive.
 
-If a shot is launched at distance $D \sim \sqrt{A/N}$ in a forward zone, it takes time $D/V$ to arrive and the goalie can move a distance
+If a shot is launched at distance $D \sim \sqrt{A/N}$ in a forward zone, and with speed $V'$, it takes time $D/V'$ to arrive and the goalie can move a distance
 
 $$
-d = v\left(\frac{D}{V} - \tau\right)
+d = v\left(\frac{D}{V'} - \tau\right)
 $$
 
 assuming they have enough time to react at all. This gives them an effective width
 
 $$
-w' = w + 2 v\left(\frac{D}{V} - \tau\right) = w + 2 v\left(\sqrt{\frac{A}{NV^2}} - \tau\right).
+w' = w + 2 v\left(\frac{D}{V'} - \tau\right) = w + 2 v\left(\frac{1}{V'}\sqrt{\frac{A}{N}} - \tau\right).
 $$
 
 So we model the probability of a goal as simply
 
 $$
-P_\text{goal} = \frac{W - w'}{W} = 1 - \frac{w}{W} + \frac{2 v}{W}\left(\sqrt{\frac{A}{NV^2}} - \tau\right).
+P_\text{goal} = \frac{W - w'}{W} = 1 - \frac{w}{W} - \frac{2 v}{W}\left(\sqrt{\frac{1}{V'}\frac{A}{N}} - \tau\right).
 $$
 
 Again, let's plug in the numbers and see if we get a reasonable answer. We use
 - $w = 2 \text{ m}$;
 - $\tau = 0.2 \text{ s}$;
-- $v = 5 \text{ m/s}$.
+- $v = 3 \text{ m/s}$;
+- $V' = 30 \text{ m/s}$.
 
 If we plug all of these in,
