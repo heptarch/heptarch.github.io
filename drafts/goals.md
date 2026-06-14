@@ -63,13 +63,7 @@ Let's plug this in and see what we get for football (soccer). Our data:
 - $T = 90 \text{ min} = 5400 \text{ s}$;
 - $W = 7.32 \text{ m}$.
 
-The only figure here requiring some explanation is $v$, which I compute as an geometric mean of a slow pass ($V \approx 0.05 \text{ m/s}$) and a fast pass or shot ($V \approx 30 \text{ m/s}$):
-
-$$
-\sqrt{0.05 \times 30} \approx 1.2.
-$$
-
-Plugging in numbers, we get
+The only figure here requiring some explanation is $v$, which I compute as an geometric mean of a slow pass ($V \approx 0.05 \text{ m/s}$) and a fast pass or shot ($V \approx 30 \text{ m/s}$), $\sqrt{0.05 \times 30} \approx 1.2$. Plugging in numbers, we get
 
 $$
 N_\text{kick} \sim 1300,
@@ -99,4 +93,14 @@ A goalkeeper has an area, but it is a highly mobile one! This requires a little 
 - *$\tau$*: reaction time;
 - *$v$*: speed of dive.
 
-If a shot is launched at distance $d$, it takes time $d/v$ to arrive (ignoring th) 
+If a shot is launched at distance $D \sim \sqrt{A/N}$ in a forward zone, it takes time $D/V$ to arrive and the goalie can move a distance
+
+$$
+d = v(\frac{d}{V} - \tau)
+$$
+
+assuming they have enough time to react at all. This gives them an effective width
+
+$$
+w' = w + 2 v\left(\frac{d}{V} - \tau\right) = w + 2 v\left(\frac{d}{V} - \tau\right)
+$$
