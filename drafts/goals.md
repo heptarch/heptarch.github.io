@@ -96,7 +96,7 @@ A goalkeeper has an area, but it is a highly mobile one! This requires a little 
 If a shot is launched at distance $D \sim \sqrt{A/N}$ in a forward zone, it takes time $D/V$ to arrive and the goalie can move a distance
 
 $$
-d = v(\frac{D}{V} - \tau)
+d = v\left(\frac{D}{V} - \tau\right)
 $$
 
 assuming they have enough time to react at all. This gives them an effective width
