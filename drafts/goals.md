@@ -25,14 +25,23 @@ There are a few factors relevant to number of goals per game:
 - $W$: width of goal;
 - $w$: width of ball.
 
-A very crude model is to think of the field as divided into $N$ regions, $a = A/N$, modelling each player's reach on average. Kick frequency $f$ per player is given by dimensional analysis as
+A very crude model is to think of the field as divided into $N$ regions, $a = A/N$, modelling each player's reach on average. Kick frequency $f$ per player is given by dimensional analysis<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+Since it is per player, it shouldn't depend on $N$.</span> as
 
 $$
-f \propto \frac{\sqrt{A}}{v}. 
+f \propto \frac{v}{\sqrt{A}}. 
 $$
 
 Hence, the total number of kicks per game is
 
 $$
-NTf = \frac{NT\sqrt{A}}{v}.
+NTf \propto \frac{NTv}{sqrt{A}}.
 $$
+
+How often do these kicks go into the goal? Most kicks on goal happen close to goal, where the probability is given by the size of the goal $W$ over the characteristic size of the 
