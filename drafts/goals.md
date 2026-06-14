@@ -117,7 +117,7 @@ $$
 P_\text{goal} \approx 0.37 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 6.
 $$
 
-Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $4$ goals, which is closer to the statistical average of $2.5$ but not quite there. This is arguably closer than we have any right to get, but can we do better?
+Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $4$ goals, which is closer to the statistical average of $2.5$ but not quite there. This is arguably closer than we have any right to get!
 
 ## Angle of attack
 
@@ -127,4 +127,4 @@ $$
 \langle W\rangle = \frac{1}{\pi}\int_{-\pi/2}^{\pi/2} W \cos\theta \,\mathrm{d}\theta = \frac{2}{\pi}W.
 $$
 
-The goalie is not 
+Does not 
