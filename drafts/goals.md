@@ -4,10 +4,10 @@ mathjax: true
 comments: true
 title:  "Goals"
 categories: []
-date:  2026-06-15
+date:  2026-06-14
 ---
 
-**June 15, 2026.** *A first-principles analysis of goal-scoring sports.*
+**June 14, 2026.** *A first-principles analysis of goal-scoring sports.*
 
 ## Introduction
 
@@ -87,7 +87,7 @@ A goalkeeper has an area, but it is a highly mobile one! This requires a little 
 - $\tau$: reaction time;
 - $v$: speed of dive.
 
-If a shot is launched at distance $D \sim \sqrt{A/N}$ in a forward zone, and with speed $V'$, it takes time $D/V'$ to arrive and the goalie can move a distance
+If a shot is launched at distance $D \sim \sqrt{a}$ in a forward zone, and with speed $V'$, it takes time $D/V'$ to arrive and the goalie can move a distance
 
 $$
 d = v\left(\frac{D}{V'} - \tau\right)
@@ -96,13 +96,13 @@ $$
 assuming they have enough time to react at all. This gives them an effective width
 
 $$
-w' = w + 2 v\left(\frac{D}{V'} - \tau\right) = w + 2 v\left(\frac{1}{V'}\sqrt{\frac{A}{N}} - \tau\right).
+w' = w + 2 v\left(\frac{D}{V'} - \tau\right) = w + 2 v\left(\frac{\sqrt{a}}{V'} - \tau\right).
 $$
 
 So we model the probability of a goal as simply
 
 $$
-P_\text{goal} = \frac{W - w'}{W} = 1 - \frac{w}{W} - \frac{2 v}{W}\left(\frac{1}{V'}\sqrt{\frac{A}{N}} - \tau\right).
+P_\text{goal} = \frac{W - w'}{W} = 1 - \frac{w}{W} - \frac{2 v}{W}\left(\frac{\sqrt{a}}{V'} - \tau\right).
 $$
 
 Again, let's plug in the numbers and see if we get a reasonable answer. We use
@@ -117,4 +117,6 @@ $$
 P_\text{goal} \approx 0.37 \quad \Longrightarrow \quad N_\text{goals} = N_\text{shots} P_\text{goal} \approx 6.
 $$
 
-Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $4$ goals, which is closer to the statistical average of $2.5$ but not quite there. Have we missed anything?
+Since $N_\text{shots}$ has a constant of proportionality $C \approx 0.65$, this reduces to $4$ goals, which is closer to the statistical average of $2.5$ but not quite there. This is arguably closer than we have any right to get, but can we do better?
+
+##
