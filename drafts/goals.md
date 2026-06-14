@@ -87,3 +87,4 @@ which is also reasonable. (Both numbers are a tad high, suggesting we take our c
 ## Goal-keeping
 
 The real subtlety in our analysis, as in the game itself, is to convert shots on goal to goals. 
+A goalkeeper has an area, but it is a highly mobile on
