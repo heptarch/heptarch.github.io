@@ -15,5 +15,5 @@ A cool fact is that certain programs are self-replicating: run them, and they ou
 An example in $\texttt{Python 3}$:
 
 $$
-\texttt{print open(__file__).read()}
+_='_=%r;print(_%%_)';print(_%_)
 $$
