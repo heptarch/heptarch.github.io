@@ -12,15 +12,17 @@ date:  2026-06-15
 ## Introduction
 
 A cool fact is that certain programs are self-replicating: run them, and they output themselves. Such programs are called *quines*, after the philosopher and logician Willard Van Orman Quine.
-They are [often quite elaborate](https://esolangs.org/wiki/List_of_quines), for instance, this very clever example in `Python 3` (to be saved as `exceptionQuine.py`):
+They are [often quite elaborate](https://esolangs.org/wiki/List_of_quines). consider for instance this very clever example in `Python 3` (to be saved as `exceptionQuine.py`):
 
-```    File "exceptionQuine.py", line 1
+<pre>    File "exceptionQuine.py", line 1
         File "exceptionQuine.py", line 1
         ^
-IndentationError: unexpected indent```
+IndentationError: unexpected indent</pre>
 
-Running the program, it trips up on the first line and produces the second two lines as error output.
+Running the program, it trips up on the first line and produces the second two lines as error output. It's a high-class pun.
 
 ## Diagon Alley
 
-This may sound familiar. In fact, it is Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
+Given the effort involved in writing quines, you might wonder if they are guaranteed to exist in an arbitrary programming language.
+
+In fact, it is Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
