@@ -103,10 +103,11 @@ $$
 \triangleright x = \text{a value of type $x$ obtained after a unit of computation}.
 $$
 
+This is comparable to evaluate since it bakes in the idea of a computational pass.
 Löb's theorem is then
 
 $$
 (\triangleright x \to x) \to x,
 $$
 
-which states that if I can turn turn a later value into a current value, I can produce a value now. This is precisely 
+which states that if I can turn turn a later value into a current value, I can produce a value now. This tells us that a special sort of self-referential prcess is possible called *guarded recursion*; this prevents runaway self-reference by enforcing that a unit of computation is performed per step.
