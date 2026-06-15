@@ -15,7 +15,7 @@ A cool fact is that certain programs are self-replicating: run them, and they ou
 An example in $\texttt{Python 3}$:
 
 $$
-_='_=%r;print(_%%_)';print(_%_)
+\_='\_=\%r;print(\_\%\%\_)';print(\_\%\_)
 $$
 
 This may sound familiar. In fact, it is Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
