@@ -41,10 +41,10 @@ $$
 where the RHS is fancy notation for the function left over when we saturate the first argument. A quine is just the case where $Q(x, y) = x$, i.e. we project onto the first argument and ignore $y$ altogether, giving a partial recursive function $q$ such that
 
 $$
-q(y) = \ulcorner q \urcorner, 
+q(y) = \ulcorner q \urcorner.
 $$
 
-so it always outputs its own index.
+In words, it always outputs its own index.
 
 ## Antiquines
 
@@ -61,4 +61,6 @@ $$
 q \leftrightarrow \neg\text{prov}(\ulcorner q \urcorner),
 $$
 
-which asserts *unprovability*. If the formal system is consistent, then 
+which asserts its *unprovability*. If $q$ is false, then the system can prove $q$, i.e. it is inconsistent. If $q$ is true, then there is a statement which is true but not provable, i.e. it is incomplete. Gödel proved the diagonal lemma to reach this famous conclusion.
+
+You may like to have a shot at constructing your own antiquines
