@@ -12,7 +12,7 @@ date:  2026-06-15
 ## Introduction
 
 A cool fact is that certain programs are self-replicating: run them, and they output themselves. Such programs are called *quines*, after the philosopher and logician Willard Van Orman Quine.
-An example:
+An example in $\texttt{Python 3}$:
 
 $$
 \texttt{print open(__file__).read()}
