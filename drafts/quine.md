@@ -80,7 +80,7 @@ $$
 $$
 
 then you can prove $x$ itself. The argument goes roughly as follows:
-- Use the diagonal lemma to construct a sentence $L$ that says "If $L$ is provable, then $x$ follows".
+- Use the diagonal lemma to construct a sentence $L$ saying "If $L$ is provable, $x$ follows".
 - If our formal system is sound and $L$ is provable, it is true.
 - In that case, since $L$ is provable, then $x$ follows.
 - But this demonstrates, by assumption, if $L$ is provable $x$ follows!
