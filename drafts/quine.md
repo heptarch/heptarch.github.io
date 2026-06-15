@@ -89,7 +89,7 @@ then you can prove $q$ itself. The argument goes roughly as follows:
 Going back to programs instead of proofs, what does this tell us? Löb becomes
 
 $$
-\text{eval}(\ulcorner q \urcorner) = q \text{ implies } \text{eval}(\ulcorner q \urcorner),
+\text{eval}(\ulcorner q \urcorner) = q \text{ implies } \text{eval}(\ulcorner q \urcorner) \text{ exists},
 $$
 
 or in words, a quine is a program that halts and outputs something. This is rather mundane in comparison to the logical quine!
