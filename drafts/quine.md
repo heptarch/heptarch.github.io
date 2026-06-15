@@ -38,7 +38,13 @@ $$
 p = \lambda y. Q(\ulcorner p \urcorner, y) 
 $$
 
-where the RHS is fancy notation for the function left over when we saturate the first argument. A quine is just the case where $Q(x, y) = x$, i.e. we project onto the first argument and ignore $y$.
+where the RHS is fancy notation for the function left over when we saturate the first argument. A quine is just the case where $Q(x, y) = x$, i.e. we project onto the first argument and ignore $y$ altogether, giving a program such that
+
+$$
+q(y) = \ulcorner q \urcorner, 
+$$
+
+so it always outputs its own index.
 
 ## Antiquines
 
