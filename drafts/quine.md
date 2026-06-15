@@ -65,7 +65,7 @@ which asserts its *unprovability*. If $a$ is false, then the system can prove $a
 
 *Exercises.* Solve the following using antiquines. (a) Show that the halting predicate $\text{halt}$ is incomplete, i.e. we cannot determine if an arbitrary program halts. (b) Extend this to show that any non-trivial (i.e. non-constant) semantic property is undecidable. (c) Instead of provability, apply the argument to the predicate $\text{true}(n)$ which evaluates the truth of the formula with a given Gödel number $n$.
 
-## Löb's axiom
+## Löb's surprise
 
 A *logical quine* is equivalent to its own provability: 
 
@@ -80,8 +80,8 @@ $$
 $$
 
 then you can prove $q$ itself, which implies that our fixed point must be provable and hence true. The argument goes roughly as follows:
-- By assumption, $q$ is provable is equivalent to $q$ is provable implies $q$ is true.
-- Clearly, $q$ is provable implies $q$ is provable.
-- Hence, $q$ is provable implies $q$ is provable implies $q$ is true.
-- Contracting, $q$ is provable implies $q$ is true.
-- But we deduced the sentence equivalent to $q$ itself!
+- Use the diagonal lemma to construct a sentence $L$ that says "If $L$ is provable, then $q$ follows".
+- If our formal system is sound and $L$ is provable, it is true.
+- In that case, since $L$ is provable, then $q$ follows.
+- But this demonstrates, by assumption, if $L$ is provable $q$ follows!
+- Thus $L$ is proven, and $q$ follows. We have proven $q$!
