@@ -73,4 +73,15 @@ $$
 q \leftrightarrow \text{prov}(\ulcorner q \urcorner).
 $$
 
-If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness inconsistency. They haven't seen anything, honest! Such a formula seems useless, and in particular, it could be true or false. Remarkably, this is not the case: Martin Löb [proved in 1955](https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem) that the fixed point $q$ is always *true*.
+If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness inconsistency. They haven't seen anything, honest! Such a formula seems useless, and in particular, it could be true or false. Remarkably, this is not the case: Martin Löb [proved in 1955](https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem) that the fixed point $q$ is always *true*. More generally, if you can prove that
+
+$$
+\text{prov}(\ulcorner q \urcorner) \to q
+$$
+
+then you can prove $q$ itself, which implies that our fixed point must be provable and hence true. The argument goes roughly as follows:
+- By assumption, $q$ is provable is equivalent to $q$ is provable implies $q$ is true.
+- Clearly, $q$ is provable implies $q$ is provable.
+- Hence, $q$ is provable implies $q$ is provable implies $q$ is true.
+- Contracting, $q$ is provable implies $q$ is true.
+- But we deduced the sentence equivalent to $q$ itself!
