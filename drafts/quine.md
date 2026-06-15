@@ -79,17 +79,17 @@ $$
 \text{prov}(\ulcorner q \urcorner) \to q
 $$
 
-then you can prove $q$ itself, which implies that our fixed point must be provable and hence true. The argument goes roughly as follows:
+then you can prove $q$ itself. The argument goes roughly as follows:
 - Use the diagonal lemma to construct a sentence $L$ that says "If $L$ is provable, then $q$ follows".
 - If our formal system is sound and $L$ is provable, it is true.
 - In that case, since $L$ is provable, then $q$ follows.
 - But this demonstrates, by assumption, if $L$ is provable $q$ follows!
 - Thus $L$ is proven, and $q$ follows. We have proven $q$!
 
-Going back to programs instead of proofs, what does this tell us? We have
+Going back to programs instead of proofs, what does this tell us? Löb becomes
 
 $$
-(\text{eval}(\ulcorner q \urcorner) \to q) \to \text{eval}(\ulcorner q \urcorner),
+\text{eval}(\ulcorner q \urcorner) = q \text{ implies } \text{eval}(\ulcorner q \urcorner),
 $$
 
 so a function that turns an evaluable $q$ into an $q$ gives an $q$.
