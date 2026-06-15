@@ -48,10 +48,4 @@ so it always outputs its own index.
 
 ## Antiquines
 
-The existence of quines is tied up with fixed points and self-reference. In this case, the self-reference is harmless (not to mention entertaining) but it is closely allied with a more sinister form of self-reference I call the *antiquine*. Instead of returning the object itself, either by evaluation or projection, it somehow *modifies* the returned object. For instance, consider
-
-$$
-Q(x, y) = x + 1.
-$$
-
-This has a 
+The existence of quines is tied up with fixed points and self-reference. In this case, the self-reference is harmless (not to mention entertaining) but it is closely allied with a more sinister form of self-reference I call the *antiquine*. Instead of returning the object itself, either by evaluation or projection, it somehow *changes* the returned object, yielding a type of "anti"-self-reference.
