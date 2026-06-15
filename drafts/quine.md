@@ -24,5 +24,5 @@ Running the program, it trips up on the first line and produces the second two l
 ## Diagon Alley
 
 Given the effort involved in writing quines, you might wonder if they are guaranteed to exist in an arbitrary programming language.
-
-In fact, it is Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
+Perhaps some are quine-free!
+But in fact, for a language which is [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness), they are unavoidable. The reason goes back Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
