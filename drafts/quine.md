@@ -96,6 +96,5 @@ where we interpret $\to$ as "produces".
 Thus, if evaluating a program outputs a program, we can collapse the produced value into the program. This sounds arcane, but it is just the notion of *recursion*, and Löb's theorem tells us that recursion works.
 
 ## Safe recursion
-
-or in words, running a program to produce a value returns a value. 
-This is a hint that Löb's theorem has a role to play in ensuring self-reference or recursion *terminates*.
+ 
+This carries us into our final topic: how to recurse safely.
