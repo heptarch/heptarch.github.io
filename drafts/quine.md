@@ -39,3 +39,7 @@ p = \lambda y. Q(\ulcorner p \urcorner, y)
 $$
 
 where the RHS is fancy notation for the function left over when we saturate the first argument. A quine is just the case where $Q(x, y) = x$.
+
+## Antiquines
+
+The existence of quines is therefore tied up with fixed points and self-reference. They are harmless (not to mention entertaining), but they are allied with a more sinister phenomenon I call the *antiquine*. Instead of $\text{eval}$, suppose we consider programs that are guaranteed to output boolean values `True` or `False`.
