@@ -103,7 +103,7 @@ $$
 \triangleright x = \text{a value of type $x$ obtained after a unit of computation}.
 $$
 
-This is comparable to evaluate since it bakes in the idea of a computational pass.
+This is comparable to $\text{eval}(\ulcorner x \urcorner)$ since it bakes in the idea of a computational pass.
 Löb's theorem is then
 
 $$
