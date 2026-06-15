@@ -7,7 +7,7 @@ categories: []
 date:  2026-06-15
 ---
 
-**June 15, 2026.** *To write.*
+**June 15, 2026.** *A panoply of self-reference: benign, malign, and .*
 
 ## Introduction
 
@@ -61,7 +61,7 @@ $$
 a \leftrightarrow \neg\text{prov}(\ulcorner a \urcorner),
 $$
 
-which asserts its *unprovability*. If $a$ is false, then the system can prove $a$, i.e. it is inconsistent. If $a$ is true, then there is a statement which is true but not provable, i.e. the system is incomplete. Gödel proved the diagonal lemma in order to reach this famous conclusion!
+which asserts its *unprovability*. If $a$ is false, then the system can prove $a$, i.e. it is unsound. If $a$ is true, then there is a statement which is true but not provable, i.e. the system is incomplete. Gödel proved the diagonal lemma in order to reach this famous conclusion!
 
 *Exercises.* Solve the following using antiquines. (a) Show that the halting predicate $\text{halt}$ is incomplete, i.e. we cannot determine if an arbitrary program halts. (b) Extend this to show that any non-trivial (i.e. non-constant) semantic property is undecidable. (c) Instead of provability, apply the argument to the predicate $\text{true}(n)$ which evaluates the truth of the formula with a given Gödel number $n$.
 
@@ -73,7 +73,7 @@ $$
 q \leftrightarrow \text{prov}(\ulcorner q \urcorner).
 $$
 
-If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness inconsistency. They haven't seen anything, honest! Such a formula seems useless, and in particular, it could be true or false. Remarkably, this is not the case: Martin Löb [proved in 1955](https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem) that the fixed point $q$ is always *true*. More generally, if you can prove that
+If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness unsoundness. They haven't seen anything, honest! Such a formula seems useless, and in particular, it could be true or false. Remarkably, this is not the case: Martin Löb [proved in 1955](https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem) that the fixed point $q$ is always *true*. More generally, if you can prove that
 
 $$
 \text{prov}(\ulcorner q \urcorner) \to q
@@ -86,4 +86,10 @@ then you can prove $q$ itself, which implies that our fixed point must be provab
 - But this demonstrates, by assumption, if $L$ is provable $q$ follows!
 - Thus $L$ is proven, and $q$ follows. We have proven $q$!
 
-Going back to $\text{eval}$ instead of $\text{prov}$, 
+Going back to programs instead of proofs, what does this tell us? We have
+
+$$
+(\text{eval}(\ulcorner q \urcorner) \to q) \to \text{eval}(\ulcorner q \urcorner) 
+$$
+
+## Safe recursion
