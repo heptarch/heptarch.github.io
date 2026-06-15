@@ -26,7 +26,7 @@ Running the program, it trips up on the first line and produces the second two l
 As it turns out, quines exist in any [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) language for profound mathematical reasons. 
 Consider a language $\mathcal{L}$ with some syntax rules for building valid programs.
 Each program $x \in \mathcal{L}$ is associated with a unique [Gödel number](https://en.wikipedia.org/wiki/G%C3%B6del_numbering), $\ulcorner x \urcorner \in \mathbb{N}$, via a cute procedure involving primes.
-Define the $\text{eval}: \mathbb{N} \to \mathcal{L}$ function as executing the program associated with Gödel number $n$ and outputting some result in $\mathcal{L}$. Then a quine $q$ is a "fixed point" of the following form:
+Define the $\text{eval}: \mathbb{N} \to \mathcal{L}$ function as executing the program associated with Gödel number $n$ and outputting some result in $\mathcal{L}$. Then a quine $q$ is a "fixed point"
 
 $$
 q = \text{eval}(\ulcorner q \urcorner).
