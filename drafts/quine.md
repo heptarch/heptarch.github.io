@@ -25,4 +25,7 @@ Running the program, it trips up on the first line and produces the second two l
 
 Given the effort involved in writing quines, you might wonder if they are guaranteed to exist in an arbitrary programming language.
 Perhaps some are quine-free!
-But in fact, for a language which is [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness), they are unavoidable. The reason is deep. In 1931, Kurt Gödel turned self-reference into a powerful mathematical tool with his famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), stating that for any predicate $\varphi$ with a free argument $x$, and a quotation mechanism $\ulcorner \cdot \urcorner$ like [Gödel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering). 
+But in fact, for any [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) language, they are unavoidable. 
+
+
+In 1931, Kurt Gödel turned self-reference into a powerful mathematical tool with his famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), stating that for any predicate $\varphi$ with a free argument $x$, and a quotation mechanism $\ulcorner \cdot \urcorner$ like [Gödel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering). 
