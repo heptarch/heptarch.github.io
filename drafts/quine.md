@@ -32,4 +32,5 @@ $$
 q = \text{eval}(\ulcorner q \urcorner).
 $$
 
-The existence of such a fixed point follows from Kurt Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma). To be clear, the diagonal lemma is for predictates which are true or false, but it's easy to translate into the language of computable functions; this is called [Kleene's second recursion theorem](https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem#Kleene's_second_recursion_theorem).
+The existence of such a fixed point follows from Kurt Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), and $\text{eval}$ can be replaced by any partial recursive function. To be clear, the diagonal lemma is for predictates which are true or false, but it's easy to translate into the language of computable functions; this is called [Kleene's second recursion theorem](https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem#Kleene's_second_recursion_theorem).
+Thus, 
