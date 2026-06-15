@@ -32,14 +32,14 @@ $$
 q = \text{eval}(\ulcorner q \urcorner).
 $$
 
-The existence of such a fixed point follows from Kurt Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), and $\text{eval}$ can be replaced by any partial recursive function. Technically, the diagonal lemma is for predictates which are true or false, but it's easy to translate into the language of computable functions using [Kleene's second recursion theorem](https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem#Kleene's_second_recursion_theorem); instead of a predicate, we have that for any partial recursive $Q: \mathbb{N}\times\mathbb{N}\to \mathbb{N}$, there is partial recursive function $p$ such that
+The existence of such a fixed point follows from Kurt Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma). Although this is the right intuition, technically, the diagonal lemma is for predicates which are true or false, and it's more correct to translate into the language of computable functions using [Kleene's second recursion theorem](https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem#Kleene's_second_recursion_theorem). Instead of a predicate, we have that for any partial recursive $Q: \mathbb{N}\times\mathbb{N}\to \mathbb{N}$, there is partial recursive function $p$ such that
 
 $$
 p = \lambda y. Q(\ulcorner p \urcorner, y) 
 $$
 
-where the RHS is fancy notation for the function left over when we saturate the first argument. A quine is just the case where $Q(x, y) = x$.
+where the RHS is fancy notation for the function left over when we saturate the first argument. A quine is just the case where $Q(x, y) = x$, i.e. we project onto the first argument and ignore $y$ altogether.
 
 ## Antiquines
 
-The existence of quines is therefore tied up with fixed points and self-reference. They are harmless (not to mention entertaining), but they are allied with a more sinister phenomenon I call the *antiquine*. Instead of $\text{eval}$, suppose we consider programs that are guaranteed to output boolean values `True` or `False` and define a boolean evaluation function $\text{beval}$.
+The existence of quines is therefore tied up with fixed points and self-reference. They are harmless (not to mention entertaining), but allied with a more sinister phenomenon I call the *antiquine*. Instead of $\text{eval}$, let us restrict to programs which output boolean values `True` or `False` and define a boolean evaluation function $\text{beval}$.
