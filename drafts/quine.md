@@ -70,7 +70,7 @@ which asserts its *unprovability*. If $a$ is false, then the system can prove $a
 A *logical quine* is equivalent to its own provability: 
 
 $$
-q \leftrightarrow \text{prov}(\ulcorner q \urcorner),
+q \leftrightarrow \text{prov}(\ulcorner q \urcorner).
 $$
 
-If this is true, it is provable, so 
+If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness inconsistency. They haven't seen anything, honest!
