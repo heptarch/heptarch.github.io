@@ -42,4 +42,8 @@ where the RHS is fancy notation for the function left over when we saturate the 
 
 ## Antiquines
 
-The existence of quines is tied up with fixed points and self-reference. In this case, the self-reference is harmless (not to mention entertaining) but it is closely allied with a more sinister form of self-reference I call the *antiquine*.
+The existence of quines is tied up with fixed points and self-reference. In this case, the self-reference is harmless (not to mention entertaining) but it is closely allied with a more sinister form of self-reference I call the *antiquine*. Instead of returning the object itself, either by evaluation or projection, it somehow *modifies* the returned object. For instance, consider
+
+$$
+Q(x, y) = x + 1.
+$$
