@@ -95,3 +95,5 @@ $$
 or in words, a quine is a program that halts and outputs something. This is rather mundane in comparison to the logical quine!
 
 ## Safe recursion
+
+This is a hint that Löb's theorem has a role to play in ensuring self-reference or recursion *terminates*.
