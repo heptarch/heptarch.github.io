@@ -85,3 +85,5 @@ then you can prove $q$ itself, which implies that our fixed point must be provab
 - In that case, since $L$ is provable, then $q$ follows.
 - But this demonstrates, by assumption, if $L$ is provable $q$ follows!
 - Thus $L$ is proven, and $q$ follows. We have proven $q$!
+
+Going back to $\text{eval}$ instead of $\text{prov}$, 
