@@ -19,7 +19,7 @@ They are [often quite elaborate](https://esolangs.org/wiki/List_of_quines). Cons
         ^
 IndentationError: unexpected indent</code></pre>
 
-Running the program, it trips up on the first line and produces the second two lines as error output. It's a high-class pun. Quines are puns that go surprisingly deep.
+Running the program, it trips up on the first line and produces the second two lines as error output. It's a high-class pun, hinging on the syntax of printouts. Quines are puns that go surprisingly deep.
 
 ## Diagon Alley
 
