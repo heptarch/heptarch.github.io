@@ -86,13 +86,14 @@ then you can prove $x$ itself. The argument goes roughly as follows:
 - But this demonstrates, by assumption, if $L$ is provable $x$ follows!
 - Thus $L$ is proven, and $x$ follows. We have proven $x$!
 
-Going back to programs instead of proofs, what does this tell us? Loosely, we have
+Going back to programs instead of proofs, what does this tell us? Löb becomes something like
 
 $$
 (\text{eval}(\ulcorner x \urcorner) \to x) \to x,
 $$
 
-which suggests that, if evaluating a program leads outputs a new program, we can combine the whole into a new program. What I have just (waving my hands furiously) is the notion of *recursion*, and Löb's theorem tells us that recursion works.
+where we interpret $\to$ as "produces".
+Thus, if evaluating a program outputs a program, we can collapse the produced value into the program. This sounds arcane, but it is just the notion of *recursion*, and Löb's theorem tells us that recursion works.
 
 ## Safe recursion
 
