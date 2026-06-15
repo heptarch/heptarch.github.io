@@ -42,4 +42,4 @@ where the RHS is fancy notation for the function left over when we saturate the 
 
 ## Antiquines
 
-The existence of quines is therefore tied up with fixed points and self-reference. They are harmless (not to mention entertaining), but allied with a more sinister phenomenon I call the *antiquine*. Instead of $\text{eval}$, let us restrict to programs which output boolean values `True` or `False` and define a boolean evaluation function $\text{beval}$.
+The existence of quines is tied up with fixed points and self-reference. In this case, the self-reference is harmless (not to mention entertaining) but it is closely allied with a more sinister form of self-reference I call the *antiquine*.
