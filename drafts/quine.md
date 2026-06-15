@@ -92,6 +92,6 @@ $$
 \text{eval}(\ulcorner q \urcorner) = q \text{ implies } \text{eval}(\ulcorner q \urcorner),
 $$
 
-so a function that turns an evaluable $q$ into an $q$ gives an $q$.
+or in words, a quine is a program that halts and outputs something. This is rather mundane in comparison to the logical quine!
 
 ## Safe recursion
