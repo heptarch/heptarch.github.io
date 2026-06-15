@@ -97,7 +97,7 @@ Thus, if evaluating a program outputs a program, we can collapse the produced va
 
 ## Safe recursion
  
-We have been a little loose with our interpretation, and it is time to pay the piper. If we really want to think of programs in terms of logic, we need to invoke something called the [Curry-Howard isomorphism](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence), which asserts that proofs are programs and formulas are their types. We cannot evaluate a type, so the naive recursion I sketched above fails. We need to interpret eval in a subtly different way. We replace $\text{eval}(\ulcorner \cdot \urcorner)$ with the modality $\triangleright$, pronounced "later", with the interpretation that
+We have been a little loose with our interpretation, and it is time to pay the piper. If we really want to think of programs in terms of logic, we need to invoke something called the [Curry-Howard isomorphism](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence), which asserts that proofs are programs and formulas are their types. We cannot evaluate a type, so the naive recursion I sketched above fails. We need to interpret eval in a subtly different way. We replace $\text{eval}(\ulcorner \cdot \urcorner)$ with the [modality $\triangleright$](https://www602.math.ryukoku.ac.jp/~nakano/papers/modality-lics00.pdf), pronounced "later", with the interpretation that
 
 $$
 \triangleright x = \text{a value of type $x$ obtained after a unit of computation}.
@@ -115,4 +115,4 @@ This tells us that a special sort of self-referential process is possible called
 
 ## Conclusion
 
-So, we've covered, in a brief and hopefully entertaining way, some different notions of self-reference arising from fixed point constructions of 
+So, we've covered, in a brief and hopefully entertaining way, some different notions of self-reference arising from fixed point constructions of Gödel's diagonal lemma and Kleene's recursion theorem. This includes self-replacating objects called quines, anti-self-replicating objects I've called antiquines (which underlie important results in logic and metamathematics), and finally a curious property of self-replicationed called Löb's theorem, which points the way not only to recursive fixed points, but a method 
