@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "What is Löb's job?"
+title:  "Löb security"
 categories: []
 date:  2026-06-15
 ---
@@ -115,4 +115,4 @@ This tells us that a special sort of self-referential process is possible called
 
 ## Conclusion
 
-So, we've covered, in a brief and hopefully entertaining way, some different notions of self-reference arising from fixed point constructions of the diagonal lemma and Kleene's recursion theorem. This includes self-replacating objects called quines, anti-self-replicating objects I've baptised antiquines (which underlie important results in logic and metamathematics), and finally a curious property of self-replication called Löb's theorem, which points the way not only to recursive fixed points, but a structural method of safeguarding self-reference from unproductive replication. 
+So, we've covered, in a brief and hopefully entertaining way, some different notions of self-reference arising from fixed point constructions of the diagonal lemma and Kleene's recursion theorem. This includes self-replacating objects called quines, anti-self-replicating objects I've baptised antiquines (more conventionally called "liars" after the [Liar Paradox](https://en.wikipedia.org/wiki/Liar_paradox)), and finally a curious property of self-replication called Löb's theorem, which points the way not only to recursive fixed points, but a structural method of safeguarding self-reference from unproductive replication. 
