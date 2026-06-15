@@ -25,11 +25,13 @@ Running the program, it trips up on the first line and produces the second two l
 
 Given the effort involved in writing quines, you might wonder if they are guaranteed to exist in an arbitrary programming language.
 Perhaps some are quine-free!
-But in fact, for any [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) language, they are unavoidable. 
-For a well-formed program $x$ in some language $\mathcal{L}$, let $\ulcorner x \urcorner$ denote the string associated with the program specification, and $\text{eval}(\ulcorner x\urcorner)$ the result of evaluating that string. Then a quine $q$ is a "fixed point" of the following form:
+But in fact, for any [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) language they are unavoidable. 
+Consider a language $\mathcal{L}$ with some syntax rules for building valid programs.
+Each program $x \in \mathcal{L}$ is associated with a unique [Gödel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering), $\ulcorner x \urcorner \in \mathbb{N}$, via a cute procedure involving primes.
+Define the $\text{eval}: \mathbb{N} \to \mathcal{L}$ function as executing the program associated with Gödel number $n$ and outputting some result in $\mathcal{L}$. Then a quine $q$ is a "fixed point" of the following form:
 
 $$
 q = \text{eval}(\ulcorner q \urcorner).
 $$
 
-In 1931, Kurt Gödel turned self-reference into a powerful mathematical tool with his famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), stating that for any predicate $\varphi$ with a free argument $x$, and a quotation mechanism $\ulcorner \cdot \urcorner$ like [Gödel numbering](https://en.wikipedia.org/wiki/G%C3%B6del_numbering). 
+In 1931, Kurt Gödel turned self-reference into a powerful mathematical tool with his famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), stating that for any predicate $\varphi$ with a free argument $x$, and a quotation mechanism $\ulcorner \cdot \urcorner$ like  
