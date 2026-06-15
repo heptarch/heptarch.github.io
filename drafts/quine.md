@@ -48,11 +48,17 @@ so it always outputs its own index.
 
 ## Antiquines
 
-The existence of quines is tied up with fixed points and self-reference. In this case, the self-reference is harmless (not to mention entertaining) but it is closely allied with a more sinister form of self-reference I call the *antiquine*. Instead of returning the object itself, either by evaluation or projection, it somehow *changes* the returned object, yielding a type of "anti"-self-reference. To illustrate concretely, instead of $\text{eval}$, consider $\text{prov}$, a predicate which states that a formula with a given Gödel number is provable in some formal system (such as [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_axioms)).
+The existence of quines is tied up with fixed points and self-reference. In this case, the self-reference is harmless (not to mention entertaining) but it is closely allied with a more sinister form of self-reference I call the *antiquine*. Instead of returning the object itself, either by evaluation or projection, it somehow *changes* the returned object, yielding a type of "anti"-self-reference. To illustrate concretely, instead of $\text{eval}$, consider $\text{prov}$, a predicate which states that a formula with a given Gödel number is provable in some formal system (such as [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_axioms) $\mathsf{PA}$).
 The equivalent of a quine is
 
 $$
 q \leftrightarrow \text{prov}(\ulcorner q \urcorner),
 $$
 
-which asserts its own provability. We'll return to these logical quines below.
+which asserts its own provability. We'll return to these logical quines below. The antiquine is
+
+$$
+q \leftrightarrow \neg\text{prov}(\ulcorner q \urcorner),
+$$
+
+which asserts *unprovability*. If the formal system is consistent, then 
