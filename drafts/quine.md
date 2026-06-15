@@ -110,6 +110,6 @@ $$
 (\triangleright x \to x) \to x,
 $$
 
-which states that if I can turn turn a later value into a current value, I can produce a value now. This tells us that a special sort of self-referential process is possible called *guarded recursion*; this prevents runaway self-reference by enforcing that a unit of computation is performed per step, also called *productivity* of the recursion. So, far from a mere fact, Löb is a beautiful architectural way of ensuring the safety of self-referential definitions in programming languages like `Haskell` and `Agda`.
+which states that if I can turn a later value into a current value, I can produce a value now. This tells us that a special sort of self-referential process is possible called *guarded recursion*; this prevents runaway self-reference by enforcing that a unit of computation is performed per step, so the recursion is *productive*. So, far from a mere fact, Löb is a beautiful architectural way of ensuring the (productive) safety of self-referential definitions in programming languages like `Agda`, `Coq` and `Idris`.
 
 ## Conclusion
