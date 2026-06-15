@@ -7,7 +7,7 @@ categories: []
 date:  2026-06-15
 ---
 
-**June 15, 2026.** *Exploring a neat relationship between self-reproducing programs, provability logic, and safe recursion.*
+**June 15, 2026.** *Exploring a neat relationship between self-reproducing programs and safe recursion.*
 
 ## Introduction
 ---
