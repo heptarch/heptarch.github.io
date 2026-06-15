@@ -55,10 +55,10 @@ $$
 q \leftrightarrow \text{prov}(\ulcorner q \urcorner),
 $$
 
-which asserts its own provability. We'll return to these logical quines below. The antiquine is
+which asserts its own provability. We'll return to these below. The antiquine is
 
 $$
-q \leftrightarrow \neg\text{prov}(\ulcorner q \urcorner),
+a \leftrightarrow \neg\text{prov}(\ulcorner a \urcorner),
 $$
 
 which asserts its *unprovability*. If $q$ is false, then the system can prove $q$, i.e. it is inconsistent. If $q$ is true, then there is a statement which is true but not provable, i.e. it is incomplete. Gödel proved the diagonal lemma to reach this famous conclusion.
