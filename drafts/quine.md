@@ -55,4 +55,4 @@ $$
 q \leftrightarrow \text{prov}(\ulcorner q \urcorner),
 $$
 
-
+which asserts its own provability. We'll return to these logical quines below.
