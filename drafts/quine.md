@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "How to recurse safely"
+title:  "Quines, antiquines, and safe recursion"
 categories: []
 date:  2026-06-15
 ---
 
-**June 15, 2026.** *Exploring a neat relationship between self-reproducing programs and safe recursion.*
+**June 15, 2026.** *To write.*
 
 ## Introduction
 
@@ -18,4 +18,4 @@ $$
 _='_=%r;print(_%%_)';print(_%_)
 $$
 
-
+Formally, we represent
