@@ -7,7 +7,7 @@ categories: []
 date:  2026-06-15
 ---
 
-**June 15, 2026.** *A panoply of self-reference: benign, malign, divine, and antiquine.*
+**June 15, 2026.** *A panoply of self-reference: benign, malign, divine, and of course antiquine.*
 
 ## Introduction
 
