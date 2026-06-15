@@ -14,10 +14,10 @@ date:  2026-06-15
 A cool fact is that certain programs are self-replicating: run them, and they output themselves. Such programs are called *quines*, after the philosopher and logician Willard Van Orman Quine.
 They are [often quite elaborate](https://esolangs.org/wiki/List_of_quines). consider for instance this very clever example in `Python 3` (to be saved as `exceptionQuine.py`):
 
-<code>    File "exceptionQuine.py", line 1
+<pre><code>    File "exceptionQuine.py", line 1
         File "exceptionQuine.py", line 1
         ^
-IndentationError: unexpected indent</code>
+IndentationError: unexpected indent</code></pre>
 
 Running the program, it trips up on the first line and produces the second two lines as error output. It's a high-class pun.
 
