@@ -37,3 +37,5 @@ The existence of such a fixed point follows from Kurt Gödel's famous [diagonal 
 $$
 p = \lambda y. Q(\ulcorner p \urcorner, y) 
 $$
+
+A quine is just the case where $Q(x, y) = x$.
