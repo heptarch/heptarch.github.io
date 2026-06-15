@@ -32,7 +32,7 @@ $$
 q = \text{eval}(\ulcorner q \urcorner).
 $$
 
-The existence of such a fixed point follows from Kurt Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), and $\text{eval}$ can be replaced by any partial recursive function. To be clear, the diagonal lemma is for predictates which are true or false, but it's easy to translate into the language of computable functions; this is called [Kleene's second recursion theorem](https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem#Kleene's_second_recursion_theorem), where instead of a predicate, we have that for any partial recursive $Q: \mathbb{N}\times\mathbb{N}\to \mathbb{N}$, there is partial recursive function $p$ such that
+The existence of such a fixed point follows from Kurt Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), and $\text{eval}$ can be replaced by any partial recursive function. Technically, the diagonal lemma is for predictates which are true or false, but it's easy to translate into the language of computable functions using [Kleene's second recursion theorem](https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem#Kleene's_second_recursion_theorem); instead of a predicate, we have that for any partial recursive $Q: \mathbb{N}\times\mathbb{N}\to \mathbb{N}$, there is partial recursive function $p$ such that
 
 $$
 p = \lambda y. Q(\ulcorner p \urcorner, y) 
