@@ -18,6 +18,7 @@ grey; line-height:1.5; border-radius: 15px">
 Invent a complexity measure for graphs. Prove some results about it and compute it for one or two examples.
 </div>
 
+As opposed to the standard style of question—implement Ford-Fulkerson on this graph, prove this result about chromatic number, and so on—it felt like I could take the gloves off. 
 
 ## Origins
  
