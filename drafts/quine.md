@@ -7,7 +7,7 @@ categories: []
 date:  2026-06-15
 ---
 
-**June 15, 2026.** *A panoply of self-reference: benign, malign, and .*
+**June 15, 2026.** *A panoply of self-reference: benign, malign, and divine.*
 
 ## Introduction
 
@@ -63,7 +63,7 @@ $$
 
 which asserts its *unprovability*. If $a$ is false, then the system can prove $a$, i.e. it is unsound. If $a$ is true, then there is a statement which is true but not provable, i.e. the system is incomplete. Gödel proved the diagonal lemma in order to reach this famous conclusion!
 
-*Exercises.* Solve the following using antiquines. (a) Show that the halting predicate $\text{halt}$ is incomplete, i.e. we cannot determine if an arbitrary program halts. (b) Extend this to show that any non-trivial (i.e. non-constant) semantic property is undecidable. (c) Instead of provability, apply the argument to the predicate $\text{true}(n)$ which evaluates the truth of the formula with a given Gödel number $n$.
+*Exercises.* Solve the following using antiquines. (a) Show that the halting predicate $\text{halt}$ is undecidable, i.e. we cannot determine if an arbitrary program halts. (b) Extend this to show that any non-trivial (i.e. non-constant) semantic property is undecidable. (c) Instead of provability, apply the argument to the predicate $\text{true}(n)$ which evaluates the truth of the formula with a given Gödel number $n$.
 
 ## Löb's surprise
 
@@ -76,24 +76,25 @@ $$
 If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness unsoundness. They haven't seen anything, honest! Such a formula seems useless, and in particular, it could be true or false. Remarkably, this is not the case: Martin Löb [proved in 1955](https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem) that the fixed point $q$ is always *true*. More generally, if you can prove that
 
 $$
-\text{prov}(\ulcorner q \urcorner) \to q
+\text{prov}(\ulcorner x \urcorner) \to x
 $$
 
-then you can prove $q$ itself. The argument goes roughly as follows:
-- Use the diagonal lemma to construct a sentence $L$ that says "If $L$ is provable, then $q$ follows".
+then you can prove $x$ itself. The argument goes roughly as follows:
+- Use the diagonal lemma to construct a sentence $L$ that says "If $L$ is provable, then $x$ follows".
 - If our formal system is sound and $L$ is provable, it is true.
-- In that case, since $L$ is provable, then $q$ follows.
-- But this demonstrates, by assumption, if $L$ is provable $q$ follows!
-- Thus $L$ is proven, and $q$ follows. We have proven $q$!
+- In that case, since $L$ is provable, then $x$ follows.
+- But this demonstrates, by assumption, if $L$ is provable $x$ follows!
+- Thus $L$ is proven, and $x$ follows. We have proven $x$!
 
-Going back to programs instead of proofs, what does this tell us? Löb becomes
+Going back to programs instead of proofs, what does this tell us? Loosely, we have
 
 $$
-\text{eval}(\ulcorner q \urcorner) = q \quad \text{implies}\quad \text{eval}(\ulcorner q \urcorner) \quad \text{exists},
+(\text{eval}(\ulcorner x \urcorner) \to x) \to x,
 $$
 
-or in words, a quine is a program that halts and outputs something. This is rather mundane in comparison to the logical quine!
+which suggests that, if evaluating a program leads outputs a new program, we can combine the whole into a new program. What I have just (waving my hands furiously) is the notion of *recursion*, and Löb's theorem tells us that recursion works.
 
 ## Safe recursion
 
+or in words, running a program to produce a value returns a value. 
 This is a hint that Löb's theorem has a role to play in ensuring self-reference or recursion *terminates*.
