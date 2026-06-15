@@ -34,4 +34,4 @@ $$
 q = \text{eval}(\ulcorner q \urcorner).
 $$
 
-In 1931, Kurt Gödel turned self-reference into a powerful mathematical tool with his famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma), stating that for any predicate $\varphi$ with a free argument $x$, and a quotation mechanism $\ulcorner \cdot \urcorner$ like  
+The existence of such a fixed point follows from Kurt Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma). To be clear, the diagonal lemma is for predictates which are true or false, but it's easy to translate into the language of computable functions; this is called [Kleen's second recursion theorem](https://en.wikipedia.org/wiki/Kleene%27s_recursion_theorem).
