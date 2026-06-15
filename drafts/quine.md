@@ -104,7 +104,7 @@ $$
 $$
 
 This is comparable to $\text{eval}(\ulcorner x \urcorner)$ since it bakes in the idea of a computational pass.
-Löb's theorem is then
+Löb's theorem, in this new language, is then
 
 $$
 (\triangleright x \to x) \to x,
