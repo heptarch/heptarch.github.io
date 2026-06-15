@@ -2,12 +2,12 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Quines, antiquines, and safe recursion"
+title:  "What is Löb's job?"
 categories: []
 date:  2026-06-15
 ---
 
-**June 15, 2026.** *A panoply of self-reference: benign, malign, and anti/quine.*
+**June 15, 2026.** *A panoply of self-reference, from quines to antiquines to safe recursion.*
 
 ## Introduction
 
@@ -115,3 +115,5 @@ which states that if I can turn a later value into a current value, I can produc
 This tells us that a special sort of self-referential process is possible called *guarded recursion*; this prevents runaway self-reference by enforcing that a unit of computation is performed per step, so the recursion is *productive*. So, far from a mere fact, Löb is a beautiful architectural way of ensuring the (productive) safety of self-referential definitions in programming languages like `Agda`, `Coq` and `Idris`.
 
 ## Conclusion
+
+So, we've covered, in a brief and hopefully entertaining way, some different notions of self-reference arising from fixed point constructions of 
