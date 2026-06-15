@@ -61,14 +61,16 @@ $$
 a \leftrightarrow \neg\text{prov}(\ulcorner a \urcorner),
 $$
 
-which asserts its *unprovability*. If $a$ is false, then the system can prove $a$, i.e. it is inconsistent. If $a$ is true, then there is a statement which is true but not provable, i.e. the system is incomplete. Gödel proved the diagonal lemma to reach this famous conclusion.
+which asserts its *unprovability*. If $a$ is false, then the system can prove $a$, i.e. it is inconsistent. If $a$ is true, then there is a statement which is true but not provable, i.e. the system is incomplete. Gödel proved the diagonal lemma in order to reach this famous conclusion!
 
 *Exercises.* Solve the following using antiquines. (a) Show that the halting predicate $\text{halt}$ is incomplete, i.e. we cannot determine if an arbitrary program halts. (b) Extend this to show that any non-trivial (i.e. non-constant) semantic property is undecidable. (c) Instead of provability, apply the argument to the predicate $\text{true}(n)$ which evaluates the truth of the formula with a given Gödel number $n$.
 
 ## Löb's axiom
 
-A *logical quine* is one which asserts its own provability: 
+A *logical quine* is equivalent to its own provability: 
 
 $$
 q \leftrightarrow \text{prov}(\ulcorner q \urcorner),
 $$
+
+If this is true, it is provable, so 
