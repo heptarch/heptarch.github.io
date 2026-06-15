@@ -18,4 +18,4 @@ $$
 _='_=%r;print(_%%_)';print(_%_)
 $$
 
-Formally, we represent
+This may sound familiar. In fact, it is Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
