@@ -97,4 +97,16 @@ Thus, if evaluating a program outputs a program, we can collapse the produced va
 
 ## Safe recursion
  
-We have been a little loose with our interpretation, and it is time to pay the piper. If we really want to think of programs in terms of logic, we need to invoke something called the [Curry-Howard isomorphism](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence), which asserts that proofs are programs and formulas are their types. We cannot evaluate a type, so the naive recursion I sketched above fails. We need to interpret eval in a subtly different way. We replace $\text{eval}(\ulcorner \cdot \urcorner)$ with the modality $\triangleright$
+We have been a little loose with our interpretation, and it is time to pay the piper. If we really want to think of programs in terms of logic, we need to invoke something called the [Curry-Howard isomorphism](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence), which asserts that proofs are programs and formulas are their types. We cannot evaluate a type, so the naive recursion I sketched above fails. We need to interpret eval in a subtly different way. We replace $\text{eval}(\ulcorner \cdot \urcorner)$ with the modality $\triangleright$, pronounced "later", with the interpretation that
+
+$$
+\triangleright x = \text{a value of type $x$ obtained after a unit of computation}.
+$$
+
+Löb's theorem is then
+
+$$
+(\triangleright x \to x) \to x,
+$$
+
+which states that if I can turn turn a later value into a current value, I can produce a value now. This is precisely 
