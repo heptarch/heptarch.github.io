@@ -38,4 +38,4 @@ $$
 p = \lambda y. Q(\ulcorner p \urcorner, y) 
 $$
 
-A quine is just the case where $Q(x, y) = x$.
+where the RHS is fancy notation for the function left over when we saturate the first argument. A quine is just the case where $Q(x, y) = x$.
