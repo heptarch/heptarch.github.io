@@ -19,4 +19,8 @@ They are [often quite elaborate](https://esolangs.org/wiki/List_of_quines), for 
         ^
 IndentationError: unexpected indent`
 
+Running the program, it trips up on the first line and produces the second two lines as error output.
+
+## Diagon Alley
+
 This may sound familiar. In fact, it is Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
