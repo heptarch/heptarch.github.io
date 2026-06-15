@@ -12,10 +12,11 @@ date:  2026-06-15
 ## Introduction
 
 A cool fact is that certain programs are self-replicating: run them, and they output themselves. Such programs are called *quines*, after the philosopher and logician Willard Van Orman Quine.
-An example in $\texttt{Python 3}$:
+They are [often quite elaborate](https://esolangs.org/wiki/List_of_quines), for instance, this very clever example in `Python 3` (to be saved as `exceptionQuine.py`):
 
-$$
-\_='\_=\%r;print(\_\%\%\_)';print(\_\%\_)
-$$
+`    File "exceptionQuine.py", line 1
+        File "exceptionQuine.py", line 1
+        ^
+IndentationError: unexpected indent`
 
 This may sound familiar. In fact, it is Gödel's famous [diagonal lemma](https://en.wikipedia.org/wiki/Diagonal_lemma) in another guise. The 
