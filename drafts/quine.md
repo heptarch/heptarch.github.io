@@ -73,4 +73,4 @@ $$
 q \leftrightarrow \text{prov}(\ulcorner q \urcorner).
 $$
 
-If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness inconsistency. They haven't seen anything, honest!
+If $q$ is true, it is provable, so it does not witness incompleteness; if it is provable, it is true, so it does not witness inconsistency. They haven't seen anything, honest! Such a formula seems useless, and in particular, it could be true or false. Remarkably, this is not the case: Martin Löb [proved in 1955](https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem) that the fixed point $q$ is always *true*.
