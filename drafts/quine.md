@@ -89,7 +89,9 @@ then you can prove $q$ itself, which implies that our fixed point must be provab
 Going back to programs instead of proofs, what does this tell us? We have
 
 $$
-(\text{eval}(\ulcorner q \urcorner) \to q) \to \text{eval}(\ulcorner q \urcorner) 
+(\text{eval}(\ulcorner q \urcorner) \to q) \to \text{eval}(\ulcorner q \urcorner),
 $$
+
+so a function that turns an evaluable $q$ into an $q$ gives an $q$.
 
 ## Safe recursion
