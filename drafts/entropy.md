@@ -29,19 +29,19 @@ $$
 $$
 
 guesses to correctly get the next letter of an English word on average. 
-We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. If $H(w)$ is the entropy, it ties into the number of random guesses needed as $2^{H(w)}$, and hence the time needed to break it
+We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. If $H(w)$ is the entropy, it ties into the number of random guesses needed as $2^{H(w)},$ and hence the time needed to break it
 
 $$
 T(w) = \frac{2^{H(w)}}{v}
 $$
 
-where $v$ is the guesses per second that can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, say $n$ letters or words.
-The simplest guess is that
+where $v$ is the guesses per second that can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, $\vert w\vert$ letters or words.
+The simplest guess at the unpredictability is
 
 $$
 H(w) \approx \frac{1}{f(w)} \log \left(\frac{1}{f(w)}\right),
 $$
 
-where $f(w)$ is the normalized frequency of the sequence in $|w|$-letter (or word) sequences.
-
+where $f(w)$ is the normalized frequency of the sequence in $\vert w\vert$-letter (or word) sequences.
 But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$. As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Probably not.
+This leads to an interesting question about
