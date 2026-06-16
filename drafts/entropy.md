@@ -58,7 +58,8 @@ $$
 
 is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert - 1$ spaces to put $\vert I\vert - 1$ subword dividers) over the total number of ways, $2^{\vert w\vert - 1}$. We use the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
 
-We call this the *minimum surprisal*, and compute it via dynamic programming. The basic insight is that as we process the string, we can iteratively check if there are better ways to process the first $j$ characters:<pre><code>
+We call this the *minimum surprisal*, and compute it via dynamic programming. The basic insight is that as we process the string, we can iteratively check if there are better ways to process the first $j$ characters:
+<pre><code>
 def min_surprisal(w):
     n = len(w)
     # best[k][j] = min summed chunk surprisal for parsing w[:j] into exactly k chunks
@@ -89,11 +90,13 @@ We haven't defined `surprisal` since we need access to frequencies first. We'll 
 
 ## Loose threads
 
-Two other questions. First, where do we get out frequencies? A nice place to look is [`wordfreq`](https://pypi.org/project/wordfreq/):<pre><code>
+Two other questions. First, where do we get out frequencies? A nice place to look is [`wordfreq`](https://pypi.org/project/wordfreq/):
+<pre><code>
 from wordfreq import word_frequency
 </code></pre>
 
-Now we can define the surprisal based on frequencies. If a chunk does not appear in the corpus, it is assignment a random baseline amount: <pre><code>
+Now we can define the surprisal based on frequencies. If a chunk does not appear in the corpus, it is assignment a random baseline amount: 
+<pre><code>
 from math import inf, log2, comb
 from wordfreq import word_frequency
 
