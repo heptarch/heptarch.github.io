@@ -97,5 +97,5 @@ random = math.log2(26)            # cost for anything unrecognised
 def surprisal(chunk):
     """-log2 f(chunk) from Brown unigrams; unknown chunks penalized as random."""
     count = words[chunk.lower()]
-    return -math.log2(count / TOTAL) if count else len(chunk) * random
+    return -math.log2(count / total) if count else len(chunk) * random
 </code></pre>
