@@ -24,5 +24,5 @@ $$
 T(w) = \frac{2^{H(w)}}{v}
 $$
 
-where $v$ is the guesses per second that can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, say $n$ letters of words.
-Th
+where $v$ is the guesses per second that can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, say $n$ letters or words.
+The simplest guess is that the overall frequency $f(w)$ of the sequence governs how predictable it is. But most sequences will never occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$.
