@@ -58,8 +58,8 @@ $$
 
 is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert - 1$ spaces to put $\vert I\vert - 1$ subword dividers) over the total number of ways, $2^{\vert w\vert - 1}$. We use the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
 
-We call this the *minimum cost parse*, and compute it via dynamic programming. The basic insight is that as we process the string, we can iteratively check if there are better ways to process the first $j$ characters:<pre><code>
-def min_cost_parse(w):
+We call this the *minimum surprisal*, and compute it via dynamic programming. The basic insight is that as we process the string, we can iteratively check if there are better ways to process the first $j$ characters:<pre><code>
+def min_surprisal(w):
     """Cheapest decomposition of w."""
     n = len(w)
     best = [0.0] + [math.inf] * n        # best[j] = min bits to parse w[:j]
@@ -80,22 +80,20 @@ We haven't defined `surprisal` since we need access to frequencies first. We'll 
 
 ## Loose threads
 
-Two other questions. First, where do we get out frequencies? A nice place to look is the natural language toolkit [`nltk`](https://www.nltk.org/). We download and use the `brown` corpus:<pre><code>
-import math, nltk
-nltk.download("brown", quiet=True)              # one-time corpus fetch
-from nltk.corpus import brown
-from nltk import FreqDist
+Two other questions. First, where do we get out frequencies? A nice place to look is [`wordfreq`](https://pypi.org/project/wordfreq/):<pre><code>
+import math
+from wordfreq import word_frequency
 </code></pre>
 
 Now we can define the surprisal based on frequencies. If a chunk does not appear in the corpus, it is assignment a random baseline amount: <pre><code>
-words = FreqDist(w.lower() for w in brown.words() if w.isalpha())
-total = words.N()
-random = math.log2(26)            # cost for anything unrecognised
+import math
+from wordfreq import word_frequency
+
+random = math.log2(26)
 
 def surprisal(chunk):
-    """-log2 f(chunk) from Brown unigrams; unknown chunks penalized as random."""
-    count = words[chunk.lower()]
-    return -math.log2(count / total) if count else len(chunk) * random
+    p = word_frequency(chunk.lower(), "en")
+    return -math.log2(p) if p else len(chunk) * random
 </code></pre>
 
-Let's run `min_cost_parse` on some
+Let's run `min_cost_parse` on some examples and see what the surprisal is:
