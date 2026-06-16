@@ -13,44 +13,38 @@ date:  2026-06-16
 
 I recently watched a cybersecurity training video where an ethical hacker had a mockup interface for determining how long it would take to crack a password. I thought this would be a fun thing to reproduce! The key point is that, realistically, we need a measure of how unpredictable a password (or passphrase) is, and this turns out to be a surprisingly subtle exercise.
 
-## Redundancy
+## Redundancy and surprisal
 
 The study of redundancy in the English language goes back to the classic 1948 paper of Claude Shannon, ["Prediction and Entropy of Printed English"](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
 Shannon was interested in the unpredictability or of an average English word, and proposed to approximate it using $N$-grams, or sequences of $N$ letters. The basic idea was that, if I hand you $N$ letters, the entropy or unpredictability of the next letter is the *$N$-gram entropy* $F_N$. In the infinite $N$ limit, we get the true entropy of English, $F_\infty$, which is the unpredictability of the next letter given an arbitrary amount of text. Shannon reports that
 
 $$
-H(\text{English}) = \lim_{N\to\infty} F_N \approx 2.62,
+H(\text{English}) = \lim_{N\to\infty} F_N \approx 0.6-1.3,
 $$
 
-ignoring spaces. This means it takes around
+ignoring spaces, so around $1$ bit per letter. 
+We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. This is called the surprisal, and it is defined by $S(w) = -\log_2 p(w)$ where $p$ is the probability of the word itself. The number of guesses needed to break it is
 
 $$
-2^{2.62} = 6
+T(w) = \frac{2^{S(w)}}{v} = \frac{1}{vp(w)}
 $$
 
-guesses to correctly get the next letter of an English word on average. 
-We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. If $H(w)$ is the entropy, it ties into the number of random guesses needed as $2^{H(w)},$ and hence the time needed to break it
-
-$$
-T(w) = \frac{2^{H(w)}}{v}
-$$
-
-where $v$ is the guesses per second that can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, $\vert w\vert$ letters or words.
+where $v$ is the rate at which guesses can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, $\vert w\vert$ letters or words.
 The simplest guess at the unpredictability is
 
 $$
-H(w) \approx p(w) \log_2 p(w),
+S(w) \approx -\log_2 f(w),
 $$
 
-where $p(w)$ is the normalized probability of the sequence among $\vert w\vert$-letter (or word) sequences.<label for="sn-1"
+where $f(w)$ is the normalized frequency of the sequence.<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-In other words, if there are $m$ recorded instances of $\vert w\vert$-letter sequences, and $m(w)$ instances of $w$, $p(w) = m(w)/m$.</span>
-But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq \vert w\vert$.
+In other words, if there are $m$ recorded instances of $\vert w\vert$-letter sequences, and $m(w)$ instances of $w$, $f(w) = m(w)/m$.</span>
+But most sequences will *never* occur in any corpus, so this is a poor measure. Instead, we have to think about the component $N$-grams for $N \leq \vert w\vert$.
 
 As an example, the sequence "quick brown fox" and "veni vidi vici" are common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Not if the attacker is guessing common six word sequences, but if they randomly combine trigrams, they have a chance.
 
@@ -59,7 +53,7 @@ As an example, the sequence "quick brown fox" and "veni vidi vici" are common wo
 What you want is a password which is hard however it gets chunked up. One big difference from Shannon's redundancy calculation is that we don't want to use $N$-gram entropy; an attacker doesn't usually know if the first $N$ characters or words are correct. It is frequency based on only. A simple guess is then
 
 $$
-H(w) = \min_{w_i \vert \sum_{i=1}^I w_i = w} p(w_i) \log_2 p(w_i) + H(I),
+H(w) = -\min_{w_i \vert \sum_{i=1}^I w_i = w} p(w_i) \log_2 p(w_i) + H(I),
 $$
 
 where we consider all partitions of $w$ into $I$ pieces $w_i$, $\sum$ in the condition indicate concatenation of substrings, and $H(I)$ is a term we'll define in a moment which adds entropy due to the partition into substrings. We define the minimum over these because the attacker the attacker can choose the partition and get access to the corresponding entropy. The cost is the entropy of the partition,
