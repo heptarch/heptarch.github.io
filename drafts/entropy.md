@@ -23,14 +23,8 @@ H(\text{English}) = \lim_{N\to\infty} F_N \approx 0.6-1.3,
 $$
 
 ignoring spaces, so around $1$ bit per letter. 
-We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. This is called the surprisal, and it is defined by $S(w) = -\log_2 p(w)$ where $p$ is the probability of the word itself. The number of guesses needed to break it is
-
-$$
-T(w) = \frac{2^{S(w)}}{v} = \frac{1}{vp(w)}
-$$
-
-where $v$ is the rate at which guesses can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, $\vert w\vert$ letters or words.
-The simplest guess at the unpredictability is
+We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. This is called the surprisal, and it is defined by $S(w) = -\log_2 p(w)$ where $p$ is the probability of the word itself. 
+The simplest guess at the unpredictability is then
 
 $$
 S(w) \approx -\log_2 f(w),
@@ -64,3 +58,34 @@ $$
 
 is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert - 1$ spaces to put $\vert I\vert - 1$ subword dividers) over the total number of ways, $2^{\vert w\vert - 1}$. We use the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
 
+We call this the *minimum cost parse*, and compute it via dynamic programming. The basic idea
+
+<pre><code>
+def min_cost_parse(w):
+    """Cheapest decomposition of w."""
+    n = len(w)
+    best = [0.0] + [math.inf] * n        # best[j] = min bits to parse w[:j]
+    back = [0] * (n + 1)
+    for j in range(1, n + 1):
+        for i in range(j):               # last chunk = w[i:j]
+            c = best[i] + surprisal(w[i:j])
+            if c < best[j]:
+                best[j], back[j] = c, i
+    chunks, j = [], n                    # reconstruct the winning parse
+    while j:
+        chunks.append(w[back[j]:j]); j = back[j]
+    return best[n], chunks[::-1]
+</pre></code>
+
+We haven't defined `surprisal` since we need access to frequencies first. 
+
+## Loose threads
+
+Two other questions. First, where do we get out frequencies? A nice place to look is the natural language toolkit [`nltk`](https://www.nltk.org/). We download and use the `brown` corpus:
+
+<pre><code>
+import math, nltk
+nltk.download("brown", quiet=True)              # one-time corpus fetch
+from nltk.corpus import brown
+from nltk import FreqDist
+</code></pre>
