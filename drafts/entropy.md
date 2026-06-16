@@ -75,7 +75,7 @@ def min_cost_parse(w):
     while j:
         chunks.append(w[back[j]:j]); j = back[j]
     return best[n], chunks[::-1]
-</pre></code>
+</code></pre>
 
 We haven't defined `surprisal` since we need access to frequencies first. We'll clean that up in the next section. 
 
