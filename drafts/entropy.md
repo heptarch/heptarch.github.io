@@ -73,7 +73,7 @@ def min_surprisal(w):
                     c = best[k-1][i] + surprisal(w[i:j])
                     if c < best[k][j]:
                         best[k][j], back[k][j] = c, i
-    total, K = inf, 1                              # add partition cost, pick best chunk count
+    total, K = inf, 1                              # add partition cost
     for k in range(1, n+1):
         if best[k][n] < inf:
             t = best[k][n] + log2(comb(n-1, k-1))
@@ -107,7 +107,11 @@ def surprisal(chunk):
     return -log2(p) if p else len(chunk) * random
 </code></pre>
 
-Let's run `min_cost_parse` on [some examples](https://xkcd.com/936/) and see what the surprisal is:
+
+
+## Conclusion
+
+Let's run `min_surprisal` on [some examples](https://xkcd.com/936/) and see what the surprisal is:
 - `"correct horse battery staple"` parses into words, and comes out at $18$ bits of min surprisal;
 - `"Tr0ub4dor&3"` parses into two somewhat random pieces with $46$ bits!
 
