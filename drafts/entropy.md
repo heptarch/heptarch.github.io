@@ -15,5 +15,5 @@ I recently watched a cybersecurity training video where an ethical hacker had a 
 
 ## Redundancy
 
-The 
+The study of redundancy in the English language goes back to the classic 1948 paper of Claude Shannon, ["Prediction and Entropy of Printed English"](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
  
