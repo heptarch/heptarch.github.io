@@ -110,7 +110,7 @@ def surprisal(chunk):
 Finally, if we want to compute time to break in years, we need some rate at which we can make guesses. On a modern, high-end laptop, processors can execute billions of binary operations per second 
 <pre><code>
 def guess_time_years(w):
-    2**min_surprisal(w)[0] / 10**9
+    return 2**min_surprisal(w)[0] / 10**9
 </code></pre>
 
 ## Conclusion
