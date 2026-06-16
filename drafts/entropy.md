@@ -108,7 +108,7 @@ def surprisal(chunk):
 </code></pre>
 
 Let's run `min_cost_parse` on [some examples](https://xkcd.com/936/) and see what the surprisal is:
-- `correct horse battery staple` parses into words, and comes out at $18$ bits of min surprisal;
-- `Tr0ub4dor&3` parses into two somewhat random pieces with $46$ bits!
+- `"correct horse battery staple"` parses into words, and comes out at $18$ bits of min surprisal;
+- `"Tr0ub4dor&3"` parses into two somewhat random pieces with $46$ bits!
 
 So the memorable passphrase is actually much weaker than the random-seeming password.
