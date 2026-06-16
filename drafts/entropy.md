@@ -62,7 +62,7 @@ $$
 S(I) = \log_2 p_I, \quad p_I = 2^{-|w|}\binom{|w| - 1}{I - 1}
 $$
 
-is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert$ spaces to put $|I| - 1$ dividers). We define the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
+is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert$ spaces to put $\vert I\vert - 1$ dividers). We define the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
 
 
 
