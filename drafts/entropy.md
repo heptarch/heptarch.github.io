@@ -58,7 +58,7 @@ $$
 
 is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert - 1$ spaces to put $\vert I\vert - 1$ subword dividers) over the total number of ways, $2^{\vert w\vert - 1}$. We use the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
 
-We call this the *minimum surprisal*, and compute it via dynamic programming. The basic insight is that as we process the string, we can iteratively check if there are better ways to process the first $j$ characters:
+We call this the *minimum surprisal*, and compute it via dynamic programming. The basic insight is that as we process the string, we can iteratively check if there are better ways to process the first `j` characters. We need a 2D table because we want to keep track of the number of chunks `k` as well:
 <pre><code>
 def min_surprisal(w):
     n = len(w)
