@@ -16,4 +16,4 @@ I recently watched a cybersecurity training video where an ethical hacker had a 
 ## Redundancy
 
 The study of redundancy in the English language goes back to the classic 1948 paper of Claude Shannon, ["Prediction and Entropy of Printed English"](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
- 
+The unpredictability or *entropy* of an average English word can be approximated as the unpredictability of the $N$th letter given $N - 1$ preceding letters, and in the limit $N \to \infty$ gives the 
