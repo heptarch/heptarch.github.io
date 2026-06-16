@@ -16,7 +16,7 @@ I recently watched a cybersecurity training video where an ethical hacker had a 
 ## Redundancy and surprisal
 
 The study of redundancy in the English language goes back to the classic 1948 paper of Claude Shannon, ["Prediction and Entropy of Printed English"](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
-Shannon was interested in the unpredictability or of an average English word, and proposed to approximate it using $N$-grams, or sequences of $N$ letters. The basic idea was that, if I hand you $N$ letters, the entropy or unpredictability of the next letter is the *$N$-gram entropy* $F_N$. In the infinite $N$ limit, we get the true entropy of English, $F_\infty$, which is the unpredictability of the next letter given an arbitrary amount of text. Shannon reports that
+Shannon was interested in the unpredictability of an average English word, and proposed to approximate it using $N$-grams, or sequences of $N$ letters. The basic idea was that, if I hand you $N$ letters, the entropy or unpredictability of the next letter is the *$N$-gram entropy* $F_N$. In the infinite $N$ limit, we get the true entropy of English, $F_\infty$, which is the unpredictability of the next letter given an arbitrary amount of text. Shannon reports that
 
 $$
 H(\text{English}) = \lim_{N\to\infty} F_N \approx 0.6-1.3,
@@ -50,14 +50,16 @@ As an example, the sequence "quick brown fox" and "veni vidi vici" are common wo
 
 ## A proposal
 
-What you want is a password which is hard however it gets chunked up. One big difference from Shannon's redundancy calculation is that we don't want to use $N$-gram entropy; an attacker doesn't usually know if the first $N$ characters or words are correct. It is frequency based on only. A simple guess is then
+What you want is a password which is hard however it gets chunked up. One big difference from Shannon's redundancy calculation is that we don't want to use $N$-gram entropy; an attacker doesn't usually know if the first $N$ characters or words are correct. It is frequency-based only. A simple guess is then
 
 $$
-H(w) = -\min_{w_i \vert \sum_{i=1}^I w_i = w} p(w_i) \log_2 p(w_i) + H(I),
+S(w) = -\min_{w_1 \cdots w_I = w}\left[ -\sum_{i=1}^I\log_2 f(w_i) + S(I)\right],
 $$
 
-where we consider all partitions of $w$ into $I$ pieces $w_i$, $\sum$ in the condition indicate concatenation of substrings, and $H(I)$ is a term we'll define in a moment which adds entropy due to the partition into substrings. We define the minimum over these because the attacker the attacker can choose the partition and get access to the corresponding entropy. The cost is the entropy of the partition,
+where we consider all partitions of $w$ into $I$ pieces $w_i$, and
 
 $$
-H(I) = p_I \log p_I, \quad p_I = 2^{-|w|}\binom{|w|}{I}.
+S(I) = \log_2\binom{|w| - 1}{I - 1}
 $$
+
+is the surprisal of the partition itself, since . We define the minimum over these because the attacker the attacker can choose the partition and get access to the corresponding entropy. The cost is the entropy of the partition,
