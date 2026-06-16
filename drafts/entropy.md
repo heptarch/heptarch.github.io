@@ -36,6 +36,12 @@ T(w) = \frac{2^{H(w)}}{v}
 $$
 
 where $v$ is the guesses per second that can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, say $n$ letters or words.
-The simplest guess is that the overall frequency $f(w)$ of the sequence governs how predictable it is. But most sequences will never occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$.
+The simplest guess is that
 
-As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Probably not.
+$$
+H(w) \approx \frac{1}{f(w)} \log \left(\frac{1}{f(w)}\right),
+$$
+
+where $f(w)$ is the normalized frequency of the sequence in $|w|$-letter (or word) sequences.
+
+But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$. As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Probably not.
