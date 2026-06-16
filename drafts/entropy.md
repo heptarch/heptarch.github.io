@@ -59,7 +59,7 @@ $$
 where we consider all partitions of $w$ into $I$ pieces $w_i$, and
 
 $$
-S(I) = \log_2\binom{|w| - 1}{I - 1}
+S(I) = \log_2 p_I, \quad p_I = 2^{-|w|}\binom{|w| - 1}{I - 1}
 $$
 
-is the surprisal of the partition itself, since . We define the minimum over these because the attacker can choose the partition and get access to the corresponding entropy. The cost is the entropy of the partition,
+is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($|w|$ spaces to put $|I| - 1$ dividers). We define the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
