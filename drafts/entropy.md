@@ -39,10 +39,17 @@ where $v$ is the guesses per second that can be made with a computer. We'll assu
 The simplest guess at the unpredictability is
 
 $$
-H(w) \approx \frac{1}{f(w)} \log \left(\frac{1}{f(w)}\right),
+H(w) \approx p(w) \log \left(\frac{1}{f(w)}\right),
 $$
 
-where $f(w)$ is the normalized frequency of the sequence in $\vert w\vert$-letter (or word) sequences.
+where $p(w)$ is the normalized probability of the sequence among $\vert w\vert$-letter (or word) sequences.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+In other words, if there are $m$ recorded instances of $\vert w\vert$-letter sequences, and $m(w)$ instances of $w$, $p(w) = m(w)/m$.</span>
 But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$. As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Well, if the attacker guesses in trigrams, not necessarily.
 
 ## A proposal
@@ -50,5 +57,5 @@ But most sequences will *never* occur in any corpus, so this is a terrible measu
 What you want is a password which is hard however it gets chunked up. The simplest guess is
 
 $$
-H(w) = \min_{w_i \vert \cup w_i = w}
+H(w) = \min_{w_i \vert \cup w_i = w} 
 $$
