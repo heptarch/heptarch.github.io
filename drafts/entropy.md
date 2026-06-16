@@ -107,16 +107,18 @@ def surprisal(chunk):
     return -log2(p) if p else len(chunk) * random
 </code></pre>
 
-Finally, if we want to compute time to break in years, we need some rate at which we can make guesses. On a modern, high-end laptop, processors can execute billions of binary operations per second 
+Finally, if we want to compute time to break in years, we need some rate at which we can make guesses. On a modern, high-end laptop, processors can execute billions of binary operations per second, which corresponds to roughly $10^8$ guesses per second (we'll ignore dependence on the length of the guessed strings): 
 <pre><code>
-def guess_time_years(w):
-    return 2**min_surprisal(w)[0] / 10**9
+def guess_time(w):
+    return 2**min_surprisal(w)[0] / 10**8
 </code></pre>
+
+So, I finally have the program I saw in my training video!
 
 ## Conclusion
 
 Let's run `min_surprisal` on [some examples](https://xkcd.com/936/) and see what the surprisal is:
-- `"correct horse battery staple"` parses into words, and comes out at $18$ bits of min surprisal;
-- `"Tr0ub4dor&3"` parses into two somewhat random pieces with $46$ bits!
+- `"correct horse battery staple"` parses into words, and comes out at $18$ bits of min surprisal, breakable in around $2$ milliseconds;
+- `"Tr0ub4dor&3"` parses into two somewhat random pieces with $46$ bits, or about a year of guesswork.
 
-So the memorable passphrase is actually much weaker than the random-seeming password.
+So the memorable passphrase is actually much weaker than the random-seeming password, precisely because it splits into simple pieces!
