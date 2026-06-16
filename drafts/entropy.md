@@ -39,7 +39,7 @@ where $v$ is the guesses per second that can be made with a computer. We'll assu
 The simplest guess at the unpredictability is
 
 $$
-H(w) \approx p(w) \log \left(\frac{1}{f(w)}\right),
+H(w) \approx p(w) \log_2 p(w),
 $$
 
 where $p(w)$ is the normalized probability of the sequence among $\vert w\vert$-letter (or word) sequences.<label for="sn-1"
@@ -57,5 +57,7 @@ But most sequences will *never* occur in any corpus, so this is a terrible measu
 What you want is a password which is hard however it gets chunked up. The simplest guess is
 
 $$
-H(w) = \min_{w_i \vert \cup w_i = w} 
+H(w) = \min_{w_i \vert \cup w_i = w} p(w_i) \log_2 p(w_i),
 $$
+
+where we consider all partitions of $w$ into pieces $w_i$. We define the minimum over these because if the attacker chooses 
