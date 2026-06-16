@@ -22,7 +22,13 @@ $$
 H(\text{English}) = \lim_{N\to\infty} F_N \approx 2.62,
 $$
 
-ignoring spaces.
+ignoring spaces. This means it takes around
+
+$$
+2^{2.62} = 6
+$$
+
+guesses to correctly get the next letter of an English word on average. 
 We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. If $H(w)$ is the entropy, it ties into the number of random guesses needed as $2^{H(w)}$, and hence the time needed to break it
 
 $$
