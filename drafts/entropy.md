@@ -16,8 +16,13 @@ I recently watched a cybersecurity training video where an ethical hacker had a 
 ## Redundancy
 
 The study of redundancy in the English language goes back to the classic 1948 paper of Claude Shannon, ["Prediction and Entropy of Printed English"](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
-Shannon was interested in the unpredictability or of an average English word, and proposed to approximate it using $N$-grams, or sequences of $N$ letters. The basic idea was that, if I hand you $N$ letters, the entropy or unpredictability of the next letter is the *$N$-gram entropy* $F_N$. In the infinite $N$ limit, we get the true entropy of English, $F_\infty$, which is the unpredictability of the next letter given an arbitrary amount of text. Shannon reports that $F_\infty \approx 2.62$, ignoring spaces.
+Shannon was interested in the unpredictability or of an average English word, and proposed to approximate it using $N$-grams, or sequences of $N$ letters. The basic idea was that, if I hand you $N$ letters, the entropy or unpredictability of the next letter is the *$N$-gram entropy* $F_N$. In the infinite $N$ limit, we get the true entropy of English, $F_\infty$, which is the unpredictability of the next letter given an arbitrary amount of text. Shannon reports that
 
+$$
+H(\text{English}) = \lim_{N\to\infty} F_N \approx 2.62,
+$$
+
+ignoring spaces.
 We are interested in the related quantity of the unpredictability of a *password*, when made of letters, or a *passphrase*, when made of words. If $H(w)$ is the entropy, it ties into the number of random guesses needed as $2^{H(w)}$, and hence the time needed to break it
 
 $$
