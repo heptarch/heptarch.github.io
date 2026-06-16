@@ -24,4 +24,5 @@ $$
 T(w) = \frac{2^{H(w)}}{v}
 $$
 
-where $v$ is the guesses per second that can be made with a computer. We'll discuss subtleties with $v$ below.
+where $v$ is the guesses per second that can be made with a computer. We'll assume for simplicity (though see discussion below) that the attacker knows the length of your password, say $n$ letters of words.
+Th
