@@ -62,4 +62,4 @@ $$
 S(I) = \log_2\binom{|w| - 1}{I - 1}
 $$
 
-is the surprisal of the partition itself, since . We define the minimum over these because the attacker the attacker can choose the partition and get access to the corresponding entropy. The cost is the entropy of the partition,
+is the surprisal of the partition itself, since . We define the minimum over these because the attacker can choose the partition and get access to the corresponding entropy. The cost is the entropy of the partition,
