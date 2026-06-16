@@ -7,7 +7,7 @@ categories: []
 date:  2026-06-16
 ---
 
-**June 16, 2026.** *Evaluating the difficulty of passwords proves trickier than expected.*
+**June 16, 2026.** *Evaluating the predictability of passwords proves trickier than expected.*
 
 ## Introduction
 
