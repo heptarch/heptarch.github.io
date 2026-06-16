@@ -43,5 +43,12 @@ H(w) \approx \frac{1}{f(w)} \log \left(\frac{1}{f(w)}\right),
 $$
 
 where $f(w)$ is the normalized frequency of the sequence in $\vert w\vert$-letter (or word) sequences.
-But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$. As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Probably not.
-This leads to an interesting question about
+But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$. As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Well, if the attacker guesses in trigrams, not necessarily.
+
+## A proposal
+
+What you want is a password which is hard however it gets chunked up. The simplest guess is
+
+$$
+H(w) = \min_{w_i \vert \cup w_i = w}
+$$
