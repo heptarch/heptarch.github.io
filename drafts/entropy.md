@@ -52,14 +52,18 @@ where $p(w)$ is the normalized probability of the sequence among $\vert w\vert$-
 In other words, if there are $m$ recorded instances of $\vert w\vert$-letter sequences, and $m(w)$ instances of $w$, $p(w) = m(w)/m$.</span>
 But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq \vert w\vert$.
 
-As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Not if the attacker is guessing common six word sequences, but if they randomly combine trigrams, they have a chance.
+As an example, the sequence "quick brown fox" and "veni vidi vici" are common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Not if the attacker is guessing common six word sequences, but if they randomly combine trigrams, they have a chance.
 
 ## A proposal
 
-What you want is a password which is hard however it gets chunked up. The simplest guess is
+What you want is a password which is hard however it gets chunked up. One big difference from Shannon's redundancy calculation is that we don't want to use $N$-gram entropy; an attacker doesn't usually know if the first $N$ characters or words are correct. It is frequency based on only. A simple guess is then
 
 $$
-H(w) = \min_{w_i \vert \cup w_i = w} p(w_i) \log_2 p(w_i),
+H(w) = \min_{w_i \vert \sum_{i=1}^I w_i = w} p(w_i) \log_2 p(w_i) + H(I),
 $$
 
-where we consider all partitions of $w$ into pieces $w_i$. We define the minimum over these because if the attacker chooses 
+where we consider all partitions of $w$ into $I$ pieces $w_i$, $\sum$ in the condition indicate concatenation of substrings, and $H(I)$ is a term we'll define in a moment which adds entropy due to the partition into substrings. We define the minimum over these because the attacker the attacker can choose the partition and get access to the corresponding entropy. The cost is the entropy of the partition,
+
+$$
+H(I) = p_I \log p_I, \quad p_I = 2^{-|w|}\binom{|w|}{I}.
+$$
