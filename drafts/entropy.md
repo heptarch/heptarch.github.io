@@ -90,7 +90,7 @@ from nltk.corpus import brown
 from nltk import FreqDist
 </code></pre>
 
-Now we can define the surprisal based on frequencies. Frequencies for 
+Now we can define the surprisal based on frequencies. If a chunk does not appear in the corpus, it is assignment a random baseline amount: 
 
 <pre><code>
 worse = FreqDist(w.lower() for w in brown.words() if w.isalpha())
