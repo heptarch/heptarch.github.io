@@ -50,7 +50,9 @@ where $p(w)$ is the normalized probability of the sequence among $\vert w\vert$-
        class="margin-toggle"/>
 	   <span class="sidenote">
 In other words, if there are $m$ recorded instances of $\vert w\vert$-letter sequences, and $m(w)$ instances of $w$, $p(w) = m(w)/m$.</span>
-But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq n$. As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Well, if the attacker guesses in trigrams, not necessarily.
+But most sequences will *never* occur in any corpus, so this is a terrible measure. Instead, we have to think about the component $N$-grams for $N \leq \vert w\vert$.
+
+As an example, the sequence "quick brown fox" and "veni vidi vici" are very common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Not if the attacker is guessing common six word sequences, but if they randomly combine trigrams, they have a chance.
 
 ## A proposal
 
