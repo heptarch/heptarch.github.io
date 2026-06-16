@@ -48,7 +48,7 @@ But most sequences will *never* occur in any corpus, so this is a poor measure. 
 
 As an example, the sequence "quick brown fox" and "veni vidi vici" are common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Not if the attacker is guessing common six word sequences, but if they randomly combine trigrams, they have a chance.
 
-## A proposal
+## A minimal proposal
 
 What you want is a password which is hard however it gets chunked up. One big difference from Shannon's redundancy calculation is that we don't want to use $N$-gram entropy; an attacker doesn't usually know if the first $N$ characters or words are correct. It is frequency-based only. A simple guess is then
 
@@ -59,11 +59,8 @@ $$
 where we consider all partitions of $w$ into $I$ pieces $w_i$, and
 
 $$
-S(I) = \log_2 p_I, \quad p_I = 2^{-|w|}\binom{|w| - 1}{I - 1}
+S(I) = \log_2 p_I, \quad p_I = 2^{1-|w|}\binom{|w| - 1}{I - 1}
 $$
 
-is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert$ spaces to put $\vert I\vert - 1$ dividers). We define the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
+is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert - 1$ spaces to put $\vert I\vert - 1$ subword dividers) over the total number of ways, $2^{\vert w\vert - 1}$. We use the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
 
-
-
-## Appendix: code
