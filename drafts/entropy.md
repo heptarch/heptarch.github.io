@@ -38,7 +38,7 @@ where $f(w)$ is the normalized frequency of the sequence.<label for="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
 In other words, if there are $m$ recorded instances of $\vert w\vert$-letter sequences, and $m(w)$ instances of $w$, $f(w) = m(w)/m$.</span>
-But most sequences will *never* occur in any corpus, so this is a poor measure. Instead, we have to think about the component $N$-grams for $N \leq \vert w\vert$.
+But most sequences will *never* occur in any corpus, so this is a poor measure. Instead, we have to think about the component $N$-grams for $N \leq \vert w\vert$, since these can be stitched together to give
 
 As an example, the sequence "quick brown fox" and "veni vidi vici" are common word trigrams, but "quick brown fox veni vidi vici" has probably never occurred before. Is this sequence impossible to crack? Not if the attacker is guessing common six word sequences, but if they randomly combine trigrams, they have a chance.
 
@@ -58,7 +58,7 @@ $$
 
 is the surprisal of the partition itself, with the binomial based on the number of ways of splitting up the string $w$ ($\vert w\vert - 1$ spaces to put $\vert I\vert - 1$ subword dividers) over the total number of ways, $2^{\vert w\vert - 1}$. We use the minimum over these because the attacker can choose the partition and get access to the corresponding chunking.
 
-We call this the *minimum cost parse*, and compute it via dynamic programming. The basic idea
+We call this the *minimum cost parse*, and compute it via dynamic programming. The basic idea is that we can greedily solve
 
 <pre><code>
 def min_cost_parse(w):
@@ -77,7 +77,7 @@ def min_cost_parse(w):
     return best[n], chunks[::-1]
 </pre></code>
 
-We haven't defined `surprisal` since we need access to frequencies first. 
+We haven't defined `surprisal` since we need access to frequencies first. We'll clean that up in the next section. 
 
 ## Loose threads
 
@@ -88,4 +88,17 @@ import math, nltk
 nltk.download("brown", quiet=True)              # one-time corpus fetch
 from nltk.corpus import brown
 from nltk import FreqDist
+</code></pre>
+
+Now we can define the surprisal based on frequencies. Frequencies for 
+
+<pre><code>
+worse = FreqDist(w.lower() for w in brown.words() if w.isalpha())
+total = words.N()
+random = math.log2(26)            # cost for anything unrecognised
+
+def surprisal(chunk):
+    """-log2 f(chunk) from Brown unigrams; unknown chunks penalized as random."""
+    count = words[chunk.lower()]
+    return -math.log2(count / TOTAL) if count else len(chunk) * random
 </code></pre>
