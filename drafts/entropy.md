@@ -16,4 +16,4 @@ I recently watched a cybersecurity training video where an ethical hacker had a 
 ## Redundancy
 
 The study of redundancy in the English language goes back to the classic 1948 paper of Claude Shannon, ["Prediction and Entropy of Printed English"](https://www.princeton.edu/~wbialek/rome/refs/shannon_51.pdf).
-The unpredictability or *entropy* of an average English word can be approximated as the unpredictability of the $N$th letter given $N - 1$ preceding letters, and in the limit $N \to \infty$ gives the 
+Shannon was interested in the unpredictability or of an average English word, and proposed to approximate it using $N$-grams, or sequences of $N$ letters. The basic idea was that, if I hand you $N$ letters, the entropy or unpredictability of the next letter is the *$N$-gram entropy* $F_N$. In the infinite $N$ limit, we get the true entropy of English, $F_\infty$, which is the unpredictability of the next letter given an arbitrary amount of text.
