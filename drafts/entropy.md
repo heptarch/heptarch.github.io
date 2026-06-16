@@ -11,7 +11,7 @@ date:  2026-06-16
 
 ## Introduction
 
-I recently watched a cybersecurity training video where an ethical hacker had a mockup interface for determining how long it would take to crack a password. I thought this would be a fun thing to reproduce! The key point is that, realistically, we need a measure of how unpredictable a password (or passphrase) is, and this turns out to be a surprisingly subtle exercise.
+I recently watched a cybersecurity training video where an ethical hacker had a mockup interface for determining how long it would take to crack a password. I thought this would be a fun thing to reproduce! While I was at it, I thought I would put the [legend of passphrase vs password](https://xkcd.com/936/) to the test.
 
 ## Redundancy and surprisal
 
@@ -60,20 +60,29 @@ is the surprisal of the partition itself, with the binomial based on the number 
 
 We call this the *minimum surprisal*, and compute it via dynamic programming. The basic insight is that as we process the string, we can iteratively check if there are better ways to process the first $j$ characters:<pre><code>
 def min_surprisal(w):
-    """Cheapest decomposition of w."""
     n = len(w)
-    best = [0.0] + [math.inf] * n        # best[j] = min bits to parse w[:j]
-    back = [0] * (n + 1)
-    for j in range(1, n + 1):
-        for i in range(j):               # last chunk = w[i:j]
-            c = best[i] + surprisal(w[i:j])
-            if c < best[j]:
-                best[j], back[j] = c, i
-    chunks, j = [], n                    # reconstruct the winning parse
-    while j:
-        chunks.append(w[back[j]:j])
-        j = back[j]
-    return best[n], chunks[::-1]
+    # best[k][j] = min summed chunk surprisal for parsing w[:j] into exactly k chunks
+    best = [[inf]*(n+1) for _ in range(n+1)]
+    back = [[0]*(n+1) for _ in range(n+1)]
+    best[0][0] = 0.0
+    for j in range(1, n+1):
+        for k in range(1, j+1):
+            for i in range(k-1, j):                # last chunk = w[i:j]
+                if best[k-1][i] < inf:
+                    c = best[k-1][i] + surprisal(w[i:j])
+                    if c < best[k][j]:
+                        best[k][j], back[k][j] = c, i
+    total, K = inf, 1                              # add partition cost, pick best chunk count
+    for k in range(1, n+1):
+        if best[k][n] < inf:
+            t = best[k][n] + log2(comb(n-1, k-1))
+            if t < total:
+                total, K = t, k
+    chunks, j, k = [], n, K                         # reconstruct the winner
+    while k:
+        i = back[k][j]
+        chunks.append(w[i:j]); j, k = i, k-1
+    return total, chunks[::-1]
 </code></pre>
 
 We haven't defined `surprisal` since we need access to frequencies first. We'll clean that up in the next section. 
@@ -81,19 +90,22 @@ We haven't defined `surprisal` since we need access to frequencies first. We'll 
 ## Loose threads
 
 Two other questions. First, where do we get out frequencies? A nice place to look is [`wordfreq`](https://pypi.org/project/wordfreq/):<pre><code>
-import math
 from wordfreq import word_frequency
 </code></pre>
 
 Now we can define the surprisal based on frequencies. If a chunk does not appear in the corpus, it is assignment a random baseline amount: <pre><code>
-import math
+from math import inf, log2, comb
 from wordfreq import word_frequency
 
-random = math.log2(26)
+random = log2(26)
 
 def surprisal(chunk):
     p = word_frequency(chunk.lower(), "en")
-    return -math.log2(p) if p else len(chunk) * random
+    return -log2(p) if p else len(chunk) * random
 </code></pre>
 
-Let's run `min_cost_parse` on some examples and see what the surprisal is:
+Let's run `min_cost_parse` on [some examples](https://xkcd.com/936/) and see what the surprisal is:
+- `correct horse battery staple` parses into words, and comes out at $18$ bits of min surprisal;
+- `Tr0ub4dor&3` parses into two somewhat random pieces with $46$ bits!
+
+So the memorable passphrase is actually much weaker than the random-seeming password.
