@@ -23,7 +23,7 @@ $$
 |\text{dead}\rangle = |0\rangle^{\otimes n}, \quad |\text{alive}\rangle = |1\rangle^{\otimes n},
 $$
 
-with $n \sim 10^{24}$ a mole of qubits we can use to faithfully simulate the cat.
+with $n \sim 10^{24}$ a mole of qubits we can use to faithfully simulate the cat. This tells us already that $|0\rangle$ and $|1\rangle$ are somehow *contagious*; the
 
 ## Origins
  
