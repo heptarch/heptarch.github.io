@@ -40,11 +40,12 @@ so you now participate in the macroscopic superposition as well. "Within" each o
 
 ## A thermodynamic puzzle
 
-Something about this seems to fly in the face of the second law of thermodynamics. If you recall, this states that entropy (ways of arranging things) increases, and there are many more ways to have random individual superpositions than highly ordered macroscopic superpositions.<label for="sn-1"
+Something about this seems to fly in the face of the second law of thermodynamics. If you recall, this states that entropy (ways of arranging things) increases, and there are many more ways to have random individual superpositions than highly ordered macroscopic superpositions. Does decoherence violate the second law?<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-An obvious objection is that I've written things down in terms of pure states, but the same argument goes through when you replace everything by density matrices.</span> Does decoherence violate the second law? No: the second law says that the *macroscopic* configurations increase in entropy, and random superpositions of
+If you're worried about the use of pue states, the same argument goes through when you replace everything by density matrices.</span> The cheap answer is that most random configurations are, in fact, a dead cat, but that misses the point. The dead cat is still classical.
+
