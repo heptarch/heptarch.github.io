@@ -40,4 +40,4 @@ so you now participate in the macroscopic superposition as well. "Within" each o
 
 ## A thermodynamic puzzle
 
-Something about this seems to fly in the face of the second law of thermodynamics. If you recall, this states that entropy increases, and there are many more ways to have random individual superpositions than 
+Something about this seems to fly in the face of the second law of thermodynamics. If you recall, this states that entropy increases, and there are many more ways to have random individual superpositions than highly ordered macroscopic superpositions.
