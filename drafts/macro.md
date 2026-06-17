@@ -23,7 +23,7 @@ $$
 |\text{dead}\rangle = |0\rangle^{\otimes n}, \quad|\text{alive}\rangle = |1\rangle^{\otimes n}.
 $$
 
-These are very special states, so it not really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*. These are formed using what is called *decoherence*. If the first qubit represents the radioactive isotopic, the decoherent interaction is
+These are very special states, so it not really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*. These are formed using what is called *decoherence*. If the first qubit represents the radioactive isotope, the decoherent interaction is
 
 $$
 (\alpha |0\rangle + \beta |1\rangle) |\text{cat}\rangle = \alpha |0\rangle|\text{cat}\rangle + \beta |1\rangle |\text{cat}\rangle \overset{\text{decoherence}}{\longmapsto} \alpha |0\rangle|0\rangle^{n-1}+\beta |1\rangle|1\rangle^{n-1} = |\phi\rangle.
