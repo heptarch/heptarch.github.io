@@ -23,7 +23,7 @@ $$
 |\text{dead}\rangle = |0\rangle^{\otimes n}, \quad|\text{alive}\rangle = |1\rangle^{\otimes n}.
 $$
 
-These are very special states, so it not really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*. These are formed using what is called *decoherence*. If the first qubit represents the radioactive isotope, the decoherent interaction is
+These are very special states, so it not really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*. These are formed using what is called *decoherence*. If the first qubit represents the radioactive isotope and the remaining $n-1$ the cat, the decoherent interaction is
 
 $$
 (\alpha |0\rangle + \beta |1\rangle) |\text{cat}\rangle = \alpha |0\rangle|\text{cat}\rangle + \beta |1\rangle |\text{cat}\rangle \overset{\text{decoherence}}{\longmapsto} \alpha |0\rangle|0\rangle^{n-1}+\beta |1\rangle|1\rangle^{n-1} = |\phi\rangle.
@@ -33,7 +33,7 @@ Thus, decoherence can viewed as a process in which a microscope superposition ov
 When you open the box, nothing special happens at all, in fact the process continues: if you are simulated by $m$ qubits, then
 
 $$
-(\alpha |0\rangle^\otimes + \beta |1\rangle^\otimes) |\text{observer}\rangle \overset{\text{decoherence}}{\longmapsto} \alpha |0\rangle^{n+m}+\beta |1\rangle^{n+m},
+(\alpha |0\rangle^{\otimes n} + \beta |1\rangle^{\otimes n}) |\text{observer}\rangle \overset{\text{decoherence}}{\longmapsto} \alpha |0\rangle^{n+m}+\beta |1\rangle^{n+m},
 $$
 
 so you now participate in the macroscopic superposition as well. "Within" each of these two halves of the superposition, you see a living or dead cat, but decoherence has continued in its merrily infectious way.
@@ -47,4 +47,4 @@ Something about this seems to fly in the face of the second law of thermodynamic
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-An obvious objection is that I've written things down in terms of pure states, but the same argument goes through when you replace everything by density matrices.</span> Does decoherence violate the second law? 
+An obvious objection is that I've written things down in terms of pure states, but the same argument goes through when you replace everything by density matrices.</span> Does decoherence violate the second law? It does not
