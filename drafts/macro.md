@@ -17,11 +17,13 @@ $$
 |\text{dead}\rangle = |0\rangle^{\otimes n},\quad |\text{alive}\rangle = |1\rangle^{\otimes n}.
 $$
 
-Before you open the box, you have a state of the form
+Before you open the box, you have a superposition of the form
 
 $$
-|\phi\rangle = \frac{1}{\sqrt{2}}(|\text{dead}\rangle + e^{i\phi}|\text{alive}\rangle)
+|\phi\rangle = \alpha |\text{dead}\rangle + \beta|\text{alive},
 $$
+
+where $\alpha$ and $\beta$ depend on the half-life of the isotope and the elapsed time. After
 
 ## Origins
  
