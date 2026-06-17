@@ -23,7 +23,7 @@ $$
 |\text{dead}\rangle = |0\rangle^{\otimes n}, \quad|\text{alive}\rangle = |1\rangle^{\otimes n}.
 $$
 
-These are very special states, so it really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*.
+These are very special states, so it not really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*.
 
 ## Origins
  
