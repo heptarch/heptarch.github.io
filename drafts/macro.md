@@ -29,5 +29,15 @@ $$
 (\alpha |0\rangle + \beta |1\rangle) |\text{cat}\rangle = \alpha |0\rangle|\text{cat}\rangle + \beta |1\rangle |\text{cat}\rangle \overset{\text{decoherence}}{\longmapsto} \alpha |0\rangle|0\rangle^{n-1}+\beta |1\rangle|1\rangle^{n-1} = |\phi\rangle.
 $$
 
-## Origins
- 
+Thus, decoherence can viewed as a process in which a microscope superposition over some privileged basis propagates into a macroscopic superposition.
+When you open the box, nothing special happens at all, in fact the process continues: if you are simulated by $m$ qubits, then
+
+$$
+(\alpha |0\rangle^\otimes + \beta |1\rangle^\otimes) |\text{observer}\rangle \overset{\text{decoherence}}{\longmapsto} \alpha |0\rangle^{n+m}+\beta |1\rangle^{n+m},
+$$
+
+so you now participate in the macroscopic superposition as well. "Within" each of these two halves of the superposition, you see a living or dead cat, but decoherence has continued in its merrily infectious way.
+
+## A thermodynamic puzzle
+
+Something about this seems to fly in the face of the second law of thermodynamics. If you recall, this states that entropy increases, and there are many more ways to have random individual superpositions than 
