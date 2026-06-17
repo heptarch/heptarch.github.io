@@ -47,4 +47,4 @@ Something about this seems to fly in the face of the second law of thermodynamic
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-An obvious objection is that I've written things down in terms of pure states, but the same argument goes through when you replace everything by density matrices.</span> Does decoherence violate the second law? It does not
+An obvious objection is that I've written things down in terms of pure states, but the same argument goes through when you replace everything by density matrices.</span> Does decoherence violate the second law? No: the second law says that the *macroscopic* configurations increase in entropy, and random superpositions of
