@@ -40,4 +40,11 @@ so you now participate in the macroscopic superposition as well. "Within" each o
 
 ## A thermodynamic puzzle
 
-Something about this seems to fly in the face of the second law of thermodynamics. If you recall, this states that entropy increases, and there are many more ways to have random individual superpositions than highly ordered macroscopic superpositions.
+Something about this seems to fly in the face of the second law of thermodynamics. If you recall, this states that entropy increases, and there are many more ways to have random individual superpositions than highly ordered macroscopic superpositions.<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+	   <span class="sidenote">
+An obvious objection is that I've written things down in terms of pure states whereas the dead and living cat are likely to be mixed states; I'm not sure this is true, and besides, the same argument goes through when you replace everything by density matrices.</span> 
