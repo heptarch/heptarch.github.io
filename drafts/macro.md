@@ -14,7 +14,7 @@ date:  2026-06-17
 Schrödinger's cat is trapped in a box with a radioactive isotope and a decay-triggered vial of poison. When the box is closed, the cat is both alive and dead. When you open the box, the cat is dead, or alive, but not both. It's interesting to understand what changed! Inside the box, the state of the cat is usually written
 
 $$
-\alpha |\text{dead}\rangle + \beta |\text{alive}\rangle,
+|\phi\rangle = \alpha |\text{dead}\rangle + \beta |\text{alive}\rangle,
 $$
 
 where $\alpha$ and $\beta$ are coefficients that depend on the isotope and the elapsed time. Labelling the states associated with "dead" as 0 and "alive as 1, this means that when the cat is dead the state of the isotope is $\vert 0\rangle$, the state of the poison is $\vert 0\rangle$, and each atom in the cat is in some state $\vert 0\rangle$. The same goes for alive, and hence:
@@ -23,7 +23,11 @@ $$
 |\text{dead}\rangle = |0\rangle^{\otimes n}, \quad|\text{alive}\rangle = |1\rangle^{\otimes n}.
 $$
 
-These are very special states, so it not really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*.
+These are very special states, so it not really the case that the cat in the unopened box is quantum; it is already largely classical! It is in what is called a *macroscopic superposition*. These are formed using what is called *decoherence*. If the first qubit represents the radioactive isotopic, the decoherent interaction is
+
+$$
+(\alpha |0\rangle + \beta |1\rangle) |\text{cat}\rangle = \alpha |0\rangle|\text{cat}\rangle + \beta |1\rangle |\text{cat}\rangle \overset{\text{decoherence}}{\longmapsto} \alpha |0\rangle|0\rangle^{n-1}+\beta |1\rangle|1\rangle^{n-1} = |\phi\rangle.
+$$
 
 ## Origins
  
