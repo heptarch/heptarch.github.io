@@ -47,5 +47,4 @@ Something about this seems to fly in the face of the second law of thermodynamic
        id="sn-1"
        class="margin-toggle"/>
 	   <span class="sidenote">
-If you're worried about the use of pue states, the same argument goes through when you replace everything by density matrices.</span> The cheap answer is that most random configurations are, in fact, a dead cat, but that misses the point: the dead cat is still classical.
-
+The cheap answer is that most random configurations are, in fact, a dead cat, but that misses the point: the dead cat is still classical.</span> The answer is no: if we focus on cat, it is either alive (entropy unchanged) or dead (entropy dramatically increased). The second didn't say the largest increase of entropy had to happen!
