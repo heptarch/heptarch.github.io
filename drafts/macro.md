@@ -17,13 +17,11 @@ $$
 \alpha |\text{dead}\rangle + \beta |\text{alive}\rangle,
 $$
 
-where $\alpha$ and $\beta$ are coefficients that depend on the isotope and the elapsed time. That already means something interesting: the *parts* of the cat are not in superposition. In other words, if $|0\rangle$ represents the state of atoms in the cat when it is dead, and $|1\rangle$ when it is alive, then
+where $\alpha$ and $\beta$ are coefficients that depend on the isotope and the elapsed time. Labelling the states associated with "dead" as 0 and "alive as 1, this means that when the cat is dead the state of the isotope is $\vert 0\rangle$, the state of the poison is $\vert 0\rangle$, and each atom in the cat is in some state $\vert 0\rangle$. The same goes for alive, and hence:
 
 $$
-|\text{dead}\rangle = |0\rangle^{\otimes n}, \quad |\text{alive}\rangle = |1\rangle^{\otimes n},
+|\text{dead}\rangle = |0\rangle^{\otimes n}, \quad|\text{alive}\rangle = |1\rangle^{\otimes n}.
 $$
-
-with $n \sim 10^{24}$ a mole of qubits we can use to faithfully simulate the cat. This tells us already that $|0\rangle$ and $|1\rangle$ are somehow *contagious*; the
 
 ## Origins
  
