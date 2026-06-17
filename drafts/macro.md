@@ -48,3 +48,5 @@ Something about this seems to fly in the face of the second law of thermodynamic
        class="margin-toggle"/>
 	   <span class="sidenote">
 The cheap answer is that most random configurations are, in fact, a dead cat, but that misses the point: the dead cat is still classical.</span> The answer is no: if we focus on cat, it is either alive (entropy unchanged) or dead (entropy dramatically increased). The second law doesn't say the largest possible increase of entropy had to happen!
+
+We could leave it at that—decoherence and the second law are compatible—but the relation runs far deeper.
