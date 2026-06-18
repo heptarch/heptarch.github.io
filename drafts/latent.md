@@ -81,9 +81,19 @@ When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of t
 
 <figure>
     <div style="text-align:center"><img src
+    ="/img/latent/klee.png" width="400" style="margin: 20 px;"/>
+	<figcaption> <br><i>\<description of an image of paul klee\> --p --v 7.0 --s 1000</i> </figcaption>
+	</div>
+	</figure>
+
+What is interesting is the ability to project some of our latent space into the machine, a sort of "uploading" to use the framework of science fiction.
+This is how personalization happens in `Midjourney`: the user makes a sequence of binary rating decisions that are overwhelmingly likely to be unique. This not only leads to a unique style based on aesthetic preferences, but what is more uncanny, *content in images* which is unique to the individual. I don't know how I feel about this, but I've chosen to mine it for latent information about myself, akin to dreams or the technique of active imagination propounded by Jung.
+
+<figure>
+    <div style="text-align:center"><img src
     ="/img/latent/dream.png" width="400" style="margin: 20 px;"/>
 	<figcaption> <br><i>a dream --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
 
-What is interesting is the ability to project some of our latent space into the machine, a sort of "uploading" to use the framework of science fiction. This is how personalization happens in `Midjourney`: the user makes a sequence of binary rating decisions that are overwhelmingly likely to be unique. This not only leads to a unique style based on aesthetic preferences, but what is more uncanny, *content in images* which is unique to the individual. I don't know how I feel about this, but I've chosen to mine it for latent information about myself, akin to dreams or the technique of active imagination propounded by Jung. For instance, if I repeatedly prompt "dream", clouds and sometimes sky-cities recur constantly.
+For instance, if I repeatedly prompt "dream", clouds and sometimes sky-cities recur constantly.
