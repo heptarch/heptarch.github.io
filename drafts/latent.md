@@ -19,7 +19,7 @@ Buying a Nikon doesn’t make you a photographer. It makes you a Nikon owner.<br
 </div>
 </div>
 
-Photography and AI art are similar in many ways. Both confer mechanized access to finished visual results, enjoy a troubled relationship between form and content, and have engendered resistance and moral panic in the domain of fine art. In this analogy, the prompt bro is the new photographer, the subject of internet polemics and *soi-disant* artistic scorn. Is the resistance due to fade, as it did (eventually) for photography? Or does a distrust of the artificial run deeper than the merely instrumental concerns of those early critics of the photograph?
+Photography and AI art are similar in many ways. Both confer mechanized access to finished visual results, enjoy a troubled relationship between form and content, and have engendered resistance and moral panic in the domain of fine art. In this analogy, the prompt bro is the new photographer, the subject of internet polemics and *soi-disant* artistic scorn. Is the resistance due to fade, as it did (eventually) for photography? Or does a distrust of the artificial cut deeper than the merely instrumental concerns of those early critics of the photograph?
 
 <figure>
     <div style="text-align:center"><img src
@@ -27,3 +27,7 @@ Photography and AI art are similar in many ways. Both confer mechanized access t
 	<figcaption> <br><i>Emblem 26.</i> The path woven from gaps. </figcaption>
 	</div>
 	</figure>
+
+I'm not sure, but I would argue that the parallels are more profound than they first appear. 
+
+## World
