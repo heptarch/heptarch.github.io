@@ -82,7 +82,7 @@ When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of t
 <figure>
     <div style="text-align:center"><img src
     ="/img/latent/klee.png" width="400" style="margin: 20 px;"/>
-	<figcaption> <br><i>"description of an image of paul klee" --p --v 7.0 --s 1000</i> </figcaption>
+	<figcaption> <br><i>«description of an image of paul klee» --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
 
@@ -96,6 +96,6 @@ At any rate, personalization in `Midjourney` works as follows: the user makes a 
 	</div>
 	</figure>
 
-For instance, if I repeatedly prompt "dream", sky-cities wrapped in clouds recur constantly; it doesn't require a psychoanalyst to see that I like to ideate lofty, ambitious structures, so this is in character. But the point is that personalization is not only a means of expression—of inflecting prompts with taste—but of *self-insight*. This is an unexpected echo of the fact that art can tell us a lot about a person.
+For instance, if I repeatedly prompt "dream", sky-cities wrapped in clouds recur as a motif; it doesn't require a psychoanalyst to see that I like to ideate lofty, ambitious structures, so this is in character. But the point is that personalization is not only a means of expression—of inflecting prompts with taste—but of *self-insight*. This is an unexpected echo of the trusim that art tells us a lot about a person.
 
 ## Conclusion
