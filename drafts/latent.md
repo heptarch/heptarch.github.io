@@ -32,4 +32,4 @@ I'm not sure. But I would argue that the parallels are more profound than they f
 
 ## Worlds apart
 
-Photography captures the physical world, the people, streets, mountains, and objects that populate it.
+Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your Nikon at a face; all a landscape requires is a sunset or a meadow. But as our epigraph warns, a camera does not a photographer make. Art lies in the *choice of perspective*, not to mention the technical 
