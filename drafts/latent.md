@@ -77,4 +77,4 @@ This is a snippet of a dream I had twenty years ago. The combination of taste (f
 ## Other latencies
 
 I finish by commenting on the *interaction* between two latent worlds: the one in the model and the one in our heads. For this, of course, is the latent space mined by traditional art, the weights and mechanisms of our neural apparatus rather than a generative model's.
-When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of their own latent space. It is not really any different from a photograph or a prompt, apart from the feedback loop with the medium that traditional methods foreground.
+When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of their own latent space, which is not so from a photograph or a prompt except for the feedback loop between piece and medium that traditional methods like to emphasize.
