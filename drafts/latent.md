@@ -41,7 +41,7 @@ Photography captures the physical world, the people, streets, mountains, and obj
 	</div>
 	</figure>
 
-This leads us to the question of AI art. Like the Nikon, access to generative tools does not an artist make. And although one could argue that full mastery of the generative workflow has an artistic rigour to it—and perhaps, if you build the models yourself, it does—for the most part, prompting is the equivalent of point-and-click. You say what you want, with no parameters, and the model serves it.
+This leads us to the question of AI art. Like the Nikon, access to generative tools does not an artist make. And although one could argue that full mastery of the generative workflow has an artistic rigour to it—and perhaps, if you build the models yourself, it does—for the most part, prompting is the equivalent of the point-and-click or the smartphone camera. You say what you want and the model serves it.
 
 <figure>
     <div style="text-align:center"><img src
