@@ -75,3 +75,5 @@ There is no obvious content here, no point of view, just a way of viewing. Conte
 This is a snippet of a dream I had twenty years ago. The combination of taste (form) and choice (perspective) leads to something which is uniquely and distinctively mine. The layered stairs and serried doorways, the implicit ascent, the gloaming in the distance, all contribute to a real sense of atmosphere and visual impact that I think constitutes art. Of course I am biased! But hopefully even if you find this picture cliche, you see how these ingredients might come together to form something with genuine artistic merit: a point of view, well-conveyed, eminently unique to the individual.
 
 ## Other latencies
+
+I finish by commenting on the *interaction* between two latent worlds: the one in the model and the one in our heads. For this, of course, is the latent space mined by traditional art, the weights and mechanisms of our neural appartus rather than a generative model's.
