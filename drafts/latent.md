@@ -76,4 +76,4 @@ This is a snippet of a dream I had twenty years ago. The combination of taste (f
 
 ## Other latencies
 
-I finish by commenting on the *interaction* between two latent worlds: the one in the model and the one in our heads. For this, of course, is the latent space mined by traditional art, the weights and mechanisms of our neural appartus rather than a generative model's.
+I finish by commenting on the *interaction* between two latent worlds: the one in the model and the one in our heads. For this, of course, is the latent space mined by traditional art, the weights and mechanisms of our neural apparatus rather than a generative model's.
