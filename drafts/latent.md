@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "Voyage into latent space"
+title:  "Perspectives on Latent Space"
 categories: []
 date:  2026-06-18
 ---
@@ -28,6 +28,6 @@ Photography and AI art are similar in many ways. Both confer mechanized access t
 	</div>
 	</figure>
 
-I'm not sure, but I would argue that the parallels are more profound than they first appear. 
+I'm not sure, but I would argue that the parallels are more profound than they first appear. Both represent perspectives on a world; for photography, this is the physical world, but AI art in
 
 ## World
