@@ -19,7 +19,7 @@ Buying a Nikon doesn’t make you a photographer. It makes you a Nikon owner.<br
 </div>
 </div>
 
-Photography and AI art are similar in many ways. Both confer mechanized access to finished visual results, enjoy a troubled relationship between form and content, and have engendered resistance and moral panic in the domain of fine art. In this analogy, the prompt bro is the new photographer, the subject of internet polemics and *soi-disant* artistic scorn. Is that resistance due to fade, as it did for photography?
+Photography and AI art are similar in many ways. Both confer mechanized access to finished visual results, enjoy a troubled relationship between form and content, and have engendered resistance and moral panic in the domain of fine art. In this analogy, the prompt bro is the new photographer, the subject of internet polemics and *soi-disant* artistic scorn. Is the resistance due to fade, as it did (eventually) for photography?
 
 <figure>
     <div style="text-align:center"><img src
