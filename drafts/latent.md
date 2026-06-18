@@ -50,7 +50,7 @@ This leads us to the question of AI art. Like the Nikon, access to generative to
 	</div>
 	</figure>
 
-The more interesting question is the perspectival one. Your prompt grants access to an objective world: the one contained within the model, realized by weights and forward protocols rather than physical objects. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. And indeed, usually one does; the accessibility of these tools has produced a flood of material which, considered as art, is desperately mediocre. Can perspective redeem generative art the way it does photography?
+Thus, we turn to the subject, or rather, object of the prompts. The AI interface is a doorway to an objective world: the one contained within the model, and realized by its weights and forward protocols rather than any physical objects. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. And in fact one usually one does: the accessibility of these tools has produced a flood of material which, considered as art, is desperately mediocre. Can perspective redeem generative art the way it does photography?
 
 ## A personal view
 
