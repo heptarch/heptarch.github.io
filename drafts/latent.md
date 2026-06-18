@@ -50,6 +50,6 @@ This leads us to the question of AI art. Like the Nikon, access to generative to
 	</div>
 	</figure>
 
-The more interesting question is the perspectival one. Your prompt grants access to an objective world, albeit one contained within the model, realized by its weights and forward protocols. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. Statistically, the accessibility of these tools and integration into social media has produced a flood of material which, considered as art, is clearly mediocre.
+The more interesting question is the perspectival one. Your prompt grants access to an objective world, albeit one contained within the model, realized by its weights and forward protocols. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. And indeed, usually one does; the accessibility of these tools has produced a flood of material which, considered as art, is desparately mediocre.
 
 ## Personalization
