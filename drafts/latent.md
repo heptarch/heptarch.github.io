@@ -63,4 +63,4 @@ Perspective is a matter of choice and taste. The examples above illustrate taste
 	</div>
 	</figure>
 
-There is obviously no content here; no point of view, just a way of viewing.
+There is no obvious content here, no point of view, just a way of viewing.
