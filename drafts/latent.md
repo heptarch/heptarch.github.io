@@ -85,3 +85,5 @@ When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of t
 	<figcaption> <br><i>a face --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
+
+What is interesting is the ability to project some of our latent space into the machine, a sort of "uploading" to use the framework of science fiction. This is how personalization happens in `Midjourney`: the user makes a sequence of binary rating decisions that are overwhelmingly likely to be unique. This not only leads to a unique style based on aesthetic preferences, but what is more uncanny, *content in images* which is unique to the individual. I don't know how I feel about this, but I've chosen to mine it for latent information about myself, akin to dreams or the technique of active imagination propounded by Jung. 
