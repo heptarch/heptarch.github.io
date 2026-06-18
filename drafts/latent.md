@@ -23,11 +23,11 @@ Photography and AI art are similar in many ways. Both confer mechanized access t
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/latent/plait.png" width="400" style="margin: 20 px;"/>
-	<figcaption> <br><i>Emblem 26.</i> The path woven from gaps. </figcaption>
+    ="/img/latent/photograph.png" width="400" style="margin: 20 px;"/>
+	<figcaption> <br>the act of photographing --p --v 7.0 --s 1000 </figcaption>
 	</div>
 	</figure>
 
 I'm not sure. But I would argue that the parallels are more profound than they first appear, since both represent a chosen perspective on an objective world, with the curious mixture of choice, art, and capture that entails. For photography, that world is physical; for AI, that world is the latent one inside a model, but is no less real for that. Below, I elaborate on what this means.
 
-## World
+## Worlds apart
