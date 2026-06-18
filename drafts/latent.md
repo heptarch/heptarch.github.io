@@ -28,6 +28,6 @@ Photography and AI art are similar in many ways. Both confer mechanized access t
 	</div>
 	</figure>
 
-I'm not sure, but I would argue that the parallels are more profound than they first appear. Both represent perspectives on a world; for photography, this is the physical world, but AI art in
+I'm not sure. But I would argue that the parallels are more profound than they first appear, since both represent a chosen perspective on an objective world, with the curious mixture of choice, art, and capture that entails. For photography, that world is physical; for AI, that world is the latent one inside a model, but is no less real for that.
 
 ## World
