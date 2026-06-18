@@ -58,7 +58,9 @@ Perspective is a matter of choice and taste. The examples above illustrate taste
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/latent/doorway.png" width="400" style="margin: 20 px;"/>
+    ="/img/latent/face.png" width="400" style="margin: 20 px;"/>
 	<figcaption> <br><i>a face --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
+
+There is obviously no content here; no point of view, just a way of viewing.
