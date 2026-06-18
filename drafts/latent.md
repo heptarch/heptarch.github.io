@@ -41,4 +41,4 @@ Photography captures the physical world, the people, streets, mountains, and obj
 	</div>
 	</figure>
 
-This leads us into the question of AI art. In this case, there is an objective world being captured, but it is realized by the weights and forward runs of a generative model.
+This leads us into the question of AI art. In this case, there is an objective world being captured, but it is realized by the weights and forward runs of a generative model. Like the Nikon, access to generative tools does not an artist make. And although one could argue by analogy that full mastery of the generative workflow has an artistic rigour to it—and perhaps, in some cases it does—but for the most part, prompting is the equivalent of point-and-click. You say what you want, with no parameters, and the model produces it.
