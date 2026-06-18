@@ -40,3 +40,5 @@ Photography captures the physical world, the people, streets, mountains, and obj
 	<figcaption> <br><i>a point of view well-communicated --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
+
+This leads us into the question of AI art. In this case, there is an objective world being captured, but it is realized by the weights and forward runs of a generative model.
