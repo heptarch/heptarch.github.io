@@ -96,6 +96,6 @@ At any rate, personalization in `Midjourney` works as follows: the user makes a 
 	</div>
 	</figure>
 
-For instance, if I repeatedly prompt "dream", clouds (often concealing cities) recur constantly; as someone who likes to ideate lofty structures, this is totally in character. But the point is that personalization is not only a means of expression—of inflecting prompts with taste—but of *self-insight*. This is an unexpected echo of the fact that art can tell us a lot about a person.
+For instance, if I repeatedly prompt "dream", sky-cities wrapped in clouds recur constantly; it doesn't require a psychoanalyst to see that I like to ideate lofty, ambitious structures, so this is in character. But the point is that personalization is not only a means of expression—of inflecting prompts with taste—but of *self-insight*. This is an unexpected echo of the fact that art can tell us a lot about a person.
 
 ## Conclusion
