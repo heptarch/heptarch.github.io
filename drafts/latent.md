@@ -54,7 +54,7 @@ Thus, we turn to the subject, or rather, object of the prompts. The AI interface
 
 ## A personal view
 
-Perspective is a matter of choice and taste. The examples above illustrate taste: the content is simple, but the style is highly personalized, trained on thousands of binary ratings, two orders of magnitude more than needed to distinguish me from any other person on earth. As `Midjourney` likes to advertise, I can ask for a "face" and it will give me my own bespoke variant:
+Perspective is a matter of choice and taste. The examples above illustrate taste: the content is simple, but the style is highly personalized, trained on thousands of binary ratings I made, a full two orders of magnitude more than needed to distinguish me from any other person on earth. As `Midjourney` likes to advertise, I can ask for a "face" and it will give me my own bespoke variant:
 
 <figure>
     <div style="text-align:center"><img src
@@ -63,4 +63,13 @@ Perspective is a matter of choice and taste. The examples above illustrate taste
 	</div>
 	</figure>
 
-There is no obvious content here, no point of view, just a way of viewing. Choice enters when I tell the machine to attend to some interesting facet of latent space,
+There is no obvious content here, no point of view, just a way of viewing. Content enters when I instruct the machine to attend to some interesting facet of latent space, for instance:
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/latent/babel.png" width="400" style="margin: 20 px;"/>
+	<figcaption> <br><i>inside a Babel tower, climbing up and the stairs begin to shrink and wind in on themselves, massive storm outside, blackness suspended in air --p --v 7.0 --s 1000</i> </figcaption>
+	</div>
+	</figure>
+
+This is from a dream I had $20$ years ago; it is almost certainly unique, and  
