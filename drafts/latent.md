@@ -32,7 +32,7 @@ I'm not sure. But I would argue that the parallels are more profound than they f
 
 ## Worlds apart
 
-Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; a landscape requires only sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. This lies in the *choice of perspective*, not to mention the apparatus of exposure, brightness, contrast, depth of field, and so on, that distinguish an artful from an artless shot. But although these techno-instrumental details can be marshalled to show that photography is, after all, a rigorous discipline like painting, I think the perspectival element is the more interesting one. It suggests that art is a point of view well-communicated.
+Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; a landscape requires only sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. This lies in the *choice of perspective*, not to mention the apparatus of exposure, brightness, contrast, depth of field, shot selection, and so on, that distinguish an artful from an artless shot. But although these techno-instrumental details can be marshalled to show that photography is, after all, a rigorous discipline like painting, I think the perspectival element is the more interesting one. It suggests that art is a point of view well-communicated.
 
 <figure>
     <div style="text-align:center"><img src
@@ -50,8 +50,8 @@ This leads us to the question of AI art. Like the Nikon, access to generative to
 	</div>
 	</figure>
 
-Thus, we turn to the subject, or rather, object of the prompts. The AI interface is a doorway to an objective world: the one contained within the model, and realized by its weights and forward protocols rather than any physical objects. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. And in fact one usually one does: the accessibility of these tools has produced a flood of material which, considered as art, is desperately mediocre. This leads to the question: can perspective redeem generative art the way it does photography?
+Thus, we turn to the subject, or rather, object of the prompts. The AI interface is a doorway to an objective world: the one contained within the model, and realized by its weights and mechanisms rather than any physical objects. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. And in fact one usually one does: the accessibility of these generative tools has produced a flood of slop. This leads to the question: can perspective redeem generative art the way it does photography?
 
 ## A personal view
 
-If I prompt
+I think it can.
