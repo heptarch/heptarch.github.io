@@ -19,7 +19,7 @@ Buying a Nikon doesn’t make you a photographer. It makes you a Nikon owner.<br
 </div>
 </div>
 
-Photography and AI art are similar in many ways. Both confer access to finished results via machine;
+Photography and AI art are similar in many ways. Both confer access to finished results via machine, and have encountered tremendous resistance from those trained in the traditional arts.
 
 <figure>
     <div style="text-align:center"><img src
