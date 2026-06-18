@@ -72,4 +72,4 @@ There is no obvious content here, no point of view, just a way of viewing. Conte
 	</div>
 	</figure>
 
-This is from a dream I had $20$ years ago; it is almost certainly unique, and  
+This is from a dream I had $20$ years ago; it is almost certainly unique. The combination of taste (form) and choice (content) 
