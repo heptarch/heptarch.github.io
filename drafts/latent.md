@@ -72,4 +72,4 @@ There is no obvious content here, no point of view, just a way of viewing. Conte
 	</div>
 	</figure>
 
-This is from a dream I had $20$ years ago; it is almost certainly unique. The combination of taste (form) and choice (content) leads to something which is distinctively mine. I think the layered stairs and serried doorways, the sense of ascent, the gloaming in the distance, all contribute to a real sense of atmosphere and visual impact. But I am of course biased! 
+This is from a dream I had $20$ years ago; it is almost certainly unique. The combination of taste (form) and choice (content) leads to something which is distinctively mine. I think the layered stairs and serried doorways, the implicit ascent, the gloaming in the distance, all contribute to a real sense of atmosphere and visual impact. But I am of course biased! 
