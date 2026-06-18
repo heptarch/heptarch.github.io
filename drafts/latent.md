@@ -54,4 +54,4 @@ Thus, we turn to the subject, or rather, object of the prompts. The AI interface
 
 ## A personal view
 
-Perspective is a matter of choice and taste. The examples above illustrate taste: the content is simple, but the style is highly personalized, training on thousands of binary ratings, two orders of magnitude more than needed to distinguish me from any other person on earth.
+Perspective is a matter of choice and taste. The examples above illustrate taste: the content is simple, but the style is highly personalized, trained on thousands of binary ratings, two orders of magnitude more than needed to distinguish me from any other person on earth. As `Midjourney` likes to advertise, I can ask for a "face" and it will give me my own special version:
