@@ -81,8 +81,8 @@ When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of t
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/latent/face.png" width="400" style="margin: 20 px;"/>
-	<figcaption> <br><i>a face --p --v 7.0 --s 1000</i> </figcaption>
+    ="/img/latent/dream.png" width="400" style="margin: 20 px;"/>
+	<figcaption> <br><i>a dream --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
 
