@@ -50,8 +50,8 @@ This leads us to the question of AI art. Like the Nikon, access to generative to
 	</div>
 	</figure>
 
-Thus, we turn to the subject, or rather, object of the prompts. The AI interface is a doorway to an objective world: the one contained within the model, and realized by its weights and mechanisms rather than any physical objects. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. And in fact one usually one does: the accessibility of these generative tools has produced a flood of slop. This leads to the question: can perspective redeem generative art the way it does photography?
+Thus, we turn to the subject, or rather, object of the prompts. The AI interface is a doorway to an objective world: the one contained within the model, and realized by its weights and mechanisms rather than any physical objects. One can prompt tritely, invoke cliches, and suffer from poor taste just as in photography, or, with more effort, in painting and the other traditional arts. And in fact one usually one does: the accessibility of these generative tools has produced a flood of mediocre slop. This leads to the question: can perspective redeem generative art the way it does photography?
 
 ## A personal view
 
-I think it can.
+Perspective is a matter of choice and taste. The examples above illustrate taste: the content is simple, but the style is highly personalized. More on that below.
