@@ -32,4 +32,4 @@ I'm not sure. But I would argue that the parallels are more profound than they f
 
 ## Worlds apart
 
-Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; all a landscape requires is a sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. Art lies in the *choice of perspective*, not to mention the technical 
+Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; a landscape requires only sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. Art lies in the *choice of perspective*, not to mention the technical apparatus of exposure, brightness, contrast, depth of field, and so on, that distinguish and artful from an artless shot. 
