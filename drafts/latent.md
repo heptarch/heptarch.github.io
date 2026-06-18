@@ -67,7 +67,7 @@ There is no obvious content here, no point of view, just a way of viewing. Conte
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/latent/babel.png" width="400" style="margin: 20 px;"/>
+    ="/img/latent/babel.png" width="600" style="margin: 20 px;"/>
 	<figcaption> <br><i>inside a Babel tower, climbing up and the stairs begin to shrink and wind in on themselves, massive storm outside, blackness suspended in air --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
