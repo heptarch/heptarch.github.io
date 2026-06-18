@@ -36,7 +36,7 @@ Photography captures the physical world, the people, streets, mountains, and obj
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/latent/photograph.png" width="400" style="margin: 20 px;"/>
-	<figcaption> <br><i>the act of photographing --p --v 7.0 --s 1000</i> </figcaption>
+    ="/img/latent/view.png" width="400" style="margin: 20 px;"/>
+	<figcaption> <br><i>a point of view well-communicated --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
