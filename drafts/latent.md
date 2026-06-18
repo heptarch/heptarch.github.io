@@ -76,8 +76,8 @@ This is a snippet of a dream I had twenty years ago. The combination of taste (f
 
 ## Other latencies
 
-I finish by commenting on the *interaction* between two latent worlds: the one in the model and the one in our heads. For this, of course, is the latent space mined by traditional art, the weights and mechanisms of our neural apparatus rather than a generative model's.
-When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of their own latent space, which is not so different from a photograph or a prompt except for the complex feedback loop between piece and medium that traditional methods like to emphasize "is" the artistic process.
+I finish by commenting on the *interaction* between two latent worlds: the one in the model and the one in our heads. For this, of course, is the latent space mined by traditional art, the weights and mechanisms of our neural apparatus rather than a generative model.
+When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of their own latent space; this is not so different from a photograph or a prompt except for the feedback loop between piece and medium that traditional methods emphasize instead of perspective.
 
 <figure>
     <div style="text-align:center"><img src
@@ -86,14 +86,14 @@ When Paul Klee or Remedios Varo paint a picture, they are taking a snapshot of t
 	</div>
 	</figure>
 
-What is interesting is the ability to project some of our latent space into the machine, a sort of "uploading" to use the framework of science fiction.
-This is how personalization happens in `Midjourney`: the user makes a sequence of binary rating decisions that are overwhelmingly likely to be unique. This not only leads to a unique style based on aesthetic preferences, but what is more uncanny, *content in images* which is unique to the individual. I don't know how I feel about this, but I've chosen to mine it for latent information about myself, akin to dreams or the technique of active imagination propounded by Jung.
+What I find most interesting is the ability to project some of our latent space into the machine, a sort of "aesthetic uploading" to use the framework of science fiction. We can even reroute a piece of art through our own taste filters!
+At any rate, personalization in `Midjourney` works as follows: the user makes a sequence of binary rating decisions that are overwhelmingly likely to be unique. This not only leads to a distinctive style based on aesthetic preferences, but what is more uncanny, *content in images* which is unique to the individual. It is more than a little disturbing, but I've chosen to mine it for latent information about myself, akin to dreams or the technique of active imagination propounded by Jung.
 
 <figure>
     <div style="text-align:center"><img src
-    ="/img/latent/dream.png" width="400" style="margin: 20 px;"/>
+    ="/img/latent/dream.png" width="600" style="margin: 20 px;"/>
 	<figcaption> <br><i>a dream --p --v 7.0 --s 1000</i> </figcaption>
 	</div>
 	</figure>
 
-For instance, if I repeatedly prompt "dream", clouds and sometimes sky-cities recur constantly.
+For instance, if I repeatedly prompt "dream", clouds (often concealing cities) recur constantly; as someone who likes to ideate lofty structures "in the sky", this is totally in character. But i
