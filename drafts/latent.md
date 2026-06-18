@@ -32,4 +32,11 @@ I'm not sure. But I would argue that the parallels are more profound than they f
 
 ## Worlds apart
 
-Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; a landscape requires only sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. This lies in the *choice of perspective*, not to mention the technical apparatus of exposure, brightness, contrast, depth of field, and so on, that distinguish an artful from an artless shot. But we can separate the taste-dependent perspectival element from the techno-instrumental which are neither necessary nor sufficient.
+Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; a landscape requires only sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. This lies in the *choice of perspective*, not to mention the apparatus of exposure, brightness, contrast, depth of field, and so on, that distinguish an artful from an artless shot. But although these techno-instrumental details can be marshalled to show that photography is, after all, a rigorous discipline like painting, I think the perspectival element is the more interesting one. It suggests that art is a point of view well-communicated.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/latent/photograph.png" width="400" style="margin: 20 px;"/>
+	<figcaption> <br><i>the act of photographing --p --v 7.0 --s 1000</i> </figcaption>
+	</div>
+	</figure>
