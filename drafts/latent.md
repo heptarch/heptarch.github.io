@@ -32,7 +32,7 @@ I'm not sure. But I would argue that the parallels are more profound than they f
 
 ## Worlds apart
 
-Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; a landscape requires only sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. This lies in the *choice of perspective*, not to mention the apparatus of exposure, brightness, contrast, depth of field, shot selection, and so on, that distinguish an artful from an artless shot. But although these techno-instrumental details can be marshalled to show that photography is, after all, a rigorous discipline like painting, I think the perspectival element is the more interesting one. It suggests that art is a point of view well-conveyed.
+Photography captures the physical world, the people, streets, mountains, and objects that populate it. A portrait is as easy as aiming your camera at a face; a landscape requires only sunset or a meadow. But as our epigraph warns, a Nikon (or an iPhone) does not a photographer make. This lies in the *choice of perspective*, not to mention the apparatus of exposure, brightness, contrast, depth of field, shot selection, and so on, that distinguish an artful from an artless shot. But although these techno-instrumental details can be marshalled to show that photography is, after all, a rigorous discipline like painting, I think the perspectival element is the more interesting one. It suggests that art is an interesting point of view well-conveyed.
 
 <figure>
     <div style="text-align:center"><img src
@@ -72,7 +72,7 @@ There is no obvious content here, no point of view, just a way of viewing. Conte
 	</div>
 	</figure>
 
-This is a snippet of a dream I had twenty years ago. The combination of taste (form) and choice (perspective) leads to something which is uniquely and distinctively mine. The layered stairs and serried doorways, the implicit ascent, the gloaming in the distance, all contribute to a real sense of atmosphere and visual impact that I think constitutes art. Of course I am biased! But hopefully even if you find this picture cliche, you see how these ingredients might come together to form something with genuine artistic merit: a point of view well-conveyed, eminently unique to the individual.
+This is a snippet of a dream I had twenty years ago. The combination of taste (form) and choice (perspective) leads to something which is uniquely and distinctively mine. The layered stairs and serried doorways, the implicit ascent, the gloaming in the distance, all contribute to a real sense of atmosphere and visual impact that I think constitutes art. Of course I am biased! But hopefully even if you find this picture cliche, you see how these ingredients might come together to form something with genuine artistic merit: an interesting point of view well-conveyed, eminently unique to the individual.
 
 ## Other latencies
 
