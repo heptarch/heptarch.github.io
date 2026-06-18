@@ -24,7 +24,7 @@ Photography and AI art are similar in many ways. Both confer mechanized access t
 <figure>
     <div style="text-align:center"><img src
     ="/img/latent/photograph.png" width="400" style="margin: 20 px;"/>
-	<figcaption> <br>the act of photographing --p --v 7.0 --s 1000 </figcaption>
+	<figcaption> <br><pre>the act of photographing --p --v 7.0 --s 1000</pre> </figcaption>
 	</div>
 	</figure>
 
