@@ -41,4 +41,15 @@ Photography captures the physical world, the people, streets, mountains, and obj
 	</div>
 	</figure>
 
-This leads us into the question of AI art. In this case, there is an objective world being captured, but it is realized by the weights and forward runs of a generative model. Like the Nikon, access to generative tools does not an artist make. And although one could argue by analogy that full mastery of the generative workflow has an artistic rigour to it—and perhaps, in some cases it does—but for the most part, prompting is the equivalent of point-and-click. You say what you want, with no parameters, and the model produces it.
+This leads us to the question of AI art. Like the Nikon, access to generative tools does not an artist make. And although one could argue that full mastery of the generative workflow has an artistic rigour to it—and perhaps, if you build the models yourself, it does—for the most part, prompting is the equivalent of point-and-click. You say what you want, with no parameters, and the model serves it.
+
+<figure>
+    <div style="text-align:center"><img src
+    ="/img/latent/doorway.png" width="400" style="margin: 20 px;"/>
+	<figcaption> <br><i>doorway onto the latent world --p --v 7.0 --s 1000</i> </figcaption>
+	</div>
+	</figure>
+
+The more interesting question is the perspectival one. Your prompt grants access to an objective world, but one contained within the model, realized by its weights and forward protocols.
+
+## Personalization
