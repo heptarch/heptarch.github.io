@@ -57,7 +57,7 @@ $$
 Now, cosmic rays hitting the top of the atmosphere tend to cascade into a shower of neutrons, and only one in $500$ actually makes it down to sea level. So the actual flux of cosmic rays is $500$ times higher! That is,
 
 $$
-\Phi \approx 4000/\text{m}^2\text{s}.
+\Phi \approx \frac{4000}{\text{m}^2\text{s}}.
 $$
 
 We can get a density by assuming the cosmic rays form an isotropic gas, i.e. travelling equally in every direction, travelling at close to the speed of light. The basic intuition is that if you take a unit area of flux and drag it along at the speed of light, you should get the density. This actually underestimates by a factor of $4$ because it neglects the fact that there are travelling in all directions, so
