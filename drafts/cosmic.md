@@ -72,5 +72,11 @@ Thus, from errors on a microchip we can deduce the density of cosmic rays!
 Each supernova produces around $N_\text{super}$ cosmic rays. Each cosmic ray has a lifetime of $\tau$. For a total of $N$ cosmic rays in the galaxy, the time between supernova, call it $T$, obeys
 
 $$
-T = \frac{\tau N}{N_\text{super}}.
+T = \frac{\tau N}{N_\text{super}} =\frac{\tau \rho V}{N_\text{super}},
+$$
+
+where $\rho$ is the density we just computed and $V$ the volume of the milky way. If you model the milky way as a thick disk of $10^{5}$ light years in diameter and $1000$ light years thick, its volume is
+
+$$
+V = \pi r^2 h = \pi 10^{13} \text{ ly}^3 \approx 2.7 \times 10^{61} \text{ m}^3.
 $$
