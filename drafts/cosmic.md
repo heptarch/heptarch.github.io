@@ -60,4 +60,4 @@ $$
 \Phi \approx 4000/\text{m}^2\text{s}.
 $$
 
-We can get a density by assuming the cosmic rays form an isotropic gas, i.e. the same in every direction, travelling at close to the speed of light.
+We can get a density by assuming the cosmic rays form an isotropic gas, i.e. travelling equally in every direction, travelling at close to the speed of light. 
