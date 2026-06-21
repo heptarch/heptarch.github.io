@@ -67,7 +67,7 @@ $$
 
 Thus, from errors on a microchip we can deduce the density of cosmic rays!
 
-## Stellar census
+## Conclusion
 
 Each supernova produces around $N_\text{super}$ cosmic rays. Each cosmic ray has a lifetime of $\tau$. For a total of $N$ cosmic rays in the galaxy, the time between supernova, call it $T$, obeys
 
