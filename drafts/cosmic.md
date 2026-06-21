@@ -59,3 +59,5 @@ Now, cosmic rays hitting the top of the atmosphere tend to cascade into a shower
 $$
 \Phi \approx \frac{4000}{\text{m}^2\text{s}}.
 $$
+
+We can get a density by assuming the cosmic rays form an isotropic gas, i.e. the same in every direction, travelling at close to the speed of light.
