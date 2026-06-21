@@ -64,3 +64,7 @@ We can get a density by assuming the cosmic rays form an isotropic gas, i.e. tra
 
 $$\rho = \frac{4\Phi}{c} \approx \frac{4 \cdot 4000/\text{m}^2\text{s}}{3 \times 10^{8} \text{ m}/s} \approx 5.3 \times 10^{-5} \text{ m}^{-3}.
 $$
+
+Thus, from errors on a microchip we can deduce the density of cosmic rays!
+
+## Stellar census
