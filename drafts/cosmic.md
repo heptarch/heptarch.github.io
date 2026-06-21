@@ -23,3 +23,10 @@ Supernovas occur when big stars run out of fuel and collapse in on themselves. T
        class="margin-toggle"/>
 	   <span class="sidenote">
 This leads to the name for this unit of energy, the <i>foe</i> for <i>fifty one erges</i>.</span>
+Cosmic rays are mostly from supernova, and tend to have energy around $4\times 10^{9} \text{ eV} \approx 6.4 \times 10^{-10} \text{ J}$. Finally, we know the most ($99\%$) of the energy of the supernova is carried away in neutrinos, which don't really interact with matter. That leaves a total of
+
+$$
+N_\alpha = \frac{0.01 \text{foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{52}
+$$
+
+cosmic rays per supernova.
