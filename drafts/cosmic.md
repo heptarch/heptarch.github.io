@@ -51,7 +51,7 @@ where $\Phi$ is the *flux* of cosmic rays, $\sigma$ is the cross-sectional area,
 A laptop with $16\text{ GB}$ of RAM has $N_{\text{bits}} \approx 1.28 \times 10^{11}$ bits, and the observed SER at sea level is around $10^{-6}$ errors per second. Finally, a modern transistor is on the order of $nm$, so $\sigma \approx 10^{-18} \text{ m}^2$. Rearranging, we find a flux
 
 $$
-Phi_n = \frac{\text{SER}}{\sigma \cdot N_{\text{bits}}} \approx \frac{10^{-6}}{10^{-18} \cdot 1.28 \times 10^{11}} \approx 8 \text{ /m}^2\text{s}
+\Phi_n = \frac{\text{SER}}{\sigma \cdot N_{\text{bits}}} \approx \frac{10^{-6}}{10^{-18} \cdot 1.28 \times 10^{11}\text{ m}^2{s}} \approx 8 \text{/m}^2\text{s}
 $$
 
 These are primarily neutrons which result
