@@ -26,7 +26,7 @@ This leads to the name for this unit of energy, the "foe" for "fifty one ergs". 
 Cosmic rays are mostly from supernova, and tend to have energy around $4\times 10^{9} \text{ eV} \approx 6.4 \times 10^{-10} \text{ J}$. Finally, we know the most ($99\%$) of the energy of the supernova is carried away in neutrinos, which don't really interact with matter. That leaves a total of
 
 $$
-N = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{51}
+N_\text{super} = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{51}
 $$
 
 cosmic rays per supernova. Now, cosmic rays tend to bounce around the galaxy, bent by magnetic fields, before they're either absorbed or leak out into intergalactic space.
@@ -68,3 +68,9 @@ $$
 Thus, from errors on a microchip we can deduce the density of cosmic rays!
 
 ## Stellar census
+
+Each supernova produces around $N_\text{super}$ cosmic rays. Each cosmic ray has a lifetime of $\tau$. For a total of $N$ cosmic rays in the galaxy, the time between supernova, call it $T$, obeys
+
+$$
+T = \frac{\tau N}{N_\text{super}}.
+$$
