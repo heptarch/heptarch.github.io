@@ -51,13 +51,13 @@ where $\Phi_n$ is the *flux* of cosmic rays at sea level, $\sigma$ is the cross-
 A laptop with $16\text{ GB}$ of RAM has $N_{\text{bits}} \approx 1.28 \times 10^{11}$ bits, and the observed SER at sea level is around $10^{-6}$ errors per second. Finally, a modern transistor is on the order of $nm$, so $\sigma \approx 10^{-18} \text{ m}^2$. Rearranging, we find a flux
 
 $$
-\Phi_n = \frac{\text{SER}}{\sigma \cdot N_{\text{bits}}} \approx \frac{10^{-6}}{10^{-18} \cdot 1.28 \times 10^{11}\text{ m}^2{s}} \approx \frac{8}{\text{m}^2\text{s}}.
+\Phi_n = \frac{\text{SER}}{\sigma \cdot N_{\text{bits}}} \approx \frac{10^{-6}}{10^{-18} \cdot 1.28 \times 10^{11}\text{ m}^2{s}} \approx 8/\text{m}^2\text{s}.
 $$
 
 Now, cosmic rays hitting the top of the atmosphere tend to cascade into a shower of neutrons, and only one in $500$ actually makes it down to sea level. So the actual flux of cosmic rays is $500$ times higher! That is,
 
 $$
-\Phi \approx \frac{4000}{\text{m}^2\text{s}}.
+\Phi \approx 4000/\text{m}^2\text{s}.
 $$
 
 We can get a density by assuming the cosmic rays form an isotropic gas, i.e. the same in every direction, travelling at close to the speed of light.
