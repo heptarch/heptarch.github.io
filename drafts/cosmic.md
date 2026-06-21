@@ -60,4 +60,7 @@ $$
 \Phi \approx 4000/\text{m}^2\text{s}.
 $$
 
-We can get a density by assuming the cosmic rays form an isotropic gas, i.e. travelling equally in every direction, travelling at close to the speed of light. 
+We can get a density by assuming the cosmic rays form an isotropic gas, i.e. travelling equally in every direction, travelling at close to the speed of light. The basic intuition is that if you take a unit area of flux and drag it along at the speed of light, you should get the density. This actually underestimates by a factor of $4$ because it neglects the fact that there are travelling in all directions, so
+
+$$\rho = \frac{4\Phi}{c} \approx \frac{4 \cdot 4000/\text{m}^2\text{s}}{3 \times 10^{8} \text{ m}/s} \approx 5.3 \times 10^{-5} \text{ m}^{-3}.
+$$
