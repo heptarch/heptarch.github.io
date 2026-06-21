@@ -42,12 +42,17 @@ If we knew how many there were total, we could estimate the rate of supernova ex
 
 ## Soft errors
 
-Here is where computers come in. A laptop experiences the order of [several bitflips a month](https://en.wikipedia.org/wiki/Soft_error#Cosmic_rays_creating_energetic_neutrons_and_protons), which may be closer to several hundred or even a thousand in low earth orbit (less shielding). A laptop with $16\text{ GB}$
-
-Let's assume "several bitflips a month" equates to a Soft Error Rate ($\text{SER}$) of roughly $10^{-6}$ errors per second. A standard laptop today might have **16 GB** of RAM, giving us a target of $N_{\text{bits}} \approx 1.28 \times 10^{11}$ bits.
+Here is where computers come in. A laptop at sea-level experiences the order of [several bitflips a month](https://en.wikipedia.org/wiki/Soft_error#Cosmic_rays_creating_energetic_neutrons_and_protons). We can Fermi estimate the *soft error rate (SER)* of cosmic-ray induced bit flip errors as
 
 $$
-\text{SER} = \Phi_n \cdot \sigma \cdot N_{\text{bits}}
+\text{SER} = \Phi \cdot \sigma \cdot N_{\text{bits}}
+$$
+
+where $\Phi$ is the *flux* of cosmic rays, $\sigma$ is the cross-sectional area, and $N_{\text{bits}}$ is the number of bits.
+A laptop with $16\text{ GB}$ of RAM has $N_{\text{bits}} \approx 1.28 \times 10^{11}$ bits, and the observed SER at sea level is around $10^{-6}$ errors per second. Finally, a modern transistor is on the order of $nm$, so $\sigma \approx 10^{-18} \text{ m}^2$. Rearranging, we find a flux
+
+$$
+Phi_n = \frac{\text{SER}}{\sigma \cdot N_{\text{bits}}} \approx \frac{10^{-6}}{10^{-18} \cdot 1.28 \times 10^{11}} \approx 8 \text{ /m}^2\text{s}
 $$
 
 By rearranging the equation, we can estimate the flux of secondary cosmic rays (high-energy neutrons) hitting the laptop at sea level:
