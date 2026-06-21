@@ -55,5 +55,4 @@ $$
 Phi_n = \frac{\text{SER}}{\sigma \cdot N_{\text{bits}}} \approx \frac{10^{-6}}{10^{-18} \cdot 1.28 \times 10^{11}} \approx 8 \text{ /m}^2\text{s}
 $$
 
-By rearranging the equation, we can estimate the flux of secondary cosmic rays (high-energy neutrons) hitting the laptop at sea level:
-$$
+These are primarily neutrons which result
