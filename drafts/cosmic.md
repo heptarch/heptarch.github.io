@@ -26,7 +26,7 @@ This leads to the name for this unit of energy, the "foe" for "fifty one ergs". 
 Cosmic rays are mostly from supernova, and tend to have energy around $4\times 10^{9} \text{ eV} \approx 6.4 \times 10^{-10} \text{ J}$. Finally, we know the most ($99\%$) of the energy of the supernova is carried away in neutrinos, which don't really interact with matter. That leaves a total of
 
 $$
-N_\alpha = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{51}
+N = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{51}
 $$
 
 cosmic rays per supernova. Now, cosmic rays tend to bounce around the galaxy, bent by magnetic fields, before they're either absorbed or leak out into intergalactic space.
@@ -37,8 +37,4 @@ If we knew how many there were total, we could estimate the rate of supernova ex
 
 ## Soft errors
 
-Here is where computers come in. An individual memory cell has area
-
-$$
-$$
-
+Here is where computers come in. A laptop experiences the order of [several bitflips a month](https://en.wikipedia.org/wiki/Soft_error#Cosmic_rays_creating_energetic_neutrons_and_protons), which may be closer to several hundred or even a thousand in low earth orbit (less shielding). A laptop with $16\text{ GB}$
