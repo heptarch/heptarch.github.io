@@ -30,4 +30,4 @@ N_\alpha = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \
 $$
 
 cosmic rays per supernova. Now, cosmic rays tend to bounce around the galaxy, bent by magnetic fields, before they're either absorbed or leak out into intergalactic space.
-As they bounce around, they collide with elements in the interstellar medium, knock out protons, and create certain elements [such as beryllium](https://en.wikipedia.org/wiki/Beryllium#Isotopes_and_nucleosynthesis) that aren't produced in stars. We know from decay of ${}^{10}B$
+As they bounce around, they collide with elements in the interstellar medium in a process called [spallation](https://en.wikipedia.org/wiki/Cosmic_ray_spallation), knock out protons, and create certain new elements [such as beryllium](https://en.wikipedia.org/wiki/Beryllium#Isotopes_and_nucleosynthesis) that aren't produced in stars. We know from the ratio of ${}^{10}B$ to (decayed) ${}^{9}B$ how long that beryllium has been travelling, and it suggests that the average age of a cosmic ray is $\tau = 15$ million years.
