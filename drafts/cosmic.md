@@ -32,9 +32,23 @@ $$
 cosmic rays per supernova. Now, cosmic rays tend to bounce around the galaxy, bent by magnetic fields, before they're either absorbed or leak out into intergalactic space.
 
 How long does it take for that to happen?
-As they bounce around, they collide with elements in the interstellar medium in a process called [spallation](https://en.wikipedia.org/wiki/Cosmic_ray_spallation), knock out protons, and create certain new elements [such as beryllium](https://en.wikipedia.org/wiki/Beryllium#Isotopes_and_nucleosynthesis) that aren't produced in stars. We know from the ratio of ${}^{10}B$ to (decayed) ${}^{9}B$ how long that beryllium has been travelling, and it suggests that the average age of a cosmic ray is $\tau = 15$ million years.
+As they bounce around, they collide with elements in the interstellar medium in a process called [spallation](https://en.wikipedia.org/wiki/Cosmic_ray_spallation), knock out protons, and create certain new elements [such as beryllium](https://en.wikipedia.org/wiki/Beryllium#Isotopes_and_nucleosynthesis) that aren't produced in stars. We know from the ratio of ${}^{10}B$ to (decayed) ${}^{9}B$ how long that beryllium has been travelling, and it suggests that the average age of a cosmic ray is
+
+$$
+\tau = 15 \text{ million years} \approx 4.7 \times 10^{14} \text{ s}.
+$$
+
 If we knew how many there were total, we could estimate the rate of supernova explosions!
 
 ## Soft errors
 
 Here is where computers come in. A laptop experiences the order of [several bitflips a month](https://en.wikipedia.org/wiki/Soft_error#Cosmic_rays_creating_energetic_neutrons_and_protons), which may be closer to several hundred or even a thousand in low earth orbit (less shielding). A laptop with $16\text{ GB}$
+
+Let's assume "several bitflips a month" equates to a Soft Error Rate ($\text{SER}$) of roughly $10^{-6}$ errors per second. A standard laptop today might have **16 GB** of RAM, giving us a target of $N_{\text{bits}} \approx 1.28 \times 10^{11}$ bits.
+
+$$
+\text{SER} = \Phi_n \cdot \sigma \cdot N_{\text{bits}}
+$$
+
+By rearranging the equation, we can estimate the flux of secondary cosmic rays (high-energy neutrons) hitting the laptop at sea level:
+$$
