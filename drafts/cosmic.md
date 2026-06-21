@@ -26,7 +26,7 @@ This leads to the name for this unit of energy, the "foe" for "fifty one ergs". 
 Cosmic rays are mostly from supernova, and tend to have energy around $4\times 10^{9} \text{ eV} \approx 6.4 \times 10^{-10} \text{ J}$. Finally, we know the most ($99\%$) of the energy of the supernova is carried away in neutrinos, which don't really interact with matter. That leaves a total of
 
 $$
-N_\text{super} = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{51}
+N_\text{super} = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.6 \times 10^{51}
 $$
 
 cosmic rays per supernova. Now, cosmic rays tend to bounce around the galaxy, bent by magnetic fields, before they're either absorbed or leak out into intergalactic space.
@@ -79,4 +79,10 @@ where $\rho$ is the density we just computed and $V$ the volume of the milky way
 
 $$
 V = \pi r^2 h = \pi 10^{13} \text{ ly}^3 \approx 2.7 \times 10^{61} \text{ m}^3.
+$$
+
+Thus, the time between supernovas is
+
+$$
+T = \frac{(4.7 \times 10^{14} \text{ s})(5.3 \times 10^{-5})( 2.7 \times 10^{61})}{1.6 \times 10^{51}} \approx 4.2 \times 10^{20}\text{ s }.
 $$
