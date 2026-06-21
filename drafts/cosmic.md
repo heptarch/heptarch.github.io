@@ -26,7 +26,8 @@ This leads to the name for this unit of energy, the "foe" for "fifty one ergs". 
 Cosmic rays are mostly from supernova, and tend to have energy around $4\times 10^{9} \text{ eV} \approx 6.4 \times 10^{-10} \text{ J}$. Finally, we know the most ($99\%$) of the energy of the supernova is carried away in neutrinos, which don't really interact with matter. That leaves a total of
 
 $$
-N_\alpha = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{52}
+N_\alpha = \frac{0.01 \text{ foe}}{6.4 \times 10^{-10} \text{ J}} \approx 1.56 \times 10^{51}
 $$
 
-cosmic rays per supernova.
+cosmic rays per supernova. Now, cosmic rays tend to bounce around the galaxy, bent by magnetic fields, before they're either absorbed or leak out into intergalactic space.
+As they bounce around, they collide with elements in the interstellar medium, knock out protons, and create certain elements [such as beryllium](https://en.wikipedia.org/wiki/Beryllium#Isotopes_and_nucleosynthesis) that aren't produced in stars. We know from decay of ${}^{10}B$
