@@ -84,5 +84,5 @@ $$
 Thus, the time between supernovas is
 
 $$
-T = \frac{(4.7 \times 10^{14} \text{ s})(5.3 \times 10^{-5})( 2.7 \times 10^{61})}{1.6 \times 10^{51}} \approx 4.2 \times 10^{20}\text{ s }.
+T = \frac{(4.7 \times 10^{14} \text{ s})(5.3 \times 10^{-5})( 2.7 \times 10^{61})}{1.6 \times 10^{51}} \approx 4.2 \times 10^{20}\text{ s}.
 $$
