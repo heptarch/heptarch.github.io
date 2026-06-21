@@ -2,7 +2,7 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "From microchips to Milky Way"
+title:  "From microchip to Milky Way"
 categories: []
 date:  2026-06-20
 ---
