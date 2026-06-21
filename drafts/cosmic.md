@@ -2,16 +2,16 @@
 Layout: post
 mathjax: true
 comments: true
-title:  "From microchip to Milky Way"
+title:  "From soft errors to supernovas"
 categories: []
 date:  2026-06-20
 ---
 
-**June 20, 2026.** *What is the connection between soft errors and the number of stars in the galaxy?*
+**June 20, 2026.** *What is the connection between bit flip errors and the galactic supernova rate?*
 
 ## Introduction
 
-Classical computers are very reliable. But there is a rather exotic form of error the designers probably didn't expect: bombardment by high-energy particles from out of space. These are called *cosmic rays*, and they are mostly particles flung out from the exploding stars at close to the speed of light. We'll do a quick Fermi estimate connecting how they cause bit flips in computers to the stellar population of the Milky Way.
+Classical computers are very reliable. But there is a rather exotic form of error the designers probably didn't expect: bombardment by high-energy particles from out of space. These are called *cosmic rays*, and they are mostly particles flung out from the exploding stars at close to the speed of light. We'll do a quick Fermi estimate connecting how they cause bit flips in computers to the rate at which stars explode in the Milky Way.
 
 ## Supernova
 
@@ -87,6 +87,6 @@ $$
 T = \frac{(4.7 \times 10^{14} \text{ s})(1.6 \times 10^{51})}{(5.3 \times 10^{-5})( 8 \times 10^{60})} \approx 3 \times 10^{7}\text{ s},
 $$
 
-or around $56$ years.
+or around $56$ years. This is very close to observation!
 
 
