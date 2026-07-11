@@ -37,12 +37,12 @@ $$
 $$
 
 where I omit the tensor product for simplicity.
-The full system is initially $|\psi\rangle_A|\Phi\rangle_{AB}$. Alice then measures her qubits in the Bell basis, labelled
+The full system is initially $|\psi\rangle_A|\Phi\rangle_{AB}$. Alice then measures her qubits in the Bell basis, consisting of four states
 
 $$
 |\Phi_{ab}\rangle = (I \otimes X^a Z^b) |\Phi\rangle = \frac{1}{\sqrt{2}}\bigg(|0\rangle_A |a\rangle_B + (-1)^b|1\rangle_A |\overline{a}\rangle_B\bigg),
 $$
 
-up to an overall minus sign we can ignore.
+for $a, b = 1, 2$, where I've suppressed overall minus signs.
 This measurement couples Alice's state $|\psi\rangle$ to her second qubit, which is entangled with Bob; when she measures $a, b$, yielding a state $|\Phi_{ab}\rangle_A$, the state $|\psi\rangle$ is sent through to Bob
 If you want more detail on why it works, feel free to check out the [explainer](https://torsor.io/#blog/teleportation) I wrote a while back.
