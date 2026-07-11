@@ -87,9 +87,11 @@ $$
 = c_{00} I = \frac{1}{2}I_B,
 $$
 
-using
+using the following facts:
 - $\sum_{a} (-1)^{ad} = 2\delta_{d,0}$ and similarly for $bc$;
 - $X^a Z^b = (-1)^{ab} Z^b X^a$;
 - and $c_00 = \mbox{tr}[\rho]/2 = 1/2$.
+
+Thus, Bob's density matrix is *maximally mixed* and he knows absolutely nothing about the state!
 
 ## Multiple copies
