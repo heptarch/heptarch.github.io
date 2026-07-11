@@ -43,11 +43,13 @@ $$
 |\Phi_{ab}\rangle = (I \otimes Z^b X^a) |\Phi\rangle = \frac{1}{\sqrt{2}}\bigg(|0\rangle_A |a\rangle_B + (-1)^b|1\rangle_A |\overline{a}\rangle_B\bigg),
 $$
 
-for $a, b = 0, 1$, up to an overall minus sign we can ignore.
+for $a, b = 0, 1$, $\overline{a} = 1 - a$, and up to an overall minus sign we can ignore.
 This measurement couples Alice's state $|\psi\rangle$ to her second qubit, which is entangled with Bob; when she measures, this has the effect of sending the state $\vert\psi\rangle$ through to Bob, with some corrections. More precisely, some algebra shows that
 
 $$
 |\psi\rangle_A |\Phi\rangle_{AB} = \sum_{a, b} |\Phi_{ab}\rangle_A X^a Z^b |\psi\rangle.
 $$
+
+so after Alice measures $a, b$, Bob has state $X^a Z^b \vert \psi\rangle$.
 
 If you want more detail on why it works, feel free to check out the [explainer](https://torsor.io/#blog/teleportation) I wrote a while back.
