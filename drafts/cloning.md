@@ -66,7 +66,7 @@ Admittedly, starting with the Coffman-Kundu-Wootters inequality may make things 
 The thing about entanglement is that it allows for "spooky action at a distance", and in the case of teleportation, the state $X^a Z^b \vert \psi\rangle$ appears *instantaneously* in Bob's system when Alice measures in the Bell basis. This is deeply disturbing, and in fact, gets even more disturbing: in a frame of reference moving relative to Alice and Bob, Bob receives the state $X^a Z^b \vert\psi\rangle$ *before* Alice measures in the Bell basis! So there are two copies of the state floating around. Formally, tracing out the middle qubit and working with density matrices, we have:
 
 $$
-|\psi\rangle\langle\psi|_A \otimes \frac{1}{\sqrt{2}}I_B \mapsto |\psi\rangle\langle\psi|_A \otimes X^aZ^b|\psi\rangle\langle\psi|_B Z^bX^a
+|\psi\rangle\langle\psi|_A \otimes \frac{1}{2}I_B \mapsto |\psi\rangle\langle\psi|_A \otimes X^aZ^b|\psi\rangle\langle\psi|_B Z^bX^a
 $$
  
 since Bob's qubit is maximally entangled, so when we trace out its partner, it's in the maximally mixed state.
@@ -80,5 +80,6 @@ $$
 $$
 
 Now, assuming Bob has no idea what $\vert\psi\rangle$ is, he has no idea what the distribution over Alice's measurements $a$ and $b$ are, so they may as well be random from his point of view.
+So 
 
 ## Multiple copies
