@@ -70,6 +70,6 @@ $$
 $$
  
 since Bob's qubit is in initially in the maximally mixed state.
-This is encrypted cloning where the role of the encrypting operator $E = X^aZ^b$. 
+This is encrypted cloning where the role of the encrypting operator $E = X^aZ^b$. This encryption is essential: it prevents Alice and Bob both from cloning, and from sending information faster than light, since it completely obfuscates the identity of the state as we will now see.
 
 ## Multiple copies
