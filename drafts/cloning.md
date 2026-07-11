@@ -60,3 +60,11 @@ If you want more detail on *why* it works, feel free to check out the [explainer
        class="margin-toggle"/>
 	   <span class="sidenote">
 Admittedly, starting with the Coffman-Kundu-Wootters inequality may make things more confusing.</span>
+
+## Cloning
+
+The thing about entanglement is that it allows for "spooky action at a distance", and in the case of teleportation, the state $X^a Z^b \vert \psi\rangle$ appears *instantaneously* in Bob's system when Alice measures in the Bell basis. This is deeply disturbing, and in fact, gets even more disturbing: in a frame of reference moving relative to Alice and Bob, Bob receives the state $X^a Z^b \vert\psi\rangle$ *before* Alice measures in the Bell basis!
+
+## Encryption
+
+## Multiple copies
