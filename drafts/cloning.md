@@ -95,3 +95,5 @@ using the following facts:
 Thus, Bob's density matrix is *maximally mixed* and he knows absolutely nothing about the state! Thus, teleportation transfers no information until Alice supples her Bell bits $a,b$, and there is no contradiction in cloning the state; it is hidden inaccessibly behind a random $X^a Z^b$.
 
 ## Multiple copies
+
+Yamaguchi and Kempf's construction suggests there should be a version of teleportation where $n$ copies are teleported but only one can be decrypted.
