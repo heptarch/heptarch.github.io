@@ -70,10 +70,11 @@ $$
 $$
  
 since Bob's qubit is maximally entangled, so when we trace out its partner, it's in the maximally mixed state.
-This is encrypted cloning where the role of the encrypting operator is played by $E = X^aZ^b$. This encryption is essential: it prevents Alice and Bob both from cloning and from sending information faster than light, since it completely obfuscates the identity of the state.
+This is encrypted cloning where the role of the encrypting operator is played by $E = X^aZ^b$. This encryption is essential: it prevents Alice and Bob both from cloning and from sending information faster than light, and in both cases it does so by completely obfuscating the identity of the state.
 
 The proof of this is very neat.
 It turns out sums of products of the form $X^aZ^b$ provide a linear basis for density matrices (there are four such products and they are linearly independent), so
+
 $$
 \rho = \sum_{a,b} c_{a,b} X^a Z^b, \quad c_{a,b} = \frac{1}{2}\mbox{tr}[\rho Z^bX^a].
 $$
