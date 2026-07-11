@@ -84,9 +84,12 @@ From Bob's perspective, the bits $a$ and $b$ are random, and any particular comb
 $$
 \rho_B = p\sum_{ab} X^a Z^b |\psi\rangle\langle \psi| Z^b X^a
 = p\sum_{abcd}  (-1)^{ad}(-1)^{bc}c_{cd} X^{c} Z^{d}
-= c_{00},
+= c_{00} I = \frac{1}{2}I_B,
 $$
 
-using the fact that $\sum_{a} (-1)^{ad} = 2\delta_{d,0}$ and similarly for $bc$, and $X^a Z^b = (-1)^{ab} Z^b X^a$.
+using
+- $\sum_{a} (-1)^{ad} = 2\delta_{d,0}$ and similarly for $bc$;
+- $X^a Z^b = (-1)^{ab} Z^b X^a$;
+- and $c_00 = \mbox{tr}[\rho]/2 = 1/2$.
 
 ## Multiple copies
