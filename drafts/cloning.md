@@ -87,6 +87,6 @@ $$
 = c_{00},
 $$
 
-using the fact that $\sum_{a} (-1)^{ad} = \delta_{d,0}$ and similarly for $bc$, and $X^a Z^b = (-1)^{ab} Z^b X^a$.
+using the fact that $\sum_{a} (-1)^{ad} = 2\delta_{d,0}$ and similarly for $bc$, and $X^a Z^b = (-1)^{ab} Z^b X^a$.
 
 ## Multiple copies
