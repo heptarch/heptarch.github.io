@@ -69,9 +69,9 @@ $$
 |\psi\rangle\langle\psi|_A \otimes \frac{1}{\sqrt{2}}I_B \mapsto |\psi\rangle\langle\psi|_A \otimes X^aZ^b|\psi\rangle\langle\psi|_B Z^bX^a
 $$
  
-since Bob's qubit is in initially in the maximally mixed state.
+since Bob's qubit is maximally entangled, so when we trace out its partner, it's in the maximally mixed state.
 This is encrypted cloning where the role of the encrypting operator is played by $E = X^aZ^b$. This encryption is essential: it prevents Alice and Bob both from cloning and from sending information faster than light, since it completely obfuscates the identity of the state.
 
-To see why
+
 
 ## Multiple copies
