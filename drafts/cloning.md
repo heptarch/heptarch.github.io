@@ -11,7 +11,7 @@ date:  2026-07-11
 
 ## Introduction
 
-Famously, quantum information cannot be cloned, in the sense that there is no unitary operator $U$ which copies an arbitrary state $\vert|\psi\rangle$ onto an ancilla,
+Famously, quantum information cannot be cloned, in the sense that there is no unitary operator $U$ which copies an arbitrary state $\vert\psi\rangle$ onto an ancilla,
 
 $$
 U |\psi\rangle |\phi_0\rangle = |\psi\rangle|\psi\rangle.
@@ -31,7 +31,7 @@ This is simpler and strictly different from Yamaguchi-Kempf procedure.
 
 ## Teleportation
 
-The basic idea is hopefully familiar: Alice wants to share a quantum state $\vert|\psi\rangle$ with Bob, and they share a maximally entangled Bell pair,
+The basic idea is hopefully familiar: Alice wants to share a quantum state $\vert\psi\rangle$ with Bob, and they share a maximally entangled Bell pair,
 
 $$
 |\Phi\rangle_{AB} = \frac{1}{\sqrt{2}}\left[|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B\right],
