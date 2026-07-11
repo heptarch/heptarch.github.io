@@ -30,14 +30,14 @@ already has this form, and can be generalized in such a way that it clones multi
 
 ## Teleportation
 
-The basic idea is hopefully familiar: Alice wants to share a quantum state $\vert\psi\rangle$ with Bob, and they share a maximally entangled Bell pair,
+The basic idea is hopefully familiar: Alice wants to send a quantum state $\vert\psi\rangle$ to Bob, and they share a maximally entangled Bell pair,
 
 $$
-|\Phi\rangle_{AB} = \frac{1}{\sqrt{2}}\left[|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B\right],
+|\Phi\rangle_{AB} = \frac{1}{\sqrt{2}}\left[|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B\right,
 $$
 
 where I omit the tensor product for simplicity.
-The full system is $|\psi\rangle_A|\Phi\rangle_{AB}$. Alice then measures her qubits in the Bell basis, labelled
+The full system is initially $|\psi\rangle_A|\Phi\rangle_{AB}$. Alice then measures her qubits in the Bell basis, labelled
 
 $$
 |\Phi_{ab}\rangle = (I \otimes X^a Z^b) |\Phi\rangle = \frac{1}{\sqrt{2}}\left[|0\rangle_A |a\rangle_B + (-1)^b|1\rangle_A |\overline{a}\rangle_B\right],
