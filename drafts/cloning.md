@@ -51,5 +51,5 @@ $$
 $$
 
 so after Alice measures $a, b$, Bob has state $X^a Z^b \vert \psi\rangle$.
-
-If you want more detail on why it works, feel free to check out the [explainer](https://torsor.io/#blog/teleportation) I wrote a while back.
+Alice sends Bob $a$ and $b$ over a classical channel, so he can undo $X^a Z^b$ and then voila! He has the state $\vert\psi\rangle$.
+If you want more detail on *why* it works, feel free to check out the [explainer](https://torsor.io/#blog/teleportation) I wrote a while back.
