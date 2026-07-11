@@ -33,7 +33,7 @@ already has this form, and can be generalized in such a way that it clones multi
 The basic idea is hopefully familiar: Alice wants to send a quantum state $\vert\psi\rangle$ to Bob, and they share a maximally entangled Bell pair,
 
 $$
-|\Phi\rangle_{AB} = \frac{1}{\sqrt{2}}\bigg(|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B\bigg),
+|\Phi\rangle_{AB} = \frac{1}{\sqrt{2}}\big(|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B\big),
 $$
 
 where I omit the tensor product for simplicity.
