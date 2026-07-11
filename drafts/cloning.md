@@ -40,9 +40,14 @@ where I omit the tensor product for simplicity.
 The full system is initially $|\psi\rangle_A|\Phi\rangle_{AB}$. Alice then measures her qubits in the Bell basis, consisting of four states
 
 $$
-|\Phi_{ab}\rangle = (I \otimes X^a Z^b) |\Phi\rangle = \frac{1}{\sqrt{2}}\bigg(|0\rangle_A |a\rangle_B + (-1)^b|1\rangle_A |\overline{a}\rangle_B\bigg),
+|\Phi_{ab}\rangle = (I \otimes Z^b X^a) |\Phi\rangle = \frac{1}{\sqrt{2}}\bigg(|0\rangle_A |a\rangle_B + (-1)^b|1\rangle_A |\overline{a}\rangle_B\bigg),
 $$
 
-for $a, b = 1, 2$, where I've suppressed overall minus signs.
-This measurement couples Alice's state $|\psi\rangle$ to her second qubit, which is entangled with Bob; when she measures $a, b$, yielding a state $|\Phi_{ab}\rangle_A$, the state $|\psi\rangle$ is sent through to Bob
+for $a, b = 0, 1$, up to an overall minus sign we can ignore.
+This measurement couples Alice's state $|\psi\rangle$ to her second qubit, which is entangled with Bob; when she measures, this has the effect of sending the state $\vert\psi\rangle$ through to Bob, with some corrections. More precisely, some algebra shows that
+
+$$
+|\psi\rangle_A |\Phi\rangle_{AB} = \sum_{a, b} |\Phi_{ab}\rangle_A X^a Z^b |\psi\rangle.
+$$
+
 If you want more detail on why it works, feel free to check out the [explainer](https://torsor.io/#blog/teleportation) I wrote a while back.
