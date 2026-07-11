@@ -66,7 +66,7 @@ Admittedly, starting with the Coffman-Kundu-Wootters inequality may make things 
 The thing about entanglement is that it allows for "spooky action at a distance", and in the case of teleportation, the state $X^a Z^b \vert \psi\rangle$ appears *instantaneously* in Bob's system when Alice measures in the Bell basis. This is deeply disturbing, and in fact, gets even more disturbing: in a frame of reference moving relative to Alice and Bob, Bob receives the state $X^a Z^b \vert\psi\rangle$ *before* Alice measures in the Bell basis! So there are two copies of the state floating around. So we see that teleportation, in the right frame of reference, involves cloning. Formally, tracing out the middle qubit and working with density matrices,
 
 $$
-|\psi\rangle\langle\psi|_A \otimes \frac{1}{\sqrt{2}}I_B
+|\psi\rangle\langle\psi|_A \otimes \frac{1}{\sqrt{2}}I_B \xlongright{} |\psi\rangle\langle\psi|_A \otimes X^aZ^b|\psi\rangle\langle\psi|_B Z^bX^a.
 $$
  
 The thing that prevents this from being a violation of no-cloning is the same thing that prevents Alice from sending information faster than light: Bob holds $X^a Z^b \vert\psi\rangle$ and not $\vert\psi\rangle$ itself. This looks a lot 
