@@ -79,4 +79,6 @@ $$
 \rho = \sum_{a,b} c_{a,b} X^a Z^b, \quad c_{a,b} = \frac{1}{2}\mbox{tr}[\rho Z^bX^a].
 $$
 
+Now, assuming Bob has no idea what $\vert\psi\rangle$ is, he has no idea what the distribution over Alice's measurements $a$ and $b$ are, so they may as well be random from his point of view.
+
 ## Multiple copies
