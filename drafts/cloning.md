@@ -24,10 +24,9 @@ $$
 U_E |\psi\rangle |\phi_0\rangle = |\psi\rangle E |\psi\rangle,
 $$
 
-where $E$ is an operator that conceals access. Once you can copy once, you can copy multiple times, but they show that only one copy can ever be recovered.
-It's a beautiful scheme! But the point of this post is to argue that, in some sense, the familiar quantum phenomenon of teleportation
+where $E$ is an operator that cryptographically obfuscates the state. Once you can copy once, you can copy multiple times, but they show that despite this, only one copy can ever be recovered!
+It's a beautiful scheme. But the point of this post is to argue that, in some sense, the familiar quantum phenomenon of teleportation
 already has this form, and can be generalized in such a way that it clones multiple encrypted qubits.
-This is simpler and strictly different from Yamaguchi-Kempf procedure.
 
 ## Teleportation
 
