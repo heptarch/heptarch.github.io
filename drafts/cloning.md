@@ -79,10 +79,12 @@ $$
 \rho = \sum_{a,b} c_{a,b} X^a Z^b, \quad c_{a,b} = \frac{1}{2}\mbox{tr}[\rho Z^bX^a].
 $$
 
-From Bob's perspective, the bits $a$ and $b$ are random, and any particular combination occurs with probability $p = 1/4$. So the density matrix is
+From Bob's perspective, the bits $a$ and $b$ are random, and any particular combination occurs with probability $p = 1/4$. So his density matrix is
 
 $$
 \rho_B = p\sum_{ab} X^a Z^b |\psi\rangle\rangle \psi| Z^b X^a
+= p\sum_{abcd}  (-1)^{ad}(-1)^{bc}c_{cd} X^{c} Z^{d}
+= c_{00}.
 $$
 
 ## Multiple copies
