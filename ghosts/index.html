@@ -1835,9 +1835,9 @@
     loadTexture(data.src, (tex) => {
       pendingTextures--;
       mat.map = tex;
-      mat.color.set(0xffffff);
       mat.needsUpdate = true;
-      if (w.mirror) { w.mirror.img.material.map = tex; w.mirror.img.material.color.setScalar(1); w.mirror.img.material.needsUpdate = true; }
+      w.fadeIn = 0;                          // gains its true colour over the next moment, rather than snapping in
+      if (w.mirror) { w.mirror.img.material.map = tex; w.mirror.img.material.needsUpdate = true; }
       setDims(w, tex.image.width / tex.image.height);
     }, undefined, () => {
       pendingTextures--;
@@ -2959,6 +2959,18 @@
     }
   }
 
+  // a picture gains its true colour gradually once its texture arrives, rather than snapping in
+  const fadeFromCol = col(COLORS.placeholder), fadeToCol = new THREE.Color(1, 1, 1);
+  function updateFades(dt) {
+    works.concat(dictates).forEach((w) => {
+      if (w.fadeIn == null || w.fadeIn >= 1) return;
+      w.fadeIn = Math.min(1, w.fadeIn + dt / 0.8);
+      const eased = 1 - (1 - w.fadeIn) * (1 - w.fadeIn);   // quick at first, settling in
+      w.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
+      if (w.mirror) w.mirror.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
+    });
+  }
+
   let last = performance.now();
   function frame(now) {
     const raw = (now - last) / 1000;
@@ -2970,6 +2982,7 @@
     updateReveal(raw);
     updateLock();
     updateMusicZone();
+    updateFades(raw);
     camera.position.copy(pos);
     camera.rotation.set(pitch, yaw, 0);
     updateLighting(Math.min(0.1, raw), now / 1000);
