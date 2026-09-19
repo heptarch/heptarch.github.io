@@ -1835,9 +1835,10 @@
     loadTexture(data.src, (tex) => {
       pendingTextures--;
       mat.map = tex;
+      mat.color.copy(fadeFromCol);
       mat.needsUpdate = true;
       w.fadeIn = 0;                          // gains its true colour over the next moment, rather than snapping in
-      if (w.mirror) { w.mirror.img.material.map = tex; w.mirror.img.material.needsUpdate = true; }
+      if (w.mirror) { w.mirror.img.material.map = tex; w.mirror.img.material.color.copy(fadeFromCol); w.mirror.img.material.needsUpdate = true; }
       setDims(w, tex.image.width / tex.image.height);
     }, undefined, () => {
       pendingTextures--;
@@ -2959,8 +2960,10 @@
     }
   }
 
-  // a picture gains its true colour gradually once its texture arrives, rather than snapping in
-  const fadeFromCol = col(COLORS.placeholder), fadeToCol = new THREE.Color(1, 1, 1);
+  // a picture gains its true colour gradually once its texture arrives, rather than snapping in.
+  // Starts well below the idle placeholder's own brightness (81%), or the swing is too small to see —
+  // same warm hue, just genuinely dim at the moment of arrival, blooming up from there
+  const fadeFromCol = col(COLORS.placeholder).multiplyScalar(0.16), fadeToCol = new THREE.Color(1, 1, 1);
   function updateFades(dt) {
     works.concat(dictates).forEach((w) => {
       if (w.fadeIn == null || w.fadeIn >= 1) return;
