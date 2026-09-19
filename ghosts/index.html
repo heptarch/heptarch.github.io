@@ -1038,6 +1038,7 @@
           const off = i === 0 ? -(dw / 2 + 0.04) : i === 1 ? dw / 2 + 0.04 : 0;
           b.position.set(x + originX + (rotY ? 0 : off), b.position.y, z + (rotY ? off : 0));
           b.rotation.y = rotY;
+          b.castShadow = false;   // thin trim right above an open doorway; its shadow otherwise hangs as a dark bar in the passage below
         });
     };
     // side walls, with a doorway through to the neighbouring room where there is one
