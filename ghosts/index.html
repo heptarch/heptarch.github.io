@@ -300,11 +300,20 @@
     link.href = CONFIG.fontUrl;
     document.head.appendChild(link);
   }
-  // canvases only get the web font once it has actually loaded, so wait for it (briefly) before building
+  // canvases only get the web font once it has actually loaded, so wait for it (briefly) before building.
+  // But "briefly" is capped — on a slow connection the cap can fire before the font truly arrives, and
+  // since canvas text doesn't reflow like DOM text does, whatever font was active at draw time is what
+  // stays baked into the texture forever. realFontLoad (uncapped) lets wall-text panels redraw themselves
+  // once the font genuinely lands, even if that's after the cap already let building proceed.
+  const realFontLoad = CONFIG.font && document.fonts
+    ? Promise.all(['400 32px', '600 32px', 'italic 400 32px'].map((f) => document.fonts.load(f + ' "' + CONFIG.font + '"'))).catch(() => {})
+    : Promise.resolve();
+  let fontActuallyReady = !CONFIG.font || !document.fonts;
+  realFontLoad.then(() => { fontActuallyReady = true; });
   const fontsReady = CONFIG.font && document.fonts
     ? Promise.race([
-      Promise.all(['400 32px', '600 32px', 'italic 400 32px'].map((f) => document.fonts.load(f + ' "' + CONFIG.font + '"'))),
-      new Promise((r) => setTimeout(r, 3000)),
+      realFontLoad,
+      new Promise((r) => setTimeout(r, 6000)),
     ]).catch(() => {})
     : Promise.resolve();
 
@@ -734,7 +743,7 @@
     // the card is the wall's own colour lifted a little and warmed, so it reads as cream card on plaster
     const wall = new THREE.Color(COLORS.wall);
     const card = '#' + new THREE.Color(wall.r + (1 - wall.r) * 0.42, wall.g + (1 - wall.g) * 0.36, wall.b + (1 - wall.b) * 0.12).getHexString();
-    const tex = canvasTexture(W, H, (ctx) => {
+    const drawCard = (ctx) => {
       ctx.fillStyle = card;
       ctx.fillRect(0, 0, W, H);
       let y = pad;
@@ -743,8 +752,17 @@
         ctx.font = b.font; ctx.fillStyle = b.color; ctx.textBaseline = 'top';
         b.lines.forEach((l) => { ctx.fillText(l, pad, y); y += b.size * 1.3; });
       });
-    });
+    };
+    const tex = canvasTexture(W, H, drawCard);
     tex.encoding = THREE.sRGBEncoding;
+    if (!fontActuallyReady) {
+      realFontLoad.then(() => {
+        const ctx = tex.image.getContext('2d');
+        ctx.clearRect(0, 0, W, H);
+        drawCard(ctx);
+        tex.needsUpdate = true;
+      });
+    }
     const width = 0.3;
     // lit like the wall it hangs on, so it sits in the same pool of light rather than glowing
     const mesh = new THREE.Mesh(new THREE.PlaneGeometry(width, width * H / W), matte('#ffffff', tex, { roughness: 0.9 }));
@@ -763,15 +781,24 @@
     let H = 0;
     blocks.forEach((b, i) => { H += b.lines.length * b.size * 1.42 + (i ? b.gap : 0); });
     H = Math.ceil(H) + 8;
-    const tex = canvasTexture(W, H, (ctx) => {
+    const drawPanel = (ctx) => {
       let y = 0;
       blocks.forEach((b, i) => {
         if (i) y += b.gap;
         ctx.font = b.font; ctx.fillStyle = b.color; ctx.textBaseline = 'top';
         b.lines.forEach((l) => { ctx.fillText(l, 0, y); y += b.size * 1.42; });
       });
-    });
+    };
+    const tex = canvasTexture(W, H, drawPanel);
     tex.encoding = THREE.sRGBEncoding;
+    if (!fontActuallyReady) {
+      realFontLoad.then(() => {
+        const ctx = tex.image.getContext('2d');
+        ctx.clearRect(0, 0, W, H);
+        drawPanel(ctx);
+        tex.needsUpdate = true;
+      });
+    }
     const mesh = new THREE.Mesh(new THREE.PlaneGeometry(widthM, widthM * H / W),
       new THREE.MeshBasicMaterial({ map: tex, transparent: true, toneMapped: false }));
     mesh.userData.height = widthM * H / W;
@@ -2969,7 +2996,7 @@
   function updateFades(dt) {
     for (let i = fadingWorks.length - 1; i >= 0; i--) {
       const w = fadingWorks[i];
-      w.fadeIn = Math.min(1, w.fadeIn + dt / 0.8);
+      w.fadeIn = Math.min(1, w.fadeIn + dt / 1.5);
       const eased = 1 - (1 - w.fadeIn) * (1 - w.fadeIn);   // quick at first, settling in
       w.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
       if (w.mirror) w.mirror.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
