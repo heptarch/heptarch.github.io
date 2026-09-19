@@ -397,6 +397,27 @@
   }
   const sharedTextures = new Set();
 
+  // a picture's true aspect ratio, read from just the first bytes of its PNG header (width and height
+  // sit at fixed offsets right after the signature) via a ranged request — typically resolving long
+  // before the full multi-megabyte file does, so the frame can be sized correctly from the start
+  // instead of guessing square and resizing once the real image lands. Best-effort only: if the host
+  // doesn't honour Range requests, or the file isn't a PNG, or anything else goes wrong, this just
+  // quietly does nothing and the existing square-then-resize fallback carries on as before
+  function probePngAspect(src) {
+    return fetch(src, { headers: { Range: 'bytes=0-33' } }).then((res) => {
+      if (!res.ok) { console.warn('aspect probe: bad response', res.status, src); return null; }
+      if (res.status !== 206) console.warn('aspect probe: host did not honour the Range request (got ' + res.status + ', not 206) for', src, '— probably still works, but fetched the whole file to do it');
+      return res.arrayBuffer().then((buf) => {
+        if (buf.byteLength < 24) { console.warn('aspect probe: response too short', buf.byteLength, src); return null; }
+        const d = new DataView(buf);
+        const isPng = d.getUint32(0) === 0x89504e47 && d.getUint32(4) === 0x0d0a1a0a;
+        if (!isPng) { console.warn('aspect probe: not a PNG signature', src); return null; }
+        const width = d.getUint32(16), height = d.getUint32(20);
+        return width && height ? width / height : null;
+      });
+    }).catch((err) => { console.warn('aspect probe: fetch failed', src, err); return null; });
+  }
+
   /* ------------------------------ procedural textures ----------------------------- */
   function canvasTexture(w, h, draw, shared) {
     const c = document.createElement('canvas');
@@ -1858,6 +1879,11 @@
       w.mirror = { group: mg, img: mi, frame: mf };
     }
     setDims(w, data.aspect || 1);   // if the manifest gives the true ratio, the frame never has to resize once the image lands
+    if (!data.aspect) {
+      probePngAspect(data.src).then((aspect) => {
+        if (aspect) setDims(w, aspect);   // safe even if the real image already loaded and set the same thing
+      });
+    }
 
     pendingTextures++;
     loadTexture(data.src, (tex) => {
