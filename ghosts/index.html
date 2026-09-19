@@ -1857,7 +1857,7 @@
       room.add(mg);
       w.mirror = { group: mg, img: mi, frame: mf };
     }
-    setDims(w, 1);
+    setDims(w, data.aspect || 1);   // if the manifest gives the true ratio, the frame never has to resize once the image lands
 
     pendingTextures++;
     loadTexture(data.src, (tex) => {
