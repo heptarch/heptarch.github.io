@@ -2996,7 +2996,7 @@
   function updateFades(dt) {
     for (let i = fadingWorks.length - 1; i >= 0; i--) {
       const w = fadingWorks[i];
-      w.fadeIn = Math.min(1, w.fadeIn + dt / 1.5);
+      w.fadeIn = Math.min(1, w.fadeIn + dt / 2.5);
       const eased = 1 - (1 - w.fadeIn) * (1 - w.fadeIn);   // quick at first, settling in
       w.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
       if (w.mirror) w.mirror.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
