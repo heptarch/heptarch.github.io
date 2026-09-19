@@ -3,17 +3,17 @@
     "ghost":true,
     "foyer": {
 	"works": [
-	    { "src": "ghostimages/foyer1.png", "title": "...", "size":2},
-	    { "src": "ghostimages/02.png", "title": "..." },
-	    { "src": "ghostimages/foyer2.png", "title": "...", "size":1.3},
-	    { "src": "ghostimages/foyer3.png", "title": "...", "size":1.8},
-	    { "src": "ghostimages/foyer5.png", "title": "...", "size":1}
+	    { "src": "images/foyer1.png", "title": "...", "size":2},
+	    { "src": "images/02.png", "title": "..." },
+	    { "src": "images/foyer2.png", "title": "...", "size":1.3},
+	    { "src": "images/foyer3.png", "title": "...", "size":1.8},
+	    { "src": "images/foyer5.png", "title": "...", "size":1}
 	],
 	"sculptures": [
 	    { "title": "Trefoil", "plinth": 0.9 }
 	]
     },
-    "secret": { "code": "#52544a", "exit": { "code": "#d7f892" },     "music": ["ghostmusic/corridor.mp3"],
+    "secret": { "code": "#52544a", "exit": { "code": "#d7f892" },     "music": ["music/corridor.mp3"],
     "musicVolume": 0.2, "dictates": [
 	{ "src": "images/d01.png", "caption": "Do not number the dictates." },
 	{ "src": "images/d02.png", "caption": "Do not number the dictates." },
@@ -37,7 +37,7 @@
     "note": "Founded in Berkeley in the early 1990s around legendary art theorist Cornelius Grossburger, the collective works from an inherited discipline: a set of instructions, unnumbered and incomplete, but kept vital via the group's joint practice.\n\n The collective has no public face and does not share its dictates. Members cite Dadaism, Oulipo, and Wittgenstein as formative influences; while the connection may not be evident in the work itself, the resemblance is manifest in the puzzles and analogies to which the collective frequently recurs. Art, they remind us, is both a game to be played and a mystery to be solved.\n\nFrom Berkeley, the collective has since spread internationally to New York, Paris, Hanoi, Vancouver, Luxembourg, São Paulo, Fez, and elsewhere. For this exhibition, members were invited to respond to the theme of guǐ dǎ qiáng (鬼打墙) and caption the results. Although they vary widely in style and tone, each contributor claims to remain faithful to Grossburger's original vision; another ghost, another wall, another origin returned to.",
     "note1": "None of the work here is signed with real names. Its makers describe themselves, when pressed, as members of a collective without a public face, formed around what several call an inherited discipline: a set of instructions, numbered but incomplete, and laid down by a single legendary teacher around Berkeley in the early 90s.\n\nThough uniformly reluctant to disclose their rules, the members variously describe themselves as inspired by Dadaism, Oulipo, the Frankfurt school, Wittgenstein, and Bach. Since the work of the collective bears no resemblance to any of the above, we cannot determine if these precursors are imagined, or real and governed by some abstract law of resemblance.\n\nFrom Berkeley, the practitioners of the collective have spread to New York, Paris, Hanoi, Vancouver, Luxembourg, Sao Paulo, Fez, and elsewhere; it is a global diaspora. We asked each member to respond to the theme of guǐ dǎ qiáng. Despite differences of medium and intent, they all claim their contributions maintain fidelity to the discipline; another origin returned to.",
   "colors": { "wall": "#e4e0d8" },
-  "music": ["ghostmusic/gallery.mp3"],
+  "music": ["music/gallery.mp3"],
   "musicVolume": 0.5,
   "rooms": [
     {
