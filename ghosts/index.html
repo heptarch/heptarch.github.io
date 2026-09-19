@@ -951,6 +951,7 @@
   /* ------------------------------------ room ------------------------------------- */
   let room = null;
   let works = [];
+  let fadingWorks = [];  // every picture mid-fade-in, tracked independently of works/dictates so foyer pictures and the like (never added to either) still brighten up properly
   let rooms = [];      // [{ cx, W, D, x0, x1, z0, z1, frontInset, title, works }]
   let doorways = [];   // openings in the walls between rooms: [{ x, z, w }]
   let originX = 0;     // where the room being built sits along x
@@ -1838,6 +1839,7 @@
       mat.color.copy(fadeFromCol);
       mat.needsUpdate = true;
       w.fadeIn = 0;                          // gains its true colour over the next moment, rather than snapping in
+      fadingWorks.push(w);
       if (w.mirror) { w.mirror.img.material.map = tex; w.mirror.img.material.color.copy(fadeFromCol); w.mirror.img.material.needsUpdate = true; }
       setDims(w, tex.image.width / tex.image.height);
     }, undefined, () => {
@@ -2965,13 +2967,14 @@
   // same warm hue, just genuinely dim at the moment of arrival, blooming up from there
   const fadeFromCol = col(COLORS.placeholder).multiplyScalar(0.16), fadeToCol = new THREE.Color(1, 1, 1);
   function updateFades(dt) {
-    works.concat(dictates).forEach((w) => {
-      if (w.fadeIn == null || w.fadeIn >= 1) return;
+    for (let i = fadingWorks.length - 1; i >= 0; i--) {
+      const w = fadingWorks[i];
       w.fadeIn = Math.min(1, w.fadeIn + dt / 0.8);
       const eased = 1 - (1 - w.fadeIn) * (1 - w.fadeIn);   // quick at first, settling in
       w.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
       if (w.mirror) w.mirror.img.material.color.copy(fadeFromCol).lerp(fadeToCol, eased);
-    });
+      if (w.fadeIn >= 1) fadingWorks.splice(i, 1);   // done — stop tracking it
+    }
   }
 
   let last = performance.now();
