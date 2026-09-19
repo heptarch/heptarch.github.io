@@ -1,0 +1,2985 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>gallery</title>
+<style>
+  :root {
+    --wall: #e9e5dd;
+    --ink: #2b2622;
+    --muted: #7a736b;
+    --knob: #ece8e1;
+  }
+  html, body {
+    margin: 0; height: 100%; overflow: hidden;
+    background: var(--wall); color: var(--ink);
+    font-family: var(--font, Cardo, serif);
+  }
+  #scene { position: fixed; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; cursor: grab; }
+  #scene.dragging { cursor: grabbing; }
+  #scene.over { cursor: pointer; }
+
+  #ui { position: fixed; inset: 0; pointer-events: none; }
+  #ui > * { position: absolute; }
+
+  #top-left { left: 24px; top: 20px; max-width: 44ch; }
+  #gallery-title { font-size: 18px; letter-spacing: 0.01em; font-weight:bold;}
+  #gallery-subtitle { font-size: 13px; color: var(--muted); margin-top: 2px; font-style:italic}
+  #gallery-subtitle:empty, #room-title:empty, #caption-meta:empty, #caption-text:empty { display: none; }
+  #room-title { font-size: 13px; color: var(--muted); margin-top: -17.5px; margin-left: 120px; transition: opacity 0.4s; display:none}
+  #caption-meta { font-size: 13px; color: var(--muted); margin-top: 3px; font-style:italic}
+  #caption { margin-top: 16px; transition: opacity 0.35s}
+  #caption.hidden { opacity: 0; }
+  #lock { margin-top: 16px; }
+  #lock.hidden { display: none; }
+  #lock-title { font-size: 18px; line-height: 1.3; margin-top: -15px}
+  #lock-text, #lock-hint { font-size: 14px; line-height: 1.5; color: var(--muted); margin-top: 3px; }
+  #lock-input {
+    pointer-events: auto; display: block; margin-top: 8px; font: inherit; font-size: 16px; letter-spacing: 0.12em;
+    color: var(--ink); background: transparent; border: 0; border-bottom: 1px solid var(--muted); padding: 2px 0; width: 9ch; outline: none;
+  }
+  #lock-input:focus { border-bottom-color: var(--ink); }
+  #lock.wrong #lock-input { animation: shake 0.35s; }
+  @keyframes shake { 25% { transform: translateX(-4px); } 75% { transform: translateX(4px); } }
+  #caption-title { font-size: 18px; line-height: 1.3; margin-top: -15px;}
+  #caption-title:empty { display: none; }
+  #caption-text { font-size: 14px; line-height: 1.5; color: var(--muted); margin-top: 3px; white-space: pre-line; display: none}
+  #nav { margin-top: 8px; font-size: 13px; color: var(--muted); display: flex; align-items: center; gap: 2px; margin-left: -8px; }
+  #pager.hidden { display: none; }
+  #pager { display: flex; align-items: center; gap: 2px; }
+  #nav button {
+    pointer-events: auto; font: inherit; font-size: 20px; line-height: 1; color: var(--ink);
+    background: none; border: 0; padding: 2px 8px 4px; cursor: pointer; border-radius: 3px;
+  }
+  #nav button:focus-visible { outline: 1.5px solid var(--ink); outline-offset: 1px; }
+  #nav #enlarge.hidden { display: none; }
+  #nav #enlarge { font-size: 13px; color: var(--muted); text-decoration: underline; text-underline-offset: 3px; padding: 2px 6px 4px; margin-left: 8px; }
+  #pager.hidden + #enlarge { margin-left: 0; padding-left: 8px; }
+  #music { margin-top: 18px; font-size: 13px; line-height: 1.6; color: var(--muted); }
+  #music.hidden { display: none; }
+  #music button {
+    pointer-events: auto; font: inherit; color: var(--ink); background: none; border: 0; padding: 0;
+    text-decoration: underline; text-underline-offset: 3px; cursor: pointer;
+  }
+  #music button:focus-visible { outline: 1.5px solid var(--ink); outline-offset: 2px; }
+  #music-track:empty { display: none; }
+  #help-toggle {
+    pointer-events: auto; font: inherit; font-size: 15px; color: var(--muted); background: none; border: 0;
+    padding: 0 0 8px 8px; cursor: pointer; margin-top: 10px
+  }
+  #help-toggle:focus-visible { outline: 1.5px solid var(--ink); outline-offset: 2px; }
+  #crosshair {
+    left: 50%; top: 50%; width: 10px; height: 10px; margin: -5px 0 0 -5px;
+    border: 1.5px solid rgba(43, 38, 34, 0.6); border-radius: 50%;
+  }
+  #crosshair.hidden { display: none; }
+  #scene.locked { cursor: none; }
+
+  #flat {
+    position: fixed; inset: 0; z-index: 10; display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 22px; padding: 44px 32px 32px; background: rgba(27, 25, 23, 0.94); color: #ece8e1;
+  }
+  #flat.hidden { display: none; }
+  body.flat #ui { visibility: hidden; }
+  #flat:focus { outline: none; }
+  #flat-image { max-width: min(92vw, 1400px); max-height: 72vh; object-fit: contain; box-shadow: 0 30px 80px rgba(0, 0, 0, 0.5); }
+  #flat-copy { max-width: 60ch; text-align: center; font-size: 14px; line-height: 1.6; color: rgba(236, 232, 225, 0.78); }
+  #flat-title { font-size: 20px; color: #ece8e1; }
+  #flat-meta { margin-top: 2px; font-style:italic}
+  #flat-caption { margin-top: 8px; white-space: pre-line; color: #ece8e1;}
+  #flat-description { margin-top: 10px; white-space: pre-line; }
+  #flat-meta:empty, #flat-caption:empty, #flat-description:empty { display: none; }
+  .flat-arrow {
+    position: absolute; top: 50%; transform: translateY(-50%); font: inherit; font-size: 44px; line-height: 1;
+    color: rgba(236, 232, 225, 0.7); background: none; border: 0; cursor: pointer; padding: 12px 18px;
+  }
+  .flat-arrow:hover, .flat-arrow:focus-visible { color: #ece8e1; outline: none; }
+  #flat-prev { left: 10px; }
+  #flat-next { right: 10px; }
+  .flat-arrow.hidden { display: none; }
+  #flat-count { margin-top: 12px; font-size: 13px; color: rgba(236, 232, 225, 0.55); }
+  #flat-count:empty { display: none; }
+  @media (pointer: coarse) { .flat-arrow { font-size: 36px; padding: 10px 12px; } }
+  #flat-close {
+    position: absolute; top: 14px; right: 20px; font: inherit; font-size: 28px; line-height: 1; color: rgba(236, 232, 225, 0.8);
+    background: none; border: 0; cursor: pointer; padding: 4px 8px;
+  }
+  #flat-close:focus-visible { outline: 1.5px solid #ece8e1; outline-offset: 2px; }
+
+  #top-right { right: 24px; top: 20px; text-align: right; max-width: 44ch; }
+  #help { font-size: 13px; line-height: 1.6; color: var(--muted); white-space: pre-line; transition: opacity 1.4s; }
+  #help.faded { opacity: 0; }
+
+  #note { margin-top: 18px; font-size: 13px; line-height: 1.6; color: var(--muted); }
+  #note button {
+    pointer-events: auto; font: inherit; color: var(--ink); background: none; border: 0; padding: 0;
+    text-decoration: underline; text-underline-offset: 3px; cursor: pointer;
+  }
+  #note button:focus-visible { outline: 1.5px solid var(--ink); outline-offset: 2px; }
+  #note.hidden { display: none; }
+
+  #stick {
+    display: none; left: 24px; bottom: 28px; width: 112px; height: 112px; border-radius: 50%;
+    border: 1px solid rgba(236, 232, 225, 0.6); pointer-events: auto; touch-action: none;
+  }
+  #knob {
+    position: absolute; left: 50%; top: 50%; width: 44px; height: 44px; margin: -22px 0 0 -22px;
+    border-radius: 50%; background: var(--knob); opacity: 0.85;
+  }
+  @media (pointer: coarse) {
+    #stick { display: block; }
+    #top-right { max-width: 52vw; }
+    #flat { gap: 16px; padding: 56px 16px 24px; }
+    #flat-image { max-height: 58vh; max-width: 100%; }
+  }
+
+  body.dragover::after { content: ""; position: fixed; inset: 12px; border: 1px dashed var(--ink); pointer-events: none; }
+  #curtain {
+    position: fixed; inset: 0; z-index: 20; background: var(--wall); display: grid; place-items: center;
+    transition: opacity 1.6s ease; pointer-events: none;
+  }
+  #curtain.gone { opacity: 0; }
+  #curtain-title { font-size: 15px; color: var(--muted); opacity: 0; transition: opacity 0.8s; }
+  #curtain-title.show { opacity: 1; }
+  #fallback { display: none; position: fixed; inset: 0; place-items: center; padding: 24px; font-size: 15px; line-height: 1.5; text-align: center; }
+  input[type="file"] { display: none; }
+</style>
+</head>
+<body>
+<canvas id="scene" aria-label="Walkable 3D gallery"></canvas>
+
+<div id="ui">
+  <div id="top-left">
+    <div id="lock" class="hidden">
+      <div id="lock-title">Ghost Door</div>
+      <div id="lock-text"><i>David Wakeham, 2026</i></div>
+      <input id="lock-input" type="text" maxlength="7" spellcheck="false" autocomplete="off" placeholder="#______" aria-label="Code for the small door">
+      <div id="lock-hint"></div>
+    </div>
+    <div id="caption" class="hidden" aria-live="polite">
+      <div id="caption-title"></div>
+      <div id="caption-meta"></div>
+      <div id="caption-text"></div>
+      <div id="nav">
+        <span id="pager">
+          <button id="prev" type="button" aria-label="Previous picture">‹</button>
+          <span id="count"></span>
+          <button id="next" type="button" aria-label="Next picture">›</button>
+        </span>
+        <button id="enlarge" type="button">(enlarge)</button>
+      </div>
+    </div>
+  </div>
+  <div id="top-right">
+    <div id="gallery-title"></div>
+    <div id="gallery-subtitle"></div>
+    <div id="room-title"></div>
+    <button id="help-toggle" type="button" aria-label="Show or hide the controls">?</button>
+    <div id="help"></div>
+    <div id="note" class="hidden"></div>
+    <div id="music" class="hidden">
+      <button id="music-toggle" type="button"></button>
+      <div id="music-track"></div>
+    </div>
+  </div>
+  <div id="crosshair" class="hidden" aria-hidden="true"></div>
+  <div id="stick" aria-hidden="true"><div id="knob"></div></div>
+</div>
+<div id="flat" class="hidden" role="dialog" aria-modal="true" aria-label="Picture, larger" tabindex="-1">
+  <button id="flat-close" type="button" aria-label="Close">×</button>
+  <button id="flat-prev" type="button" class="flat-arrow" aria-label="Previous picture">‹</button>
+  <button id="flat-next" type="button" class="flat-arrow" aria-label="Next picture">›</button>
+  <img id="flat-image" alt="">
+  <div id="flat-copy">
+    <div id="flat-title"></div>
+    <div id="flat-meta"></div>
+    <div id="flat-caption"></div>
+    <div id="flat-description"></div>
+    <div id="flat-count"></div>
+  </div>
+</div>
+<div id="curtain" aria-hidden="true"><div id="curtain-title"></div></div>
+<div id="fallback">This gallery needs WebGL, which your browser has turned off or does not support.</div>
+<input id="picker" type="file" accept="image/*" multiple>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  /* ------------------------------------------------------------------
+     Settings. Edit these, or edit images.json to change what hangs.
+     ------------------------------------------------------------------ */
+  const CONFIG = {
+    manifest: ['images.json', 'gallery.json'], // first one found is used. { "title", "subtitle", "intro", "colors": {...}, "music": [...], "musicVolume", "works": [ { "src", "title", "artist", "year", "caption", "description", "size", "wall" } ] }  or  "rooms": [ { "title", "colors", "works": [...] }, ... ]
+    title: 'gallery',        // used when the manifest has no title
+    eyeHeight: 1.4,          // metres
+    hangHeight: 1.5,         // centre of each picture above the floor, metres
+    wallHeight: 4.2,
+    spacing: 3.2,            // metres between picture centres along a wall
+    workSize: 1.5,           // default longest side of a picture, metres (override per work with "size")
+    walkSpeed: 2.4,          // metres per second
+    maxPixelRatio: 1.5,      // render density on high-dpi screens: 2 is sharpest, 1 is fastest; it drops on its own if frames fall behind
+    crouchHeight: 0.9,       // eye height when crouched (space); the small door needs it
+    lookSpeed: 0.0042,       // radians per pixel of drag
+    door: { width: 2.0, height: 2.4 },        // opening in the front wall, roped off
+    foyer: { width: 6.4, depth: 5.2, height: 3.1 },
+    exposure: 1.2,
+    ambient: 0.8,            // overall room light from the skylight; lower is moodier
+    spot: 0.85,              // strength of the pool each spot throws on the wall, 0 to 1
+    liveSpots: 0,            // how many nearby pictures get a real, shadow-casting spotlight (fewer on phones)
+    daylightDrift: 0.4,      // how much the room dims when a cloud fully hides the sun, 0 for no effect
+    cloudSpeed: 0.0025,      // how fast the clouds drift; 0.0025 is a light breeze
+    cloudScale: 100,         // size of the big cloud shapes, in metres
+    cloudCover: 0.45,        // how much of the sky is cloud, 0 to 1
+    cloudHeaviness: 2.0,     // how much thick clouds self-shadow toward dark grey; 1 is the old default, 0 flattens them out
+    skylightMargin: 2.0,     // total dark ceiling left at each room's skylight, regardless of the room's own size, so they line up room to room
+    emptyRoomSize: 3,        // floor for the last room's own width/depth, if it's empty — separate from the normal 9m floor every other room uses
+    cloudSteps: 20,          // samples per ray through the cloud layer; more is smoother and slower (phones use half)
+    showTrackName: false,    // print the playing track's name under the music control
+    floor: 'wood',           // 'wood' for oak boards, or a number 0 to 40 for speckled concrete (0 is smooth)
+    floorGloss: 0.45,        // roughness of the floor finish: 0.3 is a lacquer, 0.8 is matte
+    floorReflection: 0.02,    // how much of the pictures shows in the floor: 0 is none, 0.2 is a lot
+    ghost: false,            // pictures change places while you aren't looking; "ghost": true in a manifest turns it on for that show, g toggles it
+    ghostEvery: [30, 90],    // seconds between hauntings, chosen at random within this range each time
+    wallLabels: true,        // a printed label beside each picture
+    font: 'Cardo',     // used for the screen text, the wall labels and the wall text
+    fontUrl: 'https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap', // a Google Fonts stylesheet for it, or '' for a font already on the machine
+    fontFallback: 'Georgia, "Iowan Old Style", "Palatino Linotype", Palatino, serif',
+  };
+
+  const COLORS = {
+    wall: '#e4e0d8',
+    ceiling: '#e6e3dd',
+    floor: '#98785a',
+    trim: '#cdc3b5',
+    frame: '#1f1c19',
+    fixture: '#d3cec5',    // track, spot heads, skylight border: a shade under the wall
+    skylightBars: '#d3cec5', // the glazing bars, seen from below against the sky
+    skirting: '#d3cec5',
+    foyerSkirting: '#bdb3a5',
+    foyerTrim: '#cdc3b5',      // the frame round the stair opening; the same as foyerWall, so it disappears into it
+    pendant: '#26231f',
+    metal: '#44454a',
+    rope: '#2a2320',
+    foyerWall: '#cdc3b5',
+    foyerCeiling: '#d5cfc5',
+    foyerFloor: '#8e7457',
+    wood: '#7f6a52',
+    placeholder: '#d6d1c8',
+  };
+
+  const params = new URLSearchParams(location.search);
+  if (params.has('lite')) { CONFIG.liveSpots = 3; CONFIG.cloudSteps = 10; CONFIG.floorReflection = 0; }
+  if (params.get('manifest')) CONFIG.manifest = [params.get('manifest')];
+
+  const $ = (id) => document.getElementById(id);
+  const ui = {
+    title: $('gallery-title'), help: $('help'), caption: $('caption'), capTitle: $('caption-title'),
+    capText: $('caption-text'), nav: $('nav'), count: $('count'), prev: $('prev'), next: $('next'),
+    note: $('note'), stick: $('stick'), knob: $('knob'), picker: $('picker'),
+    lock: $('lock'), lockText: $('lock-text'), lockInput: $('lock-input'), lockHint: $('lock-hint'),
+    subtitle: $('gallery-subtitle'), roomTitle: $('room-title'), capMeta: $('caption-meta'), pager: $('pager'), enlarge: $('enlarge'),
+    helpToggle: $('help-toggle'), crosshair: $('crosshair'),
+    music: $('music'), musicToggle: $('music-toggle'), musicTrack: $('music-track'),
+    flat: $('flat'), flatImage: $('flat-image'), flatTitle: $('flat-title'), flatMeta: $('flat-meta'),
+    flatCaption: $('flat-caption'), flatDescription: $('flat-description'), flatClose: $('flat-close'),
+    flatPrev: $('flat-prev'), flatNext: $('flat-next'), flatCount: $('flat-count'),
+    curtain: $('curtain'), curtainTitle: $('curtain-title'),
+  };
+  const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const coarsePointer = matchMedia('(pointer: coarse)').matches;
+
+  const FONT = (CONFIG.font ? '"' + CONFIG.font + '", ' : '') + CONFIG.fontFallback;
+  document.documentElement.style.setProperty('--font', FONT);
+  if (CONFIG.font && CONFIG.fontUrl) {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = CONFIG.fontUrl;
+    document.head.appendChild(link);
+  }
+  // canvases only get the web font once it has actually loaded, so wait for it (briefly) before building
+  const fontsReady = CONFIG.font && document.fonts
+    ? Promise.race([
+      Promise.all(['400 32px', '600 32px', 'italic 400 32px'].map((f) => document.fonts.load(f + ' "' + CONFIG.font + '"'))),
+      new Promise((r) => setTimeout(r, 3000)),
+    ]).catch(() => {})
+    : Promise.resolve();
+
+  const col = (hex) => new THREE.Color(hex).convertSRGBToLinear();
+  const v3 = (x, y, z) => new THREE.Vector3(x, y, z);
+
+  /* ---------------------------------- renderer ---------------------------------- */
+  const canvas = $('scene');
+  let renderer = null;
+  // ask for the fast GPU first, then anything; a page can be refused a context when the browser has
+  // too many open (about sixteen), or when the graphics driver has just been reset
+  for (const options of [{ antialias: true, powerPreference: 'high-performance' }, { antialias: true }, { antialias: false, failIfMajorPerformanceCaveat: false }]) {
+    try { renderer = new THREE.WebGLRenderer(Object.assign({ canvas }, options)); break; } catch (err) { console.warn('WebGL:', err.message); }
+  }
+  if (!renderer) {
+    $('fallback').style.display = 'grid';
+    $('fallback').textContent = 'The browser would not give this page a WebGL context. That usually means too many WebGL tabs are open, or the graphics driver has just been reset: close other tabs of the gallery, or restart the browser, and reload.';
+    return;
+  }
+  canvas.addEventListener('webglcontextlost', (e) => {
+    e.preventDefault();
+    $('fallback').style.display = 'grid';
+    $('fallback').textContent = 'The graphics context was lost, most often because the GPU was overloaded or reset. Reload the page; if it keeps happening, add ?lite to the address for a lighter version.';
+  });
+  let pixelRatio = Math.min(window.devicePixelRatio || 1, CONFIG.maxPixelRatio);
+  renderer.setPixelRatio(pixelRatio);
+  renderer.outputEncoding = THREE.sRGBEncoding;
+  renderer.toneMapping = THREE.ACESFilmicToneMapping;
+  renderer.toneMappingExposure = CONFIG.exposure;
+  renderer.shadowMap.enabled = !coarsePointer;
+  renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+  renderer.shadowMap.autoUpdate = false;
+  const maxAniso = renderer.capabilities.getMaxAnisotropy();
+
+  const scene = new THREE.Scene();
+  scene.background = col(COLORS.wall);
+  scene.fog = new THREE.Fog(col(COLORS.wall), 24, 90);
+
+  const camera = new THREE.PerspectiveCamera(58, 1, 0.05, 6000);
+  camera.rotation.order = 'YXZ';
+
+  // Image-based lighting: a small hidden room with a bright ceiling panel is rendered
+  // into an environment map. Every matte surface is then lit from above, with soft
+  // falloff and gentle reflections, instead of from a few point sources.
+  (function lightTheRoom() {
+    const env = new THREE.Scene();
+    const grey = (v) => new THREE.MeshBasicMaterial({ color: new THREE.Color().setScalar(v * CONFIG.ambient), side: THREE.BackSide });
+    env.add(new THREE.Mesh(new THREE.BoxGeometry(10, 6, 10),
+      [grey(0.44), grey(0.44), grey(0.85), grey(0.16), grey(0.44), grey(0.44)]));
+    const panel = new THREE.Mesh(new THREE.PlaneGeometry(3.6, 6.5),
+      new THREE.MeshBasicMaterial({ color: new THREE.Color(3.2, 3.05, 2.8).multiplyScalar(CONFIG.ambient) }));
+    panel.rotation.x = Math.PI / 2;
+    panel.position.y = 2.95;
+    env.add(panel);
+    const pmrem = new THREE.PMREMGenerator(renderer);
+    scene.environment = pmrem.fromScene(env, 0.04).texture;
+    pmrem.dispose();
+  })();
+
+  const loader = new THREE.TextureLoader();
+  // one texture per file, however many times it is hung (the corridor repeats each dictate several times)
+  const textures = new Map();
+  function loadTexture(src, onLoad, onError) {
+    const have = textures.get(src);
+    if (have && have.tex) { setTimeout(() => onLoad(have.tex), 0); return; }
+    if (have) { have.waiting.push([onLoad, onError]); return; }
+    const entry = { tex: null, waiting: [] };
+    textures.set(src, entry);
+    loader.load(src, (tex) => {
+      tex.encoding = THREE.sRGBEncoding;
+      tex.anisotropy = maxAniso;
+      entry.tex = tex;
+      onLoad(tex);
+      entry.waiting.forEach(([ok]) => ok(tex));
+      entry.waiting = [];
+    }, undefined, (err) => {
+      textures.delete(src);
+      onError(err);
+      entry.waiting.forEach(([, bad]) => bad(err));
+    });
+  }
+  const sharedTextures = new Set();
+
+  /* ------------------------------ procedural textures ----------------------------- */
+  function canvasTexture(w, h, draw, shared) {
+    const c = document.createElement('canvas');
+    c.width = w; c.height = h;
+    draw(c.getContext('2d'), w, h);
+    const tex = new THREE.CanvasTexture(c);
+    tex.anisotropy = maxAniso;
+    if (shared) sharedTextures.add(tex);
+    return tex;
+  }
+
+  // darkening near edges, so corners and the floor line read as corners: a cheap ambient occlusion
+  function edgeShade(ctx, w, h, sides, amount, fx, fy) {
+    const fade = (x0, y0, x1, y1) => {
+      const g = ctx.createLinearGradient(x0, y0, x1, y1);
+      g.addColorStop(0, 'rgba(0,0,0,' + amount + ')');
+      g.addColorStop(1, 'rgba(0,0,0,0)');
+      ctx.fillStyle = g;
+      ctx.fillRect(0, 0, w, h);
+    };
+    if (sides.left) fade(0, 0, w * fx, 0);
+    if (sides.right) fade(w, 0, w - w * fx, 0);
+    if (sides.top) fade(0, 0, 0, h * fy);
+    if (sides.bottom) fade(0, h, 0, h - h * fy);
+  }
+
+  function wallShade(len, height, sides) {
+    return canvasTexture(512, 128, (ctx, w, h) => {
+      ctx.fillStyle = '#fff';
+      ctx.fillRect(0, 0, w, h);
+      const g = ctx.createLinearGradient(0, 0, 0, h);   // brighter where the skylight reaches
+      g.addColorStop(0, 'rgba(0,0,0,0.06)');
+      g.addColorStop(0.3, 'rgba(0,0,0,0)');
+      g.addColorStop(1, 'rgba(0,0,0,0.14)');
+      ctx.fillStyle = g;
+      ctx.fillRect(0, 0, w, h);
+      edgeShade(ctx, w, h, { left: sides.left !== false, right: sides.right !== false, bottom: sides.bottom !== false },
+        0.28, Math.min(0.5, 0.75 / len), Math.min(0.5, 0.45 / height));
+    });
+  }
+
+  // smooth darkening toward the walls, used as an ambient-occlusion map on floors and ceilings
+  function edgeMap(W, D, amount) {
+    const cw = W >= D ? 256 : Math.round(256 * W / D);
+    const ch = W >= D ? Math.round(256 * D / W) : 256;
+    return canvasTexture(cw, ch, (ctx, w, h) => {
+      ctx.fillStyle = '#fff';
+      ctx.fillRect(0, 0, w, h);
+      edgeShade(ctx, w, h, { left: true, right: true, top: true, bottom: true }, amount, Math.min(0.5, 0.9 / W), Math.min(0.5, 0.9 / D));
+    });
+  }
+
+  // a small tile of fine speckle, repeated every `tile` metres so it stays crisp underfoot
+  // and averages away at a distance (polished concrete, limestone). amount 0 gives a smooth surface.
+  function grainMap(W, D, amount, tile) {
+    if (!amount) return null;
+    const size = 256;
+    const tex = canvasTexture(size, size, (ctx, w, h) => {
+      const img = ctx.createImageData(w, h);
+      for (let i = 0; i < img.data.length; i += 4) {
+        const v = 255 - Math.random() * amount;
+        img.data[i] = img.data[i + 1] = img.data[i + 2] = v;
+        img.data[i + 3] = 255;
+      }
+      ctx.putImageData(img, 0, 0);
+    });
+    tex.wrapS = tex.wrapT = THREE.RepeatWrapping;
+    tex.repeat.set(W / tile, D / tile);
+    return tex;
+  }
+
+  // oak boards: a tile of eight planks with wandering grain, staggered end joints and seams,
+  // laid along the room's long axis and repeated. Greyscale, so the material colour sets the wood.
+  let woodTile = null;
+  function woodMap(W, D) {
+    const L = 2048, S = 512;   // a 4.8 m by 1.2 m tile, eight 15 cm boards across
+    if (!woodTile) woodTile = drawWoodTile(L, S);
+    const lengthwise = W >= D; // boards run the long way
+    let c = woodTile;
+    if (!lengthwise) {
+      c = document.createElement('canvas');
+      c.width = S; c.height = L;
+      const r = c.getContext('2d');
+      r.translate(S, 0); r.rotate(Math.PI / 2);
+      r.drawImage(woodTile, 0, 0);
+    }
+    const tex = new THREE.CanvasTexture(c);
+    tex.anisotropy = maxAniso;
+    tex.wrapS = tex.wrapT = THREE.RepeatWrapping;
+    tex.repeat.set(W / (lengthwise ? 4.8 : 1.2), D / (lengthwise ? 1.2 : 4.8));
+    return tex;
+  }
+  function drawWoodTile(L, S) {
+    const planks = 8, plankH = S / planks;
+    const seed = (n) => { const x = Math.sin(n * 127.1 + 311.7) * 43758.5453; return x - Math.floor(x); };
+    const tile = document.createElement('canvas');
+    tile.width = L; tile.height = S;
+    const ctx = tile.getContext('2d');
+    const img = ctx.createImageData(L, S);
+    const data = img.data;
+    // value noise, sampled around a circle in x so the tile repeats without a seam
+    const hash = (i, j) => {
+      let h = (Math.imul(i, 374761393) + Math.imul(j, 668265263)) | 0;
+      h = Math.imul(h ^ (h >>> 13), 1274126177);
+      return ((h ^ (h >>> 16)) >>> 0) / 4294967296;
+    };
+    const noise = (x, y) => {
+      const i = Math.floor(x), j = Math.floor(y);
+      let fx = x - i, fy = y - j;
+      fx = fx * fx * (3 - 2 * fx); fy = fy * fy * (3 - 2 * fy);
+      const a = hash(i, j), b = hash(i + 1, j), c = hash(i, j + 1), d = hash(i + 1, j + 1);
+      const top = a + (b - a) * fx, bottom = c + (d - c) * fx;
+      return top + (bottom - top) * fy;
+    };
+    const cosT = new Float32Array(L), sinT = new Float32Array(L);
+    for (let x = 0; x < L; x++) { cosT[x] = Math.cos(2 * Math.PI * x / L); sinT[x] = Math.sin(2 * Math.PI * x / L); }
+    const alongRow = (x0) => { // periodic distance along the board from x0, for every x
+      const a = new Float32Array(L);
+      for (let x = 0; x < L; x++) a[x] = (L / Math.PI) * Math.sin(Math.PI * (x - x0) / L);
+      return a;
+    };
+    const joints = [];
+    for (let p = 0; p < planks; p++) {   // boards end every couple of metres, never in line with their neighbours
+      const first = seed(p * 3 + 1) * L, list = [first];
+      let x = first;
+      for (let k = 0; k < 3; k++) { x += (0.35 + seed(p * 3 + 2 + k * 7) * 0.25) * L; if (x - first < L * 0.85) list.push(x % L); }
+      joints.push(list);
+    }
+    for (let p = 0; p < planks; p++) {
+      const tone = 0.86 + seed(p * 7 + 3) * 0.14;
+      const cx = seed(p * 7 + 4) * L, cy = plankH * (seed(p * 7 + 5) * 1.6 - 0.3); // growth-ring centre, off the board so rings sweep across it as arches
+      const elong = 0.045 + seed(p * 7 + 6) * 0.07;           // how stretched the arches are
+      const ringFreq = 0.08 + seed(p * 7 + 7) * 0.06;         // rings per pixel
+      const s1 = p * 31.7, s2 = p * 17.3 + 5, s3 = p * 43.1 + 9;
+      // none, one or two knots per board, wherever they fall
+      const nk = seed(p * 11 + 2) < 0.4 ? 0 : seed(p * 11 + 2) < 0.8 ? 1 : 2;
+      const knots = [];
+      for (let k = 0; k < nk; k++) {
+        const kx = seed(p * 11 + 3 + k * 5) * L;
+        knots.push({ x: kx, y: plankH * (0.2 + seed(p * 11 + 4 + k * 5) * 0.6), r: 4 + seed(p * 11 + 5 + k * 5) * 7, row: alongRow(kx) });
+      }
+      const dCentre = alongRow(cx);
+      const isJoint = new Uint8Array(L);
+      for (let x = 0; x < L; x++) isJoint[x] = joints[p].some((j) => Math.abs(((x - j + L / 2) % L + L) % L - L / 2) < 1.5) ? 1 : 0;
+      for (let y = 0; y < plankH; y++) {
+        for (let x = 0; x < L; x++) {
+          const c = cosT[x], sn = sinT[x];
+          // the grain wanders: two slow warps bend the ring pattern before it is read
+          const wx = noise(c * 3 + s1, sn * 3 + y * 0.03) - 0.5;
+          const wy = noise(c * 5 + s2, sn * 5 + y * 0.05) - 0.5;
+          let ys = y + wy * 7 + wx * 3;
+          let kdist = Infinity, knot = null;
+          for (let k = 0; k < knots.length; k++) {
+            const kn = knots[k], ky = (ys - kn.y) * 1.6;
+            const dk = Math.sqrt(kn.row[x] * kn.row[x] + ky * ky);
+            if (dk < kn.r * 3.5) ys += Math.sign(ys - kn.y || 1) * (kn.r * kn.r * 2.5) / (dk + 2); // grain flows round the knot
+            if (dk < kdist) { kdist = dk; knot = kn; }
+          }
+          // rings as stretched ellipses about a centre off the board: cathedral figure of a flat-sawn plank
+          const dy = ys - cy, dx = dCentre[x] * elong;
+          const d = Math.sqrt(dy * dy + dx * dx);
+          const ring = d * ringFreq + (noise(c * 4 + s3, sn * 4 + y * 0.03) - 0.5) * 0.7;
+          const f = ring - Math.floor(ring);
+          const f2 = f * f, late = f2 * f2 * f;                    // latewood: a narrow, sharp, dark band at the end of each ring
+          const grain = 0.32 * late + 0.14 * f;
+          const mottle = (noise(c * 2 + s1 + 100, sn * 2 + y * 0.012) - 0.5) * 0.09;
+          let v = tone * (1 - 0.24 * grain + mottle) + (Math.random() - 0.5) * 0.035;
+          if (knot && kdist < knot.r) v *= 0.5 + 0.22 * (0.5 + 0.5 * Math.sin(kdist * 1.6));
+          else if (knot && kdist < knot.r * 3.5) v *= 1 - 0.16 * (1 - (kdist - knot.r) / (knot.r * 2.5)) * (0.5 + 0.5 * Math.sin(kdist * 1.1));
+          if (y < 1.5) v *= 0.7;                                                                          // seam between boards
+          if (isJoint[x]) v *= 0.72;                                                                   // end joints
+          const i = ((p * plankH + y) * L + x) * 4;
+          data[i] = data[i + 1] = data[i + 2] = v * 255;
+          data[i + 3] = 255;
+        }
+      }
+    }
+    ctx.putImageData(img, 0, 0);
+    return tile;
+  }
+
+  // a floor or ceiling: boards or fine grain in `map`, smooth edge shading in `aoMap` (separate uv set, so the two can differ in scale)
+  function surface(hex, W, D, finish, extra) {
+    const map = finish === 'wood' ? woodMap(W, D) : grainMap(W, D, finish, 0.5);
+    return matte(hex, map, Object.assign({ aoMap: edgeMap(W, D, 0.34), aoMapIntensity: 1 }, extra || {}));
+  }
+
+  function glowPanel() {
+    return canvasTexture(256, 64, (ctx, w, h) => {
+      const g = ctx.createRadialGradient(w / 2, h / 2, 0, w / 2, h / 2, w * 0.55);
+      g.addColorStop(0, '#ffffff');
+      g.addColorStop(0.7, '#e6e2da');
+      g.addColorStop(1, '#a9a49b');
+      ctx.fillStyle = g;
+      ctx.fillRect(0, 0, w, h);
+    }, true);
+  }
+
+  // the scallop of light a ceiling spot throws down a wall
+  function spotPool() {
+    return canvasTexture(256, 256, (ctx, w, h) => {
+      const g = ctx.createRadialGradient(w / 2, h * 0.2, h * 0.04, w / 2, h * 0.56, h * 0.52);
+      g.addColorStop(0, 'rgba(255,244,224,1)');
+      g.addColorStop(0.3, 'rgba(255,244,224,0.6)');
+      g.addColorStop(0.7, 'rgba(255,244,224,0.15)');
+      g.addColorStop(1, 'rgba(255,244,224,0)');
+      ctx.fillStyle = g;
+      ctx.fillRect(0, 0, w, h);
+    }, true);
+  }
+
+  // the soft shadow a frame drops on the wall under that spot
+  function frameShadow(w, h, margin) {
+    const S = 128;
+    return canvasTexture(S, S, (ctx) => {
+      const fx = margin / (w + 2 * margin), fy = margin / (h + 2 * margin);
+      ctx.shadowColor = 'rgba(0,0,0,0.7)';
+      ctx.shadowBlur = S * 0.09;
+      ctx.shadowOffsetY = S * 0.05;
+      ctx.fillStyle = 'rgba(0,0,0,0.5)';
+      ctx.fillRect(S * fx, S * fy, S * (1 - 2 * fx), S * (1 - 2 * fy));
+    });
+  }
+
+  // a soft contact shadow on the floor under something that stands on it
+  function groundShadow(w, d, margin, strength, x, z, round) {
+    const S = 128;
+    const tex = canvasTexture(S, S, (ctx) => {
+      const fx = margin / (w + 2 * margin), fz = margin / (d + 2 * margin);
+      ctx.shadowColor = 'rgba(0,0,0,' + strength + ')';
+      ctx.shadowBlur = S * 0.11;
+      ctx.fillStyle = 'rgba(0,0,0,' + strength + ')';
+      if (round) {
+        ctx.beginPath();
+        ctx.ellipse(S / 2, S / 2, S * (0.5 - fx), S * (0.5 - fz), 0, 0, Math.PI * 2);
+        ctx.fill();
+      } else {
+        ctx.fillRect(S * fx, S * fz, S * (1 - 2 * fx), S * (1 - 2 * fz));
+      }
+    });
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(w + 2 * margin, d + 2 * margin),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthWrite: false, toneMapped: false }));
+    m.rotation.x = -Math.PI / 2;
+    m.position.set(x, 0.003, z);
+    m.renderOrder = 1;
+    room.add(m);
+    return m;
+  }
+
+  function convexHull(points) {
+    const pts = points.slice().sort((a, b) => a[0] - b[0] || a[1] - b[1]);
+    const cross = (o, a, b) => (a[0] - o[0]) * (b[1] - o[1]) - (a[1] - o[1]) * (b[0] - o[0]);
+    const lower = [], upper = [];
+    pts.forEach((p) => { while (lower.length >= 2 && cross(lower[lower.length - 2], lower[lower.length - 1], p) <= 0) lower.pop(); lower.push(p); });
+    pts.reverse().forEach((p) => { while (upper.length >= 2 && cross(upper[upper.length - 2], upper[upper.length - 1], p) <= 0) upper.pop(); upper.push(p); });
+    lower.pop(); upper.pop();
+    return lower.concat(upper);
+  }
+
+  // the shadow a set of boxes throws on the floor from one small light: each box's corners are
+  // projected along rays from the light onto the floor, hulled, and drawn softly onto a plane
+  // covering the region x0..x1, z0..z1
+  function castShadow(light, boxes, x0, x1, z0, z1, strength, blur) {
+    const cw = 256, ch = Math.round(256 * (z1 - z0) / (x1 - x0));
+    const off = 10000; // draw off-canvas and let the canvas shadow land on it, so any shape gets blurred
+    const tex = canvasTexture(cw, ch, (ctx, w, h) => {
+      ctx.shadowColor = 'rgba(0,0,0,' + strength + ')';
+      ctx.shadowBlur = blur * w;
+      ctx.shadowOffsetX = off;
+      ctx.fillStyle = '#000';
+      ctx.beginPath();
+      boxes.forEach((b) => {
+        const pts = [];
+        [-1, 1].forEach((sx) => [-1, 1].forEach((sy) => [-1, 1].forEach((sz) => {
+          const px = b.x + sx * b.w / 2, py = b.y + sy * b.h / 2, pz = b.z + sz * b.d / 2;
+          const t = light.y / (light.y - py);
+          pts.push([light.x + t * (px - light.x), light.z + t * (pz - light.z)]);
+        })));
+        convexHull(pts).forEach((p, i) => {
+          const cx = (p[0] - x0) / (x1 - x0) * w - off, cy = (p[1] - z0) / (z1 - z0) * h;
+          if (i === 0) ctx.moveTo(cx, cy); else ctx.lineTo(cx, cy);
+        });
+        ctx.closePath();
+      });
+      ctx.fill();
+    });
+    const m = new THREE.Mesh(new THREE.PlaneGeometry(x1 - x0, z1 - z0),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true, depthWrite: false, toneMapped: false }));
+    m.rotation.x = -Math.PI / 2;
+    m.position.set((x0 + x1) / 2, 0.004, (z0 + z1) / 2);
+    m.renderOrder = 2;
+    room.add(m);
+    return m;
+  }
+
+  // a wall label for a picture that is missing, so the problem is visible in the room
+  function labelTexture(head, text) {
+    const tex = canvasTexture(512, 640, (ctx, w, h) => {
+      ctx.fillStyle = '#d9d4cb'; ctx.fillRect(0, 0, w, h);
+      ctx.fillStyle = '#5a534b';
+      ctx.font = '44px ' + FONT;
+      ctx.fillText(head, 40, 100);
+      ctx.font = '32px ' + FONT;
+      const words = text.split(/(?=[\/_\-.])/), lines = [];
+      let line = '';
+      words.forEach((wd) => { if (ctx.measureText(line + wd).width > w - 80 && line) { lines.push(line); line = wd; } else line += wd; });
+      lines.push(line);
+      lines.forEach((l, i) => ctx.fillText(l, 40, 170 + i * 44));
+    });
+    tex.encoding = THREE.sRGBEncoding;
+    return tex;
+  }
+  let missing = [];
+  let pendingTextures = 0;
+  let blocks = [];     // things you can't walk through: [{ x0, x1, z0, z1 }]
+  let dictates = [];   // the corridor's pictures, kept apart from the tour
+
+  function wrapLines(ctx, text, maxWidth) {
+    const out = [];
+    String(text).split(/\n/).forEach((para) => {
+      let line = '';
+      para.split(' ').forEach((word) => {
+        const test = line ? line + ' ' + word : word;
+        if (ctx.measureText(test).width > maxWidth && line) { out.push(line); line = word; } else line = test;
+      });
+      out.push(line);
+    });
+    return out;
+  }
+
+  // the printed card that hangs beside a picture: title, artist and year, the caption
+  function labelCard(data) {
+    const W = 512, pad = 40, font = FONT;
+    const probe = document.createElement('canvas').getContext('2d');
+    const blocks = [];
+    probe.font = '600 34px ' + font;
+    blocks.push({ lines: wrapLines(probe, data.title || 'untitled', W - 2 * pad), font: probe.font, size: 34, color: '#2b2622', gap: 8 });
+    const meta = metaLine(data);
+    if (meta) { probe.font = 'Italic 24px ' + font; blocks.push({ lines: wrapLines(probe, meta, W - 2 * pad), font: probe.font, size: 24, color: '#7a736b', gap: 10 }); }
+    if (data.caption) { probe.font = '26px ' + font; blocks.push({ lines: wrapLines(probe, data.caption, W - 2 * pad), font: probe.font, size: 26, color: '#2b2622', gap: 0 }); }
+    let H = pad * 2;
+    blocks.forEach((b, i) => { H += b.lines.length * b.size * 1.3 + (i ? b.gap + 6 : 0); });
+    H = Math.ceil(H);
+    // the card is the wall's own colour lifted a little and warmed, so it reads as cream card on plaster
+    const wall = new THREE.Color(COLORS.wall);
+    const card = '#' + new THREE.Color(wall.r + (1 - wall.r) * 0.42, wall.g + (1 - wall.g) * 0.36, wall.b + (1 - wall.b) * 0.12).getHexString();
+    const tex = canvasTexture(W, H, (ctx) => {
+      ctx.fillStyle = card;
+      ctx.fillRect(0, 0, W, H);
+      let y = pad;
+      blocks.forEach((b, i) => {
+        if (i) y += b.gap + 6;
+        ctx.font = b.font; ctx.fillStyle = b.color; ctx.textBaseline = 'top';
+        b.lines.forEach((l) => { ctx.fillText(l, pad, y); y += b.size * 1.3; });
+      });
+    });
+    tex.encoding = THREE.sRGBEncoding;
+    const width = 0.3;
+    // lit like the wall it hangs on, so it sits in the same pool of light rather than glowing
+    const mesh = new THREE.Mesh(new THREE.PlaneGeometry(width, width * H / W), matte('#ffffff', tex, { roughness: 0.9 }));
+    mesh.userData.height = width * H / W;
+    return mesh;
+  }
+
+  // exhibition text lettered straight onto a wall
+  function wallText(title, subtitle, body, widthM) {
+    const W = 1024, font = FONT;
+    const probe = document.createElement('canvas').getContext('2d');
+    const blocks = [];
+    if (title) { probe.font = '600 78px ' + font; blocks.push({ lines: wrapLines(probe, title, W), font: probe.font, size: 78, color: '#2b2622', gap: 8 }); }
+    if (subtitle) { probe.font = 'italic 40px ' + font; blocks.push({ lines: wrapLines(probe, subtitle, W), font: probe.font, size: 40, color: '#7a736b', gap: -2 }); }
+    if (body) { probe.font = '34px ' + font; blocks.push({ lines: wrapLines(probe, body, W), font: probe.font, size: 34, color: '#3a342e', gap: 30 }); }
+    let H = 0;
+    blocks.forEach((b, i) => { H += b.lines.length * b.size * 1.42 + (i ? b.gap : 0); });
+    H = Math.ceil(H) + 8;
+    const tex = canvasTexture(W, H, (ctx) => {
+      let y = 0;
+      blocks.forEach((b, i) => {
+        if (i) y += b.gap;
+        ctx.font = b.font; ctx.fillStyle = b.color; ctx.textBaseline = 'top';
+        b.lines.forEach((l) => { ctx.fillText(l, 0, y); y += b.size * 1.42; });
+      });
+    });
+    tex.encoding = THREE.sRGBEncoding;
+    const mesh = new THREE.Mesh(new THREE.PlaneGeometry(widthM, widthM * H / W),
+      new THREE.MeshBasicMaterial({ map: tex, transparent: true, toneMapped: false }));
+    mesh.userData.height = widthM * H / W;
+    return mesh;
+  }
+
+  const poolTex = spotPool();
+  const glowTex = glowPanel();
+
+  // a CPU twin of the cloud shader's own density function (same hash, same noise, same constants),
+  // so the interior light can query exactly how much cloud sits between here and the sun right now,
+  // rather than approximating weather with an arbitrary wobble. Evaluated at only a few points along
+  // one ray, this costs nothing next to the shader doing the equivalent per pixel on the GPU.
+  function cloudHash3(x, y, z) {
+    x = x * 0.3183099 + 0.1; y = y * 0.3183099 + 0.2; z = z * 0.3183099 + 0.3;
+    x -= Math.floor(x); y -= Math.floor(y); z -= Math.floor(z);
+    x *= 17; y *= 17; z *= 17;
+    const v = x * y * z * (x + y + z);
+    return v - Math.floor(v);
+  }
+  function cloudNoise3(x, y, z) {
+    const ix = Math.floor(x), iy = Math.floor(y), iz = Math.floor(z);
+    let fx = x - ix, fy = y - iy, fz = z - iz;
+    fx = fx * fx * (3 - 2 * fx); fy = fy * fy * (3 - 2 * fy); fz = fz * fz * (3 - 2 * fz);
+    const h = (dx, dy, dz) => cloudHash3(ix + dx, iy + dy, iz + dz), lerp = (a, b, t) => a + (b - a) * t;
+    return lerp(
+      lerp(lerp(h(0, 0, 0), h(1, 0, 0), fx), lerp(h(0, 1, 0), h(1, 1, 0), fx), fy),
+      lerp(lerp(h(0, 0, 1), h(1, 0, 1), fx), lerp(h(0, 1, 1), h(1, 1, 1), fx), fy), fz);
+  }
+  function cloudFbm3(x, y, z) {
+    return 0.5 * cloudNoise3(x, y, z) + 0.25 * cloudNoise3(x * 2.03 + 3.1, y * 2.03 + 3.1, z * 2.03 + 3.1) + 0.125 * cloudNoise3(x * 4.1 + 7.7, y * 4.1 + 7.7, z * 4.1 + 7.7);
+  }
+  function smoothstepJS(e0, e1, v) { const t = Math.min(1, Math.max(0, (v - e0) / (e1 - e0))); return t * t * (3 - 2 * t); }
+  const CLOUD_BASE = 320, CLOUD_TOP = 760;
+  function cloudShapeAt(x, y, z, t) {
+    const h = Math.min(1, Math.max(0, (y - CLOUD_BASE) / (CLOUD_TOP - CLOUD_BASE)));
+    const wind = CONFIG.cloudSpeed * 1600;
+    const qx = (x + t * wind) / CONFIG.cloudScale, qy = (y + t * 0.35) / CONFIG.cloudScale, qz = (z + t * wind * 0.5) / CONFIG.cloudScale;
+    const lo = 0.60 - CONFIG.cloudCover * 0.30;
+    const d = smoothstepJS(lo, lo + 0.24, cloudFbm3(qx, qy, qz));
+    return d * smoothstepJS(0, 0.14, h) * (1 - smoothstepJS(0.5, 1.0, h));
+  }
+  const sunDirCPU = new THREE.Vector3(0.32, 1, 0.2).normalize();
+  let sunK = 1;   // smoothed sun-visibility factor, tracked frame to frame
+
+  // the sky is drawn live on the GPU as a volume: for every pixel that can see it, a ray is marched
+  // up through a layer of cloud a few hundred metres thick, gathering density from layered noise and
+  // lighting each sample by marching a short way toward the sun through the same cloud. That is what
+  // gives them bulk: lit crowns, shadowed undersides, edges that thin to nothing, and real parallax.
+  const skyMat = new THREE.ShaderMaterial({
+    side: THREE.BackSide,
+    uniforms: {
+      time: { value: 0 }, daylight: { value: 1 },
+      scale: { value: CONFIG.cloudScale }, cover: { value: CONFIG.cloudCover },
+      heavy: { value: CONFIG.cloudHeaviness },
+      sunDir: { value: new THREE.Vector3(0.32, 1, 0.2).normalize() },
+      steps: { value: Math.min(64, coarsePointer ? Math.round(CONFIG.cloudSteps / 2) : CONFIG.cloudSteps) },
+      wind: { value: CONFIG.cloudSpeed * 1600 },
+    },
+    vertexShader: `
+      varying vec3 vWorldPos;
+      void main() { vWorldPos = (modelMatrix * vec4(position, 1.0)).xyz; gl_Position = projectionMatrix * modelViewMatrix * vec4(position, 1.0); }`,
+    fragmentShader: `
+      uniform float time, daylight, scale, cover, wind, heavy;
+      uniform vec3 sunDir;
+      uniform int steps;
+      varying vec3 vWorldPos;
+      const float BASE = 320.0, TOP = 760.0;   // the cloud layer, in metres above the floor
+      float hash(vec3 p) { p = fract(p * 0.3183099 + vec3(0.1, 0.2, 0.3)); p *= 17.0; return fract(p.x * p.y * p.z * (p.x + p.y + p.z)); }
+      float noise(vec3 x) {
+        vec3 i = floor(x), f = fract(x); f = f * f * (3.0 - 2.0 * f);
+        return mix(mix(mix(hash(i), hash(i + vec3(1, 0, 0)), f.x), mix(hash(i + vec3(0, 1, 0)), hash(i + vec3(1, 1, 0)), f.x), f.y),
+                   mix(mix(hash(i + vec3(0, 0, 1)), hash(i + vec3(1, 0, 1)), f.x), mix(hash(i + vec3(0, 1, 1)), hash(i + vec3(1, 1, 1)), f.x), f.y), f.z);
+      }
+      float fbm3(vec3 p) { return 0.5 * noise(p) + 0.25 * noise(p * 2.03 + 3.1) + 0.125 * noise(p * 4.1 + 7.7); }
+      float fbm2(vec3 p) { return 0.6 * noise(p) + 0.4 * noise(p * 2.2 + 1.3); }
+      // the big shapes: flat-bottomed, rounded on top, drifting with the wind and slowly changing
+      float shape(vec3 p) {
+        float h = clamp((p.y - BASE) / (TOP - BASE), 0.0, 1.0);
+        vec3 q = (p + vec3(time * wind, time * 0.35, time * wind * 0.5)) / scale;
+        float lo = 0.60 - cover * 0.30;
+        float d = smoothstep(lo, lo + 0.24, fbm3(q));
+        return d * smoothstep(0.0, 0.14, h) * (1.0 - smoothstep(0.5, 1.0, h));
+      }
+      // the same, with finer noise eating into the edges so they billow instead of blobbing
+      float cloud(vec3 p) {
+        float d = shape(p);
+        if (d <= 0.0) return 0.0;
+        float e = fbm2((p + vec3(time * wind * 1.3, 0.0, 0.0)) / (scale * 0.18)) * 0.6 * (1.0 - d);
+        return clamp((d - e) / max(1.0 - e, 0.001), 0.0, 1.0);
+      }
+      void main() {
+        vec3 ro = cameraPosition, rd = normalize(vWorldPos - ro);
+        float mu = clamp(rd.y, 0.0, 1.0);
+        vec3 sky = mix(vec3(0.60, 0.72, 0.90), vec3(0.17, 0.39, 0.86), pow(mu, 0.55));   // pale at the horizon, deep overhead
+        float sunDot = max(dot(rd, sunDir), 0.0);
+        float disc = smoothstep(0.999750, 0.999925, sunDot);           // a small, sharp disc
+        float glow = pow(sunDot, 1000.0) * 0.5 + pow(sunDot, 32.0) * 0.12;   // a tight bright ring plus a wide soft halo
+        sky += vec3(1.0, 0.92, 0.75) * (disc * 3.5 + glow);
+        vec3 col = sky;
+        if (rd.y > 0.02) {
+          float t0 = (BASE - ro.y) / rd.y, t1 = (TOP - ro.y) / rd.y;
+          float n = float(steps), dt = (t1 - t0) / n;
+          float t = t0 + dt * hash(vec3(gl_FragCoord.xy, 1.0));   // a little jitter hides the steps
+          float T = 1.0;
+          vec3 acc = vec3(0.0);
+          vec3 sunCol = vec3(1.0, 0.95, 0.87) * 1.35;
+          for (int i = 0; i < 64; i++) {
+            if (i >= steps || T < 0.03) break;
+            vec3 p = ro + rd * t;
+            float d = cloud(p);
+            if (d > 0.01) {
+              float ld = 0.0;                                       // how much cloud lies between here and the sun
+              for (int k = 1; k <= 4; k++) ld += shape(p + sunDir * (55.0 * float(k)));
+              float Tl = exp(-ld * 55.0 * 0.014 * heavy);
+              float h = clamp((p.y - BASE) / (TOP - BASE), 0.0, 1.0);
+              vec3 ambient = mix(vec3(0.40, 0.48, 0.64), vec3(0.78, 0.84, 0.96), h) * 0.5;   // skylight from above, blue-grey below
+              float powder = 1.0 - exp(-d * 3.0);                     // thin edges catch more light than a solid wall would
+              vec3 light = sunCol * Tl * mix(0.65, 1.0, powder) + ambient;
+              float a = 1.0 - exp(-d * dt * 0.022);
+              acc += T * a * light;
+              T *= 1.0 - a;
+            }
+            t += dt;
+          }
+          col = sky * T + acc;
+          col = mix(col, sky, smoothstep(0.3, 0.02, rd.y) * 0.6);   // haze thickens toward the horizon
+        }
+        gl_FragColor = vec4(col * 0.95 * daylight, 1.0);
+        #include <tonemapping_fragment>
+        #include <encodings_fragment>
+      }`,
+  });
+  skyMat.toneMapped = true;
+
+  /* -------------------------------- placeholders --------------------------------- */
+  let placeholderCache = null;
+  const placeholders = () => placeholderCache || (placeholderCache = placeholderWorks());
+  function placeholderWorks() {
+    const specs = [
+      ['circle', 0.8, '#d8d2c6', '#3b434c'], ['triangle', 1.25, '#4d5661', '#e6e1d7'],
+      ['band', 1.0, '#8c8378', '#ece8e1'], ['arc', 0.75, '#2e3640', '#c9c2b6'],
+      ['square', 1.4, '#c2b9a9', '#4d5661'], ['line', 0.8, '#5f6b77', '#ece8e1'],
+      ['ring', 1.0, '#e1dbd0', '#2e3640'], ['crescent', 1.2, '#3a3f47', '#d8d2c6'],
+    ];
+    return specs.map(([shape, aspect, bg, fg], i) => {
+      const w = 900, h = Math.round(900 / aspect);
+      const c = document.createElement('canvas');
+      c.width = w; c.height = h;
+      const ctx = c.getContext('2d');
+      ctx.fillStyle = bg; ctx.fillRect(0, 0, w, h);
+      ctx.fillStyle = fg; ctx.strokeStyle = fg;
+      const cx = w / 2, cy = h / 2, r = Math.min(w, h) * 0.28;
+      ctx.lineWidth = Math.min(w, h) * 0.06;
+      ctx.beginPath();
+      if (shape === 'circle') { ctx.arc(cx, cy, r, 0, Math.PI * 2); ctx.fill(); }
+      else if (shape === 'triangle') { ctx.moveTo(cx, cy - r); ctx.lineTo(cx + r, cy + r * 0.8); ctx.lineTo(cx - r, cy + r * 0.8); ctx.closePath(); ctx.fill(); }
+      else if (shape === 'band') { ctx.fillRect(0, cy - r * 0.35, w, r * 0.7); }
+      else if (shape === 'arc') { ctx.arc(cx, cy + r * 0.3, r, Math.PI, Math.PI * 2); ctx.stroke(); }
+      else if (shape === 'square') { ctx.fillRect(cx - r, cy - r, r * 2, r * 2); }
+      else if (shape === 'line') { ctx.moveTo(cx, cy - r * 1.4); ctx.lineTo(cx, cy + r * 1.4); ctx.stroke(); }
+      else if (shape === 'ring') { ctx.arc(cx, cy, r, 0, Math.PI * 2); ctx.stroke(); }
+      else if (shape === 'crescent') {
+        ctx.arc(cx, cy, r, 0, Math.PI * 2); ctx.fill();
+        ctx.fillStyle = bg; ctx.beginPath(); ctx.arc(cx + r * 0.45, cy - r * 0.2, r * 0.9, 0, Math.PI * 2); ctx.fill();
+      }
+      const grain = ctx.getImageData(0, 0, w, h);
+      for (let p = 0; p < grain.data.length; p += 4) {
+        const n = (Math.random() - 0.5) * 14;
+        grain.data[p] += n; grain.data[p + 1] += n; grain.data[p + 2] += n;
+      }
+      ctx.putImageData(grain, 0, 0);
+      return { src: c.toDataURL('image/jpeg', 0.9), title: 'placeholder ' + (i + 1), caption: i === 0 ? 'replace these with your own pictures' : '' };
+    });
+  }
+
+  /* ------------------------------------ room ------------------------------------- */
+  let room = null;
+  let works = [];
+  let rooms = [];      // [{ cx, W, D, x0, x1, z0, z1, frontInset, title, works }]
+  let doorways = [];   // openings in the walls between rooms: [{ x, z, w }]
+  let originX = 0;     // where the room being built sits along x
+
+  function disposeGroup(g) {
+    g.traverse((o) => {
+      if (o.geometry) o.geometry.dispose();
+      if (o.material) {
+        const mats = Array.isArray(o.material) ? o.material : [o.material];
+        mats.forEach((m) => {
+          if (m.map && !sharedTextures.has(m.map)) m.map.dispose();
+          if (m.aoMap) m.aoMap.dispose();
+          m.dispose();
+        });
+      }
+    });
+    scene.remove(g);
+  }
+
+  const daylit = [];   // every surface lit by the skylight, so it can breathe with the weather
+  const skyMats = [];  // the emissive panels that stand in for daylight
+  const matte = (hex, map, extra) => {
+    const m = new THREE.MeshStandardMaterial(Object.assign({ color: col(hex), map: map || null, roughness: 1 }, extra || {}));
+    daylit.push({ mat: m, base: m.envMapIntensity });
+    return m;
+  };
+  const sky = (r, g, b, map) => {
+    const m = new THREE.MeshBasicMaterial({ color: new THREE.Color(r, g, b), map: map || null });
+    skyMats.push({ mat: m, base: m.color.clone() });
+    return m;
+  };
+  function box(w, h, d, material, x, y, z) {
+    const m = new THREE.Mesh(new THREE.BoxGeometry(w, h, d), material);
+    m.position.set(x + originX, y, z);
+    m.castShadow = m.receiveShadow = true;
+    room.add(m);
+    return m;
+  }
+  function slab(w, h, material, x, y, z, rotY, rotX) {
+    const geo = new THREE.PlaneGeometry(w, h);
+    if (material.aoMap) geo.setAttribute('uv2', geo.attributes.uv);
+    const m = new THREE.Mesh(geo, material);
+    m.position.set(x + originX, y, z);
+    if (rotY) m.rotation.y = rotY;
+    if (rotX) m.rotation.x = rotX;
+    m.receiveShadow = true;
+    m.castShadow = true;  // walls and ceilings block the sun; only the sky and the glass are excused
+    room.add(m);
+    return m;
+  }
+
+  function buildShell(W, D, opts) {
+    const H = CONFIG.wallHeight;
+    const trimMat = matte(COLORS.trim, null, { roughness: 0.6 });
+    const skirtMat = matte(COLORS.skirting, null, { roughness: 0.7 });
+    const wallMat = (len, sides) => matte(COLORS.wall, wallShade(len, H, sides || {}));
+    const dw = CONFIG.door.width, dh = CONFIG.door.height;
+
+    const floor = slab(W, D, surface(COLORS.floor, W, D, CONFIG.floor, { roughness: CONFIG.floorGloss, envMapIntensity: 0.72,
+      transparent: CONFIG.floorReflection > 0, opacity: 1 - CONFIG.floorReflection }), 0, 0, 0, 0, -Math.PI / 2);
+    floor.renderOrder = -1; // under the shadows and pools painted on it
+    // ceiling in four pieces around the skylight opening
+    const sl = W - CONFIG.skylightMargin, sw = Math.min(1.5, D * 0.2);
+    const ox = sl, oz = sw;   // always the long way along x (the corridor's own direction), so every room's skylight lines up regardless of that room's own width-to-depth ratio
+    const ceilMat = matte(COLORS.ceiling, null, { emissive: col(COLORS.ceiling), emissiveIntensity: 0.2 });
+    slab((W - ox) / 2, D, ceilMat, -(W + ox) / 4, H, 0, 0, Math.PI / 2);
+    slab((W - ox) / 2, D, ceilMat, (W + ox) / 4, H, 0, 0, Math.PI / 2);
+    slab(ox, (D - oz) / 2, ceilMat, 0, H, -(D + oz) / 4, 0, Math.PI / 2);
+    slab(ox, (D - oz) / 2, ceilMat, 0, H, (D + oz) / 4, 0, Math.PI / 2);
+
+    // the back wall, plain
+    slab(W, H, wallMat(W), 0, H / 2, -D / 2, 0);
+    box(W, 0.1, 0.03, skirtMat, 0, 0.05, -D / 2 + 0.015);
+
+    // a wall with a doorway in the middle: two segments, a lintel, its skirting, and (once) the frame
+    const lintelMat = (len) => {
+      const m = wallMat(len, { left: false, right: false, bottom: false });
+      m.map.repeat.set(1, (H - dh) / H);
+      m.map.offset.set(0, dh / H);
+      return m;
+    };
+    const doorFrame = (x, z, rotY) => {
+      [box(0.08, dh + 0.04, 0.24, trimMat, 0, (dh + 0.04) / 2, 0), box(0.08, dh + 0.04, 0.24, trimMat, 0, (dh + 0.04) / 2, 0), box(dw + 0.16, 0.08, 0.24, trimMat, 0, dh + 0.04, 0)]
+        .forEach((b, i) => {
+          const off = i === 0 ? -(dw / 2 + 0.04) : i === 1 ? dw / 2 + 0.04 : 0;
+          b.position.set(x + originX + (rotY ? 0 : off), b.position.y, z + (rotY ? off : 0));
+          b.rotation.y = rotY;
+        });
+    };
+    // side walls, with a doorway through to the neighbouring room where there is one
+    [{ x: -W / 2, rot: Math.PI / 2, door: opts.doorLeft, outerRight: true }, { x: W / 2, rot: -Math.PI / 2, door: opts.doorRight, outerRight: false }].forEach((d) => {
+      if (!d.door && opts.smallDoor && d.x > 0) { smallDoor(W, D, H, wallMat, skirtMat); return; }
+      if (!d.door) {
+        slab(D, H, wallMat(D), d.x, H / 2, 0, d.rot);
+        box(D, 0.1, 0.03, skirtMat, d.x, 0.05, 0).rotation.y = d.rot;
+        return;
+      }
+      const segD = (D - dw) / 2;
+      [-1, 1].forEach((side) => {
+        const z = side * (dw / 2 + segD / 2);
+        // the segment's outer end is the room corner; which end that is in texture space depends on the wall's facing
+        const cornerOnRight = (side < 0) === d.outerRight;
+        slab(segD, H, wallMat(segD, cornerOnRight ? { left: false } : { right: false }), d.x, H / 2, z, d.rot);
+        box(segD - 0.1, 0.1, 0.03, skirtMat, d.x, 0.05, z + side * 0.05).rotation.y = d.rot;   // stops inside the door frame
+      });
+      slab(dw, H - dh, lintelMat(dw), d.x, dh + (H - dh) / 2, 0, d.rot);
+      if (d.x > 0) doorFrame(d.x, 0, Math.PI / 2); // the frame is shared, so only the room on its left builds it
+    });
+
+    // the front wall: with the foyer door in the first room, plain elsewhere
+    if (opts.foyer) {
+      const segW = (W - dw) / 2;
+      [1, -1].forEach((side) => {
+        const x = side * (dw / 2 + segW / 2);
+        const mat = wallMat(segW, side > 0 ? { right: false } : { left: false });
+        mat.side = THREE.DoubleSide;
+        slab(segW, H, mat, x, H / 2, D / 2, Math.PI);
+        box(segW - 0.1, 0.1, 0.03, skirtMat, x + side * 0.05, 0.05, D / 2 - 0.015).rotation.y = Math.PI;
+      });
+      const lintel = lintelMat(dw);
+      lintel.side = THREE.DoubleSide;
+      slab(dw, H - dh, lintel, 0, dh + (H - dh) / 2, D / 2, Math.PI);
+      doorFrame(0, D / 2, 0);
+    } else {
+      slab(W, H, wallMat(W), 0, H / 2, D / 2, Math.PI);
+      box(W, 0.1, 0.03, skirtMat, 0, 0.05, D / 2 - 0.015);
+    }
+
+    // skylight: a light well up through the roof, glazed, with the sky drifting past above it
+    const wellH = 0.5;
+    const fixMat = matte(COLORS.fixture, null, { roughness: 0.5, emissive: col(COLORS.fixture), emissiveIntensity: 0.55 });
+    box(ox + 0.1, 0.012, 0.05, fixMat, 0, H - 0.006, -(oz / 2 + 0.025));   // trim around the opening
+    box(ox + 0.1, 0.012, 0.05, fixMat, 0, H - 0.006, oz / 2 + 0.025);
+    box(0.05, 0.012, oz, fixMat, -(ox / 2 + 0.025), H - 0.006, 0);
+    box(0.05, 0.012, oz, fixMat, ox / 2 + 0.025, H - 0.006, 0);
+    const wellMat = matte('#f4f1ea', null, { emissive: col('#f4f1ea'), emissiveIntensity: 0.45 });
+    slab(oz, wellH, wellMat, -ox / 2, H + wellH / 2, 0, Math.PI / 2);      // the reveal, facing in
+    slab(oz, wellH, wellMat, ox / 2, H + wellH / 2, 0, -Math.PI / 2);
+    slab(ox, wellH, wellMat, 0, H + wellH / 2, -oz / 2, 0);
+    slab(ox, wellH, wellMat, 0, H + wellH / 2, oz / 2, Math.PI);
+    const glass = slab(ox, oz, new THREE.MeshStandardMaterial({ color: 0xffffff, transparent: true, opacity: 0.1, roughness: 0.04, metalness: 0, depthWrite: false }),
+      0, H + wellH, 0, 0, Math.PI / 2);
+    glass.castShadow = false;
+    const barMat = matte(COLORS.skylightBars, null, { roughness: 0.5, emissive: col(COLORS.skylightBars), emissiveIntensity: 0.5 });
+    const bars = Math.max(1, Math.round(sl / 1.2));
+    for (let i = 1; i < bars; i++) {                                         // glazing bars across the length
+      const t = -sl / 2 + (sl / bars) * i;
+      box(0.04, 0.04, sw, barMat, t, H + wellH - 0.03, 0);
+    }
+    box(sl, 0.04, 0.04, barMat, 0, H + wellH - 0.03, 0); // and one down the middle
+
+    if (opts.foyer) {
+      buildFoyer(W, D);
+      buildBarrier(D / 2 - 0.55);
+    }
+    if (CONFIG.floorReflection > 0) mirrorWalls(W, D, opts);
+  }
+
+  // a small door, low in the right-hand wall, that only opens to the right colour and only admits
+  // you crouched. Behind it, a corridor no taller than the door, which does not end
+  const SMALL = { w: 0.72, h: 1.15 };
+  // one small door: an opening in a wall at world x, facing the visitor who comes from -x, its leaf
+  // hung on the far jamb so it swings away to +x. Returns the door for the lock to work with
+  function hangSmallDoor(xw, zc, code, swing, base) {
+    base = base || 0;
+    const sw = SMALL.w + 0.08, sh = SMALL.h + 0.04;
+    const trim = matte(COLORS.trim, null, { roughness: 0.6 });
+    [-1, 1].forEach((side) => { const j = box(0.16, sh, 0.05, trim, 0, sh / 2, 0); j.position.set(xw, base + sh / 2, zc + side * (sw / 2 + 0.025)); });
+    const head = box(0.16, 0.05, sw + 0.1, trim, 0, sh + 0.025, 0); head.position.set(xw, base + sh + 0.025, zc);
+    const hinge = new THREE.Group();
+    const lw = sw - 0.008, lh = sh - 0.004;                    // the leaf fills the opening, bar a few millimetres
+    hinge.position.set(xw, base, zc - lw / 2);
+    if (swing < 0) hinge.scale.x = -1;                           // mirrored: opens away toward -x instead
+    const doorFace = matte(COLORS.smallDoor || '#d4cfc6', null, { roughness: 0.95 });
+    const leaf = new THREE.Mesh(new THREE.BoxGeometry(0.04, lh, lw), doorFace);
+    leaf.position.set(0, lh / 2, lw / 2);
+    leaf.castShadow = leaf.receiveShadow = true;
+    hinge.add(leaf);
+    const brass = matte('#b08d57', null, { metalness: 0.8, roughness: 0.35 });
+    const knob = new THREE.Mesh(new THREE.SphereGeometry(0.025, 16, 12), brass);
+    knob.position.set(-0.035, lh * 0.5, lw - 0.08);
+    hinge.add(knob);
+    // the lock: six little dials in a brass rail, one per figure of the colour
+    const rail = new THREE.Mesh(new THREE.BoxGeometry(0.012, 0.03, 0.2), brass);
+    rail.position.set(-0.022, lh * 0.5 - 0.09, lw - 0.15);
+    hinge.add(rail);
+    const dials = [];
+    const dialGeo = new THREE.CylinderGeometry(0.011, 0.011, 0.014, 20);
+    dialGeo.rotateZ(Math.PI / 2);                                             // axis through the door
+    const mark = new THREE.BoxGeometry(0.002, 0.002, 0.008);
+    for (let i = 0; i < 6; i++) {
+      const dial = new THREE.Mesh(dialGeo, brass);
+      dial.position.set(-0.034, lh * 0.5 - 0.09, lw - 0.15 - 0.075 + i * 0.03);
+      const m = new THREE.Mesh(mark, matte('#2a2320', null, { roughness: 0.6 }));
+      m.position.set(-0.008, 0.007, 0);
+      dial.add(m);
+      dial.rotation.x = Math.random() * Math.PI * 2;
+      hinge.add(dial);
+      dials.push(dial);
+    }
+    room.add(hinge);
+    return { x: xw, z: zc, hinge, dials, leaf, spin: 0, open: false, unlocked: code == null, code, swing: swing || 1, sealed: false };
+  }
+
+  function smallDoor(W, D, H, wallMat, skirtMat) {
+    const x = W / 2, rot = -Math.PI / 2, sw = SMALL.w + 0.08, sh = SMALL.h + 0.04;
+    const segD = (D - sw) / 2;
+    // the wall, seen from inside as plaster; and its outside, seen from the corridor, as a limewashed
+    // exterior that the sun actually reaches, lit and shadowed by the corridor's own roof and skylight
+    const outside = matte(COLORS.outside || '#eee4d0', null, { roughness: 1, envMapIntensity: 1.1 });
+    [-1, 1].forEach((side) => {
+      slab(segD, H, wallMat(segD, side < 0 ? { right: false } : { left: false }), x, H / 2, side * (sw / 2 + segD / 2), rot);
+      slab(segD, H, outside, x + 0.012, H / 2, side * (sw / 2 + segD / 2), -rot);
+      box(segD - 0.1, 0.1, 0.03, skirtMat, x, 0.05, side * (sw / 2 + segD / 2 + 0.05)).rotation.y = rot;
+    });
+    const lintel = wallMat(sw, { left: false, right: false, bottom: false });
+    lintel.map.repeat.set(1, (H - sh) / H); lintel.map.offset.set(0, sh / H);
+    slab(sw, H - sh, lintel, x, sh + (H - sh) / 2, 0, rot);
+    slab(sw, H - sh, outside, x + 0.012, sh + (H - sh) / 2, 0, -rot);
+    secret.door = hangSmallDoor(x + originX, 0, secret.code, 1);
+
+    // the corridor: a gallery in miniature, with boards underfoot, plaster walls, and a skylight
+    // running its whole length, barred every metre
+    const cw = 0.9, ch = SMALL.h + 0.08, ox = 0.44, wellH = 0.3;
+    const list = secret.dictates, gap = 1.0, sets = Math.max(1, secret.corridor.repeat | 0), span = list.length * gap;
+    const x0 = x + 0.05;                                        // begins just behind the wall, inside the door's frame
+    const lead = 1.05;                                          // the first picture hangs past where the open leaf lies
+    const L = lead + sets * span + 0.9;                         // the same dictates, laid out `repeat` times over, then the door
+    secret.corridor.length = L + 0.05;
+    const cx = x0 + L / 2;
+    slab(L, cw, surface(COLORS.floor, L, cw, CONFIG.floor, { roughness: CONFIG.floorGloss, envMapIntensity: 0.72 }), cx, 0.001, 0, 0, -Math.PI / 2);
+    slab(L, ch, matte(COLORS.wall, wallShade(L, ch, {})), cx, ch / 2, -cw / 2, 0);
+    slab(L, ch, matte(COLORS.wall, wallShade(L, ch, {})), cx, ch / 2, cw / 2, Math.PI);
+    box(L, 0.06, 0.02, skirtMat, cx, 0.03, -cw / 2 + 0.01);
+    box(L, 0.06, 0.02, skirtMat, cx, 0.03, cw / 2 - 0.01);
+    const ceilMat = matte(COLORS.ceiling, null, { emissive: col(COLORS.ceiling), emissiveIntensity: 0.2 });
+    slab(L, (cw - ox) / 2, ceilMat, cx, ch, -(cw + ox) / 4, 0, Math.PI / 2);
+    slab(L, (cw - ox) / 2, ceilMat, cx, ch, (cw + ox) / 4, 0, Math.PI / 2);
+    const fixMat = matte(COLORS.fixture, null, { roughness: 0.5, emissive: col(COLORS.fixture), emissiveIntensity: 0.55 });
+    box(L, 0.012, 0.04, fixMat, cx, ch - 0.006, -(ox / 2 + 0.02));
+    box(L, 0.012, 0.04, fixMat, cx, ch - 0.006, ox / 2 + 0.02);
+    const wellMat = matte('#f4f1ea', null, { emissive: col('#f4f1ea'), emissiveIntensity: 0.45 });
+    slab(L, wellH, wellMat, cx, ch + wellH / 2, -ox / 2, 0);
+    slab(L, wellH, wellMat, cx, ch + wellH / 2, ox / 2, Math.PI);
+    const glass = slab(L, ox, new THREE.MeshStandardMaterial({ color: 0xffffff, transparent: true, opacity: 0.1, roughness: 0.04, metalness: 0, depthWrite: false }), cx, ch + wellH, 0, 0, Math.PI / 2);
+    glass.castShadow = false;
+    const barMat = matte(COLORS.skylightBars, null, { roughness: 0.5, emissive: col(COLORS.skylightBars), emissiveIntensity: 0.5 });
+    for (let d = 1; d < L; d += 1) box(0.035, 0.035, ox, barMat, x + d, ch + wellH - 0.025, 0);
+    box(L, 0.035, 0.035, barMat, cx, ch + wellH - 0.025, 0);
+    [x0, x0 + L].forEach((xEnd, i) => {                                       // closed at both ends
+      slab(ox, wellH, wellMat, xEnd, ch + wellH / 2, 0, i ? -Math.PI / 2 : Math.PI / 2);
+      box(0.04, 0.012, ox + 0.08, fixMat, xEnd + (i ? -0.02 : 0.02), ch - 0.006, 0);
+      box(0.035, 0.035, ox, barMat, xEnd + (i ? -0.02 : 0.02), ch + wellH - 0.025, 0);
+    });
+
+    // the far end: a second small door with its own lock, and for now a dark cell behind it
+    const xe = x0 + L;
+    const endMat = matte(COLORS.wall, wallShade(cw, ch, {}));
+    [-1, 1].forEach((side) => slab((cw - sw) / 2, ch, endMat, xe, ch / 2, side * (sw / 2 + (cw - sw) / 4), -Math.PI / 2));
+    slab(sw, ch - sh, endMat, xe, sh + (ch - sh) / 2, 0, -Math.PI / 2);
+    secret.door2 = hangSmallDoor(xe + originX, 0, secret.exitCode, 1);
+    // behind the second door: a large room that is entirely black, floor, walls and ceiling, unlit and
+    // unlightable, so that once inside there is nothing to see but the doorway you came in by
+    const BW = 6, BH = 1.53, bx = xe + 0.05 + BW / 2;
+    const black = new THREE.MeshBasicMaterial({ color: 0x000000 });
+    [[BW, BW, bx, 0.001, 0, 0, -Math.PI / 2], [BW, BW, bx, BH, 0, 0, Math.PI / 2],
+      [BW, BH, bx, BH / 2, -BW / 2, 0, 0], [BW, BH, bx, BH / 2, BW / 2, Math.PI, 0],
+      [BW, BH, xe + 0.05 + BW, BH / 2, 0, -Math.PI / 2, 0]].forEach(([w, h, px, py, pz, rotY, rotX]) => {
+      const m = slab(w, h, black, px, py, pz, rotY, rotX);
+      m.castShadow = m.receiveShadow = false;
+    });
+    // the wall you came through, black on this side too, save for the doorway
+    [-1, 1].forEach((side) => { const m = slab((BW - sw) / 2, BH, black, xe + 0.05, BH / 2, side * (sw / 2 + (BW - sw) / 4), Math.PI / 2); m.castShadow = m.receiveShadow = false; });
+    { const m = slab(sw, BH - sh, black, xe + 0.05, sh + (BH - sh) / 2, 0, Math.PI / 2); m.castShadow = m.receiveShadow = false; }
+    secret.black = { x0: xe + originX + 0.05, x1: xe + originX + 0.05 + BW, half: BW / 2 };
+
+    // a mask, not a material trick: a plain black plate just inside the room, one-sided so it renders
+    // only for someone looking back at the doorway from further in, and invisible from the corridor —
+    // it hides the whole door and its frame at once, from any angle, rather than chasing individual
+    // faces the way painting the door itself required
+    const doorMask = new THREE.Mesh(new THREE.PlaneGeometry(1.4, 1.45), new THREE.MeshBasicMaterial({ color: 0x000000 }));
+    doorMask.position.set(xe + 0.15 + originX, 0.725, 0);
+    doorMask.rotation.y = Math.PI / 2;
+    room.add(doorMask);
+
+    // a small monument waiting in the dark: Anthropic's little crab, and the site's own address,
+    // both invisible until the door is shut behind you. Kept hidden by more than the room's own
+    // blackness — the sun's shadow camera doesn't reach out this far, so a lit material here could
+    // otherwise show faintly from the very start; .visible is the real gate, the light is what it's for
+    const crabX = xe + 0.05 + 2.4;
+    const plinthH = 0.35, plinthW = 1.0, plinthD = 0.55;
+    const plinthMat = new THREE.MeshStandardMaterial({ color: 0xe9e5dd, roughness: 0.85 });
+    const crabOrange = new THREE.MeshStandardMaterial({ color: 0xd9764f, roughness: 0.8 });
+    const crabPale = new THREE.MeshStandardMaterial({ color: 0xf4ece0, roughness: 0.5 });
+    // the credit line, facing back toward the door so it's the first thing read on approach
+    const labelTex = canvasTexture(512, 128, (ctx) => {
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.font = 'italic 600 56px ' + FONT;
+      ctx.fillStyle = '#3a342e';
+      ctx.fillText('By Claude', 256, 66);
+    });
+    const labelW = 0.55, labelH = labelW * 128 / 512;
+    const plinthLabel = new THREE.Mesh(new THREE.PlaneGeometry(labelW, labelH),
+      new THREE.MeshStandardMaterial({ map: labelTex, transparent: true, roughness: 0.6 }));
+    plinthLabel.position.set(crabX - plinthW / 2 - 0.005 + originX, plinthH / 2, 0);
+    plinthLabel.rotation.y = -Math.PI / 2;
+    room.add(plinthLabel);
+    const crabParts = [
+      box(plinthW, plinthH, plinthD, plinthMat, crabX, plinthH / 2, 0),
+      plinthLabel,
+      box(0.09, 0.15, 0.09, crabOrange, crabX - 0.30, plinthH + 0.075, 0),
+      box(0.09, 0.15, 0.09, crabOrange, crabX - 0.12, plinthH + 0.075, 0),
+      box(0.09, 0.15, 0.09, crabOrange, crabX + 0.12, plinthH + 0.075, 0),
+      box(0.09, 0.15, 0.09, crabOrange, crabX + 0.30, plinthH + 0.075, 0),
+      box(0.62, 0.14, 0.30, crabOrange, crabX, plinthH + 0.22, 0),
+      box(0.90, 0.10, 0.32, crabOrange, crabX, plinthH + 0.34, 0),
+      box(0.62, 0.22, 0.30, crabOrange, crabX, plinthH + 0.50, 0),
+      box(0.05, 0.11, 0.02, crabPale, crabX - 0.15, plinthH + 0.50, 0.16),
+      box(0.05, 0.11, 0.02, crabPale, crabX + 0.15, plinthH + 0.50, 0.16),
+    ];
+    crabParts.forEach((m) => { m.visible = false; });
+    blocks.push({ x0: crabX + originX - plinthW / 2, x1: crabX + originX + plinthW / 2, z0: -plinthD / 2, z1: plinthD / 2 });
+    const crabLight = new THREE.PointLight(0xfff0da, 0, 5, 2);
+    crabLight.position.set(crabX + originX, 1.35, 0);
+    room.add(crabLight);
+
+    // the sign on the far wall: self-lit, so it reads clearly the length of the room regardless
+    // of how far the crab's own light actually reaches
+    const signTex = canvasTexture(1024, 224, (ctx) => {
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.font = '600 128px ' + FONT;
+      ctx.fillStyle = '#f4ece0';
+      ctx.fillText('& heptar.ch', 512, 118);
+    });
+    const signW = 3.2, signH = signW * 224 / 1024;
+    const signMat = new THREE.MeshBasicMaterial({ map: signTex, transparent: true, depthWrite: false, toneMapped: false, opacity: 0 });
+    const sign = new THREE.Mesh(new THREE.PlaneGeometry(signW, signH), signMat);
+    sign.position.set(xe + 0.05 + BW - 0.03 + originX, 0.85, 0);
+    sign.rotation.y = -Math.PI / 2;
+    sign.visible = false;
+    room.add(sign);
+
+    secret.reveal = { crabParts, light: crabLight, sign, revealed: false, timer: -1, prevOpen: false };
+
+    // the dictates: small pictures on the left wall only, one every half metre, the whole
+    // set repeated end to end as many times as asked. No labels, no numbers, no place in the tour;
+    // a caption on approach, and the large view on a click
+    for (let k = 0; k < sets; k++) {
+      // each repeat hangs the set in a fresh order, so the corridor never quite repeats itself
+      const order = list.slice();
+      if (k > 0) for (let i = order.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [order[i], order[j]] = [order[j], order[i]]; }
+      order.forEach((d, i) => {
+        const xi = x0 + originX + lead + k * span + i * gap;   // world x: makeWork places by world coordinates
+        const left = true;
+        const w = makeWork(Object.assign({ size: 0.42, frame: 'float' }, d), v3(xi, 0.7, left ? -cw / 2 : cw / 2), v3(0, 0, left ? 1 : -1), left ? 0 : Math.PI, -1);
+        w.pool.visible = false;
+        w.dictate = true;
+        w.room = -1;
+        dictates.push(w);
+      });
+    }
+  }
+
+  // the walls again, hung upside down beneath the floor, so the reflection has a room around it and
+  // the pictures' reflections in the next room stay behind their own mirrored wall
+  function mirrorWalls(W, D, opts) {
+    const H = CONFIG.wallHeight, dw = CONFIG.door.width, dh = CONFIG.door.height;
+    const mat = matte(COLORS.wall);
+    const under = (len, height, x, yTop, z, rot) => {
+      const m = slab(len, height, mat, x, yTop - height / 2, z, rot);
+      m.castShadow = m.receiveShadow = false;
+      return m;
+    };
+    under(W, H, 0, 0, -D / 2, 0);
+    [{ x: -W / 2, rot: Math.PI / 2, door: opts.doorLeft }, { x: W / 2, rot: -Math.PI / 2, door: opts.doorRight }].forEach((d) => {
+      if (!d.door) { under(D, H, d.x, 0, 0, d.rot); return; }
+      const segD = (D - dw) / 2;
+      [-1, 1].forEach((side) => under(segD, H, d.x, 0, side * (dw / 2 + segD / 2), d.rot));
+      under(dw, H - dh, d.x, -dh, 0, d.rot);               // the lintel, below the mirrored opening
+      if (d.x > 0) frameBelow(d.x, 0, Math.PI / 2);
+    });
+    if (opts.foyer) {
+      const segW = (W - dw) / 2;
+      [-1, 1].forEach((side) => under(segW, H, side * (dw / 2 + segW / 2), 0, D / 2, Math.PI));
+      under(dw, H - dh, 0, -dh, D / 2, Math.PI);
+      frameBelow(0, D / 2, 0);
+    } else {
+      under(W, H, 0, 0, D / 2, Math.PI);
+    }
+
+    // the door frame, hung upside down with the rest
+    function frameBelow(x, z, rotY) {
+      const trim = matte(COLORS.trim, null, { roughness: 0.6 });
+      [[0.08, dh + 0.04, -(dw / 2 + 0.04), -(dh + 0.04) / 2], [0.08, dh + 0.04, dw / 2 + 0.04, -(dh + 0.04) / 2], [dw + 0.16, 0.08, 0, -(dh + 0.04)]].forEach(([bw, bh, off, y]) => {
+        const b = box(bw, bh, 0.24, trim, 0, y, 0);
+        b.position.set(x + originX + (rotY ? 0 : off), y, z + (rotY ? off : 0));
+        b.rotation.y = rotY;
+        b.castShadow = b.receiveShadow = false;
+      });
+    }
+  }
+
+  // one sky over all the rooms
+  function buildSky(x0, x1, maxD) {
+    // a dome far out; the shader does the rest from the direction of each ray, so its size is immaterial
+    const dome = new THREE.Mesh(new THREE.SphereGeometry(2500, 48, 24), skyMat);
+    dome.renderOrder = 5;   // drawn after the room, so the depth test discards it behind walls before the cloud shader runs
+    dome.position.set((x0 + x1) / 2, 0, 0);
+    dome.castShadow = dome.receiveShadow = false;
+    dome.frustumCulled = false;
+    room.add(dome);
+  }
+
+  function buildFoyer(W, D) {
+    const { width: FW, depth: FD, height: FH } = CONFIG.foyer;
+    const z0 = D / 2 + 0.03, zc = z0 + FD / 2, z1 = z0 + FD;
+    const trimMat = matte(COLORS.foyerTrim, null, { roughness: 0.6 });
+    const skirtMat = matte(COLORS.foyerSkirting, null, { roughness: 0.7 });
+    const wallMat = (len) => matte(COLORS.foyerWall, wallShade(len, FH, {}));
+
+    slab(FW, FD, surface(COLORS.foyerFloor, FW, FD, CONFIG.floor === 'wood' ? 'wood' : CONFIG.floor * 1.5, { roughness: CONFIG.floorGloss + 0.1, envMapIntensity: 0.8 }), 0, 0, zc, 0, -Math.PI / 2);
+    slab(FW, FD, surface(COLORS.foyerCeiling, FW, FD, 0, { emissive: col(COLORS.foyerCeiling), emissiveIntensity: 0.3 }), 0, FH, zc, 0, Math.PI / 2);
+    slab(FD, FH, wallMat(FD), -FW / 2, FH / 2, zc, Math.PI / 2);
+    slab(FD, FH, wallMat(FD), FW / 2, FH / 2, zc, -Math.PI / 2);
+    box(FD, 0.1, 0.03, skirtMat, -FW / 2 + 0.015, 0.05, zc).rotation.y = Math.PI / 2;
+    box(FD, 0.1, 0.03, skirtMat, FW / 2 - 0.015, 0.05, zc).rotation.y = Math.PI / 2;
+
+    // the far wall opens where the entrance was, onto a stair: one flight up and away, a landing,
+    // then a second flight turning right along the back wall and climbing out of sight
+    const sw = 2.2, sh = 2.7;                                                // the opening, and the flights' width
+    const segW = (FW - sw) / 2;
+    slab(segW, FH, wallMat(segW), -(sw / 2 + segW / 2), FH / 2, z1, Math.PI);
+    slab(segW, FH, wallMat(segW), sw / 2 + segW / 2, FH / 2, z1, Math.PI);
+    slab(sw, FH - sh, wallMat(sw), 0, sh + (FH - sh) / 2, z1, Math.PI);
+    box(0.08, sh + 0.04, 0.24, trimMat, -(sw / 2 + 0.04), (sh + 0.04) / 2, z1);
+    box(0.08, sh + 0.04, 0.24, trimMat, sw / 2 + 0.04, (sh + 0.04) / 2, z1);
+    box(sw + 0.16, 0.08, 0.24, trimMat, 0, sh + 0.04, z1);
+
+    const rise = 0.17, going = 0.28, stepsA = 14, stepsB = 10, landing = sw;
+    const runA = stepsA * going, topA = stepsA * rise, runB = stepsB * going, topB = stepsB * rise;
+    const zs = z1 + 0.12;                                                    // foot of the first flight, just past the threshold
+    const zL = zs + runA, zBack = zL + landing;                              // the landing band, and the back wall
+    const xR = sw / 2 + runB + 0.3;                                          // how far the well extends to the right for the second flight
+    const wellTop = FH + topA + topB + 0.6;
+    const stone = matte(COLORS.foyerWall, null, { roughness: 0.85 });
+    const tread = matte(COLORS.foyerFloor, null, { roughness: CONFIG.floorGloss + 0.15, envMapIntensity: 0.8 });
+    for (let i = 0; i < stepsA; i++) {
+      const h = (i + 1) * rise, z = zs + (i + 0.5) * going;
+      box(sw - 0.04, h - 0.04, going, stone, 0, (h - 0.04) / 2, z);             // the mass of the step
+      box(sw - 0.04, 0.04, going + 0.03, tread, 0, h - 0.02, z - 0.015);         // an oak tread with a little nosing
+    }
+    box(sw - 0.04, topA - 0.04, landing, stone, 0, (topA - 0.04) / 2, zL + landing / 2);
+    box(sw - 0.04, 0.04, landing, tread, 0, topA - 0.02, zL + landing / 2);
+    for (let j = 0; j < stepsB; j++) {                                        // the second flight, running right along the back wall
+      const h = topA + (j + 1) * rise, x = sw / 2 + (j + 0.5) * going;
+      box(going, h - 0.04, landing - 0.04, stone, x, (h - 0.04) / 2, zL + landing / 2);
+      box(going + 0.03, 0.04, landing - 0.04, tread, x - 0.015, h - 0.02, zL + landing / 2);
+    }
+
+    // the L-shaped stairwell: tall walls, a ceiling high above, daylight over the landing and over the head of the second flight
+    const wellMat = (len) => matte(COLORS.foyerWall, wallShade(len, wellTop, { bottom: false }));
+    const depth = zBack - z1;
+    slab(depth, wellTop, wellMat(depth), -sw / 2, wellTop / 2, z1 + depth / 2, Math.PI / 2);        // left wall, full depth
+    slab(runA + 0.12, wellTop, wellMat(runA), sw / 2, wellTop / 2, z1 + (runA + 0.12) / 2, -Math.PI / 2); // right wall, up to the landing
+    slab(xR - sw / 2, wellTop, wellMat(xR), sw / 2 + (xR - sw / 2) / 2, wellTop / 2, zL, 0);        // the return, facing into the extension
+    slab(landing, wellTop, wellMat(landing), xR, wellTop / 2, zL + landing / 2, -Math.PI / 2);     // far right wall
+    slab(xR + sw / 2, wellTop, wellMat(xR + sw / 2), (xR - sw / 2) / 2, wellTop / 2, zBack, Math.PI); // back wall, across both
+    slab(sw, depth, matte(COLORS.foyerCeiling), 0, wellTop, z1 + depth / 2, 0, Math.PI / 2);
+    slab(xR - sw / 2, landing, matte(COLORS.foyerCeiling), sw / 2 + (xR - sw / 2) / 2, wellTop, zL + landing / 2, 0, Math.PI / 2);
+    const glow = (w, d, x, z) => {
+      box(w + 0.1, 0.012, d + 0.1, matte(COLORS.fixture, null, { roughness: 0.5 }), x, wellTop - 0.006, z);
+      slab(w, d, sky(2.3, 2.25, 2.1, glowTex), x, wellTop - 0.02, z, 0, Math.PI / 2);
+    };
+    glow(sw - 0.7, landing - 0.7, 0, zL + landing / 2);
+    glow(1.2, landing - 0.7, xR - 0.9, zL + landing / 2);
+    const upLight = new THREE.PointLight(0xfff0dc, 1.2, 11, 2);
+    upLight.position.set(xR - 0.9, wellTop - 1.2, zL + landing / 2);             // brightest where the stair goes out of sight
+    room.add(upLight);
+
+    // handrails: up the left wall for the first flight, along the back wall for the second
+    const rail = matte(COLORS.trim, null, { metalness: 0.6, roughness: 0.4 });
+    const railA = new THREE.Mesh(new THREE.CylinderGeometry(0.02, 0.02, Math.hypot(runA, topA), 12), rail);
+    railA.position.set(-sw / 2 + 0.08, topA / 2 + 0.9, zs + runA / 2);
+    railA.rotation.x = Math.atan2(runA, topA);
+    railA.castShadow = true;
+    room.add(railA);
+    [2, 7, 12].forEach((i) => box(0.08, 0.03, 0.03, rail, -sw / 2 + 0.04, (i + 0.5) * rise + 0.85, zs + (i + 0.5) * going));
+    const railB = new THREE.Mesh(new THREE.CylinderGeometry(0.02, 0.02, Math.hypot(runB, topB), 12), rail);
+    railB.position.set(sw / 2 + runB / 2, topA + topB / 2 + 0.9, zBack - 0.08);
+    railB.rotation.z = -Math.atan2(runB, topB);
+    railB.castShadow = true;
+    room.add(railB);
+    [2, 6].forEach((j) => box(0.03, 0.03, 0.08, rail, sw / 2 + (j + 0.5) * going, topA + (j + 0.5) * rise + 0.85, zBack - 0.04));
+
+    // pendant
+    const fixture = matte(COLORS.pendant, null, { roughness: 0.4 });
+    const pendantAt = { x: 0, y: 2.0, z: zc };
+    box(0.006, FH - 2.1, 0.006, fixture, 0, FH - (FH - 2.1) / 2, zc);
+    const shade = new THREE.Mesh(new THREE.CylinderGeometry(0.12, 0.2, 0.16, 48, 1, true), fixture);
+    shade.material = shade.material.clone();
+    shade.material.side = THREE.DoubleSide;
+    shade.position.set(0, 2.05, zc);
+    shade.castShadow = true;
+    room.add(shade);
+    const cap = new THREE.Mesh(new THREE.CircleGeometry(0.12, 48), shade.material);   // closed at the top, so no light escapes upward
+    cap.rotation.x = -Math.PI / 2;
+    cap.position.set(0, 2.13, zc);
+    cap.castShadow = true;
+    room.add(cap);
+    const bulb = new THREE.Mesh(new THREE.SphereGeometry(0.035, 16, 12), new THREE.MeshBasicMaterial({ color: new THREE.Color(4, 3.1, 2) }));
+    bulb.position.set(0, 2.0, zc);
+    room.add(bulb);
+    // the pendant throws real shadows: the shade cuts its light to a cone below and a disc above, and
+    // the bench and pictures take their shadows from it directly. A coarse map keeps the edges soft,
+    // and a second, shadowless lamp fills them in so nothing goes black
+    const lamp = new THREE.PointLight(0xffd9ad, 0.42, 9, 2);
+    lamp.position.set(0, 2.0, zc);
+    lamp.castShadow = renderer.shadowMap.enabled;
+    lamp.shadow.mapSize.set(1024, 1024);
+    lamp.shadow.bias = -0.006;
+    lamp.shadow.normalBias = 0.03;
+    lamp.shadow.camera.near = 0.05;
+    lamp.shadow.camera.far = 12;
+    room.add(lamp);
+    const fill = new THREE.SpotLight(0xffd9ad, 0.3, 10, 1.35, 0.9, 2);   // a wide, soft, shadowless cone downward: lifts the shadows without touching the ceiling
+    fill.position.set(0, 2.1, zc);
+    fill.target.position.set(0, 0, zc);
+    room.add(fill, fill.target);
+
+    // a bench along the side wall
+    // the benches: one bent slab of ply each, the seat curving down at both ends to meet the floor,
+    // with a slight fall to the seat and a taper toward the feet
+    const wood = matte(COLORS.wood, woodMap(1.2, 0.5), { roughness: 0.55, envMapIntensity: 0.9 });
+    wood.map.repeat.set(1, 0.4);
+    [-1].forEach((side) => {
+      const bx = side * (FW / 2 - 0.75);
+      const L = 1.6, Hs = 0.44, r = 0.16, t = 0.035, w = 0.42;
+      const path = new THREE.CurvePath();
+      path.add(new THREE.LineCurve3(v3(0, 0, -L / 2 - 0.06), v3(0, Hs - 0.9*r, -L / 2)));                    // a foot, leaning in slightly as it rises
+      path.add(new THREE.QuadraticBezierCurve3(v3(0, Hs - r, -L / 2), v3(0, Hs, -L / 2), v3(0, Hs, -L / 2 + r)));
+      path.add(new THREE.QuadraticBezierCurve3(v3(0, Hs, -L / 2 + r), v3(0, Hs - 0.02, 0), v3(0, Hs, L / 2 - r)));  // the seat, with a shallow dip in the middle
+      path.add(new THREE.QuadraticBezierCurve3(v3(0, Hs, L / 2 - r), v3(0, Hs, L / 2), v3(0, Hs - 0.9*r, L / 2)));
+      path.add(new THREE.LineCurve3(v3(0, Hs - r, L / 2), v3(0, 0, L / 2 + 0.06)));
+      const section = new THREE.Shape();                                                                 // the slab's cross-section, swept along that line
+      section.moveTo(-w / 2, -t / 2); section.lineTo(w / 2, -t / 2); section.lineTo(w / 2, t / 2); section.lineTo(-w / 2, t / 2); section.closePath();
+      const geo = new THREE.ExtrudeGeometry(section, { steps: 172, bevelEnabled: false, extrudePath: path });
+      const bench = new THREE.Mesh(geo, wood);
+      bench.position.set(bx, 0, zc);
+      bench.castShadow = bench.receiveShadow = true;
+      room.add(bench);
+      if (!renderer.shadowMap.enabled) castShadow(pendantAt, [
+        { x: bx, y: Hs, z: zc, w, h: t, d: L },
+        { x: bx, y: Hs / 2, z: zc - L / 2, w, h: Hs, d: t },
+        { x: bx, y: Hs / 2, z: zc + L / 2, w, h: Hs, d: t },
+      ], side < 0 ? -FW / 2 : bx - 0.9, side < 0 ? bx + 0.9 : FW / 2, zc - 1.5, zc + 1.5, 0.35, 0.08);
+    });
+
+    // a few of the house placeholders hang here permanently: one over each bench,
+    // one either side of the stair. They're furniture, not part of the show, so they aren't in the tour.
+    // A manifest "foyer.works" entry overrides a slot by position; anything left unspecified keeps
+    // the house placeholder, so a partial override (say, just the two over the bench) works fine
+    const houseDecor = placeholders();
+    // decor[0]: over the bench, decor[1]: the wall opposite it (skipped if a sculpture stands there),
+    // decor[2]/[3]: either side of the stair, decor[4]: the stair landing, facing back down the first
+    // flight. A manifest "foyer.works" entry overrides a slot by position; anything left unspecified
+    // keeps the house placeholder
+    const houseSlots = [houseDecor[4], houseDecor[7], houseDecor[0], houseDecor[1], houseDecor[2]];
+    const decor = houseSlots.map((d, i) => (foyerSpec && foyerSpec.works[i]) || d);
+    const hang = (i, size, x, z, normal, yaw, y) => {
+      const w = makeWork(Object.assign({ size }, decor[i]), v3(x, y != null ? y : 1.55, z), normal, yaw, -1);
+      w.pool.visible = false;
+    };
+    // a sculpture, mirroring the bench on the room's other side; also furniture, not part of the tour,
+    // but still labelled if the manifest gives it a title or caption
+    const foyerSculptures = (foyerSpec && foyerSpec.sculptures) || [];
+    hang(0, 1.1, -FW / 2, zc, v3(1, 0, 0), Math.PI / 2);         // the pale square over one bench
+    if (!foyerSculptures.length) hang(1, 1.1, FW / 2, zc, v3(-1, 0, 0), -Math.PI / 2);  // the dark moon over the other, unless a sculpture now stands in front of it
+    hang(2, 0.9, -(sw / 2 + segW / 2), z1, v3(0, 0, -1), Math.PI);
+    hang(3, 0.9, sw / 2 + segW / 2, z1, v3(0, 0, -1), Math.PI);
+    // on the back wall of the landing, at the landing's own (elevated) floor height, facing anyone
+    // still climbing the first flight
+    hang(4, 0.9, 0, zBack, v3(0, 0, -1), Math.PI, topA + 1.5);
+
+    foyerSculptures.forEach((sd, i) => {
+      sculpture(sd, { index: -1 }, FW / 2 - 0.75, zc + (i - (foyerSculptures.length - 1) / 2) * 3.4, FH);
+    });
+  }
+
+  // two posts and a rope across the doorway
+  function buildBarrier(z) {
+    const metal = matte(COLORS.metal, null, { metalness: 0.9, roughness: 0.3 });
+    const rope = matte(COLORS.rope, null, { roughness: 0.95 });
+    const xs = [-CONFIG.door.width / 2 - 0.25, CONFIG.door.width / 2 + 0.25];
+    xs.forEach((x) => {
+      const post = new THREE.Mesh(new THREE.CylinderGeometry(0.018, 0.018, 0.95, 18), metal);
+      post.position.set(x, 0.475, z);
+      const base = new THREE.Mesh(new THREE.CylinderGeometry(0.15, 0.17, 0.025, 28), metal);
+      base.position.set(x, 0.0125, z);
+      const knob = new THREE.Mesh(new THREE.SphereGeometry(0.034, 18, 14), metal);
+      knob.position.set(x, 0.96, z);
+      post.castShadow = base.castShadow = knob.castShadow = true;
+      room.add(post, base, knob);
+      groundShadow(0.34, 0.34, 0.1, 0.4, x, z, true);
+    });
+    const curve = new THREE.QuadraticBezierCurve3(v3(xs[0], 0.9, z), v3(0, 0.52, z), v3(xs[1], 0.9, z));
+    const cord = new THREE.Mesh(new THREE.TubeGeometry(curve, 40, 0.016, 10, false), rope);
+    cord.castShadow = true;
+    room.add(cord);
+  }
+
+  // ceiling track above each wall, with one spot head aimed at each picture
+  function buildTracks(walls, W, D, roomWorks) {
+    const H = CONFIG.wallHeight;
+    const fixture = matte(COLORS.fixture, null, { roughness: 0.45, emissive: col(COLORS.fixture), emissiveIntensity: 0.55 });
+    const headGeo = new THREE.CylinderGeometry(0.05, 0.04, 0.16, 16);
+    headGeo.rotateX(Math.PI / 2);
+    const lensGeo = new THREE.CircleGeometry(0.042, 20);
+    const lensMat = new THREE.MeshBasicMaterial({ color: new THREE.Color(4.5, 4.0, 3.2) });
+    const inset = 1.3, railW = 0.05;
+    walls.forEach((wall) => {
+      const len = (wall.key === 'back' || wall.key === 'front') ? W : D;
+      const centre = wall.at(0).addScaledVector(wall.normal, inset);
+      const rail = box(len - 2 * inset + railW, 0.03, railW, fixture, centre.x, H - 0.015, centre.z);
+      rail.rotation.y = wall.yaw;
+    });
+    roomWorks.forEach((w) => {
+      const p = w.group.position.clone().addScaledVector(w.normal, inset);
+      const stem = box(0.012, 0.1, 0.012, fixture, p.x, H - 0.08, p.z);
+      const head = new THREE.Mesh(headGeo, fixture);
+      head.position.set(p.x, H - 0.18, p.z);
+      head.lookAt(w.group.position);
+      const lens = new THREE.Mesh(lensGeo, lensMat);
+      lens.position.z = 0.081;
+      head.add(lens);
+      room.add(head);
+      w.fixtures = [stem, head];
+    });
+  }
+
+  // how a picture is framed. Per work in the manifest: "frame": float | thin | wide | canvas | none,
+  // "mount": metres of mount around the picture inside the frame, "frameColor": black | white | oak | walnut | grey | any hex.
+  // The same keys at the top of the manifest or on a room set the defaults.
+  const FRAME_COLORS = { black: '#1f1c19', white: '#efebe4', oak: '#a8895f', walnut: '#5a4534', grey: '#8a8580' };
+  const frameMats = {};
+  // oak and walnut carry grain, running along each bar; the others are painted
+  const frameMat = (c, vertical) => {
+    const hex = FRAME_COLORS[c] || c || COLORS.frame;
+    const woody = c === 'oak' || c === 'walnut';
+    const key = hex + (woody ? (vertical ? '|v' : '|h') : '');
+    if (frameMats[key]) return frameMats[key];
+    let map = null;
+    if (woody) {
+      map = woodMap(4.8, 1.2);
+      map.repeat.set(0.4, 0.05);                        // a long run of grain along the bar, a sliver of one board across it
+      map.offset.set(Math.random() * 0.5, 0.3 + Math.random() * 0.4);
+      if (vertical) { map.center.set(0.5, 0.5); map.rotation = Math.PI / 2; }
+    }
+    return (frameMats[key] = matte(hex, map, { roughness: woody ? 0.5 : 0.45 }));
+  };
+  const frameBits = () => frameMats.__bits || (frameMats.__bits = {
+    mount: matte('#f3f0ea', null, { roughness: 0.95 }),
+    backing: matte('#cfc9be', null, { roughness: 0.9 }),
+    edge: matte('#3a3632', null, { roughness: 0.9 }),
+  });
+
+  function dressFrame(w) {
+    const style = w.data.frame || 'float', mount = Math.max(0, +w.data.mount || 0), mat = frameMat(w.data.frameColor), matV = frameMat(w.data.frameColor, true), bits = frameBits();
+    const g = w.frame;
+    while (g.children.length) { const c = g.children.pop(); c.geometry.dispose(); }
+    const add = (geo, m, x, y, z, noShadow) => {
+      const mesh = new THREE.Mesh(geo, m);
+      mesh.position.set(x, y, z);
+      mesh.castShadow = !noShadow;
+      g.add(mesh);
+    };
+    let outerW = w.w, outerH = w.h, imgZ;
+    if (style === 'none') {
+      imgZ = 0.006;                                                       // a print pinned to the wall
+    } else if (style === 'canvas') {
+      add(new THREE.BoxGeometry(w.w, w.h, 0.035), bits.edge, 0, 0, 0.0175);   // a stretched canvas, dark at the edges
+      imgZ = 0.036;
+    } else if (style === 'float') {
+      const f = 0.03;
+      outerW = w.w + 2 * f; outerH = w.h + 2 * f;
+      add(new THREE.BoxGeometry(outerW, outerH, 0.04), mat, 0, 0, 0.04);      // a slab the picture floats on
+      imgZ = 0.061;
+    } else {
+      const wide = style === 'wide';
+      const fw = wide ? 0.07 : 0.025, fd = wide ? 0.045 : 0.032, inset = 0.012;
+      const iw = w.w + 2 * mount, ih = w.h + 2 * mount;                       // inside the rebate
+      outerW = iw + 2 * fw; outerH = ih + 2 * fw;
+      add(new THREE.BoxGeometry(outerW, fw, fd), mat, 0, ih / 2 + fw / 2, fd / 2);   // four bars of moulding
+      add(new THREE.BoxGeometry(outerW, fw, fd), mat, 0, -(ih / 2 + fw / 2), fd / 2);
+      add(new THREE.BoxGeometry(fw, ih, fd), matV, -(iw / 2 + fw / 2), 0, fd / 2);
+      add(new THREE.BoxGeometry(fw, ih, fd), matV, iw / 2 + fw / 2, 0, fd / 2);
+      add(new THREE.BoxGeometry(iw, ih, 0.008), bits.backing, 0, 0, 0.004, true);
+      if (mount > 0) add(new THREE.PlaneGeometry(iw, ih), bits.mount, 0, 0, fd - inset - 0.003, true);
+      imgZ = fd - inset;
+    }
+    w.img.position.z = imgZ;
+    w.outer = { w: outerW, h: outerH };
+    if (w.mirror) {
+      w.mirror.frame.clear();
+      g.children.forEach((c) => { const m = c.clone(); m.castShadow = false; w.mirror.frame.add(m); });
+      w.mirror.img.position.z = imgZ;
+    }
+  }
+
+  // a sculpture: a glTF/GLB from Blender (or a placeholder form) on a plinth, lit by its own spot,
+  // labelled on the plinth, captioned like a picture and visited by the tour. Sits where it is put;
+  // the ghosts leave it alone.
+  const gltfLoader = THREE.GLTFLoader ? new THREE.GLTFLoader() : null;
+  // the figure-eight immersion of a Klein bottle — built directly from its parametric equations,
+  // since ParametricGeometry is an examples/addon, not part of core three.js, and isn't loaded here
+  function kleinBottleGeometry(segsU, segsV) {
+    const positions = [], indices = [];
+    for (let i = 0; i <= segsU; i++) {
+      const u = (i / segsU) * Math.PI * 2;
+      for (let j = 0; j <= segsV; j++) {
+        const v = (j / segsV) * Math.PI * 2;
+        const half = u / 2;
+        const r = 2 + Math.cos(half) * Math.sin(v) - Math.sin(half) * Math.sin(2 * v);
+        positions.push(r * Math.cos(u), r * Math.sin(u), Math.sin(half) * Math.sin(v) + Math.cos(half) * Math.sin(2 * v));
+      }
+    }
+    for (let i = 0; i < segsU; i++) {
+      for (let j = 0; j < segsV; j++) {
+        const a = i * (segsV + 1) + j, b = a + segsV + 1, c = a + 1, d = b + 1;
+        indices.push(a, b, c, b, d, c);
+      }
+    }
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute('position', new THREE.Float32BufferAttribute(positions, 3));
+    geo.setIndex(indices);
+    geo.computeVertexNormals();
+    return geo;
+  }
+  function sculpture(data, rm, x, z, ceilH) {
+    ceilH = ceilH || CONFIG.wallHeight;
+    const size = data.size || 0.7, plinthH = data.plinth != null ? data.plinth : 1.0, turn = (data.turn || 0) * Math.PI / 180;
+    const centreY = plinthH + size / 2;
+    const group = new THREE.Group();
+    group.position.set(x, centreY, z);
+    room.add(group);
+    const plinthMat = matte(data.plinthColor || '#e9e5dd', null, { roughness: 0.85 });
+    const pw = data.plinthWidth || 0.5;
+    const plinth = new THREE.Mesh(new THREE.BoxGeometry(pw, plinthH, pw), plinthMat);
+    plinth.position.y = -centreY + plinthH / 2;
+    plinth.castShadow = plinth.receiveShadow = true;
+    group.add(plinth);
+    groundShadow(pw, pw, 0.12, 0.35, x, z);
+    blocks.push({ x0: x - pw / 2, x1: x + pw / 2, z0: z - pw / 2, z1: z + pw / 2 });
+    // an invisible box the size of the sculpture, so it can be clicked
+    const pick = new THREE.Mesh(new THREE.BoxGeometry(size, size, size), new THREE.MeshBasicMaterial({ transparent: true, opacity: 0, depthWrite: false }));
+    group.add(pick);
+    const w = { data, group, img: pick, normal: v3(0, 0, 1), yaw: 0, index: works.length, room: rm.index, sculpture: true, w: size, h: size, size,
+      pool: { material: { opacity: 0 }, visible: false, scale: new THREE.Vector3() }, shadow: { material: { opacity: 1, map: null } } };
+    if (CONFIG.wallLabels && (data.title || data.caption || metaLine(data))) {
+      const label = labelCard(data);
+      label.position.set(0, -centreY + plinthH - 0.1 - label.userData.height / 2, pw / 2 + 0.004);
+      group.add(label);
+      w.label = label;
+    }
+    // the model: normalised so its longest side is `size`, standing on the plinth, turned as asked
+    const seat = (obj) => {
+      const box = new THREE.Box3().setFromObject(obj);
+      const dims = box.getSize(new THREE.Vector3()), k = size / Math.max(dims.x, dims.y, dims.z);
+      obj.scale.multiplyScalar(k);
+      const box2 = new THREE.Box3().setFromObject(obj), c = box2.getCenter(new THREE.Vector3());
+      obj.position.sub(new THREE.Vector3(c.x, box2.min.y, c.z)).add(new THREE.Vector3(0, -centreY + plinthH, 0));
+      obj.rotation.y = turn;
+      obj.traverse((o) => { if (o.isMesh) { o.castShadow = o.receiveShadow = true; const ms = Array.isArray(o.material) ? o.material : [o.material]; ms.forEach((m) => { if (m.isMeshStandardMaterial) daylit.push({ mat: m, base: m.envMapIntensity }); }); } });
+      group.add(obj);
+      const h = new THREE.Box3().setFromObject(obj).getSize(new THREE.Vector3()).y;
+      w.h = h; w.w = Math.max(dims.x, dims.z) * k;
+    };
+    const stone = () => new THREE.Mesh(kleinBottleGeometry(96, 24), matte(data.color || '#b9b2a6', null, { roughness: 0.65, side: THREE.DoubleSide }));
+    if (data.src && gltfLoader) {
+      pendingTextures++;
+      gltfLoader.load(data.src, (gltf) => { pendingTextures--; seat(gltf.scene); renderer.shadowMap.needsUpdate = true; }, undefined, () => {
+        pendingTextures--;
+        console.warn('could not load ' + data.src);
+        missing.push(data.src);
+        const s = stone(); s.material.color.set(col('#8a8378'));
+        seat(s);
+        showNote(missing.length + (missing.length === 1 ? ' item' : ' items') + ' could not be loaded. check the paths in the manifest: ' + missing.slice(0, 3).join(', ') + (missing.length > 3 ? ', ...' : ''));
+      });
+    } else {
+      if (data.src) showNote('the model loader did not load, so ' + data.src + ' is standing in as stone');
+      seat(stone());
+    }
+    // its own spot, hung a little to the door side and aimed at it
+    const head = new THREE.Group();
+    head.position.set(x, ceilH, z + 0.9);
+    const fixture = matte(COLORS.fixture, null, { roughness: 0.45, emissive: col(COLORS.fixture), emissiveIntensity: 0.55 });
+    const stem = new THREE.Mesh(new THREE.CylinderGeometry(0.006, 0.006, 0.1, 8), fixture); stem.position.y = -0.05; head.add(stem);
+    const can = new THREE.Mesh(new THREE.CylinderGeometry(0.05, 0.04, 0.16, 16), fixture); can.geometry.rotateX(Math.PI / 2); can.position.y = -0.18; head.add(can);
+    room.add(head);
+    head.updateMatrixWorld(true);
+    can.lookAt(new THREE.Vector3(x, centreY, z));
+    const light = new THREE.SpotLight(0xfff0da, 1.9, 8, Math.min(0.9, Math.atan2(size * 0.7 + 0.3, ceilH - centreY)), 0.75, 2);
+    light.position.copy(head.position).add(new THREE.Vector3(0, -0.2, 0));
+    light.target.position.set(x, centreY, z);
+    light.castShadow = renderer.shadowMap.enabled;
+    light.shadow.mapSize.set(1024, 1024);
+    light.shadow.bias = -0.0004;
+    light.shadow.normalBias = 0.03;
+    light.shadow.camera.near = 0.4; light.shadow.camera.far = 8;
+    room.add(light, light.target);
+    return w;
+  }
+
+  function setDims(w, aspect) {
+    const size = w.size;
+    w.w = aspect >= 1 ? size : size * aspect;
+    w.h = aspect >= 1 ? size / aspect : size;
+    const m = 0.2;
+    w.img.scale.set(w.w, w.h, 1);
+    dressFrame(w);
+    w.pool.scale.set(Math.max(w.w, w.h) * 2.4, Math.max(w.w, w.h) * 2.6, 1);
+    spots.forEach((sp) => { if (sp.work === w) { aimSpot(sp.light, w); renderer.shadowMap.needsUpdate = true; } });   // a spot already on it widens or narrows with it
+    if (w.shadow.material.map) w.shadow.material.map.dispose();
+    w.shadow.material.map = frameShadow(w.outer.w, w.outer.h, m);
+    w.shadow.material.needsUpdate = true;
+    w.shadow.scale.set(w.outer.w + 2 * m, w.outer.h + 2 * m, 1);
+    if (w.label) w.label.position.set(w.outer.w / 2 + 0.1 + 0.15, -w.label.userData.height / 2, 0.004);
+    if (w.mirror) w.mirror.img.scale.copy(w.img.scale);
+  }
+
+  function makeWork(data, pos, normal, yaw, index) {
+    const group = new THREE.Group();
+    group.position.copy(pos);
+    group.rotation.y = yaw;
+
+    const pool = new THREE.Mesh(new THREE.PlaneGeometry(1, 1),
+      new THREE.MeshBasicMaterial({ map: poolTex, transparent: true, depthWrite: false, opacity: CONFIG.spot, toneMapped: false }));
+    pool.position.set(0, 0.45, 0.006);
+    pool.renderOrder = 1;
+    group.add(pool);
+
+    const shadow = new THREE.Mesh(new THREE.PlaneGeometry(1, 1),
+      new THREE.MeshBasicMaterial({ transparent: true, depthWrite: false, toneMapped: false }));
+    shadow.position.set(0, -0.01, 0.01);
+    shadow.renderOrder = 2;
+    group.add(shadow);
+
+    const frame = new THREE.Group();   // filled in by dressFrame once the picture's size is known
+    group.add(frame);
+
+    const mat = new THREE.MeshBasicMaterial({ color: col(COLORS.placeholder), toneMapped: false });
+    const img = new THREE.Mesh(new THREE.PlaneGeometry(1, 1), mat);
+    img.position.z = 0.061;
+    img.castShadow = true;
+    group.add(img);
+
+    const w = { data, group, img, frame, pool, shadow, normal, yaw, index, size: data.size || CONFIG.workSize, w: 1, h: 1 };
+
+    if (CONFIG.wallLabels && index >= 0 && (data.title || data.caption || metaLine(data))) {
+      w.label = labelCard(data);
+      group.add(w.label);
+    }
+    if (CONFIG.floorReflection > 0 && index >= 0) {
+      // the picture's reflection: a copy hung upside down beneath the floor, seen through it
+      const mg = new THREE.Group();
+      mg.position.set(pos.x, -pos.y, pos.z);
+      mg.rotation.y = yaw;
+      mg.scale.y = -1;
+      // (three.js notices the flipped scale and keeps the faces the right way out, so the materials stay single-sided)
+      const mf = new THREE.Group();
+      const mi = new THREE.Mesh(img.geometry, new THREE.MeshBasicMaterial({ color: col(COLORS.placeholder), toneMapped: false }));
+      mi.position.z = 0.061;
+      mg.add(mf, mi);
+      room.add(mg);
+      w.mirror = { group: mg, img: mi, frame: mf };
+    }
+    setDims(w, 1);
+
+    pendingTextures++;
+    loadTexture(data.src, (tex) => {
+      pendingTextures--;
+      mat.map = tex;
+      mat.color.set(0xffffff);
+      mat.needsUpdate = true;
+      if (w.mirror) { w.mirror.img.material.map = tex; w.mirror.img.material.color.setScalar(1); w.mirror.img.material.needsUpdate = true; }
+      setDims(w, tex.image.width / tex.image.height);
+    }, undefined, () => {
+      pendingTextures--;
+      console.warn('could not load ' + data.src);
+      missing.push(data.src);
+      const tex = labelTexture('could not load', data.src);
+      mat.map = tex;
+      mat.color.set(0xffffff);
+      mat.needsUpdate = true;
+      setDims(w, 0.8);
+      showNote(missing.length + (missing.length === 1 ? ' picture' : ' pictures') + ' could not be loaded. check the paths in the manifest, and that the files are beside it: ' + missing.slice(0, 3).join(', ') + (missing.length > 3 ? ', ...' : ''));
+    });
+
+    room.add(group);
+    return w;
+  }
+
+  function build(roomSpecs, title, subtitle, intro, note) {
+    if (room) disposeGroup(room);
+    room = new THREE.Group();
+    scene.add(room);
+    daylit.length = 0;
+    skyMats.length = 0;
+    Object.keys(frameMats).forEach((k) => delete frameMats[k]);
+    spots.forEach((s) => { s.work = null; s.weight = 0; s.light.intensity = 0; });
+    works = [];
+    dictates = [];
+    textures.clear();
+    rooms = [];
+    doorways = [];
+    blocks = [];
+    missing = [];
+    current = -1;
+    arrived = -1;
+    currentRoom = 0;
+    focus = null;
+    closeFlat();
+    setCaption(null);
+    ui.title.textContent = title || CONFIG.title;
+    ui.subtitle.textContent = subtitle || '';
+    ui.roomTitle.textContent = '';
+    document.title = ui.title.textContent;
+    scene.background = col(COLORS.wall);
+    scene.fog.color = col(COLORS.wall);
+
+    const S = CONFIG.spacing;
+    const base = Object.assign({}, COLORS);
+    let nextX = 0;
+    roomSpecs.forEach((spec, ri) => {
+      Object.assign(COLORS, base, spec.colors || {});
+      const list = spec.works;
+      const first = ri === 0, last = ri === roomSpecs.length - 1;
+
+      // a picture that names its wall goes there; the rest are dealt so the sides take twice
+      // as many as the ends and the room reads as a hall
+      // the entrance wall keeps its wall text company only when a picture asks for it by name
+      const deal = first && (intro || note) ? ['back', 'left', 'right', 'left', 'right'] : ['back', 'left', 'right', 'front', 'left', 'right'];
+      const counts = { back: 0, right: 0, front: 0, left: 0 };
+      const onWall = { back: [], right: [], front: [], left: [] };
+      let dealt = 0;
+      list.forEach((d, i) => {
+        const key = Object.keys(counts).includes(d.wall) ? d.wall : deal[dealt++ % deal.length];
+        counts[key]++;
+        onWall[key].push(i);
+      });
+
+      // walls with a doorway hang their pictures either side of it
+      // pictures either side of a doorway start just clear of its frame, unless wall text is there,
+      // in which case they start beyond the text. On the front wall the text side is negative t
+      // (left of the door as you face it), the note's side positive
+      const gapPlain = CONFIG.door.width / 2 + 0.05, gapText = CONFIG.door.width / 2 + 1.1;
+      const split = (n, gapA, gapB) => {
+        const b = Math.ceil(n / 2), a = n - b, slots = [];   // an odd one out goes to the positive side
+        for (let i = 0; i < a; i++) slots.push(-(gapA + S * (i + 0.5)));
+        for (let i = 0; i < b; i++) slots.push(gapB + S * (i + 0.5));
+        slots.sort((p, q) => p - q);
+        return { slots, len: n ? 2 * Math.max(gapA + S * a, gapB + S * b) + 1.5 : 0 };
+      };
+      const plain = (n) => ({ slots: Array.from({ length: n }, (_, i) => (i - (n - 1) / 2) * S), len: n * S + 3 });
+      const front = first ? split(counts.front, intro ? gapText : gapPlain, note ? gapText : gapPlain) : plain(counts.front);
+      const left = ri > 0 ? split(counts.left, gapPlain, gapPlain) : plain(counts.left);
+      const right = last ? plain(counts.right) : split(counts.right, gapPlain, gapPlain);
+      const back = plain(counts.back);
+      const roomFloor = (last && !list.length) ? CONFIG.emptyRoomSize : 9;
+      const W = Math.max(roomFloor, back.len, front.len);
+      const sculpt = spec.sculptures || [];
+      const D = Math.max(roomFloor, left.len, right.len, sculpt.length ? sculpt.length * 3.4 + 4 : 0);
+      const cx = first ? 0 : nextX + W / 2;
+      nextX = cx + W / 2;
+      const rm = { index: ri, cx, W, D, x0: cx - W / 2, x1: cx + W / 2, z0: -D / 2, z1: D / 2, frontInset: first ? 0.7 : 0.55, title: spec.title || '', works: [] };
+      rooms.push(rm);
+      if (!last) doorways.push({ x: rm.x1, z: 0, w: CONFIG.door.width });
+
+      originX = cx;
+      buildShell(W, D, { doorLeft: ri > 0, doorRight: !last, foyer: first, smallDoor: !!(secret && last) });
+      if (first && intro) {
+        const panel = wallText(title || CONFIG.title, subtitle, intro, 1.3);
+        panel.position.set(CONFIG.door.width / 2 + 0.3 + 0.65, 2.4 - panel.userData.height / 2, D / 2 - 0.006);
+        panel.rotation.y = Math.PI;
+        room.add(panel);
+      }
+      // a second panel, mirrored on the far side of the door, for a note that isn't the main intro (e.g. on the makers)
+      if (first && note) {
+        const notePanel = wallText('', 'the collective', note, 1.3);
+        notePanel.position.set(-(CONFIG.door.width / 2 + 0.3 + 0.65), 2.4 - notePanel.userData.height / 2, D / 2 - 0.006);
+        notePanel.rotation.y = Math.PI;
+        room.add(notePanel);
+      }
+      originX = 0;
+
+      // clockwise tour: back wall left to right, then right, front, left
+      const walls = [
+        { key: 'back', slots: back.slots, at: (t) => v3(cx + t, 0, -D / 2), normal: v3(0, 0, 1), yaw: 0 },
+        { key: 'right', slots: right.slots, at: (t) => v3(cx + W / 2, 0, t), normal: v3(-1, 0, 0), yaw: -Math.PI / 2 },
+        { key: 'front', slots: front.slots, at: (t) => v3(cx - t, 0, D / 2), normal: v3(0, 0, -1), yaw: Math.PI },
+        { key: 'left', slots: left.slots, at: (t) => v3(cx - W / 2, 0, -t), normal: v3(1, 0, 0), yaw: Math.PI / 2 },
+      ];
+      walls.forEach((wall) => {
+        onWall[wall.key].forEach((j, i) => {
+          const p = wall.at(wall.slots[i]);
+          p.y = CONFIG.hangHeight;
+          const w = makeWork(list[j], p, wall.normal, wall.yaw, works.length);
+          w.room = ri;
+          works.push(w);
+          rm.works.push(w);
+        });
+      });
+      if (rm.works.length) buildTracks(walls, W, D, rm.works);
+      rm.slots = rm.works.map((w) => ({ pos: w.group.position.clone(), normal: w.normal.clone(), yaw: w.yaw }));
+      rm.occupants = rm.works.slice();
+      // sculptures stand down the middle of the room unless the manifest places them
+      sculpt.forEach((sd, i) => {
+        const at = sd.at || [0, (i - (sculpt.length - 1) / 2) * 3.4];
+        works.push(sculpture(sd, rm, cx + at[0], at[1]));
+      });
+    });
+    Object.assign(COLORS, base);
+
+    const x0 = rooms[0].x0, x1 = rooms[rooms.length - 1].x1 + (secret ? secret.corridor.length + 3 : 0), maxD = Math.max.apply(null, rooms.map((r) => r.D));   // the sun's shadow must cover the corridor too, or it would light it through the roof
+    buildSky(x0, x1, maxD);
+    placeSun(x0, x1, maxD);
+    renderer.shadowMap.needsUpdate = true;
+
+    pos.set(0, CONFIG.eyeHeight, Math.min(rooms[0].z1 - rooms[0].frontInset, -rooms[0].D / 2 + 6.5));
+    for (let tries = 0; tries < 20 && !canStand(pos.x, pos.z); tries++) pos.x += 0.4;   // step aside from a plinth on the spawn point
+    yaw = 0; pitch = 0;
+    ui.pager.classList.toggle('hidden', works.length < 2);
+    showRoomTitle();
+    nameWorks();
+    applyHash(false);
+    if (!opened) reveal();
+    ghostTimer = 4;
+    ghostMoves = 0;
+  }
+
+  // the first time in: hold a curtain in the wall's colour until the pictures are on the walls, then
+  // lift it slowly while the camera takes a step into the room
+  let opened = false;
+  function reveal() {
+    opened = true;
+    ui.curtain.style.background = COLORS.wall;
+    ui.curtainTitle.textContent = ui.title.textContent;
+    const started = performance.now();
+    const drift = !reducedMotion && !focus;
+    if (drift) {
+      const to = pos.clone();
+      pos.x += Math.sin(yaw) * 0.7;   // a step back along the line of sight
+      pos.z += Math.cos(yaw) * 0.7;
+      focus = { legs: [{ fromPos: pos.clone(), toPos: to, fromYaw: yaw, toYaw: yaw, fromPitch: pitch - 0.04, toPitch: pitch, t: 0, dur: 2.6 }], leg: 0 };
+    }
+    const tryLift = () => {
+      const waited = performance.now() - started;
+      if (pendingTextures > 0 && waited < 4000) {
+        if (waited > 700) ui.curtainTitle.classList.add('show');
+        setTimeout(tryLift, 100);
+        return;
+      }
+      ui.curtain.classList.add('gone');
+      setTimeout(() => ui.curtain.remove(), 1800);
+    };
+    setTimeout(tryLift, 250);
+  }
+
+  /* ------------------------------- live lighting --------------------------------- */
+  // A handful of real spotlights, with shadow maps, follow the viewer: they land on the
+  // nearest pictures, spilling light onto the floor and throwing true shadows, while the
+  // painted pools on the rest of the room fade out under them and back in as they leave.
+  const SUN_INTENSITY = renderer.shadowMap.enabled ? 0.75 : 0; // without shadows it would light the whole floor through the roof
+  const sun = new THREE.DirectionalLight(0xfff2dc, SUN_INTENSITY);
+  sun.castShadow = renderer.shadowMap.enabled;
+  sun.shadow.mapSize.set(2048, 2048);
+  sun.shadow.bias = -0.0003;
+  sun.shadow.normalBias = 0.02;
+  scene.add(sun, sun.target);
+  function placeSun(x0, x1, maxD) {
+    const dir = new THREE.Vector3(0.32, 1, 0.2).normalize();
+    const mid = (x0 + x1) / 2;
+    // far enough out that no ceiling in a long run of rooms is ever behind the shadow camera
+    sun.position.copy(dir).multiplyScalar(80).add(new THREE.Vector3(mid, 0, 0));
+    sun.target.position.set(mid, 0, 0);
+    sun.target.updateMatrixWorld();
+    const c = sun.shadow.camera, r = Math.hypot(x1 - x0, maxD) * 0.6 + 4;
+    c.left = -r; c.right = r; c.top = r; c.bottom = -r; c.near = 1; c.far = 160;
+    c.updateProjectionMatrix();
+    const size = r > 18 ? 4096 : 2048;
+    if (sun.shadow.mapSize.x !== size) {
+      sun.shadow.mapSize.set(size, size);
+      if (sun.shadow.map) { sun.shadow.map.dispose(); sun.shadow.map = null; }
+    }
+  }
+
+  const SPOT_INTENSITY = 2.3;
+  // a spot's cone opens or narrows to suit the picture it is on: the pool it throws is always about
+  // a fifth wider than the picture's longest side, whatever that is
+  function aimSpot(light, w) {
+    const head = w.group.position.clone().addScaledVector(w.normal, 1.3);
+    head.y = CONFIG.wallHeight - 0.2;
+    const throwLen = head.distanceTo(w.group.position);
+    const half = Math.max(w.w, w.h) * 0.6 + 0.35;
+    light.angle = Math.min(1.0, Math.max(0.25, Math.atan2(half, throwLen)));
+    light.penumbra = 0.8;
+  }
+  const spots = [];
+  for (let i = 0; i < (coarsePointer ? 3 : CONFIG.liveSpots); i++) {
+    const light = new THREE.SpotLight(0xfff0da, 0, 9, 0.5, 0.8, 2);
+    light.castShadow = !coarsePointer;
+    light.shadow.mapSize.set(1024, 1024);
+    light.shadow.bias = -0.0004;
+    light.shadow.normalBias = 0.03;
+    light.shadow.camera.near = 0.4;
+    light.shadow.camera.far = 9;
+    scene.add(light, light.target);
+    spots.push({ light, work: null, wanted: false, weight: 0 });
+  }
+  let spotTimer = 0;
+
+  function assignSpots() {
+    const near = works.filter((w) => !w.sculpture).map((w) => ({ w, d: w.group.position.distanceTo(pos) + (w.room === currentRoom ? 0 : 20) }))
+      .filter((e) => e.d < 36).sort((a, b) => a.d - b.d).slice(0, spots.length).map((e) => e.w);
+    spots.forEach((s) => { s.wanted = !!s.work && near.includes(s.work); });
+    let moved = false;
+    near.forEach((w) => {
+      if (spots.some((s) => s.work === w)) return;
+      const free = spots.find((s) => !s.work);
+      if (!free) return;
+      const head = w.group.position.clone().addScaledVector(w.normal, 1.3);
+      free.light.position.set(head.x, CONFIG.wallHeight - 0.2, head.z);
+      free.light.target.position.copy(w.group.position).add(new THREE.Vector3(0, 0.25, 0));
+      free.light.target.updateMatrixWorld();
+      aimSpot(free.light, w);
+      free.work = w;
+      free.wanted = true;
+      moved = true;
+    });
+    if (moved) renderer.shadowMap.needsUpdate = true;
+  }
+
+  function updateLighting(dt, t) {
+    spotTimer += dt;
+    if (spotTimer > 0.25) { spotTimer = 0; assignSpots(); }
+    spots.forEach((s) => {
+      if (!s.work) return;
+      const target = s.wanted ? 1 : 0;
+      s.weight += (target - s.weight) * Math.min(1, dt * 3.5);
+      s.light.intensity = SPOT_INTENSITY * s.weight;
+      s.work.pool.material.opacity = CONFIG.spot * (1 - s.weight);
+      s.work.shadow.material.opacity = 1 - 0.75 * s.weight;
+      if (!s.wanted && s.weight < 0.02) {
+        s.light.intensity = 0;
+        s.work.pool.material.opacity = CONFIG.spot;
+        s.work.shadow.material.opacity = 1;
+        s.work = null;
+      }
+    });
+    // clouds drifting over the skylight, and their light crossing the room: sample the same density
+    // field the shader draws, along the path from here up through the actual cloud layer toward the
+    // sun, so the room dims exactly when — not merely around when — a cloud sits in front of the sun
+    const t0cloud = (CLOUD_BASE - pos.y) / sunDirCPU.y, t1cloud = (CLOUD_TOP - pos.y) / sunDirCPU.y;
+    const cloudStep = (t1cloud - t0cloud) / 6;
+    let ld = 0;
+    for (let i = 0; i < 6; i++) {
+      const tt = t0cloud + cloudStep * (i + 0.5);
+      ld += cloudShapeAt(pos.x + sunDirCPU.x * tt, pos.y + sunDirCPU.y * tt, pos.z + sunDirCPU.z * tt, t);
+    }
+    const sunSeen = Math.exp(-ld * cloudStep * 0.014 * CONFIG.cloudHeaviness);
+    const targetK = 1 - CONFIG.daylightDrift * (1 - sunSeen);
+    sunK += (targetK - sunK) * Math.min(1, dt * 2);
+    const k = sunK;
+    daylit.forEach((e) => { e.mat.envMapIntensity = e.base * k; });
+    sun.intensity = SUN_INTENSITY * k;
+    skyMats.forEach((e) => { e.mat.color.copy(e.base).multiplyScalar(k); });
+    skyMat.uniforms.time.value = t;
+    skyMat.uniforms.daylight.value = k;
+  }
+
+  /* --------------------------------- movement ------------------------------------ */
+  const pos = new THREE.Vector3(0, CONFIG.eyeHeight, 3);
+  let yaw = 0, pitch = 0;
+  let focus = null;    // in-flight camera move toward a picture
+  let current = -1;    // index of the captioned picture
+  let arrived = -1;    // the picture the camera has glided to and not moved from since
+  let flatOpen = false;
+  let locked = false;  // pointer captured for mouse-look
+  const keys = new Set();
+  const stick = { x: 0, y: 0 };
+  const scratch = new THREE.Vector3();
+
+  /* ----------------------------------- ghosts ------------------------------------ */
+  // 鬼打墙: the building rearranges itself behind your back, in two ways. Within a room, two pictures
+  // that are out of your sight change places. And two whole rooms can trade their contents, when
+  // nothing in either is in view: you look up at the skylight, or at a bare stretch of wall, or the
+  // large view is covering the screen, and when you look again you are standing in the other room.
+  // Nothing ever moves in front of you; you only find that what you remember is no longer where it was.
+  let ghost = false, ghostTimer = 3, ghostMoves = 0;
+  const seen = new THREE.Vector3();
+  function inView(w) {
+    const d = seen.copy(w.group.position).sub(pos);
+    if (-d.x * Math.sin(yaw) - d.z * Math.cos(yaw) < 0) return false;       // behind you
+    const p = w.group.position.clone().project(camera);
+    return Math.abs(p.x) < 1.45 && Math.abs(p.y) < 1.45;                    // a margin beyond the frame, so nothing pops at its edge
+  }
+  const unseen = (w) => flatOpen || !inView(w);
+  // every room remembers its hooks; a picture is hung on one by index
+  function place(w, r, i) {
+    const slot = rooms[r].slots[i];
+    w.group.position.copy(slot.pos);
+    w.normal = slot.normal;
+    w.yaw = slot.yaw;
+    w.room = r;
+    w.group.rotation.y = w.yaw;
+    if (w.mirror) { w.mirror.group.position.set(slot.pos.x, -slot.pos.y, slot.pos.z); w.mirror.group.rotation.y = w.yaw; }
+  }
+  function afterMove(movedWorks) {
+    spots.forEach((sp) => {                                                  // a live spot follows its picture
+      if (!movedWorks.includes(sp.work)) return;
+      const head = sp.work.group.position.clone().addScaledVector(sp.work.normal, 1.3);
+      sp.light.position.set(head.x, CONFIG.wallHeight - 0.2, head.z);
+      sp.light.target.position.copy(sp.work.group.position).add(new THREE.Vector3(0, 0.25, 0));
+      sp.light.target.updateMatrixWorld();
+      aimSpot(sp.light, sp.work);
+    });
+    renderer.shadowMap.needsUpdate = true;                                   // their shadows go with them
+    if (current >= 0 && movedWorks.includes(works[current]) && !inView(works[current])) { current = -1; setCaption(null); }
+    if (arrived >= 0 && movedWorks.includes(works[arrived])) arrived = -1;
+    ghostMoves++;
+  }
+  function swapPictures() {
+    const candidates = rooms.filter((r) => r.occupants.filter((w) => w !== works[current] && unseen(w)).length >= 2);
+    if (!candidates.length) return false;
+    const r = candidates[Math.floor(Math.random() * candidates.length)];
+    const pool = r.occupants.map((w, i) => ({ w, i })).filter((e) => e.w !== works[current] && unseen(e.w));
+    const a = pool[Math.floor(Math.random() * pool.length)], b = pool[Math.floor(Math.random() * pool.length)];
+    if (a === b) return false;
+    r.occupants[a.i] = b.w; r.occupants[b.i] = a.w;
+    place(b.w, r.index, a.i); place(a.w, r.index, b.i);
+    afterMove([a.w, b.w]);
+    return true;
+  }
+  function swapRooms() {
+    const quietRooms = rooms.filter((r) => r.occupants.every(unseen));
+    const pairs = [];
+    quietRooms.forEach((a, i) => quietRooms.slice(i + 1).forEach((b) => { if (a.occupants.length === b.occupants.length) pairs.push([a, b]); }));
+    if (!pairs.length) return false;
+    const [a, b] = pairs[Math.floor(Math.random() * pairs.length)];
+    const oa = a.occupants, ob = b.occupants;
+    a.occupants = ob; b.occupants = oa;
+    ob.forEach((w, i) => place(w, a.index, i));
+    oa.forEach((w, i) => place(w, b.index, i));
+    afterMove(oa.concat(ob));
+    return true;
+  }
+  function haunt(dt) {
+    if (!ghost || works.length < 2) return;
+    ghostTimer -= dt;
+    if (ghostTimer > 0) return;
+    ghostTimer = CONFIG.ghostEvery[0] + Math.random() * (CONFIG.ghostEvery[1] - CONFIG.ghostEvery[0]);
+    if (rooms.length > 1 && Math.random() < (flatOpen ? 0.6 : 0.35) && swapRooms()) return;
+    swapPictures();
+  }
+  let noteTimer = null;
+  function setGhost(on, quiet) {
+    ghost = on;
+    if (ghost && !/Ghosts: g/.test(ui.help.textContent)) ui.help.textContent += '';   // the key is only advertised in a show that uses it, change '' to '\nGhosts: g'
+    if (quiet) return;
+    showNote(ghost ? 'ghosts' : 'no ghosts');
+    clearTimeout(noteTimer);
+    noteTimer = setTimeout(() => { if (!missing.length) ui.note.classList.add('hidden'); }, 2200);
+  }
+
+  /* ------------------------------- the small doors ------------------------------- */
+  let secret = null;      // { code, door, door2, dictates, corridor: { length, period, loops, repeat, code }, cellEnd }
+  let foyerSpec = null;   // optional: { works, sculptures } for the foyer's own decor, from manifest "foyer"
+  let crouching = false, eyeH = CONFIG.eyeHeight;
+  const doors = () => (secret ? [secret.door, secret.door2].filter(Boolean) : []);
+  // the walkable length behind the first door: the corridor, and the cell beyond the second door once it is open
+  const inCorridor = (x, z) => {
+    // the corridor is there once its door has ever been unlocked; only the doorways themselves depend on the leaves
+    if (!secret || !secret.door || !secret.door.unlocked) return false;
+    const far = secret.door2 && secret.door2.unlocked ? secret.door2.x + 0.6 : secret.door.x + secret.corridor.length - 0.35;
+    return x > secret.door.x - 0.75 && x < far && Math.abs(z - secret.door.z) < 0.22
+      && (x > secret.door.x + 0.45 || secret.door.hinge.rotation.y > 1.0)
+      && !(secret.door2 && Math.abs(x - secret.door2.x) < 0.45 && secret.door2.hinge.rotation.y <= 1.0);
+  };
+  // the black room beyond: yours once the second door is unlocked, and tall enough to stand in
+  const inBlack = (x, z) => !!(secret && secret.black && secret.door2 && secret.door2.unlocked
+    && x > secret.black.x0 + 0.35 && x < secret.black.x1 - 0.35 && Math.abs(z) < secret.black.half - 0.35);
+  const stooped = () => eyeH < SMALL.h - 0.15;
+  let lockPinned = false;   // the prompt was opened by clicking a door; it stays until you walk off
+  let lockDoor = null;      // which door the prompt is for
+  function pickDoor(clientX, clientY) {
+    ndc.set((clientX / innerWidth) * 2 - 1, -(clientY / innerHeight) * 2 + 1);
+    raycaster.setFromCamera(ndc, camera);
+    return doors().find((d) => raycaster.intersectObject(d.hinge, true).length > 0) || null;
+  }
+  function askForCode(d) {
+    if (locked && document.exitPointerLock) document.exitPointerLock();
+    lockDoor = d;
+    lockPinned = true;
+    ui.lock.classList.remove('hidden');
+    ui.lockInput.disabled = false;
+    ui.lockInput.value = '';
+    ui.lockInput.focus();
+  }
+  function tryCode(text) {
+    const clean = String(text || '').trim().replace(/^#/, '').toLowerCase();
+    const d = lockDoor;
+    if (!d || d.open) return;
+    d.spin = 1;                                                      // the dials turn over
+    if (clean && clean === d.code) {
+      d.open = true;
+      d.unlocked = true;
+      ui.lockInput.blur();
+      ui.lockInput.disabled = true;
+      setTimeout(() => { ui.lock.classList.add('hidden'); ui.lockInput.value = ''; }, 4000);
+    } else {
+      ui.lock.classList.remove('wrong'); void ui.lock.offsetWidth; ui.lock.classList.add('wrong');
+    }
+  }
+  ui.lockInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') { tryCode(ui.lockInput.value); e.preventDefault(); }
+    if (e.key === 'Escape') { ui.lockInput.blur(); e.preventDefault(); }
+    e.stopPropagation();
+  });
+  function updateLock() {
+    if (!secret || !secret.door) return;
+    let near = null;
+    doors().forEach((d) => {
+      if (d.open || d.unlocked) return;
+      const dx = d.x - pos.x, dz = d.z - pos.z, dist = Math.hypot(dx, dz);
+      const facing = (-dx * Math.sin(yaw) - dz * Math.cos(yaw)) / (dist || 1);
+      if (dist < 2.4 && facing > 0.6 && dx > 0) near = d;                // approached from its own side
+    });
+    if (lockPinned && lockDoor && (Math.hypot(lockDoor.x - pos.x, lockDoor.z - pos.z) > 6 || lockDoor.open)) lockPinned = false;
+    const show = lockPinned ? lockDoor : near;
+    if (show && !lockPinned) lockDoor = show;
+    const shown = !ui.lock.classList.contains('hidden');
+    if (!!show === shown) return;
+    ui.lock.classList.toggle('hidden', !show);
+    if (show) { ui.lockInput.disabled = false; ui.lockInput.value = ''; } else ui.lockInput.blur();
+  }
+  // the crab and the sign: dark until the visitor shuts the door behind them, reset the moment
+  // they open it again, so the whole thing can be replayed as many times as they like
+  function updateReveal(dt) {
+    const r = secret && secret.reveal;
+    if (!r) return;
+    const d = secret.door2;
+    const justClosed = r.prevOpen && !d.open;
+    r.prevOpen = d.open;
+    if (inBlack(pos.x, pos.z) && justClosed) { r.timer = 0; r.revealed = false; }
+    else if (d.open) { r.timer = -1; r.revealed = false; }
+    if (r.timer >= 0) { r.timer += dt; if (r.timer > 1.2) r.revealed = true; }
+    if (r.revealed && !r.sign.visible) { r.crabParts.forEach((m) => { m.visible = true; }); r.sign.visible = true; }
+    if (!r.revealed && r.sign.visible && r.light.intensity < 0.01) { r.crabParts.forEach((m) => { m.visible = false; }); r.sign.visible = false; }
+    const targetLight = r.revealed ? 1.8 : 0;
+    r.light.intensity += (targetLight - r.light.intensity) * Math.min(1, dt * 5);
+    const targetOpacity = r.revealed ? 1 : 0;
+    r.sign.material.opacity += (targetOpacity - r.sign.material.opacity) * Math.min(1, dt * 6);
+  }
+  function stepDoor(dt) {
+    doors().forEach((d) => {
+      const target = d.open ? 1.52 : 0;   // just short of square, so the leaf lies along the corridor wall instead of through it
+      d.hinge.rotation.y += (target - d.hinge.rotation.y) * Math.min(1, dt * 2.2);
+      d.dials.forEach((dl, i) => { dl.rotation.x += dt * (0.12 + i * 0.03); });  // a slow, constant creep — the mechanism never quite settles
+      if (d.spin > 0) {                                                  // a tried code sets the dials spinning down, on top of that creep
+        const k = d.spin;
+        d.dials.forEach((dl, i) => { dl.rotation.x += dt * (6 + i * 1.5) * k; });
+        d.spin = Math.max(0, k - dt * 0.9);
+      }
+    });
+    // in the corridor you stay crouched
+    if (secret && inCorridor(pos.x, pos.z)) crouching = true;
+  }
+
+  let currentRoom = 0;
+  const inset = 0.55;
+
+  const inRoom = (r, x, z) => x > r.x0 + inset && x < r.x1 - inset && z > r.z0 + inset && z < r.z1 - r.frontInset;
+  const inDoorway = (d, x, z) => Math.abs(x - d.x) < 0.9 && Math.abs(z - d.z) < d.w / 2 - 0.3;
+  const blocked = (x, z) => blocks.some((b) => x > b.x0 - 0.35 && x < b.x1 + 0.35 && z > b.z0 - 0.35 && z < b.z1 + 0.35);
+  const canStand = (x, z) => !blocked(x, z) && (rooms.some((r) => inRoom(r, x, z)) || doorways.some((d) => inDoorway(d, x, z)) || (inCorridor(x, z) && stooped()) || inBlack(x, z));
+  const roomAt = (x, z) => rooms.findIndex((r) => x >= r.x0 && x <= r.x1 && z >= r.z0 && z <= r.z1);
+
+  function clampToRoom(v, r) {
+    v.x = Math.max(r.x0 + inset, Math.min(r.x1 - inset, v.x));
+    v.z = Math.max(r.z0 + inset, Math.min(r.z1 - r.frontInset, v.z));
+    return v;
+  }
+  const yawToward = (dx, dz) => Math.atan2(-dx, -dz);
+  const unwrap = (target, from) => from + (((target - from + Math.PI) % (2 * Math.PI) + 2 * Math.PI) % (2 * Math.PI) - Math.PI);
+  function showRoomTitle() {
+    if (rooms.length < 2 || !rooms[currentRoom]) { ui.roomTitle.textContent = ''; return; }
+    const t = rooms[currentRoom].title;
+    // a bare numeral reads as a stray letter on its own, so say what it is
+    ui.roomTitle.textContent = !t ? '' + (currentRoom + 1) : /^[ivxlc0-9]{1,5}$/i.test(t) ? '' + t : t;
+  }
+
+  function focusOn(i) {
+    const w = works[i];
+    if (!w) return;
+    if (!inCorridor(pos.x, pos.z)) crouching = false;
+    const dist = 1.3 + Math.max(w.w, w.h) * 1.15;
+    const target = clampToRoom(w.group.position.clone().addScaledVector(w.normal, dist), rooms[w.room]);
+    target.y = CONFIG.eyeHeight;
+    const toPitch = Math.atan2(w.group.position.y - CONFIG.eyeHeight, dist);
+    // if the picture is in another room, go through the doorways between here and there
+    const points = [];
+    const here = Math.max(0, roomAt(pos.x, pos.z) < 0 ? currentRoom : roomAt(pos.x, pos.z));
+    const step = w.room > here ? 1 : -1;
+    for (let r = here; r !== w.room; r += step) {
+      const d = doorways[Math.min(r, r + step)];
+      points.push(v3(d.x, CONFIG.eyeHeight, d.z));
+    }
+    points.push(target);
+    const legs = [];
+    let from = pos.clone(), fromYaw = yaw, fromPitch = pitch;
+    points.forEach((p, j) => {
+      const lastLeg = j === points.length - 1;
+      const next = lastLeg ? null : points[j + 1];
+      const toYaw = unwrap(lastLeg ? w.yaw : yawToward(next.x - p.x, next.z - p.z), fromYaw);
+      const tp = lastLeg ? toPitch : 0;
+      const travel = from.distanceTo(p);
+      legs.push({ fromPos: from, toPos: p, fromYaw, toYaw, fromPitch, toPitch: tp, t: 0,
+        dur: reducedMotion ? 0 : Math.min(3, 0.35 + travel * 0.16 + Math.abs(toYaw - fromYaw) * 0.25) });
+      from = p; fromYaw = toYaw; fromPitch = tp;
+    });
+    focus = { legs, leg: 0 };
+    current = i;
+    setCaption(w);
+    setHash(w.slug);
+  }
+
+  function stepFocus(dt) {
+    const L = focus.legs[focus.leg];
+    L.t += dt;
+    const k = L.dur > 0 ? Math.min(1, L.t / L.dur) : 1;
+    const mid = focus.leg < focus.legs.length - 1;
+    const e = mid ? k : k * k * (3 - 2 * k); // glide straight through doorways, ease into the picture
+    pos.lerpVectors(L.fromPos, L.toPos, e);
+    yaw = L.fromYaw + (L.toYaw - L.fromYaw) * (mid ? Math.min(1, k * 2) : e);
+    pitch = L.fromPitch + (L.toPitch - L.fromPitch) * e;
+    if (k >= 1) {
+      focus.leg++;
+      if (focus.leg >= focus.legs.length) { focus = null; arrived = current; }
+    }
+  }
+
+  function walk(dt) {
+    let mx = 0, mz = 0;
+    if (keys.has('KeyW') || keys.has('ArrowUp')) mz -= 1;
+    if (keys.has('KeyS') || keys.has('ArrowDown')) mz += 1;
+    if (keys.has('KeyA') || keys.has('ArrowLeft')) mx -= 1;
+    if (keys.has('KeyD') || keys.has('ArrowRight')) mx += 1;
+    mx += stick.x; mz += stick.y;
+    const len = Math.hypot(mx, mz);
+    if (len < 0.05) return;
+    if (len > 1) { mx /= len; mz /= len; }
+    arrived = -1;
+    const fx = -Math.sin(yaw), fz = -Math.cos(yaw);
+    const rx = Math.cos(yaw), rz = -Math.sin(yaw);
+    const step = CONFIG.walkSpeed * dt * (crouching ? 0.55 : 1);
+    const nx = pos.x + (fx * -mz + rx * mx) * step, nz = pos.z + (fz * -mz + rz * mx) * step;
+    if (canStand(nx, nz)) { pos.x = nx; pos.z = nz; }
+    else if (canStand(nx, pos.z)) pos.x = nx;
+    else if (canStand(pos.x, nz)) pos.z = nz;
+    noteFirstMove();
+  }
+
+  /* --------------------------------- captions ------------------------------------ */
+  const metaLine = (d) => [d.artist, d.year].filter(Boolean).join(', ');
+  const slugify = (t) => String(t).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+
+  function nameWorks() {
+    const used = new Set();
+    works.forEach((w) => {
+      const base = slugify(w.data.id || w.data.title || 'work') || 'work';
+      let slug = base, n = 2;
+      while (used.has(slug)) slug = base + '-' + n++;
+      used.add(slug);
+      w.slug = slug;
+    });
+  }
+  const findBySlug = (slug) => works.find((w) => w.slug === slug);
+
+  // stand in front of a picture straight away, with no glide (for a link that opens on it)
+  function jumpTo(w) {
+    const dist = 1.3 + Math.max(w.w, w.h) * 1.15;
+    const target = clampToRoom(w.group.position.clone().addScaledVector(w.normal, dist), rooms[w.room]);
+    pos.set(target.x, CONFIG.eyeHeight, target.z);
+    yaw = w.yaw;
+    pitch = Math.atan2(w.group.position.y - CONFIG.eyeHeight, dist);
+    focus = null;
+    current = w.index;
+    arrived = w.index;
+    currentRoom = w.room;
+    setCaption(w);
+    showRoomTitle();
+  }
+  function setHash(slug) {
+    try { history.replaceState(null, '', slug ? '#' + slug : location.pathname + location.search); } catch (err) { /* not allowed here */ }
+  }
+  // "#slug" stands you in front of that picture; "#slug/large" opens it flat as well
+  function applyHash(glide) {
+    const m = /^#([^/]+)(\/large)?$/.exec(location.hash);
+    if (!m) return false;
+    const w = findBySlug(m[1]);
+    if (!w) return false;
+    if (glide) focusOn(w.index); else jumpTo(w);
+    if (m[2]) openFlat(w); else closeFlat();
+    return true;
+  }
+  window.addEventListener('hashchange', () => applyHash(true));
+
+  function setCaption(w) {
+    if (!w) { ui.caption.classList.add('hidden'); return; }
+    ui.capTitle.textContent = w.dictate ? (w.data.title || '') : (w.data.title || 'untitled');
+    ui.capMeta.textContent = metaLine(w.data);
+    ui.capText.textContent = w.data.caption || '';
+    ui.count.textContent = w.dictate ? '' : (w.index + 1) + ' of ' + works.length;
+    ui.pager.classList.toggle('hidden', !!w.dictate || works.length < 2);
+    ui.enlarge.classList.toggle('hidden', !!w.dictate || !!(w.sculpture && !w.data.image));
+    ui.caption.classList.remove('hidden');
+  }
+
+  function qualifies(w, maxDist, minDot) {
+    scratch.copy(w.group.position).sub(pos);
+    scratch.y = 0;
+    const d = scratch.length();
+    if (d > maxDist) return false;
+    scratch.divideScalar(d);
+    const dot = -scratch.x * Math.sin(yaw) - scratch.z * Math.cos(yaw);
+    return dot >= minDot ? d * (1.6 - dot) : false;
+  }
+
+  function updateCaption() {
+    const at = roomAt(pos.x, pos.z);
+    if (at >= 0 && at !== currentRoom) { currentRoom = at; showRoomTitle(); }
+    if (focus) return;
+    if (inCorridor(pos.x, pos.z)) {                                          // in the corridor only the dictates speak
+      let bestD = null, bestS = Infinity;
+      dictates.forEach((w) => { const s = qualifies(w, 2.6, 0.45); if (s !== false && s < bestS) { bestS = s; bestD = w; } });
+      if (bestD !== shownDictate) { shownDictate = bestD; current = -1; setCaption(bestD); }
+      return;
+    }
+    if (shownDictate) { shownDictate = null; setCaption(null); }
+    if (current >= 0 && qualifies(works[current], 5, 0.55) !== false) return;
+    let best = -1, bestScore = Infinity;
+    works.forEach((w) => {
+      if (w.room !== currentRoom) return;
+      const s = qualifies(w, 4.2, 0.72);
+      if (s !== false && s < bestScore) { bestScore = s; best = w.index; }
+    });
+    if (best !== current) { current = best; setCaption(best >= 0 ? works[best] : null); }
+  }
+  let shownDictate = null;
+
+  // the picture flat on the screen, at full resolution, for reading
+  function openFlat(w) {
+    if (!w) return;
+    if (w.sculpture && !w.data.image) return;               // a sculpture shows large only if given a photograph
+    if (locked && document.exitPointerLock) document.exitPointerLock();
+    ui.flatImage.src = w.data.image || w.data.src;
+    ui.flatImage.alt = w.data.title || '';
+    ui.flatTitle.textContent = w.dictate ? (w.data.title || '') : (w.data.title || 'untitled');
+    ui.flatMeta.textContent = metaLine(w.data);
+    ui.flatCaption.textContent = w.data.caption || '';
+    ui.flatDescription.textContent = w.data.description || '';
+    ui.flatCount.textContent = w.index >= 0 && works.length > 1 ? (w.index + 1) + ' of ' + works.length : '';
+    ui.flatPrev.classList.toggle('hidden', works.length < 2 || w.index < 0);
+    ui.flatNext.classList.toggle('hidden', works.length < 2 || w.index < 0);
+    ui.flat.classList.remove('hidden');
+    document.body.classList.add('flat');
+    flatOpen = true;
+    if (w.slug) setHash(w.slug + '/large');
+    keys.clear();
+    ui.flat.focus();
+  }
+  function closeFlat() {
+    if (!flatOpen) return;
+    ui.flat.classList.add('hidden');
+    document.body.classList.remove('flat');
+    flatOpen = false;
+    if (current >= 0 && works[current] && works[current].slug) setHash(works[current].slug);
+    ui.flatImage.removeAttribute('src');
+  }
+  ui.flatClose.addEventListener('click', closeFlat);
+  ui.flatPrev.addEventListener('click', () => { focusOn(prevIndex()); openFlat(works[current]); });
+  ui.flatNext.addEventListener('click', () => { focusOn(nextIndex()); openFlat(works[current]); });
+  ui.flat.addEventListener('click', (e) => { if (e.target === ui.flat) closeFlat(); });
+  ui.enlarge.addEventListener('click', () => openFlat(works[current]));
+  ui.helpToggle.addEventListener('click', () => ui.help.classList.toggle('faded'));
+
+  /* ---------------------------------- input -------------------------------------- */
+  let helpTimer = null;
+  function noteFirstMove() {
+    if (helpTimer !== null) return;
+    helpTimer = setTimeout(() => ui.help.classList.add('faded'), 3500);
+  }
+
+  const nextIndex = () => (current < 0 ? 0 : (current + 1) % works.length);
+  const prevIndex = () => (current < 0 ? works.length - 1 : (current - 1 + works.length) % works.length);
+
+  window.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+    if (e.target.tagName === 'BUTTON' && (e.code === 'Enter' || e.code === 'Space')) return;
+    const isNext = e.code === 'BracketRight' || e.code === 'KeyN';
+    const isPrev = e.code === 'BracketLeft' || e.code === 'KeyP';
+    if (flatOpen) {
+      if (e.code === 'Escape' || e.code === 'Enter') { closeFlat(); e.preventDefault(); }
+      else if (isNext || isPrev) { focusOn(isNext ? nextIndex() : prevIndex()); openFlat(works[current]); e.preventDefault(); }
+      return;
+    }
+    if (['ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'Space'].includes(e.code)) e.preventDefault();
+    if (e.code === 'Space') { if (!inCorridor(pos.x, pos.z)) crouching = !crouching; return; }
+    if (e.code === 'Enter' && !ui.lock.classList.contains('hidden') && !ui.lockInput.disabled) { ui.lockInput.focus(); return; }
+    if (['KeyW', 'KeyA', 'KeyS', 'KeyD', 'ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(e.code)) {
+      keys.add(e.code);
+      focus = null;
+      arrived = -1;
+    } else if (isNext) {
+      focusOn(nextIndex());
+    } else if (isPrev) {
+      focusOn(prevIndex());
+    } else if (e.code === 'Enter' && current >= 0) {
+      openFlat(works[current]);
+    } else if (e.code === 'KeyG') {
+      setGhost(!ghost);
+    } else if (e.code === 'KeyM' && (music.list.length || secretMusic.list.length)) {
+      ui.musicToggle.click();
+    } else if (e.code === 'Escape') {
+      focus = null;
+    }
+  });
+  window.addEventListener('keyup', (e) => keys.delete(e.code));
+  window.addEventListener('blur', () => keys.clear());
+
+  ui.next.addEventListener('click', () => focusOn(nextIndex()));
+  ui.prev.addEventListener('click', () => focusOn(prevIndex()));
+
+  // drag to look, click to approach a picture
+  const raycaster = new THREE.Raycaster();
+  const ndc = new THREE.Vector2();
+  function pickWork(clientX, clientY) {
+    ndc.set((clientX / innerWidth) * 2 - 1, -(clientY / innerHeight) * 2 + 1);
+    raycaster.setFromCamera(ndc, camera);
+    const all = works.concat(dictates);
+    const hit = raycaster.intersectObjects(all.map((w) => w.img))[0];
+    return hit ? all.find((w) => w.img === hit.object) : null;
+  }
+  function pickSign(clientX, clientY) {
+    if (!secret || !secret.reveal || !secret.reveal.sign.visible) return false;
+    ndc.set((clientX / innerWidth) * 2 - 1, -(clientY / innerHeight) * 2 + 1);
+    raycaster.setFromCamera(ndc, camera);
+    return raycaster.intersectObject(secret.reveal.sign).length > 0;
+  }
+
+  // optional mouse capture for first-person looking; falls back to dragging where it isn't allowed
+  function tryLock() {
+    if (coarsePointer || locked || !canvas.requestPointerLock) return;
+    try {
+      const r = canvas.requestPointerLock();
+      if (r && r.catch) r.catch(() => {});
+    } catch (err) { /* not permitted here; dragging still works */ }
+  }
+  document.addEventListener('pointerlockchange', () => {
+    locked = document.pointerLockElement === canvas;
+    ui.crosshair.classList.toggle('hidden', !locked);
+    canvas.classList.toggle('locked', locked);
+    canvas.classList.remove('over');
+  });
+  document.addEventListener('mousemove', (e) => {
+    if (!locked || flatOpen) return;
+    yaw -= e.movementX * CONFIG.lookSpeed;
+    pitch = Math.max(-1.2, Math.min(1.2, pitch - e.movementY * CONFIG.lookSpeed));
+    if (Math.abs(e.movementX) + Math.abs(e.movementY) > 2) { focus = null; arrived = -1; }
+    noteFirstMove();
+  });
+
+  let look = null;
+  canvas.addEventListener('pointerdown', (e) => {
+    if (look) return;
+    look = { id: e.pointerId, x: e.clientX, y: e.clientY, moved: 0 };
+    canvas.setPointerCapture(e.pointerId);
+  });
+  canvas.addEventListener('pointermove', (e) => {
+    if (!look || e.pointerId !== look.id) {
+      if (!coarsePointer && !look && !locked) canvas.classList.toggle('over', !!pickWork(e.clientX, e.clientY) || pickSign(e.clientX, e.clientY));
+      return;
+    }
+    const dx = e.clientX - look.x, dy = e.clientY - look.y;
+    look.x = e.clientX; look.y = e.clientY;
+    look.moved += Math.abs(dx) + Math.abs(dy);
+    if (look.moved > 6) {
+      canvas.classList.add('dragging');
+      focus = null;
+      arrived = -1;
+      yaw += dx * CONFIG.lookSpeed;
+      pitch = Math.max(-1.2, Math.min(1.2, pitch + dy * CONFIG.lookSpeed));
+      noteFirstMove();
+    }
+  });
+  function endLook(e) {
+    if (!look || e.pointerId !== look.id) return;
+    if (look.moved <= 6) {
+      const cx = locked ? innerWidth / 2 : e.clientX, cy = locked ? innerHeight / 2 : e.clientY;
+      const dr = pickDoor(cx, cy);
+      if (dr) {
+        if (!dr.unlocked) askForCode(dr);
+        else if (!dr.sealed) {
+          dr.open = !dr.open;                                    // an unlocked door opens and closes on a click
+          if (dr === secret.door2 && !dr.open) dr.sealed = true; // the second door only ever closes once
+        }
+        look = null; canvas.classList.remove('dragging'); return;
+      }
+      if (pickSign(cx, cy)) {
+        window.open('https://heptar.ch', '_blank');
+        look = null; canvas.classList.remove('dragging'); return;
+      }
+      const w = pickWork(cx, cy);
+      if (w && w.dictate) openFlat(w);
+      else if (w && w.index === arrived) openFlat(w);
+      else if (w) focusOn(w.index);
+      else tryLock();
+    }
+    look = null;
+    canvas.classList.remove('dragging');
+  }
+  canvas.addEventListener('pointerup', endLook);
+  canvas.addEventListener('pointercancel', endLook);
+
+  // on-screen stick for touch devices
+  let stickPointer = null;
+  const STICK_R = 34;
+  ui.stick.addEventListener('pointerdown', (e) => {
+    stickPointer = e.pointerId;
+    ui.stick.setPointerCapture(e.pointerId);
+    focus = null;
+    arrived = -1;
+  });
+  ui.stick.addEventListener('pointermove', (e) => {
+    if (e.pointerId !== stickPointer) return;
+    const r = ui.stick.getBoundingClientRect();
+    let dx = e.clientX - (r.left + r.width / 2), dy = e.clientY - (r.top + r.height / 2);
+    const len = Math.hypot(dx, dy);
+    if (len > STICK_R) { dx *= STICK_R / len; dy *= STICK_R / len; }
+    ui.knob.style.transform = 'translate(' + dx + 'px,' + dy + 'px)';
+    stick.x = dx / STICK_R; stick.y = dy / STICK_R;
+  });
+  function endStick(e) {
+    if (e.pointerId !== stickPointer) return;
+    stickPointer = null;
+    stick.x = stick.y = 0;
+    ui.knob.style.transform = '';
+  }
+  ui.stick.addEventListener('pointerup', endStick);
+  ui.stick.addEventListener('pointercancel', endStick);
+
+  /* ----------------------------- previewing local images ------------------------- */
+  function readFile(file) {
+    return new Promise((resolve) => {
+      const r = new FileReader();
+      r.onload = () => resolve({ src: r.result, title: file.name.replace(/\.[^.]+$/, '') });
+      r.readAsDataURL(file);
+    });
+  }
+  /* ----------------------------------- music -------------------------------------- */
+  // A playlist from the manifest ("music": [...]) plays through and starts again. Browsers only
+  // allow sound after the visitor has done something, so it begins on their first click or key.
+  // A second playlist, "secret.music", takes over inside the corridor and hands back on the way out.
+  let soundOn = true;
+  const trackName = (m) => m.title || decodeURIComponent(m.src.split('/').pop().replace(/\.[^.]+$/, '').replace(/[-_]+/g, ' '));
+  function makePlayer() {
+    const p = { list: [], index: 0, audio: null, volume: 0.5, fade: null, live: false };
+    p.set = (list, volume) => {
+      p.list = (list || []).map((m) => (typeof m === 'string' ? { src: m } : m)).filter((m) => m && m.src);
+      p.index = 0;
+      p.volume = volume || 0.5;
+      if (p.audio) { p.audio.pause(); p.audio = null; }
+      p.live = false;
+    };
+    p.fadeTo = (target, seconds, then) => {
+      clearInterval(p.fade);
+      const a = p.audio;
+      if (!a) return;
+      const start = Math.max(a.volume, 0.0001), goal = Math.max(target, 0.0001), t0 = performance.now();
+      p.fade = setInterval(() => {
+        const k = Math.min(1, (performance.now() - t0) / (seconds * 1000));
+        const e = 0.5 - 0.5 * Math.cos(Math.PI * k);                 // eased, so the ends of the fade are gentle
+        // exponential, not linear — loudness is perceived logarithmically, so a linear volume ramp
+        // sounds like most of the drop happens in the first instant, then a long near-silent tail
+        a.volume = k >= 1 ? target : start * Math.pow(goal / start, e);
+        if (k >= 1) { clearInterval(p.fade); if (then) then(); }
+      }, 50);
+    };
+    p.play = (i) => {
+      const track = p.list[i];
+      if (!track) return;
+      p.index = i;
+      if (!p.audio) {
+        p.audio = new Audio();
+        p.audio.preload = 'auto';
+        p.audio.addEventListener('ended', () => { if (soundOn && p.live) p.play((p.index + 1) % p.list.length); });
+        p.audio.addEventListener('error', () => { ui.musicTrack.textContent = 'could not play ' + trackName(track); });
+      }
+      p.audio.loop = p.list.length === 1;
+      if (!p.audio.src.endsWith(track.src)) p.audio.src = track.src;
+      p.audio.volume = 0;
+      if (p.live) ui.musicTrack.textContent = CONFIG.showTrackName ? trackName(track) : '';
+      const pr = p.audio.play();
+      if (pr && pr.catch) pr.catch(() => { p.wanted = true; /* refused: the next gesture tries again */ });
+      p.fadeTo(p.volume, 2.5);
+    };
+    p.start = () => {                                             // begin, or resume where it left off
+      if (!soundOn || !p.list.length) return;
+      p.live = true;
+      if (!p.audio) { p.play(0); return; }
+      if (p.audio.paused) { const pr = p.audio.play(); if (pr && pr.catch) pr.catch(() => {}); }
+      p.fadeTo(p.volume, 1.5);   // unconditional, like stop() — cancels and reverses any fade-out still in flight
+    };
+    p.stop = (seconds, then) => {                                 // fade down and hold, ready to resume
+      p.live = false;
+      if (!p.audio) { if (then) then(); return; }
+      p.fadeTo(0, seconds, () => { if (!p.live && p.audio) p.audio.pause(); if (then) then(); });
+    };
+    // Safari only lets a sound element play if it first played inside a real gesture. The corridor's
+    // player starts from the walk, not a gesture, so on the first gesture it is woken silently and put
+    // back to sleep: after that it may be started from anywhere
+    p.prime = () => {
+      if (p.primed || !p.list.length || p.live) return;
+      p.primed = true;
+      if (!p.audio) {
+        p.audio = new Audio();
+        p.audio.preload = 'auto';
+        p.audio.addEventListener('ended', () => { if (soundOn && p.live) p.play((p.index + 1) % p.list.length); });
+        p.audio.addEventListener('error', () => { ui.musicTrack.textContent = 'could not play ' + trackName(p.list[p.index]); });
+        p.audio.src = p.list[0].src;
+      }
+      p.audio.volume = 0;
+      const pr = p.audio.play();
+      if (pr && pr.then) pr.then(() => { if (!p.live) p.audio.pause(); }).catch(() => { p.primed = false; });
+    };
+    return p;
+  }
+  const music = makePlayer(), secretMusic = makePlayer();
+  let musicZone = 'gallery';
+  const activePlayer = () => (musicZone === 'secret' ? secretMusic : music);
+
+  function setMusic(list, volume) {
+    music.set(list, volume);
+    ui.music.classList.toggle('hidden', !music.list.length && !secretMusic.list.length);
+    ui.musicTrack.textContent = '';
+    ui.musicToggle.textContent = soundOn ? '' : '';
+  }
+  function startMusic() { activePlayer().start(); }
+  // each frame: is the visitor in the corridor or the dark beyond it, and does that change the music
+  let zoneCandidate = 'gallery', zoneCandidateSince = 0;
+  function updateMusicZone() {
+    const zone = secret && (inCorridor(pos.x, pos.z) || inBlack(pos.x, pos.z)) ? 'secret' : 'gallery';
+    if (zone !== zoneCandidate) { zoneCandidate = zone; zoneCandidateSince = performance.now(); }
+    if (zone === musicZone) return;
+    if (performance.now() - zoneCandidateSince < 250) return;      // ignore a brief flicker right at the doorway
+    if (zone === 'secret' && !secretMusic.list.length) return;         // no corridor playlist: the gallery's carries on
+    const from = activePlayer();
+    musicZone = zone;
+    // sequenced, not a crossfade: silence first, then the new track, so the two never overlap and
+    // audibly collide; the zone is checked again on arrival in case it changed back in the meantime
+    from.stop(zone === 'secret' ? 4.0 : 2.0, () => {
+      setTimeout(() => { if (musicZone === zone) activePlayer().start(); }, zone === 'secret' ? 900 : 300);
+    });
+  }
+  ui.musicToggle.addEventListener('click', () => {
+    soundOn = !soundOn;
+    ui.musicToggle.textContent = soundOn ? '' : '';
+    if (soundOn) activePlayer().start();
+    else [music, secretMusic].forEach((p) => p.stop(0.8));
+  });
+  // sound may only begin inside a real gesture, so these hooks call it directly, and wake the other player too
+  let audioUnlocked = false;
+  ['pointerdown', 'keydown', 'touchstart'].forEach((ev) => window.addEventListener(ev, () => {
+    if (!audioUnlocked) { audioUnlocked = true; startMusic(); }
+    [music, secretMusic].forEach((p) => p.prime());
+  }, { passive: true }));
+
+  function previewFiles(fileList) {
+    const all = Array.from(fileList);
+    const audio = all.filter((f) => f.type.startsWith('audio/'));
+    if (audio.length) {
+      setMusic(audio.map((f) => ({ src: URL.createObjectURL(f), title: f.name.replace(/\.[^.]+$/, '') })), music.volume);
+      musicZone = 'gallery';
+      startMusic();
+    }
+    const files = all.filter((f) => f.type.startsWith('image/'));
+    if (!files.length) return;
+    Promise.all(files.map(readFile)).then((list) => {
+      build([{ works: list }], ui.title.textContent);
+      showNote('previewing ' + list.length + (list.length === 1 ? ' picture' : ' pictures') + ' from this device. nothing has been uploaded; to publish them, put them in a folder beside this page and list them in images.json.');
+    });
+  }
+  window.addEventListener('dragover', (e) => { e.preventDefault(); document.body.classList.add('dragover'); });
+  window.addEventListener('dragleave', (e) => { if (!e.relatedTarget) document.body.classList.remove('dragover'); });
+  window.addEventListener('drop', (e) => {
+    e.preventDefault();
+    document.body.classList.remove('dragover');
+    previewFiles(e.dataTransfer.files);
+  });
+  ui.picker.addEventListener('change', () => { previewFiles(ui.picker.files); ui.picker.value = ''; });
+  ui.picker.setAttribute('accept', 'image/*,audio/*');
+
+  function showNote(text, withPicker) {
+    ui.note.textContent = text;
+    if (withPicker) {
+      ui.note.append(' ');
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = 'choose pictures';
+      b.addEventListener('click', () => ui.picker.click());
+      ui.note.append(b, ' to preview them here.');
+    }
+    ui.note.classList.remove('hidden');
+  }
+
+  /* ---------------------------------- startup ------------------------------------ */
+  ui.help.textContent = coarsePointer
+    ? 'walk with the stick\nlook by dragging\ntap a picture to approach it, again to see it large'
+    : 'Move: WASD\nLook: drag/click\nCycle pictures: [, ]\nToggle music: m\nCrouch: _';
+
+  // find the manifest, trying each name in turn; keep the reason if none works
+  function loadManifest(names) {
+    const name = names[0];
+    if (location.protocol === 'file:') return Promise.reject(new Error('this page was opened straight from disk, so it cannot read ' + name + '. serve the folder instead: run  python -m http.server  in it and open http://localhost:8000/'));
+    return fetch(name, { cache: 'no-cache' })
+      .then((r) => {
+        if (r.status === 404) { if (names.length > 1) return loadManifest(names.slice(1)); throw new Error('no ' + name + ' beside this page'); }
+        if (!r.ok) throw new Error(name + ' came back with status ' + r.status);
+        return r.text().then((text) => {
+          try { return { m: JSON.parse(text), name }; }
+          catch (err) { throw new Error(name + ' is not valid JSON: ' + err.message.replace(/^JSON\.parse: ?/, '').replace(/ is not valid JSON$/, '')); }
+        });
+      });
+  }
+
+  fontsReady.then(() => loadManifest(CONFIG.manifest))
+    .then(({ m, name }) => {
+      // accept the field names an earlier version of this gallery used
+      const framing = (r) => ({ frame: r.frame || m.frame, mount: r.mount != null ? r.mount : m.mount, frameColor: r.frameColor || m.frameColor });
+      const norm = (arr, defaults) => (arr || []).map((d) => Object.assign({}, defaults || {}, d, { src: d.src || d.image || d.url || d.file }));
+      const roomSpecs = Array.isArray(m) ? [{ works: norm(m) }]
+        : Array.isArray(m.rooms) ? m.rooms.map((r) => ({ title: r.title, colors: r.colors, works: norm(r.works || r.artworks || r.images || r.pictures, framing(r)), sculptures: r.sculptures || [] }))
+        : [{ works: norm(m.works || m.artworks || m.images || m.pictures, framing(m)), sculptures: m.sculptures || [] }];
+      const all = roomSpecs.reduce((a, r) => a.concat(r.works), []);
+      if (!all.length) throw new Error(name + ' lists no works');
+      const bad = all.filter((d) => !d.src);
+      if (bad.length) throw new Error(name + ': ' + bad.length + (bad.length === 1 ? ' work has' : ' works have') + ' no "src"');
+      if (m.colors) Object.assign(COLORS, m.colors);
+      foyerSpec = (!Array.isArray(m) && m.foyer) ? {
+        works: norm(m.foyer.works || m.foyer.artworks || m.foyer.images || m.foyer.pictures, framing(m.foyer)).filter((d) => d.src),
+        sculptures: m.foyer.sculptures || [],
+      } : null;
+      if (!Array.isArray(m) && m.secret) {
+        const sc = typeof m.secret === 'string' ? { code: m.secret } : m.secret;
+        const cd = sc.corridor || {};
+        const rawD = cd.dictates || sc.dictates || m.dictates || [];
+        let dl = Array.isArray(rawD) ? rawD.map((d) => (typeof d === 'string' ? { src: d } : Object.assign({}, d, { src: d.src || d.image || d.url || d.file }))).filter((d) => d.src) : [];
+        if (!dl.length) dl = placeholders().concat(placeholders()).map((d, i) => Object.assign({}, d, { title: '', caption: 'placeholder dictate ' + (i + 1) }));
+        const ex = sc.exit && typeof sc.exit === 'object' ? sc.exit : { code: sc.exit != null ? sc.exit : cd.code };
+        secret = { code: String(sc.code || '').replace(/^#/, '').toLowerCase(), door: null, door2: null, dictates: dl,
+          exitCode: String(ex.code != null ? ex.code : '#000000').replace(/^#/, '').toLowerCase(),
+          corridor: { repeat: cd.repeat != null ? cd.repeat : (sc.repeat != null ? sc.repeat : 1), length: 0 } };
+      } else secret = null;
+      build(roomSpecs, Array.isArray(m) ? null : m.title, Array.isArray(m) ? null : m.subtitle, Array.isArray(m) ? null : m.intro, Array.isArray(m) ? null : m.note);
+      setMusic(m.music, m.musicVolume);
+      secretMusic.set(secret && (m.secret.music || (m.secret.corridor && m.secret.corridor.music)) || [], secret && (m.secret.musicVolume || (m.secret.corridor && m.secret.corridor.musicVolume)));
+      musicZone = 'gallery';
+      ui.music.classList.toggle('hidden', !music.list.length && !secretMusic.list.length);
+      setGhost(!!(m.ghost != null ? m.ghost : CONFIG.ghost), true);
+    })
+    .catch((err) => {
+      build([{ works: placeholders(), sculptures: [{ title: 'placeholder form', caption: 'a sculpture goes here' }] }], CONFIG.title);
+      showNote('showing placeholders: ' + err.message + '. fix that to hang your own pictures, or', true);
+    });
+
+  function resize() {
+    renderer.setSize(innerWidth, innerHeight, false);
+    camera.aspect = innerWidth / innerHeight;
+    camera.fov = camera.aspect < 1 ? 72 : 58;
+    camera.updateProjectionMatrix();
+  }
+  window.addEventListener('resize', resize);
+  resize();
+
+  // if frames keep falling behind, render fewer pixels; the geometry and lighting stay as they are
+  let slowFor = 0, fpsAcc = 0, fpsN = 0;
+  function watchFrameRate(dt) {
+    if (params.has('fps')) { fpsAcc += dt; fpsN++; if (fpsAcc > 1) { ui.note.classList.remove('hidden'); ui.note.textContent = Math.round(fpsN / fpsAcc) + ' fps at ×' + pixelRatio.toFixed(2); fpsAcc = 0; fpsN = 0; } }
+    if (dt > 1 / 40) slowFor += dt; else slowFor = Math.max(0, slowFor - dt * 0.5);
+    if (slowFor > 3 && pixelRatio > 1) {
+      pixelRatio = Math.max(1, pixelRatio - 0.25);
+      renderer.setPixelRatio(pixelRatio);
+      slowFor = 0;
+    }
+  }
+
+  let last = performance.now();
+  function frame(now) {
+    const raw = (now - last) / 1000;
+    last = now;
+    if (focus) stepFocus(raw); else if (!flatOpen) walk(Math.min(0.05, raw));
+    eyeH += ((crouching ? CONFIG.crouchHeight : CONFIG.eyeHeight) - eyeH) * Math.min(1, raw * 7);
+    pos.y = eyeH;
+    stepDoor(raw);
+    updateReveal(raw);
+    updateLock();
+    updateMusicZone();
+    camera.position.copy(pos);
+    camera.rotation.set(pitch, yaw, 0);
+    updateLighting(Math.min(0.1, raw), now / 1000);
+    haunt(raw);
+    updateCaption();
+    renderer.render(scene, camera);
+    watchFrameRate(raw);
+    requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>
