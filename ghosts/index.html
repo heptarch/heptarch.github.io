@@ -140,8 +140,15 @@
     transition: opacity 1.6s ease; pointer-events: none;
   }
   #curtain.gone { opacity: 0; }
+  #curtain-inner { display: flex; flex-direction: column; align-items: center; }
   #curtain-title { font-size: 15px; color: var(--muted); opacity: 0; transition: opacity 0.8s; }
   #curtain-title.show { opacity: 1; }
+  #curtain-bar {
+    margin-top: 16px; width: 140px; height: 1px; background: rgba(122, 115, 107, 0.25);
+    opacity: 0; transition: opacity 0.8s;
+  }
+  #curtain-bar.show { opacity: 1; }
+  #curtain-fill { height: 100%; width: 0%; background: var(--muted); transition: width 0.2s ease; }
   #fallback { display: none; position: fixed; inset: 0; place-items: center; padding: 24px; font-size: 15px; line-height: 1.5; text-align: center; }
   input[type="file"] { display: none; }
 </style>
@@ -199,7 +206,12 @@
     <div id="flat-count"></div>
   </div>
 </div>
-<div id="curtain" aria-hidden="true"><div id="curtain-title"></div></div>
+<div id="curtain" aria-hidden="true">
+  <div id="curtain-inner">
+    <div id="curtain-title"></div>
+    <div id="curtain-bar"><div id="curtain-fill"></div></div>
+  </div>
+</div>
 <div id="fallback">This gallery needs WebGL, which your browser has turned off or does not support.</div>
 <input id="picker" type="file" accept="image/*" multiple>
 
@@ -287,7 +299,7 @@
     flat: $('flat'), flatImage: $('flat-image'), flatTitle: $('flat-title'), flatMeta: $('flat-meta'),
     flatCaption: $('flat-caption'), flatDescription: $('flat-description'), flatClose: $('flat-close'),
     flatPrev: $('flat-prev'), flatNext: $('flat-next'), flatCount: $('flat-count'),
-    curtain: $('curtain'), curtainTitle: $('curtain-title'),
+    curtain: $('curtain'), curtainTitle: $('curtain-title'), curtainBar: $('curtain-bar'), curtainFill: $('curtain-fill'),
   };
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const coarsePointer = matchMedia('(pointer: coarse)').matches;
@@ -1000,6 +1012,7 @@
   let room = null;
   let works = [];
   let fadingWorks = [];  // every picture mid-fade-in, tracked independently of works/dictates so foyer pictures and the like (never added to either) still brighten up properly
+  let behindCurtain = true;  // true until the loading curtain actually lifts — pictures that arrive while it's up skip the fade-in (no one's there to see it), so everything's simply present by the time the curtain's gone
   let rooms = [];      // [{ cx, W, D, x0, x1, z0, z1, frontInset, title, works }]
   let doorways = [];   // openings in the walls between rooms: [{ x, z, w }]
   let originX = 0;     // where the room being built sits along x
@@ -1889,11 +1902,19 @@
     loadTexture(data.src, (tex) => {
       pendingTextures--;
       mat.map = tex;
-      mat.color.copy(fadeFromCol);
+      if (behindCurtain) {
+        mat.color.copy(fadeToCol);           // hidden behind the curtain — arrives fully formed, nothing to fade for
+      } else {
+        mat.color.copy(fadeFromCol);
+        w.fadeIn = 0;                        // gains its true colour over the next moment, rather than snapping in
+        fadingWorks.push(w);
+      }
       mat.needsUpdate = true;
-      w.fadeIn = 0;                          // gains its true colour over the next moment, rather than snapping in
-      fadingWorks.push(w);
-      if (w.mirror) { w.mirror.img.material.map = tex; w.mirror.img.material.color.copy(fadeFromCol); w.mirror.img.material.needsUpdate = true; }
+      if (w.mirror) {
+        w.mirror.img.material.map = tex;
+        w.mirror.img.material.color.copy(behindCurtain ? fadeToCol : fadeFromCol);
+        w.mirror.img.material.needsUpdate = true;
+      }
       setDims(w, tex.image.width / tex.image.height);
     }, undefined, () => {
       pendingTextures--;
@@ -2057,6 +2078,7 @@
     ui.curtain.style.background = COLORS.wall;
     ui.curtainTitle.textContent = ui.title.textContent;
     const started = performance.now();
+    const totalToLoad = pendingTextures;   // everything the manifest asked for is already in flight by now
     const drift = !reducedMotion && !focus;
     if (drift) {
       const to = pos.clone();
@@ -2064,13 +2086,19 @@
       pos.z += Math.cos(yaw) * 0.7;
       focus = { legs: [{ fromPos: pos.clone(), toPos: to, fromYaw: yaw, toYaw: yaw, fromPitch: pitch - 0.04, toPitch: pitch, t: 0, dur: 2.6 }], leg: 0 };
     }
+    // waits for every picture (and model) queued at build time, not just whatever's still pending after
+    // a fixed window, so nothing is left to pop or fade in once the curtain's actually gone; a generous
+    // cap is kept only as a safety net against a request that never resolves at all
     const tryLift = () => {
       const waited = performance.now() - started;
-      if (pendingTextures > 0 && waited < 4000) {
-        if (waited > 700) ui.curtainTitle.classList.add('show');
+      if (pendingTextures > 0 && waited < 20000) {
+        if (waited > 700) { ui.curtainTitle.classList.add('show'); ui.curtainBar.classList.add('show'); }
+        if (totalToLoad > 0) ui.curtainFill.style.width = Math.min(100, 100 * (totalToLoad - pendingTextures) / totalToLoad) + '%';
         setTimeout(tryLift, 100);
         return;
       }
+      ui.curtainFill.style.width = '100%';
+      behindCurtain = false;
       ui.curtain.classList.add('gone');
       setTimeout(() => ui.curtain.remove(), 1800);
     };
