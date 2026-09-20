@@ -2091,7 +2091,7 @@
     // cap is kept only as a safety net against a request that never resolves at all
     const tryLift = () => {
       const waited = performance.now() - started;
-      if (pendingTextures > 0 && waited < 20000) {
+      if (pendingTextures > 0 && waited < 120000) {
         if (waited > 700) { ui.curtainTitle.classList.add('show'); ui.curtainBar.classList.add('show'); }
         if (totalToLoad > 0) ui.curtainFill.style.width = Math.min(100, 100 * (totalToLoad - pendingTextures) / totalToLoad) + '%';
         setTimeout(tryLift, 100);
