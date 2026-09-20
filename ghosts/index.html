@@ -1186,17 +1186,17 @@
     hinge.position.set(xw, base, zc - lw / 2);
     if (swing < 0) hinge.scale.x = -1;                           // mirrored: opens away toward -x instead
     const doorFace = matte(COLORS.smallDoor || '#d4cfc6', null, { roughness: 0.95 });
-    const leaf = new THREE.Mesh(new THREE.BoxGeometry(0.04, lh, lw), doorFace);
+    const leaf = new THREE.Mesh(new THREE.BoxGeometry(0.16, lh, lw), doorFace);
     leaf.position.set(0, lh / 2, lw / 2);
     leaf.castShadow = leaf.receiveShadow = true;
     hinge.add(leaf);
     const brass = matte('#b08d57', null, { metalness: 0.8, roughness: 0.35 });
     const knob = new THREE.Mesh(new THREE.SphereGeometry(0.025, 16, 12), brass);
-    knob.position.set(-0.035, lh * 0.5, lw - 0.08);
+    knob.position.set(-0.095, lh * 0.5, lw - 0.08);
     hinge.add(knob);
     // the lock: six little dials in a brass rail, one per figure of the colour
     const rail = new THREE.Mesh(new THREE.BoxGeometry(0.012, 0.03, 0.2), brass);
-    rail.position.set(-0.022, lh * 0.5 - 0.09, lw - 0.15);
+    rail.position.set(-0.082, lh * 0.5 - 0.09, lw - 0.15);
     hinge.add(rail);
     const dials = [];
     const dialGeo = new THREE.CylinderGeometry(0.011, 0.011, 0.014, 20);
@@ -1204,7 +1204,7 @@
     const mark = new THREE.BoxGeometry(0.002, 0.002, 0.008);
     for (let i = 0; i < 6; i++) {
       const dial = new THREE.Mesh(dialGeo, brass);
-      dial.position.set(-0.034, lh * 0.5 - 0.09, lw - 0.15 - 0.075 + i * 0.03);
+      dial.position.set(-0.094, lh * 0.5 - 0.09, lw - 0.15 - 0.075 + i * 0.03);
       const m = new THREE.Mesh(mark, matte('#2a2320', null, { roughness: 0.6 }));
       m.position.set(-0.008, 0.007, 0);
       dial.add(m);
