@@ -320,14 +320,26 @@
   const realFontLoad = CONFIG.font && document.fonts
     ? Promise.all(['400 32px', '700 32px', 'italic 400 32px'].map((f) => document.fonts.load(f + ' "' + CONFIG.font + '"'))).catch(() => {})
     : Promise.resolve();
-  let fontActuallyReady = !CONFIG.font || !document.fonts;
-  realFontLoad.then(() => { fontActuallyReady = true; });
   const fontsReady = CONFIG.font && document.fonts
     ? Promise.race([
       realFontLoad,
       new Promise((r) => setTimeout(r, 6000)),
     ]).catch(() => {})
     : Promise.resolve();
+
+  // Re-bakes a canvas text texture once the real font is confirmed loaded — unconditionally, not just
+  // when the draw appeared to happen too early. document.fonts.load() resolving doesn't guarantee a
+  // canvas painted in that same tick already sees the new font (that can lag a frame or two behind),
+  // so an initial draw can look right by every check available yet still have used the fallback. Two
+  // rAFs give the browser a couple of frames to actually catch up before this redraw locks it in.
+  function refreshOnRealFont(tex, redraw) {
+    realFontLoad.then(() => requestAnimationFrame(() => requestAnimationFrame(() => {
+      const ctx = tex.image.getContext('2d');
+      ctx.clearRect(0, 0, tex.image.width, tex.image.height);
+      redraw(ctx);
+      tex.needsUpdate = true;
+    })));
+  }
 
   const col = (hex) => new THREE.Color(hex).convertSRGBToLinear();
   const v3 = (x, y, z) => new THREE.Vector3(x, y, z);
@@ -788,14 +800,7 @@
     };
     const tex = canvasTexture(W, H, drawCard);
     tex.encoding = THREE.sRGBEncoding;
-    if (!fontActuallyReady) {
-      realFontLoad.then(() => {
-        const ctx = tex.image.getContext('2d');
-        ctx.clearRect(0, 0, W, H);
-        drawCard(ctx);
-        tex.needsUpdate = true;
-      });
-    }
+    refreshOnRealFont(tex, drawCard);
     const width = 0.3;
     // lit like the wall it hangs on, so it sits in the same pool of light rather than glowing
     const mesh = new THREE.Mesh(new THREE.PlaneGeometry(width, width * H / W), matte('#ffffff', tex, { roughness: 0.9 }));
@@ -824,14 +829,7 @@
     };
     const tex = canvasTexture(W, H, drawPanel);
     tex.encoding = THREE.sRGBEncoding;
-    if (!fontActuallyReady) {
-      realFontLoad.then(() => {
-        const ctx = tex.image.getContext('2d');
-        ctx.clearRect(0, 0, W, H);
-        drawPanel(ctx);
-        tex.needsUpdate = true;
-      });
-    }
+    refreshOnRealFont(tex, drawPanel);
     const mesh = new THREE.Mesh(new THREE.PlaneGeometry(widthM, widthM * H / W),
       new THREE.MeshBasicMaterial({ map: tex, transparent: true, toneMapped: false }));
     mesh.userData.height = widthM * H / W;
@@ -1309,13 +1307,15 @@
     const crabOrange = new THREE.MeshStandardMaterial({ color: 0xd9764f, roughness: 0.8 });
     const crabPale = new THREE.MeshStandardMaterial({ color: 0xf4ece0, roughness: 0.5 });
     // the credit line, facing back toward the door so it's the first thing read on approach
-    const labelTex = canvasTexture(512, 128, (ctx) => {
+    const drawLabel = (ctx) => {
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.font = 'italic 700 56px ' + FONT;
       ctx.fillStyle = '#3a342e';
       ctx.fillText('By Claude', 256, 66);
-    });
+    };
+    const labelTex = canvasTexture(512, 128, drawLabel);
+    refreshOnRealFont(labelTex, drawLabel);
     const labelW = 0.55, labelH = labelW * 128 / 512;
     const plinthLabel = new THREE.Mesh(new THREE.PlaneGeometry(labelW, labelH),
       new THREE.MeshStandardMaterial({ map: labelTex, transparent: true, roughness: 0.6 }));
@@ -1343,13 +1343,15 @@
 
     // the sign on the far wall: self-lit, so it reads clearly the length of the room regardless
     // of how far the crab's own light actually reaches
-    const signTex = canvasTexture(1024, 224, (ctx) => {
+    const drawSign = (ctx) => {
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
       ctx.font = '700 128px ' + FONT;
       ctx.fillStyle = '#f4ece0';
       ctx.fillText('MJ & heptar.ch', 512, 118);
-    });
+    };
+    const signTex = canvasTexture(1024, 224, drawSign);
+    refreshOnRealFont(signTex, drawSign);
     const signW = 3.2, signH = signW * 224 / 1024;
     const signMat = new THREE.MeshBasicMaterial({ map: signTex, transparent: true, depthWrite: false, toneMapped: false, opacity: 0 });
     const sign = new THREE.Mesh(new THREE.PlaneGeometry(signW, signH), signMat);
