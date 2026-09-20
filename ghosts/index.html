@@ -1119,7 +1119,7 @@
         slab(segD, H, wallMat(segD, cornerOnRight ? { left: false } : { right: false }), d.x, H / 2, z, d.rot);
         box(segD - 0.1, 0.1, 0.03, skirtMat, d.x, 0.05, z + side * 0.05).rotation.y = d.rot;   // stops inside the door frame
       });
-      slab(dw, H - dh, lintelMat(dw), d.x, dh + (H - dh) / 2, 0, d.rot);
+      slab(dw, H - dh, lintelMat(dw), d.x, dh + (H - dh) / 2, 0, d.rot).castShadow = false;   // same reasoning as the frame trim: it would otherwise hang a dark bar in the doorway below
       if (d.x > 0) doorFrame(d.x, 0, Math.PI / 2); // the frame is shared, so only the room on its left builds it
     });
 
@@ -1135,7 +1135,7 @@
       });
       const lintel = lintelMat(dw);
       lintel.side = THREE.DoubleSide;
-      slab(dw, H - dh, lintel, 0, dh + (H - dh) / 2, D / 2, Math.PI);
+      slab(dw, H - dh, lintel, 0, dh + (H - dh) / 2, D / 2, Math.PI).castShadow = false;
       doorFrame(0, D / 2, 0);
     } else {
       slab(W, H, wallMat(W), 0, H / 2, D / 2, Math.PI);
@@ -1231,8 +1231,8 @@
     });
     const lintel = wallMat(sw, { left: false, right: false, bottom: false });
     lintel.map.repeat.set(1, (H - sh) / H); lintel.map.offset.set(0, sh / H);
-    slab(sw, H - sh, lintel, x, sh + (H - sh) / 2, 0, rot);
-    slab(sw, H - sh, outside, x + 0.012, sh + (H - sh) / 2, 0, -rot);
+    slab(sw, H - sh, lintel, x, sh + (H - sh) / 2, 0, rot).castShadow = false;
+    slab(sw, H - sh, outside, x + 0.012, sh + (H - sh) / 2, 0, -rot).castShadow = false;
     secret.door = hangSmallDoor(x + originX, 0, secret.code, 1);
 
     // the corridor: a gallery in miniature, with boards underfoot, plaster walls, and a skylight
