@@ -318,7 +318,7 @@
   // stays baked into the texture forever. realFontLoad (uncapped) lets wall-text panels redraw themselves
   // once the font genuinely lands, even if that's after the cap already let building proceed.
   const realFontLoad = CONFIG.font && document.fonts
-    ? Promise.all(['400 32px', '600 32px', 'italic 400 32px'].map((f) => document.fonts.load(f + ' "' + CONFIG.font + '"'))).catch(() => {})
+    ? Promise.all(['400 32px', '700 32px', 'italic 400 32px'].map((f) => document.fonts.load(f + ' "' + CONFIG.font + '"'))).catch(() => {})
     : Promise.resolve();
   let fontActuallyReady = !CONFIG.font || !document.fonts;
   realFontLoad.then(() => { fontActuallyReady = true; });
@@ -765,7 +765,7 @@
     const W = 512, pad = 40, font = FONT;
     const probe = document.createElement('canvas').getContext('2d');
     const blocks = [];
-    probe.font = '600 34px ' + font;
+    probe.font = '700 34px ' + font;
     blocks.push({ lines: wrapLines(probe, data.title || 'untitled', W - 2 * pad), font: probe.font, size: 34, color: '#2b2622', gap: 8 });
     const meta = metaLine(data);
     if (meta) { probe.font = 'Italic 24px ' + font; blocks.push({ lines: wrapLines(probe, meta, W - 2 * pad), font: probe.font, size: 24, color: '#7a736b', gap: 10 }); }
@@ -808,7 +808,7 @@
     const W = 1024, font = FONT;
     const probe = document.createElement('canvas').getContext('2d');
     const blocks = [];
-    if (title) { probe.font = '600 78px ' + font; blocks.push({ lines: wrapLines(probe, title, W), font: probe.font, size: 78, color: '#2b2622', gap: 8 }); }
+    if (title) { probe.font = '700 78px ' + font; blocks.push({ lines: wrapLines(probe, title, W), font: probe.font, size: 78, color: '#2b2622', gap: 8 }); }
     if (subtitle) { probe.font = 'italic 40px ' + font; blocks.push({ lines: wrapLines(probe, subtitle, W), font: probe.font, size: 40, color: '#7a736b', gap: -2 }); }
     if (body) { probe.font = '34px ' + font; blocks.push({ lines: wrapLines(probe, body, W), font: probe.font, size: 34, color: '#3a342e', gap: 30 }); }
     let H = 0;
@@ -1312,7 +1312,7 @@
     const labelTex = canvasTexture(512, 128, (ctx) => {
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.font = 'italic 600 56px ' + FONT;
+      ctx.font = 'italic 700 56px ' + FONT;
       ctx.fillStyle = '#3a342e';
       ctx.fillText('By Claude', 256, 66);
     });
@@ -1346,7 +1346,7 @@
     const signTex = canvasTexture(1024, 224, (ctx) => {
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.font = '600 128px ' + FONT;
+      ctx.font = '700 128px ' + FONT;
       ctx.fillStyle = '#f4ece0';
       ctx.fillText('MJ & heptar.ch', 512, 118);
     });
