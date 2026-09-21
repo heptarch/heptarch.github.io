@@ -1076,10 +1076,14 @@
     const sl = W - CONFIG.skylightMargin, sw = Math.min(1.5, D * 0.2);
     const ox = sl, oz = sw;   // always the long way along x (the corridor's own direction), so every room's skylight lines up regardless of that room's own width-to-depth ratio
     const ceilMat = matte(COLORS.ceiling, null, { emissive: col(COLORS.ceiling), emissiveIntensity: 0.2 });
-    slab((W - ox) / 2, D, ceilMat, -(W + ox) / 4, H, 0, 0, Math.PI / 2);
-    slab((W - ox) / 2, D, ceilMat, (W + ox) / 4, H, 0, 0, Math.PI / 2);
-    slab(ox, (D - oz) / 2, ceilMat, 0, H, -(D + oz) / 4, 0, Math.PI / 2);
-    slab(ox, (D - oz) / 2, ceilMat, 0, H, (D + oz) / 4, 0, Math.PI / 2);
+    if (opts.skylight === false) {
+      slab(W, D, ceilMat, 0, H, 0, 0, Math.PI / 2);                     // a small room, or one asked to do without: a plain ceiling
+    } else {
+      slab((W - ox) / 2, D, ceilMat, -(W + ox) / 4, H, 0, 0, Math.PI / 2);
+      slab((W - ox) / 2, D, ceilMat, (W + ox) / 4, H, 0, 0, Math.PI / 2);
+      slab(ox, (D - oz) / 2, ceilMat, 0, H, -(D + oz) / 4, 0, Math.PI / 2);
+      slab(ox, (D - oz) / 2, ceilMat, 0, H, (D + oz) / 4, 0, Math.PI / 2);
+    }
 
     // the back wall, plain
     slab(W, H, wallMat(W), 0, H / 2, -D / 2, 0);
@@ -1141,6 +1145,7 @@
     }
 
     // skylight: a light well up through the roof, glazed, with the sky drifting past above it
+    if (opts.skylight !== false) {
     const wellH = 0.5;
     const fixMat = matte(COLORS.fixture, null, { roughness: 0.5, emissive: col(COLORS.fixture), emissiveIntensity: 0.55 });
     box(ox + 0.1, 0.012, 0.05, fixMat, 0, H - 0.006, -(oz / 2 + 0.025));   // trim around the opening
@@ -1162,6 +1167,7 @@
       box(0.04, 0.04, sw, barMat, t, H + wellH - 0.03, 0);
     }
     box(sl, 0.04, 0.04, barMat, 0, H + wellH - 0.03, 0); // and one down the middle
+    }
 
     if (opts.foyer) {
       buildFoyer(W, D);
@@ -1229,8 +1235,8 @@
     });
     const lintel = wallMat(sw, { left: false, right: false, bottom: false });
     lintel.map.repeat.set(1, (H - sh) / H); lintel.map.offset.set(0, sh / H);
-    slab(sw, H - sh, lintel, x, sh + (H - sh) / 2, 0, rot).castShadow = false;
-    slab(sw, H - sh, outside, x + 0.012, sh + (H - sh) / 2, 0, -rot).castShadow = false;
+    slab(sw, H - sh, lintel, x, sh + (H - sh) / 2, 0, rot);                 // the wall above the door casts like the rest, or the sun comes through it
+    slab(sw, H - sh, outside, x + 0.012, sh + (H - sh) / 2, 0, -rot);
     secret.door = hangSmallDoor(x + originX, 0, secret.code, 1);
 
     // the corridor: a gallery in miniature, with boards underfoot, plaster walls, and a skylight
@@ -2011,7 +2017,8 @@
       if (!last) doorways.push({ x: rm.x1, z: 0, w: CONFIG.door.width });
 
       originX = cx;
-      buildShell(W, D, { doorLeft: ri > 0, doorRight: !last, foyer: first, smallDoor: !!(secret && last) });
+      buildShell(W, D, { doorLeft: ri > 0, doorRight: !last, foyer: first, smallDoor: !!(secret && last),
+        skylight: spec.skylight === false || Math.min(W, D) < 4.5 ? false : true });
       if (first && intro) {
         const panel = wallText(title || CONFIG.title, subtitle, intro, 1.3);
         panel.position.set(CONFIG.door.width / 2 + 0.3 + 0.65, 2.4 - panel.userData.height / 2, D / 2 - 0.006);
@@ -2998,7 +3005,7 @@
       const framing = (r) => ({ frame: r.frame || m.frame, mount: r.mount != null ? r.mount : m.mount, frameColor: r.frameColor || m.frameColor });
       const norm = (arr, defaults) => (arr || []).map((d) => Object.assign({}, defaults || {}, d, { src: d.src || d.image || d.url || d.file }));
       const roomSpecs = Array.isArray(m) ? [{ works: norm(m) }]
-        : Array.isArray(m.rooms) ? m.rooms.map((r) => ({ title: r.title, colors: r.colors, works: norm(r.works || r.artworks || r.images || r.pictures, framing(r)), sculptures: r.sculptures || [] }))
+        : Array.isArray(m.rooms) ? m.rooms.map((r) => ({ title: r.title, colors: r.colors, skylight: r.skylight, works: norm(r.works || r.artworks || r.images || r.pictures, framing(r)), sculptures: r.sculptures || [] }))
         : [{ works: norm(m.works || m.artworks || m.images || m.pictures, framing(m)), sculptures: m.sculptures || [] }];
       const all = roomSpecs.reduce((a, r) => a.concat(r.works), []);
       if (!all.length) throw new Error(name + ' lists no works');
