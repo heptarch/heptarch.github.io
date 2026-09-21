@@ -1181,29 +1181,19 @@
   const SMALL = { w: 0.72, h: 1.15 };
   // one small door: an opening in a wall at world x, facing the visitor who comes from -x, its leaf
   // hung on the far jamb so it swings away to +x. Returns the door for the lock to work with
-  function hangSmallDoor(xw, zc, code, swing, base, blackBack) {
+  function hangSmallDoor(xw, zc, code, swing, base) {
     base = base || 0;
     const sw = SMALL.w + 0.08, sh = SMALL.h + 0.04;
     const trim = matte(COLORS.trim, null, { roughness: 0.6 });
-    const DOOR_T = 0.1;                                          // leaf and frame thickness — thinner than a full-size door's, to match how small it is
-    // BoxGeometry's default face order is +x, -x, +y, -y, +z, -z; local -x is the front (see faceX
-    // below), so +x is whichever side is away from the visitor — the black room, for the second door.
-    // Painting that face (and the thin edges, seen at a raking angle up close) pure black, on both the
-    // frame and the leaf, means there's nothing for even a viewer standing right against it to see, no
-    // matter the angle — unlike the separate mask plane, which only ever covers views from further back
-    const faceMat = (normal) => {
-      if (!blackBack) return normal;
-      const b = () => new THREE.MeshBasicMaterial({ color: 0x000000 });
-      return [b(), normal, b(), b(), b(), b()];
-    };
-    [-1, 1].forEach((side) => { const j = box(DOOR_T, sh, 0.05, faceMat(trim), 0, sh / 2, 0); j.position.set(xw, base + sh / 2, zc + side * (sw / 2 + 0.025)); });
-    const head = box(DOOR_T, 0.05, sw + 0.1, faceMat(trim), 0, sh + 0.025, 0); head.position.set(xw, base + sh + 0.025, zc);
+    const DOOR_T = 0.07;                                         // leaf and frame thickness — thinner than a full-size door's, to match how small it is
+    [-1, 1].forEach((side) => { const j = box(DOOR_T, sh, 0.05, trim, 0, sh / 2, 0); j.position.set(xw, base + sh / 2, zc + side * (sw / 2 + 0.025)); });
+    const head = box(DOOR_T, 0.05, sw + 0.1, trim, 0, sh + 0.025, 0); head.position.set(xw, base + sh + 0.025, zc);
     const hinge = new THREE.Group();
     const lw = sw + 0.01, lh = sh + 0.01;                      // overlaps the frame by a centimetre, like a real door's rebate — a leaf that fell short of the opening left a genuine gap for the corridor's own daylight to leak through when shut
     hinge.position.set(xw, base, zc - lw / 2);
     if (swing < 0) hinge.scale.x = -1;                           // mirrored: opens away toward -x instead
     const doorFace = matte(COLORS.smallDoor || '#d4cfc6', null, { roughness: 0.95 });
-    const leaf = new THREE.Mesh(new THREE.BoxGeometry(DOOR_T, lh, lw), faceMat(doorFace));
+    const leaf = new THREE.Mesh(new THREE.BoxGeometry(DOOR_T, lh, lw), doorFace);
     leaf.position.set(0, lh / 2, lw / 2);
     leaf.castShadow = leaf.receiveShadow = true;
     hinge.add(leaf);
@@ -1290,7 +1280,7 @@
     const endMat = matte(COLORS.wall, wallShade(cw, ch, {}));
     [-1, 1].forEach((side) => slab((cw - sw) / 2, ch, endMat, xe, ch / 2, side * (sw / 2 + (cw - sw) / 4), -Math.PI / 2));
     slab(sw, ch - sh, endMat, xe, sh + (ch - sh) / 2, 0, -Math.PI / 2);
-    secret.door2 = hangSmallDoor(xe + originX, 0, secret.exitCode, 1, 0, true);
+    secret.door2 = hangSmallDoor(xe + originX, 0, secret.exitCode, 1);
     // behind the second door: a large room that is entirely black, floor, walls and ceiling, unlit and
     // unlightable, so that once inside there is nothing to see but the doorway you came in by
     const BW = 6, BH = 1.53, bx = xe + 0.05 + BW / 2;
