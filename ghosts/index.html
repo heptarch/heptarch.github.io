@@ -2405,7 +2405,15 @@
   function stepDoor(dt) {
     doors().forEach((d) => {
       const target = d.open ? 1.52 : 0;   // just short of square, so the leaf lies along the corridor wall instead of through it
+      const before = d.hinge.rotation.y;
       d.hinge.rotation.y += (target - d.hinge.rotation.y) * Math.min(1, dt * 2.2);
+      // the shadow maps are only redrawn on demand, so a moving leaf has to ask: a few times on the way,
+      // and once more when it settles, or the sun keeps shining through the doorway as it last saw it
+      if (Math.abs(before - d.hinge.rotation.y) > 1e-4) {
+        d.shadowDue = (d.shadowDue || 0) - dt;
+        if (d.shadowDue <= 0) { renderer.shadowMap.needsUpdate = true; d.shadowDue = 0.3; }
+        d.settling = true;
+      } else if (d.settling) { d.settling = false; renderer.shadowMap.needsUpdate = true; }
       d.dials.forEach((dl, i) => { dl.rotation.x += dt * (0.12 + i * 0.03); });  // a slow, constant creep — the mechanism never quite settles
       if (d.spin > 0) {                                                  // a tried code sets the dials spinning down, on top of that creep
         const k = d.spin;
