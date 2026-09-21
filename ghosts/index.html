@@ -1198,12 +1198,13 @@
     leaf.castShadow = leaf.receiveShadow = true;
     hinge.add(leaf);
     const brass = matte('#b08d57', null, { metalness: 0.8, roughness: 0.35 });
+    const faceX = -DOOR_T / 2;                                    // the leaf's front face — hardware sits just proud of it, whatever the leaf's thickness
     const knob = new THREE.Mesh(new THREE.SphereGeometry(0.025, 16, 12), brass);
-    knob.position.set(-0.095, lh * 0.5, lw - 0.08);
+    knob.position.set(faceX - 0.015, lh * 0.5, lw - 0.08);
     hinge.add(knob);
     // the lock: six little dials in a brass rail, one per figure of the colour
     const rail = new THREE.Mesh(new THREE.BoxGeometry(0.012, 0.03, 0.2), brass);
-    rail.position.set(-0.082, lh * 0.5 - 0.09, lw - 0.15);
+    rail.position.set(faceX - 0.002, lh * 0.5 - 0.09, lw - 0.15);
     hinge.add(rail);
     const dials = [];
     const dialGeo = new THREE.CylinderGeometry(0.011, 0.011, 0.014, 20);
@@ -1211,7 +1212,7 @@
     const mark = new THREE.BoxGeometry(0.002, 0.002, 0.008);
     for (let i = 0; i < 6; i++) {
       const dial = new THREE.Mesh(dialGeo, brass);
-      dial.position.set(-0.094, lh * 0.5 - 0.09, lw - 0.15 - 0.075 + i * 0.03);
+      dial.position.set(faceX - 0.014, lh * 0.5 - 0.09, lw - 0.15 - 0.075 + i * 0.03);
       const m = new THREE.Mesh(mark, matte('#2a2320', null, { roughness: 0.6 }));
       m.position.set(-0.008, 0.007, 0);
       dial.add(m);
@@ -1319,7 +1320,7 @@
       ctx.textBaseline = 'middle';
       ctx.font = 'italic 700 56px ' + FONT;
       ctx.fillStyle = '#3a342e';
-      ctx.fillText('By Claude', 256, 66);
+      ctx.fillText('By Claude,\nMidjourney', 256, 66);
     };
     const labelTex = canvasTexture(512, 128, drawLabel);
     refreshOnRealFont(labelTex, drawLabel);
