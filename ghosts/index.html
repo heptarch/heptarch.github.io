@@ -1182,7 +1182,7 @@
     [-1, 1].forEach((side) => { const j = box(0.16, sh, 0.05, trim, 0, sh / 2, 0); j.position.set(xw, base + sh / 2, zc + side * (sw / 2 + 0.025)); });
     const head = box(0.16, 0.05, sw + 0.1, trim, 0, sh + 0.025, 0); head.position.set(xw, base + sh + 0.025, zc);
     const hinge = new THREE.Group();
-    const lw = sw - 0.008, lh = sh - 0.004;                    // the leaf fills the opening, bar a few millimetres
+    const lw = sw + 0.01, lh = sh + 0.01;                      // overlaps the frame by a centimetre, like a real door's rebate — a leaf that fell short of the opening left a genuine gap for the corridor's own daylight to leak through when shut
     hinge.position.set(xw, base, zc - lw / 2);
     if (swing < 0) hinge.scale.x = -1;                           // mirrored: opens away toward -x instead
     const doorFace = matte(COLORS.smallDoor || '#d4cfc6', null, { roughness: 0.95 });
