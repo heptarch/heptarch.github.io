@@ -1299,9 +1299,10 @@
     // a mask, not a material trick: a plain black plate just inside the room, one-sided so it renders
     // only for someone looking back at the doorway from further in, and invisible from the corridor —
     // it hides the whole door and its frame at once, from any angle, rather than chasing individual
-    // faces the way painting the door itself required
-    const doorMask = new THREE.Mesh(new THREE.PlaneGeometry(1.4, 1.45), new THREE.MeshBasicMaterial({ color: 0x000000 }));
-    doorMask.position.set(xe + 0.15 + originX, 0.725, 0);
+    // faces the way painting the door itself required. Sized with real margin around the frame's
+    // silhouette (previously flush with the floor on one edge, which a grazing angle could see past)
+    const doorMask = new THREE.Mesh(new THREE.PlaneGeometry(1.6, 1.7), new THREE.MeshBasicMaterial({ color: 0x000000 }));
+    doorMask.position.set(xe + 0.25 + originX, 0.8, 0);
     doorMask.rotation.y = Math.PI / 2;
     room.add(doorMask);
 
