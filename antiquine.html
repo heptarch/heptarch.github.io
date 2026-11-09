@@ -1,0 +1,1889 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Antiquine</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: one handheld, centred; the game screen is the only lit thing on the page. */
+:root{
+  --room:#1e1e1d;        /* the dark around the device */
+  --bezel:#474745;
+  --bezel-hi:#5c5c59;
+  --bezel-lo:#2a2a29;
+  --etch:#8e8e89;        /* moulded lettering on the case */
+  --glass:#0c0c0c;
+  --paper:#ececea;       /* readout card, phone widths */
+  --paper-ink:#111111;
+  --ui: Geneva, Verdana, "DejaVu Sans", sans-serif;
+  color-scheme: dark;
+}
+html,body{height:100%}
+body{
+  margin:0; background:var(--room); color:var(--etch); font-family:var(--ui);
+  box-sizing:border-box; min-height:100%;
+  display:flex; flex-direction:column; align-items:center; justify-content:center; gap:14px;
+  padding-block:24px;
+  padding-left:max(16px, env(safe-area-inset-left, 0px));
+  padding-right:max(16px, env(safe-area-inset-right, 0px));
+}
+.device{
+  max-width:100%; box-sizing:border-box;
+  padding:16px 24px 22px; border-radius:28px;
+  background:linear-gradient(180deg, var(--bezel-hi), var(--bezel) 18%, var(--bezel) 82%, var(--bezel-lo));
+  box-shadow: inset 0 1px 0 var(--bezel-hi), inset 0 -2px 0 var(--bezel-lo), 0 24px 60px #000000;
+}
+.case-top{
+  display:flex; justify-content:space-between; align-items:center;
+  padding:0 2px 12px; font-size:10px; letter-spacing:.24em; text-transform:uppercase; color:var(--etch);
+}
+.led{ width:6px; height:6px; border-radius:50%; background:var(--bezel-lo); box-shadow:inset 0 1px 1px #000000, 0 1px 0 var(--bezel-hi); }
+#screen{
+  display:block; max-width:100%;
+  image-rendering:crisp-edges; image-rendering:pixelated;
+  border:3px solid var(--glass); border-radius:3px; background:#ffffff;
+  touch-action:manipulation; outline:none;
+}
+#screen:focus-visible{ outline:2px solid var(--etch); outline-offset:4px; }
+.hint{ font-size:11px; letter-spacing:.06em; color:var(--etch); text-align:center; max-width:60ch; }
+.hint kbd{ font-family:var(--ui); border:1px solid var(--bezel-hi); border-radius:3px; padding:0 4px; }
+#readout{ position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+@media (max-width:620px){
+  .device{ padding:10px 10px 14px; border-radius:18px; }
+  .case-top{ padding-bottom:8px; }
+  #readout{
+    position:static; width:auto; height:auto; overflow:visible; clip-path:none; white-space:normal;
+    box-sizing:border-box; width:100%; max-width:420px; min-height:5.6em;
+    background:var(--paper); color:var(--paper-ink); border:2px solid #000000; border-radius:4px;
+    box-shadow:3px 3px 0 #000000; padding:10px 12px; font-size:15px; line-height:1.45;
+  }
+  #readout b{ display:block; margin-bottom:2px; }
+  .hint .keys{ display:none; }
+}
+</style>
+<div class="device">
+  <div class="case-top"><span>Antiquine</span><span class="led" aria-hidden="true"></span></div>
+  <canvas id="screen" width="384" height="256" tabindex="0" aria-label="Antiquine game screen. Arrow keys move between objects, Enter looks." aria-describedby="readout"></canvas>
+</div>
+<p id="readout" aria-live="polite"><b></b> <span></span></p>
+<p class="hint">Tap anything to look at it.<span class="keys"> Or use <kbd>←</kbd> <kbd>→</kbd> and <kbd>Enter</kbd>; <kbd>n</kbd> for the next room, <kbd>p</kbd> for the pocket.</span></p>
+<script>
+// font.js — a small proportional bitmap face in the Geneva/Chicago lineage.
+// Each glyph: "top row0 row1 ...". Cell is 11 rows: accents 0-1, caps 2-8, descenders 9-10.
+const FONT = {
+  'A':'2 01110 10001 10001 11111 10001 10001 10001',
+  'B':'2 11110 10001 10001 11110 10001 10001 11110',
+  'C':'2 01110 10001 10000 10000 10000 10001 01110',
+  'D':'2 11110 10001 10001 10001 10001 10001 11110',
+  'E':'2 1111 1000 1000 1110 1000 1000 1111',
+  'F':'2 1111 1000 1000 1110 1000 1000 1000',
+  'G':'2 01110 10001 10000 10111 10001 10001 01111',
+  'H':'2 10001 10001 10001 11111 10001 10001 10001',
+  'I':'2 1 1 1 1 1 1 1',
+  'J':'2 0001 0001 0001 0001 0001 1001 0110',
+  'K':'2 10001 10010 10100 11000 10100 10010 10001',
+  'L':'2 1000 1000 1000 1000 1000 1000 1111',
+  'M':'2 1000001 1100011 1010101 1001001 1000001 1000001 1000001',
+  'N':'2 10001 11001 10101 10011 10001 10001 10001',
+  'O':'2 01110 10001 10001 10001 10001 10001 01110',
+  'P':'2 11110 10001 10001 11110 10000 10000 10000',
+  'Q':'2 01110 10001 10001 10001 10101 10010 01101',
+  'R':'2 11110 10001 10001 11110 10100 10010 10001',
+  'S':'2 01110 10001 10000 01110 00001 10001 01110',
+  'T':'2 11111 00100 00100 00100 00100 00100 00100',
+  'U':'2 10001 10001 10001 10001 10001 10001 01110',
+  'V':'2 10001 10001 10001 10001 01010 01010 00100',
+  'W':'2 1000001 1000001 1000001 1001001 1010101 1100011 1000001',
+  'X':'2 10001 10001 01010 00100 01010 10001 10001',
+  'Y':'2 10001 10001 01010 00100 00100 00100 00100',
+  'Z':'2 11111 00001 00010 00100 01000 10000 11111',
+  'a':'4 0110 0001 0111 1001 0111',
+  'b':'2 1000 1000 1110 1001 1001 1001 1110',
+  'c':'4 0111 1000 1000 1000 0111',
+  'd':'2 0001 0001 0111 1001 1001 1001 0111',
+  'e':'4 0110 1001 1111 1000 0111',
+  'f':'2 011 100 111 100 100 100 100',
+  'g':'4 0111 1001 1001 1001 0111 0001 0110',
+  'h':'2 1000 1000 1110 1001 1001 1001 1001',
+  'i':'2 1 0 1 1 1 1 1',
+  'j':'2 01 00 01 01 01 01 01 01 10',
+  'k':'2 1000 1000 1001 1010 1100 1010 1001',
+  'l':'2 1 1 1 1 1 1 1',
+  'm':'4 1110110 1001001 1001001 1001001 1001001',
+  'n':'4 1110 1001 1001 1001 1001',
+  'o':'4 0110 1001 1001 1001 0110',
+  'p':'4 1110 1001 1001 1001 1110 1000 1000',
+  'q':'4 0111 1001 1001 1001 0111 0001 0001',
+  'r':'4 101 110 100 100 100',
+  's':'4 0111 1000 0110 0001 1110',
+  't':'3 100 111 100 100 100 011',
+  'u':'4 1001 1001 1001 1001 0111',
+  'v':'4 10001 10001 01010 01010 00100',
+  'w':'4 1000001 1000001 1001001 1010101 0100010',
+  'x':'4 10001 01010 00100 01010 10001',
+  'y':'4 1001 1001 1001 1001 0111 0001 0110',
+  'z':'4 1111 0001 0110 1000 1111',
+  '0':'2 0110 1001 1011 1101 1001 1001 0110',
+  '1':'2 010 110 010 010 010 010 111',
+  '2':'2 0110 1001 0001 0010 0100 1000 1111',
+  '3':'2 1110 0001 0001 0110 0001 0001 1110',
+  '4':'2 0010 0110 1010 1010 1111 0010 0010',
+  '5':'2 1111 1000 1110 0001 0001 1001 0110',
+  '6':'2 0110 1000 1000 1110 1001 1001 0110',
+  '7':'2 1111 0001 0010 0010 0100 0100 0100',
+  '8':'2 0110 1001 1001 0110 1001 1001 0110',
+  '9':'2 0110 1001 1001 0111 0001 0001 0110',
+  '.':'8 1',
+  ',':'8 01 01 10',
+  ':':'5 1 0 0 1',
+  ';':'5 01 00 00 01 01 10',
+  '!':'2 1 1 1 1 1 0 1',
+  '?':'2 0110 1001 0001 0010 0100 0000 0100',
+  "'":'2 1 1',
+  '"':'2 101 101',
+  '-':'6 111',
+  '(':'2 01 10 10 10 10 10 10 10 01',
+  ')':'2 10 01 01 01 01 01 01 01 10',
+  '/':'2 001 001 010 010 010 100 100',
+  '&':'2 01100 10010 10100 01000 10101 10010 01101',
+  '+':'4 00100 00100 11111 00100 00100',
+  '=':'5 1111 0000 1111',
+  '*':'3 101 010 101',
+  'ä':'2 1001 0000 0110 0001 0111 1001 0111',
+  'ö':'2 1001 0000 0110 1001 1001 1001 0110',
+  'ü':'2 1001 0000 1001 1001 1001 1001 0111',
+  'é':'2 0010 0100 0110 1001 1111 1000 0111',
+  'Ö':'0 01010 00000 01110 10001 10001 10001 10001 10001 01110',
+  'Ü':'0 01010 00000 10001 10001 10001 10001 10001 10001 01110',
+  'ß':'2 0110 1001 1010 1010 1001 1001 1010',
+  '>':'4 1000 0110 0001 0110 1000',
+  '⊥':'2 00100 00100 00100 00100 00100 00100 11111',
+  '⊤':'2 11111 00100 00100 00100 00100 00100 00100',
+  '→':'4 000100 000010 111111 000010 000100',
+  '□':'4 11111 10001 10001 10001 11111',
+  '¬':'5 1111 0001 0001'
+};
+// gfx.js — pixel primitives on a 384x256 logical screen, five greys plus black.
+const W = 384, H = 256;
+const C = { K:'#000000', D:'#565656', G:'#8d8d8d', L:'#c3c3c3', P:'#e3e3e3', W:'#ffffff' };
+let g, curFill = null;
+function use(c){ g = c; curFill = null; }
+function setc(c){ if (c !== curFill){ g.fillStyle = c; curFill = c; } }
+function px(x,y,c){ setc(c); g.fillRect(x,y,1,1); }
+function rect(x,y,w,h,c){ if (w>0 && h>0 && c){ setc(c); g.fillRect(x,y,w,h); } }
+function frame(x,y,w,h,c=C.K){ rect(x,y,w,1,c); rect(x,y+h-1,w,1,c); rect(x,y,1,h,c); rect(x+w-1,y,1,h,c); }
+function fillFn(x,y,w,h,fn){ for(let j=y;j<y+h;j++) for(let i=x;i<x+w;i++){ const c=fn(i,j); if(c) px(i,j,c); } }
+function box(x,y,w,h,f,l=C.K){ if (typeof f==='function') fillFn(x,y,w,h,f); else rect(x,y,w,h,f); if (l) frame(x,y,w,h,l); }
+
+// ordered dither: b replaces a at `lvl` of 16
+const BAYER = [0,8,2,10,12,4,14,6,3,11,1,9,15,7,13,5];
+const bay = (x,y) => BAYER[(y&3)*4+(x&3)];
+const dith = (a,b,lvl) => (x,y) => bay(x,y) < lvl ? b : a;
+const chk  = (a,b) => (x,y) => ((x+y)&1) ? b : a;
+
+// any shape from a pixel-centre test: fill inside, 1px outline on the rim
+function shape(bx,by,bw,bh,test,f,l=C.K){
+  bx=Math.floor(bx); by=Math.floor(by); bw=Math.ceil(bw); bh=Math.ceil(bh);
+  const m = new Uint8Array(bw*bh);
+  for(let j=0;j<bh;j++) for(let i=0;i<bw;i++) if(test(bx+i+.5,by+j+.5)) m[j*bw+i]=1;
+  const at=(i,j)=> i>=0 && j>=0 && i<bw && j<bh && m[j*bw+i]===1;
+  for(let j=0;j<bh;j++) for(let i=0;i<bw;i++){
+    if(!m[j*bw+i]) continue;
+    const x=bx+i, y=by+j;
+    const edge = !at(i-1,j) || !at(i+1,j) || !at(i,j-1) || !at(i,j+1);
+    const c = (edge && l) ? l : (typeof f==='function' ? f(x,y) : f);
+    if (c) px(x,y,c);
+  }
+}
+function oval(x,y,w,h,f,l=C.K){
+  const cx=x+w/2, cy=y+h/2, rx=w/2, ry=h/2;
+  shape(x,y,w,h,(X,Y)=>((X-cx)/rx)**2+((Y-cy)/ry)**2<=1,f,l);
+}
+function inPoly(p,x,y){
+  let c=false;
+  for(let i=0,j=p.length-1;i<p.length;j=i++){
+    const [xi,yi]=p[i],[xj,yj]=p[j];
+    if(((yi>y)!==(yj>y)) && (x<(xj-xi)*(y-yi)/(yj-yi)+xi)) c=!c;
+  }
+  return c;
+}
+function poly(p,f,l=C.K){
+  let x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;
+  for(const [a,b] of p){ x0=Math.min(x0,a); y0=Math.min(y0,b); x1=Math.max(x1,a); y1=Math.max(y1,b); }
+  shape(x0,y0,x1-x0+1,y1-y0+1,(X,Y)=>inPoly(p,X,Y),f,l);
+}
+function rrect(x,y,w,h,r,f,l=C.K){
+  shape(x,y,w,h,(X,Y)=>{
+    const dx=Math.max(x+r-X, X-(x+w-r), 0), dy=Math.max(y+r-Y, Y-(y+h-r), 0);
+    return dx*dx+dy*dy <= r*r;
+  },f,l);
+}
+function line(x0,y0,x1,y1,c=C.K){
+  x0|=0; y0|=0; x1|=0; y1|=0;
+  const dx=Math.abs(x1-x0), dy=-Math.abs(y1-y0), sx=x0<x1?1:-1, sy=y0<y1?1:-1;
+  let e=dx+dy;
+  for(;;){
+    px(x0,y0,c);
+    if(x0===x1 && y0===y1) break;
+    const e2=2*e;
+    if(e2>=dy){ e+=dy; x0+=sx; }
+    if(e2<=dx){ e+=dx; y0+=sy; }
+  }
+}
+// darken everything in a region by `base` steps of grey, one more where the dither says so
+const GREYS=[0,86,141,195,227,255];
+function darken(base,lvl,y0=16,y1=224,x0=0,x1=W){
+  const im=g.getImageData(x0,y0,x1-x0,y1-y0), d=im.data, w=x1-x0;
+  for(let i=0;i<d.length;i+=4){
+    const p=i>>2, x=x0+p%w, y=y0+((p/w)|0);
+    let k=GREYS.indexOf(d[i]); if(k<0) continue;
+    k=Math.max(0,k-base-(bay(x,y)<lvl?1:0));
+    d[i]=d[i+1]=d[i+2]=GREYS[k];
+  }
+  g.putImageData(im,x0,y0);
+}
+function path(pts,c=C.K){ for(let i=1;i<pts.length;i++) line(pts[i-1][0],pts[i-1][1],pts[i][0],pts[i][1],c); }
+
+// sprites: k=black d=dark g=grey l=light p=pale w=white, '.'=clear
+const SPR_C = { k:C.K, d:C.D, g:C.G, l:C.L, p:C.P, w:C.W };
+function spr(rows,x,y){ rows.forEach((r,j)=>{ for(let i=0;i<r.length;i++){ const c=SPR_C[r[i]]; if(c) px(x+i,y+j,c); } }); }
+
+// bitmap text
+const GL = {};
+for (const [ch,s] of Object.entries(FONT)){ const t=s.split(' '); GL[ch]={ top:+t[0], rows:t.slice(1), w:t[1].length }; }
+const ALIAS = { '’':"'", '‘':"'", '“':'"', '”':'"', '—':'-', '–':'-' };
+const glyph = ch => GL[ALIAS[ch] || ch];
+function measure(s,bold=false){
+  let w=0;
+  for(const ch of s){ if(ch===' '){ w+=3; continue; } const gl=glyph(ch); if(gl) w+=gl.w+1+(bold?1:0); }
+  return Math.max(0,w-1);
+}
+function text(s,x,y,c=C.K,bold=false,sc=1){
+  setc(c);
+  for(const ch of s){
+    if(ch===' '){ x+=3*sc; continue; }
+    const gl=glyph(ch); if(!gl) continue;
+    gl.rows.forEach((r,j)=>{
+      for(let i=0;i<r.length;i++) if(r[i]==='1'){
+        g.fillRect(x+i*sc, y+(gl.top+j)*sc, sc, sc);
+        if(bold) g.fillRect(x+(i+1)*sc, y+(gl.top+j)*sc, sc, sc);
+      }
+    });
+    x += (gl.w+1+(bold?1:0))*sc;
+  }
+  return x;
+}
+function itext(s,x,y,c=C.K){
+  setc(c);
+  for(const ch of s){
+    if(ch===' '){ x+=3; continue; }
+    const gl=glyph(ch); if(!gl) continue;
+    gl.rows.forEach((r,j)=>{ const dx=(10-(gl.top+j))>>2; for(let i=0;i<r.length;i++) if(r[i]==='1') g.fillRect(x+i+dx,y+gl.top+j,1,1); });
+    x+=gl.w+1;
+  }
+}
+function wrap(s,maxW,bold=false){
+  const out=[];
+  for(const para of s.split('\n')){
+    let line='';
+    for(const word of para.split(' ')){
+      const t = line ? line+' '+word : word;
+      if(measure(t,bold)<=maxW || !line) line=t; else { out.push(line); line=word; }
+    }
+    out.push(line);
+  }
+  return out;
+}
+// rooms1.js — shared scenery, the study, the kitchen.
+const SY = 16, FLOOR = 178;
+let SPOTS = [];
+function hs(id,x,y,w,h){ SPOTS.push({id,x,y,w,h}); }
+
+function wallMotif(base,dot,step,y0=SY,y1=FLOOR){
+  rect(0,y0,W,y1-y0,base);
+  for(let r=0,y=y0+step/2;y<y1;y+=step,r++) for(let x=(r%2)*(step/2)+2;x<W;x+=step){ px(x,y,dot); px(x+1,y,dot); }
+}
+function planks(y0=FLOOR,y1=224){
+  rect(0,y0,W,y1-y0,C.L);
+  for(let r=0,y=y0;y<y1;y+=7,r++){
+    rect(0,y+6,W,1,C.G);
+    for(let x=(r*23)%47;x<W;x+=47) rect(x,y,1,6,C.G);
+  }
+}
+function baseboard(y=FLOOR-4){ box(-1,y,W+2,5,C.W); }
+
+function bookRow(x,base,list){
+  const u={};
+  for(const [w,h,f,s,id] of list){
+    if(!h){ x+=w; continue; }
+    const y=base-h;
+    box(x,y,w,h,f);
+    const inv=(f===C.D||f===C.G)?C.L:C.D;
+    if(s==='band'){ rect(x+1,y+3,w-2,1,inv); rect(x+1,y+h-4,w-2,1,inv); }
+    if(s==='label' && w>6) box(x+2,y+5,w-4,7,f===C.W?C.P:C.W);
+    if(s==='roman'){ box(x+2,y+5,w-4,7,C.W); rect(x+(w>>1),y+7,1,3,C.K); }
+    if(s==='anti'){ rect(x+2,y+6,3,1,C.W); rect(x+4,y+7,1,2,C.W); }
+    if(s==='pm'){ rect(x+1,y+3,w-2,1,C.L); rect(x+1,y+5,w-2,1,C.L); box(x+2,y+9,w-4,6,C.L); rect(x+1,y+h-5,w-2,1,C.L); }
+    if(id){
+      const r=u[id];
+      if(!r) u[id]=[x,y,w,h];
+      else { const x0=Math.min(r[0],x), y0=Math.min(r[1],y), x1=Math.max(r[0]+r[2],x+w), y1=Math.max(r[1]+r[3],y+h); u[id]=[x0,y0,x1-x0,y1-y0]; }
+    }
+    x+=w;
+  }
+  for(const [id,r] of Object.entries(u)) hs(id,r[0],r[1]-2,r[2],r[3]+2);
+}
+
+/* ---------------- STUDY ---------------- */
+function drawStudy(){
+  wallMotif(C.P,C.L,8);
+  planks(); baseboard();
+
+  // bookshelf
+  hs('shelves',8,24,108,158);
+  fillFn(13,31,94,142,chk(C.G,C.D));
+  box(12,30,5,148,C.L); box(107,30,5,148,C.L);
+  box(8,26,108,5,C.L);
+  [66,104,142].forEach(y=>box(12,y,100,4,C.L));
+  box(10,172,104,8,C.L);
+  const {D,G,L,W:Wh} = C;
+  const R=(n,b)=>Array(n).fill(b);
+  bookRow(17,66,[...R(3,[10,31,D,'pm','principia']),...R(2,[9,30,G,'band','frege']),[11,28,L,'label','cantor'],...R(2,[8,29,Wh,'band','hilbert']),[7,25,G,null,'quine'],[7,26,L,'band','weyl']]);
+  bookRow(17,104,[[15,31,L,'label','schilpp'],[8,24,Wh,'band','relativity'],[9,27,D,'band','vonneumann'],...R(3,[7,32,G,'band','leibniz']),[9,29,Wh,'label','kant'],[7,27,D,'band','plato'],[8,28,L,'label','husserl'],[7,25,G,'band','carnap'],[6,22,Wh,null,'wittgenstein']]);
+  bookRow(17,142,[[9,24,Wh,'label','dissertation'],[9,26,L,'roman','incompleteness'],[2],[8,27,G,'label','ch1940'],[8,26,Wh,'band','cohen'],[7,25,L,'band','dialectica'],[11,31,D,'label','games'],[6,20,Wh,null,'constitution'],...R(3,[8,29,G,'band','menger'])]);
+  bookRow(17,172,[[12,24,D,'band','bible'],[11,25,G,'label','grimm'],[8,21,Wh,null,'novel'],[9,23,D,'band','psychical'],[13,25,L,'band','medical'],[14,24,G,'label','dictionary'],[16,22,Wh,'band','album'],[7,25,C.K,'anti','antiquine']]);
+
+  // clock: ten past four
+  oval(137,39,27,27,C.G); oval(140,42,21,21,C.W);
+  px(150,43,C.K); px(150,61,C.K); px(141,52,C.K); px(159,52,C.K);
+  line(150,52,157,48); line(150,52,154,55); line(151,52,154,54);
+  hs('clock',136,38,29,29);
+
+  // window, night
+  box(186,36,80,86,C.W);
+  fillFn(190,40,72,78,(x,y)=> bay(x,y) < Math.round(1+(y-40)/78*5) ? C.G : C.D);
+  oval(238,45,13,13,C.P,null);
+  [[190,113,200,100],[191,113,201,100],[200,100,206,88],[201,100,207,88],[206,88,216,76],[216,76,230,68],[230,68,246,66],
+   [206,88,197,80],[216,76,214,62],[214,62,220,52],[230,68,236,57],[200,100,191,95],[246,66,256,70]].forEach(b=>line(...b));
+  box(224,40,4,78,C.W); box(190,77,72,4,C.W);
+  frame(189,39,74,80);
+  box(182,120,88,6,C.W);
+  line(164,32,288,32); oval(160,29,7,7,C.G); oval(286,29,7,7,C.G);
+  poly([[168,33],[191,33],[189,131],[165,131]],C.L); [172,177,183].forEach(x=>line(x,36,x-1,128,C.G));
+  poly([[261,33],[284,33],[287,131],[263,131]],C.L); [268,273,279].forEach(x=>line(x,36,x+1,128,C.G));
+  hs('window',186,36,80,90);
+
+  // desk
+  hs('desk',168,146,208,62);
+  fillFn(166,207,212,3,chk(C.L,C.D));
+  poly([[176,148],[368,148],[375,158],[169,158]],C.L);
+  box(170,157,205,50,C.G);
+  [160,175,190].forEach(y=>{ box(174,y,46,14,C.L); rect(193,y+6,8,2,C.K); box(326,y,46,14,C.L); rect(345,y+6,8,2,C.K); });
+  box(224,160,98,10,C.L); rect(269,164,8,2,C.K);
+  fillFn(224,172,98,35,chk(C.D,C.K)); frame(224,172,98,35);
+  // lamp light pooling on the desk top
+  if (lampOn()) fillFn(172,149,44,8,(x,y)=> (((x-190)/26)**2+((y-153)/5)**2<=1 && bay(x,y)<9) ? C.W : null);
+
+  // lamp
+  oval(179,145,22,8,C.G);
+  rect(189,118,2,28,C.K);
+  poly([[178,104],[200,104],[207,119],[171,119]],lampOn() ? dith(C.G,C.L,5) : C.D);
+  hs('lamp',170,102,38,52);
+
+  // Gabelsberger notebooks
+  box(214,147,36,5,C.W); box(212,143,38,5,C.L);
+  poly([[217,134],[247,134],[251,143],[213,143]],C.W);
+  for(let y=136;y<142;y+=2) for(let x=220+((y>>1)&1)*2;x<244;x+=3+((x*7+y)%3)) rect(x,y,2,1,C.G);
+  hs('notebooks',211,132,41,21);
+
+  // the letter
+  poly([[263,145],[292,140],[297,151],[268,156]],C.W);
+  line(264,146,280,149); line(291,141,280,149);
+  box(286,142,5,5,C.L);
+  hs('letter',260,137,40,21);
+
+  // the ontological proof
+  box(308,140,11,4,C.L);
+  poly([[303,143],[339,143],[344,154],[299,154]],C.L);
+  box(314,146,14,4,C.W);
+  hs('proof',298,138,47,17);
+
+  // inkwell and pen
+  line(356,143,363,131); line(357,143,364,131,C.G);
+  oval(350,146,11,9,C.D); box(353,143,5,4,C.K);
+  hs('inkwell',348,129,18,27);
+
+  // his chair, back to us
+  box(244,178,56,7,C.L);
+  box(246,185,5,38,C.L); box(293,185,5,38,C.L);
+  [259,271,283].forEach(x=>box(x,185,4,21,C.L));
+  box(246,205,52,4,C.L);
+  hs('chair',243,177,58,47);
+
+  // wastepaper basket
+  poly([[123,195],[145,195],[142,221],[126,221]],(x)=>(x%3===0)?C.D:C.G);
+  box(121,192,26,4,C.L);
+  hs('basket',120,190,28,32);
+  if (!lampOn()) darken(1,8);
+}
+
+/* ---------------- KITCHEN ---------------- */
+function drawKitchen(){
+  wallMotif(C.P,C.L,12);
+  fillFn(78,104,186,30,(x,y)=>((x-78)%8===0||(y-104)%8===0)?C.L:C.W);
+  fillFn(0,FLOOR,W,46,(x,y)=>((((x/12)|0)+(((y-FLOOR)/6)|0))&1)?C.L:C.W);
+  baseboard();
+
+  // refrigerator
+  hs('fridge',10,48,70,160);
+  rrect(10,48,68,158,6,(x)=> x>=70 ? C.L : C.W);
+  rect(11,88,66,1,C.K);
+  box(70,62,4,18,C.G); box(70,96,4,30,C.G);
+  box(13,194,62,10,C.D); for(let x=16;x<72;x+=4) rect(x,197,2,5,C.K);
+  box(28,54,22,4,C.L);
+  if (S.flags.note==='fridge'){ poly([[23,110],[45,107],[48,130],[26,133]],C.W); for(let y=116;y<128;y+=3) line(28,y,42,y-2,C.G); }
+  oval(30,104,9,8,C.D);
+  if (S.flags.note==='fridge') hs('note',21,102,29,33);
+
+  // window over the sink
+  box(92,36,80,64,C.W);
+  fillFn(96,40,72,56,(x,y)=> bay(x,y) < Math.round(2+(y-40)/56*9) ? C.G : C.D);
+  oval(150,44,9,9,C.P,null);
+  for(let x=97;x<166;x+=6){ rect(x,83,4,13,C.L); rect(x+1,81,2,2,C.L); }
+  rect(96,87,72,1,C.L);
+  box(130,40,4,56,C.W); box(96,66,72,4,C.W);
+  frame(95,39,74,58);
+  box(88,32,88,9,C.L); for(let x=90;x<174;x+=4) rect(x,40,2,2,C.L);
+  rect(88,36,88,1,C.G);
+  box(88,100,92,5,C.W);
+  hs('kwindow',88,32,92,73);
+  // medicine on the sill
+  box(144,90,7,10,C.W); box(144,87,7,4,C.D);
+  box(153,92,6,8,C.G); box(153,90,6,3,C.D);
+  box(161,86,6,14,C.W); box(161,83,6,4,C.D);
+  hs('pills',142,81,27,20);
+
+  // counter and cabinets
+  box(80,138,118,64,C.W);
+  box(84,142,52,56,C.W); frame(88,146,44,48,C.L);
+  box(140,142,54,56,C.W); frame(144,146,46,48,C.L);
+  rect(130,166,3,4,C.K); rect(145,166,3,4,C.K);
+  rect(80,202,118,4,C.D);
+  box(78,132,122,7,C.L);
+
+  // sink fittings
+  box(119,127,7,6,C.G);
+  rect(121,112,2,15,C.K); rect(121,112,11,2,C.K); rect(130,114,2,5,C.K);
+  oval(105,127,7,5,C.W); oval(134,127,7,5,C.W);
+  hs('sink',98,108,46,30);
+  // one cup, upside down
+  poly([[150,124],[158,124],[160,132],[148,132]],C.W);
+  px(161,126,C.K); px(162,127,C.K); px(162,128,C.K); px(161,129,C.K);
+  hs('cup',147,121,17,12);
+  // crock with the tasting spoon
+  oval(175,95,8,9,null); line(178,118,179,104);
+  box(172,96,3,23,C.L); oval(169,87,9,10,C.L);
+  box(168,118,14,14,C.G); rect(169,122,12,2,C.L);
+  hs('spoon',166,85,20,47);
+
+  // stove
+  hs('stove',202,100,62,106);
+  box(204,104,58,14,C.W); [209,221,239,251].forEach(x=>oval(x,108,6,6,C.G));
+  box(202,117,62,5,C.L);
+  box(204,121,58,85,C.W);
+  box(208,128,50,54,C.W); rect(212,132,42,2,C.K);
+  const ovenLit = S.flags.oven==='lit';
+  fillFn(214,138,38,24,ovenLit ? chk(C.G,C.D) : chk(C.D,C.K));
+  if (ovenLit) for(let x=217;x<249;x+=4){ px(x,158,C.W); px(x+1,157,C.W); px(x+1,158,C.L); px(x+2,158,C.W); }
+  if (S.flags.tin==='oven'){ box(222,149,20,5,C.L); rect(224,148,16,1,C.G); }
+  frame(214,138,38,24);
+  box(208,186,50,16,C.W); rect(229,192,8,2,C.K);
+  rect(210,115,16,2,C.K); rect(240,115,16,2,C.K);
+  // kettle
+  line(212,99,214,91); line(214,91,226,91); line(226,91,229,99);
+  poly([[231,106],[239,98],[241,99],[234,110]],C.L);
+  oval(208,98,26,18,dith(C.L,C.W,4)); oval(218,94,6,5,C.D);
+  hs('kettle',206,88,36,28);
+  if (S.flags.matches==='stove'){ box(248,99,10,5,C.W); rect(249,101,8,1,C.D); }
+
+  // calendar, 1977
+  line(232,30,220,37); line(232,30,244,37);
+  box(216,36,32,46,C.W); box(216,36,32,11,C.D);
+  text('1977',223,36,C.W);
+  let n=0;
+  for(let r=0;r<5;r++) for(let c=0;c<7;c++){
+    const x=219+c*4, y=50+r*6; n++;
+    if(n<=12){ px(x,y,C.K); px(x+1,y+1,C.K); px(x+2,y+2,C.K); px(x+2,y,C.K); px(x,y+2,C.K); }
+    else if(n<=17){ px(x,y,C.G); px(x+1,y+1,C.G); px(x+2,y+2,C.G); px(x+2,y,C.G); px(x,y+2,C.G); }
+    else px(x+1,y+1,C.L);
+  }
+  hs('calendar',214,28,36,56);
+
+  // Adele's apron
+  if (S.flags.apron!=='pocket'){
+  const roses=(x,y)=>{ const a=x%6, b=y%6; return ((a===1||a===2)&&(b===1||b===2)) ? C.W : (a===3&&b===3 ? C.G : C.L); };
+  box(275,56,3,3,C.K);
+  line(276,59,269,71); line(277,59,284,71);
+  poly([[267,71],[285,71],[287,87],[265,87]],roses);
+  poly([[260,86],[292,86],[296,128],[256,128]],roses);
+  box(268,100,16,11,C.L);
+  line(262,88,255,99); line(290,88,297,98);
+  hs('apron',252,54,48,76);
+  }
+
+  // table, two chairs, one plate
+  for(const cx of [306,346]){
+    box(cx+2,116,4,90,C.L); box(cx+22,116,4,90,C.L);
+    box(cx,110,30,7,C.L); box(cx+10,117,3,30,C.L); box(cx+16,117,3,30,C.L);
+  }
+  box(298,145,82,6,C.L);
+  box(300,150,78,20,(x,y)=>{ const s=((x>>2)&1)+((y>>2)&1); return s===0?C.W:(s===1?C.P:C.L); });
+  box(304,169,4,37,C.D); box(370,169,4,37,C.D);
+  oval(312,141,22,6,C.W);
+  hs('table',296,108,86,98);
+  hs('plate',310,137,26,10);
+}
+// rooms2.js — the open refrigerator, the hallway.
+
+/* ---------------- REFRIGERATOR (open) ---------------- */
+function drawFridge(){
+  // the kitchen in the dark, lit only from the box
+  fillFn(0,SY,W,208,chk(C.D,C.K));
+  fillFn(20,206,340,18,(x,y)=> bay(x,y) < Math.max(0, 7 - (y-206)/3 - Math.abs(x-176)/26) ? C.G : null);
+
+  box(50,18,250,206,C.W);
+  fillFn(58,26,234,190,(x,y)=> bay(x,y) < Math.round((y-26)/190*11) ? C.L : C.W);
+  frame(57,25,236,192);
+
+  // the bulb
+  box(160,25,32,6,C.L);
+  const lit = S.flags.bulb==='fridge';
+  if (lit){ oval(170,28,12,11,C.W); for(let i=0;i<7;i++){ px(162-i*3,34+i*2,C.P); px(190+i*3,34+i*2,C.P); } }
+  else { box(172,30,8,4,C.D); }
+  hs('light',156,24,40,20);
+
+  // shelves
+  [80,134,176].forEach(y=>{ box(58,y,234,3,C.L); rect(58,y+3,234,1,C.G); });
+
+  // top shelf: soup under a plate, butter with the knife in it
+  poly([[78,62],[134,62],[128,79],[84,79]],dith(C.G,C.L,6));
+  oval(72,56,68,9,C.W);
+  hs('soup',68,52,76,28);
+  oval(202,72,62,9,C.W);
+  box(212,60,36,15,C.P); rect(241,61,6,13,C.L);
+  poly([[236,61],[239,59],[252,47],[250,45]],C.G);
+  line(251,46,260,37,C.D); line(252,46,261,37,C.D); line(252,47,261,38,C.D);
+  hs('butter',200,34,66,47);
+
+  // middle shelf: milk, orange juice, eggs
+  poly([[82,92],[90,92],[94,100],[78,100]],C.W);
+  poly([[78,100],[94,100],[96,133],[76,133]],(x,y)=> y>122 ? dith(C.W,C.L,6)(x,y) : C.W);
+  box(81,88,10,5,C.D);
+  hs('milk',72,85,28,49);
+
+  path([[110,100],[103,104],[103,118],[109,122]]);
+  poly([[112,96],[140,96],[144,133],[108,133]],(x,y)=> y>114 ? dith(C.L,C.G,4)(x,y) : C.P);
+  px(140,95,C.K); px(141,94,C.K);
+  hs('oj',100,90,48,44);
+
+  poly([[182,114],[280,114],[284,94],[186,94]],C.L);
+  for(let i=0;i<6;i++) oval(186+i*16,98,12,16,C.W);
+  box(180,112,102,21,C.G);
+  for(let i=0;i<5;i++) rect(199+i*16,114,1,10,C.D);
+  for(let i=0;i<6;i++) rect(184+i*16,116,10,1,C.L);
+  hs('eggs',178,92,108,42);
+
+  // bottom shelf: baby food, half a lemon
+  for(const x of [82,106,130]){
+    box(x,154,18,22,C.W); box(x+1,160,16,9,C.L);
+    rect(x+4,163,10,1,C.D); rect(x+4,165,7,1,C.D);
+    box(x-1,148,20,7,C.D); for(let i=x+1;i<x+18;i+=2) px(i,151,C.G);
+  }
+  hs('babyfood',78,145,74,32);
+  oval(206,169,44,7,C.W);
+  shape(212,155,33,18,(X,Y)=>((X-228.5)/16)**2+((Y-171)/16)**2<=1 && Y<=171.5,dith(C.L,C.W,6));
+  hs('lemon',204,151,48,26);
+
+  // crisper drawers, frosted
+  oval(72,192,16,15,dith(C.G,C.L,6)); oval(88,195,16,14,dith(C.G,C.L,5)); oval(104,191,15,15,dith(C.G,C.L,7));
+  px(80,191,C.K); px(96,194,C.K); px(111,190,C.K);
+  oval(196,188,34,22,dith(C.L,C.G,4)); line(206,190,212,208,C.G); line(218,189,214,208,C.G);
+  box(62,180,112,32,(x,y)=>((x+y)%3===0)?C.W:null); box(178,180,110,32,(x,y)=>((x+y)%3===0)?C.W:null);
+  box(108,183,20,4,C.L); box(223,183,20,4,C.L);
+  hs('crisper',60,178,230,36);
+
+  // the door, swung open
+  poly([[300,18],[368,32],[368,206],[300,222]],C.W);
+  poly([[306,30],[362,40],[362,198],[306,210]],C.P);
+  for(const t of [0.28,0.56,0.84]){
+    const yl=Math.round(30+t*180), yr=Math.round(40+t*158);
+    line(306,yl,362,yr); line(306,yl+1,362,yr+1,C.G);
+  }
+  line(303,22,303,218,C.L);
+  if (!lit) darken(2,8);
+}
+
+/* ---------------- HALLWAY ---------------- */
+function drawHall(){
+  for(let x=0;x<W;x++) rect(x,SY,1,FLOOR-SY, x%12===0 ? C.L : (x%12<6 ? C.W : C.P));
+  planks(); baseboard();
+  // runner
+  rect(0,198,W,22,C.D); rect(0,200,W,1,C.L); rect(0,217,W,1,C.L);
+  fillFn(0,203,W,12,(x,y)=>(((x+y)%8===0)||((x-y+800)%8===0)) ? C.G : null);
+
+  // front door, locked twice
+  hs('door',44,24,96,174);
+  box(44,24,96,176,C.W);
+  if (S.flags.door!=='open'){
+  box(52,32,80,168,C.G);
+  for(const [x,y,h] of [[58,40,62],[96,40,62],[58,112,72],[96,112,72]]){
+    box(x,y,30,h,C.L); rect(x+1,y+1,28,1,C.W); rect(x+1,y+1,1,h-2,C.W); rect(x+1,y+h-2,28,1,C.G); rect(x+28,y+1,1,h-2,C.G);
+  }
+  box(78,104,28,5,C.D);
+  oval(117,138,9,9,C.L); px(119,140,C.W);
+  box(118,122,7,7,C.L); rect(121,124,1,3,C.K);
+  box(118,152,7,7,C.L); rect(121,154,1,3,C.K);
+  } else {
+    // the door stands open onto the night
+    fillFn(52,32,80,168,(x,y)=> y<118 ? (bay(x,y)<3 ? C.D : C.K) : (bay(x,y)<7 ? C.G : C.D));
+    for (const [sx,sy] of [[64,44],[92,58],[120,40],[106,80],[74,92]]) px(sx,sy,C.W);
+    poly([[88,118],[96,118],[132,200],[52,200]],(x,y)=> bay(x,y)<10 ? C.W : C.P, null);
+    box(82,106,3,13,C.L); box(100,106,3,13,C.L); rect(85,110,15,1,C.L);
+    rect(96,110,3,8,C.K); rect(95,108,5,2,C.L);
+    poly([[52,32],[70,44],[70,188],[52,200]],C.G);
+    oval(62,118,5,5,C.L);
+    frame(51,31,82,170);
+  }
+
+  // mat and the unopened mail
+  box(42,198,100,15,chk(C.L,C.G));
+  poly([[56,200],[72,198],[73,206],[57,208]],C.W);
+  poly([[80,203],[96,204],[95,211],[79,210]],C.W);
+  poly([[100,199],[114,200],[113,207],[99,206]],C.P);
+  if (S.flags.letter==='mat'){ box(118,203,18,6,C.P); rect(122,203,1,6,C.K); rect(131,203,1,6,C.K); }
+  line(58,203,66,202,C.G); line(83,206,90,207,C.G);
+  hs('mail',40,194,104,20);
+
+  // front window, the lawn, the flamingo
+  box(164,36,76,92,C.W);
+  fillFn(168,40,68,60,(x,y)=> bay(x,y) < Math.round(1+(y-40)/60*8) ? C.G : C.D);
+  fillFn(168,100,68,24,dith(C.D,C.G,3));
+  for(let x=168;x<236;x++) px(x,98+((x>>2)&1),C.K);
+  rect(228,62,1,38,C.K); oval(225,56,7,6,C.W,null); fillFn(218,62,22,10,(x,y)=> bay(x,y)<3 ? C.L : null);
+  // flamingo (pink, in principle)
+  line(201,112,201,121); line(206,112,207,117); line(207,117,205,121);
+  oval(194,101,20,12,C.L);
+  poly([[208,103],[212,103],[214,96],[211,90],[208,88],[205,90],[209,93],[210,97]],C.L);
+  oval(203,85,8,6,C.L); px(205,87,C.K); px(202,89,C.D); px(201,90,C.K); px(202,90,C.K);
+  box(168,74,68,4,C.W);
+  frame(167,39,70,86);
+  box(160,124,84,5,C.W);
+  hs('hwindow',164,36,76,92);
+  hs('flamingo',190,82,28,42);
+
+  // photograph of Adele
+  line(269,40,256,47); line(269,40,282,47);
+  box(254,46,30,38,C.D); box(257,49,24,32,C.W);
+  fillFn(260,52,18,26,dith(C.P,C.L,5));
+  oval(264,54,10,11,C.G,null); oval(265,57,8,9,C.L,null);
+  poly([[261,78],[277,78],[275,68],[263,68]],C.G,null);
+  hs('photo',252,38,34,48);
+
+  // telephone table
+  box(162,150,76,5,C.L); box(166,155,68,8,C.G);
+  box(170,163,4,36,C.G); box(226,163,4,36,C.G);
+  poly([[184,136],[214,136],[220,150],[178,150]],C.D);
+  oval(191,137,17,12,C.W); oval(197,141,5,4,C.L);
+  for(let k=0;k<10;k++){ const a=-0.6+k*0.55; px(Math.round(199+Math.cos(a)*5), Math.round(143+Math.sin(a)*3.6), C.G); }
+  box(182,131,36,4,C.K); oval(177,128,10,8,C.K); oval(212,128,10,8,C.K);
+  path([[220,146],[224,150],[222,154],[226,158],[224,162]]);
+  for(let y=134;y<146;y+=4) for(let x=224;x<238;x+=3) rect(x+(y&2),y,2,1,C.G);
+  hs('phone',174,124,66,28);
+
+  // coat rack, overcoat, hat
+  line(324,196,306,206,C.D); line(325,196,307,206,C.D); line(324,196,342,206,C.D); line(325,196,343,206,C.D);
+  box(322,30,4,168,C.D);
+  poly([[304,46],[342,46],[352,152],[296,152]],C.D);
+  poly([[316,44],[330,44],[326,56],[320,56]],C.G);
+  line(318,48,311,92,C.G); line(328,48,335,92,C.G);
+  [100,114,128].forEach(y=>{ px(323,y,C.L); px(324,y,C.L); });
+  line(304,60,299,140,C.K); line(342,60,348,140,C.K);
+  hs('coat',294,42,60,112);
+  if (S.flags.hat==='rack'){
+  oval(302,30,44,7,C.G);
+  poly([[313,20],[335,20],[338,32],[310,32]],C.G);
+  rect(311,29,27,2,C.K);
+  hs('hat',300,18,48,20);
+  }
+}
+// text.js — every name and line of flavour text. Edit freely.
+// food:true shows a greyed-out Eat button; `refuse` is what happens when it's pressed.
+const TEXT = {
+  help: { name:'Antiquine', pages:[
+    'Princeton, autumn 1977. Adele has been in hospital since July.',
+    'Tap anything to look at it. The hand at the top goes to the next room. The tray at the bottom goes anywhere.' ]},
+
+  blackout: { name:'The lamp', pages:['The lamp gives a small click and goes out. It is now too dark to read.'] },
+  bulb: { name:'Bulb', pages:['The refrigerator bulb. Forty watts, and still warm.'] },
+  matches: { name:'Matches', pages:['A box of kitchen matches. In July he threw them away, so that nobody could light the stove. There is nobody else in the house.'] },
+  vletter: { name:'Letter from Vienna', short:'letter', pages:[
+    'Lieber Herr Warum,\nYou wrote that we would see each other again, and that this could be shown by reason alone. I have kept all your letters, and read them more than once.',
+    'Here is the key. You will know what it opens. Finish the proof, Kurtele. I should like to read it.\nDeine Mama',
+    'Herr Warum. Mister Why. Nobody has called him that since he was a boy.' ]},
+  tin: { name:'Tin', pages:[
+    'A flat tin, soldered shut along every seam. Through a pinhole he can see the key catch the light. His brother would have a soldering iron. His brother is in Vienna.',
+    'Heat would enlarge the pinhole, and the key in exactly the same proportion. Expansion is a similarity; it changes nothing that matters. The key is brass, besides, and brass expands faster than the tin.' ]},
+  apronItem: { name:'Apron', pages:["Adele's apron, untied, over his arm. It smells of her kitchen, which is this kitchen."] },
+  key: { name:'Key', pages:['A small brass key, still warm from the oven.'] },
+  noteItem: { name:"Adele's note", short:'note', pages:['Kurt, iss was. Eat something. In her hand, in both languages, to be safe.'] },
+  hatItem: { name:'Hat', short:'hat', pages:['His hat, for the walk.'] },
+  slot: { name:'The empty space', pages:['Room for one more sentence. Nothing in the book can fill it.'] },
+  clasp: { name:'Clasp', pages:['A brass clasp across the last pages, and it is locked. The keyhole is very small.'] },
+
+  /* study */
+  shelves: { name:'Bookshelves', pages:['His books, in an order only he understands. Adele dusted them for decades without moving a single one.'] },
+  principia: { book:true, name:'Principia Mathematica', pages:['Whitehead and Russell, three volumes. They take hundreds of pages to reach 1 + 1 = 2. He took twenty-six to show that no system like theirs can ever be finished.'] },
+  schilpp: { book:true, name:'The Schilpp volume', pages:[
+    'Albert Einstein: Philosopher-Scientist, 1949. His contribution is a universe that rotates, in which a traveller could set out and arrive in his own past.',
+    "It was a present for Einstein's seventieth birthday. Einstein was kind about it, and a little troubled." ]},
+  leibniz: { book:true, name:'Leibniz', pages:['Die philosophischen Schriften, in Gerhardt\'s edition. He is certain that some of Leibniz was suppressed, and nearly certain by whom.'] },
+  dissertation: { book:true, name:'Dissertation, 1929', pages:['Completeness. In first-order logic, whatever is true in every model can be proved. He was twenty-three, and for a year or so the world was whole.'] },
+  incompleteness: { book:true, name:'Monatshefte, 1931', pages:[
+    'Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I.',
+    'The I at the end promised a second part. There never was one. Somewhere in the first is a sentence that says it cannot be proved, and is right.' ]},
+  proof: { name:'Ontologischer Beweis', pages:[
+    'A folder dated 1970. A page or so of modal logic, showing that God exists, and does so necessarily.',
+    'He has not published it. People would think he believes it.' ]},
+  letter: { name:'A letter', pages:[
+    "The envelope is addressed in Einstein's hand. Einstein has been dead for twenty-two years. Nobody has told the letter.",
+    'Lieber Gödel,\nTomorrow, the usual walk, if your overcoat allows. I keep thinking about your universe, the one where a man can walk back into his own yesterday. I would not go. Once was tiring enough.\nHerzlich, A. E.',
+    'He reads it again. The walk is still tomorrow.' ]},
+  /* the rest of the shelves */
+  frege: { book:true, name:'Frege', pages:["Grundgesetze der Arithmetik, two volumes. Russell's letter about the paradox arrived while the second was at the printer. A life's work, refuted by post."] },
+  cantor: { book:true, name:'Cantor', pages:['Collected papers, edited by Zermelo. Cantor died in a sanatorium in Halle, sure that the transfinite had been shown to him by God. He thinks about Cantor more than he would like to.'] },
+  hilbert: { book:true, name:'Hilbert and Bernays', pages:['Grundlagen der Mathematik, two volumes. The second has the first complete proof of his own second theorem. He never got round to writing it out himself.'] },
+  quine: { book:true, name:'Quine', pages:['Mathematical Logic. Quine would prefer a world furnished with nothing but bodies, and has admitted classes only under protest. He finds this touching.'] },
+  weyl: { book:true, name:'Weyl', pages:['Das Kontinuum. Weyl, trying to manage with fewer real numbers than there are. He has never seen the point of economizing on the infinite.'] },
+  relativity: { book:true, name:'The Meaning of Relativity', pages:["Einstein's Princeton lectures. In the margins, in his pencil, the working for a universe that rotates."] },
+  vonneumann: { book:true, name:'Von Neumann', pages:['Mathematische Grundlagen der Quantenmechanik. Von Neumann heard him at Königsberg in 1930 and wrote soon after with the second theorem, which he already had.', 'Johnny has been dead for twenty years.'] },
+  kant: { book:true, name:'Kant', pages:['Kritik der reinen Vernunft. Kant held that time is a form of intuition, not a thing. The rotating universe agrees with Kant, which nobody expected, the physicists least of all.'] },
+  plato: { book:true, name:'Plato', pages:['Greek and German on facing pages. People call him a Platonist as if it were an accusation. He has never understood why.'] },
+  husserl: { book:true, name:'Husserl', pages:['Logische Untersuchungen. He took up Husserl in 1959, hoping for a method for seeing concepts clearly. He is still hoping.'] },
+  carnap: { book:true, name:'Carnap', pages:['Logische Syntax der Sprache. Carnap says mathematics is the syntax of language. He wrote six drafts of a reply and published none of them.'] },
+  wittgenstein: { book:true, name:'Tractatus', pages:['Wittgenstein, thin as a pamphlet. Wittgenstein later wrote about the theorem, and misread it. He says so only in letters.'] },
+  ch1940: { book:true, name:'Continuum hypothesis', pages:['The Consistency of the Continuum Hypothesis, 1940, a thin Princeton paperback. He showed it can never be disproved. He believes it is false.'] },
+  cohen: { book:true, name:'Cohen, 1966', pages:['Set Theory and the Continuum Hypothesis. Cohen showed it can never be proved either. The axioms will never decide it.', 'He thinks that only means the axioms are not finished.'] },
+  dialectica: { book:true, name:'Dialectica, 1958', pages:["A Festschrift for Bernays's seventieth birthday, with his paper in it. It is so short he worries it was not clear."] },
+  games: { book:true, name:'Theory of Games', pages:['Von Neumann and Morgenstern, 1944. Morgenstern gave it to him, inscribed. He has read the chapter on bluffing more than once.'] },
+  constitution: { book:true, name:'The Constitution', pages:['A pamphlet edition, much underlined. Studying for his citizenship hearing, he found a way the country could legally become a dictatorship.', 'Einstein and Morgenstern drove him to the hearing and tried to keep him off the subject.'] },
+  menger: { book:true, name:"Menger's colloquium", pages:['Ergebnisse eines mathematischen Kolloquiums, Vienna, bound by year. A good deal of his twenties is in here.'] },
+  bible: { book:true, name:'Bible', pages:['A Lutheran Bible. He reads it in bed on Sunday mornings. He does not belong to a congregation. Congregations involve other people.'] },
+  grimm: { book:true, name:'Grimm', pages:['Kinder- und Hausmärchen. He saw Snow White at the cinema more than once. Only fairy tales, he told his mother, show the world as it ought to be.'] },
+  novel: { book:true, name:'A novel', pages:["One of Adele's novels, shelved among his years ago. He has left it there, in case it was not a mistake."] },
+  psychical: { book:true, name:'Psychical research', pages:['On survival after death. He wrote to his mother, at length, that an afterlife can be reached by reason alone. He meant it as a comfort.'] },
+  medical: { book:true, name:'Medical encyclopedia', pages:['A home medical encyclopedia, heavily annotated. He trusts it more than doctors. Doctors have motives.'] },
+  dictionary: { book:true, name:'Dictionary', pages:['Muret-Sanders, German and English. Thirty-seven years in America and he still checks.'] },
+  antiquine: { book:true, name:'Antiquine', go:'book' },
+  album: { book:true, name:'Album', pages:['Photographs from Vienna, mostly of Adele. He has not opened it since July.'] },
+  notebooks: { name:'Notebooks', pages:['Notebooks in Gabelsberger shorthand, a script almost nobody reads any more. That is part of the point.'] },
+  lamp: { name:'Desk lamp', pages:['The green-shaded lamp. It is the one thing in the house he trusts to stay on.'] },
+  clock: { name:'Clock', pages:['Ten past four. The clock does not say which four.'] },
+  window: { name:'Window', pages:['Linden Lane, dark. The trees have let go of everything they were holding.'] },
+  inkwell: { name:'Inkwell', pages:['Dry. He writes in pencil now. Pencil can be taken back.'] },
+  desk: { name:'Desk', pages:['Nothing on the desk has moved unless he moved it. He used to find that reassuring.'] },
+  chair: { name:'His chair', pages:['The cushion still holds the shape of a heavier man.'] },
+  basket: { name:'Wastepaper basket', pages:['Almost empty. He throws nothing away: laundry slips, library slips, drafts of letters never sent, all of it is filed.', 'At the bottom is a box of matches. It is the only thing he has ever thrown away. He remembers doing it, and why.'] },
+
+  /* kitchen */
+  fridge: { name:'Refrigerator', go:'fridge' },
+  note: { name:'A note', pages:[
+    "Under a magnet, in Adele's hand: Kurt, iss was. Eat something.",
+    'She wrote it in both languages, to be safe.' ]},
+  kwindow: { name:'Back window', pages:['The back garden at night. Frost on the fence, as forecast. At least something is behaving.'] },
+  pills: { name:'Medicine', pages:['A row of bottles on the sill. He reads each label twice. He does not recognize the handwriting on any of them.'] },
+  sink: { name:'Sink', pages:['The tap drips once every eleven seconds. He has timed it. It has not varied.'] },
+  cup: { name:'Cup', pages:['One cup, rinsed and upside down. One of everything is how things are now.'] },
+  spoon: { name:'Tasting spoon', pages:["Adele's spoon. Nothing in this house was safe until it had been in her mouth first."] },
+  stove: { name:'Stove', pages:['The stove is cold. He is not sure he knows how to light it, and less sure he should.'] },
+  kettle: { name:'Kettle', pages:['The kettle has stood on the cold stove so long it has become a fact.'] },
+  calendar: { name:'Calendar', pages:["1977. Until July the days are crossed off in Adele's hand. Then in his. Then not at all."] },
+  apron: { name:'Apron', pages:["Adele's apron, roses on it, still tied in a bow. As if she meant to step back into it."] },
+  table: { name:'Table', pages:['Two chairs. He sits in his. He does not look at hers, which takes some effort, since it is opposite.'] },
+  plate: { name:'Plate', pages:['His plate. Clean. It has been clean for some time.'] },
+
+  /* refrigerator */
+  light: { name:'The light', pages:[
+    'The light comes on when the door opens. He has never been able to verify that it goes off when the door closes.',
+    'It is not a question that can be settled from inside.' ]},
+  soup: { name:'Soup', food:true, refuse:'Not until someone has tasted it.', pages:[
+    "A bowl with a plate on top. Adele's soup, from the week before she went in.",
+    'Lifting the plate would be a kind of answer.' ]},
+  butter: { name:'Butter', food:true, refuse:'Not until someone else has.', pages:['Butter, the knife still standing in it. Hers was the last cut.'] },
+  milk: { name:'Milk', food:true, refuse:'No.', pages:['Milk, delivered in July. It has quietly changed its mind about being milk.'] },
+  oj: { name:'Orange juice', food:true, refuse:'The first glass is missing. That one was hers.', pages:['Half a jug of orange juice. She drank the first glass of everything.'] },
+  eggs: { name:'Eggs', food:true, refuse:'A shell proves nothing.', pages:['Six eggs. Sealed. Anything at all could have been done to the inside of any one of them, and the shell would say nothing.'] },
+  babyfood: { name:'Baby food', food:true, refuse:'Not without the first spoonful.', pages:['Three jars: strained peas, strained pears, strained beef. She opened them for him and took the first spoonful.'] },
+  lemon: { name:'Lemon', food:true, refuse:'She was saving it.', pages:['Half a lemon, cut side down on a saucer. Adele saved halves of things.'] },
+  crisper: { name:'Crisper', food:true, refuse:'Not yet.', pages:['Apples going soft and sweet, and a cabbage. Time passes in the drawer even if nowhere else in the house.'] },
+
+  /* hallway */
+  door: { name:'Front door', pages:['Locked, and bolted, and checked. He checks it again, then checks that he checked.'] },
+  mail: { name:'Mail', pages:['Letters on the mat: the Institute, the hospital, a bill, something from Vienna. He will open them once he is sure who sent them.'] },
+  hwindow: { name:'Front window', pages:['The front lawn under the streetlamp. Nobody has come up the path today. He watched to make sure.'] },
+  flamingo: { name:'Flamingo', pages:[
+    "Adele's plastic flamingo, out on the lawn. It is pink, though the window shows grey.",
+    'The neighbours found it vulgar. He wrote to his mother that it was charming.' ]},
+  photo: { name:'Photograph', pages:['Adele in Vienna, before the war, laughing at someone just out of frame. He has always assumed it was him.'] },
+  phone: { name:'Telephone', pages:["The hospital's number is pencilled on the wall beside it. He has dialled it four times this week, and three times hung up."] },
+  coat: { name:'Overcoat', pages:['His winter overcoat. He wears it in August. The cold he is guarding against is not the weather.'] },
+  hat: { name:'Hat', pages:['His hat, for the walk to the Institute. He still knows the way by heart. He no longer takes it.'] }
+};
+// state.js — the things in the house that change.
+// DYN[id]() may replace an object's pages and give its balloon a button; null keeps text.js.
+// USE(item, target) is what happens when something from the pocket is used on something.
+const lampOn = () => S.flags.lamp !== 'dead';
+const ITEMS = ['bulb','matches','vletter','tin','apronItem','key','noteItem','hatItem'];
+const IN_POCKET = {
+  bulb:      f => f.bulb==='pocket',
+  matches:   f => f.matches==='pocket',
+  vletter:   f => f.letter==='pocket',
+  tin:       f => f.tin==='pocket',
+  apronItem: f => f.apron==='pocket',
+  key:       f => f.key==='pocket',
+  noteItem:  f => f.note==='pocket',
+  hatItem:   f => f.hat==='pocket'
+};
+function goOut(){ S.flags.hat='worn'; S.held=null; S.dialog=null; S.mode='walk'; S.walk=0; save(); return null; }
+const take = (label, fn) => ({ label, run(){ const r=fn(S.flags); refresh(); return r; } });
+
+const DYN = {
+  lamp(){
+    const f=S.flags;
+    if (f.lamp==='on') return null;
+    if (f.lamp==='fixed') return { pages:['The lamp, with the refrigerator bulb in it. The refrigerator has not complained.'] };
+    if (f.bulb==='pocket') return { pages:['The lamp is still dark. There is a bulb in his pocket.'] };
+    return { pages:[
+      'He works the switch. Nothing. The bulb has gone, which he had not known it was allowed to do.',
+      'There are no spare bulbs; Adele kept those. He thinks of every light in the house, and of the one he has never seen go out.' ] };
+  },
+  light(){
+    const f=S.flags;
+    if (f.bulb==='fridge' && f.lamp==='dead') return { act: take('Take bulb', f=>{ f.bulb='pocket';
+      return ['He unscrews the bulb. It is warm. For the first time, he is certain that the light in the refrigerator is off.']; }) };
+    if (f.bulb!=='fridge') return { pages:['An empty socket. The light is off. He has seen it for himself.'] };
+    return null;
+  },
+  basket(){
+    const f=S.flags;
+    if (f.matches==='basket') return { act: take('Take matches', f=>{ f.matches='pocket';
+      return ['He takes the matches back out of the basket. It is the first time he has changed his mind about anything since July.']; }) };
+    return { pages:['Empty now. He throws nothing away, and he has taken back the one thing he did.'] };
+  },
+  mail(){
+    const f=S.flags;
+    if (f.clasp==='unseen') return null;
+    if (f.letter==='mat') return {
+      pages:[ TEXT.mail.pages[0],
+        "He is sure who sent the one from Vienna. It is addressed in his mother's hand, and the postmark is from this week. She died in 1966." ],
+      act: take('Take letter', f=>{ f.letter='pocket'; f.tin='pocket';
+        return ['He opens it there on the mat. Folded inside the letter is a small flat tin, and something in the tin rattles.']; }) };
+    return { pages:['Letters on the mat: the Institute, the hospital, a bill. He will open them once he is sure who sent them.'] };
+  },
+  apron(){
+    const f=S.flags;
+    if (f.apron==='hook' && f.tin==='oven') return { act: take('Take apron', f=>{ f.apron='pocket';
+      return ['He unties the bow. Nobody has untied it since July.']; }) };
+    if (f.apron==='hung') return { pages:["Adele's apron, back on its hook. He could not get the bow right."] };
+    return null;
+  },
+  note(){
+    const f=S.flags;
+    if (f.thresh==='seen' && f.note==='fridge') return { act: take('Take note', f=>{ f.note='pocket';
+      return ['He slides the note out from under the magnet. The magnet stays where it is, holding nothing.']; }) };
+    return null;
+  },
+  door(){
+    const f=S.flags;
+    if (f.door!=='open') return null;
+    return { pages:['The door is open. He did not open it. The night outside is mild, and someone is waiting at the gate.'],
+      act:{ label:'Go out', run(){ return S.flags.hat==='pocket' ? goOut() : ['Not without his hat.']; } } };
+  },
+  hat(){
+    const f=S.flags;
+    if (f.door==='open' && f.hat==='rack') return { act: take('Take hat', f=>{ f.hat='pocket';
+      return ['He takes his hat from the rack. He leaves the overcoat where it is.']; }) };
+    return null;
+  },
+  coat(){ return S.flags.hat!=='rack' ? { pages:['His winter overcoat. He is leaving it here.'] } : null; },
+  stove(){
+    const f=S.flags;
+    if (f.tin==='oven') return { pages:['The tin sits open on the oven rack, the solder run out of its seams. The key inside is far too hot to touch.'] };
+    if (f.oven==='lit') return { pages:['The oven is lit. He stands well back from it. The gas is doing what gas does, and he is watching to make sure that is all it does.'] };
+    if (f.oven==='off') return { pages:['The stove is cold again. He turned it off himself, and checked the dial twice.'] };
+    return null;
+  }
+};
+
+const FOODISH = ['fridge','light','soup','butter','milk','oj','eggs','babyfood','lemon','crisper'];
+const isBook = id => TEXT[id] && TEXT[id].book && id!=='antiquine';
+function USE(item, t){
+  const f=S.flags;
+  switch (item){
+    case 'bulb':
+      if (t==='lamp' && f.lamp==='dead'){ f.lamp='fixed'; f.bulb='lamp'; refresh();
+        return 'He fits the refrigerator bulb and works the switch. The lamp comes on, a little dimmer than before. It is enough to read by.'; }
+      if (t==='light') return 'He is not putting it back. That question is settled.';
+      return 'It does not go there.';
+    case 'matches':
+      if (t==='stove'){
+        if (f.oven!=='cold') return 'The oven is already lit.';
+        f.oven='lit'; f.matches='stove'; refresh();
+        return ['He turns the oven dial, strikes a match and holds it to the burner, the way he watched Adele do it a thousand times. It catches with a soft thump.',
+                'He puts the matches on the stove, where she kept them.'];
+      }
+      if (t==='kettle') return 'The kettle does not need a match. The stove underneath it does.';
+      if (t==='vletter') return 'He is not going to burn a letter from his mother.';
+      if (t==='letter' || t==='mail') return 'He is not going to burn a letter.';
+      if (t==='lamp') return 'The lamp is electric. He knows that perfectly well.';
+      if (t==='tin') return 'He holds a match under the seam until it reaches his fingers. Solder needs far more heat than a match.';
+      if (isBook(t) || t==='shelves' || t==='proof' || t==='notebooks' || t==='antiquine') return 'Not a book. Never a book.';
+      if (FOODISH.includes(t)) return 'There is nothing in there that needs lighting.';
+      return 'He is not going to set fire to that.';
+    case 'tin':
+      if (t==='stove'){
+        if (f.oven!=='lit') return 'The oven is cold.';
+        f.tin='oven'; refresh();
+        return ['He sets the tin on the oven rack and shuts the door. After a while there is a smell of hot metal, and then a small tick.', 'The solder has let go.'];
+      }
+      if (t==='lamp') return lampOn() ? 'The lamp is warm, but nowhere near warm enough.' : 'The lamp is cold.';
+      if (t==='kettle') return 'The kettle is cold. Everything in this kitchen is cold.';
+      if (t==='butter') return "Prying it open would mean taking Adele's knife out of the butter. He will not do that.";
+      if (FOODISH.includes(t)) return 'Cold would shrink the key and the pinhole together. Similarity again.';
+      if (t==='matches') return 'A match is nowhere near hot enough for solder.';
+      if (t==='desk' || t==='inkwell' || t==='notebooks') return 'There is nothing on the desk that will cut solder.';
+      return 'That will not open it.';
+    case 'apronItem':
+      if (t==='stove'){
+        if (f.tin!=='oven') return 'There is nothing in the oven to take out.';
+        f.tin='done'; f.key='pocket'; f.apron='hung'; f.oven='off'; refresh();
+        return ['He folds the apron into a cloth and lifts the tin out. The key slides into his palm, still warm. He turns the oven off and checks the dial twice.',
+                'Then he hangs the apron back on its hook. He cannot get the bow right.'];
+      }
+      return 'He would rather not.';
+    case 'key':
+      if (t==='clasp' || t==='antiquine'){ f.key='used'; f.clasp='open'; refresh();
+        return 'The key turns in the clasp with a small, exact click, and the clasp falls open.'; }
+      if (t==='door') return 'Much too small for the front door.';
+      if (t==='desk') return 'Too small for the desk. It is a key for something smaller.';
+      if (t==='notebooks') return 'His notebooks do not lock. Nobody else can read them anyway.';
+      if (isBook(t)) return 'This one has no lock.';
+      return 'There is no lock there.';
+    case 'noteItem':
+      if (t==='slot'){ f.note='book'; refresh();
+        return ['He lays the note in the empty space. It fits exactly. He notices this, and decides not to mind.',
+                'It is not a sentence the book could ever prove. It is something she asked of him, and the book takes it as given.']; }
+      if (FOODISH.includes(t) || t==='stove' || t==='plate' || t==='table') return 'He reads it again, there by the food, and still cannot.';
+      if (t==='antiquine') return 'Not on the cover. Somewhere inside.';
+      return 'He would rather keep it with him.';
+    case 'hatItem':
+      if (t==='door') return goOut();
+      return 'It goes on his head, when it is time.';
+    case 'vletter':
+      if (t==='letter') return 'Two letters from the dead. He keeps them apart, in case they compare notes.';
+      return 'He would rather keep it.';
+  }
+  return 'Nothing happens. He had not really expected anything to.';
+}
+// book.js — the Antiquine. Part I: Names. Part II: Numbers.
+// Part I pages are lists of definitions: `A > (...)` names a sentence; inside a sentence
+// `X > Y` says X and Y have the same value, `X → Y` is implication, ⊥ is false.
+// Part II pages are a number machine: `rules` lists the digits that act, `check` settles the page.
+// Fates and answers are computed, never stored: edit a page and the answer key follows.
+
+/* ---------- the machine ---------- */
+const LONG = { long:true };
+function say(x,R){
+  if (!x) return null;
+  const h=x[0], r=x.slice(1);
+  if (h==='2' && R.includes(2)) return r.length ? r : null;
+  if (!r.length || !'345'.includes(h) || !R.includes(+h)) return null;
+  const y=say(r,R); if (y==null || y===LONG) return y;
+  const o = h==='3' ? y+'2'+y : h==='4' ? '¬'+y : [...y].reverse().join('');
+  return o.length>160 ? LONG : o;
+}
+const rev = s => [...s].reverse().join('');
+const isNum = s => typeof s==='string' && /^[1-9]+$/.test(s);
+function deny(x,R){ const a=say(x,R); return (typeof a==='string' && a[0]==='¬' && isNum(a.slice(1))) ? a.slice(1) : null; }
+
+const PAGES = [
+  { title:true },
+  /* ---- I. Names ---- */
+  { defs:['A > (⊥ > ⊥)','B > (A > ⊥)'], gloss:'⊥ > ⊥ says that the false is false.',
+    after:'Two easy ones. He is grateful for them.' },
+  { defs:['T > T'],
+    after:'It says only that it is true. Nothing outside it decides, so it may be whatever it likes.' },
+  { defs:['L > (L > ⊥)'],
+    after:'It can be neither. The book gives it the only thing left, which is peace.' },
+  { defs:['A > (B > ⊥)','B > (A > ⊥)'],
+    after:'Each says the other lies. Either could be right, but not both. He thinks of the two chairs in the kitchen.' },
+  { defs:['A > (B > ⊥)','B > (C > ⊥)','C > (A > ⊥)'], gloss:'Count.',
+    after:'Three in a ring is one too many. An odd number of denials never comes round to agreement.' },
+  { defs:['A > (A → (B > ⊥))','B > (A > ⊥)'], gloss:'X → Y is false only when X is true and Y is false.',
+    after:'It comes out cleanly. Not every page is a trap.' },
+  { defs:['C > (C → H)'], notes:['H: there is an afterlife.'],
+    after:'If C were false, C → H would be true, and so would C. So C is true, and so is H. It is so simple. He reads it four times, looking for the trick.' },
+  { defs:['D > (D → (H > ⊥))'], notes:['H: there is an afterlife.'],
+    after:'The same argument, word for word, takes it away.' },
+  { defs:['C > (C → H)','D > (D → (H > ⊥))'], notes:['H: there is an afterlife.'],
+    after:'Together they have no value at all. Whatever such a page proves, it proves to nobody. Peace, then, for all three, the afterlife included.' },
+  /* ---- II. Numbers ---- */
+  { part:2 },
+  { rules:[2], task:'Make it say 2.',
+    check:(x,R)=> say(x,R)==='2',
+    after:'The 2 works as a quotation mark. In forty years of quoting things, he has never before had to quote the quotation mark.' },
+  { rules:[2,3], task:'Make it say its own number.',
+    check:(x,R)=> say(x,R)===x,
+    after:'Three digits, and it says exactly itself. It is the truth-teller again, except that this time nobody declared it. He built it.' },
+  { rules:[2,3], task:'Make it say 7, followed by its own number.',
+    check:(x,R)=> say(x,R)==='7'+x,
+    after:'Whatever stands in the middle goes out in front. He writes this down in shorthand, so that he alone will know it.' },
+  { rules:[2,3,4], task:'Make it say its own negation: ¬, followed by its own number.',
+    check:(x,R)=> say(x,R)==='¬'+x,
+    after:'So that is what the title means. It denies itself, and the machine does not mind in the least. The trouble only starts when someone asks whether it is right.' },
+  { rules:[2,3,4,5], back:true, task:'Find a number which, read backwards, says itself forwards. It must not read the same both ways.',
+    check:(x,R)=> x!==rev(x) && say(rev(x),R)===x,
+    after:'Read backwards, it says itself forwards. In his universe a traveller could do the same: set out, and arrive in his own past.' },
+  { rules:[2,3,4,5], steps:2, task:'Find two different numbers, each of which says the negation of the other. Type either one.',
+    check:(x,R)=>{ const y=deny(x,R); return !!y && y!==x && deny(y,R)===x; },
+    after:'Each says the other is false. Among the names, either could have been right. Here there is no question of right. The machine only speaks.' },
+  { rules:[2,3,4,5], steps:3, task:'Find three different numbers in a ring, each saying the negation of the next, and the last the negation of the first. Type any one of them.',
+    check:(x,R)=>{ const y=deny(x,R); if(!y) return false; const z=deny(y,R); return !!z && new Set([x,y,z]).size===3 && deny(z,R)===x; },
+    after:'Three in a ring. Among the names they could never settle; in numbers they settle at once. The machine has no opinion about truth. He finds that he envies it.' },
+  { end:true },
+  { intro3:true },
+  /* ---- III. Proof ---- */
+  { proof:true, defs:['A > □⊤','B > □⊥','C > (□⊥ → ⊥)'], gloss:'The ladder under the marks is for working. Tap a rung to note T or F.',
+    after:'Of course it proves that the true is true. It is not inconsistent, but it cannot rule that out. It is consistent, and it cannot prove that either. He knows the feeling.' },
+  { proof:true, defs:['T > □T'],
+    after:'Among the names, the truth-teller could be anything it liked. Here it has no choice. It says it can be proved, and so it can. He finds this almost too kind.' },
+  { proof:true, defs:['R > □(R → ⊥)'],
+    after:'It says the book refutes it. That is false. But the book cannot refute it, because that would mean proving itself consistent.' },
+  { proof:true, defs:['A > (□B → ⊥)','B > (□C → ⊥)','C > (□A → ⊥)'],
+    after:'The ring again. Among the names it could never settle. Here every one of them settles, every one is true, and not one of them can be proved.' },
+  { proof:true, defs:['A > □(B → ⊥)','B > (□A → ⊥)'],
+    after:'A says the book refutes B, and it does. B says A cannot be proved, and it can. Not every sentence is lucky.' },
+  { proof:true, defs:['A > □(B → ⊥)','B > (□C → □⊥)','C > (□A → ⊥)'],
+    after:'Three in a ring once more, and each comes out differently. C needed two rungs to make up its mind. He has needed longer, for less.' },
+  // H stands for any sentence the book does not prove; the verdict on C is the same for all of them.
+  { proof:true, defs:['C > (□C → H)'], hidden:['H > (□⊥ → ⊥)'], notes:['H: there is an afterlife.','The book does not prove H.'],
+    after:'If the book proved C, it would prove H, and it does not. So C cannot be proved; and since that is all C asks, C is true. Reason has brought him exactly to the edge.' },
+  { threshold:true },
+  { finale:true }
+];
+const P2 = PAGES.findIndex(p=>p.part===2);
+const BOOK_INTRO = 'Each line A > (...) gives the name A to the sentence after it. A sentence may use its own name, and A > ⊥ says that A is false.';
+const BOOK_OWNED = 'He does not remember buying it. He remembers everything he has ever bought.';
+const P2_LEFT  = 'From here the names are gone. Each page holds a number, and the number has to be made to speak.';
+const P2_RIGHT = 'On each page a machine reads a number and says something back. The rules come one page at a time; in them, X and Y stand for any numbers. A digit with no rule says nothing.';
+const END_LEFT  = 'Now the machine is gone as well. What is left is what the book can prove, and the book writes that as a small square: □.';
+const END_LOCKED = 'The rest of the pages are held shut by a brass clasp, and the clasp is locked.';
+const END_OPEN = 'The clasp hangs open.';
+const P3_LEGEND = 'In this part every sentence settles one of these four ways. None is free; none needs peace.';
+const LADDER_L = ['□S says that the book proves S.',
+  'Picture a ladder. On each rung, □S holds when S held on every rung below. There is nothing below the lowest rung, so there □S always holds.',
+  'What holds on every rung, the book proves. What fails on every rung, it refutes. Anything else settles as you climb, true or false, and the book cannot prove which.'];
+const LADDER_R = 'On the lowest rung □G holds, so G fails. Above it □G fails, so G holds, and goes on holding. G settles true without being true on every rung: true, and not provable.';
+const KNOWS = 'He knows this one. He wrote it in 1931.';
+const THRESH_L = 'Every true and every false in this part rested on one assumption: that whatever the book proves is so. The book cannot prove it, except where it did not need to.';
+const THRESH_DONE = 'The book has taken it. It was not proved, and it never will be. It was given.';
+const FIN_L1 = 'With her sentence the book is stronger, and a stronger book has a new sentence it cannot prove. It goes on like that, all the way up.';
+const FIN_L2 = 'For the first time, this does not frighten him.';
+const FIN_R = 'In the hall, the front door is standing open.';
+const THRESH_R = 'There is room here for one more sentence. The book cannot write it for itself; it would have to come from outside.';
+const CLASP_R = {x:316,y:94,w:60,h:32,id:'clasp',name:'Clasp'};
+const SLOT_R = {x:212,y:40,w:136,h:51,id:'slot',name:'The empty space'};
+const DARK = 'It is now too dark to read.';
+
+/* ---------- Part I logic ---------- */
+const FNAME = ['light','dark','free','peace'];
+const FDESC = ['must be true','must be false','could be either','can be neither'];
+const FATE = [
+  ['....k....','.k.....k.','...kkk...','..kwwwk..','k.kwwwk.k','..kwwwk..','...kkk...','.k.....k.','....k....'],
+  ['...kkk...','.kkkkkkk.','.kkkkkkk.','kkkkkkkkk','kkkkkkkkk','kkkkkkkkk','.kkkkkkk.','.kkkkkkk.','...kkk...'],
+  ['...kkk...','.kkkwwkk.','.kkkwwwk.','kkkkwwwwk','kkkkwwwwk','kkkkwwwwk','.kkkwwwk.','.kkkwwkk.','...kkk...'],
+  ['...kkk...','.kk...kk.','.k.....k.','k.......k','k.......k','k.......k','.k.....k.','.kk...kk.','...kkk...']
+];
+const PREV = ['....k','...kk','..kkk','.kkkk','kkkkk','.kkkk','..kkk','...kk','....k'];
+const NEXTA = ['k....','kk...','kkk..','kkkk.','kkkkk','kkkk.','kkk..','kk...','k....'];
+const DEL = ['...kkkkkk','..kwwwwwk','.kwkwwkwk','kwwwkkwwk','.kwkwwkwk','..kwwwwwk','...kkkkkk'];
+const MARK = ['k..','kk.','kkk','kk.','k..'];
+const LX = 28, LW = 152, RX = 204, COLX = [226,260,294,328], COLX3 = [222,262,300,336];
+const ROW0 = 62, ROWH = 18;
+const PREV_R = {x:24,y:192,w:20,h:20,name:''}, NEXT_R = {x:340,y:192,w:20,h:20,name:''};
+const KEYS = ['1','2','3','4','5','6','7','8','9','C','','del'];
+const keyRect = k => ({ x:RX+2+(k%3)*24, y:118+((k/3)|0)*19, w:21, h:16, name:'' });
+
+function parseDef(src){
+  const toks = src.match(/[A-Z]|⊥|⊤|□|→|>|\(|\)/g); let i=0;
+  const peek=()=>toks[i], next=()=>toks[i++];
+  const prim=()=>{ const t=next(); if(t==='('){ const e=imp(); next(); return e; }
+    if(t==='□') return {k:'box',a:prim()};
+    if(t==='⊥') return {k:'c',v:false}; if(t==='⊤') return {k:'c',v:true}; return {k:'n',n:t}; };
+  const eq=()=>{ const a=prim(); if(peek()==='>'){ next(); return {k:'eq',a,b:eq()}; } return a; };
+  const imp=()=>{ const a=eq(); if(peek()==='→'){ next(); return {k:'imp',a,b:imp()}; } return a; };
+  const name=next(); next();
+  return { name, e:imp() };
+}
+function ev(e,v){ switch(e.k){ case 'c': return e.v; case 'n': return v[e.n];
+  case 'eq': return ev(e.a,v)===ev(e.b,v); case 'imp': return !ev(e.a,v)||ev(e.b,v); } }
+function namesIn(e,out=new Set()){ if(e.k==='n') out.add(e.n); else if(e.a){ namesIn(e.a,out); namesIn(e.b,out); } return out; }
+/* ---------- Part III logic: the ladder. □φ holds on rung n when φ holds on every rung below. ---------- */
+const VNAME = ['proved','refuted','true','false'];
+const VDESC = ['the book proves it','it proves it false','true, but unprovable','false, but irrefutable'];
+const VERD = [
+  ['kkkkkkkkk','k.......k','k.kkkkk.k','k.kkkkk.k','k.kkkkk.k','k.kkkkk.k','k.kkkkk.k','k.......k','kkkkkkkkk'],
+  ['kkkkkkkkk','kk.....kk','k.k...k.k','k..k.k..k','k...k...k','k..k.k..k','k.k...k.k','kk.....kk','kkkkkkkkk'],
+  FATE[0], FATE[1]
+];
+const RUNGS = 24;
+function evL(e,n,V){ switch(e.k){
+  case 'c': return e.v;
+  case 'n': { const v=V[e.n][n]; if (v===undefined) throw 0; return v; }
+  case 'eq': return evL(e.a,n,V)===evL(e.b,n,V);
+  case 'imp': return !evL(e.a,n,V)||evL(e.b,n,V);
+  case 'box': for(let m=0;m<n;m++) if(!evL(e.a,m,V)) return false; return true; } }
+function climb(defs){
+  const ds=defs.map(parseDef), V={}; ds.forEach(d=>V[d.name]=[]);
+  for (let n=0;n<=RUNGS;n++){ let left=ds;
+    for (let pass=0; left.length && pass<=ds.length; pass++) left=left.filter(d=>{ try{ V[d.name][n]=evL(d.e,n,V); return false; }catch(_){ return true; } });
+  }
+  return V;
+}
+function solveProof(i){
+  const p=PAGES[i], V=climb([...(p.hidden||[]), ...p.defs]), order=p.defs.map(d=>parseDef(d).name), fate={};
+  order.forEach(n=>{ const s=V[n]; fate[n] = s.every(x=>x) ? 0 : s.every(x=>!x) ? 1 : s[RUNGS] ? 2 : 3; });
+  return { order, fate };
+}
+const SOLVED = {};
+function solve(i){
+  if (SOLVED[i]) return SOLVED[i];
+  if (PAGES[i].proof) return SOLVED[i] = solveProof(i);
+  const defs = PAGES[i].defs.map(parseDef), order=[];
+  const add=n=>{ if(!order.includes(n)) order.push(n); };
+  defs.forEach(d=>{ add(d.name); namesIn(d.e).forEach(add); });
+  const par={}; order.forEach(n=>par[n]=n);
+  const f=n=>par[n]===n?n:(par[n]=f(par[n]));
+  defs.forEach(d=>namesIn(d.e).forEach(n=>{ par[f(n)]=f(d.name); }));
+  const comps={}; order.forEach(n=>(comps[f(n)]=comps[f(n)]||[]).push(n));
+  const fate={};
+  for (const ns of Object.values(comps)){
+    const ds=defs.filter(d=>ns.includes(d.name)), sols=[];
+    for (let m=0;m<(1<<ns.length);m++){
+      const v={}; ns.forEach((n,j)=>v[n]=!!((m>>j)&1));
+      if (ds.every(d=>ev(d.e,v)===v[d.name])) sols.push(v);
+    }
+    ns.forEach(n=>{
+      if (!sols.length) fate[n]=3;
+      else { const t=sols.some(s=>s[n]), fl=sols.some(s=>!s[n]); fate[n] = t&&fl ? 2 : (t ? 0 : 1); }
+    });
+  }
+  return SOLVED[i] = { order, fate };
+}
+
+/* ---------- page state ---------- */
+const inputOf = i => S.book.inputs[i] || '';
+function settled(i){
+  const p=PAGES[i];
+  if (p.rules) return p.check(inputOf(i), p.rules);
+  if (!p.defs) return false;
+  const {order,fate}=solve(i), m=S.book.marks[i]||{};
+  return order.every(n=>m[n]===fate[n]);
+}
+const complete = i => { const {order}=solve(i), m=S.book.marks[i]||{}; return order.every(n=>m[n]!=null); };
+const canNext = i => i<PAGES.length-1 && (PAGES[i].title || PAGES[i].part || PAGES[i].intro3 || (PAGES[i].end ? S.flags.clasp==='open' : PAGES[i].threshold ? S.flags.note==='book' : settled(i)));
+function opened(){ if (settled(S.book.page)) S.book.max=Math.max(S.book.max,S.book.page+1); save(); }
+function mark(i,n,j){ if (settled(i)) return; (S.book.marks[i] = S.book.marks[i] || {})[n]=j; opened(); }
+function typeKey(i,k){
+  if (settled(i)) return;
+  let s=inputOf(i);
+  if (k==='del') s=s.slice(0,-1); else if (k==='C') s=''; else if (/^[1-9]$/.test(k) && s.length<16) s+=k;
+  S.book.inputs[i]=s; opened();
+}
+function turn(d){
+  const i=S.book.page;
+  if (d<0 && i>0) S.book.page--;
+  else if (d>0 && canNext(i)){ S.book.page++; S.book.max=Math.max(S.book.max,S.book.page); }
+  else return;
+  save(); arrive();
+}
+function arrive(){
+  checkBlackout();
+  if (S.room!=='book' || S.mode!=='room') return;
+  const p=PAGES[S.book.page];
+  if (p.end && S.flags.clasp==='unseen'){ S.flags.clasp='seen'; save(); }
+  if (p.threshold && S.flags.thresh!=='seen'){ S.flags.thresh='seen'; save(); }
+  if (p.finale && S.flags.door!=='open'){ S.flags.door='open'; refresh(); }
+}
+function drawClasp(){
+  box(318,100,58,18,C.G); for(let x=322;x<372;x+=3) px(x,102,C.L), px(x,115,C.L);
+  rrect(324,95,24,28,3,C.L); rrect(327,98,18,22,2,C.P,C.G);
+  oval(333,103,6,6,C.K); rect(335,108,2,6,C.K);
+}
+function checkBlackout(){
+  if (S.room==='book' && S.mode==='room' && S.book.page>=P2 && S.flags.lamp==='on'){
+    S.flags.lamp='dead'; refresh();
+    openDialog('blackout',{x:150,y:60,w:84,h:20});
+  }
+}
+
+/* ---------- what the machine shows ---------- */
+function clip(s){ if (measure(s)<=150) return s; while (s.length && measure(s+'...')>150) s=s.slice(0,-1); return s+'...'; }
+function said(a){ return a==null ? ['→ nothing',C.G] : a===LONG ? ['→ more than the page will hold',C.G] : [clip('→ '+a),C.K]; }
+function machineLines(i){
+  const p=PAGES[i], x=inputOf(i), R=p.rules, out=[];
+  if (!x) return out;
+  if (p.back){ const r=rev(x); out.push([clip('backwards: '+r),C.D]); out.push(said(say(r,R))); return out; }
+  let curr=x;
+  for (let k=0;k<(p.steps||1);k++){
+    const a=say(curr,R); out.push(said(a));
+    if (typeof a!=='string') break;
+    const nx=a.replace(/^¬+/,''); if (!isNum(nx)) break;
+    curr=nx;
+  }
+  return out;
+}
+
+/* ---------- drawing ---------- */
+function drawBookBg(){
+  rect(0,SY,W,208,C.G);
+  for(let y=SY+4;y<224;y+=9) for(let x=0;x<W;x++) if(((x*7+y*3)%23)<14) px(x,y,C.D);
+  fillFn(0,SY,W,208,(x,y)=> (((x-192)/230)**2+((y-118)/124)**2<1 && bay(x,y)<4) ? C.L : null);
+  rrect(10,20,364,200,4,C.D);
+  frame(13,26,3,186); rect(14,27,1,184,C.L); frame(368,26,3,186); rect(369,27,1,184,C.L);
+  box(16,24,176,190,C.W); box(192,24,176,190,C.W);
+  fillFn(176,25,32,188,(x,y)=> bay(x,y) < Math.max(0, 9-Math.abs(x-191.5)*0.6) ? C.L : null);
+  rect(191,24,2,190,C.G);
+}
+function para(s,x,y,c,w=150){ const ls=wrap(s,w); ls.forEach((l,k)=>text(l,x,y+k*12,c)); return y+ls.length*12; }
+function centre(s,y,c,bold=false,sc=1){ text(s,LX+((LW-measure(s,bold)*sc)>>1),y,c,bold,sc); }
+function drawRules(p,i,y){
+  const prev=(PAGES[i-1]&&PAGES[i-1].rules)||[], fresh=p.rules.find(r=>!prev.includes(r));
+  const line=(s,x,r)=>{ if (r===fresh) spr(MARK,LX-6,y+3); text(s,x,y,C.K); y+=12; };
+  if (p.rules.includes(2)) line('2X says X.',LX+2,2);
+  const ops=[3,4,5].filter(r=>p.rules.includes(r));
+  if (ops.length){
+    line('If X says Y, then',LX+2,null);
+    const T={3:'3X says Y2Y.',4:'4X says ¬Y.',5:'5X says Y backwards.'};
+    ops.forEach(r=>line(T[r],LX+12,r));
+  }
+  return y;
+}
+function drawKey(k){
+  const r=keyRect(k), ch=KEYS[k]; if (!ch) return;
+  rect(r.x+2,r.y+r.h,r.w-2,1,C.K); rect(r.x+r.w,r.y+2,1,r.h-2,C.K);
+  rrect(r.x,r.y,r.w,r.h,2,C.W);
+  if (ch==='del') spr(DEL,r.x+6,r.y+5); else text(ch,r.x+((r.w-measure(ch))>>1),r.y+2,C.K);
+}
+function drawBookPage(){
+  const i=S.book.page, p=PAGES[i];
+  if (p.title){
+    centre('Antiquine',62,C.K,true,2);
+    centre('I. Names',96,C.D);
+    para(BOOK_OWNED,LX+2,150,C.D,148);
+    let y=para(BOOK_INTRO,RX,30,C.K);
+    y+=12;
+    FATE.forEach((f,j)=>{ spr(f,RX+2,y+j*16); text(FNAME[j]+': '+FDESC[j],RX+16,y+j*16-1,C.K); });
+    para('Mark each name. When the marks are right, the page settles.',RX,y+70,C.D);
+  } else if (p.part){
+    centre('II. Numbers',62,C.K,true,2);
+    para(P2_LEFT,LX+2,100,C.D,148);
+    para(P2_RIGHT,RX,30,C.K);
+    para('Type on the keys. When it says the right thing, the page settles.',RX,128,C.D);
+    centre(String(i),200,C.G);
+  } else if (p.end){
+    centre('III. Proof',62,C.K,true,2);
+    para(END_LEFT,LX+2,100,C.D,148);
+    const open=S.flags.clasp==='open';
+    if (!open){ para(END_LOCKED,RX,40,C.D); drawClasp(); }
+    else {
+      text(END_OPEN,RX,30,C.D);
+      VERD.forEach((f,j)=>{ const y=50+j*22; spr(f,RX+2,y); text(VNAME[j],RX+16,y-1,C.K,true); text(VDESC[j],RX+16,y+10,C.D); });
+      para(P3_LEGEND,RX,146,C.D);
+    }
+    centre(String(i),200,C.G);
+  } else if (p.intro3){
+    centre('III. Proof',28,C.G);
+    let y=46; LADDER_L.forEach((s,k)=>{ y=para(s,LX+2,y,k?C.D:C.K,148)+6; });
+    centre(String(i),200,C.G);
+    text('G > (□G → ⊥)',RX+2,30,C.K);
+    const G=climb(['G > (□G → ⊥)']).G;
+    text('rung',RX+2,48,C.G); text('□G',RX+2,60,C.K); text('G',RX+2,72,C.K,true);
+    for (let k=0;k<5;k++){ const x=RX+42+k*20; text(String(k),x,48,C.G); text(G.slice(0,k).every(v=>v)?'T':'F',x,60,C.K); text(G[k]?'T':'F',x,72,C.K,true); }
+    text('...',RX+142,72,C.G);
+    const y2=para(LADDER_R,RX+2,90,C.K,150);
+    para(KNOWS,RX+2,y2+8,C.D,150);
+  } else if (p.threshold){
+    centre('III. Proof',28,C.G);
+    text('□X → X',LX+2,46,C.K);
+    para(THRESH_L,LX+2,66,C.D,148);
+    centre(String(i),200,C.G);
+    for (let x=RX+8;x<RX+144;x+=4){ rect(x,40,2,1,C.G); rect(x,90,2,1,C.G); }
+    for (let y=40;y<91;y+=4){ rect(RX+8,y,1,2,C.G); rect(RX+143,y,1,2,C.G); }
+    if (S.flags.note==='book'){
+      rect(RX+37,51,88,36,C.K); box(RX+34,48,88,36,C.W);
+      itext('Kurt, iss was.',RX+42,52,C.K); itext('Eat something.',RX+42,67,C.K);
+      para(THRESH_DONE,RX+2,104,C.K,150);
+    } else para(THRESH_R,RX+2,104,C.D,150);
+  } else if (p.finale){
+    for (const ox of [-8,8]){ const x=LX+(LW>>1)+ox-5; rect(x,54,11,2,C.K); rect(x+4,54,3,22,C.K); rect(x,74,11,2,C.K); }
+    const y=para(FIN_L1,LX+2,100,C.D,148);
+    para(FIN_L2,LX+2,y+8,C.K,148);
+    centre(String(i),200,C.G);
+    spr(FATE[3],RX+71,60);
+    para(FIN_R,RX+2,96,C.D,150);
+  } else if (p.rules){
+    const done=settled(i), x=inputOf(i);
+    centre('II. Numbers',28,C.G);
+    let y=drawRules(p,i,46)+6;
+    rect(LX+2,y,20,1,C.L);
+    para(p.task,LX+2,y+8,C.K,148);
+    centre(String(i),200,C.G);
+    // the machine
+    box(RX,30,152,15,C.W);
+    if (x) text(x,RX+4,31,C.K); else if (!done) text('Type a number.',RX+4,31,C.G);
+    if (!done){ const cx = x ? RX+5+measure(x) : RX+3; rect(cx,33,1,9,C.K); }
+    const ls=machineLines(i);
+    ls.forEach(([s,c],k)=>text(s,RX+2,50+k*12,c));
+    if (done){
+      const sy=50+ls.length*12+6;
+      text('The page settles.',RX+2,sy,C.K);
+      rect(RX+2,sy+17,20,1,C.L);
+      para(p.after,RX+2,sy+24,C.K,150);
+    } else KEYS.forEach((_,k)=>drawKey(k));
+  } else {
+    const {order}=solve(i), m=S.book.marks[i]||{}, done=settled(i);
+    const ICONS = p.proof ? VERD : FATE, NAMES = p.proof ? VNAME : FNAME, CX = p.proof ? COLX3 : COLX;
+    centre(p.proof ? 'III. Proof' : 'I. Names',28,C.G);
+    let y=46;
+    p.defs.forEach(d=>{ text(d,LX+2,y,C.K); y+=16; });
+    (p.notes||[]).forEach(nt=>{ text(nt,LX+2,y,C.D); y+=12; });
+    if (p.gloss){ y+=4; y=para(p.gloss,LX+2,y,C.G,148); }
+    if (done){ y+=6; rect(LX+2,y,24,1,C.K); y=para(p.after,LX+2,y+6,C.K,148); }
+    centre(String(i),200,C.G);
+    ICONS.forEach((f,j)=>{ spr(f,CX[j],30); text(NAMES[j],CX[j]+4-(measure(NAMES[j])>>1),40,C.D); });
+    rect(RX,54,152,1,C.L);
+    order.forEach((n,r)=>{
+      const ry=ROW0+r*ROWH;
+      if (S.bookKb && S.book.row===r && !done){ px(RX-4,ry+3,C.K); px(RX-4,ry+4,C.K); px(RX-4,ry+5,C.K); px(RX-3,ry+4,C.K); }
+      text(n,RX+2,ry-1,C.K,true);
+      ICONS.forEach((f,j)=>{ spr(f,CX[j],ry); if (m[n]===j) frame(CX[j]-2,ry-2,13,13,done?C.D:C.K); });
+    });
+    if (complete(i)){
+      const sy=ROW0+order.length*ROWH+6;
+      text(done?'The page settles.':'The page will not settle.',RX+2,sy,done?C.K:C.G);
+    }
+    if (p.proof) drawLadder(i,order);
+  }
+  if (i>0) spr(PREV,PREV_R.x+8,PREV_R.y+5);
+  if (canNext(i)) spr(NEXTA,NEXT_R.x+7,NEXT_R.y+5);
+  if (!lampOn()){
+    darken(4,10,18,218,8,376);
+    text(DARK,(W-measure(DARK))>>1,112,C.L);
+  }
+}
+
+/* ---------- input ---------- */
+function cellAt(x,y){
+  const i=S.book.page; if (!PAGES[i].defs || settled(i)) return null;
+  const {order}=solve(i);
+  for (let r=0;r<order.length;r++) for (let j=0;j<4;j++){
+    const c={x:(PAGES[i].proof?COLX3:COLX)[j]-4,y:ROW0+r*ROWH-4,w:17,h:17,name:''};
+    if (hit(c,x,y)) return {r,j,n:order[r],rect:c};
+  }
+  return null;
+}
+const LAD_Y = 138;
+const ladRect = (r,k) => ({ x:RX+38+k*18, y:LAD_Y+12+r*12-1, w:14, h:11, name:'' });
+function drawLadder(i,order){
+  const L=(S.book.ladder||{})[i]||{};
+  text('rungs',RX+2,LAD_Y,C.G);
+  for (let k=0;k<6;k++) text(String(k),RX+43+k*18,LAD_Y,C.G);
+  order.forEach((n,r)=>{
+    text(n,RX+2,LAD_Y+12+r*12-1,C.K,true);
+    for (let k=0;k<6;k++){ const c=ladRect(r,k), v=(L[n]||'')[k];
+      frame(c.x,c.y,c.w,c.h,C.L); if (v==='T'||v==='F') text(v,c.x+4,c.y-1,C.K); }
+  });
+}
+function ladderAt(x,y){
+  const i=S.book.page; if (!PAGES[i].proof) return null;
+  const {order}=solve(i);
+  for (let r=0;r<order.length;r++) for (let k=0;k<6;k++){ const c=ladRect(r,k); if (hit(c,x,y)) return {n:order[r],k,rect:c}; }
+  return null;
+}
+function keyAt(x,y){
+  const i=S.book.page; if (!PAGES[i].rules || settled(i)) return null;
+  for (let k=0;k<KEYS.length;k++) if (KEYS[k] && hit(keyRect(k),x,y)) return k;
+  return null;
+}
+function bookClick(x,y){
+  if (!lampOn()) return;
+  const i=S.book.page;
+  if (i>0 && hit(PREV_R,x,y)) return turn(-1);
+  if (canNext(i) && hit(NEXT_R,x,y)) return turn(1);
+  if (PAGES[i].end && S.flags.clasp!=='open' && hit(CLASP_R,x,y)){ if (S.held) useOn(S.held,'clasp',CLASP_R); else openDialog('clasp',CLASP_R); return; }
+  if (PAGES[i].threshold && S.flags.note!=='book' && hit(SLOT_R,x,y)){ if (S.held) useOn(S.held,'slot',SLOT_R); else openDialog('slot',SLOT_R); return; }
+  const k=keyAt(x,y); if (k!=null) return typeKey(i,KEYS[k]);
+  const lc=ladderAt(x,y);
+  if (lc){ const L=(S.book.ladder=S.book.ladder||{}), P=(L[i]=L[i]||{}); const s=(P[lc.n]||'......').split('');
+    s[lc.k] = s[lc.k]==='T' ? 'F' : s[lc.k]==='F' ? '.' : 'T'; P[lc.n]=s.join(''); save(); return; }
+  const c=cellAt(x,y); if (c){ S.book.row=c.r; mark(i,c.n,c.j); }
+}
+function bookHover(x,y){
+  if (!lampOn()) return null;
+  const i=S.book.page;
+  if ((i>0 && hit(PREV_R,x,y)) || (canNext(i) && hit(NEXT_R,x,y))) return PREV_R;
+  if (PAGES[i].end && S.flags.clasp!=='open' && hit(CLASP_R,x,y)) return CLASP_R;
+  if (PAGES[i].threshold && S.flags.note!=='book' && hit(SLOT_R,x,y)) return SLOT_R;
+  const k=keyAt(x,y); if (k!=null) return keyRect(k);
+  const lc=ladderAt(x,y); if (lc) return lc.rect;
+  const c=cellAt(x,y); return c ? c.rect : null;
+}
+function bookKey(e){
+  if (!lampOn()) return false;
+  const i=S.book.page, p=PAGES[i];
+  if (e.key==='ArrowLeft'){ turn(-1); return true; }
+  if (e.key==='ArrowRight'){ turn(1); return true; }
+  if (p.rules){
+    if (/^[1-9]$/.test(e.key)){ typeKey(i,e.key); return true; }
+    if (e.key==='Backspace'){ typeKey(i,'del'); return true; }
+    if (e.key==='Delete'){ typeKey(i,'C'); return true; }
+    return false;
+  }
+  if (!p.defs) return false;
+  const {order}=solve(i);
+  if (e.key==='ArrowUp'||e.key==='ArrowDown'){
+    S.bookKb=true; S.book.row=((S.book.row||0)+(e.key==='ArrowDown'?1:-1)+order.length)%order.length; return true;
+  }
+  if (['1','2','3','4'].includes(e.key)){ S.bookKb=true; const r=Math.min(S.book.row||0,order.length-1); mark(i,order[r],+e.key-1); return true; }
+  return false;
+}
+function bookReadout(){
+  if (!lampOn()) return ['Antiquine', DARK];
+  const i=S.book.page, p=PAGES[i];
+  if (p.title) return ['Antiquine', 'I. Names. '+BOOK_INTRO+' Mark each name light, dark, free or peace. Up and down choose a name, 1 to 4 mark it, left and right turn the pages.'];
+  if (p.part) return ['Antiquine', 'II. Numbers. '+P2_LEFT+' '+P2_RIGHT+' Type digits, Backspace to delete, left and right turn the pages.'];
+  if (p.end) return ['Antiquine', 'III. Proof. '+END_LEFT+' '+(S.flags.clasp==='open' ? END_OPEN+' '+VNAME.map((v,j)=>v+': '+VDESC[j]).join('; ')+'. '+P3_LEGEND : END_LOCKED)];
+  if (p.intro3) return ['Antiquine', 'III. Proof. '+LADDER_L.join(' ').replace(/□/g,'box ')+' Worked example: G names: box G implies false. '+LADDER_R.replace(/□/g,'box ')+' '+KNOWS];
+  if (p.threshold) return ['Antiquine', 'III. Proof. Box X implies X. '+THRESH_L+' '+(S.flags.note==='book' ? 'In the space, in her hand: Kurt, iss was. Eat something. '+THRESH_DONE : THRESH_R)];
+  if (p.finale) return ['Antiquine', 'II. '+FIN_L1+' '+FIN_L2+' '+FIN_R];
+  if (p.rules){
+    const rules=[]; if (p.rules.includes(2)) rules.push('2X says X.');
+    [[3,'If X says Y, 3X says Y2Y.'],[4,'If X says Y, 4X says not Y.'],[5,'If X says Y, 5X says Y backwards.']].forEach(([r,s])=>{ if(p.rules.includes(r)) rules.push(s); });
+    let b=rules.join(' ')+' Task: '+p.task.replace(/¬/g,'not ')+' Typed: '+(inputOf(i)||'nothing')+'. '+machineLines(i).map(l=>l[0].replace('→','says').replace(/¬/g,'not ')).join('; ')+'.';
+    if (settled(i)) b+=' The page settles. '+p.after;
+    return ['Antiquine, page '+i, b];
+  }
+  const {order}=solve(i), m=S.book.marks[i]||{};
+  const NAMES = p.proof ? VNAME : FNAME;
+  let b=p.defs.join('; ').replace(/□/g,'box ')+'. '+(p.notes||[]).join(' ')+' Marks: '+order.map(n=>n+' '+(m[n]!=null?NAMES[m[n]]:'unmarked')).join(', ')+'.';
+  if (settled(i)) b+=' The page settles. '+p.after; else if (complete(i)) b+=' The page will not settle.';
+  return ['Antiquine, page '+i, b];
+}
+// ending.js — the walk, and the last card.
+const WALK = [
+  'The street is white with moonlight. At the gate, Einstein is waiting in his old sweater, as though no time had passed. For him, perhaps, none has.',
+  "'You have left your overcoat,' says Einstein. 'It is not cold,' says Gödel, and finds that it is true.",
+  'They set off towards the Institute, and take up the conversation where they left it, in the middle of a sentence.',
+  'Not light, then. Peace.'
+];
+const CODA = 'Kurt Gödel died in Princeton Hospital on 14 January 1978, of malnutrition and inanition. When Adele came home from her own six months in hospital, she took him there herself.';
+const START_R = { x:142, y:212, w:100, h:15 };
+const GODEL_SPR = [
+  '...kkk...', '..kkkkk..', '.kkkkkkk.', '...kdk...', '...kkk...', '..kkkkk..', '.kkkkkkk.', '.kkkkkkk.',
+  '.kkkkkkk.', '.kkkkkkk.', '..kkkkk..', '..kk.kk..', '..kk.kk..', '..kk.kk..', '..k...k..', '..k...k..' ];
+const EINSTEIN_SPR = [
+  '..kkkkk..', '.klllllk.', 'klllllllk', 'klllllllk', '.klllllk.', '..kkkkk..', '.kdddddk.', 'kdddddddk',
+  'kdddddddk', 'kdddddddk', '.kdddddk.', '..kk.kk..', '..kk.kk..', '..kk.kk..', '..k...k..', '..k...k..' ];
+
+function drawWalk(){
+  fillFn(0,0,W,118,(x,y)=> bay(x,y) < 1+Math.floor(y/28) ? C.D : C.K);
+  for (const [x,y] of [[30,14],[64,40],[112,22],[150,60],[214,12],[248,44],[352,70],[20,80],[180,34],[330,96]]) px(x,y,C.W);
+  oval(292,18,28,28,C.P,null); oval(296,20,22,22,C.W,null);
+  for (let x=0;x<W;x++){ const h=Math.round(6+4*Math.sin(x*0.09)+3*Math.sin(x*0.23+1)); rect(x,110-h,1,h+8,C.K); }
+  fillFn(0,118,W,138,(x,y)=> bay(x,y) < 2+((y-118)>>5) ? C.G : C.D);
+  poly([[189,117],[195,117],[300,256],[84,256]],(x,y)=> bay(x,y) < 12 ? C.W : C.P, null);
+  for (const gx of [60,322]){ box(gx,176,6,48,C.L); box(gx-1,172,8,5,C.W); }
+  for (let x=0;x<60;x+=8){ box(x,190,4,30,C.L); } for (let x=330;x<W;x+=8){ box(x,190,4,30,C.L); }
+  rect(0,196,60,2,C.L); rect(330,196,W-330,2,C.L);
+  spr(GODEL_SPR,180,148); spr(EINSTEIN_SPR,194,148);
+  // the caption
+  const lines=wrap(WALK[S.walk],332);
+  const bh=lines.length*12+14, by=246-bh;
+  fillFn(19,by+3,348,bh,(x,y)=>((x+y)&1)?C.K:null);
+  rrect(16,by,348,bh,3,C.W);
+  lines.forEach((l,k)=>text(l,26,by+5+k*12,C.K));
+  if (S.walk<WALK.length-1){ const x=350, y=by+bh-8; rect(x,y,5,1,C.K); rect(x+1,y+1,3,1,C.K); px(x+2,y+2,C.K); }
+}
+function drawEnd(){
+  rect(0,0,W,H,C.W); frame(5,5,W-10,H-10); frame(8,8,W-16,H-16,C.L);
+  const t='Antiquine', tw=measure(t,true)*3;
+  text(t,(W-tw)>>1,30,C.K,true,3);
+  const s='Princeton, 1977'; text(s,(W-measure(s))>>1,78,C.D);
+  spr(FATE[3],(W-9)>>1,100);
+  wrap(CODA,300).forEach((l,k)=>text(l,(W-measure(l))>>1,124+k*12,C.D));
+  const label = S.resetArm ? 'Tap again to forget everything' : 'Start over';
+  const lw=measure(label)+16; START_R.w=lw; START_R.x=(W-lw)>>1;
+  rrect(START_R.x,START_R.y,lw,START_R.h,3,C.W,S.resetArm?C.K:C.G);
+  text(label,START_R.x+8,START_R.y+1,S.resetArm?C.K:C.G);
+}
+// main.js — screen, chrome, balloons, pocket, input.
+const cv = document.getElementById('screen');
+const ctx = cv.getContext('2d');
+const ro = document.getElementById('readout');
+const NEXT  = { study:'kitchen', kitchen:'hall', hall:'study', fridge:'kitchen', book:'study' };
+const LABEL = { study:'Study', kitchen:'Kitchen', hall:'Hallway', fridge:'Refrigerator', book:'Antiquine', notes:'Notes' };
+const DRAW  = { study:drawStudy, kitchen:drawKitchen, hall:drawHall, fridge:drawFridge, book:drawBookBg };
+const TRAY  = [ {to:'study',x:8}, {to:'kitchen',x:60}, {to:'hall',x:112}, {to:'notes',x:164} ];
+const POCKET = { x:236, y:228, w:140, h:25 };
+const S = { mode:'title', room:'study', dialog:null, hover:null, kb:-1, pk:-1, held:null, seen:new Set(), bookKb:false,
+  book:{ page:0, max:0, row:0, marks:{}, inputs:{} },
+  flags:null, walk:0, resetArm:false };
+const FLAGS0 = { lamp:'on', bulb:'fridge', matches:'basket', oven:'cold', letter:'mat', tin:'none', apron:'hook', key:'none', clasp:'unseen',
+  thresh:'unseen', note:'fridge', door:'shut', hat:'rack', ended:false };
+S.flags = { ...FLAGS0 };
+
+const HELP = [
+  '..kkkkkkk..', '.kwwwwwwwk.', 'kwwwkkkwwwk', 'kwwkwwwkwwk', 'kwwwwwwkwwk', 'kwwwwwkwwwk',
+  'kwwwwkwwwwk', 'kwwwwwwwwwk', 'kwwwwkwwwwk', '.kwwwwwwwk.', '..kkkkkkk..' ];
+const HAND = [
+  '..kkkkk.......', '.kwwwwwkkkkkkk', 'kwwwwwwwwwwwwk', 'kwwwwwkkkkkkk.',
+  'kwwwwwwwk.....', 'kwwwwwkk......', 'kwwwwwwk......', '.kkkkkk.......' ];
+const ITEM_SPR = {
+  bulb: [ '..kkkkk..', '.kwwwwwk.', 'kwwwwwwwk', 'kwwwwwwwk', 'kwwkwkwwk', 'kwwwkwwwk', '.kwwkwwk.',
+          '..kwkwk..', '..kkkkk..', '..kgggk..', '..kkkkk..', '..kgggk..', '...kkk...' ],
+  matches: [ 'kkkkkkkkkkkk', 'kddddddddddk', 'kwwwwwwwwwwk', 'kwwkkkkkkwwk', 'kwwkwwwwkwwk',
+             'kwwkkkkkkwwk', 'kwwwwwwwwwwk', 'kddddddddddk', 'kkkkkkkkkkkk' ],
+  vletter: [ 'kkkkkkkkkkkkk', 'kkwwwwwwwwwkk', 'kwkwwwwwwwkwk', 'kwwkwwwwwkwwk', 'kwwwkwwwkwwwk',
+             'kwwwwkkkwwwwk', 'kwwwwwwwwwwwk', 'kwwwwwwwwwwwk', 'kkkkkkkkkkkkk' ],
+  tin: [ '.kkkkkkkkkkk.', 'kgggggggggggk', 'klllllllllllk', 'kllllllkllllk', 'klllllllllllk', 'kgggggggggggk', '.kkkkkkkkkkk.' ],
+  apronItem: [ '...kkkkk...', '...kwwwk...', '...kwwwk...', '..kkwwwkk..', '.kwwwwwwwk.', 'kwwwwwwwwwk',
+               'kwwkkkkkwwk', 'kwwkwwwkwwk', 'kwwkkkkkwwk', 'kwwwwwwwwwk', 'kwwwwwwwwwk', 'kkkkkkkkkkk' ],
+  key: [ '.kkk.........', 'kwwwkkkkkkkkk', 'kwkwwwwwwwwwk', 'kwwwkkkkkwwwk', '.kkk.....kkk.' ],
+  noteItem: [ 'kkkkkkkkkk.', 'kwwwwwwwwkk', 'kwkkwkkkwwk', 'kwwwwwwwwwk', 'kwkkkwkkwwk', 'kwwwwwwwwwk', 'kwkkwkwwwwk', 'kwwwwwwwwwk', 'kkkkkkkkkkk' ],
+  hatItem: [ '....kkkkk....', '...kgggggk...', '...kgggggk...', '...kkkkkkk...', '.kkgggggggkk.', 'kgggggggggggk', '.kkkkkkkkkkk.' ]
+};
+
+// ---- rooms are painted once into their own canvases, and repainted when something changes
+const cache = {};
+function room(name){
+  if (!cache[name]){
+    const c = document.createElement('canvas'); c.width=W; c.height=H;
+    use(c.getContext('2d')); SPOTS=[]; DRAW[name]();
+    cache[name] = { cv:c, spots:SPOTS };
+    use(ctx);
+  }
+  return cache[name];
+}
+function invalidate(){ for (const k in cache) delete cache[k]; }
+function refresh(){ invalidate(); save(); }
+const ALL = [];
+for (const r of Object.keys(DRAW)) for (const s of room(r).spots) if (TEXT[s.id] && !ALL.includes(s.id)) ALL.push(s.id);
+
+const cur = () => S.mode==='notes' ? 'notes' : S.room;
+const navTarget = () => S.mode==='notes' ? S.room : NEXT[S.room];
+const hit = (r,x,y) => r && x>=r.x && y>=r.y && x<r.x+r.w && y<r.y+r.h;
+const nameOf = h => h.name || TEXT[h.id].name;
+const shortOf = id => TEXT[id].short || TEXT[id].name.toLowerCase();
+const pocketItems = () => ITEMS.filter(id=>IN_POCKET[id](S.flags))
+  .map((id,k)=>({ id, x:POCKET.x+3+k*27, y:POCKET.y, w:26, h:25, name:TEXT[id].name, pocket:true }));
+
+// ---- chrome
+function navRect(){ const t=LABEL[navTarget()]; const tw=measure(t); return { x:W-6-tw-18, y:0, w:tw+24, h:15, name:'' }; }
+function helpRect(){ return { x:0, y:0, w:22+measure(LABEL[cur()],true), h:15, name:'' }; }
+function drawBar(){
+  rect(0,0,W,15,C.W); rect(0,15,W,1,C.K);
+  spr(HELP,3,2); text(LABEL[cur()],18,2,C.K,true);
+  const t=LABEL[navTarget()], tw=measure(t);
+  text(t,W-6-tw,2); spr(HAND,W-6-tw-18,4);
+  if (S.dialog) return;
+  const h=S.hover; let mid='';
+  if (S.held){
+    if (h && h.id===S.held) mid='Put the '+shortOf(S.held)+' away';
+    else mid='Use '+shortOf(S.held)+' on'+(h && h.name!=='' && !h.nav ? ' '+nameOf(h) : '...');
+  } else if (h && h.name!=='') mid=nameOf(h);
+  if (mid) text(mid,(W-measure(mid))>>1,2,C.D);
+}
+const ICON = {
+  study(cx,cy){ poly([[cx-9,cy-12],[cx-3,cy-12],[cx-1,cy-8],[cx-11,cy-8]],C.D); rect(cx-6,cy-8,1,6,C.K);
+    box(cx-12,cy-2,25,4,C.L); box(cx-11,cy+2,6,9,C.G); box(cx+6,cy+2,6,9,C.G); },
+  kitchen(cx,cy){ rrect(cx-7,cy-11,14,23,3,C.W); rect(cx-6,cy-4,12,1,C.K); rect(cx+3,cy-9,1,3,C.K); rect(cx+3,cy-1,1,6,C.K); },
+  hall(cx,cy){ box(cx-7,cy-11,14,23,C.G); box(cx-5,cy-9,5,8,C.L); box(cx+1,cy-9,5,8,C.L); box(cx-5,cy+1,5,8,C.L); box(cx+1,cy+1,5,8,C.L); },
+  notes(cx,cy){ box(cx-7,cy-11,16,23,C.W); for(let y=cy-6;y<cy+10;y+=3) rect(cx-4,y,11,1,C.L); for(let y=cy-9;y<cy+11;y+=3) px(cx-9,y,C.K), px(cx-8,y,C.K); }
+};
+function drawTray(){
+  rect(0,224,W,32,C.L); rect(0,224,W,1,C.K); rect(0,225,W,1,C.W);
+  for (const t of TRAY){
+    const on = (S.mode==='notes' && t.to==='notes') || (S.mode!=='notes' && (t.to===S.room || (t.to==='kitchen' && S.room==='fridge') || (t.to==='study' && S.room==='book')));
+    if (on) box(t.x,228,48,25,C.W);
+    ICON[t.to](t.x+24,240);
+  }
+  // the pocket: a recessed well
+  const P=POCKET;
+  rect(P.x,P.y,P.w,P.h,C.P); rect(P.x,P.y,P.w,1,C.G); rect(P.x,P.y,1,P.h,C.G);
+  rect(P.x,P.y+P.h-1,P.w,1,C.W); rect(P.x+P.w-1,P.y,1,P.h,C.W);
+  const items=pocketItems();
+  if (!items.length){ const s='Pocket'; text(s,P.x+((P.w-measure(s))>>1),P.y+7,C.G); }
+  for (const it of items){
+    const sp=ITEM_SPR[it.id];
+    if (S.held===it.id){ box(it.x+1,it.y+2,it.w-2,it.h-4,C.W); frame(it.x+2,it.y+3,it.w-4,it.h-6); }
+    spr(sp, it.x+((it.w-sp[0].length)>>1), it.y+((it.h-sp.length)>>1));
+  }
+}
+function corners(s){
+  const x0=Math.max(0,s.x-1), y0=Math.max(16,s.y-1), x1=Math.min(W-1,s.x+s.w), y1=Math.min(255,s.y+s.h);
+  const pc=(x,y)=>px(x,y,((x+y)&1)?C.K:C.W);
+  for(let i=0;i<4;i++){ pc(x0+i,y0); pc(x0,y0+i); pc(x1-i,y0); pc(x1,y0+i); pc(x0+i,y1); pc(x0,y1-i); pc(x1-i,y1); pc(x1,y1-i); }
+}
+
+// ---- balloon, with an optional button (Eat, Take, Use)
+const showAct = d => d.act && !d.used && d.page===d.pages.length-1;
+function layout(){
+  const d=S.dialog, t=TEXT[d.id];
+  const lines=wrap(d.pages[d.page],200);
+  const act = showAct(d), aw = act ? measure(d.act.label)+16 : 0;
+  const bw = Math.max(measure(t.name,true), ...lines.map(l=>measure(l)), aw) + 16;
+  const bh = 22 + lines.length*12 + (act?18:0) + 2;
+  const sp=d.spot, scx=sp.x+sp.w/2;
+  const bx = Math.max(6, Math.min(W-6-bw, Math.round(scx-bw/2)));
+  const below = sp.y+sp.h/2 < 110;
+  let by = below ? sp.y+sp.h+9 : sp.y-bh-9;
+  by = Math.max(20, Math.min(218-bh, by));
+  const tx = Math.max(bx+8, Math.min(bx+bw-9, Math.round(scx)));
+  return { lines, bx, by, bw, bh, below, tx, actRect: act ? {x:bx+8,y:by+bh-19,w:aw,h:13} : null };
+}
+function drawDialog(){
+  const d=S.dialog, t=TEXT[d.id], L=layout();
+  d.actRect = L.actRect;
+  const {bx,by,bw,bh,tx}=L;
+  fillFn(bx+3,by+3,bw,bh,(x,y)=>((x+y)&1)?C.K:null);
+  rrect(bx,by,bw,bh,3,C.W);
+  if (L.below){ poly([[tx-5,by+1],[tx+5,by+1],[tx,by-7]],C.W); rect(tx-3,by,7,1,C.W); }
+  else { poly([[tx-5,by+bh-1],[tx+5,by+bh-1],[tx,by+bh+7]],C.W); rect(tx-3,by+bh-1,7,1,C.W); }
+  text(t.name,bx+8,by+4,C.K,true);
+  L.lines.forEach((l,i)=>text(l,bx+8,by+18+i*12));
+  if (d.page < d.pages.length-1){ const x=bx+bw-11, y=by+bh-8; rect(x,y,5,1,C.K); rect(x+1,y+1,3,1,C.K); px(x+2,y+2,C.K); }
+  if (L.actRect){
+    const e=L.actRect, off=d.act.off;
+    if (!off){ rect(e.x+2,e.y+e.h,e.w-2,1,C.K); rect(e.x+e.w,e.y+2,1,e.h-2,C.K); }
+    rrect(e.x,e.y,e.w,e.h,3,C.W,off?C.G:C.K);
+    text(d.act.label,e.x+8,e.y+1,off?C.G:C.K);
+  }
+}
+
+// ---- other screens
+function drawTitle(){
+  rect(0,0,W,H,C.W); frame(5,5,W-10,H-10); frame(8,8,W-16,H-16,C.L);
+  const t='Antiquine', tw=measure(t,true)*3;
+  text(t,(W-tw)>>1,52,C.K,true,3);
+  const s='Princeton, 1977'; text(s,(W-measure(s))>>1,102,C.D);
+  box(170,134,44,28,C.W); line(170,134,192,150); line(213,134,192,150); box(203,137,7,8,C.L);
+  fillFn(173,163,44,2,chk(C.D,null));
+  const p='Tap anywhere to begin'; text(p,(W-measure(p))>>1,198,C.G);
+}
+function drawNotes(){
+  rect(0,16,W,208,C.W);
+  for(let y=40;y<224;y+=12) rect(0,y,W,1,C.P);
+  rect(26,16,1,208,C.L);
+  text('Things he has looked at',34,20,C.K,true);
+  const ids=ALL.filter(id=>S.seen.has(id));
+  const books=ALL.filter(id=>TEXT[id].book), nb=books.filter(id=>S.seen.has(id)).length;
+  const rows=ids.filter(id=>!TEXT[id].book).map(id=>TEXT[id].name);
+  if (nb) rows.unshift('Books, '+nb+' of '+books.filter(id=>id!=='antiquine').length);
+  const s=ids.length+' of '+ALL.length; text(s,W-10-measure(s),20,C.D);
+  if (!rows.length) text('Nothing yet.',34,31,C.G);
+  rows.forEach((n,i)=>text(n,34+Math.floor(i/16)*118,31+(i%16)*12));
+}
+
+// ---- render
+function render(){
+  use(ctx);
+  if (S.mode==='title'){ drawTitle(); readout(); return; }
+  if (S.mode==='walk'){ drawWalk(); readout(); return; }
+  if (S.mode==='end'){ drawEnd(); readout(); return; }
+  if (S.mode==='notes') { rect(0,0,W,H,C.W); drawNotes(); } else { ctx.drawImage(room(S.room).cv,0,0); if (S.room==='book') drawBookPage(); }
+  drawBar(); drawTray();
+  if (S.hover && !S.dialog && S.hover.name!=='') corners(S.hover);
+  if (S.dialog) drawDialog();
+  readout();
+}
+function readout(){
+  let head='', body='';
+  if (S.mode==='title'){ head='Antiquine'; body='Princeton, 1977. Tap the screen to begin.'; }
+  else if (S.mode==='walk'){ head='Antiquine'; body=WALK[S.walk]+' Tap to continue.'; }
+  else if (S.mode==='end'){ head='Antiquine'; body='Princeton, 1977. '+CODA+(S.resetArm?' Tap Start over again, or press R, to forget everything.':' Start over: press R twice.'); }
+  else if (S.dialog){
+    const d=S.dialog; head=TEXT[d.id].name; body=d.pages[d.page].replace(/\n/g,' ');
+    if (showAct(d)) body += ' Button: '+d.act.label+(d.act.off?', greyed out':'')+'. Press '+d.act.label[0]+'.';
+  }
+  else if (S.room==='book' && S.mode==='room'){ [head,body]=bookReadout(); }
+  else { head=LABEL[cur()]; body = S.mode==='notes' ? 'Things he has looked at.' : 'Tap anything to look at it.'; }
+  if (!S.dialog && S.mode!=='title' && S.mode!=='walk' && S.mode!=='end'){
+    const items=pocketItems();
+    if (items.length) body += ' In his pocket: '+items.map(it=>shortOf(it.id)).join(', ')+'. Press P to choose one.';
+    if (S.held) body += ' Holding the '+shortOf(S.held)+': tap something to use it on, or tap it again to put it away.';
+  }
+  const s=head+'|'+body;
+  if (ro.dataset.s!==s){ ro.dataset.s=s; ro.querySelector('b').textContent=head; ro.querySelector('span').textContent=body; }
+}
+
+// ---- actions
+function save(){ try{ localStorage.setItem('antiquine.v1', JSON.stringify({ seen:[...S.seen], room:S.room, book:S.book, flags:S.flags })); }catch(e){} }
+function openDialog(id,spot){
+  const t=TEXT[id]; if(!t) return;
+  S.seen.add(id); save();
+  const dyn = DYN[id] ? DYN[id]() : null;
+  let act = t.food ? { label:'Eat', off:true, refuse:t.refuse } : (dyn && dyn.act) || null;
+  if (ITEMS.includes(id)) act = { label:'Use', run(){ S.held=id; return null; } };
+  S.dialog={ id, spot, pages:(dyn && dyn.pages) || t.pages, page:0, act, used:false };
+}
+function useOn(item,target,spot){
+  const res=USE(item,target);
+  S.held=null;
+  if (res==null) return;
+  S.dialog={ id:target, spot, pages:Array.isArray(res)?res:[res], page:0, act:null, used:false };
+  save();
+}
+function pocketClick(it){
+  if (S.held===it.id) S.held=null;
+  else if (S.held) useOn(S.held,it.id,it);
+  else openDialog(it.id,it);
+}
+function go(to){
+  S.dialog=null; S.hover=null; S.kb=-1;
+  if (to==='notes') S.mode = S.mode==='notes' ? 'room' : 'notes';
+  else { S.mode='room'; S.room=to; }
+  save();
+  if (to==='book') arrive();
+}
+function spotAt(x,y){
+  if (S.mode!=='room') return null;
+  const sp=room(S.room).spots;
+  for(let i=sp.length-1;i>=0;i--) if(hit(sp[i],x,y)) return sp[i];
+  return null;
+}
+function activate(sp){
+  if (S.held) return useOn(S.held,sp.id,sp);
+  const t=TEXT[sp.id];
+  if (t.go){ S.seen.add(sp.id); go(t.go); } else openDialog(sp.id,sp);
+}
+function click(x,y){
+  if (S.mode==='title'){ S.mode = S.flags.ended ? 'end' : 'room'; render(); return; }
+  if (S.mode==='walk'){ if (++S.walk>=WALK.length){ S.mode='end'; S.flags.ended=true; save(); } render(); return; }
+  if (S.mode==='end'){
+    if (hit(START_R,x,y)){ if (S.resetArm) resetAll(); else S.resetArm=true; }
+    else S.resetArm=false;
+    render(); return;
+  }
+  if (S.dialog){
+    const d=S.dialog;
+    if (hit(d.actRect,x,y)){
+      const res = d.act.off ? [d.act.refuse || 'Nobody has tasted it.'] : d.act.run();
+      if (res==null) S.dialog=null; else { d.pages=res; d.used=true; d.page=0; }
+    }
+    else if (d.page < d.pages.length-1) d.page++;
+    else S.dialog=null;
+    render(); return;
+  }
+  if (hit(navRect(),x,y)){ go(navTarget()); render(); return; }
+  if (hit(helpRect(),x,y)){ openDialog('help',{x:0,y:0,w:16,h:15}); render(); return; }
+  if (y>=224){
+    const it=pocketItems().find(it=>hit(it,x,y)); if (it){ pocketClick(it); render(); return; }
+    if (hit(POCKET,x,y)){ S.held=null; render(); return; }
+    const t=TRAY.find(t=>x>=t.x && x<t.x+48); if(t){ go(t.to); render(); }
+    return;
+  }
+  if (S.room==='book' && S.mode==='room'){ bookClick(x,y); render(); return; }
+  const sp=spotAt(x,y); if(sp){ activate(sp); render(); }
+}
+function hoverAt(x,y){
+  if (S.mode==='title' || S.mode==='walk' || S.mode==='end' || S.dialog) return null;
+  if (hit(navRect(),x,y) || hit(helpRect(),x,y)) return { x:0,y:0,w:0,h:0,name:'' };
+  if (y>=224){
+    const it=pocketItems().find(it=>hit(it,x,y)); if (it) return it;
+    const t=TRAY.find(t=>x>=t.x && x<t.x+48); return t ? { x:t.x, y:228, w:48, h:25, name:LABEL[t.to], nav:true } : null;
+  }
+  if (S.room==='book' && S.mode==='room') return bookHover(x,y);
+  return spotAt(x,y);
+}
+
+// ---- input
+function toLogical(e){ const r=cv.getBoundingClientRect(); return [ Math.floor((e.clientX-r.left)*W/r.width), Math.floor((e.clientY-r.top)*H/r.height) ]; }
+cv.addEventListener('click', e=>{ const [x,y]=toLogical(e); click(x,y); S.hover=hoverAt(x,y); render(); });
+cv.addEventListener('pointermove', e=>{
+  if (e.pointerType==='touch') return;
+  const [x,y]=toLogical(e), h=hoverAt(x,y);
+  cv.style.cursor = h || S.mode==='title' || S.mode==='walk' || S.dialog || (S.mode==='end' && hit(START_R,x,y)) ? 'pointer' : 'default';
+  if (h!==S.hover && !(h && S.hover && h.name===S.hover.name && h.id===S.hover.id && h.x===S.hover.x && h.y===S.hover.y)){ S.hover=h; render(); }
+});
+cv.addEventListener('pointerleave', ()=>{ if(S.hover){ S.hover=null; render(); } });
+cv.addEventListener('keydown', e=>{
+  if (S.mode==='title' || S.mode==='walk'){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); click(0,0); } return; }
+  if (S.mode==='end'){ if (e.key==='r'||e.key==='R') click(START_R.x+1,START_R.y+1); return; }
+  if (S.dialog){
+    const d=S.dialog;
+    if (['Enter',' ','Escape'].includes(e.key)){ e.preventDefault(); if(e.key==='Escape') S.dialog=null; else click(-1,-1); render(); }
+    else if (d.actRect && e.key.toLowerCase()===d.act.label[0].toLowerCase()){ const r=d.actRect; click(r.x+1,r.y+1); }
+    return;
+  }
+  if (e.key==='Escape' && S.held){ S.held=null; render(); return; }
+  if (e.key==='p'){
+    const items=pocketItems(); if (!items.length) return;
+    S.pk=(S.pk+1)%items.length; S.hover=items[S.pk]; render(); return;
+  }
+  if ((e.key==='Enter'||e.key===' ') && S.hover && S.hover.pocket){ e.preventDefault(); pocketClick(S.hover); render(); return; }
+  if (S.room==='book' && S.mode==='room' && bookKey(e)){ e.preventDefault(); render(); return; }
+  const sp = S.mode==='room' ? room(S.room).spots : [];
+  if (['ArrowRight','ArrowDown','ArrowLeft','ArrowUp'].includes(e.key) && sp.length){
+    e.preventDefault();
+    const dir = (e.key==='ArrowRight'||e.key==='ArrowDown') ? 1 : -1;
+    S.kb = (S.kb + dir + sp.length) % sp.length; S.hover=sp[S.kb]; render();
+  } else if ((e.key==='Enter'||e.key===' ') && S.hover && S.hover.id && !S.hover.name){ e.preventDefault(); activate(S.hover); render(); }
+  else if (e.key==='n'){ go(navTarget()); render(); }
+});
+
+function resetAll(){
+  try{ localStorage.removeItem('antiquine.v1'); }catch(e){}
+  S.seen.clear(); S.book={ page:0, max:0, row:0, marks:{}, inputs:{} }; S.flags={ ...FLAGS0 };
+  S.room='study'; S.mode='title'; S.held=null; S.dialog=null; S.hover=null; S.walk=0; S.resetArm=false;
+  invalidate();
+}
+
+// ---- sizing
+function fit(){
+  const narrow = innerWidth < 620;
+  const availW = document.documentElement.clientWidth - 32 - (narrow ? 24 : 48);
+  const availH = innerHeight - (narrow ? 230 : 150);
+  let s = Math.min(availW/W, availH/H);
+  if (s >= 2) s = Math.floor(s);
+  s = Math.max(s, Math.min(1, availW/W));
+  cv.style.width = Math.round(W*s)+'px';
+  cv.style.height = Math.round(H*s)+'px';
+}
+addEventListener('resize', fit);
+
+// ---- boot
+function start(data){
+  let saved={};
+  try{ saved = JSON.parse(localStorage.getItem('antiquine.v1')||'{}') || {}; }catch(e){}
+  const src = (data && data.seen) ? data : saved;
+  (src.seen||[]).forEach(id=>S.seen.add(id));
+  if (src.room && DRAW[src.room]) S.room = src.room;
+  if (src.book && typeof src.book==='object') Object.assign(S.book, src.book);
+  if (src.flags && typeof src.flags==='object') Object.assign(S.flags, src.flags);
+  if (data && data.held && ITEMS.includes(data.held)) S.held = data.held;
+  if (data && data.mode && data.mode!=='title') S.mode = data.mode;
+  if (data && typeof data.walk==='number') S.walk = Math.min(data.walk, WALK.length-1);
+  invalidate(); fit(); render();
+}
+window.claude?.hot?.snapshot?.(()=>({ room:S.room, mode:S.mode, seen:[...S.seen], book:S.book, flags:S.flags, held:S.held, walk:S.walk }));
+window.claude?.hot?.ready ? window.claude.hot.ready(start) : start(window.claude?.hot?.data ?? {});
+</script>
+
+</body></html>
