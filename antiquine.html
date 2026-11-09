@@ -63,7 +63,7 @@ body{
   <canvas id="screen" width="384" height="256" tabindex="0" aria-label="Antiquine game screen. Arrow keys move between objects, Enter looks." aria-describedby="readout"></canvas>
 </div>
 <p id="readout" aria-live="polite"><b></b> <span></span></p>
-<p class="hint">Tap anything to look at it.<span class="keys"> Or use <kbd>←</kbd> <kbd>→</kbd> and <kbd>Enter</kbd>; <kbd>n</kbd> for the next room, <kbd>p</kbd> for the pocket.</span></p>
+<p class="hint">Tap anything to look at it.<span class="keys"> Or use <kbd>←</kbd> <kbd>→</kbd> and <kbd>Enter</kbd>; <kbd>n</kbd> for the next room, <kbd>p</kbd> for the pocket, <kbd>m</kbd> for sound.</span></p>
 <script>
 // font.js — a small proportional bitmap face in the Geneva/Chicago lineage.
 // Each glyph: "top row0 row1 ...". Cell is 11 rows: accents 0-1, caps 2-8, descenders 9-10.
@@ -1533,6 +1533,241 @@ function drawEnd(){
   rrect(START_R.x,START_R.y,lw,START_R.h,3,C.W,S.resetArm?C.K:C.G);
   text(label,START_R.x+8,START_R.y+1,S.resetArm?C.K:C.G);
 }
+// sound.js — the score. A small Web Audio sequencer in a 16-bit manner: FM bells, plucked
+// keyboards, pulse waves, strings, with an echo buffer and a room. Every piece is original.
+// Cues follow the acts: house, names, dark, numbers, vienna, proof, walk, end.
+const SND = { ctx:null, master:null, send:null, muted:false, players:[], cue:null, noise:null, w25:null, w12:null, timer:null };
+try { SND.muted = localStorage.getItem('antiquine.mute')==='1'; } catch(e){}
+const mtof = m => 440*Math.pow(2,(m-69)/12);
+const MAJ=[0,2,4,5,7,9,11], MIN=[0,2,3,5,7,8,10];
+const deg = (d,sc,root) => root + sc[((d%7)+7)%7] + 12*Math.floor(d/7);
+const NN = s => { const m=s.match(/^([A-G])(#|b)?(\d)$/); return 12*(+m[3]+1) + {C:0,D:2,E:4,F:5,G:7,A:9,B:11}[m[1]] + (m[2]==='#'?1:m[2]==='b'?-1:0); };
+
+/* ---------- the graph ---------- */
+function buildGraph(ctx){
+  const master=ctx.createGain(); master.gain.value=0.55;
+  const comp=ctx.createDynamicsCompressor(); comp.threshold.value=-14; comp.ratio.value=4;
+  master.connect(comp); comp.connect(ctx.destination);
+  const send=ctx.createGain(); send.gain.value=1;
+  const delay=ctx.createDelay(1), fb=ctx.createGain(), lp=ctx.createBiquadFilter(), eg=ctx.createGain();
+  delay.delayTime.value=0.31; fb.gain.value=0.32; lp.type='lowpass'; lp.frequency.value=2200; eg.gain.value=0.22;
+  send.connect(delay); delay.connect(lp); lp.connect(fb); fb.connect(delay); lp.connect(eg); eg.connect(master);
+  const n=Math.floor(ctx.sampleRate*2.4), ir=ctx.createBuffer(2,n,ctx.sampleRate);
+  for (let c=0;c<2;c++){ const d=ir.getChannelData(c); for (let i=0;i<n;i++) d[i]=(Math.random()*2-1)*Math.pow(1-i/n,3.2); }
+  const conv=ctx.createConvolver(), rg=ctx.createGain(); conv.buffer=ir; rg.gain.value=0.3;
+  send.connect(conv); conv.connect(rg); rg.connect(master);
+  const nb=ctx.createBuffer(1,ctx.sampleRate,ctx.sampleRate), nd=nb.getChannelData(0);
+  for (let i=0;i<nd.length;i++) nd[i]=Math.random()*2-1;
+  const pw=duty=>{ const N=48, re=new Float32Array(N), im=new Float32Array(N);
+    for (let k=1;k<N;k++) re[k]=(2/(k*Math.PI))*Math.sin(k*Math.PI*duty); return ctx.createPeriodicWave(re,im); };
+  Object.assign(SND,{ ctx, master, send, noise:nb, w25:pw(0.25), w12:pw(0.125) });
+}
+
+/* ---------- instruments: (frequency, time, seconds, velocity, output) ---------- */
+const env = (g,t,a,v,hold,rel) => { g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(v,t+a);
+  if (hold>t+a) g.gain.setValueAtTime(v,hold); g.gain.exponentialRampToValueAtTime(0.0001,Math.max(hold,t+a)+rel); };
+const INST = {
+  bell(f,t,d,v,o){ const c=SND.ctx, car=c.createOscillator(), mod=c.createOscillator(), mg=c.createGain(), g=c.createGain(), h=c.createOscillator(), hg=c.createGain();
+    car.frequency.value=f; mod.frequency.value=f*3.5; h.frequency.value=f*2;
+    mg.gain.setValueAtTime(f*1.6,t); mg.gain.exponentialRampToValueAtTime(f*0.04,t+0.7);
+    mod.connect(mg); mg.connect(car.frequency); car.connect(g); h.connect(hg); hg.connect(g); g.connect(o);
+    env(hg,t,0.003,0.25,t,0.5);
+    const len=Math.max(1.4,d*1.1); env(g,t,0.003,v,t,len);
+    for (const s of [car,mod,h]){ s.start(t); s.stop(t+len+0.1); } },
+  harp(f,t,d,v,o){ const c=SND.ctx, s=c.createOscillator(), q=c.createOscillator(), qg=c.createGain(), fl=c.createBiquadFilter(), g=c.createGain();
+    s.type='sawtooth'; q.type='square'; s.frequency.value=f; q.frequency.value=f*2; qg.gain.value=0.25;
+    fl.type='lowpass'; fl.Q.value=1.5; fl.frequency.setValueAtTime(Math.min(9000,f*9),t); fl.frequency.exponentialRampToValueAtTime(Math.max(400,f*1.6),t+0.45);
+    s.connect(fl); q.connect(qg); qg.connect(fl); fl.connect(g); g.connect(o);
+    const len=Math.min(1.3,d+0.5); env(g,t,0.003,v,t,len);
+    for (const x of [s,q]){ x.start(t); x.stop(t+len+0.1); } },
+  pulse25(f,t,d,v,o){ INST._pulse(f,t,d,v,o,SND.w25); },
+  pulse12(f,t,d,v,o){ INST._pulse(f,t,d,v,o,SND.w12); },
+  _pulse(f,t,d,v,o,w){ const c=SND.ctx, s=c.createOscillator(), g=c.createGain();
+    s.setPeriodicWave(w); s.frequency.value=f; s.connect(g); g.connect(o);
+    const end=t+Math.max(0.09,d*0.85); g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(v,t+0.005);
+    g.gain.exponentialRampToValueAtTime(v*0.55,t+0.08); g.gain.setValueAtTime(v*0.55,end); g.gain.exponentialRampToValueAtTime(0.0001,end+0.05);
+    s.start(t); s.stop(end+0.08); },
+  tri(f,t,d,v,o){ const c=SND.ctx, s=c.createOscillator(), g=c.createGain(); s.type='triangle'; s.frequency.value=f; s.connect(g); g.connect(o);
+    env(g,t,0.01,v,t+d*0.9,0.12); s.start(t); s.stop(t+d+0.2); },
+  pluck(f,t,d,v,o){ const c=SND.ctx, s=c.createOscillator(), g=c.createGain(); s.type='triangle'; s.frequency.value=f; s.connect(g); g.connect(o);
+    env(g,t,0.004,v,t,0.4); s.start(t); s.stop(t+0.5); },
+  violin(f,t,d,v,o){ const c=SND.ctx, g=c.createGain(), fl=c.createBiquadFilter(), lfo=c.createOscillator(), lg=c.createGain();
+    fl.type='lowpass'; fl.frequency.value=Math.min(4200,f*5); fl.Q.value=0.7;
+    lfo.frequency.value=5.4; lg.gain.setValueAtTime(0,t); lg.gain.linearRampToValueAtTime(f*0.007,t+0.35); lfo.connect(lg);
+    const os=[-6,6].map(cents=>{ const s=c.createOscillator(); s.type='sawtooth'; s.frequency.value=f; s.detune.value=cents; lg.connect(s.frequency); s.connect(fl); return s; });
+    fl.connect(g); g.connect(o); env(g,t,0.07,v,t+d,0.22);
+    for (const s of [...os,lfo]){ s.start(t); s.stop(t+d+0.3); } },
+  pad(f,t,d,v,o){ const c=SND.ctx, g=c.createGain(), fl=c.createBiquadFilter(); fl.type='lowpass'; fl.frequency.value=1100; fl.connect(g); g.connect(o);
+    const os=[-8,8].map(cents=>{ const s=c.createOscillator(); s.type='sawtooth'; s.frequency.value=f; s.detune.value=cents; s.connect(fl); return s; });
+    g.gain.setValueAtTime(0.0001,t); g.gain.linearRampToValueAtTime(v,t+0.6); g.gain.setValueAtTime(v,t+d); g.gain.linearRampToValueAtTime(0.0001,t+d+0.9);
+    for (const s of os){ s.start(t); s.stop(t+d+1); } },
+  drone(f,t,d,v,o){ const c=SND.ctx, g=c.createGain(), s=c.createOscillator(), s2=c.createOscillator(), g2=c.createGain();
+    s.frequency.value=f; s2.type='triangle'; s2.frequency.value=f*2.003; g2.gain.value=0.3; s.connect(g); s2.connect(g2); g2.connect(g); g.connect(o);
+    g.gain.setValueAtTime(0.0001,t); g.gain.linearRampToValueAtTime(v,t+1.4); g.gain.setValueAtTime(v,t+d-0.6); g.gain.linearRampToValueAtTime(0.0001,t+d+1);
+    for (const x of [s,s2]){ x.start(t); x.stop(t+d+1.1); } },
+  tick(f,t,d,v,o){ const c=SND.ctx, s=c.createBufferSource(), fl=c.createBiquadFilter(), g=c.createGain();
+    s.buffer=SND.noise; fl.type='bandpass'; fl.frequency.value=f; fl.Q.value=6; s.connect(fl); fl.connect(g); g.connect(o);
+    env(g,t,0.002,v,t,0.05); s.start(t,Math.random()*0.5); s.stop(t+0.08); },
+  shep(f,t,d,v,o){ const c=SND.ctx, g=c.createGain(), pc=((Math.log2(f/16.3516))%1+1)%1; g.connect(o);
+    g.gain.setValueAtTime(0.0001,t); g.gain.linearRampToValueAtTime(v,t+0.45); g.gain.setValueAtTime(v,t+d*0.7); g.gain.linearRampToValueAtTime(0.0001,t+d+0.8);
+    for (let k=2;k<=8;k++){ const fr=16.3516*Math.pow(2,k+pc), x=Math.log2(fr/392), w=Math.exp(-x*x/(2*0.95*0.95));
+      if (w<0.05) continue; const s=c.createOscillator(), sg=c.createGain(); s.frequency.value=fr; sg.gain.value=w*0.3;
+      s.connect(sg); sg.connect(g); s.start(t); s.stop(t+d+0.9); } }
+};
+
+/* ---------- the pieces ---------- */
+// The leitmotif: a waltz in scale degrees (D = 0), sixteen bars of 3/4. Heard in minor in the house,
+// in major from Vienna on, and in full on the walk.
+const THEME = [[7,2],[4,1],[2,2],[4,1],[3,1],[2,1],[1,1],[1,3],[8,2],[5,1],[3,2],[5,1],[4,1],[3,1],[2,1],[2,3],
+               [7,2],[6,1],[5,2],[4,1],[3,1],[5,1],[8,1],[7,3],[6,2],[5,1],[4,2],[3,1],[2,1],[1,1],[-1,1],[0,3]];
+const CHORDS = [0,0,4,4,1,1,4,0, 0,3,1,0,4,4,4,0];
+function theme(sc,root,inst,v,t0=0){ const ev=[]; let t=t0; for (const [d,len] of THEME){ ev.push({t,m:deg(d,sc,root),d:len,v,i:inst}); t+=len; } return ev; }
+function phrase(list,t0,inst,v,shift=0){ const ev=[]; let t=t0; for (const [n,len] of list){ if (n) ev.push({t,m:NN(n)+shift,d:len,v,i:inst}); t+=len; } return ev; }
+
+function songHouse(){
+  const ev=theme(MIN,74,'bell',0.2);
+  CHORDS.forEach((c,b)=>ev.push({t:b*3,m:deg(c,MIN,50),d:2.6,v:0.14,i:'tri'}));
+  return { bpm:72, loop:54, wet:0.7, ev };
+}
+function songVienna(){
+  const ev=theme(MAJ,74,'bell',0.2);
+  CHORDS.forEach((c,b)=>{ ev.push({t:b*3,m:deg(c,MAJ,50),d:0.9,v:0.14,i:'tri'});
+    for (const k of [1,2]) for (const x of [2,4]) ev.push({t:b*3+k,m:deg(c+x,MAJ,62),d:0.5,v:0.05,i:'pluck'}); });
+  return { bpm:90, loop:51, wet:0.6, ev };
+}
+function songWalk(){
+  const ev=[...theme(MAJ,74,'violin',0.12), ...theme(MAJ,74,'violin',0.12,48), ...theme(MAJ,86,'bell',0.08,48)];
+  for (let b=0;b<32;b++){ const c=CHORDS[b%16];
+    ev.push({t:b*3,m:deg(c,MAJ,38),d:0.9,v:0.2,i:'tri'});
+    for (const k of [1,2]) for (const x of [0,2,4]) ev.push({t:b*3+k,m:deg(c+x,MAJ,62),d:0.5,v:0.045,i:'pluck'}); }
+  return { bpm:132, loop:96, wet:0.5, ev };
+}
+function songEnd(){
+  const ev=theme(MAJ,74,'bell',0.17);
+  CHORDS.forEach((c,b)=>{ for (const x of [0,2,4]) ev.push({t:b*3,m:deg(c+x,MAJ,62),d:2.8,v:0.03,i:'pad'}); });
+  return { bpm:58, loop:57, wet:0.8, ev };
+}
+// Names: a round. Four phrases over Am | Dm | E | Am, so each fits under any other; the second voice
+// enters four bars late, an octave down, and the piece accompanies itself.
+function songNames(){
+  const R=[
+    [['A4',1],['C5',1],['E5',1],['C5',1],['D5',1],['F5',1],['A4',1],['D5',1],['E5',1],['B4',1],['G#4',1],['B4',1],['A4',2],['E4',1],['A4',1]],
+    [['E5',.5],['D5',.5],['C5',.5],['B4',.5],['A4',.5],['B4',.5],['C5',.5],['E5',.5],['F5',.5],['E5',.5],['D5',.5],['C5',.5],['D5',.5],['A4',.5],['F4',.5],['A4',.5],
+     ['G#4',.5],['A4',.5],['B4',.5],['C5',.5],['D5',.5],['C5',.5],['B4',.5],['G#4',.5],['A4',1],['C5',1],['B4',1],['A4',1]],
+    [['C5',4],['D5',2],['F5',2],['E5',2],['D5',2],['C5',4]],
+    [['A5',1],['E5',1],['A5',1],['E5',1],['F5',1],['D5',1],['A4',1],['D5',1],['B4',1],['E5',1],['G#5',1],['E5',1],['A5',2],['A4',2]]
+  ].flat();
+  const ev=phrase(R,0,'harp',0.13);
+  for (const e of phrase(R,0,'harp',0.11,-12)) ev.push({...e, t:(e.t+16)%64});
+  for (let b=0;b<16;b++) ev.push({t:b*4,m:[45,50,40,45][b%4],d:3.8,v:0.12,i:'tri'});
+  return { bpm:100, loop:64, wet:0.45, ev };
+}
+// Numbers: a crab canon. The chords are a palindrome, so the tune and the same tune backwards
+// can be played together. First alone, then with itself reversed underneath.
+function songNumbers(){
+  const M=[ 'A4 C5 E5 A5 G5 E5 C5 E5','F5 A5 C6 A5 F5 C5 A4 C5','E5 G5 C6 G5 E5 C5 G4 C5','D5 G5 B5 G5 D5 B4 G4 B4',
+            'B4 D5 G5 D5 B4 G4 D5 G5','C5 E5 G5 E5 C5 G4 E4 G4','A4 C5 F5 C5 A4 F4 A4 C5','E5 C5 A4 E4 A4 C5 E5 A5' ].join(' ').split(' ').map(n=>[n,0.5]);
+  const ev=[...phrase(M,0,'pulse25',0.07), ...phrase(M,32,'pulse25',0.07), ...phrase([...M].reverse(),32,'pulse12',0.055,-12)];
+  const roots=[45,41,48,43,43,48,41,45];
+  for (let b=0;b<16;b++) for (let k=0;k<8;k++) ev.push({t:b*4+k*0.5,m:roots[b%8]+(k%2?12:0),d:0.45,v:0.13,i:'tri'});
+  for (let k=0;k<128;k++) ev.push({t:k*0.5,m:k%2?100:96,d:0.1,v:k%2?0.025:0.045,i:'tick'});
+  return { bpm:120, loop:64, wet:0.35, ev };
+}
+// Proof: one long held breath. A low A, the dominant of D, pulses under chords that never land
+// (Asus4, A7, Bb over A, A7b9). A Shepard voice climbs A, C#, D, E and round again, an octave every
+// four bars, forever. The music box starts the waltz in D minor and, the second time, stops one note
+// short. The walk, in D major, is the resolution this has been waiting for.
+function songProof(){
+  const ev=[], CH=[[57,62,64],[57,61,64,67],[58,62,65],[55,61,64,70]];
+  for (let b=0;b<32;b++){ const t=b*3, c=b%4;
+    ev.push({t,m:45,d:0.8,v:0.16,i:'tri'}); ev.push({t:t+1,m:45,d:0.5,v:0.08,i:'tri'});
+    if (b>=16) ev.push({t:t+2,m:45,d:0.5,v:0.06,i:'tri'});          // the pulse quickens in the second half
+    for (const m of CH[c]) ev.push({t,m,d:2.8,v:0.026,i:'pad'});
+  }
+  // The climbing voice, in four-bar shapes. Every step goes up, every shape ends where the next can rise
+  // from, so it never stops climbing: plain (a), with passing notes (b), long and held (c), and urgent,
+  // two octaves in four bars (d). Entries are [bar, beat, pitch class]; all fall on chord tones of their bar.
+  const SHEP = {
+    a: [[0,0,9],[1,0,1],[2,0,2],[3,0,4]],
+    b: [[0,0,9],[0,2,11],[1,0,1],[1,2,4],[2,0,5],[3,0,7]],
+    c: [[0,0,9],[2,0,2],[3,0,4],[3,2,7]],
+    d: [[0,0,9],[0,2,2],[1,0,4],[1,2,7],[2,0,10],[2,2,2],[3,0,4],[3,2,7]]
+  };
+  const climb=[]; ['a','b','c','a','d','b','d','c'].forEach((g,k)=>SHEP[g].forEach(([bar,beat,pc])=>climb.push({t:(k*4+bar)*3+beat,pc})));
+  climb.forEach((n,i)=>{ const next = i+1<climb.length ? climb[i+1].t : 96; ev.push({t:n.t,m:60+n.pc,d:next-n.t+0.4,v:0.12,i:'shep'}); });
+  const A=[['D5',2],['A4',1],['F4',2],['A4',1],['G4',1],['F4',1],['E4',1],['E4',3]];
+  ev.push(...phrase(A,0,'bell',0.15));                                // the opening, whole
+  ev.push(...phrase(A.slice(0,6),24,'bell',0.15));                    // one note short
+  ev.push(...phrase([['E5',2],['Bb4',1],['G4',2],['Bb4',1],['A4',1],['G4',1],['F4',1],['F4',3]],48,'bell',0.15)); // a step higher, against the chords
+  ev.push(...phrase(A.slice(0,3),72,'bell',0.15));                    // barely begun
+  for (const t of [72,84]) ev.push({t,m:81,d:11.5,v:0.02,i:'pad'});   // a high A held over the last eight bars
+  return { bpm:66, loop:96, wet:0.85, ev };
+}
+// Dark: no tune. A drone, and the study clock.
+function songDark(){
+  const ev=[{t:0,m:38,d:8,v:0.13,i:'drone'},{t:0,m:45,d:8,v:0.05,i:'drone'}];
+  for (let k=0;k<8;k++) ev.push({t:k,m:k%2?91:96,d:0.1,v:0.07,i:'tick'});
+  return { bpm:60, loop:8, wet:0.6, ev };
+}
+const SONGS = {};
+for (const [k,f] of Object.entries({house:songHouse,vienna:songVienna,walk:songWalk,end:songEnd,names:songNames,numbers:songNumbers,proof:songProof,dark:songDark})){
+  const s=f(); s.ev.sort((a,b)=>a.t-b.t); SONGS[k]=s;
+}
+
+/* ---------- which act are we in ---------- */
+function musicCue(){
+  const f=S.flags;
+  if (S.mode==='walk') return 'walk';
+  if (S.mode==='end' || (S.mode==='title' && f.ended)) return 'end';
+  if (S.mode==='title') return 'house';
+  if (f.lamp==='dead') return 'dark';
+  if (f.door==='open') return 'end';
+  if (f.clasp==='open') return 'proof';
+  if (f.clasp!=='unseen') return 'vienna';
+  if (S.book.max>=P2) return 'numbers';
+  if (S.seen.has('antiquine')) return 'names';
+  return 'house';
+}
+
+/* ---------- the sequencer ---------- */
+function play(e,t,spb,out){ const fn=INST[e.i]; if (fn) fn(mtof(e.m),t,e.d*spb,e.v,out); }
+function startCue(name){
+  const c=SND.ctx, now=c.currentTime;
+  for (const p of SND.players) if (!p.stop){ p.stop=now; p.bus.gain.cancelScheduledValues(now); p.bus.gain.setValueAtTime(p.bus.gain.value,now); p.bus.gain.linearRampToValueAtTime(0,now+2); }
+  SND.cue=name; const song=SONGS[name]; if (!song) return;
+  const bus=c.createGain(), wet=c.createGain();
+  bus.gain.setValueAtTime(0,now); bus.gain.linearRampToValueAtTime(1,now+1.5);
+  wet.gain.value=song.wet; bus.connect(SND.master); bus.connect(wet); wet.connect(SND.send);
+  SND.players.push({ song, bus, start:now+0.1, idx:0, loop:0 });
+}
+function schedule(p,horizon){
+  const c=SND.ctx, s=p.song, spb=60/s.bpm;
+  for (let guard=0; guard<400; guard++){
+    const e=s.ev[p.idx], t=p.start+(p.loop*s.loop+e.t)*spb;
+    if (t>horizon) break;
+    if (t>=c.currentTime-0.02) play(e,t,spb,p.bus);
+    if (++p.idx>=s.ev.length){ p.idx=0; p.loop++; }
+  }
+}
+function soundTick(){
+  const c=SND.ctx; if (!c || c.state!=='running') return;
+  const want=musicCue(); if (want!==SND.cue) startCue(want);
+  SND.players=SND.players.filter(p=>{ if (p.stop && c.currentTime>p.stop+2.5){ p.bus.disconnect(); return false; } return true; });
+  for (const p of SND.players) if (!p.stop) schedule(p,c.currentTime+0.2);
+}
+function audioInit(){
+  if (SND.muted) return;
+  if (SND.ctx){ if (SND.ctx.state==='suspended') SND.ctx.resume(); return; }
+  const AC=window.AudioContext||window.webkitAudioContext; if (!AC) return;
+  try { buildGraph(new AC()); } catch(e){ SND.ctx=null; return; }
+  SND.timer=setInterval(soundTick,30);
+}
+function toggleMute(){
+  SND.muted=!SND.muted;
+  try { localStorage.setItem('antiquine.mute',SND.muted?'1':'0'); } catch(e){}
+  if (SND.muted){ if (SND.ctx) SND.ctx.suspend(); } else audioInit();
+}
+document.addEventListener('visibilitychange',()=>{ if (!SND.ctx) return; if (document.hidden) SND.ctx.suspend(); else if (!SND.muted) SND.ctx.resume(); });
 // main.js — screen, chrome, balloons, pocket, input.
 const cv = document.getElementById('screen');
 const ctx = cv.getContext('2d');
@@ -1555,6 +1790,8 @@ const HELP = [
 const HAND = [
   '..kkkkk.......', '.kwwwwwkkkkkkk', 'kwwwwwwwwwwwwk', 'kwwwwwkkkkkkk.',
   'kwwwwwwwk.....', 'kwwwwwkk......', 'kwwwwwwk......', '.kkkkkk.......' ];
+const SPK_ON  = [ '...k......', '..kk...k..', 'kkkk.k..k.', 'kwwk..k.k.', 'kwwk..k.k.', 'kkkk.k..k.', '..kk...k..', '...k......' ];
+const SPK_OFF = [ '...k......', '..kk......', 'kkkk.k...k', 'kwwk..k.k.', 'kwwk...k..', 'kkkk..k.k.', '..kk.k...k', '...k......' ];
 const ITEM_SPR = {
   bulb: [ '..kkkkk..', '.kwwwwwk.', 'kwwwwwwwk', 'kwwwwwwwk', 'kwwkwkwwk', 'kwwwkwwwk', '.kwwkwwk.',
           '..kwkwk..', '..kkkkk..', '..kgggk..', '..kkkkk..', '..kgggk..', '...kkk...' ],
@@ -1596,12 +1833,14 @@ const pocketItems = () => ITEMS.filter(id=>IN_POCKET[id](S.flags))
 
 // ---- chrome
 function navRect(){ const t=LABEL[navTarget()]; const tw=measure(t); return { x:W-6-tw-18, y:0, w:tw+24, h:15, name:'' }; }
+function soundRect(){ const n=navRect(); return { x:n.x-18, y:0, w:14, h:15, name: SND.muted ? 'Sound off' : 'Sound on' }; }
 function helpRect(){ return { x:0, y:0, w:22+measure(LABEL[cur()],true), h:15, name:'' }; }
 function drawBar(){
   rect(0,0,W,15,C.W); rect(0,15,W,1,C.K);
   spr(HELP,3,2); text(LABEL[cur()],18,2,C.K,true);
   const t=LABEL[navTarget()], tw=measure(t);
   text(t,W-6-tw,2); spr(HAND,W-6-tw-18,4);
+  const sr=soundRect(); spr(SND.muted?SPK_OFF:SPK_ON,sr.x+2,4);
   if (S.dialog) return;
   const h=S.hover; let mid='';
   if (S.held){
@@ -1685,7 +1924,8 @@ function drawTitle(){
   const s='Princeton, 1977'; text(s,(W-measure(s))>>1,102,C.D);
   box(170,134,44,28,C.W); line(170,134,192,150); line(213,134,192,150); box(203,137,7,8,C.L);
   fillFn(173,163,44,2,chk(C.D,null));
-  const p='Tap anywhere to begin'; text(p,(W-measure(p))>>1,198,C.G);
+  const p='Tap anywhere to begin'; text(p,(W-measure(p))>>1,192,C.G);
+  const q=SND.muted ? 'Sound is off. Press M to turn it on.' : 'With sound. Press M to mute.'; text(q,(W-measure(q))>>1,208,C.L);
 }
 function drawNotes(){
   rect(0,16,W,208,C.W);
@@ -1791,6 +2031,7 @@ function click(x,y){
     else S.dialog=null;
     render(); return;
   }
+  if (hit(soundRect(),x,y)){ toggleMute(); render(); return; }
   if (hit(navRect(),x,y)){ go(navTarget()); render(); return; }
   if (hit(helpRect(),x,y)){ openDialog('help',{x:0,y:0,w:16,h:15}); render(); return; }
   if (y>=224){
@@ -1804,6 +2045,7 @@ function click(x,y){
 }
 function hoverAt(x,y){
   if (S.mode==='title' || S.mode==='walk' || S.mode==='end' || S.dialog) return null;
+  if (hit(soundRect(),x,y)) return soundRect();
   if (hit(navRect(),x,y) || hit(helpRect(),x,y)) return { x:0,y:0,w:0,h:0,name:'' };
   if (y>=224){
     const it=pocketItems().find(it=>hit(it,x,y)); if (it) return it;
@@ -1815,7 +2057,7 @@ function hoverAt(x,y){
 
 // ---- input
 function toLogical(e){ const r=cv.getBoundingClientRect(); return [ Math.floor((e.clientX-r.left)*W/r.width), Math.floor((e.clientY-r.top)*H/r.height) ]; }
-cv.addEventListener('click', e=>{ const [x,y]=toLogical(e); click(x,y); S.hover=hoverAt(x,y); render(); });
+cv.addEventListener('click', e=>{ audioInit(); const [x,y]=toLogical(e); click(x,y); S.hover=hoverAt(x,y); render(); });
 cv.addEventListener('pointermove', e=>{
   if (e.pointerType==='touch') return;
   const [x,y]=toLogical(e), h=hoverAt(x,y);
@@ -1824,6 +2066,8 @@ cv.addEventListener('pointermove', e=>{
 });
 cv.addEventListener('pointerleave', ()=>{ if(S.hover){ S.hover=null; render(); } });
 cv.addEventListener('keydown', e=>{
+  if (e.key==='m'||e.key==='M'){ toggleMute(); render(); return; }
+  audioInit();
   if (S.mode==='title' || S.mode==='walk'){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); click(0,0); } return; }
   if (S.mode==='end'){ if (e.key==='r'||e.key==='R') click(START_R.x+1,START_R.y+1); return; }
   if (S.dialog){
