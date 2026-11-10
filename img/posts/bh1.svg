@@ -68,14 +68,14 @@
     <text
        xml:space="preserve"
        style="font-size:10.679px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
-       x="81.52729"
-       y="123.98193"
+       x="81.924263"
+       y="138.27295"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
-         x="81.52729"
-         y="123.98193">B</tspan></text>
+         x="81.924263"
+         y="138.27295">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.679px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
@@ -203,18 +203,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.679px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
-       x="81.52729"
+       x="93.634949"
        y="143.01965"
        id="text20"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo';fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
-         x="81.52729"
+         x="93.634949"
          y="143.01965"
          id="tspan21">ℓ</tspan></text>
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0485944;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle22"
-       cx="81.755676"
+       cx="93.863335"
        cy="145.2485"
        r="1.3798523" />
   </g>
