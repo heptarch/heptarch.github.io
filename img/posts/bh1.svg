@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.97216386"
-     inkscape:cx="238.6429"
-     inkscape:cy="206.24095"
+     inkscape:zoom="2.6660116"
+     inkscape:cx="166.16582"
+     inkscape:cy="177.60613"
      inkscape:window-width="1824"
      inkscape:window-height="1246"
      inkscape:window-x="0"
@@ -60,7 +60,7 @@
      id="layer1"
      transform="translate(-47.793078,-89.471123)">
     <circle
-       style="fill:#929292;fill-opacity:1;stroke:#fdfdfd;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#929292;fill-opacity:1;stroke:#ffffff;stroke-width:0.75;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1"
        cx="81.715797"
        cy="134.65076"
@@ -69,13 +69,13 @@
        xml:space="preserve"
        style="font-size:10.679px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
        x="81.52729"
-       y="138.1342"
+       y="123.98193"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
          x="81.52729"
-         y="138.1342">B</tspan></text>
+         y="123.98193">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10.679px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
@@ -200,5 +200,22 @@
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
          x="156.08376"
          y="110.91827">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.679px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
+       x="81.52729"
+       y="143.01965"
+       id="text20"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo';fill:#ffffff;fill-opacity:1;stroke-width:0.0667435"
+         x="81.52729"
+         y="143.01965"
+         id="tspan21">ℓ</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0485944;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle22"
+       cx="81.755676"
+       cy="145.2485"
+       r="1.3798523" />
   </g>
 </svg>
