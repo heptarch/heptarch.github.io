@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="1.577815"
-     inkscape:cx="336.54135"
-     inkscape:cy="135.6306"
+     inkscape:cx="340.34408"
+     inkscape:cy="148.30636"
      inkscape:window-width="1856"
      inkscape:window-height="1257"
      inkscape:window-x="0"
@@ -1979,12 +1979,14 @@
   <g
      fill="rgb(4.31366%, 4.31366%, 4.31366%)"
      fill-opacity="1"
-     id="g226">
+     id="g226"
+     style="fill:#ffffff;fill-opacity:1">
     <use
        xlink:href="#glyph-4-2"
        x="15.91875"
        y="124.604121"
-       id="use226" />
+       id="use226"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      fill="rgb(4.31366%, 4.31366%, 4.31366%)"
