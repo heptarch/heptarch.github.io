@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="0.52322055"
-     inkscape:cx="475.89874"
-     inkscape:cy="134.74241"
+     inkscape:zoom="0.47592102"
+     inkscape:cx="474.86871"
+     inkscape:cy="133.4255"
      inkscape:window-width="1200"
      inkscape:window-height="1186"
      inkscape:window-x="0"
@@ -931,9 +931,9 @@
   </defs>
   <path
      fill-rule="nonzero"
-     fill="rgb(100%, 100%, 100%)"
+     fill="#ffffff"
      fill-opacity="1"
-     d="M 0 203.53125 L 715.160156 203.53125 L 715.160156 0 L 0 0 Z M 0 203.53125 "
+     d="M 0,428.53125 H 715.16016 V 225 H 0 Z m 0,0"
      id="path143" />
   <path
      fill-rule="nonzero"
