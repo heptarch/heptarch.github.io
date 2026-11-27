@@ -238,24 +238,29 @@ other humans, or available from experience.
 This is not to detract from AI; I am a
 [[https://heptar.ch/][thoughtful enthusiast]] about the use of the technology.
 But there should remain a space for exclusively human science, not
-necessarily because this is best for science in some objective sense,
-but because it is best for human understanding and, relatedly, human flourishing.
+necessarily because this is best for science,
+but because it is best for human understanding and hence human flourishing.
 
-So, onto the prerequisites. This book assumes some pre-calculus
-mathematics and basic exposure to science:
+So, onto the prerequisites. I consider this book "hard" popular
+science in the sense that it assumes some basic pre-calculus
+mathematics:
 - /High school algebra:/ index laws, how to isolate
-  variables, and how to solve simultaneous linear equations;
+  variables, solve simultaneous linear equations, scientific notation;
 - /Trigonometry:/ the definition of sine, cosine and
   tangent, special triangles, and the relation between trigonometric
-  functions and the unit circle;
-- /Physics:/ scientific notation, one-dimensional kinematics, kinetic
-  and potential energy, basic rotational motion.
+  functions and the unit circle.
 
-We will introduce other mathematical notions as needed. In fact, even some of
-this prerequsite material will be revised as we go through, so the
-main requirement for reading this book is curiosity and a willingness
-to learn. Everything else is a bonus.
-* TODO Dimensional analysis
+Some of this background material will be reviewed as
+needed. Thus, the main requirements are curiosity, a willingness to
+learn new things, and a willingness to revise old things (if
+necessary). Anything else is a bonus.
+
+* COMMENT TODO Energy
+-----
+** Kinetic energy
+** Potential energy
+** Counting blocks
+* COMMENT TODO Dimensional analysis
 -----
 ** Dimensional algebra
 ** Checking and finding answers
@@ -267,8 +272,9 @@ to learn. Everything else is a bonus.
 * COMMENT TODO Fermi estimates
 * COMMENT TODO Random walks
 * COMMENT TODO Thermodynamics
-* COMMENT TODO Gravity
+* COMMENT TODO Quantum mechanics
 * COMMENT TODO Relativity
+* COMMENT TODO Gravity
 * COMMENT TODO Black holes
 * COMMENT TODO White dwarfs
 * COMMENT TODO Cosmology
