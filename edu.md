@@ -32,7 +32,7 @@ Material for a book about “hacking”<label for="sn-1"
 </div>
   </summary>
   <p>
-Find the draft of the book [here](hacker/intro)
+Find the draft of the book <a href="https://heptar.ch/hacker/intro">here</a>!
   </p>
 </details>
 </div>
@@ -57,7 +57,8 @@ grey; line-height:1.5; border-radius: 15px">
 </div>
   </summary>
   <p>
-In the works!
+  1. <a href="https://www.youtube.com/watch?v=7n469OHQP4U">A Hacker's
+  Guide to the Universe</a>
   </p>
 </details>
 </div>
