@@ -250,13 +250,74 @@ mathematics:
   tangent, special triangles, and the relation between trigonometric
   functions and the unit circle.
 
-Some of this background material will be reviewed as
-needed. Thus, the main requirements are curiosity, a willingness to
+We will not shy away from mathematics, and introduce new tools as
+needed. But the main requirements are curiosity, a willingness to
 learn new things, and a willingness to revise old things (if
 necessary). Anything else is a bonus.
 
-* COMMENT TODO Energy
+Finally, each chapter ends with exercises. I have tried to make the main text
+independent of these, and some are on the more challenging end of the spectrum, but they are the best
+way to ensure you have grokked the techniques. As an inducement, they contain some of the best
+material in the book. An answer key is forthcoming.
+
+* TODO Energy
 -----
+In his famous Caltech lectures, Feynman tells the following fable:
+
+@@html:<div style="margin: 20px 0px">
+<span style="padding-left: 40px; display:block">
+<p>Imagine a child... who has blocks which are absolutely indestructible,
+and cannot be divided into pieces. Each is the same
+as the other. Let us suppose that he has 28 blocks.
+His mother puts him with his 28 blocks into a room
+at the beginning of the day. At the end of the day,
+being curious, she counts the blocks very carefully, and
+discovers a phenomenal law—no matter what he does
+with the blocks, there are always 28 remaining!</p>
+</span>
+</div>@@
+
+He goes on to explain how the child interferes with the
+count, e.g. by placing the blocks in a locked chest. Although the
+observed total now decreases, the number of blocks plus the net weight
+of the chest—with an appropriate /conversion
+factor/ —is always $28$ at the end of the day.
+
+Feynman was not lecturing on paediatrics. He was talking about *energy*.
+Every arena of physics, from motion to gravity, thermodynamics to the
+quantum realm, has its analogous form, a thing which, after an
+appropriate conversion factor, is conserved once you add all the
+different forms up.
+So to say energy is conserved is /true by definition/.@@html:<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+<span class="sidenote">
+  Or rather, it's true as long as time is well-defined. In general
+relativity, Einstein's theory of gravity, time is more complicated and
+energy conservation can fail.
+</span>@@
+If it looks like energy /isn't/ conserved, it means there's a new form
+we've missed, a new way of hiding the blocks!
+In this respect, Nature resembles an ingenious and perhaps sadistic child.
+
+Feynman's analogy has two salient features.
+First, there is an /original form/ of energy, akin to the child's
+blocks. Historically speaking this is *kinetic energy*, and we'll get to it in a moment.
+The second salient feature is the conversion factor,
+essential to getting a conserved count no matter the disposition of
+blocks. For the locked chest, we must learn the weight of one
+block, no more and no less, since
+\[
+\text{number of blocks} = \frac{\text{net weight of chest}}{\text{weight of block}}.
+\]
+In general, conversion factors for energy teach us *physical
+constants*, numbers like the weight of a block that cannot be derived
+other than going into the world and doing experiments.
+These constants will be a crucial tool for us.
+
 ** Kinetic energy
 ** Potential energy
 ** Counting blocks
