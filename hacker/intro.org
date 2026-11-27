@@ -241,7 +241,7 @@ But there should remain a space for exclusively human science, not
 necessarily because this is best for science,
 but because it is best for human understanding and hence human flourishing.
 
-#+CAPTION: "Hard" popular science has modest prerequisites.
+#+CAPTION: "Hard" popular science with only modest prerequisites.
 #+ATTR_HTML: :alt books image :align center :width 400px :style display:inline;margin:0px;
 [[./img/books.jpg]]
 
