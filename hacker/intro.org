@@ -252,17 +252,17 @@ We will introduce other mathematical notions as needed. In fact, even some of
 this prerequsite material will be revised as we go through, so the
 main requirement for reading this book is curiosity and a willingness
 to learn. Everything else is a bonus.
-* TODO Dimensional analysis
-* TODO Fermi estimates
-* TODO Random walks
-* TODO Thermodynamics
-* TODO Gravity
-* TODO Relativity
-* TODO Black holes
-* TODO White dwarfs
-* TODO Cosmology
-* TODO Quantum gravity
-* TODO Physics of computation
+* COMMENT TODO Dimensional analysis
+* COMMENT TODO Fermi estimates
+* COMMENT TODO Random walks
+* COMMENT TODO Thermodynamics
+* COMMENT TODO Gravity
+* COMMENT TODO Relativity
+* COMMENT TODO Black holes
+* COMMENT TODO White dwarfs
+* COMMENT TODO Cosmology
+* COMMENT TODO Quantum gravity
+* COMMENT TODO Physics of computation
 * COMMENT html export
 #+CREATOR: 
 #+AUTHOR: 
