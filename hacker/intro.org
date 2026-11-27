@@ -242,27 +242,39 @@ necessarily because this is best for science,
 but because it is best for human understanding and hence human flourishing.
 
 So, onto the prerequisites. I consider this book "hard" popular
-science in the sense that it assumes some basic pre-calculus
-mathematics:
+science in the sense that it makes heavy use of pre-calculus mathematics:
 - /High school algebra:/ index laws, how to isolate
-  variables, solve simultaneous linear equations, scientific notation;
+  variables, solve simultaneous linear equations, quadratic equations,
+  scientific notation;
 - /Trigonometry:/ the definition of sine, cosine and
   tangent, special triangles, and the relation between trigonometric
   functions and the unit circle.
 
-We will not shy away from mathematics, and introduce new tools as
-needed. But the main requirements are curiosity, a willingness to
-learn new things, and a willingness to revise old things (if
-necessary). Anything else is a bonus.
+We will revise some of these topics, and introduce additional
+mathematics, as needed. The main requirements are therefore curiosity, a willingness to
+learn new things, and a willingness to revise old things where
+necessary. Anything else is a bonus.
 
 Finally, each chapter ends with exercises. I have tried to make the main text
-independent of these, and some are on the more challenging end of the spectrum, but they are the best
-way to ensure you have grokked the techniques. As an inducement, they contain some of the best
-material in the book. An answer key is forthcoming.
+independent of these, and some are on the challenging side, but they are the best
+way to become a physics hacker yourself. As an added motivation, they are designed to be independently
+interesting. In fact, I think they probably contain the best material in the book!@@html:<label for="sn-1"
+       class="margin-toggle sidenote-number">
+</label>
+<input type="checkbox"
+       id="sn-1"
+       class="margin-toggle"/>
+<span class="sidenote">
+An answer key is forthcoming.
+</span>@@ 
+Check them out if you want to learn more about tidal waves, nuclear
+explosions, bacterial genetics, space probes, clouds, stars, and
+running in the rain, to name a few highlights.
 
-* TODO Energy
+* Energy
 -----
-In his famous Caltech lectures, Feynman tells the following fable:
+** Counting blocks
+In his Caltech lectures, Feynman tells the following fable:
 
 @@html:<div style="margin: 20px 0px">
 <span style="padding-left: 40px; display:block">
@@ -280,14 +292,14 @@ with the blocks, there are always 28 remaining!</p>
 He goes on to explain how the child interferes with the
 count, e.g. by placing the blocks in a locked chest. Although the
 observed total now decreases, the number of blocks plus the net weight
-of the chest—with an appropriate /conversion
-factor/ —is always $28$ at the end of the day.
+of the chest—with an appropriate conversion
+factor—is always $28$ at the end of the day.
 
 Feynman was not lecturing on paediatrics. He was talking about *energy*.
-Every arena of physics, from motion to gravity, thermodynamics to the
-quantum realm, has its analogous form, a thing which, after an
-appropriate conversion factor, is conserved once you add all the
-different forms up.
+Every arena of physics, from motion to gravity, from thermodynamics to the
+quantum realm, has its analogous form, a thing which, after we figure
+out how to convert it, is conserved once you add all the
+different manifestations up.
 So to say energy is conserved is /true by definition/.@@html:<label for="sn-1"
        class="margin-toggle sidenote-number">
 </label>
@@ -299,28 +311,36 @@ So to say energy is conserved is /true by definition/.@@html:<label for="sn-1"
 relativity, Einstein's theory of gravity, time is more complicated and
 energy conservation can fail.
 </span>@@
-If it looks like energy /isn't/ conserved, it means there's a new form
-we've missed, a new way of hiding the blocks!
-In this respect, Nature resembles an ingenious and perhaps sadistic child.
+We can only identify that something plays the role of energy by conservation!
+And if we encounter a scenario where our known forms of energy /aren't/ conserved, it means there's a new form
+we've missed.
+In terms of Feynman's analogy, Nature resembles a particularly
+mischievous child who keeps figuring out new ways to hide the blocks.
 
 Feynman's analogy has two salient features.
-First, there is an /original form/ of energy, akin to the child's
-blocks. Historically speaking this is *kinetic energy*, and we'll get to it in a moment.
-The second salient feature is the conversion factor,
-essential to getting a conserved count no matter the disposition of
-blocks. For the locked chest, we must learn the weight of one
+First, there is an /original form/ of energy we use for bookkeeping,
+akin to the child's unconcealed blocks. Historically speaking this is *kinetic energy*, which we'll get to it in a moment.
+The second feature is the /conversion factor/, the rate that converts
+one form of energy to the bookkeeping form.
+For the locked chest, we must learn the weight of one
 block, no more and no less, since
 \[
 \text{number of blocks} = \frac{\text{net weight of chest}}{\text{weight of block}}.
 \]
-In general, conversion factors for energy teach us *physical
-constants*, numbers like the weight of a block that cannot be derived
-other than going into the world and doing experiments.
-These constants will be a crucial tool for us.
+If we use a different weight in the denominator, we will get a count which is not
+conserved however the blocks are disposed, since adding or subtracting
+a block will change right-hand side (RHS) by more or less than one.
+Identifying a new form of energy thus means finding a way to convert
+it to the bookkeeping form so that the total is (as far as we can tell)
+always conserved. As an equation in words:
+\[
+\text{energy total} = \text{bookkeeping energy} + \text{conversion factors} \cdot \text{other forms}.
+\]
+A tremendous amount of physics is stored in these conversion factors,
+as we'll see.
 
 ** Kinetic energy
-** Potential energy
-** Counting blocks
+** COMMENT Potential energy
 * COMMENT TODO Dimensional analysis
 -----
 ** Dimensional algebra
@@ -341,6 +361,11 @@ These constants will be a crucial tool for us.
 * COMMENT TODO Cosmology
 * COMMENT TODO Quantum gravity
 * COMMENT TODO Physics of computation
+* COMMENT Extra
+In general, conversion factors for energy teach us *physical
+constants*, numbers like the weight of a block that cannot be derived
+other than going into the world and doing experiments.
+These constants will be a crucial tool for us.
 * COMMENT html export
 #+CREATOR: 
 #+AUTHOR: 
