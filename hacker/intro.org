@@ -229,14 +229,14 @@ There is a secondary incentive.
 In an age where scientific achievement is becoming the province of
 frontier AI models, it is a small, humanistic act of rebellion to show
 people they can learn without a data centre, and by expending only
-the tokens of mental effort. Our computer will be a napkin, whose sole
-inputs experimental facts either discovered by
-other humans, or reasoned to from first principles ourselves.
+the tokens of mental effort. Our computer will be a napkin. The sole
+inputs will be experimental facts either discovered by
+other humans, or reasoned to from first principles.
 This is not to detract from AI; I am a
-[[https://heptar.ch/][thoughtful enthusiast]] about the uses of AI.
+[[https://heptar.ch/][thoughtful enthusiast]] about the use of the technology.
 But there should remain a space for exclusively human science, not
-necessarily because this is best for science, but because it is best
-for human understanding.
+necessarily because this is best for science in some objective sense,
+but because it is best for human understanding and, relatedly, human flourishing.
 
 So, onto the prerequisites. This book assumes some pre-calculus
 mathematics and basic exposure to science:
@@ -245,11 +245,24 @@ mathematics and basic exposure to science:
 - /Trigonometry:/ the definition of sine, cosine and
   tangent, special triangles, and the relation between trigonometric
   functions and the unit circle;
-- /Physics:/ scientific notation, one-dimensional kinematics, Newton's
-  universal law of gravitation, kinetic and potential energy, basic rotational motion.
+- /Physics:/ scientific notation, one-dimensional kinematics, kinetic
+  and potential energy, basic rotational motion.
 
-Everything else we will introduce as needed. Ready?
-
+We will introduce other mathematical notions as needed. In fact, even some of
+this prerequsite material will be revised as we go through, so the
+main requirement for reading this book is curiosity and a willingness
+to learn. Everything else is a bonus.
+* TODO Dimensional analysis
+* TODO Fermi estimates
+* TODO Random walks
+* TODO Thermodynamics
+* TODO Gravity
+* TODO Relativity
+* TODO Black holes
+* TODO White dwarfs
+* TODO Cosmology
+* TODO Quantum gravity
+* TODO Physics of computation
 * COMMENT html export
 #+CREATOR: 
 #+AUTHOR: 
