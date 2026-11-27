@@ -241,13 +241,17 @@ But there should remain a space for exclusively human science, not
 necessarily because this is best for science,
 but because it is best for human understanding and hence human flourishing.
 
+#+CAPTION: "Hard" popular science has modest prerequisites.
+#+ATTR_HTML: :alt books image :align center :width 400px :style display:inline;margin:0px;
+[[./img/books.jpg]]
+
 So, onto the prerequisites. I consider this book "hard" popular
 science in the sense that it makes heavy use of pre-calculus mathematics:
-- /High school algebra:/ index laws, how to isolate
-  variables, solve simultaneous linear equations, quadratic equations,
+- /High school algebra:/ index laws, isolating
+  variables, simultaneous linear equations, quadratic equations,
   scientific notation;
 - /Trigonometry:/ the definition of sine, cosine and
-  tangent, special triangles, and the relation between trigonometric
+  tangent, special triangles, the relation between trigonometric
   functions and the unit circle.
 
 We will revise some of these topics, and introduce additional
@@ -274,7 +278,7 @@ running in the rain, to name a few highlights.
 * Energy
 -----
 ** Counting blocks
-In his Caltech lectures, Feynman tells the following fable:
+In his [[https://www.feynmanlectures.caltech.edu/I_04.html][Caltech lectures]], Feynman tells the following fable:
 
 @@html:<div style="margin: 20px 0px">
 <span style="padding-left: 40px; display:block">
@@ -290,10 +294,14 @@ with the blocks, there are always 28 remaining!</p>
 </div>@@
 
 He goes on to explain how the child interferes with the
-count, e.g. by placing the blocks in a locked chest. Although the
+count, e.g. by placing the building blocks in a locked chest. Although the
 observed total now decreases, the number of blocks plus the net weight
 of the chest—with an appropriate conversion
 factor—is always $28$ at the end of the day.
+
+#+CAPTION: At the end of the day, the number of blocks doesn't change.
+#+ATTR_HTML: :alt blocks image :align center :width 350px :style display:inline;margin:0px;
+[[./img/blocks.jpg]]
 
 Feynman was not lecturing on paediatrics. He was talking about *energy*.
 Every arena of physics, from motion to gravity, from thermodynamics to the
@@ -308,7 +316,7 @@ So to say energy is conserved is /true by definition/.@@html:<label for="sn-1"
        class="margin-toggle"/>
 <span class="sidenote">
   Or rather, it's true as long as time is well-defined. In general
-relativity, Einstein's theory of gravity, time is more complicated and
+relativity, Einstein's theory of gravity, time is a bit more wibbly-wobbly and
 energy conservation can fail.
 </span>@@
 We can only identify that something plays the role of energy by conservation!
@@ -334,13 +342,26 @@ Identifying a new form of energy thus means finding a way to convert
 it to the bookkeeping form so that the total is (as far as we can tell)
 always conserved. As an equation in words:
 \[
-\text{energy total} = \text{bookkeeping energy} + \text{conversion factors} \cdot \text{other forms}.
+\text{energy total} = \text{bookkeeping energy} + \sum \text{conversion factor} \cdot \text{other form}.
 \]
-A tremendous amount of physics is stored in these conversion factors,
-as we'll see.
+Note that $\Sigma$ is an abbreviation for adding a bunch of things
+together. We will say more about this notation below.
 
-** Kinetic energy
+A tremendous amount of physics is stored in these conversion factors.
+In the same way the hidden block count requires that we learn the
+weight of an individual block, the rates tell us properties of the
+basic unit of energy.
+For instance, we will see below that raising a mass endows it with an energy
+proportional to the height raised; the constant of proportionality
+tells us the "height" of single unit of energy is about $10$ cm. Put
+differently, a single unit of bookkeeping energy—energy of motion—can
+be converted into raising a mass $10$ cm, in the same way a single
+block gets converted into its weight when we do the modified count.
+Physics is the story of different aspects of energy.
+
+** COMMENT Kinetic energy
 ** COMMENT Potential energy
+** COMMENT Force and work
 * COMMENT TODO Dimensional analysis
 -----
 ** Dimensional algebra
