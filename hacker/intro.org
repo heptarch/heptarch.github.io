@@ -1,3 +1,6 @@
+#+ATTR_HTML: :alt tetris image :align center :width 700px :style display:inline;margin:0px;
+[[./img/alchemy.jpg]]
+
 #+begin_right
 /See the sun in the day; watch the stars at night./ (A Zen Forest, 773)
 #+end_right
@@ -154,7 +157,7 @@ the plane that satisfy the inequality, with $x$ increasing to the left
 and $y$ increasing downwards, we find a dot-to-dot of Tupper’s formula itself!
 
 #+CAPTION: Tupper’s formula graphing itself.
-#+ATTR_HTML: :alt tupper image :align center :width 300px :style display:inline;margin:0px;
+#+ATTR_HTML: :alt tupper image :align center :width 400px :style display:inline;margin:0px;
 [[./img/tupper.png]]
 
 It would spoil the joke to explain how it works.@@html:<label for="sn-2"
@@ -252,7 +255,15 @@ We will introduce other mathematical notions as needed. In fact, even some of
 this prerequsite material will be revised as we go through, so the
 main requirement for reading this book is curiosity and a willingness
 to learn. Everything else is a bonus.
-* COMMENT TODO Dimensional analysis
+* TODO Dimensional analysis
+-----
+** Dimensional algebra
+** Checking and finding answers
+** Drag and drop
+** COMMENT Exercises
+*** Tsunamis
+*** Turbulence
+*** Trinity
 * COMMENT TODO Fermi estimates
 * COMMENT TODO Random walks
 * COMMENT TODO Thermodynamics
