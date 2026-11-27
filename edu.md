@@ -32,7 +32,7 @@ Material for a book about “hacking”<label for="sn-1"
 </div>
   </summary>
   <p>
-Details coming soon.
+Find the draft of the book [here](hacker/intro)
   </p>
 </details>
 </div>
@@ -57,7 +57,7 @@ grey; line-height:1.5; border-radius: 15px">
 </div>
   </summary>
   <p>
-Details coming soon.
+In the works!
   </p>
 </details>
 </div>
