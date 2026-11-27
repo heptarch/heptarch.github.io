@@ -231,7 +231,7 @@ frontier AI models, it is a small, humanistic act of rebellion to show
 people they can learn without a data centre, and by expending only
 the tokens of mental effort. Our computer will be a napkin. The sole
 inputs will be experimental facts either discovered by
-other humans, or reasoned to from common experience.
+other humans, or available from experience.
 This is not to detract from AI; I am a
 [[https://heptar.ch/][thoughtful enthusiast]] about the use of the technology.
 But there should remain a space for exclusively human science, not
